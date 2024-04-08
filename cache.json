@@ -246,7 +246,7 @@
     },
     {
       "title": "NHS England",
-      "feedUrl": "https://feeds.feedburner.com/NHSCBoard",
+      "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
@@ -519,6 +519,1208 @@
           "wordCount": 2013,
           "title": "How we created a roadmap for the NHS website",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2023/nhs-website-roadmap-blog-lead-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Transformation Blog Feed",
+      "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
+      "siteUrl": "https://digital.nhs.uk/",
+      "articles": [
+        {
+          "id": "6054a127-f5d3-408d-b4d1-5e3276363261",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Thasmim Ali describes the changes we’ve made to our digital service catalogue to make it easier for our stakeholders to find out and understand what national digital services are available for NHS staff and organisations to use.\n\r\n\r\nNHS England provides more than 100 national digital services for the NHS. They’re listed in the service catalogue on the NHS England Digital website.\n\r\n\r\nHowever, after speaking with digital leaders across the system, our ‘Who Does What’ programme team identified two important problems.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/how-were-transforming-our-digital-service-catalogue",
+          "publishedOn": "2024-03-13T10:08:05.000Z",
+          "wordCount": 1495,
+          "title": "How we’re transforming our digital service catalogue",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/thasmim-ali-service-catalogue-blog-image.jpg"
+        },
+        {
+          "id": "06c6e51a-a080-4517-9100-9b54a66ba9f4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "James Higgott, Lead Product Manager for the NHS website, talks about how his team is using a comprehensive roadmap to help them focus on outcomes, not outputs.\n\r\n\r\nWe recently published an update to the roadmap for the NHS website (nhs.uk). This describes what we will (and won’t) do to meet user needs and organisational goals on the UK’s biggest health website.\n\r\n\r\nPreviously, the roadmap we used internally was more like a Gantt chart than a true roadmap. Each item had a start and an end date and a description of the output, not the outcome.\n\r\n\r\nIn March 2023, we made significant changes to how we created and presented the roadmap. This is how we did it.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/how-we-created-a-roadmap-for-the-nhs-website",
+          "publishedOn": "2024-03-11T10:57:52.000Z",
+          "wordCount": 2013,
+          "title": "How we created a roadmap for the NHS website",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2023/nhs-website-roadmap-blog-lead-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Tech Talk Feed",
+      "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
+      "siteUrl": "https://digital.nhs.uk/",
+      "articles": [
+        {
+          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
+          "publishedOn": "2024-03-27T15:23:17.000Z",
+          "wordCount": 1402,
+          "title": "How we’re modernising electronic prescribing",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/tech-talk-blog/andy-harrison-blog-collage.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Inside Story Feed",
+      "feedUrl": "https://digital.nhs.uk/feed/inside-story-blog-feed.xml",
+      "siteUrl": "https://digital.nhs.uk/",
+      "articles": []
+    },
+    {
+      "title": "Data Points Blog Feed",
+      "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
+      "siteUrl": "https://digital.nhs.uk/",
+      "articles": [
+        {
+          "id": "43193d17-c8c4-4b14-a0d7-1c61be17c5f2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research",
+          "publishedOn": "2024-03-28T14:37:19.000Z",
+          "wordCount": 1221,
+          "title": "Putting people and partnership at the centre of clinical research",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/inclusive-design-lead-image.jpg"
+        },
+        {
+          "id": "e2eb9dab-1aa6-4b5a-b06b-5f51b160c88b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Reproducible analytical pipelines (RAP) help ensure all published statistics meet the highest standards of transparency and reproducibility. Sam Hollings and Alistair Bullward share their insights on adopting RAP and give advice to those starting out.\n\r\n\r\nReproducible analytical pipelines (RAP) are automated statistical and analytical processes that apply to data analysis. It’s a key part of national strategy and widely used in the civil service.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/why-were-getting-our-data-teams-to-rap",
+          "publishedOn": "2024-03-27T15:18:59.000Z",
+          "wordCount": 1991,
+          "title": "Why we’re getting our data teams to RAP",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/rap-blog-lead-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Design Matters Blog Feed",
+      "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
+      "siteUrl": "https://digital.nhs.uk/",
+      "articles": [
+        {
+          "id": "b83ceb8d-99f5-4b38-99ff-ade03fe1df5d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "User researcher Fern Williams describes how we created a new paper patient registration form to complement the online ‘Register with a GP surgery’ service, allowing everyone to have a consistent user experience and leaving no one digitally excluded.\n\r\n\r\nOne of the guiding principles of the ‘Register with a GP surgery’ service is to be accessible and inclusive to all. Though there is a shift towards digital to make registering with a GP surgery easier and more convenient for both patients and practice staff, we haven’t forgotten the importance of developing a paper registration form for those who prefer not to or can’t use a digital service.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2023/how-do-you-put-a-digital-service-on-paper",
+          "publishedOn": "2024-04-04T15:29:37.000Z",
+          "wordCount": 1902,
+          "title": "How do you put a digital service on paper?",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/fern-williams-lead-image-3.jpeg"
+        },
+        {
+          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
+          "publishedOn": "2024-03-27T15:21:13.000Z",
+          "wordCount": 1448,
+          "title": "We had to follow the data, not our users",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/data-user-research-blog-lead-image_1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Department of Health and Social Care - Activity on GOV.UK",
+      "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
+      "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/health-led-trials-impact-evaluation-reports",
+          "author": null,
+          "description": "Evaluation of time-limited provision of Individual Placement and Support for people with moderate to mild mental and physical health conditions in primary care.",
+          "link": "https://www.gov.uk/government/publications/health-led-trials-impact-evaluation-reports",
+          "publishedOn": "2024-04-08T14:36:02.000Z",
+          "wordCount": 1703,
+          "title": "Research: Health-led Trials impact evaluation reports",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-october-to-december-2023",
+          "author": null,
+          "description": "Data on gifts that ministers gave and received, their external meetings and any overseas travel.",
+          "link": "https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-october-to-december-2023",
+          "publishedOn": "2024-04-08T14:29:33.000Z",
+          "wordCount": 958,
+          "title": "Transparency data: DHSC: ministerial gifts, hospitality, travel and meetings, October to December 2023",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-january-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-january-2024",
+          "publishedOn": "2024-04-08T13:14:39.000Z",
+          "wordCount": 823,
+          "title": "Transparency data: DHSC: spending over £500, January 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "author": null,
+          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
+          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "publishedOn": "2024-04-08T12:08:49.000Z",
+          "wordCount": 2354,
+          "title": "Guidance: Child death overview panels: contacts",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-january-2024",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-january-2024",
+          "publishedOn": "2024-04-08T11:52:55.000Z",
+          "wordCount": 815,
+          "title": "Transparency data: DHSC: spending over £25,000, January 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
+          "author": null,
+          "description": "Register of nutrition and health claims that may be made in commercial communications in Great Britain.",
+          "link": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
+          "publishedOn": "2024-04-08T11:35:10.000Z",
+          "wordCount": 1100,
+          "title": "Guidance: Great Britain nutrition and health claims (NHC) register",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-training-and-development-fund",
+          "author": null,
+          "description": "Guidance for adult social care employers on the training funds reimbursement scheme.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-training-and-development-fund",
+          "publishedOn": "2024-04-08T10:30:03.000Z",
+          "wordCount": 1002,
+          "title": "Guidance: Adult Social Care Training and Development Fund",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/nhs-prescription-charges-from-1-may-2024",
+          "author": null,
+          "description": "Charges for NHS prescriptions, wigs and fabric supports will increase on 1 May 2024.",
+          "link": "https://www.gov.uk/government/news/nhs-prescription-charges-from-1-may-2024",
+          "publishedOn": "2024-04-05T10:18:10.000Z",
+          "wordCount": 1308,
+          "title": "News story: NHS prescription charges from 1 May 2024",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/660ea1d79f92ac001a516cb6/s960_pharmacy__1_.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "author": null,
+          "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
+          "link": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "publishedOn": "2024-04-05T08:24:18.000Z",
+          "wordCount": 1217,
+          "title": "Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/uk-donates-2-million-lifesaving-healthcare-package-to-ukraine",
+          "author": null,
+          "description": "Ventilators, oxygen concentrators, pumps and monitors among kit donated to Ukraine.",
+          "link": "https://www.gov.uk/government/news/uk-donates-2-million-lifesaving-healthcare-package-to-ukraine",
+          "publishedOn": "2024-04-04T23:00:00.000Z",
+          "wordCount": 1767,
+          "title": "Press release: UK donates £2 million lifesaving healthcare package to Ukraine",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/66101b09eb8a1b001105e284/s960_doctor_holding_intravenous_drip_IV.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/end-of-nhs-consultant-strike-action-as-government-offer-accepted",
+          "author": null,
+          "description": "Consultant unions have voted overwhelmingly in favour of the government's offer, with BMA and HCSA voting yes by around 83%.",
+          "link": "https://www.gov.uk/government/news/end-of-nhs-consultant-strike-action-as-government-offer-accepted",
+          "publishedOn": "2024-04-04T23:00:00.000Z",
+          "wordCount": 2023,
+          "title": "Press release: End of NHS consultant strike action as government offer accepted",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/660fe5a19f92ac001a516d4f/s960_two_staff_looking_at_computer.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2023-to-march-2024",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2023-to-march-2024",
+          "publishedOn": "2024-04-04T16:49:28.000Z",
+          "wordCount": 1050,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2023 to March 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
+          "author": null,
+          "description": "Guidance for adult social care providers to comply with information provisions under Section 277A of the Health and Social Care Act 2012.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
+          "publishedOn": "2024-04-04T15:41:05.000Z",
+          "wordCount": 1182,
+          "title": "Statutory guidance: Adult social care provider information provisions: data collection",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/life-sciences-vision-missions",
+          "author": null,
+          "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-vision-missions",
+          "publishedOn": "2024-04-04T13:04:20.000Z",
+          "wordCount": 989,
+          "title": "Notice: Life Sciences Vision Missions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2021-to-2022",
+          "author": null,
+          "description": "Official statistics on the bioscience and health technology sector 2021 to 2022.",
+          "link": "https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2021-to-2022",
+          "publishedOn": "2024-04-04T09:35:36.000Z",
+          "wordCount": 1466,
+          "title": "Official Statistics: Bioscience and health technology sector statistics 2021 to 2022",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/government-response-to-the-regulatory-horizons-council-report-on-neurotechnology",
+          "author": null,
+          "description": "Minister for Science, Research and Innovation and Minister of State for Health and Secondary Care have responded to recommendations made by the Regulatory Horizons Council on the regulation of neurotechnology.",
+          "link": "https://www.gov.uk/government/publications/government-response-to-the-regulatory-horizons-council-report-on-neurotechnology",
+          "publishedOn": "2024-04-04T08:35:17.000Z",
+          "wordCount": 936,
+          "title": "Policy paper: Government response to the Regulatory Horizons Council report on neurotechnology",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the data in its monthly reports.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology",
+          "publishedOn": "2024-04-04T08:30:02.000Z",
+          "wordCount": 1331,
+          "title": "Guidance: Adult social care in England statistics: background quality and methodology",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-april-2024",
+          "author": null,
+          "description": "Official statistics on a range of topics including occupancy, infection control measures and COVID-19 vaccinations in adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-april-2024",
+          "publishedOn": "2024-04-04T08:30:02.000Z",
+          "wordCount": 1132,
+          "title": "Official Statistics: Adult social care in England, monthly statistics: April 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/infant-and-follow-on-formula-and-food-for-special-medical-purposes",
+          "author": null,
+          "description": "Guidance on infant and follow-on formula, the application form for infant and follow-on formula made from protein hydrolysates, and forms to notify the authority.",
+          "link": "https://www.gov.uk/government/publications/infant-and-follow-on-formula-and-food-for-special-medical-purposes",
+          "publishedOn": "2024-04-03T08:27:11.000Z",
+          "wordCount": 1752,
+          "title": "Guidance: Infant and follow-on formula and food for special medical purposes",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2023-to-2024",
+          "author": null,
+          "description": "Mandatory annual reports and accounts guidelines for the Department of Health and Social Care (DHSC) group bodies.",
+          "link": "https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2023-to-2024",
+          "publishedOn": "2024-04-02T12:21:04.000Z",
+          "wordCount": 1082,
+          "title": "Guidance: DHSC group accounting manual 2023 to 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
+    },
+    {
+      "title": "Health Management and Policy Alert",
+      "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
+      "siteUrl": "https://kingsfund.blogs.com/health_management/",
+      "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/sustainability-reporting-in-the-nhs-202324-and-beyond.html",
+          "author": null,
+          "description": "Healthcare Financial Management Association - This briefing sets out the NHS environmental sustainability commitments and reporting requirements across the United Kingdom, what NHS organisations must report in 2023/24, along with good practice in sustainability reporting for NHS organisations in 2023/24 and beyond. It also looks ahead at future developments and the role of the finance function. Briefing More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/sustainability-reporting-in-the-nhs-202324-and-beyond.html",
+          "publishedOn": "2024-04-08T13:46:44.000Z",
+          "wordCount": null,
+          "title": "Sustainability reporting in the NHS 2023/24 and beyond",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/mid-cheshire-hospitals-nhs-foundation-trust-reimagines-their-work-experience-programme-.html",
+          "author": null,
+          "description": "NHS Employers - The trust recreated their work experience programme to have a virtual component that increased numbers and reduced impact on staff. Case study",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/mid-cheshire-hospitals-nhs-foundation-trust-reimagines-their-work-experience-programme-.html",
+          "publishedOn": "2024-04-08T13:33:17.000Z",
+          "wordCount": null,
+          "title": "Mid Cheshire Hospitals NHS Foundation Trust reimagines their work experience programme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/summary-of-nhs-england-board-meeting-28-march-2024.html",
+          "author": null,
+          "description": "NHS Providers - This briefing summarises the NHS England board meeting held on 28 March 2024. Briefing More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/summary-of-nhs-england-board-meeting-28-march-2024.html",
+          "publishedOn": "2024-04-08T13:28:22.000Z",
+          "wordCount": null,
+          "title": "Summary of NHS England board meeting: 28 March 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/the-rapidly-growing-waiting-lists-for-autism-and-adhd-assessments-.html",
+          "author": null,
+          "description": "Nuffield Trust - This analysis reveals what is happening to referrals for autism assessments and prescriptions for attention deficit hyperactivity disorder (ADHD) medication in England, and looks at what might lie behind any recent changes. It finds that since 2019 there has been a five-fold rise in people waiting to see an autism specialist, and a 51% increase in the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/the-rapidly-growing-waiting-lists-for-autism-and-adhd-assessments-.html",
+          "publishedOn": "2024-04-08T13:19:26.000Z",
+          "wordCount": null,
+          "title": "The rapidly growing waiting lists for autism and ADHD assessments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/finger-on-the-pulse-the-state-of-primary-care-in-the-us-and-nine-other-countries-.html",
+          "author": null,
+          "description": "Commonwealth Fund - This data briefing assesses the state of primary care in the United States and nine other countries, including the United Kingdom, from the patient and provider perspectives, looking at such measures as use of telehealth, preparedness to treat behavioral health conditions, care coordination, and more. Briefing",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/finger-on-the-pulse-the-state-of-primary-care-in-the-us-and-nine-other-countries-.html",
+          "publishedOn": "2024-04-03T10:02:06.000Z",
+          "wordCount": null,
+          "title": "Finger on the pulse: the state of primary care in the U.S. and nine other countries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/close-enough-to-care-a-new-structure-for-the-english-health-and-care-system-.html",
+          "author": null,
+          "description": "Reform - The paper argues that an overly centralised healthcare system is impeding the transition to a more preventative model of care, tailored to local population need. It sets out an alternative vision designed to align incentives in the system to prioritise health creation, reorient healthcare to focus on primary and community services, improve healthcare outcomes, and help achieve long-run...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/close-enough-to-care-a-new-structure-for-the-english-health-and-care-system-.html",
+          "publishedOn": "2024-04-02T16:44:43.000Z",
+          "wordCount": null,
+          "title": "Close enough to care: a new structure for the English health and care system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/202425-nhs-priorities-and-operational-planning-guidance-what-you-need-to-know.html",
+          "author": null,
+          "description": "NHS Confederation This briefing provides a summary and analysis of NHS England’s operational planning guidance and priorities for the service in 2024/25. Briefing",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/202425-nhs-priorities-and-operational-planning-guidance-what-you-need-to-know.html",
+          "publishedOn": "2024-04-02T11:08:26.000Z",
+          "wordCount": null,
+          "title": "2024/25 NHS priorities and operational planning guidance: what you need to know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/202425-priorities-and-operational-planning-guidance-1.html",
+          "author": null,
+          "description": "NHS England - The overall priority in 2024/25 remains the recovery of core services and productivity following the Covid-19 pandemic. Guidance More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/202425-priorities-and-operational-planning-guidance-1.html",
+          "publishedOn": "2024-04-02T10:50:19.000Z",
+          "wordCount": null,
+          "title": "2024/25 priorities and operational planning guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/202425-priorities-and-operational-planning-guidance.html",
+          "author": null,
+          "description": "NHS England - The overall priority in 2024/25 remains the recovery of core services and productivity following the Covid-19 pandemic. Guidance More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/202425-priorities-and-operational-planning-guidance.html",
+          "publishedOn": "2024-04-02T10:50:18.000Z",
+          "wordCount": null,
+          "title": "2024/25 priorities and operational planning guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/nhs-recovery-plan-one-year-on.html",
+          "author": null,
+          "description": "Royal College of Emergency Medicine - In January 2023, the Department for Health and NHS England published a delivery plan to recover emergency care services following the most challenging winter the NHS has ever faced. The premise of the plan was to improve waiting times and patient experience by increasing capacity, growing the workforce, improving discharge, expanding care outside hospitals,...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/nhs-recovery-plan-one-year-on.html",
+          "publishedOn": "2024-04-02T09:23:29.000Z",
+          "wordCount": null,
+          "title": "NHS recovery plan: one year on",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/long-waits-and-excess-deaths-.html",
+          "author": null,
+          "description": "Royal College of Emergency Medicine - The idea of emergency care services experiencing seasonal spikes in demand – so called ‘Winter Pressures’ are fast becoming a thing of the past. Instead, long waits have become the new norm year-round, and staff are caring for patients in unsafe conditions on a daily basis. It is well established that long waits are...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/long-waits-and-excess-deaths-.html",
+          "publishedOn": "2024-04-02T09:19:11.000Z",
+          "wordCount": null,
+          "title": "Long waits and excess deaths",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/03/the-importance-of-partnership-working-on-health-safety-and-wellbeing--1.html",
+          "author": null,
+          "description": "NHS Employers - This guidance aims to raise the importance of partnership working on health, safety and wellbeing issues and to encourage partnership working at a local level. It provides information on: why organisations should work in partnership on the health, safety and wellbeing agenda; the functions of a health and safety representative; what an effective health and safety committee...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/03/the-importance-of-partnership-working-on-health-safety-and-wellbeing--1.html",
+          "publishedOn": "2024-03-27T14:33:50.000Z",
+          "wordCount": null,
+          "title": "The importance of partnership working on health, safety and wellbeing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/03/the-importance-of-partnership-working-on-health-safety-and-wellbeing-.html",
+          "author": null,
+          "description": "NHS Employers - This guidance aims to raise the importance of partnership working on health, safety and wellbeing issues and to encourage partnership working at a local level. It provides information on: why organisations should work in partnership on the health, safety and wellbeing agenda; the functions of a health and safety representative; what an effective health and safety committee...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/03/the-importance-of-partnership-working-on-health-safety-and-wellbeing-.html",
+          "publishedOn": "2024-03-27T14:33:48.000Z",
+          "wordCount": null,
+          "title": "The importance of partnership working on health, safety and wellbeing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/03/briefing-on-three-recent-mental-health-publications.html",
+          "author": null,
+          "description": "NHS Providers - This briefing gives an overview of three mental health reports that were published on 21 March 2024: Government response to the rapid review into data on mental health inpatient settings; Government response to the Joint Committee on the draft Mental Health Bill; and the Care Quality Commission’s Monitoring the Mental Health Act in 2022/23 report. Briefing More...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/03/briefing-on-three-recent-mental-health-publications.html",
+          "publishedOn": "2024-03-27T14:07:51.000Z",
+          "wordCount": null,
+          "title": "Briefing on three recent mental health publications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/03/good-quality-regulation-how-cqc-can-support-trusts-to-deliver-and-improve.html",
+          "author": null,
+          "description": "NHS Providers - This report outlines key areas for improvement to enhance support and constructive engagement between the Care Quality Commission and NHS trusts. In response to feedback from trust leaders indicating declining confidence in the regulatory body, NHS Providers has conducted extensive research to identify the characteristics of effective quality and safety regulation. Report More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/03/good-quality-regulation-how-cqc-can-support-trusts-to-deliver-and-improve.html",
+          "publishedOn": "2024-03-27T13:54:09.000Z",
+          "wordCount": null,
+          "title": "Good quality regulation: how CQC can support trusts to deliver and improve",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "GP Online 2014 News RSS Feed",
+      "feedUrl": "http://www.gponline.com/rss/news",
+      "siteUrl": "https://www.gponline.comrss/news",
+      "articles": [
+        {
+          "id": "https://www.gponline.com/article/1867929",
+          "author": null,
+          "description": "BMA leaders have warned GP practices that physician associates (PAs) are 'not independent practitioners' and should be assessed individually to determine the safe scope of their role.",
+          "link": "https://www.gponline.com/physician-associates-not-independent-practitioners-bma-tells-gp-practices/article/1867929",
+          "publishedOn": "2024-04-08T10:20:28.000Z",
+          "wordCount": 880,
+          "title": "Physician associates are 'not independent practitioners', BMA tells GP practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_6.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867784",
+          "author": null,
+          "description": "A GP practice in Bristol has sent a letter to its patients telling them of its 'struggle to stay afloat’ and warning it could close because of rising costs and underfunding.",
+          "link": "https://www.gponline.com/practice-sends-letter-patients-warning-struggle-stay-afloat/article/1867784",
+          "publishedOn": "2024-04-05T11:29:49.000Z",
+          "wordCount": 899,
+          "title": "Practice sends letter to patients warning of 'struggle to stay afloat'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1432526141.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867764",
+          "author": null,
+          "description": "The BMA has accepted the government's updated offer on pay for consultants in England, bringing an end to strikes by senior hospital doctors.",
+          "link": "https://www.gponline.com/consultants-accept-updated-pay-offer-bringing-strikes-end/article/1867764",
+          "publishedOn": "2024-04-05T10:30:37.000Z",
+          "wordCount": 871,
+          "title": "Consultants accept updated pay offer bringing strikes to an end",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1702446793.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867654",
+          "author": null,
+          "description": "The GPonline team discusses the results of the BMA referendum on the GP contract and what happens next, and they look at whether general practice in England is shifting to a 'GP-lite' model as GPs struggle to find work.",
+          "link": "https://www.gponline.com/podcast-gps-reject-contract-referendum-plus-general-practice-moving-gp-lite-model/article/1867654",
+          "publishedOn": "2024-04-04T13:20:45.000Z",
+          "wordCount": 1317,
+          "title": "Podcast: GPs reject contract in referendum, plus is general practice moving to a ‘GP-lite’ model?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_958.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867641",
+          "author": null,
+          "description": "Almost six in ten practices are considering cutting back on the services they offer patients in the coming year amid concerns about how they will cope with another below-inflation uplift to the GP contract, a GPonline poll suggests.",
+          "link": "https://www.gponline.com/practices-weigh-cutting-services-staff-partner-drawings-coming-year/article/1867641",
+          "publishedOn": "2024-04-04T12:01:45.000Z",
+          "wordCount": 911,
+          "title": "Practices weigh up cutting services, staff and partner drawings in coming year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP_11.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867585",
+          "author": null,
+          "description": "More GMC complaints for 'minor concerns' that had no impact on patient care will be closed without an investigation, the regulator has said.",
+          "link": "https://www.gponline.com/gmc-changes-will-mean-fewer-investigations-minor-complaints/article/1867585",
+          "publishedOn": "2024-04-04T07:58:42.000Z",
+          "wordCount": 694,
+          "title": "GMC changes will mean fewer investigations for 'minor' complaints",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_33.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867523",
+          "author": null,
+          "description": "More than four in five GPs fear staff recruited through the additional roles reimbursement scheme (ARRS) are replacing doctors in general practice.",
+          "link": "https://www.gponline.com/four-five-gps-fear-arrs-staff-replacing-doctors-general-practice/article/1867523",
+          "publishedOn": "2024-04-03T13:55:27.000Z",
+          "wordCount": 712,
+          "title": "Four in five GPs fear ARRS staff are replacing doctors in general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1349580426.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867401",
+          "author": null,
+          "description": "General practice in England is seeing the emergence of a 'worrying new model' with fewer GPs and a growing share of appointments delivered by other staff, doctors' leaders have said. But what's the evidence, and what impact is it having?",
+          "link": "https://www.gponline.com/general-practice-england-moving-gp-lite-model/article/1867401",
+          "publishedOn": "2024-04-02T22:25:08.000Z",
+          "wordCount": 921,
+          "title": "Is general practice in England moving to a 'GP-lite' model?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_48.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867284",
+          "author": null,
+          "description": "The network contract DES for 2024/25 says physician associates can see undifferentiated patients with approval from a GP supervisor, despite BMA guidance warning this is unsafe.",
+          "link": "https://www.gponline.com/updated-pcn-contract-odds-bma-advice-physician-associate-role/article/1867284",
+          "publishedOn": "2024-04-02T10:56:55.000Z",
+          "wordCount": 712,
+          "title": "Updated PCN contract at odds with BMA advice on physician associate role",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_GettyImages-MikeKemp_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867163",
+          "author": null,
+          "description": "NHS England has closed its visa support service for GPs and practices in a move the RCGP fears could make it harder for thousands of newly qualified GPs to join the NHS workforce.",
+          "link": "https://www.gponline.com/nhs-england-scraps-visa-support-service-gps/article/1867163",
+          "publishedOn": "2024-03-28T17:59:59.000Z",
+          "wordCount": 710,
+          "title": "NHS England scraps visa support service for GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/visas_GettyImages-RichardBakerInPictures.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867162",
+          "author": null,
+          "description": "GPs have warned that practices are being 'overrun', after delivering 22% more appointments in February this year compared with the same month in 2019 - with 3% fewer GPs.",
+          "link": "https://www.gponline.com/overrun-practices-delivering-millions-appointments-fewer-gps/article/1867162",
+          "publishedOn": "2024-03-28T17:42:23.000Z",
+          "wordCount": 706,
+          "title": "'Overrun' practices delivering millions more appointments with fewer GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_47.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867138",
+          "author": null,
+          "description": "GPs have overwhelmingly rejected the 2024/25 GP contract for England and a GPonline poll suggests there is widespread support for industrial action in the coming year - but which forms of action would GPs back?",
+          "link": "https://www.gponline.com/forms-industrial-action-gps-prepared-take/article/1867138",
+          "publishedOn": "2024-03-28T16:24:34.000Z",
+          "wordCount": 741,
+          "title": "Which forms of industrial action would GPs be prepared to take?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867124",
+          "author": null,
+          "description": "Almost three-quarters of GPs are prepared to take industrial action in the coming year, a GPonline poll suggests.",
+          "link": "https://www.gponline.com/three-quarters-gps-prepared-industrial-action-poll-suggests/article/1867124",
+          "publishedOn": "2024-03-28T15:42:05.000Z",
+          "wordCount": 695,
+          "title": "Three quarters of GPs prepared to take industrial action, poll suggests",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-944882704_3.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867111",
+          "author": null,
+          "description": "GPs' overwhelming rejection of the 2024/25 contract in a BMA referendum shows the profession is 'at boiling point' after being bullied and gaslit for years, England's GP committee chair has warned.",
+          "link": "https://www.gponline.com/general-practice-at-boiling-point-years-bullying-bma-gp-chair-warns/article/1867111",
+          "publishedOn": "2024-03-28T15:17:50.000Z",
+          "wordCount": 736,
+          "title": "General practice 'at boiling point' after years of bullying, BMA GP chair warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_7.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867080",
+          "author": null,
+          "description": "The global sum payments per weighted patient that practices receive will rise to £107.57 under the 2024/25 GP contract in England.",
+          "link": "https://www.gponline.com/gp-core-funding-rise-284-per-weighted-patient-2024-25/article/1867080",
+          "publishedOn": "2024-03-28T12:28:18.000Z",
+          "wordCount": 704,
+          "title": "GP core funding to rise by £2.84 per weighted patient in 2024/25",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-740532487(1)(1).jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1867059",
+          "author": null,
+          "description": "Thousands of GPs have voted almost unanimously to reject the 2024/25 GP contract in a landmark referendum carried out by the BMA.",
+          "link": "https://www.gponline.com/gp-referendum-delivers-overwhelming-rejection-2024-25-contract/article/1867059",
+          "publishedOn": "2024-03-28T11:21:36.000Z",
+          "wordCount": 878,
+          "title": "GP referendum delivers overwhelming rejection of 2024/25 contract",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_5.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1866978",
+          "author": null,
+          "description": "GP practices have been 'starved of resources' to the point where they can no longer afford to pay 'willing and skilled GPs' to work, the BMA chair has said in remarks linking underfunding to falling patient satisfaction.",
+          "link": "https://www.gponline.com/practices-unable-afford-pay-willing-skilled-gps-work-warns-bma-chair/article/1866978",
+          "publishedOn": "2024-03-27T17:28:39.000Z",
+          "wordCount": 750,
+          "title": "Practices 'unable to afford to pay willing and skilled GPs to work', warns BMA chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/PhilBanfieldBMA_3.JPG"
+        },
+        {
+          "id": "https://www.gponline.com/article/1866767",
+          "author": null,
+          "description": "Dr Lucy Henshall and Penny Flack explain how their initiative Welcome Back To Work helps support GPs who have taken time away back into the workplace – and why we need a more flexible approach to GP retention at both a regional and national level.",
+          "link": "https://www.gponline.com/podcast-taking-different-approach-gp-retention/article/1866767",
+          "publishedOn": "2024-03-27T10:17:08.000Z",
+          "wordCount": 1273,
+          "title": "Podcast: Taking a different approach to GP retention",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_957.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1866271",
+          "author": null,
+          "description": "An LMC has said that an in-depth report it produced on the financial crisis facing practices in its area has played a key role in the ICB rowing back on planned cuts to local GP funding this year.",
+          "link": "https://www.gponline.com/icb-halts-possible-gp-funding-cuts-wake-high-profile-lmc-report/article/1866271",
+          "publishedOn": "2024-03-22T12:51:45.000Z",
+          "wordCount": 739,
+          "title": "ICB halts possible GP funding cuts in wake of high-profile LMC report",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-525272756.jpg"
+        }
+      ]
+    },
+    {
+      "title": "News (English) - World Health Organization",
+      "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
+      "siteUrl": "https://www.who.int/",
+      "articles": []
+    },
+    {
+      "title": "AI and Analytics – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/analytics/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=172859",
+          "author": "Cora Lydon",
+          "description": "The new Digital Health Advisory Services framework agreement from NHS Shared Business Services will help NHS teams plug workforce digital skills gaps.",
+          "link": "https://www.digitalhealth.net/2024/03/nhs-shared-business-services-helps-upskills-health-and-care-workforce/",
+          "publishedOn": "2024-03-29T12:00:21.000Z",
+          "wordCount": 1823,
+          "title": "NHS Shared Business Services helps upskills health and care workforce",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/skills-gap-NHS-Shared-Business-Services-1-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172569",
+          "author": "Cora Lydon",
+          "description": "AI company deepc has joined the King's Health Partners Digital Health Hub to help fledgling medtech AI companies navigate regulatory and data governance.",
+          "link": "https://www.digitalhealth.net/2024/03/deepc-joins-kings-health-partners-digital-health-hub/",
+          "publishedOn": "2024-03-25T13:30:36.000Z",
+          "wordCount": 1897,
+          "title": "deepc joins King’s Health Partners Digital Health Hub",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/deepc-joins-Kings-Health-2.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172047",
+          "author": "Cora Lydon",
+          "description": "Quantexa’s Decision Intelligence Platform will be used by the University of Liverpool’s Civic Health Innovation Labs and Mersey Care NHS FT for an AI hub.",
+          "link": "https://www.digitalhealth.net/2024/03/liverpool-to-gain-global-ai-hub-for-health-and-social-care/",
+          "publishedOn": "2024-03-20T11:00:16.000Z",
+          "wordCount": 1924,
+          "title": "Liverpool to gain global AI hub for health and social care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2020/11/Map-of-Liverpool.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172141",
+          "author": "Andrea Chipman",
+          "description": "The EU Parliament has approved an Artificial Intelligence Act that ensures safety and compliance with fundamental rights, while boosting innovation.",
+          "link": "https://www.digitalhealth.net/2024/03/eu-parliament-approves-wide-ranging-artificial-intelligence-act/",
+          "publishedOn": "2024-03-19T13:30:56.000Z",
+          "wordCount": 1943,
+          "title": "EU Parliament approves wide-ranging Artificial Intelligence act",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/shutterstock_317833073-1-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=171779",
+          "author": "Andrea Chipman",
+          "description": "The NHS is set to roll out artificial intelligence to reduce the number of missed appointments and free up staff time to reduce waiting times.",
+          "link": "https://www.digitalhealth.net/2024/03/nhs-expands-ai-to-help-tackle-missed-appointments-improve-wait-times/",
+          "publishedOn": "2024-03-14T16:03:17.000Z",
+          "wordCount": 2274,
+          "title": "NHS expands AI to help tackle missed appointments, improve wait times",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/07/waiting-list-DrDoctor-research-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=171449",
+          "author": "Andrea Chipman",
+          "description": "The increasing role of AI in the transformation of the health system will require a greater focus on the quality and relevance of underlying data.",
+          "link": "https://www.digitalhealth.net/2024/03/as-ai-develops-health-systems-need-to-focus-on-data-quality/",
+          "publishedOn": "2024-03-12T14:45:14.000Z",
+          "wordCount": 1870,
+          "title": "As AI develops, health systems need to focus on data quality",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/IMG_4912-1-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Clinical Software – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/clinical-software/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173079",
+          "author": "Cora Lydon",
+          "description": "An e-rostering platform from Patchwork Health is helping to streamline operations at North Cumbria Integrated Care NHS Foundation Trust.",
+          "link": "https://www.digitalhealth.net/2024/04/north-cumbria-introduces-patchwork-health-e-rostering/",
+          "publishedOn": "2024-04-05T12:30:26.000Z",
+          "wordCount": 1831,
+          "title": "North Cumbria introduces Patchwork Health e-rostering",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Dr-Adrian-Clements-North-Cumbria2.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172935",
+          "author": "Cora Lydon",
+          "description": "SilverCloud by Amwell now fully supports digital therapy in the NHS Talking Therapies, helping support patients with mental health issues.",
+          "link": "https://www.digitalhealth.net/2024/04/silvercloud-now-fully-supports-digital-therapy-in-nhs-talking-therapies/",
+          "publishedOn": "2024-04-04T07:30:23.000Z",
+          "wordCount": 1705,
+          "title": "SilverCloud now fully supports digital therapy in NHS Talking Therapies",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/06/Mental-Health.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173011",
+          "author": "Cora Lydon",
+          "description": "PacBio's Revio HiFi sequencing system is to be used to sequence the entire genomes of 10,000 participants of the Estonian Biobank.",
+          "link": "https://www.digitalhealth.net/2024/04/estonian-biobank-selects-pacbio-for-whole-genome-sequencing/",
+          "publishedOn": "2024-04-03T08:30:23.000Z",
+          "wordCount": 1874,
+          "title": "Estonian Biobank selects PacBio for whole genome sequencing",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/genomes-Estonian-Biobank-2-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172937",
+          "author": "Jordan Sollof",
+          "description": "Research has shown that Brainomix’s AI-powered e-Lung software can more accurately identify lung fibrosis patients most at risk of decline.",
+          "link": "https://www.digitalhealth.net/2024/04/brainomix-e-lung-better-identifies-lung-fibrosis-patients-at-risk-of-decline/",
+          "publishedOn": "2024-04-02T10:00:20.000Z",
+          "wordCount": 1869,
+          "title": "Brainomix e-Lung better identifies lung fibrosis patients at risk of decline",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2017/05/brainomix_devices_header.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172719",
+          "author": "Jordan Sollof",
+          "description": "The GEN-O application has proven its ability to revolution patient care and the genomic medicine landscape in the North West of England.",
+          "link": "https://www.digitalhealth.net/2024/03/gen-o-transforms-genomic-medicine-services-in-north-west-england/",
+          "publishedOn": "2024-03-28T11:00:54.000Z",
+          "wordCount": 1905,
+          "title": "GEN-O transforms genomic medicine services in North West England",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/genomics.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172807",
+          "author": "DHI",
+          "description": "The NHS Long Term Plan seeks to mainstream digitally-enabled care across all areas of the NHS. Not only will this enable true transformation of healthcare, but it will also play a key role in the delivery of the wider net zero agenda.",
+          "link": "https://www.digitalhealth.net/2024/03/driving-healthcare-innovation-with-both-patients-and-the-planet-at-heart/",
+          "publishedOn": "2024-03-27T14:38:02.000Z",
+          "wordCount": 2330,
+          "title": "Driving healthcare innovation with both patients and the planet at heart",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Stephen-McMillan-Philips.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172499",
+          "author": "Cora Lydon",
+          "description": "System C's critical care solution has been deployed at Jersey General Hospital as part of its plans to achieve digital maturity.",
+          "link": "https://www.digitalhealth.net/2024/03/jersey-general-hospital-goes-live-with-system-c-careflow/",
+          "publishedOn": "2024-03-22T13:30:27.000Z",
+          "wordCount": 1889,
+          "title": "Jersey General Hospital goes live with System C CareFlow",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/10/Jersey.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172443",
+          "author": "Cora Lydon",
+          "description": "An award-winning pilot project in Moray is using digital technology to empower local residents to take a proactive approach to their health and wellbeing.",
+          "link": "https://www.digitalhealth.net/2024/03/moray-health-tech-data-project-wins-up-and-coming-tec-innovation-award/",
+          "publishedOn": "2024-03-21T11:14:57.000Z",
+          "wordCount": 2076,
+          "title": "Moray health tech data project wins Up and Coming TEC Innovation award",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Simon-Bokor-Ingram-Simon-Bokor-Ingram-Chief-Officer-for-the-Moray-Health-and-Social-Care-Partnership-3.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172075",
+          "author": "Cora Lydon",
+          "description": "Working with CDW, Stockport NHS FT has implemented a number of new innovative tech solutions to drive digital transformation and improve patient outcomes.",
+          "link": "https://www.digitalhealth.net/2024/03/stockport-nhs-ft-undergoes-digital-transformation/",
+          "publishedOn": "2024-03-20T15:00:41.000Z",
+          "wordCount": 1803,
+          "title": "Stockport NHS FT undergoes digital transformation",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/CDW-tech-3.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=171605",
+          "author": "Cora Lydon",
+          "description": "The Bloomsbury Clinic, part of Central Camden PCN is using the LumenEye digital rectoscope to slash waiting times for bowel issues.",
+          "link": "https://www.digitalhealth.net/2024/03/central-camden-pcn-slashes-wait-times-with-lumineye-tech/",
+          "publishedOn": "2024-03-19T15:30:21.000Z",
+          "wordCount": 2038,
+          "title": "Central Camden PCN slashes wait times with LumenEye tech",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/waiting-list-Central-Camden-PCN-1-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cyber Security – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/cyber-security/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=172821",
+          "author": "Jordan Sollof",
+          "description": "NHS Dumfries and Galloway have confirmed that patient data has been released by a ransomware group, following an earlier cyber attack on its IT systems.",
+          "link": "https://www.digitalhealth.net/2024/03/ransomware-group-releases-nhs-dumfries-and-galloway-patient-data/",
+          "publishedOn": "2024-03-27T15:07:56.000Z",
+          "wordCount": 1884,
+          "title": "Ransomware group releases NHS Dumfries and Galloway patient data",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Ransomware.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172063",
+          "author": "Jordan Sollof",
+          "description": "NHS Dumfries and Galloway announced in a statement on Friday that it has been the target of a “focused and ongoing” cyber attack.",
+          "link": "https://www.digitalhealth.net/2024/03/nhs-dumfries-and-galloway-hit-by-focused-and-ongoing-cyber-attack/",
+          "publishedOn": "2024-03-18T15:46:31.000Z",
+          "wordCount": 1932,
+          "title": "NHS Dumfries and Galloway hit by “focused and ongoing” cyber attack",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2018/01/dumfries-galloway-royal-infirmary.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=171547",
+          "author": "Jordan Sollof",
+          "description": "Phil Huggins told the Rewired24 audience that we “need to take scapegoating out of cyber” and understand how cyber incidents happen and how things go wrong.",
+          "link": "https://www.digitalhealth.net/2024/03/we-need-to-take-scapegoating-out-of-cyber-says-phil-huggins/",
+          "publishedOn": "2024-03-13T09:00:33.000Z",
+          "wordCount": 1789,
+          "title": "We need to take scapegoating out of cyber says Phil Huggins",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Rewired-2024-Phil-Huggins.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Digital Patient – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/digital-patient/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173043",
+          "author": "Cora Lydon",
+          "description": "A new report from The Digital Coalition has has highlighted some of the limitations that users of the NHS App experience.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-coalition-report-highlights-limitations-of-nhs-app/",
+          "publishedOn": "2024-04-04T10:00:08.000Z",
+          "wordCount": 1916,
+          "title": "Digital Coalition report highlights limitations of NHS App",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/04/NHS-App.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172981",
+          "author": "Cora Lydon",
+          "description": "The Digital Lifelines programme in Scotland is supporting vulnerable people who may be at risk of drug-related harm by equipping them with digital devices.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-lifelines-support-vulnerable-people-in-scotland/",
+          "publishedOn": "2024-04-03T07:30:46.000Z",
+          "wordCount": 1859,
+          "title": "Digital Lifelines support vulnerable people in Scotland",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/digital-inclusion-digital-lifelines3.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172919",
+          "author": "Andrea Chipman",
+          "description": "More than 2.7 million people have already used a new prescription feature in the NHS App since its launch two months ago.",
+          "link": "https://www.digitalhealth.net/2024/03/more-than-2-7m-people-use-nhs-app-prescription-feature-in-first-2-months/",
+          "publishedOn": "2024-03-29T13:30:10.000Z",
+          "wordCount": 1989,
+          "title": "More than 2.7m people use NHS App prescription feature in first 2 months",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/04/NHS-App.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172871",
+          "author": "Cora Lydon",
+          "description": "Following early value assessments NICE has recommended three digital therapies that can be used to treat psychosis while more evidence is collected.",
+          "link": "https://www.digitalhealth.net/2024/03/nice-recommends-three-digital-therapies-for-psychosis/",
+          "publishedOn": "2024-03-28T14:00:02.000Z",
+          "wordCount": 1826,
+          "title": "NICE recommends three digital therapies for psychosis",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/digital-health-therapies-NICE-endorsement-1-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172631",
+          "author": "Cora Lydon",
+          "description": "Llanfairfechan’s Plas Menai Surgery in Wales has become the second site in the country to roll out the electronic prescription service for patients.",
+          "link": "https://www.digitalhealth.net/2024/03/wales-sees-second-site-roll-out-electronic-prescription-service/",
+          "publishedOn": "2024-03-27T11:00:56.000Z",
+          "wordCount": 1923,
+          "title": "Wales sees second site roll out electronic prescription service",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Wales-EPS2.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172615",
+          "author": "Cora Lydon",
+          "description": "NHS Dorset is calling for people to join its Digital Public Engagement Group and play their part in shaping digital health and care services for the future.",
+          "link": "https://www.digitalhealth.net/2024/03/nhs-dorset-wants-to-hear-from-patients-on-future-digital-health-services/",
+          "publishedOn": "2024-03-27T08:30:54.000Z",
+          "wordCount": 1765,
+          "title": "NHS Dorset wants to hear from patients on future digital health services",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Dorset-NHS-DPEG-3.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172621",
+          "author": "Andrea Chipman",
+          "description": "Roche has developed a continuous glucose monitor with predictive algorithms, allowing diabetes patients to more easily manage their conditions.",
+          "link": "https://www.digitalhealth.net/2024/03/roche-develops-continuous-glucose-monitor-with-predictive-algorithms/",
+          "publishedOn": "2024-03-26T08:30:16.000Z",
+          "wordCount": 2014,
+          "title": "Roche develops continuous glucose monitor with predictive algorithms",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Accu-ChekSmartGuideCGMSolution_Roche_photo-1-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172543",
+          "author": "Jordan Sollof",
+          "description": "Primary Care Networks using the Holly Health digital health and wellbeing coaching tool have seen a reduction in GP appointments.",
+          "link": "https://www.digitalhealth.net/2024/03/holly-health-digital-health-and-wellbeing-tool-reduces-gp-appointments/",
+          "publishedOn": "2024-03-25T08:30:19.000Z",
+          "wordCount": 1955,
+          "title": "Holly Health digital health and wellbeing tool reduces GP appointments",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/08/Holly-Health-app.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172375",
+          "author": "Jordan Sollof",
+          "description": "More than one million patients have used the national online ‘Register with a GP surgery’ service to register with a GP since its launch 18 months ago.",
+          "link": "https://www.digitalhealth.net/2024/03/online-gp-registrations-reach-one-million-since-launch-of-digital-service/",
+          "publishedOn": "2024-03-20T14:00:26.000Z",
+          "wordCount": 1908,
+          "title": "Online GP registrations reach one million since launch of digital service",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/09/Online-GP-Surgery-registration-1-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/infrastructure/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": []
+    },
+    {
+      "title": "Shared Records – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/shared-records/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173081",
+          "author": "DHI",
+          "description": "Shared care records are increasingly valued and developed but the obstacles in the way of further progress need to be addressed, agreed a recent Digital Health roundtable with Virgin Media O2 Business. By Claire Read",
+          "link": "https://www.digitalhealth.net/2024/04/roundtable-how-is-data-sharing-developing-in-icss-and-between-organisations-and-what-more-needs-to-be-done/",
+          "publishedOn": "2024-04-04T12:30:46.000Z",
+          "wordCount": 2649,
+          "title": "Roundtable: How is data sharing developing in ICSs and between organisations – and what more needs to be done?",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Roundtable-feature.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172947",
+          "author": "Jordan Sollof",
+          "description": "Lee Rickles believes shared care records are “the Cinderella service of frontline digitisation” and do not get enough funding like other initiatives.",
+          "link": "https://www.digitalhealth.net/2024/04/rickles-shared-care-records-the-cinderella-service-of-frontline-digitisation/",
+          "publishedOn": "2024-04-02T07:30:59.000Z",
+          "wordCount": 2140,
+          "title": "Rickles: Shared care records the ‘Cinderella service of frontline digitisation’",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Shared-Care-Records-2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Interoperability – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/interoperability/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": []
+    },
+    {
+      "title": "News – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/news/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173325",
+          "author": "Andrea Chipman",
+          "description": "Labour has announced a new partnership with Virgin Media O2, to ensure every child with type 1 diabetes can benefit from the latest technology.",
+          "link": "https://www.digitalhealth.net/2024/04/labour-to-partner-with-virgin-media-to-expand-access-to-diabetes-tech/",
+          "publishedOn": "2024-04-08T13:47:20.000Z",
+          "wordCount": 2127,
+          "title": "Labour to partner with Virgin Media to expand access to diabetes tech",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Labour-Party.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173305",
+          "author": "Andrea Chipman",
+          "description": "Today's briefing includes Canon installing its Aquilion One CT system at the Royal Bournmouth and NHSE extending rapid testing for Hepatitis C.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-health-coffee-time-briefing-123/",
+          "publishedOn": "2024-04-08T11:37:10.000Z",
+          "wordCount": 2313,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173239",
+          "author": "Andrea Chipman",
+          "description": "North Health Tees and Hartlepool NHS Trust, and InterSystems, has implemented a digitalised ward admissions process that focuses on empowering nurses.",
+          "link": "https://www.digitalhealth.net/2024/04/north-tees-improves-nurse-admissions-process-with-trakcare/",
+          "publishedOn": "2024-04-08T07:30:32.000Z",
+          "wordCount": 1908,
+          "title": "North Tees improves nurse admissions process with TrakCare",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2017/01/north_tees_hospital.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173079",
+          "author": "Cora Lydon",
+          "description": "An e-rostering platform from Patchwork Health is helping to streamline operations at North Cumbria Integrated Care NHS Foundation Trust.",
+          "link": "https://www.digitalhealth.net/2024/04/north-cumbria-introduces-patchwork-health-e-rostering/",
+          "publishedOn": "2024-04-05T12:30:26.000Z",
+          "wordCount": 1831,
+          "title": "North Cumbria introduces Patchwork Health e-rostering",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Dr-Adrian-Clements-North-Cumbria2.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173279",
+          "author": "Andrea Chipman",
+          "description": "Today's briefing covers a US start-up developing  AI mammograms that can help diagnose heart disease in women and WHO's launch of an AI health promoter.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-health-coffee-time-briefing-122/",
+          "publishedOn": "2024-04-05T11:12:00.000Z",
+          "wordCount": 2162,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173251",
+          "author": "Andrea Chipman",
+          "description": "OMRON Healthcare today announced the acquisition of Luscii Healthtech, a fast-growing scale-up in the field of remote consultation service platforms.",
+          "link": "https://www.digitalhealth.net/2024/04/omron-acquires-luscii-healthtech-to-advance-remote-patient-monitoring/",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1913,
+          "title": "OMRON acquires Luscii Healthtech to advance remote patient monitoring",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2017/01/buy_acquisition.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173259",
+          "author": "Jordan Sollof",
+          "description": "Our latest roundup features a new CEO at West London NHS Trust and NHS England’s AI and digital workforce national clinical lead departing.",
+          "link": "https://www.digitalhealth.net/2024/04/movers-and-shakers-news-roundup-46/",
+          "publishedOn": "2024-04-05T07:30:47.000Z",
+          "wordCount": 1935,
+          "title": "Movers and shakers news roundup",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/06/Movers-and-Shakers.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173231",
+          "author": "Jordan Sollof",
+          "description": "This briefing includes ANS supporting the charity Facial Palsy UK by implementing Microsoft's Copilot service and a study around lethal heart rhythms.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-health-coffee-time-briefing-121/",
+          "publishedOn": "2024-04-04T11:16:49.000Z",
+          "wordCount": 2191,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173043",
+          "author": "Cora Lydon",
+          "description": "A new report from The Digital Coalition has has highlighted some of the limitations that users of the NHS App experience.",
+          "link": "https://www.digitalhealth.net/2024/04/digital-coalition-report-highlights-limitations-of-nhs-app/",
+          "publishedOn": "2024-04-04T10:00:08.000Z",
+          "wordCount": 1916,
+          "title": "Digital Coalition report highlights limitations of NHS App",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/04/NHS-App.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172935",
+          "author": "Cora Lydon",
+          "description": "SilverCloud by Amwell now fully supports digital therapy in the NHS Talking Therapies, helping support patients with mental health issues.",
+          "link": "https://www.digitalhealth.net/2024/04/silvercloud-now-fully-supports-digital-therapy-in-nhs-talking-therapies/",
+          "publishedOn": "2024-04-04T07:30:23.000Z",
+          "wordCount": 1705,
+          "title": "SilverCloud now fully supports digital therapy in NHS Talking Therapies",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/06/Mental-Health.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Feature – Digital Health",
+      "feedUrl": "https://www.digitalhealth.net/feature/rss",
+      "siteUrl": "https://www.digitalhealth.net",
+      "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173081",
+          "author": "DHI",
+          "description": "Shared care records are increasingly valued and developed but the obstacles in the way of further progress need to be addressed, agreed a recent Digital Health roundtable with Virgin Media O2 Business. By Claire Read",
+          "link": "https://www.digitalhealth.net/2024/04/roundtable-how-is-data-sharing-developing-in-icss-and-between-organisations-and-what-more-needs-to-be-done/",
+          "publishedOn": "2024-04-04T12:30:46.000Z",
+          "wordCount": 2649,
+          "title": "Roundtable: How is data sharing developing in ICSs and between organisations – and what more needs to be done?",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Roundtable-feature.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=173045",
+          "author": "DHI",
+          "description": "The NHS needs to prioritise the delivery of agile, intuitive systems that enable clinicians to focus on patients, not technology, writes Epro’s Chandu Wickramarachchi",
+          "link": "https://www.digitalhealth.net/2024/04/technology-must-enhance-not-detract-from-clinicians-interactions-with-patients/",
+          "publishedOn": "2024-04-03T12:30:30.000Z",
+          "wordCount": 2503,
+          "title": "Technology must enhance, not detract from, clinicians’ interactions with patients",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Technology-feature-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172725",
+          "author": "DHI",
+          "description": "As healthcare evolves, so too must the electronic patient records at its heart. This means addressing barriers to progress - including the concerns of users, writes InterSystems' Mike Fuller.",
+          "link": "https://www.digitalhealth.net/2024/03/eprs-must-adapt-to-the-changing-healthcare-landscape/",
+          "publishedOn": "2024-03-28T13:30:30.000Z",
+          "wordCount": 2568,
+          "title": "EPRs must adapt to the changing healthcare landscape",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Changing-healthcare-landscape.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172807",
+          "author": "DHI",
+          "description": "The NHS Long Term Plan seeks to mainstream digitally-enabled care across all areas of the NHS. Not only will this enable true transformation of healthcare, but it will also play a key role in the delivery of the wider net zero agenda.",
+          "link": "https://www.digitalhealth.net/2024/03/driving-healthcare-innovation-with-both-patients-and-the-planet-at-heart/",
+          "publishedOn": "2024-03-27T14:38:02.000Z",
+          "wordCount": 2330,
+          "title": "Driving healthcare innovation with both patients and the planet at heart",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Stephen-McMillan-Philips.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172253",
+          "author": "DHI",
+          "description": "Evidence-based decisions on spending require a system that can handle data from multiple sites and provide real-time insights, writes Lee Jackson.",
+          "link": "https://www.digitalhealth.net/2024/03/transforming-nhs-procurement-how-good-data-holds-the-key-to-integrated-care/",
+          "publishedOn": "2024-03-26T13:30:43.000Z",
+          "wordCount": 2144,
+          "title": "Transforming NHS procurement: how good data holds the key to integrated care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Procurement.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172049",
+          "author": "DHI",
+          "description": "'Hard to quantify' primary and community care has been overlooked for too long. That could be about to change, thanks to moves to standardise the codes for encounters, activities and job roles, writes Nilesh Bharakhada.",
+          "link": "https://www.digitalhealth.net/2024/03/underpin-the-vision-for-primary-care-led-services-with-better-data/",
+          "publishedOn": "2024-03-21T13:00:09.000Z",
+          "wordCount": 2186,
+          "title": "Underpin the vision for primary care-led services with better data",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Blood-Pressure.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=172103",
+          "author": "DHI",
+          "description": "As the UK government announces a significant investment in the NHS productivity plan, Novari Health, a leading provider of healthcare technology solutions, highlights how its innovative Access to Care Platform™ can play a pivotal role in driving down wait times and enhancing NHS productivity across the nation.",
+          "link": "https://www.digitalhealth.net/2024/03/novari-supporting-the-uk-governments-ambitious-productivity-plans-and-reducing-nhs-waiting-times/",
+          "publishedOn": "2024-03-20T13:30:05.000Z",
+          "wordCount": 1943,
+          "title": "Novari: Supporting the UK government’s ambitious productivity plans and reducing NHS waiting times",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/Doctor-on-Tablet.png"
         }
       ]
     }
