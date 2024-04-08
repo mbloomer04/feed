@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://mbloomer04.github.io/industry-dashboard/cache.json
 sources:
   - href: https://digital.nhs.uk/feed/cyber-alerts-feed.xml
   - href: https://www.bleepingcomputer.com/feed/
