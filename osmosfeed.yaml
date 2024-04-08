@@ -6,9 +6,8 @@
 cacheUrl: https://mbloomer04.github.io/industry-dashboard/cache.json
 sources:
   - href: https://digital.nhs.uk/feed/cyber-alerts-feed.xml #NHSDigital cyber alerts
-  - href: https://www.bleepingcomputer.com/feed/ #security
-  - href: http://feeds.feedburner.com/NHSCBoard #NHS Updates
   - href: https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77 #Pulse news
+  - href: http://www.gponline.com/rss/news #gponline
   - href: https://www.gov.uk/government/organisations/public-health-england.atom #Public health england
   - href: https://digital.nhs.uk/feed/all-blog-feed.xml #NHSD all docs feed
   - href: https://digital.nhs.uk/feed/transformation-blog-feed.xml #transformation feed
@@ -16,17 +15,9 @@ sources:
   - href: https://digital.nhs.uk/feed/inside-story-blog-feed.xml #nhsd inside
   - href: https://digital.nhs.uk/feed/data-point-blog-feed.xml #datapoint
   - href: https://digital.nhs.uk/feed/design-matters-blog-feed.xml  #design
-  - href: http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655 #Departmen of health and social care
+  - href: http://feeds.feedburner.com/NHSCBoard #NHS Updates
+  - href: http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655 #Department of health and social care
   - href: http://www.hsj.co.uk/RSS/hsjcouk_rss.xml #Health Service Journal
   - href: http://kingsfund.blogs.com/health_management/atom.xml #the kings fund
-  - href: http://www.gponline.com/rss/news #gponline
   - href: https://www.who.int/rss-feeds/news-english.xml #TheWHO
-  - href: https://www.digitalhealth.net/analytics/rss #AI news
-  - href: https://www.digitalhealth.net/clinical-software/rss #clinical system news
-  - href: https://www.digitalhealth.net/cyber-security/rss #cybersecurity
-  - href: https://www.digitalhealth.net/digital-patient/rss #digital patients
-  - href: https://www.digitalhealth.net/infrastructure/rss #infrastructure news
-  - href: https://www.digitalhealth.net/shared-records/rss #shared records
-  - href: https://www.digitalhealth.net/interoperability/rss #interop
-  - href: https://www.digitalhealth.net/news/rss
-  - href: https://www.digitalhealth.net/feature/rss
+  - href: https://www.bleepingcomputer.com/feed/ #security
