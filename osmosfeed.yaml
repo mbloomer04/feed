@@ -5,7 +5,12 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://digital.nhs.uk/feed/cyber-alerts-feed.xml
+  - href: https://www.bleepingcomputer.com/feed/
+  - href: https://www.networks.nhs.uk/feeds/news_20.xml
+  - href: https://feeds.feedburner.com/NHSCBoard
+  - href: https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77
+  - href: https://www.gov.uk/government/organisations/public-health-england.atom
+  - href: https://digital.nhs.uk/feed/all-blog-feed.xml
+  - href: https://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655
+  - href: https://hale.dh.gov.uk/feed/
