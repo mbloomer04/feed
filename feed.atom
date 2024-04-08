@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mbloomer04.github.io/industry-dashboard/index.html</id>
+    <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T22:11:50.289Z</updated>
+    <updated>2024-04-08T22:48:17.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://mbloomer04.github.io/industry-dashboard/index.html"/>
-    <link rel="self" href="https://mbloomer04.github.io/industry-dashboard/feed.atom"/>
+    <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
+    <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE bug in 92,000 D-Link NAS devices now exploited in attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/"/>
+        <updated>2024-04-08T22:17:59.000Z</updated>
+        <summary type="html"><![CDATA[​Attackers are now actively targeting over 92,000 end-of-life D-Link Network Attached Storage (NAS) devices exposed online and unpatched against a critical remote code execution (RCE) zero-day flaw. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google rolls out new Find My Device network to Android devices]]></title>
         <id>https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/</id>
