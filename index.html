@@ -10,7 +10,88 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <!-- %before-head-end.html% -->
+    <style>
+:root {
+  /**
+   * Palette
+   * A new dark theme
+   * mbloomer04 
+   */
+  --base00: #282828; /* ---- */
+  --base01: #3c3836; /* --- */
+  --base02: #504945; /* -- */
+  --base03: #665c54; /* - */
+  --base04: #bdae93; /* + */
+  --base05: #d5c4a1; /* ++ */
+  --base06: #ebdbb2; /* +++ */
+  --base07: #fbf1c7; /* ++++ */
+  --base08: #fb4934; /* red */
+  --base09: #fe8019; /* orange */
+  --base0A: #fabd2f; /* yellow */
+  --base0B: #b8bb26; /* green */
+  --base0C: #8ec07c; /* aqua/cyan */
+  --base0D: #83a598; /* blue */
+  --base0E: #d3869b; /* purple */
+  --base0F: #d65d0e; /* brown */
+
+  /**
+   * Typograph
+   */
+  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif;
+  --font-size-L: 3.6rem;
+  --font-size-m: 2.2rem;
+  --font-size-s: 1.8rem;
+  --font-size-scaler: 62.5%; /* 1rem = 10px */
+  --line-height-body: 1.4;
+  --line-height-heading: 1.2;
+
+  /**
+   * Components
+   */
+  --body-color: var(--base04);
+  --body-bg: var(--base00);
+  --body-padding: 32px 24px;
+  --body-stack-gap: 32px;
+
+  --accordion-content-hover-rail-color: var(--base04);
+  --accordion-content-rail-color: var(--base03);
+  --accordion-marker-color: var(--article-title-color);
+  --accordion-marker-expanded-color: var(--base03);
+  --accordion-marker-hover-color: var(--accordion-marker-color);
+  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
+  --accordion-rail-indent: 7px;
+
+  --article-image-border-color: var(--base03);
+  --article-image-radius: 6px;
+  --article-image-shadow: none;
+  --article-reading-time-color: var(--base04);
+  --article-stack-gap: 16px;
+  --article-summary-color: var(--base05);
+  --article-summary-hover-color: var(--base07);
+  --article-title-color: var(--base07);
+  --article-title-expanded-color: var(--base07);
+
+  --card-bg: var(--base00);
+  --card-border-color: var(--base03);
+  --card-padding: 16px;
+  --card-radius: 8px;
+  --card-shadow: none;
+  --card-stack-gap: 24px;
+
+  --daily-heading-color: var(--base03);
+  --daily-heading-hover-color: var(--base04);
+
+  --footer-color: var(--base03);
+  --footer-link-hover-color: var(--base04);
+
+  --source-link-color: var(--base04);
+  --source-link-hover-color: var(--base07);
+  --source-name-color: var(--base0A);
+  --source-name-hover-color: var(--base07);
+}
+  </style>
+
   </head>
 
   <body>
@@ -1686,8 +1767,8 @@ In March 2023, we made significant changes to how we created and presented the r
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/mbloomer04/industry-dashboard/actions/runs/8605641779">
-        <time id="build-timestamp" datetime="2024-04-08T19:35:41.771Z">2024-04-08T19:35:41.771Z</time>
+      <a class="footer-link" href="https://github.com/mbloomer04/industry-dashboard/actions/runs/8605955802">
+        <time id="build-timestamp" datetime="2024-04-08T20:05:38.870Z">2024-04-08T20:05:38.870Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
