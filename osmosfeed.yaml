@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://mbloomer04.github.io/industry-dashboard/cache.json
+cacheUrl: https://mbloomer04.github.io/feed/cache.json
 sources:
   - href: https://digital.nhs.uk/feed/cyber-alerts-feed.xml #NHSDigital cyber alerts
   - href: https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77 #Pulse news
