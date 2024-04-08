@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2024-04-08T16:57:25.109Z</id>
+    <title>osmos::feed</title>
+    <updated>2024-04-08T16:57:25.109Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hello World in Rust – Example Program]]></title>
+        <id>https://www.freecodecamp.org/news/hello-world-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/hello-world-in-rust/"/>
+        <updated>2024-04-08T09:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says "Hello World!". Rust, known for being fast and safe, is no exception. Let's jump right in and create]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub – a Guide for Beginners and Experienced Developers]]></title>
+        <id>https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/"/>
+        <updated>2024-04-06T01:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Git and GitHub for Beginners! This comprehensive guide is tailored to help you navigate the world of version control and collaboration. Whether you're a newbie just starting out or an experienced developer looking to brush up on your skills, this guide offers a step-by-step approach to understanding and]]></summary>
+        <author>
+            <name>Isaiah Cliford  Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing User Focus with :focus-visible]]></title>
+        <id>https://css-tricks.com/?p=377702</id>
+        <link href="https://css-tricks.com/managing-user-focus-with-focus-visible/"/>
+        <updated>2024-04-05T22:13:47.000Z</updated>
+        <summary type="html"><![CDATA[This is going to be the 2nd post in a small series we are doing on form accessibility. If you missed the first post, check out Accessible Forms with Pseudo Classes. In this post we are going to look …
+Managing User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris DeMars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Foundations Certification – Exam Prep Guide]]></title>
+        <id>https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/</id>
+        <link href="https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/"/>
+        <updated>2024-04-05T18:39:59.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, knowing how to use Git and GitHub effectively is an indispensable skill set, and is vital for nearly every role.  Whether you’re a developer, DevOps engineer, project manager, data scientist, or even an architect, a solid understanding of Git and GitHub is no longer a nice-to-have, but]]></summary>
+        <author>
+            <name>Chris Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A How to Start a Career in Site Reliability Engineering – SRE Career Guide]]></title>
+        <id>https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/"/>
+        <updated>2024-04-05T18:24:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're considering a career in the Site Reliability Engineering (SRE) field, you should understand what SREs do, how to get started, and how to grow as an SRE.  In this article, we'll explore what you need to know to be an SRE, and how you can develop your]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indie Game Dev Jabrils talks AI, Anime, and How to Build Games [freeCodeCamp Podcast #118]]]></title>
+        <id>https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/</id>
+        <link href="https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/"/>
+        <updated>2024-04-05T14:40:59.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jabril. He's an indie game developer who's building a turn-based fighting game called Ultrabouters. Jabril has developed tons of other games as well. He runs the popular Jabrils gamedev focused-YouTube. He's also published a 5-hour introduction to programming course on freeCodeCamp.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Things Users Would Appreciate In Mobile Apps]]></title>
+        <id>https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/</id>
+        <link href="https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/"/>
+        <updated>2024-04-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What can we do to make a mobile app better? What subsidiary features are worth providing for our users? I have some ideas. You might, too. So, let’s compare our notes. Without any prescriptions attached, here are seven features I believe can palpably improve a user’s experience with a mobile app.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Container Deployments with Chainguard]]></title>
+        <id>https://www.freecodecamp.org/news/secure-container-deployment-with-chainguard/</id>
+        <link href="https://www.freecodecamp.org/news/secure-container-deployment-with-chainguard/"/>
+        <updated>2024-04-05T01:46:19.000Z</updated>
+        <summary type="html"><![CDATA[You don't need to convince me that containers are absolutely the best thing to come out of the virtualization revolution. I use containers of one flavor or another just about every day.  But the beauty of template-it-once-and-deploy-it-everywhere comes with a cost: what if a single layer within that template]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse S-expressions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/s-expressions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/s-expressions-in-javascript/"/>
+        <updated>2024-04-04T22:22:06.000Z</updated>
+        <summary type="html"><![CDATA[S-expressions are the base of the Lisp family of programming languages. In this article, I will show you how to create a simple S-expression parser step by step. This can be a base for the Lisp parser.  Lisp is the easiest language for implementation, and creating a parser is]]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router v6 – Full Course]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-router-v6-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router-v6-course/"/>
+        <updated>2024-04-04T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're building projects with React, you should learn how to use React Router. We just posted a course on the freeCodeCamp.org YouTube channel that covers everything you need to know about routing with React using React Router v6. The course will help you master this essential library for single-page]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Bento Grids Design in Your Web Projects]]></title>
+        <id>https://www.freecodecamp.org/news/bento-grids-in-web-design/</id>
+        <link href="https://www.freecodecamp.org/news/bento-grids-in-web-design/"/>
+        <updated>2024-04-04T10:06:39.000Z</updated>
+        <summary type="html"><![CDATA[I believe we may have all noticed the trend of meticulously organized web layouts reminiscent of Japanese bento boxes. These 'Bento Grids' have swiftly gained traction, offering a visually appealing and structurally cohesive way to present content online. In this article, we'll delve into the origins, rise, and practical implementation]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hash Passwords with bcrypt in Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/"/>
+        <updated>2024-04-03T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Security is critical in the field of web development, particularly when dealing with user credentials such as passwords. One security procedure that's critical in web development is password hashing.  Password hashing guarantees that plaintext passwords are difficult for attackers to find, even in a situation where a database is]]></summary>
+        <author>
+            <name>Dennis Temoye Charity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iconography In Design Systems: Easy Troubleshooting And Maintenance]]></title>
+        <id>https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/</id>
+        <link href="https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/"/>
+        <updated>2024-04-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tatsiana Tarkan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infinite-Scrolling Logos In Flat HTML And Pure CSS]]></title>
+        <id>https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/</id>
+        <link href="https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/"/>
+        <updated>2024-04-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember the HTML `` element? It’s deprecated, so it’s not like you’re going to use it when you need some sort of horizontal auto-scrolling feature. That’s where CSS comes in because it has all the tools we need to pull it off. Silvestar Bistrović demonstrates a technique that makes it possible with a set of images and as little HTML as possible.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/</id>
+        <link href="https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/"/>
+        <updated>2024-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of :has() in CSS]]></title>
+        <id>https://css-tricks.com/?p=377635</id>
+        <link href="https://css-tricks.com/the-power-of-has-in-css/"/>
+        <updated>2024-03-30T02:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …
+The Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris DeMars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects]]></title>
+        <id>https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/</id>
+        <link href="https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/"/>
+        <updated>2024-03-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Of User Research: Expert Insights And Key Trends]]></title>
+        <id>https://smashingmagazine.com/2024/03/the-future-of-user-research/</id>
+        <link href="https://smashingmagazine.com/2024/03/the-future-of-user-research/"/>
+        <updated>2024-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on responses from over 1,200 product professionals, Maze’s Future of User Research Report uncovers how product teams conduct research to inform decision-making and build successful products. Learn about the top three trends defining the user research industry in 2024 and beyond.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/"/>
+        <updated>2024-03-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Henry Bley-Vroman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Forms with Pseudo Classes]]></title>
+        <id>https://css-tricks.com/?p=377565</id>
+        <link href="https://css-tricks.com/accessible-forms-with-pseudo-classes/"/>
+        <updated>2024-03-22T18:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …
+Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris DeMars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles]]></title>
+        <id>https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/</id>
+        <link href="https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/"/>
+        <updated>2024-03-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Chiara Aliotta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Shipping: Success At Scale, A New Smashing Book by Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2024/03/success-at-scale-book-release/</id>
+        <link href="https://smashingmagazine.com/2024/03/success-at-scale-book-release/"/>
+        <updated>2024-03-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here, and it’s shipping! Meet our newest Smashing book, ”Success at Scale”. It’s filled with practical insights and real-world case studies of how big changes can be made on projects of any size. Addy Osmani has curated finest examples, case studies and interviews to help you get successful at scale. Jump to the details and get the book right away.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023]]></title>
+        <id>https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/</id>
+        <link href="https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/"/>
+        <updated>2024-03-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Krisztina Szerovay)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Calendars For Web Made Easy With These Commercial Options]]></title>
+        <id>https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/</id>
+        <link href="https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/"/>
+        <updated>2024-03-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of top-notch calendar components for seamless event scheduling. Whether you prefer ready-to-use setups or enjoy tweaking code for a tailored experience, these calendars have you covered.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+</feed>
