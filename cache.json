@@ -103,6 +103,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/",
+          "author": "Sergiu Gatlan",
+          "description": "Google is rolling out an upgraded Find My Device network to Android devices in the United States and Canada, almost one year after it was first unveiled during the Google I/O 2023 conference in May. [...]",
+          "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/",
+          "publishedOn": "2024-04-08T18:50:43.000Z",
+          "wordCount": 2521,
+          "title": "Google rolls out new Find My Device network to Android devices",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/Location_tracking.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/",
+          "author": "Bill Toulas",
+          "description": "Almost 2,000 hacked WordPress sites now display fake NFT and discount pop-ups to trick visitors into connecting their wallets to crypto drainers that automatically steal funds. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/",
+          "publishedOn": "2024-04-08T18:22:30.000Z",
+          "wordCount": 2298,
+          "title": "Hackers deploy crypto drainers on thousands of WordPress sites",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cyberattack-on-uks-cvs-group-disrupts-veterinary-operations/",
           "author": "Bill Toulas",
           "description": "UK veterinary services provider CVS Group has announced that it suffered a cyberattack that disrupted IT services at its practices across the country. [...]",

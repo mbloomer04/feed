@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T17:03:53.389Z</id>
+    <id>https://mbloomer04.github.io/industry-dashboard/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T17:03:53.389Z</updated>
+    <updated>2024-04-08T19:20:16.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://mbloomer04.github.io/industry-dashboard/index.html"/>
+    <link rel="self" href="https://mbloomer04.github.io/industry-dashboard/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google rolls out new Find My Device network to Android devices]]></title>
+        <id>https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/</id>
+        <link href="https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/"/>
+        <updated>2024-04-08T18:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Google is rolling out an upgraded Find My Device network to Android devices in the United States and Canada, almost one year after it was first unveiled during the Google I/O 2023 conference in May. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers deploy crypto drainers on thousands of WordPress sites]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/"/>
+        <updated>2024-04-08T18:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Almost 2,000 hacked WordPress sites now display fake NFT and discount pop-ups to trick visitors into connecting their wallets to crypto drainers that automatically steal funds. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP ‘exonerated’ after five-year period of investigations into patient death]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146291</id>
