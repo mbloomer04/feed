@@ -21,3 +21,7 @@ sources:
   - href: http://kingsfund.blogs.com/health_management/atom.xml #the kings fund
   - href: https://www.who.int/rss-feeds/news-english.xml #TheWHO
   - href: https://www.bleepingcomputer.com/feed/ #security
+
+siteTitle: "Industry Feed"
+timezone: "Europe/London"
+cacheMaxDays: 30
