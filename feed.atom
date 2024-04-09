@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T18:10:46.176Z</updated>
+    <updated>2024-04-09T19:07:48.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 KB5036892 update released with 23 new fixes, changes]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/"/>
+        <updated>2024-04-09T18:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released the KB5036892 cumulative update for Windows 10 21H2 and Windows 10 22H2 with twenty-three changes and two new features. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GHC-SCW: Ransomware gang stole health data of 533,000 people]]></title>
         <id>https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/</id>

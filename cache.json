@@ -1363,6 +1363,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/",
+          "author": "Lawrence Abrams",
+          "description": "Microsoft has released the KB5036892 cumulative update for Windows 10 21H2 and Windows 10 22H2 with twenty-three changes and two new features. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/",
+          "publishedOn": "2024-04-09T18:18:56.000Z",
+          "wordCount": 2263,
+          "title": "Windows 10 KB5036892 update released with 23 new fixes, changes",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/01/25/Windows-10.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/",
           "author": "Sergiu Gatlan",
           "description": "Non-profit healthcare service provider Group Health Cooperative of South Central Wisconsin (GHC-SCW) has disclosed that a ransomware gang breached its network in January and stole documents containing the personal and medical information of over 500,000 individuals. [...]",
