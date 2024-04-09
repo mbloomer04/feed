@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T21:09:19.860Z</updated>
+    <updated>2024-04-09T22:08:09.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft fixes two Windows zero-days exploited in malware attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/"/>
+        <updated>2024-04-09T22:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has fixed two actively exploited zero-day vulnerabilities during the April 2024 Patch Tuesday, although the company failed to initially tag them as such. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Rust flaw enables Windows command injection attacks]]></title>
         <id>https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/</id>

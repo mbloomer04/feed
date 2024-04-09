@@ -1373,6 +1373,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has fixed two actively exploited zero-day vulnerabilities during the April 2024 Patch Tuesday, although the company failed to initially tag them as such. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/",
+          "publishedOn": "2024-04-09T22:06:06.000Z",
+          "wordCount": 2297,
+          "title": "Microsoft fixes two Windows zero-days exploited in malware attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/",
           "author": "Sergiu Gatlan",
           "description": "Threat actors can exploit a security vulnerability in the Rust standard library to target Windows systems in command injection attacks. [...]",
