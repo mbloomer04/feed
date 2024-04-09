@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T20:08:57.512Z</updated>
+    <updated>2024-04-09T21:09:19.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Rust flaw enables Windows command injection attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/"/>
+        <updated>2024-04-09T20:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors can exploit a security vulnerability in the Rust standard library to target Windows systems in command injection attacks. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 KB5036892 update released with 23 new fixes, changes]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/</id>
@@ -412,6 +422,16 @@ The post How sexism affects female GPs’ career progression appeared first on P
         <summary type="html"><![CDATA[Evaluation of time-limited provision of Individual Placement and Support for people with moderate to mild mental and physical health conditions in primary care.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO sounds alarm on viral hepatitis infections claiming 3500 lives each day]]></title>
+        <id>urn:uuid:c9dc689e-7517-4c95-86b3-7d4c248cc69e</id>
+        <link href="https://www.who.int/news/item/09-04-2024-who-sounds-alarm-on-viral-hepatitis-infections-claiming-3500-lives-each-day"/>
+        <updated>2024-04-08T14:32:39.000Z</updated>
+        <summary type="html"><![CDATA[According to WHO's 2024 Global Hepatitis Report, the number of lives lost due to viral hepatitis is increasing. The disease is the second leading infectious cause of death globally, the same as tuberculosis, a top infectious killer.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
