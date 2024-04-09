@@ -103,6 +103,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146306",
+          "author": "Eliza Parr",
+          "description": "NHS England has warned the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) against recommending a GP pay increase above 2%. In its evidence to the pay review body, NHSE advised that any pay awards higher than the funding settlement from the Treasury will ‘put further pressure’ on the NHS budget. This could impact on\nThe post NHSE warns DDRB against recommending GP pay increase above 2% appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/nhse-warns-ddrb-against-recommending-gp-pay-increase-above-2/",
+          "publishedOn": "2024-04-09T10:05:17.000Z",
+          "wordCount": 2549,
+          "title": "NHSE warns DDRB against recommending GP pay increase above 2%",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146291",
           "author": "Eliza Parr",
           "description": "A GP has been ‘exonerated’ following a series of investigations spanning five years which related to a patient death.  The Medical Defence Union (MDU) said today that it had ‘successfully’ defended its GP member, who had faced a complaint, claim, NHS England investigation, and a GMC investigation.  Although the GMC investigation reached the stage of\nThe post GP ‘exonerated’ after five-year period of investigations into patient death appeared first on Pulse Today.",
@@ -899,6 +909,26 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/nhs-community-health-services-data-plan-202425-to-202627-1.html",
+          "author": null,
+          "description": "NHS England - This document sets out how the NHS aims to improve the quality, relevance and timeliness of data to improve patient care and patient experience in community health services. Guideline More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/nhs-community-health-services-data-plan-202425-to-202627-1.html",
+          "publishedOn": "2024-04-09T09:58:41.000Z",
+          "wordCount": null,
+          "title": "NHS Community Health Services Data Plan 2024/25 to 2026/27",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/nhs-community-health-services-data-plan-202425-to-202627.html",
+          "author": null,
+          "description": "NHS England - This document sets out how the NHS aims to improve the quality, relevance and timeliness of data to improve patient care and patient experience in community health services. Guideline More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/nhs-community-health-services-data-plan-202425-to-202627.html",
+          "publishedOn": "2024-04-09T09:58:27.000Z",
+          "wordCount": null,
+          "title": "NHS Community Health Services Data Plan 2024/25 to 2026/27",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/04/sustainability-reporting-in-the-nhs-202324-and-beyond.html",
           "author": null,
           "description": "Healthcare Financial Management Association - This briefing sets out the NHS environmental sustainability commitments and reporting requirements across the United Kingdom, what NHS organisations must report in 2023/24, along with good practice in sustainability reporting for NHS organisations in 2023/24 and beyond. It also looks ahead at future developments and the role of the finance function. Briefing More detail",
@@ -1554,6 +1584,16 @@
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=173371",
+          "author": "Jordan Sollof",
+          "description": "Rapid Health’s Smart Triage is helping NHS GP practices and Primary Care Networks solve the '8am rush' issue, CEO and co-founder Carmelo Insalaco explains.",
+          "link": "https://www.digitalhealth.net/2024/04/smart-triage-shines-and-sets-rapid-health-apart-from-competitors/",
+          "publishedOn": "2024-04-09T10:00:11.000Z",
+          "wordCount": 1916,
+          "title": "Smart Triage shines and sets Rapid Health apart from competitors",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/03/Triage-2-1.jpg"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=173357",
           "author": "Andrea Chipman",
           "description": "Patients who fail to take medicines as prescribed are costly to health systems and risk seeing their own conditions worsen.",
@@ -1837,6 +1877,143 @@
       "feedUrl": "https://www.digitalhealth.net/interoperability/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": []
+    },
+    {
+      "title": "Have I Been Pwned latest breaches",
+      "feedUrl": "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
+      "siteUrl": "https://haveibeenpwned.com/",
+      "articles": [
+        {
+          "id": "KasperskyClub",
+          "author": null,
+          "description": "In March 2024, the independent fan forum Kaspersky Club suffered a data breach. The incident exposed 56k unique email addresses alongside usernames, IP addresses and passwords stored as either MD5 or bcrypt hashes.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#KasperskyClub",
+          "publishedOn": "2024-04-09T06:22:14.000Z",
+          "wordCount": 64832,
+          "title": "Kaspersky Club - 55,971 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "boAt",
+          "author": null,
+          "description": "In March 2024, the Indian audio and wearables brand boAt suffered a data breach that exposed 7.5M customer records. The data included physical and email address, names and phone numbers, all of which were subsequently published to a popular clear web hacking forum.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#boAt",
+          "publishedOn": "2024-04-08T08:33:44.000Z",
+          "wordCount": 64832,
+          "title": "boAt - 7,528,985 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "SurveyLama",
+          "author": null,
+          "description": "In February 2024, the paid survey website SurveyLama suffered a data breach that exposed 4.4M customer email addresses. The incident also exposed names, physical and IP addresses, phone numbers, dates of birth and passwords stored as either salted SHA-1, bcrypt or argon2 hashes. When contacted about the incident, SurveyLama advised that they had already \"notified the users by email\".",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#SurveyLama",
+          "publishedOn": "2024-04-02T23:04:58.000Z",
+          "wordCount": 64832,
+          "title": "SurveyLama - 4,426,879 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "Pandabuy",
+          "author": null,
+          "description": "In March 2024, 1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum. The data also included IP and physical addresses, names, phone numbers and order enquiries. The breach was alleged to be attributed to \"Sanggiero\" and \"IntelBroker\".",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#Pandabuy",
+          "publishedOn": "2024-04-01T08:34:24.000Z",
+          "wordCount": 64832,
+          "title": "Pandabuy - 1,348,407 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "WashingtonStateFoodWorkerCard",
+          "author": null,
+          "description": "In June 2023, the Tacoma-Pierce County Health Department announced a data breach of their Washington State Food Worker Card online training system. The breach was published to a popular hacking forum the year before and dated back to a 2018 database backup. Included in the data were 1.6M unique email addresses along with names, post codes, dates of birth and approximately 9.5k driver's licence numbers.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#WashingtonStateFoodWorkerCard",
+          "publishedOn": "2024-03-31T02:34:15.000Z",
+          "wordCount": 64832,
+          "title": "Washington State Food Worker Card - 1,594,305 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "ECB",
+          "author": null,
+          "description": "In March 2024, English Cricket's icoachcricket website suffered a data breach that exposed over 40k records. The data included email addresses and passwords stored as either bcrypt hashes, salted MD5 hashes or both. The data was provided to HIBP by a source who requested it be attributed to \"IntelBroker\".",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#ECB",
+          "publishedOn": "2024-03-29T01:10:19.000Z",
+          "wordCount": 64832,
+          "title": "England Cricket - 43,299 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "Exvagos",
+          "author": null,
+          "description": "In July 2022, the direct download website Exvagos suffered a data breach that was later redistributed as part of a larger corpus of data. The breach exposed 2.1M unique email addresses along with IP addresses, usernames, dates of birth and MD5 password hashes.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#Exvagos",
+          "publishedOn": "2024-03-28T06:28:55.000Z",
+          "wordCount": 64832,
+          "title": "Exvagos - 2,121,789 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "GSMHosting",
+          "author": null,
+          "description": "In August 2016, breached data from the vBulletin forum for GSM-Hosting appeared for sale alongside dozens of other hacked services. The breach impacted 2.6M users of the service and included email and IP addresses, usernames and salted MD5 password hashes.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#GSMHosting",
+          "publishedOn": "2024-03-27T06:23:58.000Z",
+          "wordCount": 64832,
+          "title": "GSM Hosting - 2,607,440 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "SwordFantasy",
+          "author": null,
+          "description": "In January 2019, the now defunct MMO and RPG game SwordFantasy suffered a data breach that exposed 2.7M unique email addresses. Other impacted data included username, IP address and salted MD5 password hashes.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#SwordFantasy",
+          "publishedOn": "2024-03-26T08:31:58.000Z",
+          "wordCount": 64832,
+          "title": "SwordFantasy - 2,690,657 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "MediaWorks",
+          "author": null,
+          "description": "In March 2024, millions of rows of data from the New Zealand media company MediaWorks was publicly posted to a popular hacking forum. The incident exposed 163k unique email addresses provided by visitors who filled out online competitions and included names, physical addresses, phone numbers, dates of birth, genders and the responses to questions in the competition. Some victims of the breach subsequently received ransom demands requesting payment to have their data deleted.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#MediaWorks",
+          "publishedOn": "2024-03-22T06:43:09.000Z",
+          "wordCount": 64832,
+          "title": "MediaWorks - 162,710 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "AllegedATT",
+          "author": null,
+          "description": "In March 2024, tens of millions of records allegedly breached from AT&T were posted to a popular hacking forum. Dating back to August 2021, the data was originally posted for sale before later being freely released. At the time, AT&T maintained that there had not been a breach of their systems and that the data originated from elsewhere. 12 days later, AT&T acknowledged that data fields specific to them were in the breach and that it was not yet known whether the breach occurred at their end or that of a vendor. AT&T also proceeded to reset customer account passcodes, an indicator that there was sufficient belief passcodes had been compromised. The incident exposed names, email and physical addresses, dates of birth, phone numbers and US social security numbers.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#AllegedATT",
+          "publishedOn": "2024-03-19T06:30:49.000Z",
+          "wordCount": 64832,
+          "title": "AT&T - 49,102,176 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "ClickASnap",
+          "author": null,
+          "description": "In September 2022, the online photo sharing platform ClickASnap suffered a data breach. The incident exposed almost 3.3M personal records including email addresses, usernames and passwords stored as SHA-512 hashes. Further, a collection of paid subscriptions were also included and contained names, physical addresses and amounts paid.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#ClickASnap",
+          "publishedOn": "2024-03-13T03:47:22.000Z",
+          "wordCount": 64832,
+          "title": "ClickASnap - 3,262,980 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
+          "id": "Flipkart",
+          "author": null,
+          "description": "In September 2022, over 500k customer records from the Indian e-commerce service Flipkart appeared on a popular hacking forum. The breach exposed email addresses, latitudes and longitudes, names and phone numbers.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#Flipkart",
+          "publishedOn": "2024-03-12T05:09:11.000Z",
+          "wordCount": 64832,
+          "title": "Flipkart - 552,094 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
