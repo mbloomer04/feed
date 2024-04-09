@@ -103,6 +103,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146096",
+          "author": "Eliza Parr",
+          "description": "Female GPs are statistically less well-paid than their male peers, and many say maternity pay isn’t adequate. Eliza Parr looks at how systemic sexism affects women in general practice. Read more from the investigation here It’s not easy to get to the root of cultural or everyday sexism. Female GPs may be suffering the emotional\nThe post The GP gender pay gap appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/special-investigations/sexism-in-general-practice/the-gp-gender-pay-gap/",
+          "publishedOn": "2024-04-09T16:08:06.000Z",
+          "wordCount": 4124,
+          "title": "The GP gender pay gap",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Equal-pay.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146325",
           "author": "Eliza Parr",
           "description": "GP trainers need to be paid more in order to achieve the planned expansion of training places, NHS England has said in its submission to the doctors’ pay review body. Last year, the NHS long-term workforce plan pledged to increase GP training places in England by 50% to 6,000 by 2031, but GPs expressed concerns\nThe post Pay GP trainers more to enable expansion, NHS England recommends appeared first on Pulse Today.",
@@ -1342,6 +1352,46 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/",
+          "author": "Bill Toulas",
+          "description": "A Romanian botnet group named 'RUBYCARP' is leveraging known vulnerabilities and performing brute force attacks to breach corporate networks and compromise servers for financial gain. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/",
+          "publishedOn": "2024-04-09T15:30:06.000Z",
+          "wordCount": 2247,
+          "title": "RUBYCARP hackers linked to 10-year-old cryptomining botnet",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/09/rubycarp.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/",
+          "author": "Sponsored by Wazuh",
+          "description": "Maintaining visibility into container hosts, ensuring best practices, and conducting vulnerability assessments are necessary to ensure effective security. In this article Wazuh explores how its software can help implement best security practices for containerized environments. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/",
+          "publishedOn": "2024-04-09T14:01:02.000Z",
+          "wordCount": 2329,
+          "title": "Implementing container security best practices using Wazuh",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/08/container-security-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/",
+          "author": "Bill Toulas",
+          "description": "Security researchers at Bitdefender have discovered four vulnerabilities impacting multiple versions of WebOS, the operating system used in LG smart TVs. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/",
+          "publishedOn": "2024-04-09T13:00:00.000Z",
+          "wordCount": 2217,
+          "title": "Over 90,000 LG Smart TVs may be exposed to remote attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/lg-tv.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/",
+          "author": "Bill Toulas",
+          "description": "Researchers have discovered two techniques that could enable attackers to bypass audit logs or generate less severe entries when downloading files from SharePoint. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/",
+          "publishedOn": "2024-04-09T13:00:00.000Z",
+          "wordCount": 2308,
+          "title": "New SharePoint flaws help hackers evade detection when stealing files",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/29/SharePoint.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
           "author": "Lawrence Abrams",

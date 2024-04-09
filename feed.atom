@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T15:09:16.258Z</updated>
+    <updated>2024-04-09T16:10:22.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The GP gender pay gap]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146096</id>
+        <link href="https://www.pulsetoday.co.uk/analysis/special-investigations/sexism-in-general-practice/the-gp-gender-pay-gap/"/>
+        <updated>2024-04-09T16:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Female GPs are statistically less well-paid than their male peers, and many say maternity pay isn’t adequate. Eliza Parr looks at how systemic sexism affects women in general practice. Read more from the investigation here It’s not easy to get to the root of cultural or everyday sexism. Female GPs may be suffering the emotional
+The post The GP gender pay gap appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUBYCARP hackers linked to 10-year-old cryptomining botnet]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/"/>
+        <updated>2024-04-09T15:30:06.000Z</updated>
+        <summary type="html"><![CDATA[A Romanian botnet group named 'RUBYCARP' is leveraging known vulnerabilities and performing brute force attacks to breach corporate networks and compromise servers for financial gain. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing container security best practices using Wazuh]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/"/>
+        <updated>2024-04-09T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining visibility into container hosts, ensuring best practices, and conducting vulnerability assessments are necessary to ensure effective security. In this article Wazuh explores how its software can help implement best security practices for containerized environments. [...]]]></summary>
+        <author>
+            <name>Sponsored by Wazuh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 90,000 LG Smart TVs may be exposed to remote attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/"/>
+        <updated>2024-04-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers at Bitdefender have discovered four vulnerabilities impacting multiple versions of WebOS, the operating system used in LG smart TVs. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New SharePoint flaws help hackers evade detection when stealing files]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/"/>
+        <updated>2024-04-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have discovered two techniques that could enable attackers to bypass audit logs or generate less severe entries when downloading files from SharePoint. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NTT DATA enhances dementia research with artificial intelligence]]></title>
         <id>https://www.digitalhealth.net/?p=173375</id>
