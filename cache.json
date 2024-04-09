@@ -1203,6 +1203,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
+          "author": "Lawrence Abrams",
+          "description": "Laptop and tablet accessories maker Targus disclosed that it suffered a cyberattack disrupting operations after a threat actor gained access to the company's file servers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
+          "publishedOn": "2024-04-09T01:41:08.000Z",
+          "wordCount": 2108,
+          "title": "Targus discloses cyberattack after hackers detected on file servers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/targus-bag.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/",
           "author": "Sergiu Gatlan",
           "description": "​Attackers are now actively targeting over 92,000 end-of-life D-Link Network Attached Storage (NAS) devices exposed online and unpatched against a critical remote code execution (RCE) zero-day flaw. [...]",

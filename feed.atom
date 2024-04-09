@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T00:39:38.693Z</updated>
+    <updated>2024-04-09T01:42:32.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Targus discloses cyberattack after hackers detected on file servers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/"/>
+        <updated>2024-04-09T01:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Laptop and tablet accessories maker Targus disclosed that it suffered a cyberattack disrupting operations after a threat actor gained access to the company's file servers. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical RCE bug in 92,000 D-Link NAS devices now exploited in attacks]]></title>
         <id>https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/</id>
