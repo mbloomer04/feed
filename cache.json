@@ -1363,6 +1363,36 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/",
+          "author": "Sergiu Gatlan",
+          "description": "Non-profit healthcare service provider Group Health Cooperative of South Central Wisconsin (GHC-SCW) has disclosed that a ransomware gang breached its network in January and stole documents containing the personal and medical information of over 500,000 individuals. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/",
+          "publishedOn": "2024-04-09T18:02:45.000Z",
+          "wordCount": 2306,
+          "title": "GHC-SCW: Ransomware gang stole health data of 533,000 people",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/27/Hospital_cyberattack.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/",
+          "author": "Mayank Parmar",
+          "description": "Microsoft has released the KB5036893 cumulative update for Windows 11 23H3, which includes 29 changes and fixes and enables the Moment 5 features for every user. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/",
+          "publishedOn": "2024-04-09T18:00:39.000Z",
+          "wordCount": 2246,
+          "title": "Windows 11 KB5036893 update released with 29 changes, Moment 5 features",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/12/windows-11-gradient.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/",
+          "author": "Lawrence Abrams",
+          "description": "Today is Microsoft's April 2024 Patch Tuesday, which includes security updates for 150 flaws and sixty-seven remote code execution bugs. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/",
+          "publishedOn": "2024-04-09T17:34:48.000Z",
+          "wordCount": 4439,
+          "title": "Microsoft April 2024 Patch Tuesday fixes 150 security flaws, 67 RCEs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/13/patch-tuesday-header.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/",
           "author": "Bill Toulas",
           "description": "A Romanian botnet group named 'RUBYCARP' is leveraging known vulnerabilities and performing brute force attacks to breach corporate networks and compromise servers for financial gain. [...]",

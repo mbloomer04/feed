@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-09T17:08:22.303Z</updated>
+    <updated>2024-04-09T18:10:46.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GHC-SCW: Ransomware gang stole health data of 533,000 people]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/"/>
+        <updated>2024-04-09T18:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Non-profit healthcare service provider Group Health Cooperative of South Central Wisconsin (GHC-SCW) has disclosed that a ransomware gang breached its network in January and stole documents containing the personal and medical information of over 500,000 individuals. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 KB5036893 update released with 29 changes, Moment 5 features]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/"/>
+        <updated>2024-04-09T18:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released the KB5036893 cumulative update for Windows 11 23H3, which includes 29 changes and fixes and enables the Moment 5 features for every user. [...]]]></summary>
+        <author>
+            <name>Mayank Parmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft April 2024 Patch Tuesday fixes 150 security flaws, 67 RCEs]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/"/>
+        <updated>2024-04-09T17:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Today is Microsoft's April 2024 Patch Tuesday, which includes security updates for 150 flaws and sixty-seven remote code execution bugs. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP recovery plan update highlights 111 referral crackdown]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146357</id>
