@@ -7,6 +7,7 @@ cacheUrl: https://mbloomer04.github.io/feed/cache.json
 sources:
   - href: https://digital.nhs.uk/feed/cyber-alerts-feed.xml #NHSDigital cyber alerts
   - href: https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77 #Pulse news
+  - href: https://www.pulsetoday.co.uk/feed/ #does this cause duplicates?
   - href: http://www.gponline.com/rss/news #gponline
   - href: https://www.gov.uk/government/organisations/public-health-england.atom #Public health england
   - href: https://digital.nhs.uk/feed/all-blog-feed.xml #NHSD all docs feed
