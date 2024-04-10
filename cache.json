@@ -1523,6 +1523,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/",
+          "author": "Ionut Ilascu",
+          "description": "Google has announced a new version of its browser for organizations, Chrome Enterprise Premium, which comes with extended security controls for a monthly fee per user. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/",
+          "publishedOn": "2024-04-10T19:52:30.000Z",
+          "wordCount": 2146,
+          "title": "Chrome Enterprise gets Premium security but you have to pay for it",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google-Chrome-headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/google-workspace-rolls-out-multi-admin-approval-feature-for-risky-changes/",
+          "author": "Bill Toulas",
+          "description": "Google is rolling out a new Workspace feature that requires multiple admins to approve high-risk setting changes to prevent unauthorized or accidental modifications that could reduce security. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/google-workspace-rolls-out-multi-admin-approval-feature-for-risky-changes/",
+          "publishedOn": "2024-04-10T19:13:41.000Z",
+          "wordCount": 2212,
+          "title": "Google Workspace rolls out multi-admin approval feature for risky changes",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/29/Google_Workspace.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/",
           "author": "Bill Toulas",
           "description": "Researchers have demonstrated the \"first native Spectre v2 exploit\" for a new speculative execution side-channel flaw that impacts Linux systems running on many modern Intel processors. [...]",
