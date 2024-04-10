@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-10T14:08:02.431Z</updated>
+    <updated>2024-04-10T15:08:54.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs lose access to ‘oversubscribed’ sustainability loan scheme]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146413</id>
+        <link href="https://www.pulsetoday.co.uk/news/scotland/gps-lose-access-to-oversubscribed-sustainability-loan-scheme/"/>
+        <updated>2024-04-10T15:03:36.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Government has suspended its ‘sustainability’ loan scheme for GPs due to oversubscription.  Last month, the Government wrote to practices to say it is ‘temporarily unable’ to process new loans and cannot confirm when the scheme will reopen.  Scottish health secretary Neil Gray blamed ‘significant’ reductions in UK Government funding for the suspension.  BMA
+The post GPs lose access to ‘oversubscribed’ sustainability loan scheme appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T now says data breach impacted 51 million customers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/"/>
+        <updated>2024-04-10T14:18:41.000Z</updated>
+        <summary type="html"><![CDATA[AT&T is notifying 51 million former and current customers, warning them of a data breach that exposed their personal information on a hacking forum. However, the company has still not disclosed how the data was obtained. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4476 - Microsoft Releases April 2024 Security Updates]]></title>
         <id>6a84a715-2054-4e9a-b3c1-384bfbb369e8</id>
@@ -17,6 +38,16 @@
  Updated: 10 Apr 2024]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reusing passwords: The hidden cost of convenience]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/"/>
+        <updated>2024-04-10T14:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Password reuse might seem like a small problem — but it can have far-reaching consequences for an organization's cybersecurity. Learn more from Specops Software about what IT teams can do to combat the problem. [...]]]></summary>
+        <author>
+            <name>Sponsored by Specops Software</name>
         </author>
     </entry>
     <entry>
@@ -111,6 +142,16 @@ The post Employment tribunal sees out-of-hours GPs recoup holiday pay appeared f
         <summary type="html"><![CDATA[Today's briefing includes the NHS introducing self-referral for a number of key services and Bayer and Google collaborating on AI solutions for radiology.]]></summary>
         <author>
             <name>Andrea Chipman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Visual Studio projects on GitHub push Keyzetsu malware]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/"/>
+        <updated>2024-04-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are abusing GitHub automation features and malicious Visual Studio projects to push a new variant of the "Keyzetsu" clipboard-hijacking malware and steal cryptocurrency payments. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
         </author>
     </entry>
     <entry>

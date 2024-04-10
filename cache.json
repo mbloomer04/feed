@@ -123,6 +123,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146413",
+          "author": "Eliza Parr",
+          "description": "The Scottish Government has suspended its ‘sustainability’ loan scheme for GPs due to oversubscription.  Last month, the Government wrote to practices to say it is ‘temporarily unable’ to process new loans and cannot confirm when the scheme will reopen.  Scottish health secretary Neil Gray blamed ‘significant’ reductions in UK Government funding for the suspension.  BMA\nThe post GPs lose access to ‘oversubscribed’ sustainability loan scheme appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/scotland/gps-lose-access-to-oversubscribed-sustainability-loan-scheme/",
+          "publishedOn": "2024-04-10T15:03:36.000Z",
+          "wordCount": 2540,
+          "title": "GPs lose access to ‘oversubscribed’ sustainability loan scheme",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/BMA-calls-for-9.2bn-GP-premises-upgrade-in-spring-budget.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=145937",
           "author": "Eliza Parr",
           "description": "The BMA is supporting a number of out-of-hours GPs across Wales who are being ‘deprived’ of employment rights such as holiday pay. Three OOH GPs recently ‘recouped’ a ‘significant sum’ of holiday pay in a ‘collective case’ at the employment tribunal, according to the BMA. GPs working in OOH services, which are in most cases\nThe post Employment tribunal sees out-of-hours GPs recoup holiday pay appeared first on Pulse Today.",
@@ -1502,6 +1512,36 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/",
+          "author": "Bill Toulas",
+          "description": "AT&T is notifying 51 million former and current customers, warning them of a data breach that exposed their personal information on a hacking forum. However, the company has still not disclosed how the data was obtained. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/",
+          "publishedOn": "2024-04-10T14:18:41.000Z",
+          "wordCount": 2302,
+          "title": "AT&T now says data breach impacted 51 million customers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/03/att-usa.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/",
+          "author": "Sponsored by Specops Software",
+          "description": "Password reuse might seem like a small problem — but it can have far-reaching consequences for an organization's cybersecurity. Learn more from Specops Software about what IT teams can do to combat the problem. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/",
+          "publishedOn": "2024-04-10T14:02:04.000Z",
+          "wordCount": 2334,
+          "title": "Reusing passwords: The hidden cost of convenience",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/09/specops-password-reuse.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/",
+          "author": "Bill Toulas",
+          "description": "Threat actors are abusing GitHub automation features and malicious Visual Studio projects to push a new variant of the \"Keyzetsu\" clipboard-hijacking malware and steal cryptocurrency payments. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/",
+          "publishedOn": "2024-04-10T11:00:00.000Z",
+          "wordCount": 2408,
+          "title": "Malicious Visual Studio projects on GitHub push Keyzetsu malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/",
           "author": "Sergiu Gatlan",
