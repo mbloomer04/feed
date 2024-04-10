@@ -22,15 +22,15 @@ sources:
   - href: http://kingsfund.blogs.com/health_management/atom.xml #the kings fund
   - href: https://www.who.int/rss-feeds/news-english.xml #TheWHO
   - href: https://www.bleepingcomputer.com/feed/ #security
-  - href: https://www.digitalhealth.net/analytics/feed/ #AI
-  - href: https://www.digitalhealth.net/clinical-software/feed/
+ # - href: https://www.digitalhealth.net/analytics/feed/ #AI 
+ # - href: https://www.digitalhealth.net/clinical-software/feed/
   - href: https://www.digitalhealth.net/news/feed/ #digital health news
  # - href: https://www.digitalhealth.net/feed/ #digital health feed
-  - href: https://www.digitalhealth.net/cyber-security/feed/ #cybersec
-  - href: https://www.digitalhealth.net/digital-patient/feed/
-  - href: https://www.digitalhealth.net/infrastructure/feed/
-  - href: https://www.digitalhealth.net/shared-records/feed/
-  - href: https://www.digitalhealth.net/interoperability/feed/
+ # - href: https://www.digitalhealth.net/cyber-security/feed/ #cybersec
+ # - href: https://www.digitalhealth.net/digital-patient/feed/
+ # - href: https://www.digitalhealth.net/infrastructure/feed/
+ # - href: https://www.digitalhealth.net/shared-records/feed/
+ # - href: https://www.digitalhealth.net/interoperability/feed/
   - href: https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
 
 siteTitle: "Industry Feed"
