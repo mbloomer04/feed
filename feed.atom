@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-10T15:08:54.686Z</updated>
+    <updated>2024-04-10T16:13:23.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious PowerShell script pushing malware looks AI-written]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/"/>
+        <updated>2024-04-10T16:12:40.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor is using a PowerShell script that was likely created with the help of an artificial intelligence system such as OpenAI's ChatGPT, Google's Gemini, or Microsoft's CoPilot. [...]]]></summary>
+        <author>
+            <name>Ionut Ilascu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Female GP leader numbers growing… but still work to do]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146400</id>
+        <link href="https://www.pulsetoday.co.uk/analysis/special-investigations/sexism-in-general-practice/female-gp-leader-numbers-growing-but-still-work-to-do/"/>
+        <updated>2024-04-10T15:53:58.000Z</updated>
+        <summary type="html"><![CDATA[In the last part of our investigation on sexism in general practice, Anna Colivicchi looks at imbalances at leadership level  Female GPs still face sexist attitudes and harassment in the practice, hampered career progression and unequal pay. Yet in terms of representation in leadership positions, things do seem to be improving – although men still
+The post Female GP leader numbers growing… but still work to do  appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs lose access to ‘oversubscribed’ sustainability loan scheme]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146413</id>

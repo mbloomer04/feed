@@ -123,6 +123,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146400",
+          "author": "Anna Colivicchi",
+          "description": "In the last part of our investigation on sexism in general practice, Anna Colivicchi looks at imbalances at leadership level  Female GPs still face sexist attitudes and harassment in the practice, hampered career progression and unequal pay. Yet in terms of representation in leadership positions, things do seem to be improving – although men still\nThe post Female GP leader numbers growing… but still work to do  appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/special-investigations/sexism-in-general-practice/female-gp-leader-numbers-growing-but-still-work-to-do/",
+          "publishedOn": "2024-04-10T15:53:58.000Z",
+          "wordCount": 4315,
+          "title": "Female GP leader numbers growing… but still work to do",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Female-leadership.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146413",
           "author": "Eliza Parr",
           "description": "The Scottish Government has suspended its ‘sustainability’ loan scheme for GPs due to oversubscription.  Last month, the Government wrote to practices to say it is ‘temporarily unable’ to process new loans and cannot confirm when the scheme will reopen.  Scottish health secretary Neil Gray blamed ‘significant’ reductions in UK Government funding for the suspension.  BMA\nThe post GPs lose access to ‘oversubscribed’ sustainability loan scheme appeared first on Pulse Today.",
@@ -1512,6 +1522,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/",
+          "author": "Ionut Ilascu",
+          "description": "A threat actor is using a PowerShell script that was likely created with the help of an artificial intelligence system such as OpenAI's ChatGPT, Google's Gemini, or Microsoft's CoPilot. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/",
+          "publishedOn": "2024-04-10T16:12:40.000Z",
+          "wordCount": 2372,
+          "title": "Malicious PowerShell script pushing malware looks AI-written",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/10/artificial-intelligence-eyes.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/",
           "author": "Bill Toulas",
