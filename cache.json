@@ -1523,6 +1523,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/",
+          "author": "Bill Toulas",
+          "description": "Researchers have demonstrated the \"first native Spectre v2 exploit\" for a new speculative execution side-channel flaw that impacts Linux systems running on many modern Intel processors. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/",
+          "publishedOn": "2024-04-10T17:19:34.000Z",
+          "wordCount": 2455,
+          "title": "New Spectre v2 attack impacts Linux systems on Intel CPUs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/intel-core-header.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/",
           "author": "Ionut Ilascu",
           "description": "A threat actor is using a PowerShell script that was likely created with the help of an artificial intelligence system such as OpenAI's ChatGPT, Google's Gemini, or Microsoft's CoPilot. [...]",
@@ -2134,16 +2144,6 @@
           "publishedOn": "2024-03-13T03:47:22.000Z",
           "wordCount": 64832,
           "title": "ClickASnap - 3,262,980 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
-        },
-        {
-          "id": "Flipkart",
-          "author": null,
-          "description": "In September 2022, over 500k customer records from the Indian e-commerce service Flipkart appeared on a popular hacking forum. The breach exposed email addresses, latitudes and longitudes, names and phone numbers.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#Flipkart",
-          "publishedOn": "2024-03-12T05:09:11.000Z",
-          "wordCount": 64832,
-          "title": "Flipkart - 552,094 breached accounts",
           "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
         }
       ]

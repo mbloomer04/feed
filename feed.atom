@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-10T17:08:03.524Z</updated>
+    <updated>2024-04-10T18:12:46.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Spectre v2 attack impacts Linux systems on Intel CPUs]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/"/>
+        <updated>2024-04-10T17:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have demonstrated the "first native Spectre v2 exploit" for a new speculative execution side-channel flaw that impacts Linux systems running on many modern Intel processors. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious PowerShell script pushing malware looks AI-written]]></title>
         <id>https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/</id>
@@ -2136,16 +2146,6 @@ The report hi…]]></summary>
         <summary type="html"><![CDATA[The number of children who died before their fifth birthday has reached a historic low, dropping to 4.9 million in 2022, according to the latest estimates released today by the United Nations Inter-agency Group for Child Mortality Estimation (UN IGME).]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flipkart - 552,094 breached accounts]]></title>
-        <id>Flipkart</id>
-        <link href="https://haveibeenpwned.com/PwnedWebsites#Flipkart"/>
-        <updated>2024-03-12T05:09:11.000Z</updated>
-        <summary type="html"><![CDATA[In September 2022, over 500k customer records from the Indian e-commerce service Flipkart appeared on a popular hacking forum. The breach exposed email addresses, latitudes and longitudes, names and phone numbers.]]></summary>
-        <author>
-            <name>Have I Been Pwned latest breaches</name>
         </author>
     </entry>
 </feed>
