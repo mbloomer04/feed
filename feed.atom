@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-10T12:15:54.166Z</updated>
+    <updated>2024-04-10T13:09:43.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[News story: Government confirms scope of Essex mental health inquiry]]></title>
+        <id>https://www.gov.uk/government/news/government-confirms-scope-of-essex-mental-health-inquiry</id>
+        <link href="https://www.gov.uk/government/news/government-confirms-scope-of-essex-mental-health-inquiry"/>
+        <updated>2024-04-10T13:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Department publishes terms of reference for statutory inquiry following deaths of NHS mental health inpatients in Essex]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4475 - Fortinet Releases Multiple Security Advisories]]></title>
+        <id>da226fa2-fb9a-4798-8871-1da2211eed6e</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4475"/>
+        <updated>2024-04-10T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ The security advisories address a critical vulnerability in FortiClientLinux, a high vulnerability in FortiClientMac, and a high vulnerability in FortiOS and FortiProxy.
+ The security advisories address a critical vulnerability in FortiClientLinux, a high vulnerability in FortiClientMac, and a high vulnerability in FortiOS and FortiProxy.
+ Updated: 10 Apr 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Independent review of gender identity services for children and young people]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/04/independent-review-of-gender-identity-services-for-children-and-young-people.html</id>

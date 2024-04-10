@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "da226fa2-fb9a-4798-8871-1da2211eed6e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The security advisories address a critical vulnerability in FortiClientLinux, a high vulnerability in FortiClientMac, and a high vulnerability in FortiOS and FortiProxy.\n The security advisories address a critical vulnerability in FortiClientLinux, a high vulnerability in FortiClientMac, and a high vulnerability in FortiOS and FortiProxy.\n Updated: 10 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4475",
+          "publishedOn": "2024-04-10T12:25:00.000Z",
+          "wordCount": 841,
+          "title": "CC-4475 - Fortinet Releases Multiple Security Advisories",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "a6d59375-50e9-4ba6-a918-c4872747aaa2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could lead to arbitrary code execution\n Successful exploitation could lead to arbitrary code execution\n Updated: 04 Apr 2024",
@@ -801,6 +811,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-confirms-scope-of-essex-mental-health-inquiry",
+          "author": null,
+          "description": "Department publishes terms of reference for statutory inquiry following deaths of NHS mental health inpatients in Essex",
+          "link": "https://www.gov.uk/government/news/government-confirms-scope-of-essex-mental-health-inquiry",
+          "publishedOn": "2024-04-10T13:03:30.000Z",
+          "wordCount": 1755,
+          "title": "News story: Government confirms scope of Essex mental health inquiry",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/lampard-inquiry-terms-of-reference",
           "author": null,
