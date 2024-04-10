@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-10T07:10:18.995Z</updated>
+    <updated>2024-04-10T08:13:00.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Greater Glasgow and Clyde first to roll out head-CT AI solution]]></title>
+        <id>https://www.digitalhealth.net/?p=173417</id>
+        <link href="https://www.digitalhealth.net/2024/04/nhs-greater-glasgow-and-clyde-first-to-roll-out-head-ct-ai-solution/"/>
+        <updated>2024-04-10T07:30:28.000Z</updated>
+        <summary type="html"><![CDATA[NHS Greater Glasgow and Clyde's emergency department clinicians are now using an AI tool from Qure.ai to help improve decision making.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS Greater Glasgow and Clyde first to roll out head-CT AI solution]]></title>
+        <id>https://www.digitalhealth.net/?p=173417</id>
+        <link href="https://www.digitalhealth.net/2024/04/nhs-greater-glasgow-and-clyde-first-to-roll-out-head-ct-ai-solution/"/>
+        <updated>2024-04-10T07:30:28.000Z</updated>
+        <summary type="html"><![CDATA[NHS Greater Glasgow and Clyde's emergency department clinicians are now using an AI tool from Qure.ai to help improve decision making.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft fixes two Windows zero-days exploited in malware attacks]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/</id>
