@@ -1583,6 +1583,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
+          "author": "Bill Toulas",
+          "description": "DuckDuckGo has launched a new paid-for 3-in-1 subscription service called 'Privacy Pro,' which includes a virtual private network (VPN), a personal data removal service, and an identity theft restoration solution. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
+          "publishedOn": "2024-04-11T12:00:00.000Z",
+          "wordCount": 2461,
+          "title": "DuckDuckGo launches a premium Privacy Pro VPN service",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/10/duckduckgo-datacenter.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/",
           "author": "Ionut Ilascu",
           "description": "Google has announced a new version of its browser for organizations, Chrome Enterprise Premium, which comes with extended security controls for a monthly fee per user. [...]",
