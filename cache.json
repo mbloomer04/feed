@@ -1633,6 +1633,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/",
+          "author": "Sergiu Gatlan",
+          "description": "CISA has issued a new emergency directive ordering U.S. federal agencies to address risks resulting from the breach of multiple Microsoft corporate email accounts by the Russian APT29 hacking group. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/",
+          "publishedOn": "2024-04-11T17:47:19.000Z",
+          "wordCount": 2348,
+          "title": "CISA orders agencies impacted by Microsoft hack to mitigate risks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/14/CISA.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/",
           "author": "Bill Toulas",
           "description": "An almost 6-year-old vulnerability in the Lighttpd web server used in Baseboard Management Controllers has been overlooked by many device vendors, including Intel and Lenovo. [...]",

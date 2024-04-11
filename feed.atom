@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T17:08:32.514Z</updated>
+    <updated>2024-04-11T18:10:56.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA orders agencies impacted by Microsoft hack to mitigate risks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/"/>
+        <updated>2024-04-11T17:47:19.000Z</updated>
+        <summary type="html"><![CDATA[CISA has issued a new emergency directive ordering U.S. federal agencies to address risks resulting from the breach of multiple Microsoft corporate email accounts by the Russian APT29 hacking group. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel and Lenovo servers impacted by 6-year-old BMC flaw]]></title>
         <id>https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/</id>
