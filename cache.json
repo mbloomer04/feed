@@ -400,6 +400,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1868536",
+          "author": null,
+          "description": "A former practice manager has been jailed for three years for stealing just under £70,000 from a GP practice.",
+          "link": "https://www.gponline.com/practice-manager-jailed-three-years-70000-gp-surgery-fraud/article/1868536",
+          "publishedOn": "2024-04-11T14:38:58.000Z",
+          "wordCount": 673,
+          "title": "Practice manager jailed for three years over £70,000 GP surgery fraud",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Asghar.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1868470",
           "author": null,
           "description": "Northern Ireland has moved all vasectomy services out of hospital and into general practice on a permanent basis - shifting around an extra £500m into primary care.",
@@ -1623,6 +1633,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/",
+          "author": "Sergiu Gatlan",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/",
+          "publishedOn": "2024-04-11T14:55:04.000Z",
+          "wordCount": 2083,
+          "title": "CISA says Sisense hack impacts critical infrastructure orgs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/Sisense-headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/",
           "author": "Sergiu Gatlan",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
@@ -2334,16 +2354,6 @@
           "publishedOn": "2024-03-19T06:30:49.000Z",
           "wordCount": 64832,
           "title": "AT&T - 49,102,176 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
-        },
-        {
-          "id": "ClickASnap",
-          "author": null,
-          "description": "In September 2022, the online photo sharing platform ClickASnap suffered a data breach. The incident exposed almost 3.3M personal records including email addresses, usernames and passwords stored as SHA-512 hashes. Further, a collection of paid subscriptions were also included and contained names, physical addresses and amounts paid.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#ClickASnap",
-          "publishedOn": "2024-03-13T03:47:22.000Z",
-          "wordCount": 64832,
-          "title": "ClickASnap - 3,262,980 breached accounts",
           "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
         }
       ]

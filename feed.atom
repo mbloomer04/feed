@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T15:09:23.758Z</updated>
+    <updated>2024-04-11T16:10:01.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -15,6 +15,16 @@
 The post Case of the month: What is the cause of this patient’s bradycardia? appeared first on Pulse Today.]]></summary>
         <author>
             <name>Caroline Price</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA says Sisense hack impacts critical infrastructure orgs]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/"/>
+        <updated>2024-04-11T14:55:04.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +56,16 @@ The post Children and young people ‘let down by unevidenced NHS gender care’
         <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice manager jailed for three years over £70,000 GP surgery fraud]]></title>
+        <id>https://www.gponline.com/article/1868536</id>
+        <link href="https://www.gponline.com/practice-manager-jailed-three-years-70000-gp-surgery-fraud/article/1868536"/>
+        <updated>2024-04-11T14:38:58.000Z</updated>
+        <summary type="html"><![CDATA[A former practice manager has been jailed for three years for stealing just under £70,000 from a GP practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2339,16 +2359,6 @@ NHS England provides more than 100 national digital services for the NHS. They�
 However, after speaking with digital leaders across the system, our ‘Who Does What’ programme team identified two important problems.]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickASnap - 3,262,980 breached accounts]]></title>
-        <id>ClickASnap</id>
-        <link href="https://haveibeenpwned.com/PwnedWebsites#ClickASnap"/>
-        <updated>2024-03-13T03:47:22.000Z</updated>
-        <summary type="html"><![CDATA[In September 2022, the online photo sharing platform ClickASnap suffered a data breach. The incident exposed almost 3.3M personal records including email addresses, usernames and passwords stored as SHA-512 hashes. Further, a collection of paid subscriptions were also included and contained names, physical addresses and amounts paid.]]></summary>
-        <author>
-            <name>Have I Been Pwned latest breaches</name>
         </author>
     </entry>
 </feed>
