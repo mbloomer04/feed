@@ -123,6 +123,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146201",
+          "author": "Caroline Price",
+          "description": "In the first of a new monthly series, we are asking readers to help solve this case involving a patient treated for arrhythmia who develops unexplained bradycardia. Post your answers below! Case: A 64 year old man is found to be experiencing multiple ventricular ectopics when a resting ECG is performed as part of a\nThe post Case of the month: What is the cause of this patient’s bradycardia? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/cardiovascular/case-of-the-month-what-is-the-cause-of-this-patients-bradycardia/",
+          "publishedOn": "2024-04-11T14:56:18.000Z",
+          "wordCount": 2608,
+          "title": "Case of the month: What is the cause of this patient’s bradycardia?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Case-of-the-month-image.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=146474",
+          "author": "Anna Colivicchi",
+          "description": "Children and young people seeking NHS care for gender-related distress have been let down by the ‘remarkably weak evidence base’ and an increasingly toxic public debate, the final Cass review has concluded. In a detailed analysis of NHS gender services for those under the age of 18 years, paediatrician Dr Hilary Cass called for a\nThe post Children and young people ‘let down by unevidenced NHS gender care’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/paediatrics/children-and-young-people-let-down-by-unevidenced-nhs-gender-care/",
+          "publishedOn": "2024-04-11T14:42:51.000Z",
+          "wordCount": 3192,
+          "title": "Children and young people ‘let down by unevidenced NHS gender care’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/y/b/k/GettyImages-482988416-scaled-e1622119527678.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146450",
           "author": "Anna Colivicchi",
           "description": "Practices may not receive exactly the same QOF payment in 2024/25 as they did last year when it comes to ‘income protected’ indicators, new NHS England guidance has warned. The commissioner has confirmed in its recently published latest QOF guidance that an additional 13 indicators will be protected this year taking the total that won’t be based\nThe post GP practices may not receive same QOF payment as last year, NHS England warns appeared first on Pulse Today.",
@@ -932,6 +952,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2024-04-11T14:42:37.000Z",
+          "wordCount": 7232,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/diagnostic-checks-rolled-out-to-160-sites-under-cdc-programme",
           "author": null,
           "description": "Community Diagnostic Centre sites have already delivered over 7 million tests, checks and scans to patients across England.",
@@ -1592,6 +1622,36 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/",
+          "author": "Sergiu Gatlan",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/",
+          "publishedOn": "2024-04-11T14:55:04.000Z",
+          "wordCount": 2060,
+          "title": "CISA investigates critical infrastructure breach after Sisense hack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/Sisense.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/",
+          "author": "Bill Toulas",
+          "description": "Apple has been notifying iPhone users in 92 countries about a \"mercenary spyware attack\" attempting to remotely compromise their device. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/",
+          "publishedOn": "2024-04-11T14:16:44.000Z",
+          "wordCount": 2431,
+          "title": "Apple: Mercenary spyware attacks target iPhone users in 92 countries",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/back.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/",
+          "author": "Sponsored by Nudge Security",
+          "description": "Employee offboarding isn't anybody's favorite task—but it's a critical IT process that needs to be executed diligently and efficiently. Learn more from Nudge Security on automating offboarding of users in a secure manner. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/",
+          "publishedOn": "2024-04-11T14:02:04.000Z",
+          "wordCount": 2814,
+          "title": "How to automate up to 90% of IT offboarding tasks",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/10/nudge-offboarding.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
           "author": "Bill Toulas",
