@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T16:10:01.184Z</updated>
+    <updated>2024-04-11T17:08:32.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel and Lenovo servers impacted by 6-year-old BMC flaw]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/"/>
+        <updated>2024-04-11T16:50:21.000Z</updated>
+        <summary type="html"><![CDATA[An almost 6-year-old vulnerability in the Lighttpd web server used in Baseboard Management Controllers has been overlooked by many device vendors, including Intel and Lenovo. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Case of the month: What is the cause of this patient’s bradycardia?]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146201</id>

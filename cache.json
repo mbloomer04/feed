@@ -1633,6 +1633,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/",
+          "author": "Bill Toulas",
+          "description": "An almost 6-year-old vulnerability in the Lighttpd web server used in Baseboard Management Controllers has been overlooked by many device vendors, including Intel and Lenovo. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/",
+          "publishedOn": "2024-04-11T16:50:21.000Z",
+          "wordCount": 2326,
+          "title": "Intel and Lenovo servers impacted by 6-year-old BMC flaw",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/18/warning.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/",
           "author": "Sergiu Gatlan",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
