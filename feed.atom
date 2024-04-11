@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T06:11:57.777Z</updated>
+    <updated>2024-04-11T07:09:39.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2173,19 +2173,6 @@ However, after speaking with digital leaders across the system, our ‘Who Does 
         <summary type="html"><![CDATA[In September 2022, the online photo sharing platform ClickASnap suffered a data breach. The incident exposed almost 3.3M personal records including email addresses, usernames and passwords stored as SHA-512 hashes. Further, a collection of paid subscriptions were also included and contained names, physical addresses and amounts paid.]]></summary>
         <author>
             <name>Have I Been Pwned latest breaches</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO report reveals gender inequalities at the root of global crisis in health and care work]]></title>
-        <id>urn:uuid:21a11b68-f0bd-4abe-b862-a1729be154d0</id>
-        <link href="https://www.who.int/news/item/13-03-2024-who-report-reveals-gender-inequalities-at-the-root-of-global-crisis-in-health-and-care-work"/>
-        <updated>2024-03-12T18:12:45.000Z</updated>
-        <summary type="html"><![CDATA[`A new report published by the World Health Organization (WHO), “Fair share for health and care: gender and the undervaluation of health and care work" illustrates how gender inequalities in health and care work negatively impact women, health systems and health outcomes.
-The report outlines underinvestment in health systems results in a vicious cycle of unpaid health and care work, lowering women’s participation in paid labour markets, harming women’s economic empowerment and hampering gender equality.
-Women comprise 67% of the paid global health and care workforce. In addition to this paid work, it has been estimated that women perform an estimated 76% of all unpaid care activities. Work that is done primarily by women tends to be paid less and have poor working conditions.
-The report hi…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
