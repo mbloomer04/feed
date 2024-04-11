@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T22:08:43.048Z</updated>
+    <updated>2024-04-11T23:10:21.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA makes its "Malware Next-Gen" analysis system publicly available]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/"/>
+        <updated>2024-04-11T22:27:13.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a new version of "Malware Next-Gen," now allowing the public to submit malware samples for analysis by CISA. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTable is adding your first name to previously anonymous reviews]]></title>
+        <id>https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/</id>
+        <link href="https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/"/>
+        <updated>2024-04-11T22:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Restaurant reservation platform OpenTable says that all reviews on the platform will no longer be fully anonymous starting May 22nd and will now show members' profile pictures and first names. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LastPass: Hackers targeted employee in failed deepfake CEO call]]></title>
         <id>https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/</id>

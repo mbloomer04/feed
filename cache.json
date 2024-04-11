@@ -1612,6 +1612,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/",
+          "author": "Bill Toulas",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a new version of \"Malware Next-Gen,\" now allowing the public to submit malware samples for analysis by CISA. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/",
+          "publishedOn": "2024-04-11T22:27:13.000Z",
+          "wordCount": 2212,
+          "title": "CISA makes its \"Malware Next-Gen\" analysis system publicly available",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/13/CISA_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/",
+          "author": "Lawrence Abrams",
+          "description": "Restaurant reservation platform OpenTable says that all reviews on the platform will no longer be fully anonymous starting May 22nd and will now show members' profile pictures and first names. [...]",
+          "link": "https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/",
+          "publishedOn": "2024-04-11T22:15:31.000Z",
+          "wordCount": 2192,
+          "title": "OpenTable is adding your first name to previously anonymous reviews",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/opentable.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/",
           "author": "Sergiu Gatlan",
           "description": "LastPass revealed this week that threat actors targeted one of its employees in a voice phishing attack, using deepfake audio to impersonate Karim Toubba, the company's Chief Executive Officer. [...]",
