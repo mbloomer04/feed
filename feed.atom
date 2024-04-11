@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-11T18:10:56.116Z</updated>
+    <updated>2024-04-11T19:07:20.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optics giant Hoya hit with $10 million ransomware demand]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/"/>
+        <updated>2024-04-11T18:15:24.000Z</updated>
+        <summary type="html"><![CDATA[A recent cyberattack on Hoya Corporation was conducted by the 'Hunters International' ransomware operation, which demanded a $10 million ransom for a file decryptor and not to release files stolen during the attack. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA orders agencies impacted by Microsoft hack to mitigate risks]]></title>
         <id>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/</id>

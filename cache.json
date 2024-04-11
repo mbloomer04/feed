@@ -1633,6 +1633,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/",
+          "author": "Bill Toulas",
+          "description": "A recent cyberattack on Hoya Corporation was conducted by the 'Hunters International' ransomware operation, which demanded a $10 million ransom for a file decryptor and not to release files stolen during the attack. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/",
+          "publishedOn": "2024-04-11T18:15:24.000Z",
+          "wordCount": 2196,
+          "title": "Optics giant Hoya hit with $10 million ransomware demand",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/04/Hoya.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/",
           "author": "Sergiu Gatlan",
           "description": "CISA has issued a new emergency directive ordering U.S. federal agencies to address risks resulting from the breach of multiple Microsoft corporate email accounts by the Russian APT29 hacking group. [...]",
