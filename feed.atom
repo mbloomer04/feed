@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T15:08:46.618Z</updated>
+    <updated>2024-04-12T16:10:17.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Former AT&T customers get $6.3 million in data throttling refunds]]></title>
+        <id>https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/</id>
+        <link href="https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/"/>
+        <updated>2024-04-12T15:56:48.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Trade Commission (FTC) is sending out $6,300,000 in partial refunds to 267,000 former AT&T Wireless customers as part of a data throttling settlement in 2019. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Royal College apologises for handling of controversial PA debate]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146524</id>
+        <link href="https://www.pulsetoday.co.uk/news/regulation/royal-college-apologises-for-handling-of-controversial-pa-debate/"/>
+        <updated>2024-04-12T15:48:29.000Z</updated>
+        <summary type="html"><![CDATA[The Royal College of Physicians has announced an ‘independent review’ into its governance following a contentious meeting on physician associates (PAs) last month. College leaders admitted they ‘should have been better’ at listening to members, and now need to ‘reset the organisation’ and ‘restore trust’, with RCP president Dr Sarah Clarke saying she is ‘sorry’
+The post Royal College apologises for handling of controversial PA debate appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roku warns 576,000 accounts hacked in new credential stuffing attacks]]></title>
         <id>https://www.bleepingcomputer.com/news/security/roku-warns-576-000-accounts-hacked-in-new-credential-stuffing-attacks/</id>
