@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T21:08:25.785Z</updated>
+    <updated>2024-04-12T22:07:24.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[On Friday, the Federal Bureau of Investigation warned of a massive ongoing wave of SMS phishing attacks targeting Americans with lures regarding unpaid road toll fees. [...]]]></summary>
         <author>
             <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram fixes Windows app zero-day used to launch Python scripts]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/"/>
+        <updated>2024-04-12T18:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
         </author>
     </entry>
     <entry>

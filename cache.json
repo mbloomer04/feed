@@ -1762,6 +1762,16 @@
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI_headpic.jpg"
         },
         {
+          "id": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/",
+          "author": "Lawrence Abrams",
+          "description": "Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/",
+          "publishedOn": "2024-04-12T18:46:27.000Z",
+          "wordCount": 2862,
+          "title": "Telegram fixes Windows app zero-day used to launch Python scripts",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/08/Telegram_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/",
           "author": "Lawrence Abrams",
           "description": "Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]",
