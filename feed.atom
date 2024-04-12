@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T01:42:49.535Z</updated>
+    <updated>2024-04-12T02:20:32.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -230,6 +230,16 @@ The post NICE recommends first oral drug for preventing both chronic and episodi
         <summary type="html"><![CDATA[A new artificial intelligence tool developed by King's College London has shown promising results in predicting patient's health trajectories.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS staff deliver performance improvements despite record demand]]></title>
+        <id>https://www.england.nhs.uk/?p=244062</id>
+        <link href="https://www.england.nhs.uk/2024/04/nhs-staff-deliver-performance-improvements-despite-record-demand/"/>
+        <updated>2024-04-11T09:44:48.000Z</updated>
+        <summary type="html"><![CDATA[The NHS exceeded its faster diagnosis cancer target for the first time in February amid record demand, according to new figures.  Thanks to the hard work of NHS staff, almost four fifths (78.1%) of people received a definitive cancer diagnosis or all clear within four weeks – with almost 200,000 (199,659) patients getting the answer […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>
