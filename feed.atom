@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T18:09:20.320Z</updated>
+    <updated>2024-04-12T19:08:03.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI warns of massive wave of road toll SMS phishing attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/"/>
+        <updated>2024-04-12T18:56:20.000Z</updated>
+        <summary type="html"><![CDATA[On Friday, the Federal Bureau of Investigation warned of a massive ongoing wave of SMS phishing attacks targeting Americans with lures regarding unpaid road toll fees. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram fixes Windows app zero-day caused by file extension typo]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/"/>
+        <updated>2024-04-12T18:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Amazon engineer gets 3 years for hacking crypto exchanges]]></title>
         <id>https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/</id>

@@ -1742,6 +1742,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/",
+          "author": "Sergiu Gatlan",
+          "description": "On Friday, the Federal Bureau of Investigation warned of a massive ongoing wave of SMS phishing attacks targeting Americans with lures regarding unpaid road toll fees. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/",
+          "publishedOn": "2024-04-12T18:56:20.000Z",
+          "wordCount": 2224,
+          "title": "FBI warns of massive wave of road toll SMS phishing attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/",
+          "author": "Lawrence Abrams",
+          "description": "Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/",
+          "publishedOn": "2024-04-12T18:46:27.000Z",
+          "wordCount": 2861,
+          "title": "Telegram fixes Windows app zero-day caused by file extension typo",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/08/Telegram_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/",
           "author": "Sergiu Gatlan",
           "description": "Former Amazon security engineer Shakeeb Ahmed was sentenced to three years in prison for hacking two cryptocurrency exchanges in July 2022 and stealing over $12 million. [...]",
