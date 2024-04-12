@@ -400,6 +400,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1868610",
+          "author": null,
+          "description": "GPs have warned that NHS cost-cutting risks undermining patient care after an IT tool practices use to speed up referrals was axed in their area.",
+          "link": "https://www.gponline.com/gp-fears-patient-care-referral-tool-axed-to-cut-costs/article/1868610",
+          "publishedOn": "2024-04-12T08:53:25.000Z",
+          "wordCount": 697,
+          "title": "GP fears for patient care after referral tool axed 'to cut costs'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1868601",
           "author": null,
           "description": "More than a fifth of GPs are likely to move abroad within the next 12 months, according to a GMC report that shows the profession is more discontented than any other branch of medicine.",
@@ -2088,6 +2098,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173591",
+          "author": "Jordan Sollof",
+          "description": "Promptly Health and Datavant have announced a collaboration to address the challenges of a fragmented health data landscape in Europe.",
+          "link": "https://www.digitalhealth.net/2024/04/promptly-health-and-datavant-partner-to-advance-euro-health-data-access/",
+          "publishedOn": "2024-04-12T10:00:56.000Z",
+          "wordCount": 1851,
+          "title": "Promptly Health and Datavant partner to advance Euro health data access",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/03/shutterstock_317833073-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=173641",
           "author": "Jordan Sollof",
