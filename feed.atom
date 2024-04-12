@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T13:08:55.205Z</updated>
+    <updated>2024-04-12T14:08:37.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks warns of PAN-OS firewall zero-day used in attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/"/>
+        <updated>2024-04-12T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, Palo Alto Networks warns that an unpatched critical command injection vulnerability in its PAN-OS firewall is being actively exploited in attacks. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4477 - Palo Alto Releases Critical Security Update for PAN-OS GlobalProtect Gateway]]></title>
+        <id>ad2377d3-89a8-48aa-b85a-5c27a5f170d2</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4477"/>
+        <updated>2024-04-12T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Successful exploitation of CVE-2024-3400 could lead to remote code execution
+ Successful exploitation of CVE-2024-3400 could lead to remote code execution
+ Updated: 12 Apr 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What do we want? (Apart from money)]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146274</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ad2377d3-89a8-48aa-b85a-5c27a5f170d2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Updated: 12 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4477",
+          "publishedOn": "2024-04-12T13:15:00.000Z",
+          "wordCount": 932,
+          "title": "CC-4477 - Palo Alto Releases Critical Security Update for PAN-OS GlobalProtect Gateway",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "6a84a715-2054-4e9a-b3c1-384bfbb369e8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 149 vulnerabilities with 2 reported as actively exploited\n Scheduled updates for Microsoft products, including security updates for 149 vulnerabilities with 2 reported as actively exploited\n Updated: 10 Apr 2024",
@@ -1701,6 +1711,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/",
+          "author": "Bill Toulas",
+          "description": "Today, Palo Alto Networks warns that an unpatched critical command injection vulnerability in its PAN-OS firewall is being actively exploited in attacks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/",
+          "publishedOn": "2024-04-12T13:28:00.000Z",
+          "wordCount": 2211,
+          "title": "Palo Alto Networks warns of PAN-OS firewall zero-day used in attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/06/Palo_Alto_Networks.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/",
           "author": "Bill Toulas",
