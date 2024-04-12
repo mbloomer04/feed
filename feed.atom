@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T17:09:39.768Z</updated>
+    <updated>2024-04-12T18:09:20.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Amazon engineer gets 3 years for hacking crypto exchanges]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/"/>
+        <updated>2024-04-12T17:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Former Amazon security engineer Shakeeb Ahmed was sentenced to three years in prison for hacking two cryptocurrency exchanges in July 2022 and stealing over $12 million. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former AT&T customers get $6.3 million in data throttling refunds]]></title>
         <id>https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/</id>
