@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T06:12:27.994Z</updated>
+    <updated>2024-04-12T07:09:27.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Virginity testing and hymenoplasty multi-agency guidance]]></title>
+        <id>https://www.gov.uk/government/publications/virginity-testing-and-hymenoplasty-multi-agency-guidance</id>
+        <link href="https://www.gov.uk/government/publications/virginity-testing-and-hymenoplasty-multi-agency-guidance"/>
+        <updated>2024-04-12T07:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for organisations and anyone who may come in to contact with women and girls affected by virginity testing and hymenoplasty.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA makes its "Malware Next-Gen" analysis system publicly available]]></title>
         <id>https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/</id>
