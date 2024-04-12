@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T20:10:04.748Z</updated>
+    <updated>2024-04-12T21:08:25.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft now testing app ads in Windows 11's Start menu]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/"/>
+        <updated>2024-04-12T20:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has started testing ads in the Windows 11 Start menu, a new experiment the company says will help users find new "great" apps in the Microsoft Store. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI warns of massive wave of road toll SMS phishing attacks]]></title>
         <id>https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/</id>
