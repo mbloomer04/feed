@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-12T23:06:46.103Z</updated>
+    <updated>2024-04-13T00:33:45.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giant Tiger - 2,842,669 breached accounts]]></title>
+        <id>GiantTiger</id>
+        <link href="https://haveibeenpwned.com/PwnedWebsites#GiantTiger"/>
+        <updated>2024-04-12T22:31:29.000Z</updated>
+        <summary type="html"><![CDATA[In March 2024, Canadian discount store Giant Tiger suffered a data breach that exposed 2.8M customer records. Attributed to a vendor of the retailer, the breach included physical and email addresses, names and phone numbers.]]></summary>
+        <author>
+            <name>Have I Been Pwned latest breaches</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft now testing app ads in Windows 11's Start menu]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/</id>
@@ -2631,19 +2641,6 @@ Over 80% of neurological deaths and health loss occur in low- and middle-income 
  PaperCut has released a security update to address multiple vulnerabilities in PaperCut MF/NG Servers, three of which are high severity
  PaperCut has released a security update to address multiple vulnerabilities in PaperCut MF/NG Servers, three of which are high severity
  Updated: 14 Mar 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4464 - Fortinet Releases Multiple Security Advisories]]></title>
-        <id>27d18258-9e5b-4355-8007-24d37986dad7</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4464"/>
-        <updated>2024-03-14T11:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- The security advisories address two critical, two high, and two medium vulnerabilities impacting FortiOS, FortiClientEMS and FortiProxy
- The security advisories address two critical, two high, and two medium vulnerabilities impacting FortiOS, FortiClientEMS and FortiProxy
- Updated: 22 Mar 2024]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>

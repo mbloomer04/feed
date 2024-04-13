@@ -114,16 +114,6 @@
           "wordCount": 1012,
           "title": "CC-4467 - Multiple Vulnerabilities in PaperCut MF/NG Servers",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "27d18258-9e5b-4355-8007-24d37986dad7",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The security advisories address two critical, two high, and two medium vulnerabilities impacting FortiOS, FortiClientEMS and FortiProxy\n The security advisories address two critical, two high, and two medium vulnerabilities impacting FortiOS, FortiClientEMS and FortiProxy\n Updated: 22 Mar 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4464",
-          "publishedOn": "2024-03-14T11:56:00.000Z",
-          "wordCount": 1184,
-          "title": "CC-4464 - Fortinet Releases Multiple Security Advisories",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -2525,6 +2515,16 @@
       "feedUrl": "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
       "siteUrl": "https://haveibeenpwned.com/",
       "articles": [
+        {
+          "id": "GiantTiger",
+          "author": null,
+          "description": "In March 2024, Canadian discount store Giant Tiger suffered a data breach that exposed 2.8M customer records. Attributed to a vendor of the retailer, the breach included physical and email addresses, names and phone numbers.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#GiantTiger",
+          "publishedOn": "2024-04-12T22:31:29.000Z",
+          "wordCount": 64975,
+          "title": "Giant Tiger - 2,842,669 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
         {
           "id": "SalvadoranCitizens",
           "author": null,
