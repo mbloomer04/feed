@@ -1722,6 +1722,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/",
+          "author": "Ax Sharma",
+          "description": "Royal Mail, the British postal and courier service began switching all snail mail stamps to barcoded stamps last year. The purpose of the barcode was to enhance security, deter stamp reuse, and possibly prevent forgeries—which it has failed to do. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/",
+          "publishedOn": "2024-04-13T09:05:00.000Z",
+          "wordCount": 2995,
+          "title": "UK flooded with forged stamps despite using barcodes — to prevent just that",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/07/04/royal-mail-barcoded-stamps.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/",
           "author": "Sergiu Gatlan",
           "description": "Microsoft has started testing ads in the Windows 11 Start menu, a new experiment the company says will help users find new \"great\" apps in the Microsoft Store. [...]",

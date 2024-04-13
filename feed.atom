@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T09:07:39.851Z</updated>
+    <updated>2024-04-13T10:07:38.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK flooded with forged stamps despite using barcodes — to prevent just that]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/"/>
+        <updated>2024-04-13T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Royal Mail, the British postal and courier service began switching all snail mail stamps to barcoded stamps last year. The purpose of the barcode was to enhance security, deter stamp reuse, and possibly prevent forgeries—which it has failed to do. [...]]]></summary>
+        <author>
+            <name>Ax Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giant Tiger - 2,842,669 breached accounts]]></title>
         <id>GiantTiger</id>
