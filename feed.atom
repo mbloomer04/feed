@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T12:12:57.418Z</updated>
+    <updated>2024-04-13T13:08:43.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks zero-day exploited since March to backdoor firewalls]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/"/>
+        <updated>2024-04-13T12:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Suspected state-sponsored hackers have been exploiting a zero-day vulnerability in Palo Alto Networks firewalls tracked as CVE-2024-3400 since March 26, using the compromised devices to breach internal networks, steal data and credentials. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK flooded with forged stamps despite using barcodes — to prevent just that]]></title>
         <id>https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/</id>

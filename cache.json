@@ -1732,6 +1732,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/",
+          "author": "Lawrence Abrams",
+          "description": "Suspected state-sponsored hackers have been exploiting a zero-day vulnerability in Palo Alto Networks firewalls tracked as CVE-2024-3400 since March 26, using the compromised devices to breach internal networks, steal data and credentials. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/",
+          "publishedOn": "2024-04-13T12:35:15.000Z",
+          "wordCount": 2820,
+          "title": "Palo Alto Networks zero-day exploited since March to backdoor firewalls",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/08/Hacker_datacenter_servers.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/",
           "author": "Ax Sharma",
           "description": "Royal Mail, the British postal and courier service began switching all snail mail stamps to barcoded stamps last year. The purpose of the barcode was to enhance security, deter stamp reuse, and possibly prevent forgeries—which it has failed to do. [...]",
