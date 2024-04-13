@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T17:05:48.893Z</updated>
+    <updated>2024-04-13T18:09:05.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firebird RAT creator and seller arrested in the U.S. and Australia]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/"/>
+        <updated>2024-04-13T14:17:34.000Z</updated>
+        <summary type="html"><![CDATA[A joint police operation between the Australian Federal Police (AFP) and the FBI has led to the arrest and charging of two individuals who are believed to be behind the development and distribution of the "Firebird" remote access trojan (RAT), later rebranded as "Hive." [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacker claims Giant Tiger data breach, leaks 2.8M records online]]></title>
         <id>https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/</id>

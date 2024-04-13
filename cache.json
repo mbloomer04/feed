@@ -1732,6 +1732,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/",
+          "author": "Bill Toulas",
+          "description": "A joint police operation between the Australian Federal Police (AFP) and the FBI has led to the arrest and charging of two individuals who are believed to be behind the development and distribution of the \"Firebird\" remote access trojan (RAT), later rebranded as \"Hive.\" [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/",
+          "publishedOn": "2024-04-13T14:17:34.000Z",
+          "wordCount": 2198,
+          "title": "Firebird RAT creator and seller arrested in the U.S. and Australia",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/police-arrest-hacker.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/",
           "author": "Ax Sharma",
           "description": "Canadian retail chain Giant Tiger disclosed a data breach in March 2024. A threat actor has now publicly claimed responsibility for the data breach and leaked 2.8 million records on a hacker forum that they claim are of Giant Tiger customers. [...]",
