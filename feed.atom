@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T22:08:17.896Z</updated>
+    <updated>2024-04-13T23:10:10.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: AI to help keep people in work through £1.5 million investment in occupational health]]></title>
+        <id>https://www.gov.uk/government/news/ai-to-help-keep-people-in-work-through-15-million-investment-in-occupational-health</id>
+        <link href="https://www.gov.uk/government/news/ai-to-help-keep-people-in-work-through-15-million-investment-in-occupational-health"/>
+        <updated>2024-04-13T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Reforms to occupational health services will be shaped through a £1.5m innovation fund, as the government continues its drive to tackle in work sickness and boost economic activity using new technology and artificial intelligence.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firebird RAT creator and seller arrested in the U.S. and Australia]]></title>
         <id>https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/</id>
