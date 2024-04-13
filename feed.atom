@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T13:08:43.475Z</updated>
+    <updated>2024-04-13T14:07:58.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacker claims Giant Tiger data breach, leaks 2.8M records online]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/"/>
+        <updated>2024-04-13T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Canadian retail chain Giant Tiger disclosed a data breach in March 2024. A threat actor has now publicly claimed responsibility for the data breach and leaked 2.8 million records on a hacker forum that they claim are of Giant Tiger customers. [...]]]></summary>
+        <author>
+            <name>Ax Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palo Alto Networks zero-day exploited since March to backdoor firewalls]]></title>
         <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/</id>

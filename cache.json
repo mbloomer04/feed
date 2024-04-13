@@ -1732,6 +1732,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/",
+          "author": "Ax Sharma",
+          "description": "Canadian retail chain Giant Tiger disclosed a data breach in March 2024. A threat actor has now publicly claimed responsibility for the data breach and leaked 2.8 million records on a hacker forum that they claim are of Giant Tiger customers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/",
+          "publishedOn": "2024-04-13T14:00:16.000Z",
+          "wordCount": 2437,
+          "title": "Hacker claims Giant Tiger data breach, leaks 2.8M records online",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/13/giant-tiger-bg.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/",
           "author": "Lawrence Abrams",
           "description": "Suspected state-sponsored hackers have been exploiting a zero-day vulnerability in Palo Alto Networks firewalls tracked as CVE-2024-3400 since March 26, using the compromised devices to breach internal networks, steal data and credentials. [...]",
