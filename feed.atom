@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-13T04:10:38.300Z</updated>
+    <updated>2024-04-13T05:10:07.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2630,19 +2630,6 @@ Neurological conditions are now the leading cause of ill health and disability w
 Over 80% of neurological deaths and health loss occur in low- and middle-income countries, and access to treatment varies widely: high-income countries have up to 70 times more neurological professionals per 100 000 people than low- …]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4467 - Multiple Vulnerabilities in PaperCut MF/NG Servers]]></title>
-        <id>dc0d7c63-2eae-4b7f-83e4-0ca5cd4a2e73</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4467"/>
-        <updated>2024-03-14T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- PaperCut has released a security update to address multiple vulnerabilities in PaperCut MF/NG Servers, three of which are high severity
- PaperCut has released a security update to address multiple vulnerabilities in PaperCut MF/NG Servers, three of which are high severity
- Updated: 14 Mar 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
