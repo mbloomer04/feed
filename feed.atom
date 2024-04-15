@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T21:09:59.875Z</updated>
+    <updated>2024-04-15T22:08:03.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware gang starts leaking alleged stolen Change Healthcare data]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/"/>
+        <updated>2024-04-15T21:54:20.000Z</updated>
+        <summary type="html"><![CDATA[The RansomHub extortion gang has begun leaking what they claim is corporate and patient data stolen from United Health subsidiary Change Healthcare in what has been a long and convoluted extortion process for the company. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New SteganoAmor attacks use steganography to target 320 orgs globally]]></title>
         <id>https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/</id>

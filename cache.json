@@ -1991,6 +1991,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/",
+          "author": "Lawrence Abrams",
+          "description": "The RansomHub extortion gang has begun leaking what they claim is corporate and patient data stolen from United Health subsidiary Change Healthcare in what has been a long and convoluted extortion process for the company. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/",
+          "publishedOn": "2024-04-15T21:54:20.000Z",
+          "wordCount": 2194,
+          "title": "Ransomware gang starts leaking alleged stolen Change Healthcare data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/28/UnitedHealth_Group_UHG.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/",
           "author": "Bill Toulas",
           "description": "A new campaign conducted by the TA558 hacking group is concealing malicious code inside images using steganography to deliver various malware tools onto targeted systems. [...]",
