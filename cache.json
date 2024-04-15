@@ -113,6 +113,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=145950",
+          "author": "Sofia Lind",
+          "description": "Some progestogen medicines used for contraception or to manage conditions like endometriosis have been linked to an increased risk of a type of brain tumour in a large study. Researchers looked at use of eight progestogen medicines in a group of 18,000 women who had undergone surgery to remove meningiomas and compared it with five\nThe post Injectable contraception associated with increased risk of meningioma, say researchers appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/womens-health/injectable-contraception-associated-with-increased-risk-of-meningioma-say-researchers/",
+          "publishedOn": "2024-04-15T11:15:56.000Z",
+          "wordCount": 2641,
+          "title": "Injectable contraception associated with increased risk of meningioma, say researchers",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/03/contraception.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146537",
           "author": "Eliza Parr",
           "description": "NHS England’s mental health support service for health professionals will no longer take on new secondary care doctors, and will review its offer to all staff groups in the long term. The NHS Practitioner Health service will remain in place for GPs and other primary care staff for now, with NHS England confirming an extension\nThe post NHS England reviewing future of practitioner mental health service appeared first on Pulse Today.",
@@ -478,6 +488,16 @@
           "wordCount": 717,
           "title": "NHS England cuts mental health support for doctors and other staff",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1321701820_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1868791",
+          "author": null,
+          "description": "Unused locum GP capacity could deliver more than 250,000 extra appointments a week if practices were funded to employ them, analysis by GPonline suggests.",
+          "link": "https://www.gponline.com/untapped-locum-capacity-deliver-250000-extra-gp-appointments-week/article/1868791",
+          "publishedOn": "2024-04-15T09:59:46.000Z",
+          "wordCount": 690,
+          "title": "Untapped locum capacity could deliver 250,000 extra GP appointments a week",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP-201412220249265751-2018031206200658_62.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1868610",
@@ -1780,6 +1800,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has finally lifted a compatibility hold blocking Windows 11 upgrades on systems with Intel 11th Gen Core processors and Intel Smart Sound Technology (SST) audio drivers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/",
+          "publishedOn": "2024-04-15T11:42:00.000Z",
+          "wordCount": 2216,
+          "title": "Microsoft lifts Windows 11 block on some Intel systems after 2 years",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/13/Windows_11.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/opentable-wont-add-first-names-photos-to-old-reviews-after-backlash/",
           "author": "Lawrence Abrams",
