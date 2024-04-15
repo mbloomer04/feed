@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T22:08:03.016Z</updated>
+    <updated>2024-04-15T23:08:31.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[News story: MPs to vote on landmark Bill to create Smokefree generation]]></title>
+        <id>https://www.gov.uk/government/news/mps-to-vote-on-landmark-bill-to-create-smokefree-generation</id>
+        <link href="https://www.gov.uk/government/news/mps-to-vote-on-landmark-bill-to-create-smokefree-generation"/>
+        <updated>2024-04-15T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[MPs to vote on legislation to create first smoke-free generation, protecting young people turning 15 this year or younger from harms of smoking]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ransomware gang starts leaking alleged stolen Change Healthcare data]]></title>
         <id>https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/</id>
