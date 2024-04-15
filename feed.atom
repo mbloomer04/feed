@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T17:08:29.544Z</updated>
+    <updated>2024-04-15T18:11:16.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto miner arrested for skipping on $3.5 million in cloud server bills]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/"/>
+        <updated>2024-04-15T18:10:41.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice has announced the arrest and indictment of Charles O. Parks III, known as "CP3O," for allegedly renting large numbers of cloud servers to conduct crypto mining and then skipping out on paying the bills. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England U-turns on plans to cut practitioner mental health service]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146577</id>

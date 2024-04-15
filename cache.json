@@ -1991,6 +1991,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/",
+          "author": "Bill Toulas",
+          "description": "The U.S. Department of Justice has announced the arrest and indictment of Charles O. Parks III, known as \"CP3O,\" for allegedly renting large numbers of cloud servers to conduct crypto mining and then skipping out on paying the bills. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/",
+          "publishedOn": "2024-04-15T18:10:41.000Z",
+          "wordCount": 2263,
+          "title": "Crypto miner arrested for skipping on $3.5 million in cloud server bills",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/15/bitcoin-hacker.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/chipmaker-nexperia-confirms-breach-after-ransomware-gang-leaks-data/",
           "author": "Bill Toulas",
           "description": "Dutch chipmaker Nexperia confirmed late last week that hackers breached its network in March 2024 after a ransomware gang leaked samples of allegedly stolen data. [...]",
