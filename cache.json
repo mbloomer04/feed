@@ -1991,6 +1991,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/",
+          "author": "Bill Toulas",
+          "description": "A new campaign conducted by the TA558 hacking group is concealing malicious code inside images using steganography to deliver various malware tools onto targeted systems. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/",
+          "publishedOn": "2024-04-15T20:31:28.000Z",
+          "wordCount": 2332,
+          "title": "New SteganoAmor attacks use steganography to target 320 orgs globally",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/26/hacker.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/",
           "author": "Sergiu Gatlan",
           "description": "Microsoft has announced plans to fight spam by imposing a daily Exchange Online bulk email limit of 2,000 external recipients starting January 2025. [...]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T20:09:06.044Z</updated>
+    <updated>2024-04-15T21:09:59.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New SteganoAmor attacks use steganography to target 320 orgs globally]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/"/>
+        <updated>2024-04-15T20:31:28.000Z</updated>
+        <summary type="html"><![CDATA[A new campaign conducted by the TA558 hacking group is concealing malicious code inside images using steganography to deliver various malware tools onto targeted systems. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft will limit Exchange Online bulk emails to fight spam]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/</id>
