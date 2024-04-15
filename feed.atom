@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T08:09:54.256Z</updated>
+    <updated>2024-04-15T09:09:18.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Maternity services in Nottingham have introduced CardMedic a tool designed to tackle healthcare inequalities from communication barriers.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO announces Health for All Film Festival shortlist and jury]]></title>
+        <id>urn:uuid:a3471b8f-1a8d-42c3-8451-e2d9533bbbfa</id>
+        <link href="https://www.who.int/news/item/15-04-2024-who-announces-health-for-all-film-festival-shortlist-and-jury"/>
+        <updated>2024-04-15T06:00:48.000Z</updated>
+        <summary type="html"><![CDATA[More than 900 filmmakers from 110 countries have submitted short films for the 5th edition of the  WHO Health for All Film Festival on themes ranging from climate change, refugees, tobacco, and gender-based violence. Some 60 films have been selected for the shortlist, for review by a jury of international artists and health experts, before the announcement of the winners on 26 May 2024.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
