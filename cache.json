@@ -1991,6 +1991,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has announced plans to fight spam by imposing a daily Exchange Online bulk email limit of 2,000 external recipients starting January 2025. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/",
+          "publishedOn": "2024-04-15T19:11:16.000Z",
+          "wordCount": 2091,
+          "title": "Microsoft will limit Exchange Online bulk emails to fight spam",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/19/Exchange_Online.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/",
           "author": "Bill Toulas",
           "description": "The U.S. Department of Justice has announced the arrest and indictment of Charles O. Parks III, known as \"CP3O,\" for allegedly renting large numbers of cloud servers to conduct crypto mining and then skipping out on paying the bills. [...]",

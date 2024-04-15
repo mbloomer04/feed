@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T19:08:07.402Z</updated>
+    <updated>2024-04-15T20:09:06.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft will limit Exchange Online bulk emails to fight spam]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/"/>
+        <updated>2024-04-15T19:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced plans to fight spam by imposing a daily Exchange Online bulk email limit of 2,000 external recipients starting January 2025. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto miner arrested for skipping on $3.5 million in cloud server bills]]></title>
         <id>https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/</id>
