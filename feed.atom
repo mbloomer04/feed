@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T07:07:28.525Z</updated>
+    <updated>2024-04-15T08:09:54.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nottingham maternity services introduces CardMedic]]></title>
+        <id>https://www.digitalhealth.net/?p=173595</id>
+        <link href="https://www.digitalhealth.net/2024/04/nottingham-maternity-services-introduces-cardmedic/"/>
+        <updated>2024-04-15T07:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Maternity services in Nottingham have introduced CardMedic a tool designed to tackle healthcare inequalities from communication barriers.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenTable won't add first names, photos to old reviews after backlash]]></title>
         <id>https://www.bleepingcomputer.com/news/security/opentable-wont-add-first-names-photos-to-old-reviews-after-backlash/</id>
