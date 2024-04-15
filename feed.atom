@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T12:17:49.967Z</updated>
+    <updated>2024-04-15T13:10:44.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks fixes zero-day exploited to backdoor firewalls]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/"/>
+        <updated>2024-04-15T12:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks has started releasing hotfixes for a zero-day vulnerability that has been actively exploited since March 26th to backdoor PAN-OS firewalls. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euroking patient safety alert: 13 trusts switch supplier]]></title>
+        <id>https://www.digitalhealth.net/?p=173707</id>
+        <link href="https://www.digitalhealth.net/2024/04/euroking-patient-safety-alert-13-trusts-switch-supplier/"/>
+        <updated>2024-04-15T12:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Thirteen trusts have started the process of moving away from the Euroking maternity EPR, following a national patient safety alert, issued in December.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft lifts Windows 11 block on some Intel systems after 2 years]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/</id>

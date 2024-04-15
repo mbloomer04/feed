@@ -1801,6 +1801,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/",
+          "author": "Sergiu Gatlan",
+          "description": "Palo Alto Networks has started releasing hotfixes for a zero-day vulnerability that has been actively exploited since March 26th to backdoor PAN-OS firewalls. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/",
+          "publishedOn": "2024-04-15T12:59:27.000Z",
+          "wordCount": 2184,
+          "title": "Palo Alto Networks fixes zero-day exploited to backdoor firewalls",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/31/palo-alto-networks.png"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/",
           "author": "Sergiu Gatlan",
           "description": "Microsoft has finally lifted a compatibility hold blocking Windows 11 upgrades on systems with Intel 11th Gen Core processors and Intel Smart Sound Technology (SST) audio drivers. [...]",
@@ -2397,6 +2407,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173707",
+          "author": "Cora Lydon",
+          "description": "Thirteen trusts have started the process of moving away from the Euroking maternity EPR, following a national patient safety alert, issued in December.",
+          "link": "https://www.digitalhealth.net/2024/04/euroking-patient-safety-alert-13-trusts-switch-supplier/",
+          "publishedOn": "2024-04-15T12:30:16.000Z",
+          "wordCount": 1987,
+          "title": "Euroking patient safety alert: 13 trusts switch supplier",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Maternity-EPR-Euroking-safety-alert2.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=173623",
           "author": "Cora Lydon",
