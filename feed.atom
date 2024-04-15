@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-15T13:10:44.605Z</updated>
+    <updated>2024-04-15T14:08:46.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England recruiting for new national CCIO]]></title>
+        <id>https://www.digitalhealth.net/?p=173711</id>
+        <link href="https://www.digitalhealth.net/2024/04/nhs-england-recruiting-for-new-national-ccio/"/>
+        <updated>2024-04-15T14:00:42.000Z</updated>
+        <summary type="html"><![CDATA[NHSE are recruiting for a new national chief clinical information officer (CCIO) to lead the Transformation Directorates Digital Clinical Informatics team.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We can’t get no satisfaction]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146297</id>
+        <link href="https://www.pulsetoday.co.uk/views/margaret-ikpoh/we-cant-get-no-satisfaction/"/>
+        <updated>2024-04-15T13:44:07.000Z</updated>
+        <summary type="html"><![CDATA[Columnist Dr Margaret Ikpoh says that both GPs and patients agree with more funding in primary care – the only people who don’t are the powers that be “I can’t get no, sa-tis-faction,” (cue Mick Jagger voice.)  I am on call today. I used to enjoy being on call years ago. I enjoyed the fear of the
+The post We can’t get no satisfaction  appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Press release: Causes of death to be scrutinised in revamp of death certificates]]></title>
+        <id>https://www.gov.uk/government/news/causes-of-death-to-be-scrutinised-in-revamp-of-death-certificates</id>
+        <link href="https://www.gov.uk/government/news/causes-of-death-to-be-scrutinised-in-revamp-of-death-certificates"/>
+        <updated>2024-04-15T13:19:36.000Z</updated>
+        <summary type="html"><![CDATA[To strengthen safeguards, medical examiners will look at the cause of death in all cases that haven’t been referred to the coroner.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palo Alto Networks fixes zero-day exploited to backdoor firewalls]]></title>
         <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/</id>
