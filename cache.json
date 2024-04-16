@@ -2161,6 +2161,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/",
+          "author": "Sergiu Gatlan",
+          "description": "Exploit code is now available for a maximum severity and actively exploited vulnerability in Palo Alto Networks' PAN-OS firewall software. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/",
+          "publishedOn": "2024-04-16T18:36:18.000Z",
+          "wordCount": 2155,
+          "title": "Exploit released for Palo Alto PAN-OS bug used in attacks, patch now",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/16/Palo_Alto_Networks.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/",
           "author": "Bill Toulas",
           "description": "YouTube announced yesterday that third-party applications that block ads while watching YouTube videos violates its Terms of Service (ToS), and it will soon start taking action against the apps. [...]",

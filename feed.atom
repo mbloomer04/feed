@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T18:11:04.716Z</updated>
+    <updated>2024-04-16T19:07:28.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploit released for Palo Alto PAN-OS bug used in attacks, patch now]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/"/>
+        <updated>2024-04-16T18:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Exploit code is now available for a maximum severity and actively exploited vulnerability in Palo Alto Networks' PAN-OS firewall software. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google to crack down on third-party YouTube apps that block ads]]></title>
         <id>https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/</id>
