@@ -580,6 +580,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869041",
+          "author": null,
+          "description": "A landmark GP contract deal for Northern Ireland that would move QOF and some enhanced services cash into core funding and cover indemnity costs is understood to be imminent.",
+          "link": "https://www.gponline.com/northern-ireland-gps-near-landmark-deal-cover-indemnity-costs-abolish-qof/article/1869041",
+          "publishedOn": "2024-04-16T14:41:30.000Z",
+          "wordCount": 715,
+          "title": "Northern Ireland GPs near landmark deal to cover indemnity costs and abolish QOF",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Alan_Stout_BMANI_7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1868973",
           "author": null,
           "description": "More GPs per patient, higher funding per patient and better continuity of care in general practice are associated with higher life expectancy in men and women, researchers have shown.",
@@ -1219,6 +1229,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-review-to-create-a-more-open-healthcare-system",
+          "author": null,
+          "description": "A new call for evidence launched today aims to capture and consider views about how the duty of candour is honoured, monitored and enforced.",
+          "link": "https://www.gov.uk/government/news/government-review-to-create-a-more-open-healthcare-system",
+          "publishedOn": "2024-04-16T17:13:02.000Z",
+          "wordCount": 1733,
+          "title": "Press release: Government review to create a more open healthcare system",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/government-response-to-the-joint-committee-on-the-draft-mental-health-bill",
           "author": null,
@@ -2140,6 +2160,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/",
+          "author": "Bill Toulas",
+          "description": "YouTube announced yesterday that third-party applications that block ads while watching YouTube videos violates its Terms of Service (ToS), and it will soon start taking action against the apps. [...]",
+          "link": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/",
+          "publishedOn": "2024-04-16T18:01:29.000Z",
+          "wordCount": 2150,
+          "title": "Google to crack down on third-party YouTube apps that block ads",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/10/YouTube.jpeg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/",
           "author": "Bill Toulas",
