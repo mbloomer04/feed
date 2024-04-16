@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T22:09:02.157Z</updated>
+    <updated>2024-04-16T23:09:26.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile, Verizon workers get texts offering $300 for SIM swaps]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/"/>
+        <updated>2024-04-16T23:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Criminals are now texting T-Mobile and Verizon employees on their personal and work phones, trying to tempt them with cash to perform SIM swaps. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cerebral to pay $7 million settlement in Facebook pixel data leak case]]></title>
         <id>https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/</id>
