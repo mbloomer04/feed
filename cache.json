@@ -2171,6 +2171,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/",
+          "author": "Bill Toulas",
+          "description": "The U.S. Federal Trade Commission has reached a settlement with telehealth firm Cerebral in which the company will pay $7,000,000 over allegations of mishandling people's sensitive health data. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/",
+          "publishedOn": "2024-04-16T21:37:20.000Z",
+          "wordCount": 2243,
+          "title": "Cerebral to pay $7 million settlement in Facebook pixel data leak case",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/02/14/FTC_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/",
           "author": "Sergiu Gatlan",
           "description": "Ivanti has released security updates to fix 27 vulnerabilities in its Avalanche mobile device management (MDM) solution, two of them critical heap overflows that can be exploited for remote command execution. [...]",
