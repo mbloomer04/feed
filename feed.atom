@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T16:11:24.248Z</updated>
+    <updated>2024-04-16T17:08:02.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Government response to the Joint Committee on the draft Mental Health Bill]]></title>
+        <id>https://www.gov.uk/government/publications/government-response-to-the-joint-committee-on-the-draft-mental-health-bill</id>
+        <link href="https://www.gov.uk/government/publications/government-response-to-the-joint-committee-on-the-draft-mental-health-bill"/>
+        <updated>2024-04-16T16:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Response to the Joint Committee’s recommendations for the draft Mental Health Bill to reform the Mental Health Act 1983 and deliver a modern mental health service.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco warns of large-scale brute-force attacks against VPN services]]></title>
         <id>https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/</id>
