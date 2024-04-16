@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T07:10:22.157Z</updated>
+    <updated>2024-04-16T08:11:40.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mersey and West Lancashire implement Netcall digital solutions]]></title>
+        <id>https://www.digitalhealth.net/?p=173605</id>
+        <link href="https://www.digitalhealth.net/2024/04/mersey-and-west-lancashire-implement-netcall-digital-solutions/"/>
+        <updated>2024-04-16T07:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Netcall's patient engagement portal, Patient Hub and Waiting List Validation tool have been implemented at Mersey and West Lancashire Teaching Hospitals.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News story: MPs to vote on landmark Bill to create Smokefree generation]]></title>
         <id>https://www.gov.uk/government/news/mps-to-vote-on-landmark-bill-to-create-smokefree-generation</id>
