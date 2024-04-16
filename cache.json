@@ -2131,6 +2131,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/",
+          "author": "Bill Toulas",
+          "description": "Cisco warns about a large-scale credential brute-forcing campaign targeting VPN and SSH services on Cisco, CheckPoint, Fortinet, SonicWall, and Ubiquiti devices worldwide. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/",
+          "publishedOn": "2024-04-16T16:11:01.000Z",
+          "wordCount": 2180,
+          "title": "Cisco warns of large-scale brute-force attacks against VPN services",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/11/Cisco.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/",
           "author": "Bill Toulas",
           "description": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation. [...]",

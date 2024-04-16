@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T15:09:16.036Z</updated>
+    <updated>2024-04-16T16:11:24.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco warns of large-scale brute-force attacks against VPN services]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/"/>
+        <updated>2024-04-16T16:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Cisco warns about a large-scale credential brute-forcing campaign targeting VPN and SSH services on Cisco, CheckPoint, Fortinet, SonicWall, and Ubiquiti devices worldwide. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PuTTY SSH client flaw allows recovery of cryptographic private keys]]></title>
         <id>https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/</id>
