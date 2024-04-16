@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-16T14:09:19.286Z</updated>
+    <updated>2024-04-16T15:09:16.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PuTTY SSH client flaw allows recovery of cryptographic private keys]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/"/>
+        <updated>2024-04-16T15:01:57.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs and patients invited to share views on legal ‘duty of candour’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146601</id>
+        <link href="https://www.pulsetoday.co.uk/news/regulation/gps-and-patients-invited-to-share-views-on-legal-duty-of-candour/"/>
+        <updated>2024-04-16T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[The Government is inviting views on how well GP practices and other NHS organisations are complying with their legal duty of candour when things go wrong. Patients and health professionals are being asked whether the statutory duty is well understood and adequately regulated by the CQC. Under the statutory duty of candour, introduced for all
+The post GPs and patients invited to share views on legal ‘duty of candour’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA urges NHS England to ‘immediately halt’ expansion of PAs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146610</id>
+        <link href="https://www.pulsetoday.co.uk/news/workforce/bma-urges-nhs-england-to-immediately-halt-expansion-of-pas/"/>
+        <updated>2024-04-16T14:39:23.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has called on NHS England to ‘pause’ the planned expansion of physician associates (PAs) and to adopt the union’s scope of practice nationally.  In a letter sent today, BMA Council chair Professor Phil Banfield urged NHS England to ‘take steps to immediately halt’ the expansion of PAs until the medical profession is satisfied
+The post BMA urges NHS England to ‘immediately halt’ expansion of PAs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnitedHealth: Change Healthcare cyberattack caused $872 million loss]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/"/>
+        <updated>2024-04-16T14:24:54.000Z</updated>
+        <summary type="html"><![CDATA[UnitedHealth Group reported an $872 million impact on its Q1 earnings due to the ransomware attack disrupting the U.S. healthcare system since February. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We can fight back against this state of discontentment]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=146548</id>
+        <link href="https://www.pulsetoday.co.uk/views/copperfield/we-can-fight-back-against-this-state-of-discontentment/"/>
+        <updated>2024-04-16T14:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Columnist Dr Copperfield suggests how GPs could find job satisfaction in the less enjoyable aspects of the profession I know. I don’t understand it either. Why, given the respect we command from media, colleagues and patients, a perfectly functioning NHS stewarded by a decent government, and pay which fairly reflects our workload and responsibilities, would GPs be
+The post We can fight back against this state of discontentment appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make your web apps resistant to social engineering]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/"/>
+        <updated>2024-04-16T14:02:04.000Z</updated>
+        <summary type="html"><![CDATA[There are things that you can do to make your web apps more resistant to social engineering. Learn more from Outpost24 on securing your web applications. [...]]]></summary>
+        <author>
+            <name>Sponsored by Outpost24</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duty of candour review]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/04/duty-of-candour-review.html</id>
