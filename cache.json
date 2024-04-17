@@ -113,6 +113,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146641",
+          "author": "Anna Colivicchi",
+          "description": "Northern Ireland is set to scrap QOF in a contract deal that is expected later this week, with all the associated funding moving into the core contract. BMA Northern Ireland GP committee chair Dr Alan Stout told Pulse that the deal will see the contract ‘simplified’, including moving all QOF monies into core contractual funding\nThe post QOF set to be scrapped in Northern Ireland appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/northern-ireland/qof-set-to-be-scrapped-in-northern-ireland/",
+          "publishedOn": "2024-04-17T16:24:24.000Z",
+          "wordCount": 2692,
+          "title": "QOF set to be scrapped in Northern Ireland",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/PCN-breach-notices-over-enhanced-access-GP-cover-unlikely-due-to-ambiguous-contract.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146647",
           "author": "Maya Dhillon",
           "description": "Editor Jaimie Kaffash considers the future for NHS mental health support for healthcare professionals This past weekend didn’t go well for NHS England. The news came out on Friday evening that they had withdrawn funding for the NHS Practitioner Health programme, which supports doctors and other healthcare staff with mental health problems, to prevent secondary\nThe post Putting a price on doctors’ mental health appeared first on Pulse Today.",
@@ -629,6 +639,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1869247",
+          "author": null,
+          "description": "Three ICBs in London are ‘considering their next steps’ amid concerns that a major private provider of NHS GP services may have breached the terms of its practice contracts.",
+          "link": "https://www.gponline.com/icbs-looking-potential-contract-breach-major-gp-provider/article/1869247",
+          "publishedOn": "2024-04-17T15:11:24.000Z",
+          "wordCount": 685,
+          "title": "ICBs looking into potential contract breach by major GP provider",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_GettyImages-MikeKemp_2.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1869139",
           "author": null,
@@ -1299,6 +1319,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/tobacco-vapes-bill-second-reading",
+          "author": null,
+          "description": "Oral statement to Parliament: \r\n\r\nTobacco & Vapes Bill Second Reading.  \r\n\r\nAs delivered by Rt Hon Andrea Leadsom MP, Minister for Health.",
+          "link": "https://www.gov.uk/government/speeches/tobacco-vapes-bill-second-reading",
+          "publishedOn": "2024-04-17T17:02:45.000Z",
+          "wordCount": 3575,
+          "title": "Statement to Parliament: Tobacco & Vapes Bill Second Reading",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/5a4f676ee5274a6bf054e605/andrea-leadsom.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/community-water-fluoridation-expansion-in-the-north-east-of-england",
+          "author": null,
+          "description": "The government is seeking views on expanding community water fluoridation schemes in the north east with new arrangements or by varying existing arrangements.",
+          "link": "https://www.gov.uk/government/consultations/community-water-fluoridation-expansion-in-the-north-east-of-england",
+          "publishedOn": "2024-04-17T16:33:48.000Z",
+          "wordCount": 1240,
+          "title": "Open consultation: Community water fluoridation expansion in the north east of England",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/national-partnership-agreement-right-care-right-person",
           "author": null,
