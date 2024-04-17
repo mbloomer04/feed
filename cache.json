@@ -2221,6 +2221,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/",
+          "author": "Bill Toulas",
+          "description": "At least six distinct botnet malware operations are hunting for TP-Link Archer AX21 (AX1800) routers vulnerable to a command injection security issue reported and addressed last year. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/",
+          "publishedOn": "2024-04-17T13:03:09.000Z",
+          "wordCount": 2233,
+          "title": "Multiple botnets exploiting one-year-old TP-Link flaw to hack routers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/15/botnet.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft says the new Copilot app, added by recent Edge updates to the list of installed Windows apps, doesn't collect or relay data to its servers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/",
+          "publishedOn": "2024-04-17T12:16:50.000Z",
+          "wordCount": 2192,
+          "title": "Microsoft: New Copilot app added by Edge doesn’t collect data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Microsoft_Copilot.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-starts-today-for-millions-no-more-physical-immigration-cards/",
           "author": "Ax Sharma",
           "description": "Starting today, millions living in the UK will receive email invitations to sign up for an e-visa account that will replace their physical immigration documents like Biometric Residence Permits (BRPs). The move is, according to the Home Office, \"a key step in creating a modernised and digital border.\" [...]",
@@ -3007,6 +3027,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173891",
+          "author": "Cora Lydon",
+          "description": "Advanced has undergone a rebrand, becoming OneAdvanced and changing the way it delivers software through eight software portfolios.",
+          "link": "https://www.digitalhealth.net/2024/04/oneadvanced-rebrands-and-launches-eight-software-portfolios/",
+          "publishedOn": "2024-04-17T12:30:48.000Z",
+          "wordCount": 1750,
+          "title": "OneAdvanced rebrands and launches eight software portfolios",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Software-OneAdvanced2.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=173695",
           "author": "Cora Lydon",
