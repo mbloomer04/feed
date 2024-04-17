@@ -2291,6 +2291,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/",
+          "author": "Sergiu Gatlan",
+          "description": "In an ongoing Kubernetes cryptomining campaign, attackers target OpenMetadata workloads using critical remote code execution and authentication vulnerabilities. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/",
+          "publishedOn": "2024-04-17T21:01:15.000Z",
+          "wordCount": 2132,
+          "title": "Hackers hijack OpenMetadata apps in Kubernetes cryptomining attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/17/Kubernetes.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/",
+          "author": "Bill Toulas",
+          "description": "The financially motivated threat actor FIN7 targeted a large U.S. car maker with spear-phishing emails for employees in the IT department to infect systems with the Anunak backdoor. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/",
+          "publishedOn": "2024-04-17T20:40:06.000Z",
+          "wordCount": 2261,
+          "title": "FIN7 targets American automaker’s IT staff in phishing attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/06/car-factory-supply-line.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/",
           "author": "Sergiu Gatlan",
           "description": "The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States. [...]",

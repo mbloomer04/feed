@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-17T20:08:52.622Z</updated>
+    <updated>2024-04-17T21:09:45.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers hijack OpenMetadata apps in Kubernetes cryptomining attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/"/>
+        <updated>2024-04-17T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[In an ongoing Kubernetes cryptomining campaign, attackers target OpenMetadata workloads using critical remote code execution and authentication vulnerabilities. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIN7 targets American automaker’s IT staff in phishing attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/"/>
+        <updated>2024-04-17T20:40:06.000Z</updated>
+        <summary type="html"><![CDATA[The financially motivated threat actor FIN7 targeted a large U.S. car maker with spear-phishing emails for employees in the IT department to infect systems with the Anunak backdoor. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moldovan charged for operating botnet used to push ransomware]]></title>
         <id>https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/</id>
