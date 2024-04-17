@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-17T18:11:24.845Z</updated>
+    <updated>2024-04-17T19:06:21.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moldovan charged for operating botnet used to push ransomware]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/"/>
+        <updated>2024-04-17T18:53:30.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco discloses root escalation flaw with public exploit code]]></title>
         <id>https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/</id>
@@ -3643,16 +3653,6 @@ Reproducible analytical pipelines (RAP) are automated statistical and analytica
         <summary type="html"><![CDATA[Immediate action is needed to stem an unprecedented multi-year upsurge in cholera cases worldwide, according to the International Coordinating Group (ICG) on Vaccine Provision. Actions include investing in access to safe water, sanitation and hygiene, testing and detecting outbreaks quickly, improving quality of and access to healthcare, and fast-tracking additional production of affordable oral cholera vaccine (OCV) doses to better prevent cases.]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T - 49,102,176 breached accounts]]></title>
-        <id>AllegedATT</id>
-        <link href="https://haveibeenpwned.com/PwnedWebsites#AllegedATT"/>
-        <updated>2024-03-19T06:30:49.000Z</updated>
-        <summary type="html"><![CDATA[In March 2024, tens of millions of records allegedly breached from AT&T were posted to a popular hacking forum. Dating back to August 2021, the data was originally posted for sale before later being freely released. At the time, AT&T maintained that there had not been a breach of their systems and that the data originated from elsewhere. 12 days later, AT&T acknowledged that data fields specific to them were in the breach and that it was not yet known whether the breach occurred at their end or that of a vendor. AT&T also proceeded to reset customer account passcodes, an indicator that there was sufficient belief passcodes had been compromised. The incident exposed names, email and physical addresses, dates of birth, phone numbers and US social security numbers.]]></summary>
-        <author>
-            <name>Have I Been Pwned latest breaches</name>
         </author>
     </entry>
 </feed>

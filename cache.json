@@ -2291,6 +2291,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/",
+          "author": "Sergiu Gatlan",
+          "description": "The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/",
+          "publishedOn": "2024-04-17T18:53:30.000Z",
+          "wordCount": 2150,
+          "title": "Moldovan charged for operating botnet used to push ransomware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/01/botnet-kill-switch.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
           "author": "Sergiu Gatlan",
           "description": "Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root. [...]",
@@ -3622,16 +3632,6 @@
           "publishedOn": "2024-03-22T06:43:09.000Z",
           "wordCount": 64832,
           "title": "MediaWorks - 162,710 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
-        },
-        {
-          "id": "AllegedATT",
-          "author": null,
-          "description": "In March 2024, tens of millions of records allegedly breached from AT&T were posted to a popular hacking forum. Dating back to August 2021, the data was originally posted for sale before later being freely released. At the time, AT&T maintained that there had not been a breach of their systems and that the data originated from elsewhere. 12 days later, AT&T acknowledged that data fields specific to them were in the breach and that it was not yet known whether the breach occurred at their end or that of a vendor. AT&T also proceeded to reset customer account passcodes, an indicator that there was sufficient belief passcodes had been compromised. The incident exposed names, email and physical addresses, dates of birth, phone numbers and US social security numbers.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#AllegedATT",
-          "publishedOn": "2024-03-19T06:30:49.000Z",
-          "wordCount": 64832,
-          "title": "AT&T - 49,102,176 breached accounts",
           "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
         }
       ]
