@@ -600,6 +600,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869139",
+          "author": null,
+          "description": "The BMA England GP committee has warned health service officials that the profession is 'now in dispute' with NHS England following the overwhelming vote to reject the 2024/25 contract.",
+          "link": "https://www.gponline.com/bma-gp-committee-formally-in-dispute-nhs-england/article/1869139",
+          "publishedOn": "2024-04-17T10:30:49.000Z",
+          "wordCount": 695,
+          "title": "BMA GP committee formally 'in dispute' with NHS England",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_7.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1869097",
           "author": null,
           "description": "GPs in Northern Ireland are working 'past the point of burnout and exhaustion' but cannot meet soaring demand, according to an RCGP report that calls for urgent action to stabilise general practice.",
@@ -1686,6 +1696,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/health-inequalities-in-2040-current-and-projected-patterns-of-illness-by-deprivation-in-england.html",
+          "author": null,
+          "description": "The Health Foundation - This report focuses on inequalities in major illness in England, notably among working-age people. It reveals that growing ill-health will continue to significantly impact people's lives and the economy. On current trends, 3.7 million working-age adults will be living with major illness by 2040—up from 3 million in 2019. It warns that 80% (540,000) of this...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/health-inequalities-in-2040-current-and-projected-patterns-of-illness-by-deprivation-in-england.html",
+          "publishedOn": "2024-04-17T11:05:32.000Z",
+          "wordCount": null,
+          "title": "Health inequalities in 2040: current and projected patterns of illness by deprivation in England",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/04/duty-of-candour-review.html",
           "author": null,
