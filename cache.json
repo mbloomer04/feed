@@ -2291,6 +2291,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/",
+          "author": "Bill Toulas",
+          "description": "A new Android banking malware named 'SoumniBot' is using a less common obfuscation approach by exploiting weaknesses in the Android manifest extraction and parsing procedure. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/",
+          "publishedOn": "2024-04-17T21:38:28.000Z",
+          "wordCount": 2374,
+          "title": "SoumniBot malware exploits Android bugs to evade detection",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/01/12/android-eyes.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/",
           "author": "Sergiu Gatlan",
           "description": "In an ongoing Kubernetes cryptomining campaign, attackers target OpenMetadata workloads using critical remote code execution and authentication vulnerabilities. [...]",
