@@ -2291,6 +2291,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
+          "author": "Sergiu Gatlan",
+          "description": "Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
+          "publishedOn": "2024-04-17T17:25:42.000Z",
+          "wordCount": 2088,
+          "title": "Cisco discloses root escalation flaw with public exploit code",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/07/Cisco.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/",
+          "author": "Bill Toulas",
+          "description": "The Sandworm hacking group associated with Russian military intelligence has been hiding attacks and operations behind multiple online personas posing as hacktivist groups. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/",
+          "publishedOn": "2024-04-17T17:08:59.000Z",
+          "wordCount": 2619,
+          "title": "Russian Sandworm hackers pose as hacktivists in water utility breaches",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/17/logo.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/",
           "author": "Sponsored by Flare",
           "description": "Cybersecurity firms commonly sell \"dark web monitoring\" packages, with firms having slighly different features. Learn from Flare about the different dark web monitoring packages and the value they bring to your organization. [...]",

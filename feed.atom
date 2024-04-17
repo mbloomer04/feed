@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-17T17:07:59.122Z</updated>
+    <updated>2024-04-17T18:11:24.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco discloses root escalation flaw with public exploit code]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/"/>
+        <updated>2024-04-17T17:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Sandworm hackers pose as hacktivists in water utility breaches]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/"/>
+        <updated>2024-04-17T17:08:59.000Z</updated>
+        <summary type="html"><![CDATA[The Sandworm hacking group associated with Russian military intelligence has been hiding attacks and operations behind multiple online personas posing as hacktivist groups. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statement to Parliament: Tobacco & Vapes Bill Second Reading]]></title>
         <id>https://www.gov.uk/government/speeches/tobacco-vapes-bill-second-reading</id>
