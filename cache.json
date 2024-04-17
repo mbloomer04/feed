@@ -94,16 +94,6 @@
           "wordCount": 913,
           "title": "CC-4469 - Atlassian Releases March 2024 Security Bulletin",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "d799fc88-677b-4cf8-9cb1-e97c5f59a529",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The security update addresses a critical vulnerability affecting FileCatalyst Workflow that could lead to remote code execution\n The security update addresses a critical vulnerability affecting FileCatalyst Workflow that could lead to remote code execution\n Updated: 18 Mar 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4468",
-          "publishedOn": "2024-03-18T15:51:00.000Z",
-          "wordCount": 600,
-          "title": "CC-4468 - Critical Vulnerability in Fortra FileCatalyst Workflow",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
