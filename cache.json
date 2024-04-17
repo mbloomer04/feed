@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "76db34df-0d37-4af9-b660-62356f57fa74",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update includes remediations for 27 vulnerabilities, two of which are critical severity.\n Security update includes remediations for 27 vulnerabilities, two of which are critical severity.\n Updated: 17 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4478",
+          "publishedOn": "2024-04-17T12:25:00.000Z",
+          "wordCount": 562,
+          "title": "CC-4478 - Multiple Vulnerabilities Affecting Ivanti Avalanche",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "ad2377d3-89a8-48aa-b85a-5c27a5f170d2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Updated: 12 Apr 2024",
@@ -2221,6 +2231,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/",
+          "author": "Sponsored by Flare",
+          "description": "Cybersecurity firms commonly sell \"dark web monitoring\" packages, with firms having slighly different features. Learn from Flare about the different dark web monitoring packages and the value they bring to your organization. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/",
+          "publishedOn": "2024-04-17T14:02:04.000Z",
+          "wordCount": 2423,
+          "title": "Dark Web Monitoring: What's the Value?",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/16/blank-screens-header.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/",
           "author": "Bill Toulas",
           "description": "At least six distinct botnet malware operations are hunting for TP-Link Archer AX21 (AX1800) routers vulnerable to a command injection security issue reported and addressed last year. [...]",
@@ -2229,6 +2249,16 @@
           "wordCount": 2233,
           "title": "Multiple botnets exploiting one-year-old TP-Link flaw to hack routers",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/15/botnet.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft says the new Copilot app, mistakenly added to the list of installed Windows apps by recent Edge updates, doesn't collect or relay data to its servers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/",
+          "publishedOn": "2024-04-17T12:16:50.000Z",
+          "wordCount": 2228,
+          "title": "Microsoft: Copilot ‘app’ on Windows Server mistakenly added by Edge",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Microsoft_Copilot.jpg"
         },
         {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/",

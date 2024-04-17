@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-17T14:08:36.775Z</updated>
+    <updated>2024-04-17T15:10:37.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Web Monitoring: What's the Value?]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/"/>
+        <updated>2024-04-17T14:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity firms commonly sell "dark web monitoring" packages, with firms having slighly different features. Learn from Flare about the different dark web monitoring packages and the value they bring to your organization. [...]]]></summary>
+        <author>
+            <name>Sponsored by Flare</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple botnets exploiting one-year-old TP-Link flaw to hack routers]]></title>
         <id>https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/</id>
@@ -24,6 +34,29 @@
         <summary type="html"><![CDATA[Advanced has undergone a rebrand, becoming OneAdvanced and changing the way it delivers software through eight software portfolios.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4478 - Multiple Vulnerabilities Affecting Ivanti Avalanche]]></title>
+        <id>76db34df-0d37-4af9-b660-62356f57fa74</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4478"/>
+        <updated>2024-04-17T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update includes remediations for 27 vulnerabilities, two of which are critical severity.
+ Security update includes remediations for 27 vulnerabilities, two of which are critical severity.
+ Updated: 17 Apr 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Copilot ‘app’ on Windows Server mistakenly added by Edge]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/"/>
+        <updated>2024-04-17T12:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says the new Copilot app, mistakenly added to the list of installed Windows apps by recent Edge updates, doesn't collect or relay data to its servers. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
         </author>
     </entry>
     <entry>
