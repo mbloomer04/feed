@@ -640,6 +640,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869336",
+          "author": null,
+          "description": "The BMA is writing to each of England's 42 integrated care boards (ICBs) warning that they should add potential GP industrial action into their system risk registers.",
+          "link": "https://www.gponline.com/bma-warns-icbs-add-gp-industrial-action-risk-registers/article/1869336",
+          "publishedOn": "2024-04-18T09:50:07.000Z",
+          "wordCount": 690,
+          "title": "BMA warns ICBs to add GP industrial action to their risk registers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1869259",
           "author": null,
           "description": "'Constantly elevated medicines shortages' have left patients struggling to access crucial products and driven up workload for GPs and pharmacists over the past two years, a report warns.",
@@ -1777,6 +1787,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/04/the-future-for-health-after-brexit.html",
+          "author": null,
+          "description": "Nuffield Trust - The Health and International Relations Monitor project, supported by the Health Foundation, tracks issues that are important for the delivery of health and care in the UK to understand how the changing relationship with Europe is changing the picture for the NHS and health more generally, and what the prospects are for the future. This latest report...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/04/the-future-for-health-after-brexit.html",
+          "publishedOn": "2024-04-18T09:39:14.000Z",
+          "wordCount": null,
+          "title": "The future for health after Brexit",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/04/the-kings-fund-submission-to-the-health-and-social-care-committee-inquiry-on-nhs-leadership-performa.html",
           "author": null,
           "description": "The King's Fund - This submission focuses on: how leadership intersects with the NHS’s productivity challenge; the evidence for associations between leadership and productivity; and what national leaders and politicians should do with this insight. Report The King's Fund - publications",
@@ -2300,6 +2320,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/",
+          "author": "Bill Toulas",
+          "description": "The LabHost phishing-as-a-service (PhaaS) platform has been disrupted in a year-long global law enforcement operation that compromised the infrastructure and arrested 37 suspects, among them the original developer. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/",
+          "publishedOn": "2024-04-18T09:52:04.000Z",
+          "wordCount": 2215,
+          "title": "LabHost phishing service with 40,000 domains disrupted, 37 arrested",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/police-arrest-hacker.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/",
           "author": "Bill Toulas",

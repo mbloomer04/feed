@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T09:09:42.724Z</updated>
+    <updated>2024-04-18T10:11:20.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LabHost phishing service with 40,000 domains disrupted, 37 arrested]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/"/>
+        <updated>2024-04-18T09:52:04.000Z</updated>
+        <summary type="html"><![CDATA[The LabHost phishing-as-a-service (PhaaS) platform has been disrupted in a year-long global law enforcement operation that compromised the infrastructure and arrested 37 suspects, among them the original developer. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA warns ICBs to add GP industrial action to their risk registers]]></title>
+        <id>https://www.gponline.com/article/1869336</id>
+        <link href="https://www.gponline.com/bma-warns-icbs-add-gp-industrial-action-risk-registers/article/1869336"/>
+        <updated>2024-04-18T09:50:07.000Z</updated>
+        <summary type="html"><![CDATA[The BMA is writing to each of England's 42 integrated care boards (ICBs) warning that they should add potential GP industrial action into their system risk registers.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future for health after Brexit]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/04/the-future-for-health-after-brexit.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/04/the-future-for-health-after-brexit.html"/>
+        <updated>2024-04-18T09:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Nuffield Trust - The Health and International Relations Monitor project, supported by the Health Foundation, tracks issues that are important for the delivery of health and care in the UK to understand how the changing relationship with Europe is changing the picture for the NHS and health more generally, and what the prospects are for the future. This latest report...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Slip Français - 1,495,127 breached accounts]]></title>
         <id>LeSlipFrancais</id>
