@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "72bea521-5b6b-4fca-bf2a-6e1f3596724f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines\n Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines\n Updated: 18 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4479",
+          "publishedOn": "2024-04-18T12:54:00.000Z",
+          "wordCount": 933,
+          "title": "CC-4479 - Atlassian Releases April 2024 Security Bulletin",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "76db34df-0d37-4af9-b660-62356f57fa74",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update includes remediations for 27 vulnerabilities, two of which are critical severity.\n Security update includes remediations for 27 vulnerabilities, two of which are critical severity.\n Updated: 17 Apr 2024",
@@ -3247,6 +3257,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=173953",
+          "author": "Cora Lydon",
+          "description": "Phlo will be expanding its operations and geographical footprint, thanks to its recent £9m growth investment round, led for Par Equity.",
+          "link": "https://www.digitalhealth.net/2024/04/phlo-closes-9m-investment-round-to-fuel-expansion/",
+          "publishedOn": "2024-04-18T12:30:44.000Z",
+          "wordCount": 1752,
+          "title": "Phlo closes £9m investment round to fuel expansion",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2022/11/Aide-Health-investment.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=173989",
           "author": "Jordan Sollof",

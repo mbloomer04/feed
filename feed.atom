@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T12:15:27.594Z</updated>
+    <updated>2024-04-18T13:09:07.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4479 - Atlassian Releases April 2024 Security Bulletin]]></title>
+        <id>72bea521-5b6b-4fca-bf2a-6e1f3596724f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4479"/>
+        <updated>2024-04-18T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines
+ Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines
+ Updated: 18 Apr 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phlo closes £9m investment round to fuel expansion]]></title>
+        <id>https://www.digitalhealth.net/?p=173953</id>
+        <link href="https://www.digitalhealth.net/2024/04/phlo-closes-9m-investment-round-to-fuel-expansion/"/>
+        <updated>2024-04-18T12:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Phlo will be expanding its operations and geographical footprint, thanks to its recent £9m growth investment round, led for Par Equity.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=173989</id>
