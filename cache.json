@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "864e48df-1797-4a61-919f-74081c8d3ba8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two vulnerabilities found in devices using Cisco Integrated Management Controller (IMC) could lead to privilege escalation\n Two vulnerabilities found in devices using Cisco Integrated Management Controller (IMC) could lead to privilege escalation\n Updated: 18 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4481",
+          "publishedOn": "2024-04-18T15:29:00.000Z",
+          "wordCount": 873,
+          "title": "CC-4481 - Cisco Releases Advisories for Command Injection Vulnerabilities in Multiple Products",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
+          "id": "5f411cad-76f7-4427-9147-ea2352472abd",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The vulnerabilities could allow an attacker to remotely execute code, access the BIOS configuration or redirect a victim to an attacker-controlled domain\n The vulnerabilities could allow an attacker to remotely execute code, access the BIOS configuration or redirect a victim to an attacker-controlled domain\n Updated: 18 Apr 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4480",
+          "publishedOn": "2024-04-18T15:25:00.000Z",
+          "wordCount": 740,
+          "title": "CC-4480 - VMware Releases Security Updates for SD-WAN Edge and SD-WAN Orchestrator",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "72bea521-5b6b-4fca-bf2a-6e1f3596724f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines\n Six vulnerabilities affect Atlassian's Bamboo, Confluence, Jira, and Jira Service Management product lines\n Updated: 18 Apr 2024",
@@ -122,6 +142,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=146707",
+          "author": "Eliza Parr",
+          "description": "A GP who took part in ‘peaceful’ Just Stop Oil protests two years ago is facing GMC allegations at a tribunal this week.  The Medical Practitioners Tribunal Service (MPTS) is inquiring into allegations that Dr Sarah Benn breached a court injunction by attending protests at a Warwickshire oil terminal in 2022.  Today, the tribunal made\nThe post GP faces MPTS tribunal for taking part in Just Stop Oil protest appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/regulation/gp-faces-mpts-tribunal-for-taking-part-in-just-stop-oil-protest/",
+          "publishedOn": "2024-04-18T15:34:51.000Z",
+          "wordCount": 2808,
+          "title": "GP faces MPTS tribunal for taking part in Just Stop Oil protest",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/06/Credit-Vlad-Morozov-26-04-2022-06-37-27.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=146694",
+          "author": "Sofia Lind",
+          "description": "Regular shortages of life-saving medicines have become the ‘new normal’ in the UK, according to a report from the Nuffield Trust, which concludes Brexit has made the problem harder to tackle. In particular, the past two years has seen constant shortages with frequent disruption now commonplace and the NHS having to spend hundreds of millions\nThe post Drug shortages are ‘new normal’ and made worse by Brexit, report says appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/prescribing/drug-shortages-are-new-normal-and-made-worse-by-brexit-report-says/",
+          "publishedOn": "2024-04-18T15:16:05.000Z",
+          "wordCount": 2864,
+          "title": "Drug shortages are ‘new normal’ and made worse by Brexit, report says",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/r/d/r/GettyImages-537309906-scaled.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=146396",
           "author": "Caroline Price",
@@ -699,6 +739,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1869361",
+          "author": null,
+          "description": "A GP practice has won a small business award for 'triumph over adversity' after absorbing more than 10,000 patients from a nearby practice shut down after an inadequate CQC rating.",
+          "link": "https://www.gponline.com/gp-practice-wins-business-award-exceptional-resilience-local-crisis/article/1869361",
+          "publishedOn": "2024-04-18T15:36:35.000Z",
+          "wordCount": 705,
+          "title": "GP practice wins business award for 'exceptional resilience' in local crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Quayside_Zeenat_Cosr.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1869386",
           "author": null,
