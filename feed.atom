@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T20:09:42.118Z</updated>
+    <updated>2024-04-18T21:08:11.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Frontier Communications shuts down systems after cyberattack]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/"/>
+        <updated>2024-04-18T21:02:24.000Z</updated>
+        <summary type="html"><![CDATA[​American telecom provider Frontier Communications is restoring systems after a cybercrime group breached some of its IT systems in a recent cyberattack. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[840-bed hospital in France postpones procedures after cyberattack]]></title>
         <id>https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/</id>

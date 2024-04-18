@@ -2451,6 +2451,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
+          "author": "Sergiu Gatlan",
+          "description": "​American telecom provider Frontier Communications is restoring systems after a cybercrime group breached some of its IT systems in a recent cyberattack. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
+          "publishedOn": "2024-04-18T21:02:24.000Z",
+          "wordCount": 2108,
+          "title": "Frontier Communications shuts down systems after cyberattack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/Frontier.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/",
           "author": "Bill Toulas",
           "description": "The Hospital Simone Veil in Cannes (CHC-SV) has announced that it was targeted by a cyberattack on Tuesday morning, severely impacting its operations and forcing staff to go back to pen and paper. [...]",
