@@ -2441,6 +2441,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/",
+          "author": "Sergiu Gatlan",
+          "description": "A preview of Microsoft Office LTSC 2024, a volume-licensed and perpetual version of Office for commercial customers, is now available for Windows and macOS users. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/",
+          "publishedOn": "2024-04-18T16:49:34.000Z",
+          "wordCount": 2207,
+          "title": "Microsoft Office LTSC 2024 preview available for Windows, Mac",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/15/Office.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/",
           "author": "Bill Toulas",
           "description": "LastPass is warning of a malicious campaign targeting its users with the CryptoChameleon phishing kit that is associated with cryptocurrency theft. [...]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T16:10:27.559Z</updated>
+    <updated>2024-04-18T17:08:21.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Office LTSC 2024 preview available for Windows, Mac]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/"/>
+        <updated>2024-04-18T16:49:34.000Z</updated>
+        <summary type="html"><![CDATA[A preview of Microsoft Office LTSC 2024, a volume-licensed and perpetual version of Office for commercial customers, is now available for Windows and macOS users. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP practice wins business award for 'exceptional resilience' in local crisis]]></title>
         <id>https://www.gponline.com/article/1869361</id>
