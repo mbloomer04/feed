@@ -3565,6 +3565,16 @@
       "siteUrl": "https://haveibeenpwned.com/",
       "articles": [
         {
+          "id": "LeSlipFrancais",
+          "author": null,
+          "description": "In April 2024, the French underwear maker Le Slip Français suffered a data breach. The breach included 1.5M email addresses, physical addresses, names and phone numbers.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#LeSlipFrancais",
+          "publishedOn": "2024-04-18T07:44:32.000Z",
+          "wordCount": 65029,
+          "title": "Le Slip Français - 1,495,127 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
           "id": "GiantTiger",
           "author": null,
           "description": "In March 2024, Canadian discount store Giant Tiger suffered a data breach that exposed 2.8M customer records. Attributed to a vendor of the retailer, the breach included physical and email addresses, names and phone numbers.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T08:12:27.977Z</updated>
+    <updated>2024-04-18T09:09:42.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le Slip Français - 1,495,127 breached accounts]]></title>
+        <id>LeSlipFrancais</id>
+        <link href="https://haveibeenpwned.com/PwnedWebsites#LeSlipFrancais"/>
+        <updated>2024-04-18T07:44:32.000Z</updated>
+        <summary type="html"><![CDATA[In April 2024, the French underwear maker Le Slip Français suffered a data breach. The breach included 1.5M email addresses, physical addresses, names and phone numbers.]]></summary>
+        <author>
+            <name>Have I Been Pwned latest breaches</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ivWatch prevents IV leakage events at Frimley Health]]></title>
         <id>https://www.digitalhealth.net/?p=173805</id>
