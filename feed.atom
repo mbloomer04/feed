@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T18:11:30.182Z</updated>
+    <updated>2024-04-18T19:07:42.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[840-bed hospital in France postpones procedures after cyberattack]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/"/>
+        <updated>2024-04-18T18:29:33.000Z</updated>
+        <summary type="html"><![CDATA[The Hospital Simone Veil in Cannes (CHC-SV) has announced that it was targeted by a cyberattack on Tuesday morning, severely impacting its operations and forcing staff to go back to pen and paper. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI: Akira ransomware raked in $42 million from 250+ victims]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/"/>
+        <updated>2024-04-18T18:11:29.000Z</updated>
+        <summary type="html"><![CDATA[According to a joint advisory from the FBI, CISA, Europol's European Cybercrime Centre (EC3), and the Netherlands' National Cyber Security Centre (NCSC-NL), the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google ad impersonates Whales Market to push wallet drainer malware]]></title>
         <id>https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/</id>

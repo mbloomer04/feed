@@ -2451,6 +2451,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/",
+          "author": "Bill Toulas",
+          "description": "The Hospital Simone Veil in Cannes (CHC-SV) has announced that it was targeted by a cyberattack on Tuesday morning, severely impacting its operations and forcing staff to go back to pen and paper. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/",
+          "publishedOn": "2024-04-18T18:29:33.000Z",
+          "wordCount": 2173,
+          "title": "840-bed hospital in France postpones procedures after cyberattack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/simone-veil.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/",
+          "author": "Sergiu Gatlan",
+          "description": "According to a joint advisory from the FBI, CISA, Europol's European Cybercrime Centre (EC3), and the Netherlands' National Cyber Security Centre (NCSC-NL), the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/",
+          "publishedOn": "2024-04-18T18:11:29.000Z",
+          "wordCount": 2153,
+          "title": "FBI: Akira ransomware raked in $42 million from 250+ victims",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/",
           "author": "Lawrence Abrams",
           "description": "A legitimate-looking Google Search advertisement for the crypto trading platform 'Whales Market' redirects visitors to a wallet-draining phishing site that steals all of your assets. [...]",
