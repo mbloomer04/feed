@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T07:09:49.615Z</updated>
+    <updated>2024-04-18T08:12:27.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ivWatch prevents IV leakage events at Frimley Health]]></title>
+        <id>https://www.digitalhealth.net/?p=173805</id>
+        <link href="https://www.digitalhealth.net/2024/04/ivwatch-prevents-iv-leakage-events-at-frimley-health/"/>
+        <updated>2024-04-18T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[ivWatch tech was studied at Frimley Health NHS FT, where it used a predictive algorithm and visible and near-infrared light to detect IV leakage events.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SoumniBot malware exploits Android bugs to evade detection]]></title>
         <id>https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/</id>
