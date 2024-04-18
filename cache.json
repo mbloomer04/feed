@@ -123,6 +123,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146396",
+          "author": "Caroline Price",
+          "description": "In the first of a new series exploring some common misconceptions about conditions seen in general practice, GP and headache specialist Dr Richard Wood debunks some myths about migraine – and explains some perhaps less well known facts Myths 1. Chocolate and caffeine are common dietary triggers and should be avoided by migraine sufferers While\nThe post Migraine: Myths and Facts appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/neurology/migraine-myths-and-facts/",
+          "publishedOn": "2024-04-18T15:06:22.000Z",
+          "wordCount": 4309,
+          "title": "Migraine: Myths and Facts",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Migraine-Getty-RF-1453153745-1200-x-800.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=144244",
+          "author": "Rhiannon Jenkins",
+          "description": "Following on from Pulse’s look at general practice across the world last year, Dr Jens Søndergaard says Denmark’s close-knit community is one of the reasons why general practice in the Nordic country is staying strong in trying times Last week, I caught up with a friend who works as a GP locum in London. After\nThe post How we are trying to ensure strong general practice in Denmark appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/how-we-are-trying-to-ensure-strong-general-practice-in-denmark/",
+          "publishedOn": "2024-04-18T14:13:39.000Z",
+          "wordCount": 2911,
+          "title": "How we are trying to ensure strong general practice in Denmark",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/02/Dr-Jens.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146680",
           "author": "Eliza Parr",
           "description": "Three ICBs are ‘considering next steps’ after a potential contract breach by a large private GP provider. On Monday, North West London, North East London, and North Central London ICBs announced that the successor to Operose Health had actioned an unauthorised ‘change of control’. Last year, the HCRG Care Group – formerly known as Virgin\nThe post ICBs looking into potential contract breach by large private GP provider appeared first on Pulse Today.",
@@ -679,6 +699,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1869386",
+          "author": null,
+          "description": "GPs, other doctors and patients have staged protests outside GMC offices in London and Edinburgh saying the regulator is not doing enough to protect the public from the health impacts of climate change.",
+          "link": "https://www.gponline.com/doctors-stage-climate-change-protest-outside-gmc-offices/article/1869386",
+          "publishedOn": "2024-04-18T14:22:22.000Z",
+          "wordCount": 702,
+          "title": "Doctors stage climate change protest outside GMC offices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/4D2F2772-7D62-4420-AABC-007F1239D0BB.jpeg"
+        },
         {
           "id": "https://www.gponline.com/article/1869336",
           "author": null,
@@ -2360,6 +2390,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/",
+          "author": "Bill Toulas",
+          "description": "LastPass is warning of a malicious campaign targeting its users with the CryptoChameleon phishing kit that is associated with cryptocurrency theft. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/",
+          "publishedOn": "2024-04-18T14:56:41.000Z",
+          "wordCount": 2135,
+          "title": "Cybercriminals pose as LastPass staff to hack password vaults",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/22/Lastpass.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/",
           "author": "Bill Toulas",
