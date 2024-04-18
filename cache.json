@@ -740,6 +740,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869456",
+          "author": null,
+          "description": "A GP who was arrested while taking part in a series of Just Stop Oil protests is facing GMC sanctions after a tribunal ruled her fitness to practise was 'impaired by reason of misconduct'.",
+          "link": "https://www.gponline.com/climate-protest-gp-facing-gmc-sanctions-tribunal-misconduct-ruling/article/1869456",
+          "publishedOn": "2024-04-18T16:54:06.000Z",
+          "wordCount": 713,
+          "title": "Climate protest GP facing GMC sanctions after tribunal misconduct ruling",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Credit-Vlad-Morozov-26-04-2022,063727.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1869361",
           "author": null,
           "description": "A GP practice has won a small business award for 'triumph over adversity' after absorbing more than 10,000 patients from a nearby practice shut down after an inadequate CQC rating.",
@@ -2440,6 +2450,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/",
+          "author": "Lawrence Abrams",
+          "description": "A legitimate-looking Google Search advertisement for the crypto trading platform 'Whales Market' redirects visitors to a wallet-draining phishing site that steals all of your assets. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/",
+          "publishedOn": "2024-04-18T17:55:56.000Z",
+          "wordCount": 2367,
+          "title": "Google ad impersonates Whales Market to push wallet drainer malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/whale-cryptocurrency.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/",
           "author": "Sergiu Gatlan",

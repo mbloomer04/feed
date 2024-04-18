@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-18T17:08:21.093Z</updated>
+    <updated>2024-04-18T18:11:30.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google ad impersonates Whales Market to push wallet drainer malware]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/"/>
+        <updated>2024-04-18T17:55:56.000Z</updated>
+        <summary type="html"><![CDATA[A legitimate-looking Google Search advertisement for the crypto trading platform 'Whales Market' redirects visitors to a wallet-draining phishing site that steals all of your assets. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate protest GP facing GMC sanctions after tribunal misconduct ruling]]></title>
+        <id>https://www.gponline.com/article/1869456</id>
+        <link href="https://www.gponline.com/climate-protest-gp-facing-gmc-sanctions-tribunal-misconduct-ruling/article/1869456"/>
+        <updated>2024-04-18T16:54:06.000Z</updated>
+        <summary type="html"><![CDATA[A GP who was arrested while taking part in a series of Just Stop Oil protests is facing GMC sanctions after a tribunal ruled her fitness to practise was 'impaired by reason of misconduct'.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Office LTSC 2024 preview available for Windows, Mac]]></title>
         <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/</id>
