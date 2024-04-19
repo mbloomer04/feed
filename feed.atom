@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T00:39:58.809Z</updated>
+    <updated>2024-04-19T01:43:51.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fake cheat lures gamers into spreading infostealer malware]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/"/>
+        <updated>2024-04-19T00:46:29.000Z</updated>
+        <summary type="html"><![CDATA[A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frontier Communications shuts down systems after cyberattack]]></title>
         <id>https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/</id>

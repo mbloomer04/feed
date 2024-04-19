@@ -2451,6 +2451,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/",
+          "author": "Bill Toulas",
+          "description": "A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/",
+          "publishedOn": "2024-04-19T00:46:29.000Z",
+          "wordCount": 2252,
+          "title": "Fake cheat lures gamers into spreading infostealer malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/09/03/data-theft.jpeg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
           "author": "Sergiu Gatlan",
           "description": "​American telecom provider Frontier Communications is restoring systems after a cybercrime group breached some of its IT systems in a recent cyberattack. [...]",
