@@ -2571,6 +2571,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/",
+          "author": "Sergiu Gatlan",
+          "description": "​The United Nations Development Programme (UNDP) is investigating a cyberattack after threat actors breached its IT systems to steal human resources data. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/",
+          "publishedOn": "2024-04-19T18:03:31.000Z",
+          "wordCount": 2220,
+          "title": "United Nations agency investigates ransomware attack, data theft",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/UNDP.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/",
           "author": "Bill Toulas",
           "description": "Approximately 22,500 exposed Palo Alto GlobalProtect firewall devices are likely vulnerable to the CVE-2024-3400 flaw, a critical command injection vulnerability that has been actively exploited in attacks since at least March 26, 2024. [...]",

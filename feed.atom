@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T17:08:36.329Z</updated>
+    <updated>2024-04-19T18:10:47.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[United Nations agency investigates ransomware attack, data theft]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/"/>
+        <updated>2024-04-19T18:03:31.000Z</updated>
+        <summary type="html"><![CDATA[​The United Nations Development Programme (UNDP) is investigating a cyberattack after threat actors breached its IT systems to steal human resources data. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open call for evidence: Fit Note Reform: call for evidence]]></title>
         <id>https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence</id>
