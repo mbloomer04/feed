@@ -2561,6 +2561,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/",
+          "author": "Sergiu Gatlan",
+          "description": "CrushFTP warned customers today in a private memo of an actively exploited zero-day vulnerability fixed in new versions released today, urging them to patch their servers immediately. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/",
+          "publishedOn": "2024-04-19T22:33:01.000Z",
+          "wordCount": 2154,
+          "title": "CrushFTP warns users to patch exploited zero-day “immediately”",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/CrushFTP_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
           "author": "Bill Toulas",
           "description": "An operator of the HelloKitty ransomware operation announced they changed the name to 'HelloGookie,' releasing passwords for previously leaked CD Projekt source code, Cisco network information, and decryption keys from old attacks.. [...]",

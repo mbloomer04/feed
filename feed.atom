@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T22:08:05.081Z</updated>
+    <updated>2024-04-19T23:11:02.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CrushFTP warns users to patch exploited zero-day “immediately”]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/"/>
+        <updated>2024-04-19T22:33:01.000Z</updated>
+        <summary type="html"><![CDATA[CrushFTP warned customers today in a private memo of an actively exploited zero-day vulnerability fixed in new versions released today, urging them to patch their servers immediately. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HelloKitty ransomware rebrands, releases CD Projekt and Cisco data]]></title>
         <id>https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/</id>
