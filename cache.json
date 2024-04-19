@@ -1560,6 +1560,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
+          "author": null,
+          "description": "A call for evidence to explore reforming the fit note process to support those with long term health conditions to access timely work and health support.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
+          "publishedOn": "2024-04-19T16:01:39.000Z",
+          "wordCount": 1227,
+          "title": "Open call for evidence: Fit Note Reform: call for evidence",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/speeches/tobacco-vapes-bill-second-reading",
           "author": null,
           "description": "Oral statement to Parliament: \r\n\r\nTobacco & Vapes Bill Second Reading.  \r\n\r\nAs delivered by Rt Hon Andrea Leadsom MP, Minister for Health.",
@@ -2560,6 +2570,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/",
+          "author": "Bill Toulas",
+          "description": "Approximately 22,500 exposed Palo Alto GlobalProtect firewall devices are likely vulnerable to the CVE-2024-3400 flaw, a critical command injection vulnerability that has been actively exploited in attacks since at least March 26, 2024. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/",
+          "publishedOn": "2024-04-19T15:27:34.000Z",
+          "wordCount": 2198,
+          "title": "22,500 Palo Alto firewalls \"possibly vulnerable\" to ongoing attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/palo-alto-networks.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/",
           "author": "Bill Toulas",

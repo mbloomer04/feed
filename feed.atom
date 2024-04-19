@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T15:09:43.485Z</updated>
+    <updated>2024-04-19T16:10:44.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open call for evidence: Fit Note Reform: call for evidence]]></title>
+        <id>https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence</id>
+        <link href="https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence"/>
+        <updated>2024-04-19T16:01:39.000Z</updated>
+        <summary type="html"><![CDATA[A call for evidence to explore reforming the fit note process to support those with long term health conditions to access timely work and health support.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22,500 Palo Alto firewalls "possibly vulnerable" to ongoing attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/"/>
+        <updated>2024-04-19T15:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Approximately 22,500 exposed Palo Alto GlobalProtect firewall devices are likely vulnerable to the CVE-2024-3400 flaw, a critical command injection vulnerability that has been actively exploited in attacks since at least March 26, 2024. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMC case in focus: How GPs should supervise PAs]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146543</id>
