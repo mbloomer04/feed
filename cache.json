@@ -730,6 +730,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869352",
+          "author": null,
+          "description": "The GPonline team discusses the key news stories affecting general practice in our podcast.",
+          "link": "https://www.gponline.com/podcast-untapped-locum-gp-capacity-nhs-evidence-gp-pay-nhs-u-turn-mental-health-support/article/1869352",
+          "publishedOn": "2024-04-19T08:27:23.000Z",
+          "wordCount": 1079,
+          "title": "Podcast: Untapped locum GP capacity, NHS evidence on GP pay, NHS U-turn on mental health support",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_960.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1869456",
           "author": null,
           "description": "A GP who was arrested while taking part in a series of Just Stop Oil protests is facing GMC sanctions after a tribunal ruled her fitness to practise was 'impaired by reason of misconduct'.",
@@ -2293,6 +2303,26 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:b6d48a7b-2bde-4856-a46c-e549b1f30265",
+          "author": null,
+          "description": "A new oral vaccine for cholera has received prequalification by the World Health Organization (WHO) on 12 April. The inactivated oral vaccine Euvichol-S has a similar efficacy to existing vaccines but a simplified formulation, allowing opportunities to rapidly increase production capacity. \n“The new vaccine is the third product of the same family of vaccines we have for cholera in our WHO prequalification list,” said Dr Rogerio Gaspar, Director of the WHO Department for Regulation and Prequalification. “The new prequalification is hoped to enable a rapid increase in production and supply which many communities battling with cholera outbreaks urgently need.”\nWHO prequalification list already includes Euvichol and Euvichol-Plus inactivated oral cholera vaccines produced by EuBiologicals Co., Ltd, Republic of South Korea, which also produces the new vaccine Euvichol-S.  \nVaccines provide the fastest intervention to prevent, limit and control cholera outbreaks but supplies have been at the lowest point amidst countries facing dire shortcomings in other areas of cholera prevention and management such as safe water, hygiene and sanitation.  \nThere were 473 000 cholera cases reported to WHO in 2022 -- double the number from 2021. Further increase of cases by 700 000 was estimated for 2023. Currently, 23 countries are reporting cholera outbreaks with most severe impacts seen in the Comoros, Democratic Republic of the Congo, Ethiopia, Mozambique, Somalia, Zambia and Zimbabwe.",
+          "link": "https://www.who.int/news/item/18-04-2024-who-prequalifies-new-oral-simplified-vaccine-for-cholera",
+          "publishedOn": "2024-04-18T18:11:07.000Z",
+          "wordCount": 1494,
+          "title": "WHO prequalifies new oral simplified vaccine for cholera",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/imported/cholera/cholera-rapid-diagnostic-tests.tmb-1200v.jpg?sfvrsn=ca1e4ae4_6"
+        },
+        {
+          "id": "urn:uuid:aad6c56d-7a31-4453-8948-c7e0e3e7f30a",
+          "author": null,
+          "description": "Following consultation with public health agencies and experts, the World Health Organization (WHO) publishes a global technical consultation report introducing updated terminology for pathogens that transmit through the air.",
+          "link": "https://www.who.int/news/item/18-04-2024-leading-health-agencies-outline-updated-terminology-for-pathogens-that-transmit-through-the-air",
+          "publishedOn": "2024-04-17T15:35:39.000Z",
+          "wordCount": 2433,
+          "title": "Leading health agencies outline updated terminology for pathogens that transmit through the air",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/cherry-blossoms.tmb-1200v.jpg?sfvrsn=7f747a5f_6"
+        },
         {
           "id": "urn:uuid:a3471b8f-1a8d-42c3-8451-e2d9533bbbfa",
           "author": null,

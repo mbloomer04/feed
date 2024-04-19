@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T08:11:46.981Z</updated>
+    <updated>2024-04-19T09:09:23.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Untapped locum GP capacity, NHS evidence on GP pay, NHS U-turn on mental health support]]></title>
+        <id>https://www.gponline.com/article/1869352</id>
+        <link href="https://www.gponline.com/podcast-untapped-locum-gp-capacity-nhs-evidence-gp-pay-nhs-u-turn-mental-health-support/article/1869352"/>
+        <updated>2024-04-19T08:27:23.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice in our podcast.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
         <id>https://www.digitalhealth.net/?p=174037</id>
@@ -54,6 +64,20 @@
         <summary type="html"><![CDATA[According to a joint advisory from the FBI, CISA, Europol's European Cybercrime Centre (EC3), and the Netherlands' National Cyber Security Centre (NCSC-NL), the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments. [...]]]></summary>
         <author>
             <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO prequalifies new oral simplified vaccine for cholera]]></title>
+        <id>urn:uuid:b6d48a7b-2bde-4856-a46c-e549b1f30265</id>
+        <link href="https://www.who.int/news/item/18-04-2024-who-prequalifies-new-oral-simplified-vaccine-for-cholera"/>
+        <updated>2024-04-18T18:11:07.000Z</updated>
+        <summary type="html"><![CDATA[A new oral vaccine for cholera has received prequalification by the World Health Organization (WHO) on 12 April. The inactivated oral vaccine Euvichol-S has a similar efficacy to existing vaccines but a simplified formulation, allowing opportunities to rapidly increase production capacity. 
+“The new vaccine is the third product of the same family of vaccines we have for cholera in our WHO prequalification list,” said Dr Rogerio Gaspar, Director of the WHO Department for Regulation and Prequalification. “The new prequalification is hoped to enable a rapid increase in production and supply which many communities battling with cholera outbreaks urgently need.”
+WHO prequalification list already includes Euvichol and Euvichol-Plus inactivated oral cholera vaccines produced by EuBiologicals Co., Ltd, Republic of South Korea, which also produces the new vaccine Euvichol-S.  
+Vaccines provide the fastest intervention to prevent, limit and control cholera outbreaks but supplies have been at the lowest point amidst countries facing dire shortcomings in other areas of cholera prevention and management such as safe water, hygiene and sanitation.  
+There were 473 000 cholera cases reported to WHO in 2022 -- double the number from 2021. Further increase of cases by 700 000 was estimated for 2023. Currently, 23 countries are reporting cholera outbreaks with most severe impacts seen in the Comoros, Democratic Republic of the Congo, Ethiopia, Mozambique, Somalia, Zambia and Zimbabwe.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -426,6 +450,16 @@ The post Putting a price on doctors’ mental health appeared first on Pulse Tod
         <summary type="html"><![CDATA['Constantly elevated medicines shortages' have left patients struggling to access crucial products and driven up workload for GPs and pharmacists over the past two years, a report warns.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leading health agencies outline updated terminology for pathogens that transmit through the air]]></title>
+        <id>urn:uuid:aad6c56d-7a31-4453-8948-c7e0e3e7f30a</id>
+        <link href="https://www.who.int/news/item/18-04-2024-leading-health-agencies-outline-updated-terminology-for-pathogens-that-transmit-through-the-air"/>
+        <updated>2024-04-17T15:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Following consultation with public health agencies and experts, the World Health Organization (WHO) publishes a global technical consultation report introducing updated terminology for pathogens that transmit through the air.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
