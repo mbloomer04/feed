@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T18:10:47.581Z</updated>
+    <updated>2024-04-19T19:08:13.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MITRE says state hackers breached its network via Ivanti zero-days]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/"/>
+        <updated>2024-04-19T19:02:09.000Z</updated>
+        <summary type="html"><![CDATA[The MITRE Corporation says a state-backed hacking group breached its systems in January 2024 by chaining two Ivanti VPN zero-days. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[United Nations agency investigates ransomware attack, data theft]]></title>
         <id>https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/</id>
