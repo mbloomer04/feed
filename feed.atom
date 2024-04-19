@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T19:08:13.518Z</updated>
+    <updated>2024-04-19T20:09:01.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HelloKitty ransomware rebrands, releases CD Projekt and Cisco data]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/"/>
+        <updated>2024-04-19T19:20:45.000Z</updated>
+        <summary type="html"><![CDATA[An operator of the HelloKitty ransomware operation announced they changed the name to 'HelloGookie,' releasing passwords for previously leaked CD Projekt source code, Cisco network information, and decryption keys from old attacks.. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MITRE says state hackers breached its network via Ivanti zero-days]]></title>
         <id>https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/</id>

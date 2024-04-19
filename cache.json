@@ -2571,6 +2571,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
+          "author": "Bill Toulas",
+          "description": "An operator of the HelloKitty ransomware operation announced they changed the name to 'HelloGookie,' releasing passwords for previously leaked CD Projekt source code, Cisco network information, and decryption keys from old attacks.. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
+          "publishedOn": "2024-04-19T19:20:45.000Z",
+          "wordCount": 2488,
+          "title": "HelloKitty ransomware rebrands, releases CD Projekt and Cisco data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/09/HelloKitty.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/",
           "author": "Sergiu Gatlan",
           "description": "The MITRE Corporation says a state-backed hacking group breached its systems in January 2024 by chaining two Ivanti VPN zero-days. [...]",
