@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-19T07:09:58.495Z</updated>
+    <updated>2024-04-19T08:11:46.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=174037</id>
+        <link href="https://www.digitalhealth.net/2024/04/digital-healths-monthly-roundup-of-contracts-and-go-lives-39/"/>
+        <updated>2024-04-19T07:30:07.000Z</updated>
+        <summary type="html"><![CDATA[This contracts and go lives roundup features a contract for KPMG to ‘promote adoption’ of the FDP, and North Tees implementing InterSystems’ TrakCare EPR.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake cheat lures gamers into spreading infostealer malware]]></title>
         <id>https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/</id>
