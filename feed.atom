@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-20T18:11:34.805Z</updated>
+    <updated>2024-04-20T19:07:28.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4182,16 +4182,6 @@ Reproducible analytical pipelines (RAP) are automated statistical and analytica
         <summary type="html"><![CDATA[An LMC has said that an in-depth report it produced on the financial crisis facing practices in its area has played a key role in the ICB rowing back on planned cuts to local GP funding this year.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaWorks - 162,710 breached accounts]]></title>
-        <id>MediaWorks</id>
-        <link href="https://haveibeenpwned.com/PwnedWebsites#MediaWorks"/>
-        <updated>2024-03-22T06:43:09.000Z</updated>
-        <summary type="html"><![CDATA[In March 2024, millions of rows of data from the New Zealand media company MediaWorks was publicly posted to a popular hacking forum. The incident exposed 163k unique email addresses provided by visitors who filled out online competitions and included names, physical addresses, phone numbers, dates of birth, genders and the responses to questions in the competition. Some victims of the breach subsequently received ransom demands requesting payment to have their data deleted.]]></summary>
-        <author>
-            <name>Have I Been Pwned latest breaches</name>
         </author>
     </entry>
 </feed>
