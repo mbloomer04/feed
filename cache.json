@@ -2561,6 +2561,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/",
+          "author": "Lawrence Abrams",
+          "description": "While ransomware attacks decreased after the LockBit and BlackCat disruptions, they have once again started to ramp up with other operations filling the void. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/",
+          "publishedOn": "2024-04-19T23:36:54.000Z",
+          "wordCount": 2683,
+          "title": "The Week in Ransomware - April 19th 2024 -  Attacks Ramp Up",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/15/bitcoin-locked.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/",
           "author": "Sergiu Gatlan",
           "description": "CrushFTP warned customers today in a private memo of an actively exploited zero-day vulnerability fixed in new versions released today, urging them to patch their servers immediately. [...]",
