@@ -2561,6 +2561,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/",
+          "author": "Bill Toulas",
+          "description": "The Forminator WordPress plugin used in over 500,000 sites is vulnerable to a flaw that allows malicious actors to perform unrestricted file uploads to the server. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/",
+          "publishedOn": "2024-04-20T15:19:38.000Z",
+          "wordCount": 2138,
+          "title": "Critical Forminator plugin flaw impacts over 300k WordPress sites",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/",
+          "author": "Lawrence Abrams",
+          "description": "A GitHub flaw, or possibly a design decision, is being abused by threat actors to distribute malware using URLs associated with a Microsoft repository, making the files appear trustworthy. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/",
+          "publishedOn": "2024-04-20T14:14:28.000Z",
+          "wordCount": 2459,
+          "title": "GitHub comments abused to push malware via Microsoft repo URLs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/",
           "author": "Lawrence Abrams",
           "description": "While ransomware attacks decreased after the LockBit and BlackCat disruptions, they have once again started to ramp up with other operations filling the void. [...]",

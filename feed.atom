@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-20T20:08:50.979Z</updated>
+    <updated>2024-04-20T21:07:50.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Forminator plugin flaw impacts over 300k WordPress sites]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/"/>
+        <updated>2024-04-20T15:19:38.000Z</updated>
+        <summary type="html"><![CDATA[The Forminator WordPress plugin used in over 500,000 sites is vulnerable to a flaw that allows malicious actors to perform unrestricted file uploads to the server. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub comments abused to push malware via Microsoft repo URLs]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/"/>
+        <updated>2024-04-20T14:14:28.000Z</updated>
+        <summary type="html"><![CDATA[A GitHub flaw, or possibly a design decision, is being abused by threat actors to distribute malware using URLs associated with a Microsoft repository, making the files appear trustworthy. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Week in Ransomware - April 19th 2024 -  Attacks Ramp Up]]></title>
         <id>https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/</id>
