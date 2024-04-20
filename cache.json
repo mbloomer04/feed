@@ -114,16 +114,6 @@
           "wordCount": 670,
           "title": "CC-4471 - Splunk Releases Security Updates",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "2e894d1e-5194-41ef-a553-611044f68bee",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Critical vulnerability could allow remote code execution on an affected device\n Critical vulnerability could allow remote code execution on an affected device\n Updated: 21 Mar 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4470",
-          "publishedOn": "2024-03-21T13:28:00.000Z",
-          "wordCount": 504,
-          "title": "CC-4470 - Ivanti Releases Security Updates for Vulnerability Affecting Sentry Standalone",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
