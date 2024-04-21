@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-21T15:08:47.781Z</updated>
+    <updated>2024-04-21T16:11:16.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware payments drop to record low of 28% in Q1 2024]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/"/>
+        <updated>2024-04-21T14:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware actors have had a rough start this year, as stats from cybersecurity firm Coveware show that the trend of victims declining to pay the cybercriminals continues and has now reached a new record low of 28%. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Forminator plugin flaw impacts over 300k WordPress sites]]></title>
         <id>https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/</id>

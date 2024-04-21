@@ -2551,6 +2551,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/",
+          "author": "Bill Toulas",
+          "description": "Ransomware actors have had a rough start this year, as stats from cybersecurity firm Coveware show that the trend of victims declining to pay the cybercriminals continues and has now reached a new record low of 28%. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/",
+          "publishedOn": "2024-04-21T14:21:42.000Z",
+          "wordCount": 2357,
+          "title": "Ransomware payments drop to record low of 28% in Q1 2024",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/14/hand-holding-dollar-sign.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/",
           "author": "Bill Toulas",
           "description": "The Forminator WordPress plugin used in over 500,000 sites is vulnerable to a flaw that allows malicious actors to perform unrestricted file uploads to the server. [...]",
