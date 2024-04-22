@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-22T17:07:26.363Z</updated>
+    <updated>2024-04-22T18:09:58.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: APT28 hackers exploit Windows flaw reported by NSA]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/"/>
+        <updated>2024-04-22T17:22:41.000Z</updated>
+        <summary type="html"><![CDATA[​Microsoft warns that the Russian APT28 threat group exploits a Windows Print Spooler vulnerability to escalate privileges and steal credentials and data using a previously unknown hacking tool called GooseEgg. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statutory guidance: The Health Claims (Revocation) Regulations 2024]]></title>
         <id>https://www.gov.uk/government/publications/the-health-claims-revocation-regulations-2024</id>

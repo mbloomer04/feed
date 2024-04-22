@@ -2671,6 +2671,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/",
+          "author": "Sergiu Gatlan",
+          "description": "​Microsoft warns that the Russian APT28 threat group exploits a Windows Print Spooler vulnerability to escalate privileges and steal credentials and data using a previously unknown hacking tool called GooseEgg. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/",
+          "publishedOn": "2024-04-22T17:22:41.000Z",
+          "wordCount": 2221,
+          "title": "Microsoft: APT28 hackers exploit Windows flaw reported by NSA",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/",
           "author": "Bill Toulas",
           "description": "Synlab Italia has suspended all its medical diagnostic and testing services after a ransomware attack forced its IT systems to be taken offline. [...]",
