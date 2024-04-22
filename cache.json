@@ -840,6 +840,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1869801",
+          "author": null,
+          "description": "The NHS could soon face a £5bn annual bill to replace thousands of doctors leaving before retirement age unless it takes urgent action to improve retention, the BMA has warned.",
+          "link": "https://www.gponline.com/nhs-face-5bn-annual-bill-replace-thousands-doctors-leaving-early/article/1869801",
+          "publishedOn": "2024-04-22T23:01:00.000Z",
+          "wordCount": 698,
+          "title": "NHS could face £5bn annual bill to replace thousands of doctors leaving early",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_65.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1869693",
           "author": null,
           "description": "Three surgeries were forced to cancel appointments and close their doors after police warned they had received ‘intelligence of a threat’ to Trent View Medical Practice in North Lincolnshire.",
@@ -2670,6 +2680,16 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/",
+          "author": "Sergiu Gatlan",
+          "description": "​Microsoft warns that the Russian APT28 threat group exploits a Windows Print Spooler vulnerability to escalate privileges and steal credentials and data using a previously unknown hacking tool called GooseEgg. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/",
+          "publishedOn": "2024-04-22T17:22:41.000Z",
+          "wordCount": 2245,
+          "title": "Microsoft: APT28 hackers exploit Windows flaw reported by NSA",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/",
           "author": "Sergiu Gatlan",
