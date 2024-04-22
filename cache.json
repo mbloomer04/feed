@@ -4055,6 +4055,16 @@
       "siteUrl": "https://haveibeenpwned.com/",
       "articles": [
         {
+          "id": "T2",
+          "author": null,
+          "description": "In April 2024, 86k records from the T2 tea store were posted to a popular hacking forum. Data included email and physical addresses, names, phone numbers, dates of birth, purchases and passwords stored as scrypt hashes.",
+          "link": "https://haveibeenpwned.com/PwnedWebsites#T2",
+          "publishedOn": "2024-04-22T06:17:17.000Z",
+          "wordCount": 65029,
+          "title": "T2 - 85,894 breached accounts",
+          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+        },
+        {
           "id": "LeSlipFrancais",
           "author": null,
           "description": "In April 2024, the French underwear maker Le Slip Français suffered a data breach. The breach included 1.5M email addresses, physical addresses, names and phone numbers.",

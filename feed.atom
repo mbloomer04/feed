@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-22T06:12:18.720Z</updated>
+    <updated>2024-04-22T07:09:04.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[T2 - 85,894 breached accounts]]></title>
+        <id>T2</id>
+        <link href="https://haveibeenpwned.com/PwnedWebsites#T2"/>
+        <updated>2024-04-22T06:17:17.000Z</updated>
+        <summary type="html"><![CDATA[In April 2024, 86k records from the T2 tea store were posted to a popular hacking forum. Data included email and physical addresses, names, phone numbers, dates of birth, purchases and passwords stored as scrypt hashes.]]></summary>
+        <author>
+            <name>Have I Been Pwned latest breaches</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malware dev lures child exploiters into honeytrap to extort them]]></title>
         <id>https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/</id>
