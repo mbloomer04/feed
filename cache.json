@@ -2661,6 +2661,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/",
+          "author": "Bill Toulas",
+          "description": "Synlab Italia has suspended all its medical diagnostic and testing services after a ransomware attack forced its IT systems to be taken offline. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/",
+          "publishedOn": "2024-04-22T15:27:52.000Z",
+          "wordCount": 2168,
+          "title": "Synlab Italia suspends operations following ransomware attack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/22/synlab.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/",
           "author": "Ax Sharma",
           "description": "BleepingComputer recently reported how a GitHub flaw, or possibly a design decision, is being abused by threat actors to distribute malware using URLs associated with Microsoft repositories, making the files appear trustworthy. It turns out, GitLab is also affected by this issue and could be abused in a similar fashion. [...]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-22T15:09:51.809Z</updated>
+    <updated>2024-04-22T16:10:58.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Synlab Italia suspends operations following ransomware attack]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/"/>
+        <updated>2024-04-22T15:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Synlab Italia has suspended all its medical diagnostic and testing services after a ransomware attack forced its IT systems to be taken offline. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitLab affected by GitHub-style CDN flaw allowing malware hosting]]></title>
         <id>https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/</id>
