@@ -2621,6 +2621,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/",
+          "author": "Bill Toulas",
+          "description": "Russian hacker group Sandworm aimed to disrupt operations at around 20 critical infrastructure facilities in Ukraine, according to a report from the Ukrainian Computer Emergency Response Team (CERT-UA). [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/",
+          "publishedOn": "2024-04-22T12:30:13.000Z",
+          "wordCount": 2385,
+          "title": "Russian Sandworm hackers targeted 20 critical orgs in Ukraine",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/22/russian.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/",
           "author": "Lawrence Abrams",
           "description": "You rarely root for a cybercriminal, but a new malware campaign targeting child exploiters doesn't make you feel bad for the victims. [...]",
@@ -3687,6 +3697,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=174087",
+          "author": "Cora Lydon",
+          "description": "New guidance has been issued by ICO over how health and care organisations should be transparent over the use of personal information.",
+          "link": "https://www.digitalhealth.net/2024/04/ico-guidance-on-transparency-published-for-health-and-care-sector/",
+          "publishedOn": "2024-04-22T12:30:54.000Z",
+          "wordCount": 1768,
+          "title": "ICO guidance on transparency published for health and care sector",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/transparency-of-data-ICO-3.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=174131",
           "author": "Jordan Sollof",

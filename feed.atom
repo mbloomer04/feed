@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-22T12:17:26.377Z</updated>
+    <updated>2024-04-22T13:09:48.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICO guidance on transparency published for health and care sector]]></title>
+        <id>https://www.digitalhealth.net/?p=174087</id>
+        <link href="https://www.digitalhealth.net/2024/04/ico-guidance-on-transparency-published-for-health-and-care-sector/"/>
+        <updated>2024-04-22T12:30:54.000Z</updated>
+        <summary type="html"><![CDATA[New guidance has been issued by ICO over how health and care organisations should be transparent over the use of personal information.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Sandworm hackers targeted 20 critical orgs in Ukraine]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/"/>
+        <updated>2024-04-22T12:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Russian hacker group Sandworm aimed to disrupt operations at around 20 critical infrastructure facilities in Ukraine, according to a report from the Ukrainian Computer Emergency Response Team (CERT-UA). [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP practices had to close after police learned of ‘threat’]]></title>
         <id>https://www.pulsetoday.co.uk/?p=146806</id>
