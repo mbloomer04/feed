@@ -133,6 +133,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=146828",
+          "author": "Anna Colivicchi",
+          "description": "Doctors leaving the NHS prematurely currently cost the taxpayer up to £2.4bn a year, according to calculations by the BMA. A new report, published today, said the cost of an individual doctor leaving ‘varies significantly’ depending on specialty and can be up to £365,000. Based on the 15,000 to 23,000 doctors estimated to have left\nThe post Doctor exodus costs the NHS up to £2.4bn a year, BMA warns appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/doctor-exodus-costs-the-nhs-up-to-2-4bn-a-year-bma-warns/",
+          "publishedOn": "2024-04-23T08:16:23.000Z",
+          "wordCount": 3777,
+          "title": "Doctor exodus costs the NHS up to £2.4bn a year, BMA warns",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/GP-practices-set-to-lose-tens-of-thousands-of-childhood-immunisation-QOF-money.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=146792",
           "author": "Anna Colivicchi",
           "description": "A man who assaulted GP staff and smashed a glass screen at a surgery in Kent has been jailed for 42 weeks. Kent Police said that after attending Brewer Street Surgery in Maidstone, Darren Turpin, 55, ‘caused a disturbance in a reception area’ where he punched a glass screen that shattered, causing cuts to the\nThe post Man jailed after smashing glass and causing injury to GP staff appeared first on Pulse Today.",
@@ -2676,1123 +2686,6 @@
       ]
     },
     {
-      "title": "BleepingComputer",
-      "feedUrl": "https://www.bleepingcomputer.com/feed/",
-      "siteUrl": "https://www.bleepingcomputer.com/",
-      "articles": [
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/",
-          "author": "Sergiu Gatlan",
-          "description": "​Microsoft warns that the Russian APT28 threat group exploits a Windows Print Spooler vulnerability to escalate privileges and steal credentials and data using a previously unknown hacking tool called GooseEgg. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/",
-          "publishedOn": "2024-04-22T17:22:41.000Z",
-          "wordCount": 2245,
-          "title": "Microsoft: APT28 hackers exploit Windows flaw reported by NSA",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/",
-          "author": "Sergiu Gatlan",
-          "description": "​Microsoft warns that the Russian APT28 threat group exploits a Windows Print Spooler vulnerability to escalate privileges and steal credentials and data using a previously unknown hacking tool called GooseEgg. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/",
-          "publishedOn": "2024-04-22T17:22:41.000Z",
-          "wordCount": 2221,
-          "title": "Microsoft: APT28 hackers exploit Windows flaw reported by NSA",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/",
-          "author": "Bill Toulas",
-          "description": "Synlab Italia has suspended all its medical diagnostic and testing services after a ransomware attack forced its IT systems to be taken offline. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/",
-          "publishedOn": "2024-04-22T15:27:52.000Z",
-          "wordCount": 2168,
-          "title": "Synlab Italia suspends operations following ransomware attack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/22/synlab.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/",
-          "author": "Ax Sharma",
-          "description": "BleepingComputer recently reported how a GitHub flaw, or possibly a design decision, is being abused by threat actors to distribute malware using URLs associated with Microsoft repositories, making the files appear trustworthy. It turns out, GitLab is also affected by this issue and could be abused in a similar fashion. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/",
-          "publishedOn": "2024-04-22T15:05:44.000Z",
-          "wordCount": 2559,
-          "title": "GitLab affected by GitHub-style CDN flaw allowing malware hosting",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/01/GitLab.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/",
-          "author": "Bill Toulas",
-          "description": "Russian hacker group Sandworm aimed to disrupt operations at around 20 critical infrastructure facilities in Ukraine, according to a report from the Ukrainian Computer Emergency Response Team (CERT-UA). [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/",
-          "publishedOn": "2024-04-22T12:30:13.000Z",
-          "wordCount": 2385,
-          "title": "Russian Sandworm hackers targeted 20 critical orgs in Ukraine",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/22/russian.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/",
-          "author": "Lawrence Abrams",
-          "description": "You rarely root for a cybercriminal, but a new malware campaign targeting child exploiters doesn't make you feel bad for the victims. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/",
-          "publishedOn": "2024-04-21T18:49:58.000Z",
-          "wordCount": 2402,
-          "title": "Malware dev lures child exploiters into honeytrap to extort them",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/04/hacker-arms-raised-brighter.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/",
-          "author": "Bill Toulas",
-          "description": "Ransomware actors have had a rough start this year, as stats from cybersecurity firm Coveware show that the trend of victims declining to pay the cybercriminals continues and has now reached a new record low of 28%. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/",
-          "publishedOn": "2024-04-21T14:21:42.000Z",
-          "wordCount": 2357,
-          "title": "Ransomware payments drop to record low of 28% in Q1 2024",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/14/hand-holding-dollar-sign.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/",
-          "author": "Bill Toulas",
-          "description": "The Forminator WordPress plugin used in over 500,000 sites is vulnerable to a flaw that allows malicious actors to perform unrestricted file uploads to the server. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/",
-          "publishedOn": "2024-04-20T15:19:38.000Z",
-          "wordCount": 2138,
-          "title": "Critical Forminator plugin flaw impacts over 300k WordPress sites",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/",
-          "author": "Lawrence Abrams",
-          "description": "A GitHub flaw, or possibly a design decision, is being abused by threat actors to distribute malware using URLs associated with a Microsoft repository, making the files appear trustworthy. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/",
-          "publishedOn": "2024-04-20T14:14:28.000Z",
-          "wordCount": 2459,
-          "title": "GitHub comments abused to push malware via Microsoft repo URLs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/",
-          "author": "Lawrence Abrams",
-          "description": "While ransomware attacks decreased after the LockBit and BlackCat disruptions, they have once again started to ramp up with other operations filling the void. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/",
-          "publishedOn": "2024-04-19T23:36:54.000Z",
-          "wordCount": 2683,
-          "title": "The Week in Ransomware - April 19th 2024 -  Attacks Ramp Up",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/15/bitcoin-locked.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/",
-          "author": "Sergiu Gatlan",
-          "description": "CrushFTP warned customers today in a private memo of an actively exploited zero-day vulnerability fixed in new versions released today, urging them to patch their servers immediately. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/",
-          "publishedOn": "2024-04-19T22:33:01.000Z",
-          "wordCount": 2154,
-          "title": "CrushFTP warns users to patch exploited zero-day “immediately”",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/CrushFTP_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
-          "author": "Bill Toulas",
-          "description": "An operator of the HelloKitty ransomware operation announced they changed the name to 'HelloGookie,' releasing passwords for previously leaked CD Projekt source code, Cisco network information, and decryption keys from old attacks.. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
-          "publishedOn": "2024-04-19T19:20:45.000Z",
-          "wordCount": 2488,
-          "title": "HelloKitty ransomware rebrands, releases CD Projekt and Cisco data",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/09/HelloKitty.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/",
-          "author": "Sergiu Gatlan",
-          "description": "The MITRE Corporation says a state-backed hacking group breached its systems in January 2024 by chaining two Ivanti VPN zero-days. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/",
-          "publishedOn": "2024-04-19T19:02:09.000Z",
-          "wordCount": 2132,
-          "title": "MITRE says state hackers breached its network via Ivanti zero-days",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/MITRE.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/",
-          "author": "Sergiu Gatlan",
-          "description": "​The United Nations Development Programme (UNDP) is investigating a cyberattack after threat actors breached its IT systems to steal human resources data. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/",
-          "publishedOn": "2024-04-19T18:03:31.000Z",
-          "wordCount": 2220,
-          "title": "United Nations agency investigates ransomware attack, data theft",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/UNDP.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/",
-          "author": "Bill Toulas",
-          "description": "Approximately 22,500 exposed Palo Alto GlobalProtect firewall devices are likely vulnerable to the CVE-2024-3400 flaw, a critical command injection vulnerability that has been actively exploited in attacks since at least March 26, 2024. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/",
-          "publishedOn": "2024-04-19T15:27:34.000Z",
-          "wordCount": 2198,
-          "title": "22,500 Palo Alto firewalls \"possibly vulnerable\" to ongoing attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/19/palo-alto-networks.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/",
-          "author": "Bill Toulas",
-          "description": "A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/",
-          "publishedOn": "2024-04-19T00:46:29.000Z",
-          "wordCount": 2252,
-          "title": "Fake cheat lures gamers into spreading infostealer malware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/09/03/data-theft.jpeg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
-          "author": "Sergiu Gatlan",
-          "description": "​American telecom provider Frontier Communications is restoring systems after a cybercrime group breached some of its IT systems in a recent cyberattack. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
-          "publishedOn": "2024-04-18T21:02:24.000Z",
-          "wordCount": 2108,
-          "title": "Frontier Communications shuts down systems after cyberattack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/Frontier.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/",
-          "author": "Bill Toulas",
-          "description": "The Hospital Simone Veil in Cannes (CHC-SV) has announced that it was targeted by a cyberattack on Tuesday morning, severely impacting its operations and forcing staff to go back to pen and paper. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/",
-          "publishedOn": "2024-04-18T18:29:33.000Z",
-          "wordCount": 2173,
-          "title": "840-bed hospital in France postpones procedures after cyberattack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/simone-veil.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/",
-          "author": "Sergiu Gatlan",
-          "description": "According to a joint advisory from the FBI, CISA, Europol's European Cybercrime Centre (EC3), and the Netherlands' National Cyber Security Centre (NCSC-NL), the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/",
-          "publishedOn": "2024-04-18T18:11:29.000Z",
-          "wordCount": 2153,
-          "title": "FBI: Akira ransomware raked in $42 million from 250+ victims",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/",
-          "author": "Lawrence Abrams",
-          "description": "A legitimate-looking Google Search advertisement for the crypto trading platform 'Whales Market' redirects visitors to a wallet-draining phishing site that steals all of your assets. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/",
-          "publishedOn": "2024-04-18T17:55:56.000Z",
-          "wordCount": 2367,
-          "title": "Google ad impersonates Whales Market to push wallet drainer malware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/18/whale-cryptocurrency.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/",
-          "author": "Sergiu Gatlan",
-          "description": "A preview of Microsoft Office LTSC 2024, a volume-licensed and perpetual version of Office for commercial customers, is now available for Windows and macOS users. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-ltsc-2024-preview-available-for-windows-mac/",
-          "publishedOn": "2024-04-18T16:49:34.000Z",
-          "wordCount": 2207,
-          "title": "Microsoft Office LTSC 2024 preview available for Windows, Mac",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/15/Office.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/",
-          "author": "Bill Toulas",
-          "description": "LastPass is warning of a malicious campaign targeting its users with the CryptoChameleon phishing kit that is associated with cryptocurrency theft. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-lastpass-staff-to-hack-password-vaults/",
-          "publishedOn": "2024-04-18T14:56:41.000Z",
-          "wordCount": 2135,
-          "title": "Cybercriminals pose as LastPass staff to hack password vaults",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/22/Lastpass.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/",
-          "author": "Bill Toulas",
-          "description": "The LabHost phishing-as-a-service (PhaaS) platform has been disrupted in a year-long global law enforcement operation that compromised the infrastructure and arrested 37 suspects, among them the original developer. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/labhost-phishing-service-with-40-000-domains-disrupted-37-arrested/",
-          "publishedOn": "2024-04-18T09:52:04.000Z",
-          "wordCount": 2215,
-          "title": "LabHost phishing service with 40,000 domains disrupted, 37 arrested",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/police-arrest-hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/",
-          "author": "Bill Toulas",
-          "description": "A new Android banking malware named 'SoumniBot' is using a less common obfuscation approach by exploiting weaknesses in the Android manifest extraction and parsing procedure. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/soumnibot-malware-exploits-android-bugs-to-evade-detection/",
-          "publishedOn": "2024-04-17T21:38:28.000Z",
-          "wordCount": 2374,
-          "title": "SoumniBot malware exploits Android bugs to evade detection",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/01/12/android-eyes.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "In an ongoing Kubernetes cryptomining campaign, attackers target OpenMetadata workloads using critical remote code execution and authentication vulnerabilities. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-openmetadata-apps-in-kubernetes-cryptomining-attacks/",
-          "publishedOn": "2024-04-17T21:01:15.000Z",
-          "wordCount": 2132,
-          "title": "Hackers hijack OpenMetadata apps in Kubernetes cryptomining attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/17/Kubernetes.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/",
-          "author": "Bill Toulas",
-          "description": "The financially motivated threat actor FIN7 targeted a large U.S. car maker with spear-phishing emails for employees in the IT department to infect systems with the Anunak backdoor. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/",
-          "publishedOn": "2024-04-17T20:40:06.000Z",
-          "wordCount": 2261,
-          "title": "FIN7 targets American automaker’s IT staff in phishing attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/06/car-factory-supply-line.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/",
-          "author": "Sergiu Gatlan",
-          "description": "The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/",
-          "publishedOn": "2024-04-17T18:53:30.000Z",
-          "wordCount": 2150,
-          "title": "Moldovan charged for operating botnet used to push ransomware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/01/botnet-kill-switch.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
-          "author": "Sergiu Gatlan",
-          "description": "Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
-          "publishedOn": "2024-04-17T17:25:42.000Z",
-          "wordCount": 2088,
-          "title": "Cisco discloses root escalation flaw with public exploit code",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/07/Cisco.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/",
-          "author": "Bill Toulas",
-          "description": "The Sandworm hacking group associated with Russian military intelligence has been hiding attacks and operations behind multiple online personas posing as hacktivist groups. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/",
-          "publishedOn": "2024-04-17T17:08:59.000Z",
-          "wordCount": 2619,
-          "title": "Russian Sandworm hackers pose as hacktivists in water utility breaches",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/17/logo.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/",
-          "author": "Sponsored by Flare",
-          "description": "Cybersecurity firms commonly sell \"dark web monitoring\" packages, with firms having slighly different features. Learn from Flare about the different dark web monitoring packages and the value they bring to your organization. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/dark-web-monitoring-whats-the-value/",
-          "publishedOn": "2024-04-17T14:02:04.000Z",
-          "wordCount": 2423,
-          "title": "Dark Web Monitoring: What's the Value?",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/16/blank-screens-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/",
-          "author": "Bill Toulas",
-          "description": "At least six distinct botnet malware operations are hunting for TP-Link Archer AX21 (AX1800) routers vulnerable to a command injection security issue reported and addressed last year. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/",
-          "publishedOn": "2024-04-17T13:03:09.000Z",
-          "wordCount": 2233,
-          "title": "Multiple botnets exploiting one-year-old TP-Link flaw to hack routers",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/15/botnet.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft says the new Copilot app, mistakenly added to the list of installed Windows apps by recent Edge updates, doesn't collect or relay data to its servers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-app-on-windows-server-mistakenly-added-by-edge/",
-          "publishedOn": "2024-04-17T12:16:50.000Z",
-          "wordCount": 2228,
-          "title": "Microsoft: Copilot ‘app’ on Windows Server mistakenly added by Edge",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Microsoft_Copilot.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft says the new Copilot app, added by recent Edge updates to the list of installed Windows apps, doesn't collect or relay data to its servers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/",
-          "publishedOn": "2024-04-17T12:16:50.000Z",
-          "wordCount": 2192,
-          "title": "Microsoft: New Copilot app added by Edge doesn’t collect data",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Microsoft_Copilot.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-starts-today-for-millions-no-more-physical-immigration-cards/",
-          "author": "Ax Sharma",
-          "description": "Starting today, millions living in the UK will receive email invitations to sign up for an e-visa account that will replace their physical immigration documents like Biometric Residence Permits (BRPs). The move is, according to the Home Office, \"a key step in creating a modernised and digital border.\" [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-starts-today-for-millions-no-more-physical-immigration-cards/",
-          "publishedOn": "2024-04-17T05:48:43.000Z",
-          "wordCount": 2892,
-          "title": "UK e-visa rollout starts today for millions: no more physical immigration cards",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/03/29/London-UK-Millennium-Bridge.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-begins-today-no-more-immigration-cards-for-millions/",
-          "author": "Ax Sharma",
-          "description": "Starting today, millions living in the UK will receive email invitations to sign up for an e-visa account that will replace their physical immigration documents like Biometric Residence Permits (BRPs). The move is, according to the Home Office, \"a key step in creating a modernised and digital border.\" [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-begins-today-no-more-immigration-cards-for-millions/",
-          "publishedOn": "2024-04-17T05:48:43.000Z",
-          "wordCount": 2745,
-          "title": "UK e-visa rollout begins today: no more immigration cards for millions",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/03/29/London-UK-Millennium-Bridge.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/",
-          "author": "Sergiu Gatlan",
-          "description": "Criminals are now texting T-Mobile and Verizon employees on their personal and work phones, trying to tempt them with cash to perform SIM swaps. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/",
-          "publishedOn": "2024-04-16T23:01:21.000Z",
-          "wordCount": 2254,
-          "title": "T-Mobile, Verizon workers get texts offering $300 for SIM swaps",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/01/hand-holding-sim-cards.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/",
-          "author": "Bill Toulas",
-          "description": "The U.S. Federal Trade Commission has reached a settlement with telehealth firm Cerebral in which the company will pay $7,000,000 over allegations of mishandling people's sensitive health data. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/",
-          "publishedOn": "2024-04-16T21:37:20.000Z",
-          "wordCount": 2243,
-          "title": "Cerebral to pay $7 million settlement in Facebook pixel data leak case",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/02/14/FTC_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/",
-          "author": "Sergiu Gatlan",
-          "description": "Ivanti has released security updates to fix 27 vulnerabilities in its Avalanche mobile device management (MDM) solution, two of them critical heap overflows that can be exploited for remote command execution. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/",
-          "publishedOn": "2024-04-16T19:52:14.000Z",
-          "wordCount": 2162,
-          "title": "Ivanti warns of critical flaws in its Avalanche MDM solution",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/20/Ivanti.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/",
-          "author": "Sergiu Gatlan",
-          "description": "Exploit code is now available for a maximum severity and actively exploited vulnerability in Palo Alto Networks' PAN-OS firewall software. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/",
-          "publishedOn": "2024-04-16T18:36:18.000Z",
-          "wordCount": 2155,
-          "title": "Exploit released for Palo Alto PAN-OS bug used in attacks, patch now",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/16/Palo_Alto_Networks.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/",
-          "author": "Bill Toulas",
-          "description": "YouTube announced yesterday that third-party applications that block ads while watching YouTube videos violates its Terms of Service (ToS), and it will soon start taking action against the apps. [...]",
-          "link": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/",
-          "publishedOn": "2024-04-16T18:01:29.000Z",
-          "wordCount": 2150,
-          "title": "Google to crack down on third-party YouTube apps that block ads",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/10/YouTube.jpeg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/",
-          "author": "Bill Toulas",
-          "description": "Cisco warns about a large-scale credential brute-forcing campaign targeting VPN and SSH services on Cisco, CheckPoint, Fortinet, SonicWall, and Ubiquiti devices worldwide. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/",
-          "publishedOn": "2024-04-16T16:11:01.000Z",
-          "wordCount": 2180,
-          "title": "Cisco warns of large-scale brute-force attacks against VPN services",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/11/Cisco.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/",
-          "author": "Bill Toulas",
-          "description": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/",
-          "publishedOn": "2024-04-16T15:01:57.000Z",
-          "wordCount": 2482,
-          "title": "PuTTY SSH client flaw allows recovery of cryptographic private keys",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/",
-          "author": "Sergiu Gatlan",
-          "description": "UnitedHealth Group reported an $872 million impact on its Q1 earnings due to the ransomware attack disrupting the U.S. healthcare system since February. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/",
-          "publishedOn": "2024-04-16T14:24:54.000Z",
-          "wordCount": 2211,
-          "title": "UnitedHealth: Change Healthcare cyberattack caused $872 million loss",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/08/hospital~2.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/",
-          "author": "Sponsored by Outpost24",
-          "description": "There are things that you can do to make your web apps more resistant to social engineering. Learn more from Outpost24 on securing your web applications. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/",
-          "publishedOn": "2024-04-16T14:02:04.000Z",
-          "wordCount": 2520,
-          "title": "How to make your web apps resistant to social engineering",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/15/outpost24-webapps.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/",
-          "author": "Lawrence Abrams",
-          "description": "The RansomHub extortion gang has begun leaking what they claim is corporate and patient data stolen from United Health subsidiary Change Healthcare in what has been a long and convoluted extortion process for the company. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/",
-          "publishedOn": "2024-04-15T21:54:20.000Z",
-          "wordCount": 2194,
-          "title": "Ransomware gang starts leaking alleged stolen Change Healthcare data",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/28/UnitedHealth_Group_UHG.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/",
-          "author": "Bill Toulas",
-          "description": "A new campaign conducted by the TA558 hacking group is concealing malicious code inside images using steganography to deliver various malware tools onto targeted systems. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/",
-          "publishedOn": "2024-04-15T20:31:28.000Z",
-          "wordCount": 2332,
-          "title": "New SteganoAmor attacks use steganography to target 320 orgs globally",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/26/hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has announced plans to fight spam by imposing a daily Exchange Online bulk email limit of 2,000 external recipients starting January 2025. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/",
-          "publishedOn": "2024-04-15T19:11:16.000Z",
-          "wordCount": 2091,
-          "title": "Microsoft will limit Exchange Online bulk emails to fight spam",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/19/Exchange_Online.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/",
-          "author": "Bill Toulas",
-          "description": "The U.S. Department of Justice has announced the arrest and indictment of Charles O. Parks III, known as \"CP3O,\" for allegedly renting large numbers of cloud servers to conduct crypto mining and then skipping out on paying the bills. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/",
-          "publishedOn": "2024-04-15T18:10:41.000Z",
-          "wordCount": 2263,
-          "title": "Crypto miner arrested for skipping on $3.5 million in cloud server bills",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/15/bitcoin-hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/chipmaker-nexperia-confirms-breach-after-ransomware-gang-leaks-data/",
-          "author": "Bill Toulas",
-          "description": "Dutch chipmaker Nexperia confirmed late last week that hackers breached its network in March 2024 after a ransomware gang leaked samples of allegedly stolen data. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/chipmaker-nexperia-confirms-breach-after-ransomware-gang-leaks-data/",
-          "publishedOn": "2024-04-15T16:00:01.000Z",
-          "wordCount": 2285,
-          "title": "Chipmaker Nexperia confirms breach after ransomware gang leaks data",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/15/nexperia-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/daixin-ransomware-gang-claims-attack-on-omni-hotels/",
-          "author": "Sergiu Gatlan",
-          "description": "The Daixin Team ransomware gang claimed a recent cyberattack on Omni Hotels & Resorts and is now threatening to publish customers' sensitive information if a ransom is not paid. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/daixin-ransomware-gang-claims-attack-on-omni-hotels/",
-          "publishedOn": "2024-04-15T15:01:54.000Z",
-          "wordCount": 2223,
-          "title": "Daixin ransomware gang claims attack on Omni Hotels",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/02/OMNI__HOTEL.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisco-duo-warns-third-party-data-breach-exposed-sms-mfa-logs/",
-          "author": "Bill Toulas",
-          "description": "Cisco Duo's security team warns that hackers stole some customers' VoIP and SMS logs for multi-factor authentication (MFA) messages in a cyberattack on their telephony provider. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-duo-warns-third-party-data-breach-exposed-sms-mfa-logs/",
-          "publishedOn": "2024-04-15T14:52:39.000Z",
-          "wordCount": 2399,
-          "title": "Cisco Duo warns third-party data breach exposed SMS MFA logs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/15/cisco-duo.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/",
-          "author": "Sergiu Gatlan",
-          "description": "Palo Alto Networks has started releasing hotfixes for a zero-day vulnerability that has been actively exploited since March 26th to backdoor PAN-OS firewalls. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/",
-          "publishedOn": "2024-04-15T12:59:27.000Z",
-          "wordCount": 2184,
-          "title": "Palo Alto Networks fixes zero-day exploited to backdoor firewalls",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/31/palo-alto-networks.png"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has finally lifted a compatibility hold blocking Windows 11 upgrades on systems with Intel 11th Gen Core processors and Intel Smart Sound Technology (SST) audio drivers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-block-on-some-intel-systems-after-2-years/",
-          "publishedOn": "2024-04-15T11:42:00.000Z",
-          "wordCount": 2216,
-          "title": "Microsoft lifts Windows 11 block on some Intel systems after 2 years",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/13/Windows_11.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/opentable-wont-add-first-names-photos-to-old-reviews-after-backlash/",
-          "author": "Lawrence Abrams",
-          "description": "OpenTable has reversed its decision to show members' first names and profile pictures in past anonymous reviews after receiving backlash from members who felt it was a breach of privacy. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/opentable-wont-add-first-names-photos-to-old-reviews-after-backlash/",
-          "publishedOn": "2024-04-14T22:28:01.000Z",
-          "wordCount": 2079,
-          "title": "OpenTable won't add first names, photos to old reviews after backlash",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/opentable.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/",
-          "author": "Mayank Parmar",
-          "description": "Medium is banning AI-generated content from its paid Partner program, notifying users that the new policy goes into effect on May 1, 2024. [...]",
-          "link": "https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/",
-          "publishedOn": "2024-04-14T21:39:59.000Z",
-          "wordCount": 2122,
-          "title": "Medium bans AI-generated content from its paid Partner Program",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/14/Medium-AI.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/",
-          "author": "Bill Toulas",
-          "description": "A joint police operation between the Australian Federal Police (AFP) and the FBI has led to the arrest and charging of two individuals who are believed to be behind the development and distribution of the \"Firebird\" remote access trojan (RAT), later rebranded as \"Hive.\" [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/firebird-rat-creator-and-seller-arrested-in-the-us-and-australia/",
-          "publishedOn": "2024-04-13T14:17:34.000Z",
-          "wordCount": 2198,
-          "title": "Firebird RAT creator and seller arrested in the U.S. and Australia",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/police-arrest-hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/",
-          "author": "Ax Sharma",
-          "description": "Canadian retail chain Giant Tiger disclosed a data breach in March 2024. A threat actor has now publicly claimed responsibility for the data breach and leaked 2.8 million records on a hacker forum that they claim are of Giant Tiger customers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-giant-tiger-data-breach-leaks-28m-records-online/",
-          "publishedOn": "2024-04-13T14:00:16.000Z",
-          "wordCount": 2437,
-          "title": "Hacker claims Giant Tiger data breach, leaks 2.8M records online",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/13/giant-tiger-bg.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/",
-          "author": "Lawrence Abrams",
-          "description": "Suspected state-sponsored hackers have been exploiting a zero-day vulnerability in Palo Alto Networks firewalls tracked as CVE-2024-3400 since March 26, using the compromised devices to breach internal networks, steal data and credentials. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/",
-          "publishedOn": "2024-04-13T12:35:15.000Z",
-          "wordCount": 2820,
-          "title": "Palo Alto Networks zero-day exploited since March to backdoor firewalls",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/08/Hacker_datacenter_servers.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/",
-          "author": "Ax Sharma",
-          "description": "Royal Mail, the British postal and courier service began switching all snail mail stamps to barcoded stamps last year. The purpose of the barcode was to enhance security, deter stamp reuse, and possibly prevent forgeries—which it has failed to do. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/",
-          "publishedOn": "2024-04-13T09:05:00.000Z",
-          "wordCount": 2995,
-          "title": "UK flooded with forged stamps despite using barcodes — to prevent just that",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/07/04/royal-mail-barcoded-stamps.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has started testing ads in the Windows 11 Start menu, a new experiment the company says will help users find new \"great\" apps in the Microsoft Store. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/",
-          "publishedOn": "2024-04-12T20:13:43.000Z",
-          "wordCount": 2191,
-          "title": "Microsoft now testing app ads in Windows 11's Start menu",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/22/Windows_11.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "On Friday, the Federal Bureau of Investigation warned of a massive ongoing wave of SMS phishing attacks targeting Americans with lures regarding unpaid road toll fees. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/",
-          "publishedOn": "2024-04-12T18:56:20.000Z",
-          "wordCount": 2224,
-          "title": "FBI warns of massive wave of road toll SMS phishing attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/",
-          "author": "Lawrence Abrams",
-          "description": "Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/",
-          "publishedOn": "2024-04-12T18:46:27.000Z",
-          "wordCount": 2862,
-          "title": "Telegram fixes Windows app zero-day used to launch Python scripts",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/08/Telegram_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/",
-          "author": "Lawrence Abrams",
-          "description": "Telegram fixed a zero-day vulnerability in its Windows desktop application that could be used to bypass security warnings and automatically launch Python scripts. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-caused-by-file-extension-typo/",
-          "publishedOn": "2024-04-12T18:46:27.000Z",
-          "wordCount": 2861,
-          "title": "Telegram fixes Windows app zero-day caused by file extension typo",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/08/Telegram_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/",
-          "author": "Sergiu Gatlan",
-          "description": "Former Amazon security engineer Shakeeb Ahmed was sentenced to three years in prison for hacking two cryptocurrency exchanges in July 2022 and stealing over $12 million. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/",
-          "publishedOn": "2024-04-12T17:54:57.000Z",
-          "wordCount": 2238,
-          "title": "Ex-Amazon engineer gets 3 years for hacking crypto exchanges",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/",
-          "author": "Bill Toulas",
-          "description": "The Federal Trade Commission (FTC) is sending out $6,300,000 in partial refunds to 267,000 former AT&T Wireless customers as part of a data throttling settlement in 2019. [...]",
-          "link": "https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/",
-          "publishedOn": "2024-04-12T15:56:48.000Z",
-          "wordCount": 2110,
-          "title": "Former AT&T customers get $6.3 million in data throttling refunds",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/12/AT-T.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/roku-warns-576-000-accounts-hacked-in-new-credential-stuffing-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "Roku warns that 576,000 accounts were hacked in new credential stuffing attacks after disclosing another incident that compromised 15,000 accounts in early March. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/roku-warns-576-000-accounts-hacked-in-new-credential-stuffing-attacks/",
-          "publishedOn": "2024-04-12T15:05:07.000Z",
-          "wordCount": 2218,
-          "title": "Roku warns 576,000 accounts hacked in new credential stuffing attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/12/Roku.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/",
-          "author": "Bill Toulas",
-          "description": "Today, Palo Alto Networks warns that an unpatched critical command injection vulnerability in its PAN-OS firewall is being actively exploited in attacks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/",
-          "publishedOn": "2024-04-12T13:28:00.000Z",
-          "wordCount": 2211,
-          "title": "Palo Alto Networks warns of PAN-OS firewall zero-day used in attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/06/Palo_Alto_Networks.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/",
-          "author": "Bill Toulas",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a new version of \"Malware Next-Gen,\" now allowing the public to submit malware samples for analysis by CISA. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/",
-          "publishedOn": "2024-04-11T22:27:13.000Z",
-          "wordCount": 2212,
-          "title": "CISA makes its \"Malware Next-Gen\" analysis system publicly available",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/13/CISA_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/",
-          "author": "Lawrence Abrams",
-          "description": "Restaurant reservation platform OpenTable says that all reviews on the platform will no longer be fully anonymous starting May 22nd and will now show members' profile pictures and first names. [...]",
-          "link": "https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/",
-          "publishedOn": "2024-04-11T22:15:31.000Z",
-          "wordCount": 2192,
-          "title": "OpenTable is adding your first name to previously anonymous reviews",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/opentable.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/",
-          "author": "Sergiu Gatlan",
-          "description": "LastPass revealed this week that threat actors targeted one of its employees in a voice phishing attack, using deepfake audio to impersonate Karim Toubba, the company's Chief Executive Officer. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/",
-          "publishedOn": "2024-04-11T22:00:39.000Z",
-          "wordCount": 2265,
-          "title": "LastPass: Hackers targeted employee in failed deepfake CEO call",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/LastPass-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/",
-          "author": "Bill Toulas",
-          "description": "A recent cyberattack on Hoya Corporation was conducted by the 'Hunters International' ransomware operation, which demanded a $10 million ransom for a file decryptor and not to release files stolen during the attack. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/",
-          "publishedOn": "2024-04-11T18:15:24.000Z",
-          "wordCount": 2196,
-          "title": "Optics giant Hoya hit with $10 million ransomware demand",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/04/Hoya.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/",
-          "author": "Sergiu Gatlan",
-          "description": "CISA has issued a new emergency directive ordering U.S. federal agencies to address risks resulting from the breach of multiple Microsoft corporate email accounts by the Russian APT29 hacking group. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/",
-          "publishedOn": "2024-04-11T17:47:19.000Z",
-          "wordCount": 2348,
-          "title": "CISA orders agencies impacted by Microsoft hack to mitigate risks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/14/CISA.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/",
-          "author": "Bill Toulas",
-          "description": "An almost 6-year-old vulnerability in the Lighttpd web server used in Baseboard Management Controllers has been overlooked by many device vendors, including Intel and Lenovo. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/",
-          "publishedOn": "2024-04-11T16:50:21.000Z",
-          "wordCount": 2326,
-          "title": "Intel and Lenovo servers impacted by 6-year-old BMC flaw",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/18/warning.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/",
-          "author": "Sergiu Gatlan",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/",
-          "publishedOn": "2024-04-11T14:55:04.000Z",
-          "wordCount": 2083,
-          "title": "CISA says Sisense hack impacts critical infrastructure orgs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/Sisense-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/",
-          "author": "Sergiu Gatlan",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is investigating the recent breach of data analytics company Sisense, an incident that also impacted critical infrastructure organizations. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/",
-          "publishedOn": "2024-04-11T14:55:04.000Z",
-          "wordCount": 2060,
-          "title": "CISA investigates critical infrastructure breach after Sisense hack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/11/Sisense.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/",
-          "author": "Bill Toulas",
-          "description": "Apple has been notifying iPhone users in 92 countries about a \"mercenary spyware attack\" attempting to remotely compromise their device. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/",
-          "publishedOn": "2024-04-11T14:16:44.000Z",
-          "wordCount": 2431,
-          "title": "Apple: Mercenary spyware attacks target iPhone users in 92 countries",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/back.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/",
-          "author": "Sponsored by Nudge Security",
-          "description": "Employee offboarding isn't anybody's favorite task—but it's a critical IT process that needs to be executed diligently and efficiently. Learn more from Nudge Security on automating offboarding of users in a secure manner. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/",
-          "publishedOn": "2024-04-11T14:02:04.000Z",
-          "wordCount": 2814,
-          "title": "How to automate up to 90% of IT offboarding tasks",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/10/nudge-offboarding.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
-          "author": "Bill Toulas",
-          "description": "DuckDuckGo has launched a new paid-for 3-in-1 subscription service called 'Privacy Pro,' which includes a virtual private network (VPN), a personal data removal service, and an identity theft restoration solution. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
-          "publishedOn": "2024-04-11T12:00:00.000Z",
-          "wordCount": 2461,
-          "title": "DuckDuckGo launches a premium Privacy Pro VPN service",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/10/duckduckgo-datacenter.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/",
-          "author": "Ionut Ilascu",
-          "description": "Google has announced a new version of its browser for organizations, Chrome Enterprise Premium, which comes with extended security controls for a monthly fee per user. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/",
-          "publishedOn": "2024-04-10T19:52:30.000Z",
-          "wordCount": 2146,
-          "title": "Chrome Enterprise gets Premium security but you have to pay for it",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google-Chrome-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/google-workspace-rolls-out-multi-admin-approval-feature-for-risky-changes/",
-          "author": "Bill Toulas",
-          "description": "Google is rolling out a new Workspace feature that requires multiple admins to approve high-risk setting changes to prevent unauthorized or accidental modifications that could reduce security. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/google-workspace-rolls-out-multi-admin-approval-feature-for-risky-changes/",
-          "publishedOn": "2024-04-10T19:13:41.000Z",
-          "wordCount": 2212,
-          "title": "Google Workspace rolls out multi-admin approval feature for risky changes",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/29/Google_Workspace.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/",
-          "author": "Bill Toulas",
-          "description": "Researchers have demonstrated the \"first native Spectre v2 exploit\" for a new speculative execution side-channel flaw that impacts Linux systems running on many modern Intel processors. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/",
-          "publishedOn": "2024-04-10T17:19:34.000Z",
-          "wordCount": 2455,
-          "title": "New Spectre v2 attack impacts Linux systems on Intel CPUs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/intel-core-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/",
-          "author": "Ionut Ilascu",
-          "description": "A threat actor is using a PowerShell script that was likely created with the help of an artificial intelligence system such as OpenAI's ChatGPT, Google's Gemini, or Microsoft's CoPilot. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/",
-          "publishedOn": "2024-04-10T16:12:40.000Z",
-          "wordCount": 2372,
-          "title": "Malicious PowerShell script pushing malware looks AI-written",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/10/artificial-intelligence-eyes.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/",
-          "author": "Bill Toulas",
-          "description": "AT&T is notifying 51 million former and current customers, warning them of a data breach that exposed their personal information on a hacking forum. However, the company has still not disclosed how the data was obtained. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/",
-          "publishedOn": "2024-04-10T14:18:41.000Z",
-          "wordCount": 2302,
-          "title": "AT&T now says data breach impacted 51 million customers",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/03/att-usa.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/",
-          "author": "Sponsored by Specops Software",
-          "description": "Password reuse might seem like a small problem — but it can have far-reaching consequences for an organization's cybersecurity. Learn more from Specops Software about what IT teams can do to combat the problem. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/",
-          "publishedOn": "2024-04-10T14:02:04.000Z",
-          "wordCount": 2334,
-          "title": "Reusing passwords: The hidden cost of convenience",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/09/specops-password-reuse.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/",
-          "author": "Bill Toulas",
-          "description": "Threat actors are abusing GitHub automation features and malicious Visual Studio projects to push a new variant of the \"Keyzetsu\" clipboard-hijacking malware and steal cryptocurrency payments. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/",
-          "publishedOn": "2024-04-10T11:00:00.000Z",
-          "wordCount": 2408,
-          "title": "Malicious Visual Studio projects on GitHub push Keyzetsu malware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has fixed two actively exploited zero-day vulnerabilities during the April 2024 Patch Tuesday, although the company failed to initially tag them as such. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/",
-          "publishedOn": "2024-04-09T22:06:06.000Z",
-          "wordCount": 2297,
-          "title": "Microsoft fixes two Windows zero-days exploited in malware attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "Threat actors can exploit a security vulnerability in the Rust standard library to target Windows systems in command injection attacks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/",
-          "publishedOn": "2024-04-09T20:20:47.000Z",
-          "wordCount": 2096,
-          "title": "Critical Rust flaw enables Windows command injection attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/09/Rust-headpic-red.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/",
-          "author": "Lawrence Abrams",
-          "description": "Microsoft has released the KB5036892 cumulative update for Windows 10 21H2 and Windows 10 22H2 with twenty-three changes and two new features. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/",
-          "publishedOn": "2024-04-09T18:18:56.000Z",
-          "wordCount": 2263,
-          "title": "Windows 10 KB5036892 update released with 23 new fixes, changes",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/01/25/Windows-10.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/",
-          "author": "Sergiu Gatlan",
-          "description": "Non-profit healthcare service provider Group Health Cooperative of South Central Wisconsin (GHC-SCW) has disclosed that a ransomware gang breached its network in January and stole documents containing the personal and medical information of over 500,000 individuals. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/",
-          "publishedOn": "2024-04-09T18:02:45.000Z",
-          "wordCount": 2306,
-          "title": "GHC-SCW: Ransomware gang stole health data of 533,000 people",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/27/Hospital_cyberattack.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/",
-          "author": "Mayank Parmar",
-          "description": "Microsoft has released the KB5036893 cumulative update for Windows 11 23H3, which includes 29 changes and fixes and enables the Moment 5 features for every user. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/",
-          "publishedOn": "2024-04-09T18:00:39.000Z",
-          "wordCount": 2246,
-          "title": "Windows 11 KB5036893 update released with 29 changes, Moment 5 features",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/12/windows-11-gradient.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/",
-          "author": "Lawrence Abrams",
-          "description": "Today is Microsoft's April 2024 Patch Tuesday, which includes security updates for 150 flaws and sixty-seven remote code execution bugs. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/",
-          "publishedOn": "2024-04-09T17:34:48.000Z",
-          "wordCount": 4439,
-          "title": "Microsoft April 2024 Patch Tuesday fixes 150 security flaws, 67 RCEs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/13/patch-tuesday-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/",
-          "author": "Bill Toulas",
-          "description": "A Romanian botnet group named 'RUBYCARP' is leveraging known vulnerabilities and performing brute force attacks to breach corporate networks and compromise servers for financial gain. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/",
-          "publishedOn": "2024-04-09T15:30:06.000Z",
-          "wordCount": 2247,
-          "title": "RUBYCARP hackers linked to 10-year-old cryptomining botnet",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/09/rubycarp.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/",
-          "author": "Sponsored by Wazuh",
-          "description": "Maintaining visibility into container hosts, ensuring best practices, and conducting vulnerability assessments are necessary to ensure effective security. In this article Wazuh explores how its software can help implement best security practices for containerized environments. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/",
-          "publishedOn": "2024-04-09T14:01:02.000Z",
-          "wordCount": 2329,
-          "title": "Implementing container security best practices using Wazuh",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/08/container-security-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/",
-          "author": "Bill Toulas",
-          "description": "Security researchers at Bitdefender have discovered four vulnerabilities impacting multiple versions of WebOS, the operating system used in LG smart TVs. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/",
-          "publishedOn": "2024-04-09T13:00:00.000Z",
-          "wordCount": 2217,
-          "title": "Over 90,000 LG Smart TVs may be exposed to remote attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/posts/2024/04/lg-tv.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/",
-          "author": "Bill Toulas",
-          "description": "Researchers have discovered two techniques that could enable attackers to bypass audit logs or generate less severe entries when downloading files from SharePoint. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/",
-          "publishedOn": "2024-04-09T13:00:00.000Z",
-          "wordCount": 2308,
-          "title": "New SharePoint flaws help hackers evade detection when stealing files",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/29/SharePoint.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
-          "author": "Lawrence Abrams",
-          "description": "Laptop and tablet accessories maker Targus disclosed that it suffered a cyberattack disrupting operations after a threat actor gained access to the company's file servers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
-          "publishedOn": "2024-04-09T01:41:08.000Z",
-          "wordCount": 2108,
-          "title": "Targus discloses cyberattack after hackers detected on file servers",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/targus-bag.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "​Attackers are now actively targeting over 92,000 end-of-life D-Link Network Attached Storage (NAS) devices exposed online and unpatched against a critical remote code execution (RCE) zero-day flaw. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/",
-          "publishedOn": "2024-04-08T22:17:59.000Z",
-          "wordCount": 2305,
-          "title": "Critical RCE bug in 92,000 D-Link NAS devices now exploited in attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/D-Link-NAS-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/",
-          "author": "Sergiu Gatlan",
-          "description": "Google is rolling out an upgraded Find My Device network to Android devices in the United States and Canada, almost one year after it was first unveiled during the Google I/O 2023 conference in May. [...]",
-          "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/",
-          "publishedOn": "2024-04-08T18:50:43.000Z",
-          "wordCount": 2521,
-          "title": "Google rolls out new Find My Device network to Android devices",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/Location_tracking.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/",
-          "author": "Bill Toulas",
-          "description": "Almost 2,000 hacked WordPress sites now display fake NFT and discount pop-ups to trick visitors into connecting their wallets to crypto drainers that automatically steal funds. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/",
-          "publishedOn": "2024-04-08T18:22:30.000Z",
-          "wordCount": 2298,
-          "title": "Hackers deploy crypto drainers on thousands of WordPress sites",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cyberattack-on-uks-cvs-group-disrupts-veterinary-operations/",
-          "author": "Bill Toulas",
-          "description": "UK veterinary services provider CVS Group has announced that it suffered a cyberattack that disrupted IT services at its practices across the country. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-uks-cvs-group-disrupts-veterinary-operations/",
-          "publishedOn": "2024-04-08T14:45:32.000Z",
-          "wordCount": 2135,
-          "title": "Cyberattack on UK’s CVS Group disrupts veterinary operations",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/08/puppies-vet.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-wants-your-help-in-parasite-website-shutdown/",
-          "author": "Ax Sharma",
-          "description": "The Notepad++ project is seeking the public's help in taking down a copycat website that closely impersonates Notepad++ but is not affiliated with the project. There is some concern that it could pose security threats—for example, if it starts pushing malicious releases or spam someday either deliberately or as a result of a hijack. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-wants-your-help-in-parasite-website-shutdown/",
-          "publishedOn": "2024-04-08T09:51:17.000Z",
-          "wordCount": 2764,
-          "title": "Notepad++ wants your help in \"parasite website\" shutdown",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/06/07/Notepad++.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/the-new-features-coming-in-windows-11-24h2-expected-this-fall/",
-          "author": "Mayank Parmar",
-          "description": "Windows 11 24H2 is set to arrive on existing devices this fall with several new features, mostly Copilot-related improvements. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/the-new-features-coming-in-windows-11-24h2-expected-this-fall/",
-          "publishedOn": "2024-04-07T21:36:31.000Z",
-          "wordCount": 3295,
-          "title": "The new features coming in Windows 11 24H2, expected this fall",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/19/Windows_11.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/home-depot-confirms-third-party-data-breach-exposed-employee-info/",
-          "author": "Lawrence Abrams",
-          "description": "Home Depot has confirmed that it suffered a data breach after one of its SaaS vendors mistakenly exposed a small sample of limited employee data, which could potentially be used in targeted phishing attacks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/home-depot-confirms-third-party-data-breach-exposed-employee-info/",
-          "publishedOn": "2024-04-07T17:40:56.000Z",
-          "wordCount": 2188,
-          "title": "Home Depot confirms third-party data breach exposed employee info",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/07/home-depot-sign.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/new-windows-driver-blocks-software-from-changing-default-web-browser/",
-          "author": "Lawrence Abrams",
-          "description": "Microsoft is now using a Windows driver to prevent users from changing the configured Windows 10 and Windows 11 default browser through software or by manually modifying the Registry. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-driver-blocks-software-from-changing-default-web-browser/",
-          "publishedOn": "2024-04-07T14:17:34.000Z",
-          "wordCount": 3256,
-          "title": "New Windows driver blocks software from changing default web browser",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/05/Windows.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/",
-          "author": "Sergiu Gatlan",
-          "description": "The U.S. Department of Health and Human Services (HHS) warns that hackers are now using social engineering tactics to target IT help desks across the Healthcare and Public Health (HPH) sector. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/",
-          "publishedOn": "2024-04-06T15:09:07.000Z",
-          "wordCount": 2333,
-          "title": "US Health Dept warns hospitals of hackers targeting IT help desks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/05/Hospital.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/over-92-000-exposed-d-link-nas-devices-have-a-backdoor-account/",
-          "author": "Bill Toulas",
-          "description": "A threat researcher has disclosed a new arbitrary command injection and hardcoded backdoor flaw in multiple end-of-life D-Link Network Attached Storage (NAS) device models. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/over-92-000-exposed-d-link-nas-devices-have-a-backdoor-account/",
-          "publishedOn": "2024-04-06T14:16:32.000Z",
-          "wordCount": 2215,
-          "title": "Over 92,000 exposed D-Link NAS devices have a backdoor account",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/05/map-dlink.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/recent-windows-updates-break-microsoft-connected-cache-delivery/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft says Windows 10 updates released since the start of the year are breaking Microsoft Connected Cache (MCC) node discovery on enterprise networks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/recent-windows-updates-break-microsoft-connected-cache-delivery/",
-          "publishedOn": "2024-04-05T22:31:09.000Z",
-          "wordCount": 2109,
-          "title": "Recent Windows updates break Microsoft Connected Cache delivery",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/17/0_Windows-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-5th-2024-virtual-machines-under-attack/",
-          "author": "Lawrence Abrams",
-          "description": "Ransomware attacks targeting VMware ESXi and other virtual machine platforms are wreaking havoc among the enterprise, causing widespread disruption and loss of services. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-5th-2024-virtual-machines-under-attack/",
-          "publishedOn": "2024-04-05T21:59:20.000Z",
-          "wordCount": 2970,
-          "title": "The Week in Ransomware - April 5th 2024 - Virtual Machines under Attack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/25/vmware-locked.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-ivanti-rce-flaw-may-impact-16-000-exposed-vpn-gateways/",
-          "author": "Bill Toulas",
-          "description": "Approximately 16,500 Ivanti Connect Secure and Poly Secure gateways exposed on the internet are likely vulnerable to a remote code execution (RCE) flaw the vendor addressed earlier this week. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-ivanti-rce-flaw-may-impact-16-000-exposed-vpn-gateways/",
-          "publishedOn": "2024-04-05T17:40:01.000Z",
-          "wordCount": 2123,
-          "title": "New Ivanti RCE flaw may impact 16,000 exposed VPN gateways",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/20/Ivanti.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-sysprep-issue-behind-0x80073cf2-errors/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has fixed a known issue causing 0x80073cf2 errors when using the System Preparation (Sysprep) tool after installing November Windows 10 updates. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-sysprep-issue-behind-0x80073cf2-errors/",
-          "publishedOn": "2024-04-05T17:38:36.000Z",
-          "wordCount": 2113,
-          "title": "Microsoft fixes Windows Sysprep issue behind 0x80073cf2 errors",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/10/Windows_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/",
-          "author": "Bill Toulas",
-          "description": "Hackers are using Facebook advertisements and hijacked pages to promote fake Artificial Intelligence services, such as MidJourney, OpenAI's SORA and ChatGPT-5, and DALL-E, to infect unsuspecting users with password-stealing malware. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/",
-          "publishedOn": "2024-04-05T16:47:51.000Z",
-          "wordCount": 2624,
-          "title": "Fake Facebook MidJourney AI page promoted malware to 1.2 million people",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/11/ai-robot-hacker-disiintegratin.jpg"
-        }
-      ]
-    },
-    {
       "title": "News – Digital Health",
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
@@ -4270,139 +3163,773 @@
       ]
     },
     {
-      "title": "Have I Been Pwned latest breaches",
-      "feedUrl": "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
-      "siteUrl": "https://haveibeenpwned.com/",
+      "title": "GPUK",
+      "feedUrl": "https://www.reddit.com/r/GPUK.rss",
+      "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
         {
-          "id": "T2",
+          "id": "https://www.reddit.com/r/GPUK/comments/1cagrpm/check_your_emails_screenshot_from_rcgp/",
           "author": null,
-          "description": "In April 2024, 86k records from the T2 tea store were posted to a popular hacking forum. Data included email and physical addresses, names, phone numbers, dates of birth, purchases and passwords stored as scrypt hashes.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#T2",
-          "publishedOn": "2024-04-22T06:17:17.000Z",
-          "wordCount": 65029,
-          "title": "T2 - 85,894 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "​\n Screenshot\n \"\n Please help us understand your views and experiences in relation to the role of Physician Associates (PAs) in general practice settings by completing our survey by Fri 10th May.\n The survey has been developed by the RCGP, following direction from RCGP Council, but is being conducted independently by Research by Design, an independent research agency.\n Your response will help us to understand more about how PAs are currently working in general practice as well as GP views on the benefits and challenges associated with this. We are also seeking your input on what framework and parameters should be in place to ensure that PAs working in general practice can do so safely and effectively, and what guidance is needed from RCGP.\n I know you're all really busy, but the survey should only take 20–25 minutes to complete, and is really important, so please do take part if you can. We are keen to hear from as many members as possible to ensure we can gain a good understanding of views across the UK.\n \"\n    submitted by    /u/InV15iblefrog  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1cagrpm/check_your_emails_screenshot_from_rcgp/",
+          "publishedOn": "2024-04-22T17:30:28.000Z",
+          "wordCount": null,
+          "title": "Check your emails - screenshot from RCGP",
+          "imageUrl": null
         },
         {
-          "id": "LeSlipFrancais",
+          "id": "https://www.reddit.com/r/GPUK/comments/1caajn2/resources_on_hair_loss/",
           "author": null,
-          "description": "In April 2024, the French underwear maker Le Slip Français suffered a data breach. The breach included 1.5M email addresses, physical addresses, names and phone numbers.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#LeSlipFrancais",
-          "publishedOn": "2024-04-18T07:44:32.000Z",
-          "wordCount": 65029,
-          "title": "Le Slip Français - 1,495,127 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Any good resources to learn about hair loss? \n    submitted by    /u/heroes-never-die99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1caajn2/resources_on_hair_loss/",
+          "publishedOn": "2024-04-22T13:17:45.000Z",
+          "wordCount": null,
+          "title": "Resources on hair loss",
+          "imageUrl": null
         },
         {
-          "id": "GiantTiger",
+          "id": "https://www.reddit.com/r/GPUK/comments/1ca8kmz/gp_rotations_in_chesterfield/",
           "author": null,
-          "description": "In March 2024, Canadian discount store Giant Tiger suffered a data breach that exposed 2.8M customer records. Attributed to a vendor of the retailer, the breach included physical and email addresses, names and phone numbers.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#GiantTiger",
-          "publishedOn": "2024-04-12T22:31:29.000Z",
-          "wordCount": 64975,
-          "title": "Giant Tiger - 2,842,669 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Hello everyone! I was offered a GP post in chesterfield. Now that the ranking is open for the rotations, it’s quite confusing especially which GP surgeries to choose in that area. Also what are heft rotations like? Any inputs would be very much appreciated, thank you! \n    submitted by    /u/Few_Shirt_8957  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1ca8kmz/gp_rotations_in_chesterfield/",
+          "publishedOn": "2024-04-22T11:44:23.000Z",
+          "wordCount": null,
+          "title": "Gp rotations in chesterfield",
+          "imageUrl": null
         },
         {
-          "id": "SalvadoranCitizens",
+          "id": "https://www.reddit.com/r/GPUK/comments/1ca70q3/is_it_feasible_to_do_gp_training_while_husband_is/",
           "author": null,
-          "description": "In April 2024, nearly 6 million records of Salvadoran citizens were published to a popular hacking forum. The data included names, dates of birth, phone numbers, physical addresses and nearly 1M unique email addresses. Further, over 5M corresponding profile photos were also included in the breach.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#SalvadoranCitizens",
-          "publishedOn": "2024-04-10T22:25:03.000Z",
-          "wordCount": 64913,
-          "title": "Salvadoran Citizens - 946,989 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Hello! My question is as above. We are an IMG couple and is my husband is applying to FY2 Standalone Program which will start this August 2024. I plan to apply for the 2nd round of GP training which will open on July and will start Feb. 2025. \n Is it feasible that we both do this if we have a 5 year old child? And we will all be moving to the UK mid-July before FY2 starts. \n I’m concerned regarding our schedule and it its feasible to manage being hands-on with our son or if it would be very busy and if its advisable I apply to GP training once my husband is done with FY2. \n Thank you! \n    submitted by    /u/justbrowsingthrough9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1ca70q3/is_it_feasible_to_do_gp_training_while_husband_is/",
+          "publishedOn": "2024-04-22T10:10:00.000Z",
+          "wordCount": null,
+          "title": "Is it feasible to do GP training while husband is doing FY2 Standalone and we have a 5 year old child?",
+          "imageUrl": null
         },
         {
-          "id": "KasperskyClub",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c9heqe/topic_of_the_week_alopecia_areata/",
           "author": null,
-          "description": "In March 2024, the independent fan forum Kaspersky Club suffered a data breach. The incident exposed 56k unique email addresses alongside usernames, IP addresses and passwords stored as either MD5 or bcrypt hashes.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#KasperskyClub",
-          "publishedOn": "2024-04-09T06:22:14.000Z",
-          "wordCount": 64832,
-          "title": "Kaspersky Club - 55,971 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Alopecia Areata : Symotoms, diagnosis, management: https://youtu.be/c4Wg-BwhseQ?feature=shared\n    submitted by    /u/skinfp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c9heqe/topic_of_the_week_alopecia_areata/",
+          "publishedOn": "2024-04-21T13:04:47.000Z",
+          "wordCount": null,
+          "title": "Topic Of The Week: Alopecia areata",
+          "imageUrl": null
         },
         {
-          "id": "boAt",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c9dw3t/life_as_a_gp_consultant_in_london/",
           "author": null,
-          "description": "In March 2024, the Indian audio and wearables brand boAt suffered a data breach that exposed 7.5M customer records. The data included physical and email address, names and phone numbers, all of which were subsequently published to a popular clear web hacking forum.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#boAt",
-          "publishedOn": "2024-04-08T08:33:44.000Z",
-          "wordCount": 64832,
-          "title": "boAt - 7,528,985 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "No platitudes, please. \n It seems GP across the country is in a dire situation, but I have been told it is \"better\" in London. \n For fully qualified GP's who are and have been working in London...\n How is it? \n Is it sustainable? \n Are there more \"opportunities\", private or otherwise? \n Do you get paid (alot) more in London? \n Are there more partnership opportunities? How about getting into other industries such as branching into health tech / pharma? \n Or perhaps going into more public health / regulation / policy? \n For those outside of London, is it as bad as the press says it is? GPs going to food banks, or going to \n I think the recent issues in GP have been making me strongly consider whether to remain in training or leave to enter a different speciality. \n I figured getting some objective truth / advice from fellow GPs on here would be helpful.\n    submitted by    /u/Factor1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c9dw3t/life_as_a_gp_consultant_in_london/",
+          "publishedOn": "2024-04-21T09:35:26.000Z",
+          "wordCount": null,
+          "title": "Life as a GP Consultant in London",
+          "imageUrl": null
         },
         {
-          "id": "SurveyLama",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c9ds8a/pcse_causing_loss_of_income_advice_please/",
           "author": null,
-          "description": "In February 2024, the paid survey website SurveyLama suffered a data breach that exposed 4.4M customer email addresses. The incident also exposed names, physical and IP addresses, phone numbers, dates of birth and passwords stored as either salted SHA-1, bcrypt or argon2 hashes. When contacted about the incident, SurveyLama advised that they had already \"notified the users by email\".",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#SurveyLama",
-          "publishedOn": "2024-04-02T23:04:58.000Z",
-          "wordCount": 64832,
-          "title": "SurveyLama - 4,426,879 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Hi all am a bit stuck with delays getting onto the performers list and having a nightmare with PCSE, would appreciate some advice about how I can try and get it sorted asap. I’m UK trained and CCT’d in Feb 2024. I hadn’t been told re: being on the PL as a registrar so tried to apply as qualified since mid January. Initially PCSE website was down so couldn’t do it, then my account got frozen and unusable, it took 6 weeks of emails and phone calls for them to sort. I finally got application put through and have been waiting another few weeks since. All this while, I managed to get a job on OOH bank contract but am being told I’m not allowed to take any work with them until on PL. I’m also concerned if this drags on further they’ll terminate my contract. I engaged BMA before but hasn’t seemed to help. I’m now almost 3 months post CCT and it’s causing me loss of income- I’ve drawn on savings for mortgage etc but the whole thing has impacted my finances and I’m pretty angry. Any help/advice much appreciated sorry if this comes across as ranty!\n    submitted by    /u/johnmartynfanaccount  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c9ds8a/pcse_causing_loss_of_income_advice_please/",
+          "publishedOn": "2024-04-21T09:27:49.000Z",
+          "wordCount": null,
+          "title": "PCSE causing loss of income- advice please",
+          "imageUrl": null
         },
         {
-          "id": "Pandabuy",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c9amdr/travel_bug/",
           "author": null,
-          "description": "In March 2024, 1.3M unique email addresses from the online store for purchasing goods from China, Pandabuy, were posted to a popular hacking forum. The data also included IP and physical addresses, names, phone numbers and order enquiries. The breach was alleged to be attributed to \"Sanggiero\" and \"IntelBroker\".",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#Pandabuy",
-          "publishedOn": "2024-04-01T08:34:24.000Z",
-          "wordCount": 64832,
-          "title": "Pandabuy - 1,348,407 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Hi all, i am a gp ( recent cct). I love to travel , it’s something I truly enjoy doing. I am currently in Japan and have been here for the past 3 months, absolutely love the people and the culture, and planning to travel for least 12 months. I don’t want to keep coming back to uk and locuming for a couple of weeks and heading out again. Then it hit me , why not work remotely using a VPN . There must be way right, I mean we are living in 2024 not 1980, the world is so connected now. I heard that indemnity can be a headache ? I don’t understand why tho. What’s the difference between speaking to a patient in Japan as opposed to in my living room , if makes no sense to me. Has anyone done this ? Would really like to hear your thoughts. Thanks all 🙏 \n    submitted by    /u/Facelessmedic01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c9amdr/travel_bug/",
+          "publishedOn": "2024-04-21T05:54:28.000Z",
+          "wordCount": null,
+          "title": "Travel bug",
+          "imageUrl": null
         },
         {
-          "id": "WashingtonStateFoodWorkerCard",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c8nthh/this_is_about_the_gp_who_is_potentially_going_to/",
           "author": null,
-          "description": "In June 2023, the Tacoma-Pierce County Health Department announced a data breach of their Washington State Food Worker Card online training system. The breach was published to a popular hacking forum the year before and dated back to a 2018 database backup. Included in the data were 1.6M unique email addresses along with names, post codes, dates of birth and approximately 9.5k driver's licence numbers.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#WashingtonStateFoodWorkerCard",
-          "publishedOn": "2024-03-31T02:34:15.000Z",
-          "wordCount": 64832,
-          "title": "Washington State Food Worker Card - 1,594,305 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "submitted by    /u/Educational_Board888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c8nthh/this_is_about_the_gp_who_is_potentially_going_to/",
+          "publishedOn": "2024-04-20T11:34:51.000Z",
+          "wordCount": null,
+          "title": "This is about the GP who is potentially going to get struck off due to climate protests Please sign the petition to highlight this injustice and support doctors right to protest without losing their jobs Can you add your signature?",
+          "imageUrl": null
         },
         {
-          "id": "ECB",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c8mxbv/mortgage_problems_as_gpst/",
           "author": null,
-          "description": "In March 2024, English Cricket's icoachcricket website suffered a data breach that exposed over 40k records. The data included email addresses and passwords stored as either bcrypt hashes, salted MD5 hashes or both. The data was provided to HIBP by a source who requested it be attributed to \"IntelBroker\".",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#ECB",
-          "publishedOn": "2024-03-29T01:10:19.000Z",
-          "wordCount": 64832,
-          "title": "England Cricket - 43,299 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "Hi all\n Accepted on upcoming Aug entry to GPST. I already have my locality.\n I'm looking to get a mortgage. The broker says they need a contract prior to AIP/offer. Does anyone have past experience with when we would receive an offer (I'd imagine it might be very late) or any other advice regarding this.\n I would imagine even the specialist brokers for doctors would require a contract.\n Thank you\n    submitted by    /u/Jack1998blue  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c8mxbv/mortgage_problems_as_gpst/",
+          "publishedOn": "2024-04-20T10:40:09.000Z",
+          "wordCount": null,
+          "title": "Mortgage Problems as GPST",
+          "imageUrl": null
         },
         {
-          "id": "Exvagos",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c8bk21/patient_harmed_by_unfettered_access_to_notes_on/",
           "author": null,
-          "description": "In July 2022, the direct download website Exvagos suffered a data breach that was later redistributed as part of a larger corpus of data. The breach exposed 2.1M unique email addresses along with IP addresses, usernames, dates of birth and MD5 password hashes.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#Exvagos",
-          "publishedOn": "2024-03-28T06:28:55.000Z",
-          "wordCount": 64832,
-          "title": "Exvagos - 2,121,789 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "submitted by    /u/Fullofselfdoubt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c8bk21/patient_harmed_by_unfettered_access_to_notes_on/",
+          "publishedOn": "2024-04-19T23:41:55.000Z",
+          "wordCount": null,
+          "title": "Patient harmed by unfettered access to notes on NHS app",
+          "imageUrl": null
         },
         {
-          "id": "GSMHosting",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7zxot/gps_will_no_longer_be_able_to_sign_people_off/",
           "author": null,
-          "description": "In August 2016, breached data from the vBulletin forum for GSM-Hosting appeared for sale alongside dozens of other hacked services. The breach impacted 2.6M users of the service and included email and IP addresses, usernames and salted MD5 password hashes.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#GSMHosting",
-          "publishedOn": "2024-03-27T06:23:58.000Z",
-          "wordCount": 64832,
-          "title": "GSM Hosting - 2,607,440 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "submitted by    /u/over-the-fence  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7zxot/gps_will_no_longer_be_able_to_sign_people_off/",
+          "publishedOn": "2024-04-19T15:38:02.000Z",
+          "wordCount": null,
+          "title": "GPs will no longer be able to sign people off sick under controversial new plans",
+          "imageUrl": null
         },
         {
-          "id": "SwordFantasy",
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7wrt2/life_as_a_gp/",
           "author": null,
-          "description": "In January 2019, the now defunct MMO and RPG game SwordFantasy suffered a data breach that exposed 2.7M unique email addresses. Other impacted data included username, IP address and salted MD5 password hashes.",
-          "link": "https://haveibeenpwned.com/PwnedWebsites#SwordFantasy",
-          "publishedOn": "2024-03-26T08:31:58.000Z",
-          "wordCount": 64832,
-          "title": "SwordFantasy - 2,690,657 breached accounts",
-          "imageUrl": "https://haveibeenpwned.com/Content/Images/SocialLogo.png"
+          "description": "I’m a GPST2. I’ve had only one primary case placement in my training so far, which was an honest nightmare (only enjoyable bit was the patient consultations, I used to dread interacting with the team- they were rude, easily irritable and honestly seemed like not coping with the workload themself which kinda was being taken out on trainees). I was at a point where I questioning my decision to be in GP training. Thanks to the weekly teaching group sessions at the time, I could understand that experience can vary greatly between practices and therefore decided it would be sensible to stay on to see how things go in my next primary care rotation. In between I’ve had two hospital rotations ( I changed to 60% from full time in ST2- mainly due to being burnt out after my GP rotation) where I have…",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7wrt2/life_as_a_gp/",
+          "publishedOn": "2024-04-19T13:22:11.000Z",
+          "wordCount": null,
+          "title": "Life as a GP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7vvpq/panophthalmic_fundoscope_and_dermascope/",
+          "author": null,
+          "description": "wanting to up my GP game is it worth it or a pointless expense?\n    submitted by    /u/WarriorPriestofRum  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7vvpq/panophthalmic_fundoscope_and_dermascope/",
+          "publishedOn": "2024-04-19T12:39:58.000Z",
+          "wordCount": null,
+          "title": "panophthalmic fundoscope and dermascope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7r6pg/i_went_to_my_gp_who_told_me_to_come_here/",
+          "author": null,
+          "description": "Everyone here will have worked in a hospital rotation of some sort. How many times do you hear the patient say “oh I went to my GP who told me to come in”. Everyone rolls their eyes at the silly GP sending people in because they’re lazy\n When you speak to the patient, a good proportion won’t have actually seen a doctor: - Some of them went to their practice nurse for a routine checkup - Some of them went to one of the PA or ACPs - Some of them called up their GP and couldn’t get past the “go to A&E if you think it’s an emergency”\n Anyone else noticed this/got any thoughts? You never actually went to your GP, but it all gets lumped together as “why has their GP sent them in for THAT?!?!l \n (Obviously goes without saying that shit and/or GPs exist, and everyone’s guilty of an embarrassing referral)\n    submitted by    /u/surecameraman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7r6pg/i_went_to_my_gp_who_told_me_to_come_here/",
+          "publishedOn": "2024-04-19T07:49:39.000Z",
+          "wordCount": null,
+          "title": "“I went to my GP who told me to come here”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7pfyt/otoscope/",
+          "author": null,
+          "description": "I’m in need of a new otoscope, does anyone have any experience of those video iPhone otoscopes you see on Amazon? \n    submitted by    /u/Diligent-Eye-2042  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7pfyt/otoscope/",
+          "publishedOn": "2024-04-19T05:54:15.000Z",
+          "wordCount": null,
+          "title": "Otoscope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7fxbu/preston_vts/",
+          "author": null,
+          "description": "Any advice? What posts to do or avoid in the track? Which practices or areas are better?\n    submitted by    /u/GreenHass  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7fxbu/preston_vts/",
+          "publishedOn": "2024-04-18T21:58:43.000Z",
+          "wordCount": null,
+          "title": "Preston VTS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7eyfc/didnt_get_an_ae_rotation_does_this_derail_my_plans/",
+          "author": null,
+          "description": "Hi all. Wanted to get thoughts from people.\n I'm entering GP training in August. I really wanted an A&E rotation as I want to work in A&E occasionally as a GP. I'm interested in managing minor injuries, suturing, procedures etc. I know a lot of this is done by non doctors but I wanted to build up experience so I can do a lot of OOH work as a GP. However, I didn't get my chosen ED rotation as there were only 3 to choose from...\n Does this limit my ability once I'm qualified if I wanted to spend a decent amount of time in ED as a GP?\n    submitted by    /u/sadperson1234  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7eyfc/didnt_get_an_ae_rotation_does_this_derail_my_plans/",
+          "publishedOn": "2024-04-18T21:19:06.000Z",
+          "wordCount": null,
+          "title": "Didn't get an A&E rotation. Does this derail my plans?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7dum8/offers_and_fill_rates/",
+          "author": null,
+          "description": "Hi I am not sure if I understood everything completely, that's why I am writing this post. I hope someone correct me if I am wrong. I have seen that the fill rate for GP training for the previous years was always less than 100%. Does that mean that there are always unoccupied posts? If this is true, it means that an applicant can get an offer even if his MSRA score is very low\n    submitted by    /u/Al-mandalawi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7dum8/offers_and_fill_rates/",
+          "publishedOn": "2024-04-18T20:34:39.000Z",
+          "wordCount": null,
+          "title": "Offers and fill rates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c7bh8y/gp_practice_stockport/",
+          "author": null,
+          "description": "GP Practice- Stockport\n I’ve accepted my GP offer at Stepping Hill and have been asked to rank GP practices in Stockport. \n Does anyone have any experience of working at these GP practices? If so, which ones would you rank top 5 and which ones to avoid and why?\n Thank you in advance :) \n    submitted by    /u/Various_Island_8178  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c7bh8y/gp_practice_stockport/",
+          "publishedOn": "2024-04-18T19:01:17.000Z",
+          "wordCount": null,
+          "title": "GP Practice- Stockport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c72ptv/asthma_management_in_the_community/",
+          "author": null,
+          "description": "I am a GPST1, relatively de-skilled re asthma management and COPD as we have respiratory nurses that do the most of it. \n ​\n I got confused re-dosages, escalation policy and when to use what \n Nice/BTS/GINA State different things and dosages : so my questions are \n ​\n -Any simplified escalation policy including dosages involved? \n -Maximal dose of steroid per day (GINA states 2000, BTS/NICE 1000) \n -Maximal dose of LABA. It's officially 46 for Formoterol, but saw patients using more. \n -What do you give if patient is on Fostair and reached 8 puffs a day (=maximal dose of Formoterol 46mcg) and you wish to increase his inhaled steroids \n -role of muntelukast in this story \n -role of anti histamins (as resp nurses gives it at times as well) \n -would you give combined LABA+Steroid(e.g. fostair) and also reliever therapy as salbutamol of not well controlled on maximal dose?\n ​\n Your help is IMMENSLY appreciated! \n    submitted by    /u/DanJDG  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c72ptv/asthma_management_in_the_community/",
+          "publishedOn": "2024-04-18T12:59:39.000Z",
+          "wordCount": null,
+          "title": "Asthma management in the community:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c71q4t/best_study_budget_coursesuse/",
+          "author": null,
+          "description": "I know this question has been asked a few times before, but what’s the best courses I can attend as a GPST? My current region is quite generous with their allocation so I’m hoping to make the most of the budget. I’ve done PCDS dermoscopy which was very useful and enjoyable.\n Also if there’s any that are not only useful but also CV boosters that would help too!\n    submitted by    /u/StrugglingDrDad  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c71q4t/best_study_budget_coursesuse/",
+          "publishedOn": "2024-04-18T12:09:30.000Z",
+          "wordCount": null,
+          "title": "Best Study Budget Courses/use?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c6ycjx/birmingham_doctor_could_be_struck_off_after_just/",
+          "author": null,
+          "description": "submitted by    /u/Educational_Board888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c6ycjx/birmingham_doctor_could_be_struck_off_after_just/",
+          "publishedOn": "2024-04-18T08:36:24.000Z",
+          "wordCount": null,
+          "title": "Birmingham doctor could be struck off after Just Stop Oil protest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c6ocyp/gpst1_hospital_rotations/",
+          "author": null,
+          "description": "Hi everyone\n According to your experience, what are the hospital rotations that you think essential for a future GP?\n    submitted by    /u/Confused_Cat758  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c6ocyp/gpst1_hospital_rotations/",
+          "publishedOn": "2024-04-17T23:17:36.000Z",
+          "wordCount": null,
+          "title": "GPST1 hospital rotations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1c5taqu/upgrading_the_sht_pc_im_working_on_in_my_practice/",
+          "author": null,
+          "description": "Hear me out. My practice PC can barely run more than S1/AccuRx and a few chrome tabs (or one NHS Mail tab). If I try to open a PDF it's russian roulette whether or not my screen will hang, and don't even get me started on the arachaic Word referral doc system we still have going because that's another rant in itself...\n I looked at \"My Computer\" the other day and saw that the PC I use has 8GB RAM. My iPhone has 6GB of RAM and all I use that for is reddit and ignoring my emails, but I digress.\n I found this the other day. An 8GB RAM upgrade for the PC I'm using. This would double my RAM, quadrouple my productivity and probably cure the viral URTI of the patient sitting in front of me if it tried hard enough - and all for the low, low price of £16.94.\n So tell me, someone, anyone, please, why shouldn't I just purchase this and install it onto my practice PC? It would cost me less than a nice take-out dinner and serve me righteously for years to come!\n (PS: Do you think I would have to run this by the IT guy or do you think it's cool if I just open 'er up and giv'r? Srs answers only plz.)\n    submitted by    /u/Ozky  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1c5taqu/upgrading_the_sht_pc_im_working_on_in_my_practice/",
+          "publishedOn": "2024-04-16T22:25:12.000Z",
+          "wordCount": null,
+          "title": "Upgrading the sh*t PC I'm working on in my practice",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "DoctorsUK",
+      "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
+      "siteUrl": "https://www.reddit.com/r/doctorsUK",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cay6ho/a_consultant_slapping_registrars_hands_and/",
+          "author": null,
+          "description": "https://www.theguardian.com/society/2024/apr/22/surgeon-at-nhs-hospital-promoted-despite-allegedly-assaulting-staff\n    submitted by    /u/nightwatcher-45  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cay6ho/a_consultant_slapping_registrars_hands_and/",
+          "publishedOn": "2024-04-23T07:02:54.000Z",
+          "wordCount": null,
+          "title": "A consultant slapping registrars hands and hitting their visors is apparently taken in the interest of ‘patient safety’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1caorw8/ear_syringing/",
+          "author": null,
+          "description": "Hello all!\n Longtime lurker posting on a throwaway. \n I'm an SHO grade doc working in Scotland just now. I was looking at ways to bolster my income and fell onto ear syringing. I have good experience in performing it, albeit not having attended any formal courses, and feel it's relatively low risk as I intent to take a good history and ensure I'm not suctioning at a steatoma with my otoscope. A local dental practice I'm on good terms with (not my own dentist) have offered a chair a day a week to run a mini clinic. \n Has anyone got experience in this market? I've been having difficulty finding any real info on indemnity around this. Most of the indemnity products I've found are aimed at companies/clinics with multiple practitioners. Further, does anyone know the situation with making the clinic compliant? I've read about needing CQC approval down south, but again, can't find any info on Scotland. \n Any input is welcome! \n    submitted by    /u/Few_Ad19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1caorw8/ear_syringing/",
+          "publishedOn": "2024-04-22T22:54:56.000Z",
+          "wordCount": null,
+          "title": "Ear syringing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1caombp/its_been_4_years_and_im_still_scared_of_nights/",
+          "author": null,
+          "description": "I’m currently a CT1 in surgery and I’m four years into medicine. I’ve done nights regularly for three of the four years. I’m still disablingly scared of them, even if I’m actually OK on the actual stretch. My current job has quite a few nights but workload is generally okay, so my anxiety is not bad but it’s certainly problematic. I find myself trawling the ED track board for hours before my shift predicting who I might have to see or not. Advice is never too far away but I am so scared of appearing shit that I prepare and over prepare. There really is no point trying to predict referrals as I know what to do with most of them anyway, but it’s a compulsion I can’t stop. \n My next rotation will be in a speciality I have little knowledge on, but I will be covering wards AND referrals overnight. I’m scared I’m going to perpetually be a wreck. I sometimes get fleeting thoughts of calling in sick so I don’t have to deal with it - I never, ever do, but it’s so tempting sometimes that I’m ashamed to say that sometimes the thought lingers a bit too long in my head. \n It doesn’t help that my sleep is almost universally shit on them, and my eating isn’t much better. \n Grateful for any help/tips/reassurance that this can pass, and I can trust myself a bit more. \n    submitted by    /u/Material_Raspberry30  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1caombp/its_been_4_years_and_im_still_scared_of_nights/",
+          "publishedOn": "2024-04-22T22:48:28.000Z",
+          "wordCount": null,
+          "title": "It’s been 4 years and I’m still scared of nights.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1canlon/2_year_gap_between_graduating_and_starting_fy1/",
+          "author": null,
+          "description": "Yet another incoming FY1 here. Basically I have a 2 year gap between graduating and starting F1 in which I did nothing medicine-related. I feel like I've forgotten everything, both clinical knowledgewise and also everything we were told about what an FY1 is expected do. I know two years isn't that long in the grand scheme of things, but med school is an absolute blur for me. I was a mentally ill mess of a student, the counselling office was my second home, and it shocked both me and the med school staff when I somehow passed finals resits. Without saying too much, I nearly dropped out several times and was nearly too far gone. I don't remember 3 out of 4 placements from 5th year at all.\n Anyway. After a much-needed 2 year break, I am much more stable now and ready to return, but I could really do with some advice re getting back into it. I passed the UKFPO's (albeit straightforward) clinical assessment for people with a 2+ year break with a very reassuring mark, and I've been doing passmed to try and get back up to speed. I've also been reading FY1 guides and resources and I've contacted my assigned foundation deanery about possible extended shadowing. Is there anything else I should be doing? \n Just for a little more info: I’m starting on gen surg. Also I'm hoping to apply for Anaesthetics in the future and bagged an anaesthetics FY1 rotation which I'm honestly so buzzing about. At the moment I'm working a 9-5 office job which I'm looking to quit at some point in June to give myself at least a month off + time to get my brain in gear. \n Any recommendations re what to do between now and August would be much appreciated. I was a terrible medical student, but I want to be the best FY1 I can possibly be. I'm ready to put my best foot forward and I’m honestly quite excited, as silly as that might sound. Thank you so much🙏\n    submitted by    /u/ClangorousSoulblaze  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1canlon/2_year_gap_between_graduating_and_starting_fy1/",
+          "publishedOn": "2024-04-22T22:07:22.000Z",
+          "wordCount": null,
+          "title": "2 year gap between graduating and starting FY1 – any advice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1canad1/what_are_the_academic_routesspecialties_for_going/",
+          "author": null,
+          "description": "Hi everyone, incoming fy1 here interested in physics, maths and engineering related specialties. What sort of pathway could I go down to explore these topics more in medicine? I understand radiology has a decent amount of physics and there’s certain specialties like nuclear medicine to consider, both of which interest me a lot. I am just wondering what other things I could be doing alongside going into these specialties that could get me into a field that has a decent balance of medicine and physics/engineering. I have considered PhD programs to do with biomedical engineering that might lend to a more academic career, or ones that I could do alongside my radiology training, would like to know more about this.\n Would love to know if anyone here has gone down such a route or if anyone knows anything about it. Thank you.\n    submitted by    /u/adventurefoundme  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1canad1/what_are_the_academic_routesspecialties_for_going/",
+          "publishedOn": "2024-04-22T21:55:35.000Z",
+          "wordCount": null,
+          "title": "What are the academic routes/specialties for going into biomedical engineering/medical physics?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1can8ux/totally_out_of_control/",
+          "author": null,
+          "description": "A close family member living in the suburbs of London has a chronic health issue.\n I advised her to ask for GP specifically to plan referral.\n She filled in an online form then was called back by a ………BIOCHEMIST ……….who advised otc medication. \n Fair enough introduced herself as such but ….. a biochemist- undifferentiated patients??????\n    submitted by    /u/Expensive_Deal_1836  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1can8ux/totally_out_of_control/",
+          "publishedOn": "2024-04-22T21:53:57.000Z",
+          "wordCount": null,
+          "title": "Totally out of control ..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1can72x/incoming_f1s_in_trent_foundation_school_wont_know/",
+          "author": null,
+          "description": "submitted by    /u/madionuclide  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1can72x/incoming_f1s_in_trent_foundation_school_wont_know/",
+          "publishedOn": "2024-04-22T21:52:05.000Z",
+          "wordCount": null,
+          "title": "Incoming F1s in Trent Foundation school won't know what jobs, hospitals or cities they will be in until 3 weeks before they start working as doctors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1can1gs/paediatrics_as_an_fy2/",
+          "author": null,
+          "description": "I am feeling like a bit of an idiot at work lately as I have rotated to paediatrics and feel like I know almost nothing and I’m back to medical school😅\n Is there any good resources that people know of as maybe a reference or something to read in my spare time that will help my clinical knowledge on paediatrics?\n I cover the wards, paeds ED, NICU and postnatal wards during this rotation. \n    submitted by    /u/psychpsychbabyy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1can1gs/paediatrics_as_an_fy2/",
+          "publishedOn": "2024-04-22T21:45:57.000Z",
+          "wordCount": null,
+          "title": "Paediatrics as an FY2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1calbcz/ai_in_rads_and_path/",
+          "author": null,
+          "description": "People ask me what I want to specialize in and I say Histopath with rads in close second and the first question they have is about AI and that diagnostic rads and histopath may become obsolete with AI. From what I have seen so far from tasters in both specialties, AI is nowhere near even replacing doctors in rads or path and the clinical context is super important when producing reports of either CT scans or reporting microscopic slides which I don’t see AI deal with the nuances of anytime soon. I get asked this question so much that I feel it probably may even end up being an interview question when I make my application. But at the same time because I get asked this question a lot (by other doctors), perhaps there is some truth to it?\n What do the radiologists and pathologists here have to say about this? Interested in hearing your thoughts.\n    submitted by    /u/xxx_xxxT_T  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1calbcz/ai_in_rads_and_path/",
+          "publishedOn": "2024-04-22T20:32:45.000Z",
+          "wordCount": null,
+          "title": "AI in rads and path?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1caksis/looking_for_some_thoughts_and_advice/",
+          "author": null,
+          "description": "For context, I am not a consultant/GP, have been qualified and working as a doctor for 7 years. Will be keeping this vague for identifiability purposes.\n A friend of mine runs a food and drink business. They're expanding to several other countries after some success in the UK, including the USA, Europe, and Asia.\n One of the regulatory bodies has different allergen standards (I.e. acceptable concentrations), which has highlighted some issues and changes they'll have to make to sell some of their food there.\n They're looking for a doctor to essentially take the info regarding some of these issues, collate some evidence around them, and sort of explain it all to the board of their company, and attempt to quantify some risks for them. Not to necessarily say \"this is medically fine\" or \"go full steam ahead with production\", but more to explain some of the issues from a medical standpoint and the repercussions should something go wrong.\n Any risk would theoretically be covered by their indemnity and lawyers, and a document would be prepared stating that they've consulted a doctor for advice but that the company is entirely responsible and culpable for their own decisions\n My questions boil down to is this an acceptable thing to do? \n I'm not an expert in any regard, and I'm still a junior doctor. They're asking because we are friends is all.\n Is there anyone out there who's done something similar for a company/in a commercial setting? Would it be bonkers to consider doing this (essentially it boils down to a literature review turned to lay language)? Would an indemnity provider like MDU have specialised cover for this sort of thing or?\n    submitted by    /u/jaykaythroaway  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1caksis/looking_for_some_thoughts_and_advice/",
+          "publishedOn": "2024-04-22T20:07:21.000Z",
+          "wordCount": null,
+          "title": "Looking for some thoughts and advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cakh68/anyone_with_imt_in_hull_and_leeds_experience/",
+          "author": null,
+          "description": "I have accepted an offer to work as an IMT in both Hull and leeds starting from August 2024. Would appreciate if someone can give some insight about training, transportation and both hospitals in general. \n    submitted by    /u/No-Bathroom8767  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cakh68/anyone_with_imt_in_hull_and_leeds_experience/",
+          "publishedOn": "2024-04-22T19:55:10.000Z",
+          "wordCount": null,
+          "title": "Anyone with IMT in Hull and Leeds experience?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cajzaz/fao_rcgp_members_check_your_emails_and_fill_in/",
+          "author": null,
+          "description": "submitted by    /u/dayumsonlookatthat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cajzaz/fao_rcgp_members_check_your_emails_and_fill_in/",
+          "publishedOn": "2024-04-22T19:35:44.000Z",
+          "wordCount": null,
+          "title": "FAO RCGP members: Check your emails and fill in the newly opened consultation on PAs in GP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cahr8y/ifst_outcome_time_of_email/",
+          "author": null,
+          "description": "What time did outcome emails get sent for foundation deanery transfer last year? Or any other deanery transfer? \n Wondering if auto-email at midnight or any time throughout the day. \n    submitted by    /u/CurrentPerception668  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cahr8y/ifst_outcome_time_of_email/",
+          "publishedOn": "2024-04-22T18:09:34.000Z",
+          "wordCount": null,
+          "title": "IFST Outcome - time of email?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cahaij/help_incoming_fy1/",
+          "author": null,
+          "description": "Hi everyone I am using a throwaway account as I do not want to be identified I am an incoming f1, rounding up the final bits of med school, elective on the way \n I have been in a long term relationship throughout med school with my partner who I am now culturally/ traditionally married to. We just haven’t done a religious / white wedding yet . We were planning on doing this April 2025\n I have just found out I am pregnant. This was not planned and is coming as a total shock/surprise . Yes we did use contraception but as I have learnt these can also fail My husband is very supportive and I know he will be a great dad\n I am just very anxious about it all. I am wondering if starting f1 whilst pregnant is a good idea . I am a graduate student so having a baby was definitely a plan in the near future . Initially taking a year out after F1 or F2\n I am also worried on the financial strain this will put on my husband as by the time I am due I will not be entitled to the nhs maternity pay \n I am just wondering if I should just postpone f1 to next year altogether? My due date at the moment is late December/ early Jan so I could technically finish the first rotation \n Fy1 is already hard enough and I’m just worried I will not be able to cope. \n    submitted by    /u/Ktt_bee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cahaij/help_incoming_fy1/",
+          "publishedOn": "2024-04-22T17:51:26.000Z",
+          "wordCount": null,
+          "title": "Help- incoming fy1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cafdwd/mrcpch_guidance/",
+          "author": null,
+          "description": "Hi, can somebody give me guidance regarding Fop/Tas mrcpch exam. Is passtest qbank enough for preparation.I'm scoring 56% & 59% respectively in Qbank.What's the passing % in real exam? what are the other resources besides Qbank that we can use?what's the average time for preparation?TY in advance.\n    submitted by    /u/Regular-Spray-912  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cafdwd/mrcpch_guidance/",
+          "publishedOn": "2024-04-22T16:35:55.000Z",
+          "wordCount": null,
+          "title": "MRCPCH guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1caf6j2/advice_please/",
+          "author": null,
+          "description": "With everything going around the media and forums I’m at a crossroads - nearly finished training and getting on a bit age wise. \n Probably going to complete training and leave the profession because I’ve realised that nothing will ever change no matter how hard I work and whatever I do to try to make the system better will just cause push back on me - so there’s no point. Have learnt this the hard way every year so far as a doctor - nobody wants improvement they only want to perpetuate the status quo and crush any challenge to authority or even open discussion. \n The NHS can have its way and just employ under qualified robots to do it’s willing as per the way of the world these days. Maybe outsource healthcare to a call centre in India? Robot consultations as is the way in the USA. \n Anyway - does anyone actually know a tradesperson earning £50-60k/y? I’d rather cut my losses and go back to college despite having postgrad degrees on top of medical training. \n Has anyone successfully started a business like aesthetics or even non medical and made it succeed? \n Is there any hope at all for the profession because I’m not hearing anything positive at all and it feels very much like the government don’t want or need doctors and in the UK the government IS the NHS. And the overseas market for UK doctors is saturated. \n Do any senior doctors actually want to change the system? And do they understand what your junior ‘colleagues’ are going through (ie not just robots to do what you tell them but also thinking and intelligent humans wish to contribute)? \n    submitted by    /u/Able_Dragonfruit_302  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1caf6j2/advice_please/",
+          "publishedOn": "2024-04-22T16:27:40.000Z",
+          "wordCount": null,
+          "title": "Advice please",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1caeu2y/ophthalmology_can_it_be_done_stressed_incoming_f1/",
+          "author": null,
+          "description": "I'm about to start F1 training in a small DGH. \n Have been thinking about future career prospects and having done further reading, ophthalmology seems interesting. Problem comes with the fact I have done basically nothing in medical school other than pass my exams ☹️ (no awards/poster presentations). I realise and am willing to put in a lot of work during my foundation training. Question is: is it possible? And if so, where do I start?\n Would appreciate any help/advice that you guys can offer!\n    submitted by    /u/EngineeringWilling96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1caeu2y/ophthalmology_can_it_be_done_stressed_incoming_f1/",
+          "publishedOn": "2024-04-22T16:13:48.000Z",
+          "wordCount": null,
+          "title": "Ophthalmology: can it be done? Stressed incoming F1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cadj0a/do_the_stupid_mistakes_ever_end/",
+          "author": null,
+          "description": "Paeds ST8 \n Should I be feeling this insecure so close to the end? \n Still find myself making silly mistakes, nothing untoward happening to the patients but still dumb mistakes/oversights that I catch later and spend the day ruminating about. \n I get good feedback from juniors and consultants but I don’t think they tend to notice what I’m up to being a senior trainee. \n    submitted by    /u/Patient-Nothing-5973  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cadj0a/do_the_stupid_mistakes_ever_end/",
+          "publishedOn": "2024-04-22T15:20:36.000Z",
+          "wordCount": null,
+          "title": "Do the stupid mistakes ever end?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca8pmt/cries_in_nhs/",
+          "author": null,
+          "description": "submitted by    /u/Azndoctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca8pmt/cries_in_nhs/",
+          "publishedOn": "2024-04-22T11:51:56.000Z",
+          "wordCount": null,
+          "title": "Cries in NHS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca8mjj/group_save_samples/",
+          "author": null,
+          "description": "I've had the pleasure at working at many different hospitals. Which means I've worked with many different blood transfusion labs and feel that their approach to group and save samples is incredibly hard-line. \n At this point, I'd like to point out I am very aware of what I'm asking for when I request a blood transfusion and I do have a genuine appreciation for the risks involved and for the potential for catastrophic mishaps.\n However, I've seen multiple occasions where samples have been rejected (often at the disservice of the patient) for extremely rigid rules that are completely inflexible. This leads to repeated stabs which are unpleasant for the patient or, at its worst, a delay in transfusion of cross matched blood. \n What are your feelings on the threshold for rejecting G&S samples? \n    submitted by    /u/UlnaternativeUser  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca8mjj/group_save_samples/",
+          "publishedOn": "2024-04-22T11:47:15.000Z",
+          "wordCount": null,
+          "title": "Group & Save Samples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca8212/pa_teaching_of_med_students_doctors/",
+          "author": null,
+          "description": "Offered a job in a hospital which has a lot of PA’s, reading the BMA advice ahead of time. In the BMA MAP scope, it says teaching is not to happen unless it falls within the safe parameters of working for MAPS. Does this mean things both within the green and orange boxes?\n For example, in psych, the green for MAPS is physical healthcare related only. So does this mean PA can teach related to performing a physical exam, but shouldn’t be teaching things like MSE/History taking? \n Likewise, O&G, orange box is refit or replace vaginal pessaries. Can they be teaching doctors how to do so?\n Has anyone been asked to arrange teaching programmes involving PA as educators and if so how have you organised this so it’s appropriate?\n    submitted by    /u/Ok-Fish7137  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca8212/pa_teaching_of_med_students_doctors/",
+          "publishedOn": "2024-04-22T11:15:41.000Z",
+          "wordCount": null,
+          "title": "PA teaching of med students & doctors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca7nb7/chatgpt_portfolio_reflections/",
+          "author": null,
+          "description": "Are there any enterprising prompt engineers on this sub? I’m trying to create a prompt that will reliably get ChatGPT to spit out somewhat reasonable reflections to pad out my portfolio with. The best I’ve managed to come up with is:\n “You are a medical doctor writing a reflective piece to include in your logbook. The case that you are reflecting on is [insert scenario] and the learning points that you want to take away are [insert learning points]. The reflective piece should be between 500-1000 words and should be based on the Gibbs reflective cycle. Keep a professional tone but inject some evidence of empathy throughout the text” \n I’ve been getting middling results with this and was wondering if anyone has any pointers on how to improve the prompt? \n Edit: totally on board with the responses about 500-1000 words being way too long. My initial plan was to just pad it with so much stuff nobody would bother reading it to be honest! \n    submitted by    /u/PrehospitalNerd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca7nb7/chatgpt_portfolio_reflections/",
+          "publishedOn": "2024-04-22T10:51:04.000Z",
+          "wordCount": null,
+          "title": "ChatGPT portfolio reflections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca6ul0/consultant_standing_up_for_junior_doctor/",
+          "author": null,
+          "description": "I was assigned a community placement in psychiatry for my GP training. When I tried to get a fob to access the car park, I was told that because I'm only there for 4 months, I'm not eligible for a fob. When I asked the admin team where I was supposed to park, they told me to park on the roads nearby. The placement is in quite a deprived area, and I didn't feel comfortable parking on the roads a few minutes walk away. So I parked in the patients' car park a few times, and was issued a £100 fine.\n I ended up telling the consultant that I'm under about the whole situation, and he was very indignant about it. Sent an email to the admin team straightaway and I got a car park fob the next day. In hindsight, should have told the consultant about it a lot sooner.\n Just really nice to have your consultant stick up for you!\n https://preview.redd.it/i9upklyx70wc1.jpg?width=1170&format=pjpg&auto=webp&s=ead216b9becfc7dd05023eaa12877de00384a8be\n    submitted by    /u/Firstbornsyndrome  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca6ul0/consultant_standing_up_for_junior_doctor/",
+          "publishedOn": "2024-04-22T09:59:28.000Z",
+          "wordCount": null,
+          "title": "Consultant standing up for junior doctor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca4opt/nhse_to_review_cutting_compulsory_training_mast/",
+          "author": null,
+          "description": "Could it be? NHSE listening to doctors for once?\n    submitted by    /u/dayumsonlookatthat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca4opt/nhse_to_review_cutting_compulsory_training_mast/",
+          "publishedOn": "2024-04-22T07:28:14.000Z",
+          "wordCount": null,
+          "title": "NHSE to review cutting compulsory training (MAST) for doctors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ca3n3c/ct_patient_top_score/",
+          "author": null,
+          "description": "I’ve seen a patient who has had in this admission (3 days) 4 CTs (1 head, 2 TAP and 1 ankle). It got me thinking about radiation risk/reward. Give me your top scores of CTs + story of course. \n    submitted by    /u/Excellent_Steak9525  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ca3n3c/ct_patient_top_score/",
+          "publishedOn": "2024-04-22T06:20:16.000Z",
+          "wordCount": null,
+          "title": "CT patient top score",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The NHS - The National Health Service",
+      "feedUrl": "https://www.reddit.com/r/nhs.rss",
+      "siteUrl": "https://www.reddit.com/r/nhs",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cay0e8/career_guidance_for_a_b3_peer_support_worker/",
+          "author": null,
+          "description": "Hello I'd like to climb the ladder after 3 years in my current role but I'm not sure where the ladder is or even if there is one.\n I've explored doing the foundation degree in mental health, with a view towards Occupational Therapy eventually, but it seems my trust are not willing or able to fund it. It also takes me away from the lived experience aspect of my current role which is important to me and one of my main skills. But roles higher than a b3 in Peer Support/lived experience are hard to find too. \n Does anyone have any advice at all?\n    submitted by    /u/monkeyroboninja  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cay0e8/career_guidance_for_a_b3_peer_support_worker/",
+          "publishedOn": "2024-04-23T06:51:38.000Z",
+          "wordCount": null,
+          "title": "Career guidance for a b3 Peer Support Worker please",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cawpdb/which_union_is_best_for_ward_clerks/",
+          "author": null,
+          "description": "I'm a ward clerk that's looking to join a union; not for any pressing matter, just given the political climate in the UK. The big 3 that get mentioned are Unison, Unite and GMB but the thing that's making me hesitate about them is that Unison & Unite seem to list every other hospital profession under the sun specificaly as staff they cater to but ward clerks are lumped into the 'and other admin staff' category; and GMB seems to be workers in general with no specialisation. On one hand I get it, ward clerks are comparatively low in numbers compared to most other hospital roles, but on the other hand I want to know that a union will be looking out for us just as much as they do for the roles with big numbers.\n Open to any advice on which union might be best for ward clerks and if there's any other unions to suggest please do.\n    submitted by    /u/-Twokad-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cawpdb/which_union_is_best_for_ward_clerks/",
+          "publishedOn": "2024-04-23T05:25:28.000Z",
+          "wordCount": null,
+          "title": "Which union is best for ward clerks?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1carlbf/the_missing_pieces_in_healthcare_apps_a_call_for/",
+          "author": null,
+          "description": "I am a part of team that is creating a healthcare based app. We are on the ground floor of our startup and am trying to put together a medical library API for the app to pull information from. I wanted input about what diagnosis is lacking data for our MVP of this product. Currently we are throwing around geriatrics, pregnancy, mental health, and chronic diseases. I would love the medical communities opinion on what would gain the most traction with customers for a medical API that provides medical standards.\n    submitted by    /u/InfamousGuava9885  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1carlbf/the_missing_pieces_in_healthcare_apps_a_call_for/",
+          "publishedOn": "2024-04-23T01:01:55.000Z",
+          "wordCount": null,
+          "title": "The Missing Pieces in Healthcare Apps: A Call for Comprehensive Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1capd4h/ethical_conundrum_nhs_psychiatrist_advocating/",
+          "author": null,
+          "description": "Recently I was in a diagnostic session with the consultant psychiatrist in my local NHS recovery team. My GP referred me to them for a PTSD diagnosis, CPA, talking therapies, and medication advice.\n I was taken aback during the latest session when the psychiatrist began really pushing me to look at going privately for talking therapies.\n I get that the NHS is crumbling - I work in the same NHS Trust - but it felt really wrong to me that an NHS professional should advocate for going against the founding principles of the NHS.\n Does anyone else feel that this is unethical?\n —\n Extra information: I have the distinct impression that the recovery service really doesn’t want to take me on because I need significant reasonable adjustments to their usual ways of working. My autism and ADHD impact my presentation of mental health symptoms, and I need lots of additional time to process emotions and information. The local IAPT straight up rejected me as ‘too complex,’ and told my GP to send me to recovery. But it feels that rather than adapt and adjust, recovery want to find any reason to reject me too.\n    submitted by    /u/Animorphus1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1capd4h/ethical_conundrum_nhs_psychiatrist_advocating/",
+          "publishedOn": "2024-04-22T23:20:13.000Z",
+          "wordCount": null,
+          "title": "Ethical conundrum: NHS psychiatrist advocating going private for talking therapies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cajy04/applying_for_medical_lab_assistant_i_have_a_3/",
+          "author": null,
+          "description": "Hi guys\n My current job has a 3 month notice period. I was just wondering, would I be put at a disadvantage if I were to apply for Medical Lab assistant role with a 3 month notice period? For example, someone might be able to start sooner. Is that taken into consideration? Of course this is assuming I did well in the application/interview and ticked all the boxes etc.\n I'm wondering whether to just hand in my notice period and start applying\n    submitted by    /u/Xenrice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cajy04/applying_for_medical_lab_assistant_i_have_a_3/",
+          "publishedOn": "2024-04-22T19:34:14.000Z",
+          "wordCount": null,
+          "title": "Applying for Medical Lab Assistant (I have a 3 month notice period)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cagpal/cqc_suprise_visit/",
+          "author": null,
+          "description": "HI ,\n So about two months ago I contacted the cqc about the hospital i work in. They did a suprise visit about two months later ward is under threat of closure. The annoying thing that is despite this the same issues are still going on, when the cqc do a suprise visit do they have to give reasons as to why? and what prompts them to do suprise visits\n    submitted by    /u/Additional_Channel_8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cagpal/cqc_suprise_visit/",
+          "publishedOn": "2024-04-22T17:27:55.000Z",
+          "wordCount": null,
+          "title": "CQC suprise visit?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cadwhg/career_prospects_for_a_healthcare_support_worker/",
+          "author": null,
+          "description": "Hi all\n Please I'll like to ask if there is a possibility of switching from the position of a healthcare support worker to an administrative role within the NHS. Thanks.\n    submitted by    /u/PriorAlternative1635  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cadwhg/career_prospects_for_a_healthcare_support_worker/",
+          "publishedOn": "2024-04-22T15:36:04.000Z",
+          "wordCount": null,
+          "title": "Career prospects for a healthcare support worker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1caa4qq/opinion_on_gloicestershire_hospitals_nhs_trust/",
+          "author": null,
+          "description": "Hello everyone! I am an IMG from India, who got an attachment in this trust in the Dept of T&O. Can anyone advice me if this is a good offer to take up? They did not ask for any sort of payment which was a surpise. \n    submitted by    /u/Grouchy-Abrocoma-531  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1caa4qq/opinion_on_gloicestershire_hospitals_nhs_trust/",
+          "publishedOn": "2024-04-22T13:00:06.000Z",
+          "wordCount": null,
+          "title": "Opinion on Gloicestershire Hospitals NHS Trust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ca99qg/blood_tests_requested_by_two_different/",
+          "author": null,
+          "description": "I’ve been given two separate blood forms from two consultants, requesting for different things to be tested (one is some baseline stuff, the other is just for iron/ferritin).\n What happens if I take two blood forms into the blood centre? Will I need two vials of blood taken, or can the blood forms be “combined” somehow so everything is tested in one go?\n Sorry if this is a stupid question. I have a lot of anxiety around blood tests and it helps me a lot to know what to expect!\n    submitted by    /u/eraserway  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ca99qg/blood_tests_requested_by_two_different/",
+          "publishedOn": "2024-04-22T12:19:43.000Z",
+          "wordCount": null,
+          "title": "Blood tests requested by two different consultants - how does it work?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ca815b/hemithyroidectomy/",
+          "author": null,
+          "description": "Hi guys, I’m waiting for hemithyroidectomy since 12th Jan, I’ve been told by ENT doctor that it’s been put down as urgent (suspected cancer, biopsies were inconclusive, I have trouble breathing, swallowing etc.) and waiting time is up to 12 weeks. Well, it’s already been 12 weeks, I’ve got a “follow up” appointment booked for 3rd May, I’ve called them up and I’ve been told I haven’t been put down for any procedure in the system :) I’ve called them once before mid March and everything was fine, they just told me that I don’t have a date for the op yet and that’s it and now that. Does anyone know where can I complain or what can I do so they’ll actually get it together? It’s been months of stress and anxiety. Thanks in advance x\n    submitted by    /u/Key_Field_2417  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ca815b/hemithyroidectomy/",
+          "publishedOn": "2024-04-22T11:14:18.000Z",
+          "wordCount": null,
+          "title": "Hemithyroidectomy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ca5cnf/i_think_staff_in_the_nhs_misread_a_desire_to_know/",
+          "author": null,
+          "description": "Every time I am in the NHS system, at some point you are put into a holding pen of sorts at one stage. That is absolutely fine and I appreciate the NHS.\n However the simplest service step of just saying, 'the wait will be about 30 minutes, you need to wait for the doctor', or even 'the wait could be 4 hours because we only have 1 ### but you need to be here in case we get you in earlier'. \n People just want to know something, so they can relax. But you're forced to awkwardly approach staff milling about and ask, which makes you look impatient. When you just want some idea of what's going on.\n    submitted by    /u/LBP2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ca5cnf/i_think_staff_in_the_nhs_misread_a_desire_to_know/",
+          "publishedOn": "2024-04-22T08:14:44.000Z",
+          "wordCount": null,
+          "title": "I think staff in the NHS mis-read a desire to know, as impatience.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ca59x0/what_are_the_options_for_someone_who_doesnt_get/",
+          "author": null,
+          "description": "Hi so I’m graduating from my Bsc in biomedical science this year, and I’ve applied to the STP for clinical neurophysiology. I was wondering what are my options to continue a career in neuroscience and get lab accredited if I don’t happen to get into the STP? I understand there’s always other masters courses without the clinical training aspect but I really want a career in the NHS and to work in healthcare. Also just fyi my Bsc is not an IBMS accredited degree so I don’t have any certification to work in a lab once I graduate. I feel like the STP is my best chance at kickstarting my career so I need to have a backup if it doesn’t work out this year. Please help! \n    submitted by    /u/smokacola1969  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ca59x0/what_are_the_options_for_someone_who_doesnt_get/",
+          "publishedOn": "2024-04-22T08:09:27.000Z",
+          "wordCount": null,
+          "title": "What are the options for someone who doesn’t get into the STP this year?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ca55iq/genuine_questions_why_are_hospital_staff_often/",
+          "author": null,
+          "description": "We visited a hospital recently, and in so many corridors and wards staff are just milling about, not really speaking to patience. There seems no sense of urgency but everything I hear is the NHS is at breaking point, yet no one in the hospital seems busy?\n    submitted by    /u/LBP2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ca55iq/genuine_questions_why_are_hospital_staff_often/",
+          "publishedOn": "2024-04-22T08:01:01.000Z",
+          "wordCount": null,
+          "title": "Genuine questions - Why are hospital staff often just milling about, moving slowly around etc?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9v792/acl_reconstruction_waiting_time/",
+          "author": null,
+          "description": "I’ve previously had my left knee reconstructed which took around 2 months wait time however for my right knee I’ve been waiting 4+ months is anyone aware of how long roughly the waiting list could be? Thank you !\n    submitted by    /u/Dry_Assumption7092  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9v792/acl_reconstruction_waiting_time/",
+          "publishedOn": "2024-04-21T22:50:45.000Z",
+          "wordCount": null,
+          "title": "ACL reconstruction waiting time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9ptge/experiences_with_breast_clinics/",
+          "author": null,
+          "description": "Hi all. \n A benign mass was found in my breast a few months ago but I’m really nervous as I feel like I’m being pushed toward surgery. \n I’ve had appointments set for days I’ve informed the staff I can’t make, appointment times moved without consultation, and they want to make a 5cm incision on my breast (either around my nipple or near my armpit) but won’t tell me where they’re going to cut into me until after I’m under (I’m not a very big person that will be a significant portion of my breast). There’s been little to no explanation about surgery risks or even a conversation about doing a second ultrasound or resources I can access as a disabled person as I’ve been told for 2 weeks I shouldn’t use my left arm which is the side I use with my mobility aid. I’m not even sure if I’m going to be operated on by a plastic surgeon as I model and have body dysmorphia and I’m really scared of having complications and how this may affect my physical and mental health which are already not good (surgeon said that there would be no complication risks outside of the “usual surgery risks” (which were not explained), even with cutting around the nipple). \n I’ve not had the best experience with the NHS so far (5 years trying to get mental health help, 3 years trying to get help for my FND since having to pay for a private neurology and MRI consult, which is part of the reasons I don’t have have savings as they’ve mostly been spent on trying to access healthcare) and I can’t tell if this is normal or other past experiences are clouding my judgement. I’m incredibly anxious about this whole thing as I don’t really have a support network outside of my care team. If anyone could share their own experiences with breast clinics in the UK I would appreciate it. \n    submitted by    /u/SarcasticBarbie96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9ptge/experiences_with_breast_clinics/",
+          "publishedOn": "2024-04-21T19:05:23.000Z",
+          "wordCount": null,
+          "title": "Experiences with breast clinic(s)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9p5yh/my_ex_boyfriend_who_is_an_nhs_staff_member_is/",
+          "author": null,
+          "description": "I (30sF) had a relationship for over 10 years with my ex (30sM) broke up 3 years ago.\n It ended badly. He took my home and my possessions. Cheated, was abusive. He sexually assaulted me. I didn't report it, so no official complaint is logged.\n He moved away. I hoped that was the end of it, and we could both start our separate lives.\n Last year, he moved back and into the hospital I worked in.\n I soon moved because I didn't want to be anywhere near him.\n He's contacted friends asking where I am.\n My relative with learning disabilities needed an appointment in my ex's part of the hospital. My relative's mother called to ask if he was there so they could avoid him. They said he would be, but not in the department my relative was going for his appointment.\n My relative was very fond of my ex, and when they suddenly disappeared, they couldn't understand where he had gone. He mourned and cried for months.\n My family were afraid they might meet him there and add to the confusion and be very upsetting for him, but they were reassured he'd be far enough away and chances low.\n Unfortunately, he saw my relative and approached him. Told him he could come visit him at the hospital whenever he wants. It was a lie and quite distressing for my family member.\n More recently, he had a patient who worked at the same place as my sister (work uniform very identifiable). He asked this patient if he knew my sister, and that when he found out he did, he asked the patient to say hello to her from him.\n My sister and my ex understandably are on very bad terms, and any contact is not wanted. She wants nothing to do with him.\n I don't know what his motive is for trying to get a patient to contact my sister like this.\n Can I or my family make a complaint? Would anything even happen? Could this help stop him continuing to contact my family using the hospital?\n Any help is much appreciated.\n    submitted by    /u/onedaymaybeillknow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9p5yh/my_ex_boyfriend_who_is_an_nhs_staff_member_is/",
+          "publishedOn": "2024-04-21T18:38:22.000Z",
+          "wordCount": null,
+          "title": "My ex boyfriend who is an NHS staff member is asking his patients to contact my family and distressing my relative. Can I complain?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9l5i3/what_do_education_mental_health_practitioners_do/",
+          "author": null,
+          "description": "Any EMHPs out there willing to share their day to day in the school holidays and in term time would be really ideal. Thanks in advance \n    submitted by    /u/Isthistherealife01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9l5i3/what_do_education_mental_health_practitioners_do/",
+          "publishedOn": "2024-04-21T15:49:43.000Z",
+          "wordCount": null,
+          "title": "What do education mental health practitioners do in the school holidays - and in general?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9ir81/do_i_need_to_confirm_an_operation_appointment_date/",
+          "author": null,
+          "description": "Last week I attended my pre-op assessment, and also had a phone call offering me a date in a few weeks' time for my operation, which I gladly accepted. Shortly after the call I received a confirmation letter stating the date, time, ward etc.\n Near the top of the letter is a phone number to 'reschedule or cancel'. Apart from the general switchboard number, there is no other phone number in the letter. As the number is specifically to 'reschedule or cancel', it seems reasonable that if I don't contact them it means I want to keep the appointment. However, on the last page of the letter there's a checklist of things to do before my operation, one of which is to confirm the appointment date.\n I wasn't sure what to do, so I figured I'd ring the number anyway just to make an enquiry. But after trying multiple times in the past week, I haven't been able to get through to anyone.\n So my question is, should I persist in trying to contact someone, or am I safe to assume my operation is going to happen? Also, as my appointment is now in less than two weeks, what if I'm unable to get a response in time? Is there a possibility of my operation being cancelled?\n I appreciate this is a silly/paranoid question, but I've been through so many headaches and so much bureaucracy to get to this point that I'm terrified of doing something (or not doing something) that would jeopardise my operation.\n Further adding to my anxiety is my NHS app showing no upcoming appointments despite me having been removed from the waiting list (is this an indication that the appointment needs to be confirmed?).\n Thanks in advance, and apologies if I sound a little nutty.\n    submitted by    /u/permabearish  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9ir81/do_i_need_to_confirm_an_operation_appointment_date/",
+          "publishedOn": "2024-04-21T14:08:04.000Z",
+          "wordCount": null,
+          "title": "Do I need to confirm an operation appointment date?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9ib2g/nhs_psychology_placement/",
+          "author": null,
+          "description": "I am an undergraduate psychology student who has an interview for a placement in the NHS. I am curious about the benefits of taking this placement as it is unpaid, and I am concerned whether the advantages (such as potentially securing a job more easily after university) outweigh the costs (such as increased university debt).\n Thanks. \n    submitted by    /u/Still_Technician2560  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9ib2g/nhs_psychology_placement/",
+          "publishedOn": "2024-04-21T13:47:38.000Z",
+          "wordCount": null,
+          "title": "NHS psychology placement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9hsvu/feeling_ignored_by_gp_what_can_i_do/",
+          "author": null,
+          "description": "Hi all, for a few years I've been having recurring abdominal pain, which seems to be chronic gastritis as I have all the symptoms.\n I first brought this up to my GP in 2022, which resulted in me taking prescribed omeprazole for 3 months. After no improvement, I was booked in for some blood tests to get some more insight. I was diagnosed with anemia and given iron supplements to take for some time, but still no answer as to what's causing my stomach pain.\n Once again there was no improvement, so I went to the GP again. This time I given a stool sample kit to detect h pylori, but apparently the results were \"inconclusive.\" I went in for some more blood tests, and still no answer for my stomach pain.\n This month, I went to the GP once again, this time outright asking for a referral/endoscopy. I expressed my frustrations, I explained as to why I think I have gastritis, autoimmune gastritis that this, as it is characterised by a lack of h pylori and anemia is a common symptom. The GP once again, completely blew me off, and gave me yet another stool sample kit which came back inconclusive and booked me in for yet another blood test.\n This has been going on for years and I'm frankly sick of it. I want a diagnosis and I want the proper treatment. I literally have every single marker of autoimmune gastritis. My abdominal pain is unbearable and all I get are iron supplements. What can I do??? \n    submitted by    /u/cheappapayasoap  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9hsvu/feeling_ignored_by_gp_what_can_i_do/",
+          "publishedOn": "2024-04-21T13:23:23.000Z",
+          "wordCount": null,
+          "title": "Feeling ignored by GP. What can I do?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9hqw4/clinical_trail_assistantcoordinator/",
+          "author": null,
+          "description": "Can someone please help me understand how to get into NHS as a Clinical trial assistant/coordinator? Background: I have just a year of Clinical trial experience working in university \n    submitted by    /u/thepatidev  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9hqw4/clinical_trail_assistantcoordinator/",
+          "publishedOn": "2024-04-21T13:20:40.000Z",
+          "wordCount": null,
+          "title": "Clinical trail assistant/coordinator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c9famx/nhs_full_medical_history/",
+          "author": null,
+          "description": "Is it even possible to get my full medical history from birth? I recently downloaded the NHS app & it shows which medication I am on, but it's not showing my medical condition! Which I've had since birth, it's not showing on the NHS app! I've been at my current doctors for 5 years & they're aware of my medical history. It says medical Condition 0. \n I asked my doctors & they asked me to put it in writing which I did. Does anyone know how long it will take to get my full medical history from birth if possible? Because I was really sick as a child. My mum told me had different medical issues which I later found out I didn't. thank you.\n Thank you to everyone. I have my medical records now. 163 pages. \n    submitted by    /u/Doctor-Anarchy84  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c9famx/nhs_full_medical_history/",
+          "publishedOn": "2024-04-21T11:08:53.000Z",
+          "wordCount": null,
+          "title": "NHS Full Medical History.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c94t3o/am_i_gaslighting_myself/",
+          "author": null,
+          "description": "I’ve recently been told that I have to transfer in to a new team after my training year (I don’t want to say the role incase I reveal myself).\n My first day of being in this team I was told by my line manager that they didn’t really see a place for me and that they’d help me create a CV for another job. \n Am I wrong in being upset about this? \n    submitted by    /u/Sea-Bet6824  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c94t3o/am_i_gaslighting_myself/",
+          "publishedOn": "2024-04-21T00:23:05.000Z",
+          "wordCount": null,
+          "title": "Am I gaslighting myself?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c913ar/what_therapeutic_support_do_nhs_staff_receive_if/",
+          "author": null,
+          "description": "TW for mention of death. \n I apologise for asking such a blunt question, but I’ve always wondered about this and wondered if anyone can inform me. \n I always think about the paramedic who informed me that my Mum had passed away, many years ago. She died in a very upsetting and traumatic way, and from what I understand, the visual would have been really upsetting. I did not see her. \n I always think of him and I wonder what kind of support he would have been given. Is there an official process? Is there mandatory counselling given after incidents like this? \n Thank you in advance, and apologies for the morbid question. \n    submitted by    /u/faeriesandfoxes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c913ar/what_therapeutic_support_do_nhs_staff_receive_if/",
+          "publishedOn": "2024-04-20T21:31:16.000Z",
+          "wordCount": null,
+          "title": "What therapeutic support do NHS staff receive if they have witnessed something extremely traumatic?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1c8w3h2/could_i_get_a_fine_if_the_pharmacy_put_in_the/",
+          "author": null,
+          "description": "I have a medical exemption card. When I went to get a prescription earlier, they said ‘and you have a pre-paid certificate right?’ And I said ‘no I have a medical exemption’ and they looked puzzled and said they have me down as pre-paid certificate. I showed my card, they then entered the correct type and all was fine. \n What has now worried me is I’ve collected prescriptions a couple of times from here previously, one last week and one in January. I’m pretty sure I showed my card then or said I had a medical exemption. Any chance they wrote down the wrong type at one point and now that’s stored on my file? Could I get penalised by the NHS BSA if it looks like l’ve claimed on this when I haven’t? Maybe they’d see if I have a medical exemption and it’d be ok, but not sure how their checking system works. \n I will go into the pharmacy tomorrow just to check with them, but thought I’d ask on here as it’s causing a little anxiety. Thank you \n    submitted by    /u/Severe-Marzipan-3145  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1c8w3h2/could_i_get_a_fine_if_the_pharmacy_put_in_the/",
+          "publishedOn": "2024-04-20T17:56:57.000Z",
+          "wordCount": null,
+          "title": "Could I get a fine if the pharmacy put in the wrong type of exemption on my prescription?",
+          "imageUrl": null
         }
       ]
     }
