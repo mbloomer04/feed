@@ -1505,7 +1505,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/women-in-prison-standards-to-improve-health-and-wellbeing",
+          "author": null,
+          "description": "These standards provide an approach for improving the health and wellbeing of women in prison.",
+          "link": "https://www.gov.uk/government/publications/women-in-prison-standards-to-improve-health-and-wellbeing",
+          "publishedOn": "2024-04-24T14:48:40.000Z",
+          "wordCount": 1029,
+          "title": "Guidance: Women in prison: standards to improve health and wellbeing",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -1819,6 +1830,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "author": null,
+          "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
+          "link": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "publishedOn": "2024-04-24T14:30:32.000Z",
+          "wordCount": 3300,
+          "title": "Guidance: Medicines that you cannot export from the UK or hoard",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/employment-advisers-in-musculoskeletal-pathways-application-guidance",
           "author": null,
@@ -3755,6 +3776,46 @@
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cc0ka7/question_on_conference_poster_name_inclusion/",
+          "author": null,
+          "description": "I completed a QI project with a colleague last year. I came up with the idea and did most of the work (probably a 70:30 split between us). We presented this and my name came first on the presentation. \n I would like to submit our work to a conference as a poster. I don't need my colleague's help for creating the abstract or the poster itself. Does their name still need to go on the poster as they were involved in the work that happened prior? My suspicion is probably it does but I thought I would just check! Thanks.\n    submitted by    /u/zincfingers90  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cc0ka7/question_on_conference_poster_name_inclusion/",
+          "publishedOn": "2024-04-24T15:06:40.000Z",
+          "wordCount": null,
+          "title": "Question on conference poster name inclusion etiquette.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cc07ge/what_is_the_most_worrying_issue_facing_the_doctor/",
+          "author": null,
+          "description": "View Poll\n    submitted by    /u/MisterMagnificent01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cc07ge/what_is_the_most_worrying_issue_facing_the_doctor/",
+          "publishedOn": "2024-04-24T14:52:30.000Z",
+          "wordCount": null,
+          "title": "What is the most worrying issue facing the doctor workforce at the moment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cbzbcf/adrenaline_strengths/",
+          "author": null,
+          "description": "Adrenaline is presented as 1:1000 and 1:10000 solutions. \n Does anyone know why we don't just say 1mg/ml or 0.1mg/ml? \n It just seems odd that we do it that way for such an important drug and often you get passed the wrong thing at arrests and such. And you end up back calculating in your brain for infusions. \n I don't ask for '1 in 100' propofol' or '1 in 200' bupivacaine. \n Is there some historical reason?\n Why stop there with the slightly confusing descriptions? Why not ask for one 60th of a grain of adrenaline from the apothecary? Is it just me who finds this more confusing than it should be?\n So many questions. \n    submitted by    /u/Similar_Zebra_4598  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cbzbcf/adrenaline_strengths/",
+          "publishedOn": "2024-04-24T14:15:50.000Z",
+          "wordCount": null,
+          "title": "Adrenaline strengths",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cbz5mv/gp_preferencing/",
+          "author": null,
+          "description": "Hi everyone, GP job preferencing has opened on Monday. \n My question is - do you have to rank all the jobs available within your deanery or just the ones you want eg 20-30 jobs? \n Many thanks in advance! \n    submitted by    /u/baby_dumpling1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cbz5mv/gp_preferencing/",
+          "publishedOn": "2024-04-24T14:09:20.000Z",
+          "wordCount": null,
+          "title": "GP preferencing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cbz3zf/pa_consultations_gmc_rcgp/",
           "author": null,
           "description": "Sat my AKT today and just received a schedule email from past me to complete the GMC and the RCGP PA consultations with links - so for folks who have also been putting it off due to other life commitments, here's a poke from past me\n https://www.smartsurvey.co.uk/s/GMC-regulating-aas-and-pas-consultation/\n https://www.bma.org.uk/media/wjnmmbsu/bma-gmc-maps-consultation.pdf \n RCGP link is individual I think so check your emails\n    submitted by    /u/gingrbiscuit  \n [link]   [comments]",
@@ -4661,6 +4722,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cc0m5o/how_long_to_get_a_detailed_coded_record_approval/",
+          "author": null,
+          "description": "Hi, I asked my surgery for my summary care record and then I saw that I could get my detailed coded record on the nhs app, (I currently only have access to the minimum information).\n I just wanted to check, are these two separate things? The surgery sounded like my summary care record could take a while but I am wondering if getting the app access will be faster and if I should ask for that instead/as well. I don’t want to clog up my surgery with requests but I wanted to get the information asap as I think there might be some things I need to address and it seems like granting app access should be straightforward?\n    submitted by    /u/AdministrativeSet419  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cc0m5o/how_long_to_get_a_detailed_coded_record_approval/",
+          "publishedOn": "2024-04-24T15:08:53.000Z",
+          "wordCount": null,
+          "title": "How long to get a detailed coded record approval for nhs app",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cbtpod/speech_therapy/",
           "author": null,
