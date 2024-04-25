@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-25T00:42:39.321Z</updated>
+    <updated>2024-04-25T01:48:17.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[is there an API to find NHS stats historicals?]]></title>
+        <id>https://www.reddit.com/r/nhs/comments/1ccft1y/is_there_an_api_to_find_nhs_stats_historicals/</id>
+        <link href="https://www.reddit.com/r/nhs/comments/1ccft1y/is_there_an_api_to_find_nhs_stats_historicals/"/>
+        <updated>2024-04-25T01:42:04.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for historical statistics for NHS doctors by nationality https://commonslibrary.parliament.uk/research-briefings/cbp-7783/
+ is there an api for this? ty
+    submitted by    /u/Fair-Bookkeeper-1833  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>The NHS - The National Health Service</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS trust paying less than minimum wage]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1ccdeq9/nhs_trust_paying_less_than_minimum_wage/</id>
