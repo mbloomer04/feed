@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-25T02:20:21.018Z</updated>
+    <updated>2024-04-25T03:09:59.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seeking advice on working as a service resident in Hong Kong]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1cchj2n/seeking_advice_on_working_as_a_service_resident/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1cchj2n/seeking_advice_on_working_as_a_service_resident/"/>
+        <updated>2024-04-25T03:06:44.000Z</updated>
+        <summary type="html"><![CDATA[I have four years of experience as an associated consultant elsewhere and have recently been offered a position as a service resident in Hong Kong. Could you offer any advice?
+    submitted by    /u/Civil-Marsupial-6705  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[is there an API to find NHS stats historicals?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1ccft1y/is_there_an_api_to_find_nhs_stats_historicals/</id>
@@ -6333,16 +6345,6 @@ Reproducible analytical pipelines (RAP) are automated statistical and analytica
         <summary type="html"><![CDATA[Dr Lucy Henshall and Penny Flack explain how their initiative Welcome Back To Work helps support GPs who have taken time away back into the workplace – and why we need a more flexible approach to GP retention at both a regional and national level.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO calls for greater attention to violence against women with disabilities and older women]]></title>
-        <id>urn:uuid:b61d4746-3eef-47d1-a7b2-e451f21eb46f</id>
-        <link href="https://www.who.int/news/item/27-03-2024-who-calls-for-greater-attention-to-violence-against-women-with-disabilities-and-older-women"/>
-        <updated>2024-03-26T14:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Older women and women with disabilities face particular risk of abuse, yet their situation is largely hidden in most global and national violence-related data, according to two new publications released today by the World Health Organization (WHO).]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
