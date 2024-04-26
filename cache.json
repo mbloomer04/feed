@@ -1020,6 +1020,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1870368",
+          "author": null,
+          "description": "Londonwide LMCs has written to ICBs across the capital to ask what they are doing to improve GP retention, a year after a report warned of 'spiralling attrition' in the workforce.",
+          "link": "https://www.gponline.com/lmc-demands-icb-update-halting-spiralling-attrition-gp-workforce/article/1870368",
+          "publishedOn": "2024-04-26T08:30:59.000Z",
+          "wordCount": 702,
+          "title": "LMC demands ICB update on halting 'spiralling attrition' in GP workforce",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Lisa-Harrod-Rothwell-landscape_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1870286",
           "author": null,
           "description": "Health experts have called for more general practice funding after a study found young people, ethnic minorities and those in deprived areas have more visits to GP practices before a cancer diagnosis.",
@@ -1028,6 +1038,16 @@
           "wordCount": 710,
           "title": "Young people and ethnic minorities have more GP visits before cancer diagnosis",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_trainee-GettyImages-sturti_4.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1870241",
+          "author": null,
+          "description": "Talking General Practice speaks to Jake Beech, a policy fellow from the Health Foundation, about a project he's involved with that is aiming to change the way we think about access in general practice.",
+          "link": "https://www.gponline.com/podcast-rethinking-access-general-practice/article/1870241",
+          "publishedOn": "2024-04-26T07:15:00.000Z",
+          "wordCount": 1008,
+          "title": "Podcast: Rethinking access in general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGPwithJakeBeech.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1870218",
@@ -2894,6 +2914,36 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:129f3725-f875-47a6-84bc-6fc0db03f6ae",
+          "author": null,
+          "description": "WHO classifies antibiotics as per AWaRe (Access, Watch, Reserve) classification, according to the risk of AMR. Concerningly, the study found that ‘Watch’ antibiotics with higher resistance potential were most frequently prescribed globally.",
+          "link": "https://www.who.int/news/item/26-04-2024-who-reports-widespread-overuse-of-antibiotics-in-patients--hospitalized-with-covid-19",
+          "publishedOn": "2024-04-26T07:20:48.000Z",
+          "wordCount": 2126,
+          "title": "WHO reports widespread overuse of antibiotics in patients \r\nhospitalized with COVID-19",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/antimicrobial-resistance/dsc_2469.tmb-1200v.jpg?sfvrsn=77847193_1"
+        },
+        {
+          "id": "urn:uuid:e3afcaf9-4de5-4fd6-b5ce-35bfcd9f2584",
+          "author": null,
+          "description": "The event is taking place on 26-27 April 2024 at the Institut Pasteur and is supported by prominent athletes advocating on the cause ahead of the Paris Paralympics.",
+          "link": "https://www.who.int/news/item/26-04-2024-who-and-france-convene-high-level-meeting-to-defeat-meningitis--paralympians-join-effort-to-tackle-deadly-disease",
+          "publishedOn": "2024-04-25T15:42:13.000Z",
+          "wordCount": 3338,
+          "title": "WHO and France convene high-level meeting to defeat meningitis",
+          "imageUrl": "https://www.who.int/images/default-source/departments/immunization-ivb/meningitis/_dsc6106.tmb-1200v.jpg?Culture=en&sfvrsn=999d74e8_1"
+        },
+        {
+          "id": "urn:uuid:c15cf0eb-fa95-4344-879b-f4d7cf9f7747",
+          "author": null,
+          "description": "WHO welcomed Mr Javier Padilla Bernáldez, Spain’s Secretary of State for Health and his delegation on 23 and 24 April 2024 to discuss joint global health priorities. Amongst others, Spain's focus is on universal health coverage and health systems strengthening; pandemic response and emergency medical teams; organ and tissue transplantation; malaria and other tropical diseases; and polio.\nDuring the visit, participants focused on plans and on-going work across a number of areas, including WHO’s Transplantation Program to increase availability; ethical access and oversight of transplantation of human cells; tissues and organs. They also discussed social determinants of health; tobacco and alcohol control; primary health care; access to medicines; universal health coverage; ensuring healthy l…",
+          "link": "https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who",
+          "publishedOn": "2024-04-25T08:39:54.000Z",
+          "wordCount": 2097,
+          "title": "Spain's Secretary of State for Health discusses health priorities with WHO",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/funding/spain-and-who_mr-javier-padilla-and-mike-ryan.tmb-1200v.jpg?sfvrsn=d0e727c6_1"
+        },
+        {
           "id": "urn:uuid:d586a4c7-d8e1-481d-88b2-7b0d72f03051",
           "author": null,
           "description": "A major landmark study to be published by The Lancet reveals that global immunization efforts have saved an estimated 154 million lives – or the equivalent of 6 lives every minute of every year – over the past 50 years. The vast majority of lives saved – 101 million – were those of infants. \nThe study, led by the World Health Organization (WHO), shows that immunization is the single greatest contribution of any health intervention to ensuring babies not only see their first birthdays but continue leading healthy lives into adulthood. \nOf the vaccines included in the study, the measles vaccination had the most significant impact on reducing infant mortality, accounting for 60% of the lives saved due to immunization. This vaccine will likely remain the top contributor to preventing deaths in…",
@@ -3994,6 +4044,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cdg4le/the_lampard_inquiry_into_2000_mental_health/",
+          "author": null,
+          "description": "Some may be unaware of the big issue. Basically the Inquiry is investigating 2000 mental health deaths in across NHS trusts in Essex. The Inquiry has been given legal powers to compel witnesses to give evidence (but only after pressure from relatives and the Chair of the Inquiry. \n \"Dr Geraldine Strathdee [.....] had said she could not effectively do her job without those powers. She said only 30% of named staff – those essential witnesses involved in deaths she was investigating – had agreed to attend evidence sessions.\" Read all about it! https://www.theguardian.com/society/2023/jun/28/inquiry-mental-health-deaths-essex-nhs-trusts-given-legal-powers\n Check the Inquiry website for more details: https://lampardinquiry.org.uk/\n Nobody should be under any illusion that excess deaths among mental health patients isolated just to a patch in Essex. \n I've been pissing in the wind and foaming at the mouth about the state of care in mental health services for the last 10 years. It is indeed deplorable that 'people have to die' before anyone takes real notice. But.. but.. that's how the Empire works. 'You' could spot the same pattern of operation in several other spheres of UK life. \n Well in the background I have factual inside information that lawyers are queuing up to sue (somebody). Who's going down? Some from high command and some low hanging fruit. \n Who'll be going up? Where? Why that'll be 'some doctors' to the sacrificial altar of the GMC!! What - you don't believe it? Just wait. \n Horror stories in your patch of mental health services? Do share anonymously (no details that may identify an organisation or individual, or that are before a court or likely to be before a court). Not necessarily about deaths but what about abysmal care? \n    submitted by    /u/Capitan_Walker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cdg4le/the_lampard_inquiry_into_2000_mental_health/",
+          "publishedOn": "2024-04-26T08:24:54.000Z",
+          "wordCount": null,
+          "title": "The Lampard Inquiry into 2000 mental health deaths goes into gear!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cdffyq/trust_over_payments/",
           "author": null,
