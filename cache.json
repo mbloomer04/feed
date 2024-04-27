@@ -1628,26 +1628,6 @@
           "wordCount": 741,
           "title": "Which forms of industrial action would GPs be prepared to take?",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1867124",
-          "author": null,
-          "description": "Almost three-quarters of GPs are prepared to take industrial action in the coming year, a GPonline poll suggests.",
-          "link": "https://www.gponline.com/three-quarters-gps-prepared-industrial-action-poll-suggests/article/1867124",
-          "publishedOn": "2024-03-28T15:42:05.000Z",
-          "wordCount": 695,
-          "title": "Three quarters of GPs prepared to take industrial action, poll suggests",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-944882704_3.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1867111",
-          "author": null,
-          "description": "GPs' overwhelming rejection of the 2024/25 contract in a BMA referendum shows the profession is 'at boiling point' after being bullied and gaslit for years, England's GP committee chair has warned.",
-          "link": "https://www.gponline.com/general-practice-at-boiling-point-years-bullying-bma-gp-chair-warns/article/1867111",
-          "publishedOn": "2024-03-28T15:17:50.000Z",
-          "wordCount": 736,
-          "title": "General practice 'at boiling point' after years of bullying, BMA GP chair warns",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_7.jpg"
         }
       ]
     },
@@ -1682,6 +1662,16 @@
           "wordCount": 1319,
           "title": "Putting people and partnership at the centre of clinical research",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/inclusive-design-lead-image.jpg"
+        },
+        {
+          "id": "43193d17-c8c4-4b14-a0d7-1c61be17c5f2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research",
+          "publishedOn": "2024-04-17T10:01:59.000Z",
+          "wordCount": 1294,
+          "title": "Putting people and partnership at the centre of clinical research",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/inclusive-design-lead-image.jpg"
         }
       ]
     },
@@ -1707,7 +1697,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "43193d17-c8c4-4b14-a0d7-1c61be17c5f2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research",
+          "publishedOn": "2024-04-17T10:01:59.000Z",
+          "wordCount": 1294,
+          "title": "Putting people and partnership at the centre of clinical research",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/inclusive-design-lead-image.jpg"
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
