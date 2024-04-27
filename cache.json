@@ -124,16 +124,6 @@
           "wordCount": 546,
           "title": "CC-4472 - Critical Vulnerability in Imperva SecureSphere Web Application Firewall",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "8042aad2-c2b2-4c67-9597-bf4fe34ddf4f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security updates address vulnerabilities affecting Splunk Enterprise and Splunk Cloud\n Security updates address vulnerabilities affecting Splunk Enterprise and Splunk Cloud\n Updated: 28 Mar 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4471",
-          "publishedOn": "2024-03-28T11:12:00.000Z",
-          "wordCount": 670,
-          "title": "CC-4471 - Splunk Releases Security Updates",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1658,26 +1648,6 @@
           "wordCount": 736,
           "title": "General practice 'at boiling point' after years of bullying, BMA GP chair warns",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_7.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1867080",
-          "author": null,
-          "description": "The global sum payments per weighted patient that practices receive will rise to £107.57 under the 2024/25 GP contract in England.",
-          "link": "https://www.gponline.com/gp-core-funding-rise-284-per-weighted-patient-2024-25/article/1867080",
-          "publishedOn": "2024-03-28T12:28:18.000Z",
-          "wordCount": 704,
-          "title": "GP core funding to rise by £2.84 per weighted patient in 2024/25",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-740532487(1)(1).jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1867059",
-          "author": null,
-          "description": "Thousands of GPs have voted almost unanimously to reject the 2024/25 GP contract in a landmark referendum carried out by the BMA.",
-          "link": "https://www.gponline.com/gp-referendum-delivers-overwhelming-rejection-2024-25-contract/article/1867059",
-          "publishedOn": "2024-03-28T11:21:36.000Z",
-          "wordCount": 878,
-          "title": "GP referendum delivers overwhelming rejection of 2024/25 contract",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_5.jpg"
         }
       ]
     },
@@ -3807,6 +3777,16 @@
       "feedUrl": "https://www.reddit.com/r/GPUK.rss",
       "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1cdzhu9/request_early_cct/",
+          "author": null,
+          "description": "Hi all\n I’m on a standard training programme, now ST3 with AKT and SCA passed, portfolio completed and support from ES to CCT. However, my CCT date is set at Dec 24. Is there any way to reduce it? \n    submitted by    /u/SignificantIsopod797  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1cdzhu9/request_early_cct/",
+          "publishedOn": "2024-04-26T23:09:47.000Z",
+          "wordCount": null,
+          "title": "Request early CCT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/GPUK/comments/1cdz4tw/section_47_form_and_care_inspectorate/",
           "author": null,
@@ -6411,6 +6391,26 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ce1dm3/nhs_recruitment_outside_tracjobs/",
+          "author": null,
+          "description": "I currently have a job offer with an NHS trust, and I was told a week ago that my CoS is still being processed (waiting for 1.5 months now) and I was asked for further docs (IELTS, TB docs, proof of funds, etc which are technically visa requirements, but I complied anyway). I have applied for this opening via trac jobs.\n However, I've been contacted by certain recruiters on linkedin in the past few days, offering to discuss opportunities they have with the NHS. I've told them that I have an offer, and that the CoS is currently being processed. Then they've begun offering the possibility of quicker processing and deployment. They've also asked me to send them my CV, which I have not done as of writing.\n Is it possible at all for legitimate NHS recruitment/application to be done outside trac? Moreover, with the recent change in immigration policies, how can they guarantee people with quicker processing times?\n    submitted by    /u/anak_kuc1ng  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ce1dm3/nhs_recruitment_outside_tracjobs/",
+          "publishedOn": "2024-04-27T00:37:16.000Z",
+          "wordCount": null,
+          "title": "NHS recruitment outside trac.jobs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ce0r3t/is_it_reasonable_to_ask_nhs_physio_to_show_me/",
+          "author": null,
+          "description": "They recommended me some exercises for my issue. I asked if they could tell me which ones and they just told me to google it and that I'd find something.\n They certainly didn't seem pressed for time, so I'm not sure why they couldn't have demonstrated them or at least printed some out for me? Is this really something I need to go private for or is the NHS actually of some utility here?\n    submitted by    /u/MediumAcanthaceae486  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ce0r3t/is_it_reasonable_to_ask_nhs_physio_to_show_me/",
+          "publishedOn": "2024-04-27T00:07:37.000Z",
+          "wordCount": null,
+          "title": "Is it reasonable to ask NHS physio to show me some exercises during the appointment?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cdv3yi/bowel_cancer_screening_programme_adminmla/",
           "author": null,
