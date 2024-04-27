@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-04-27T08:11:11.975Z</updated>
+    <updated>2024-04-27T09:08:33.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -505,6 +505,23 @@
  [link]   [comments]]]></summary>
         <author>
             <name>GPUK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement on the antigen composition of COVID-19 vaccines]]></title>
+        <id>urn:uuid:7816f349-7d85-4411-851a-a42ec2bae4c1</id>
+        <link href="https://www.who.int/news/item/26-04-2024-statement-on-the-antigen-composition-of-covid-19-vaccines"/>
+        <updated>2024-04-26T15:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Key points
+
+SARS-CoV-2 continues to circulate and evolve with important genetic and antigenic evolution of the spike protein.
+The objective of an update to COVID-19 vaccine antigen composition is to enhance vaccine-induced immune responses to circulating SARS-CoV-2 variants.
+As the virus is expected to continue to evolve from JN.1, the TAG-CO-VAC advises the use of a monovalent JN.1 lineage as the antigen in future formulations of COVID-19 vaccines.
+In accordance with WHO SAGE policy, vaccination programmes should continue to use any of the WHO emergency-use listed or prequalified COVID-19 vaccines and vaccination should not be delayed in anticipation of access to vaccines with an updated composition.
+
+The WHO Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC) meets regu…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

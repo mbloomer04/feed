@@ -2944,6 +2944,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:7816f349-7d85-4411-851a-a42ec2bae4c1",
+          "author": null,
+          "description": "Key points\n\nSARS-CoV-2 continues to circulate and evolve with important genetic and antigenic evolution of the spike protein.\nThe objective of an update to COVID-19 vaccine antigen composition is to enhance vaccine-induced immune responses to circulating SARS-CoV-2 variants.\nAs the virus is expected to continue to evolve from JN.1, the TAG-CO-VAC advises the use of a monovalent JN.1 lineage as the antigen in future formulations of COVID-19 vaccines.\nIn accordance with WHO SAGE policy, vaccination programmes should continue to use any of the WHO emergency-use listed or prequalified COVID-19 vaccines and vaccination should not be delayed in anticipation of access to vaccines with an updated composition.\n\nThe WHO Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC) meets regu…",
+          "link": "https://www.who.int/news/item/26-04-2024-statement-on-the-antigen-composition-of-covid-19-vaccines",
+          "publishedOn": "2024-04-26T15:36:35.000Z",
+          "wordCount": 4324,
+          "title": "Statement on the antigen composition of COVID-19 vaccines",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/nurse-with-covid-vaccine-vial.tmb-1200v.jpg?sfvrsn=f3c5d966_4"
+        },
+        {
           "id": "urn:uuid:129f3725-f875-47a6-84bc-6fc0db03f6ae",
           "author": null,
           "description": "WHO classifies antibiotics as per AWaRe (Access, Watch, Reserve) classification, according to the risk of AMR. Concerningly, the study found that ‘Watch’ antibiotics with higher resistance potential were most frequently prescribed globally.",
