@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "4b98a565-9986-4331-aff1-5b47313002b8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Four vulnerabilities could lead to unauthenticated RCE and six others could lead to DoS\n Four vulnerabilities could lead to unauthenticated RCE and six others could lead to DoS\n Updated: 01 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4484",
+          "publishedOn": "2024-05-01T10:40:00.000Z",
+          "wordCount": 706,
+          "title": "CC-4484 - HPE Aruba Networking Releases Critical Security Updates For ArubaOS",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1714496068745/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "6df5a7ac-feb5-47f3-a380-3a8d185cbc9b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n The security advisory addresses three vulnerabilities in Cisco ASA and FTD software that are being actively exploited in the ArcaneDoor campaign\n The security advisory addresses three vulnerabilities in Cisco ASA and FTD software that are being actively exploited in the ArcaneDoor campaign\n Updated: 25 Apr 2024",
@@ -132,6 +142,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147082",
+          "author": "Maya Dhillon",
+          "description": "Editor Jaimie Kaffash reflects on the role of the GMC in light of Dr Sarah Benn’s suspension for taking part in climate change protests I suspect the majority of readers won’t get past the headline. But, in this case, it is not a rhetorical question. I’m asking the question in the wake of the Dr\nThe post What is the point of the GMC? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/what-is-the-point-of-the-gmc/",
+          "publishedOn": "2024-05-01T14:12:03.000Z",
+          "wordCount": 3716,
+          "title": "What is the point of the GMC?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/Jaimie_Kaffash_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147081",
           "author": "Anna Colivicchi",
@@ -2099,6 +2119,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "author": null,
+          "description": "Proportion of payments made within 5 and 30 working days.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "publishedOn": "2024-05-01T14:40:39.000Z",
+          "wordCount": 1706,
+          "title": "Transparency data: Department of Health and Social Care prompt payment of suppliers",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/abortion-notification-forms-for-england-and-wales",
           "author": null,
@@ -4178,6 +4208,16 @@
       "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/GPUK/comments/1chnmuv/recruiting_gps_research_on_medications_in_obesity/",
+          "author": null,
+          "description": "submitted by    /u/listeninginstudy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1chnmuv/recruiting_gps_research_on_medications_in_obesity/",
+          "publishedOn": "2024-05-01T14:31:41.000Z",
+          "wordCount": null,
+          "title": "Recruiting GPs - research on medications in obesity care (moderator approved)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/GPUK/comments/1ch7qe5/ltft_80_in_st2/",
           "author": null,
           "description": "Hello, I plab to work LTFT in ST2 in Glasgow. My 2 rotations are gynae and obs (QEUH) and A&E (GRI) I was wondering if it is a good idea to go less than full time? As I have been told we get less pay, less days off, and also are rest days are taken away. And at the end you have to return all this time anyways. Now I am wondering if it is worth going LTFT or not. Only deal breaker for me would be, if people working full time are getting more rest days than I am, and have more AL. So eventually no difference between my hours and their's \n    submitted by    /u/Odd_Entrance_640  \n [link]   [comments]",
@@ -4845,6 +4885,56 @@
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chno2y/interdeanery_transfer/",
+          "author": null,
+          "description": "Hi folks! Is there anyone who has successfully transferred to NI from England? Im just wondering how feasible that is given NI has a small deanery in the diagnostic specialties. \n    submitted by    /u/H-pylori-21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chno2y/interdeanery_transfer/",
+          "publishedOn": "2024-05-01T14:33:12.000Z",
+          "wordCount": null,
+          "title": "Interdeanery transfer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chnjyi/chemical_pathology_training/",
+          "author": null,
+          "description": "Hi all. I’m a GP ST3 in London, thinking about pursuing training in chemical pathology alongside working as a part time GP. Got a few questions in mind re work as a chem path registrar. Any chem path trainees I can get in touch with? \n    submitted by    /u/Afraid_Chemist7858  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chnjyi/chemical_pathology_training/",
+          "publishedOn": "2024-05-01T14:28:16.000Z",
+          "wordCount": null,
+          "title": "Chemical pathology training",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chnglf/question_about_bh_in_lieu_days/",
+          "author": null,
+          "description": "If I finish a stretch of nights on the morning of a Bank Holiday and have an off day am I entitled to a day off in lieu for it since I'll be sleeping off my nights or not? Thanks\n    submitted by    /u/Busy-GiGi-4475  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chnglf/question_about_bh_in_lieu_days/",
+          "publishedOn": "2024-05-01T14:24:04.000Z",
+          "wordCount": null,
+          "title": "Question about BH in lieu days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chnb2i/people_finally_waking_up_and_realising_paying_a/",
+          "author": null,
+          "description": "submitted by    /u/Poof_Of_Smoke  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chnb2i/people_finally_waking_up_and_realising_paying_a/",
+          "publishedOn": "2024-05-01T14:17:26.000Z",
+          "wordCount": null,
+          "title": "People finally waking up and realising paying a glorified HCA band 7 pay is unsustainable.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chn60s/well_this_is_new/",
+          "author": null,
+          "description": "Reminder to PAs and AAs not to ‘accidentally’ prescribe has just been added as a warning at log in at a big shiny teaching hospital in London. \n    submitted by    /u/gojotec736  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chn60s/well_this_is_new/",
+          "publishedOn": "2024-05-01T14:11:25.000Z",
+          "wordCount": null,
+          "title": "Well, this is new!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1chmeac/shortlist_unsuccessful_but_now_suddenly_invited/",
           "author": null,
           "description": "Hi all, FY2 here - earlier this year I received a rejection for my ST1 O&G application (Shortlist unsuccessful) and so I applied to some clinical fellow jobs. I got a message the day after saying:\n  \nApplication Status changed to \"Shortlist unsuccessful\" from \"Longlisted\".\n  \nToday I've received an email saying:\n  \nwe are now pleased to let you know that you invited to attend ST1 O&G interviews on either 23rd or 24th May\n  \n(yes they missed some words there)\n It's from Oriel so I know the message is not a scam but I know Oriel can be a bit weird/poorly managed so is this actually legit, i.e. something that can happen? My dashboard still says \"Shortlist unsuccessful\" though.\n Trying to hold off being prematurely happy because I don't want to be disappointed! And what could have led to this change? I got a score of 521 if that helps.\n Thank you for any help.\n    submitted by    /u/RC211V  \n [link]   [comments]",
@@ -4852,6 +4942,16 @@
           "publishedOn": "2024-05-01T13:37:49.000Z",
           "wordCount": null,
           "title": "Shortlist Unsuccessful but now suddenly invited to interview??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1chlqi2/australian_looking_to_train_in_plastics/",
+          "author": null,
+          "description": "Hey guys, I’m an Australian citizen and I’ve lived in Europe my entire life due to family reasons. I recently moved to UK and currently working in surgery as Trust Grade Doctor at ST1/2 level.\n I’m looking to reconstructive surgery in the future and am just wondering if anyone has any advice regarding training in plastics. Is it better here or there? Where do I have a better chance of getting into training?\n What’s better in terms of salary and work-life balance?\n Thanks 🙏 \n    submitted by    /u/RadiantMail7028  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1chlqi2/australian_looking_to_train_in_plastics/",
+          "publishedOn": "2024-05-01T13:07:09.000Z",
+          "wordCount": null,
+          "title": "Australian looking to train in plastics",
           "imageUrl": null
         },
         {
