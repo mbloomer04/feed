@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-02T01:45:10.189Z</updated>
+    <updated>2024-05-02T02:19:50.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maternity leave advice]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1ci49rz/maternity_leave_advice/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1ci49rz/maternity_leave_advice/"/>
+        <updated>2024-05-02T02:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, Just needed some advice with regards to accrued annual leave during maternity leave.
+ I am due to start maternity leave in the next 10 weeks or so (I am an FY1), unfortunately in my second rotation I wasn’t signed off due to absences related to hyperemesis and my final rotation I will end up going on maternity leave a month before the rotation ends so will need to repeat this rotation too when I am back.
+ I have been in contact with my foundation program coordinator to query about adding my accrued annual leave during maternity leave to the end of my maternity leave, however she said this was a employment query so I contacted medical staffing at my hospital. 
+ Medical staffing said I had to contact my line manager (again confused but was told this would be rota coordinators for each department ). I am very confused as I do not know what rotations I will be returning to as I cannot ask my scheduled f2 rotations rota coordinator about taking accrued annual leave as I still have 2 Fy1 rotations to repeat
+ I have explained this to medical staffing multiple times in emails but no one seems to understand and keep telling me to go to the foundation school. 
+ The foundation school keep referring me back to medical staffing as annual leave is an ‘employment issue’ and not something they would address.
+ I am really confused on what my next steps are and how to actually contact someone about my accrued annual leave, 
+ Need to sort out housing and location for maternity leave and knowing whether I can take those accrued days would be very useful but have been back and forth emailing for weeks without a proper response.
+ Any advice would be greatly appreciated 
+    submitted by    /u/Accomplished-Use-108  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I need a medical Advise]]></title>
         <id>https://www.reddit.com/r/doctorsUK/comments/1ci3dh2/i_need_a_medical_advise/</id>
@@ -12956,16 +12976,6 @@ One of the guiding principles of the ‘Register with a GP surgery’ service is
  Updated: 03 Apr 2024]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO unveils a digital health promoter harnessing generative AI for public health]]></title>
-        <id>urn:uuid:f8d5b685-582f-4698-9b63-bfee7f257484</id>
-        <link href="https://www.who.int/news/item/02-04-2024-who-unveils-a-digital-health-promoter-harnessing-generative-ai-for-public-health"/>
-        <updated>2024-04-02T13:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of World Health Day, focused on ‘My Health, My Right’, the World Health Organization (WHO) announces the launch of S.A.R.A.H., a digital health promoter prototype with enhanced empathetic response powered by generative artificial intelligence (AI).]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
