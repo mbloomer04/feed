@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-02T02:19:50.649Z</updated>
+    <updated>2024-05-02T03:10:09.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -12963,19 +12963,6 @@ One of the guiding principles of the ‘Register with a GP surgery’ service is
         <summary type="html"><![CDATA[Reform - The paper argues that an overly centralised healthcare system is impeding the transition to a more preventative model of care, tailored to local population need. It sets out an alternative vision designed to align incentives in the system to prioritise health creation, reorient healthcare to focus on primary and community services, improve healthcare outcomes, and help achieve long-run...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4473 - Critical Vulnerability in XZ Utils for Linux]]></title>
-        <id>3c333f3d-b3b7-4416-a6b2-72e7667423fe</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4473"/>
-        <updated>2024-04-02T14:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
-  A critical vulnerability in XZ Utils could lead to RCE
-  A critical vulnerability in XZ Utils could lead to RCE
- Updated: 03 Apr 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>

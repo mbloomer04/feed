@@ -114,16 +114,6 @@
           "wordCount": 543,
           "title": "CC-4474 - Ivanti Releases Security Updates for Connect Secure and Policy Secure Gateways",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "3c333f3d-b3b7-4416-a6b2-72e7667423fe",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n  A critical vulnerability in XZ Utils could lead to RCE\n  A critical vulnerability in XZ Utils could lead to RCE\n Updated: 03 Apr 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4473",
-          "publishedOn": "2024-04-02T14:48:00.000Z",
-          "wordCount": 814,
-          "title": "CC-4473 - Critical Vulnerability in XZ Utils for Linux",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
