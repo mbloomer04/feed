@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-02T00:39:59.667Z</updated>
+    <updated>2024-05-02T01:45:10.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I need a medical Advise]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1ci3dh2/i_need_a_medical_advise/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1ci3dh2/i_need_a_medical_advise/"/>
+        <updated>2024-05-02T01:32:05.000Z</updated>
+        <summary type="html"><![CDATA[I was diagnosed with an anal fistula about 6 months ago and in the last 2 months it has not discharged any pus, so is it ok if I don't get it operated?
+    submitted by    /u/Quiet_System_2007  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What exactly is an Appointment Coordinator?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1ci1mfx/what_exactly_is_an_appointment_coordinator/</id>
@@ -12954,19 +12966,6 @@ One of the guiding principles of the ‘Register with a GP surgery’ service is
         <summary type="html"><![CDATA[Ahead of World Health Day, focused on ‘My Health, My Right’, the World Health Organization (WHO) announces the launch of S.A.R.A.H., a digital health promoter prototype with enhanced empathetic response powered by generative artificial intelligence (AI).]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4472 - Critical Vulnerability in Imperva SecureSphere Web Application Firewall]]></title>
-        <id>e671a261-8d72-41a6-b55d-93481fc7db00</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4472"/>
-        <updated>2024-04-02T12:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- The critical vulnerability could allow an attacker to bypass Web Application Firewall (WAF) rules
- The critical vulnerability could allow an attacker to bypass Web Application Firewall (WAF) rules
- Updated: 02 Apr 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>

@@ -124,16 +124,6 @@
           "wordCount": 814,
           "title": "CC-4473 - Critical Vulnerability in XZ Utils for Linux",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "e671a261-8d72-41a6-b55d-93481fc7db00",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The critical vulnerability could allow an attacker to bypass Web Application Firewall (WAF) rules\n The critical vulnerability could allow an attacker to bypass Web Application Firewall (WAF) rules\n Updated: 02 Apr 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4472",
-          "publishedOn": "2024-04-02T12:43:00.000Z",
-          "wordCount": 546,
-          "title": "CC-4472 - Critical Vulnerability in Imperva SecureSphere Web Application Firewall",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -4844,6 +4834,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ci3dh2/i_need_a_medical_advise/",
+          "author": null,
+          "description": "I was diagnosed with an anal fistula about 6 months ago and in the last 2 months it has not discharged any pus, so is it ok if I don't get it operated?\n    submitted by    /u/Quiet_System_2007  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ci3dh2/i_need_a_medical_advise/",
+          "publishedOn": "2024-05-02T01:32:05.000Z",
+          "wordCount": null,
+          "title": "I need a medical Advise",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1ci160s/stethoscope_upgrade/",
           "author": null,
