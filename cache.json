@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c257cad3-bae7-4884-939c-25a44a1f20af",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of the vulnerabilities could allow an attacker to create a DoS condition, record user credentials, replay VOIP calls, or initiate calls on the device\n Exploitation of the vulnerabilities could allow an attacker to create a DoS condition, record user credentials, replay VOIP calls, or initiate calls on the device\n Updated: 02 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4485",
+          "publishedOn": "2024-05-02T13:25:00.000Z",
+          "wordCount": 897,
+          "title": "CC-4485 - Cisco Releases Security Advisory for Cisco IP Phones",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1714496068745/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "4b98a565-9986-4331-aff1-5b47313002b8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Four vulnerabilities could lead to unauthenticated RCE and six others could lead to DoS\n Four vulnerabilities could lead to unauthenticated RCE and six others could lead to DoS\n Updated: 01 May 2024",
@@ -4925,6 +4935,16 @@
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cig0ek/let_them_hear_you_i_believe_in_you_rdoctorsuk/",
+          "author": null,
+          "description": "submitted by    /u/Azndoctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cig0ek/let_them_hear_you_i_believe_in_you_rdoctorsuk/",
+          "publishedOn": "2024-05-02T13:43:05.000Z",
+          "wordCount": null,
+          "title": "Let them hear you, I believe in you r/doctorsuk",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1ciel4y/toot_specialty_training/",
           "author": null,
           "description": "How much TOOT is allowed for CST and IMT? \n    submitted by    /u/heartmedic  \n [link]   [comments]",
@@ -9371,6 +9391,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cifxqy/probation_extended_for_3_months_are_they_getting/",
+          "author": null,
+          "description": "I work in MH services and my probation has been extended by 3 months.\n During my 3 month probation review I had made a big mistake (but took accountability and learned from it!) and it was highlighted I didn’t always engage with other staff as well as I could of, alongside making inappropriate jokes.\n I accepted this and was more mindful however I then learnt one of my coworkers took a dislike to me which really affected me, my MH and my ability to do my job. I spoke to management and this was smoothed over.\n My 6 month probation I failed and the same things were highlighted although I shared I felt this was unfair due to making improvements. \n I had lots of positive feedback however the same issues were still present (apparently) although I was never advised of this and was never told about this.\n I was told this would be extended 3 months and my matron said that it’s fine and she wants to support me the best she can and will do everything to help me alongside start sending emails with any concerns or difficulties so there is a paper trail they can show HR to show I’m doing well. They also said it was going to be extended 6 weeks however it’s now going to be 3 months as it protects the trust from being accused of unfair dismissal.\n My concerns are has this been extended as they wish to fire me? MH is so subjective and it really depends on who is manager that day! They’ve dated it so I’m only on probation 10 weeks but I’m absolutely terrified I’m going to lose my job! \n Has anyone else had this happen?\n    submitted by    /u/Leadership-Good  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cifxqy/probation_extended_for_3_months_are_they_getting/",
+          "publishedOn": "2024-05-02T13:39:55.000Z",
+          "wordCount": null,
+          "title": "Probation extended for 3 months?? Are they getting ready to fire me?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cid885/biomedical_support_worker/",
           "author": null,
