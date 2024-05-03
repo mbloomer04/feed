@@ -1290,6 +1290,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1871307",
+          "author": null,
+          "description": "NHS officials are close to finalising a new patient safety policy for primary care that will aim to learn from and reduce cases of avoidable harm.",
+          "link": "https://www.gponline.com/nhs-england-finalising-new-patient-safety-policy-primary-care/article/1871307",
+          "publishedOn": "2024-05-03T07:30:00.000Z",
+          "wordCount": 880,
+          "title": "NHS England finalising new patient safety policy for primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1871237",
+          "author": null,
+          "description": "The GPonline team looks at what happened to the GP workforce in England over the course of the five-year contract, how drug shortages are affecting GPs and patients, and government plans to tackle the so-called 'sick note culture'.",
+          "link": "https://www.gponline.com/podcast-gp-partner-exodus-during-five-year-contract-drug-shortages-fit-note-reform/article/1871237",
+          "publishedOn": "2024-05-03T07:20:00.000Z",
+          "wordCount": 1244,
+          "title": "Podcast: GP partner exodus during five-year contract, drug shortages, fit note reform",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_961.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1871244",
           "author": null,
           "description": "ICBs will work with a small number of PCNs to pilot 'operational changes and improvements that would optimise the general practice operating model', NHS England has said.",
@@ -9731,6 +9751,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cj3wqf/smear_test_for_std/",
+          "author": null,
+          "description": "My freind's STD test came positive. The doctor said they need to do a smear test. Can someone explain me why that? Aren't smear tests done to detect cancer? I don't know what STD she got but probably gonorrhea I think... (Writing it on her behalf cause she wants to know about it too) \n    submitted by    /u/c3ll0skyy5hadm4n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cj3wqf/smear_test_for_std/",
+          "publishedOn": "2024-05-03T08:52:50.000Z",
+          "wordCount": null,
+          "title": "Smear test for STD??",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cixh1c/i_was_cut_form_a_work_experience_placement/",
           "author": null,
