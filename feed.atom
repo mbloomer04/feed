@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-04T21:08:55.219Z</updated>
+    <updated>2024-05-04T22:07:51.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happens in the US too!]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1ckbuet/happens_in_the_us_too/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1ckbuet/happens_in_the_us_too/"/>
+        <updated>2024-05-04T22:06:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Avasadavir  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can you use a scan of your ID to request medical records?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1ck9wrc/can_you_use_a_scan_of_your_id_to_request_medical/</id>
@@ -15444,26 +15455,6 @@ The post GPs need to be ‘careful’ of liability risks when using AI, expert w
         <summary type="html"><![CDATA[Charges for NHS prescriptions, wigs and fabric supports will increase on 1 May 2024.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OMRON acquires Luscii Healthtech to advance remote patient monitoring]]></title>
-        <id>https://www.digitalhealth.net/?p=173251</id>
-        <link href="https://www.digitalhealth.net/2024/04/omron-acquires-luscii-healthtech-to-advance-remote-patient-monitoring/"/>
-        <updated>2024-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OMRON Healthcare today announced the acquisition of Luscii Healthtech, a fast-growing scale-up in the field of remote consultation service platforms.]]></summary>
-        <author>
-            <name>Andrea Chipman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE comment on latest weekly winter sitrep figures]]></title>
-        <id>https://www.england.nhs.uk/?p=243698</id>
-        <link href="https://www.england.nhs.uk/2024/04/nhse-comment-on-latest-weekly-winter-sitrep-figures/"/>
-        <updated>2024-04-05T09:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Commenting on the final weekly sitrep for this winter, Professor Julian Redhead, NHS England’s National Clinical Director for Urgent and Emergency Care, said: “Today’s figures highlight just how hard staff across the NHS have worked this winter in the face of significant demand and ongoing industrial action, with more than 1.7 million people taken to hospitals by […]]]></summary>
-        <author>
-            <name>kbradshaw</name>
         </author>
     </entry>
 </feed>
