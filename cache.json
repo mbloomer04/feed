@@ -2747,16 +2747,6 @@
           "wordCount": 1308,
           "title": "News story: NHS prescription charges from 1 May 2024",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/660ea1d79f92ac001a516cb6/s960_pharmacy__1_.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
-          "author": null,
-          "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
-          "link": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
-          "publishedOn": "2024-04-05T08:24:18.000Z",
-          "wordCount": 1217,
-          "title": "Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -10460,6 +10450,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1ck9wrc/can_you_use_a_scan_of_your_id_to_request_medical/",
+          "author": null,
+          "description": "Hi, \n I would like to request a medical record from: https://www.guysandstthomas.nhs.uk/about-us/your-health-records/managing-your-data\n You are required to show ID for the request. Is it possible to send in a scan of an original ID? I don't feel comfortable posting it, as I don't know if I would get it back. \n Thank you very much.\n    submitted by    /u/JLP99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1ck9wrc/can_you_use_a_scan_of_your_id_to_request_medical/",
+          "publishedOn": "2024-05-04T20:37:57.000Z",
+          "wordCount": null,
+          "title": "Can you use a scan of your ID to request medical records?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1ck8vyo/what_does_this_mean_how_much_stronger_is_my_left/",
           "author": null,

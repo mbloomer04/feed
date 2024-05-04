@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-04T20:10:39.691Z</updated>
+    <updated>2024-05-04T21:08:55.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can you use a scan of your ID to request medical records?]]></title>
+        <id>https://www.reddit.com/r/nhs/comments/1ck9wrc/can_you_use_a_scan_of_your_id_to_request_medical/</id>
+        <link href="https://www.reddit.com/r/nhs/comments/1ck9wrc/can_you_use_a_scan_of_your_id_to_request_medical/"/>
+        <updated>2024-05-04T20:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Hi, 
+ I would like to request a medical record from: https://www.guysandstthomas.nhs.uk/about-us/your-health-records/managing-your-data
+ You are required to show ID for the request. Is it possible to send in a scan of an original ID? I don't feel comfortable posting it, as I don't know if I would get it back. 
+ Thank you very much.
+    submitted by    /u/JLP99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>The NHS - The National Health Service</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[what does this mean? how much stronger is my left eye compared to my right?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1ck8vyo/what_does_this_mean_how_much_stronger_is_my_left/</id>
@@ -15449,16 +15464,6 @@ The post GPs need to be ‘careful’ of liability risks when using AI, expert w
         <summary type="html"><![CDATA[Commenting on the final weekly sitrep for this winter, Professor Julian Redhead, NHS England’s National Clinical Director for Urgent and Emergency Care, said: “Today’s figures highlight just how hard staff across the NHS have worked this winter in the face of significant demand and ongoing industrial action, with more than 1.7 million people taken to hospitals by […]]]></summary>
         <author>
             <name>kbradshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)]]></title>
-        <id>https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit</id>
-        <link href="https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit"/>
-        <updated>2024-04-05T08:24:18.000Z</updated>
-        <summary type="html"><![CDATA[The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
