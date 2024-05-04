@@ -2044,18 +2044,7 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "b83ceb8d-99f5-4b38-99ff-ade03fe1df5d",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "User researcher Fern Williams describes how we created a new paper patient registration form to complement the online ‘Register with a GP surgery’ service, allowing everyone to have a consistent user experience and leaving no one digitally excluded.\n\r\n\r\nOne of the guiding principles of the ‘Register with a GP surgery’ service is to be accessible and inclusive to all. Though there is a shift towards digital to make registering with a GP surgery easier and more convenient for both patients and practice staff, we haven’t forgotten the importance of developing a paper registration form for those who prefer not to or can’t use a digital service.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2023/how-do-you-put-a-digital-service-on-paper",
-          "publishedOn": "2024-04-04T15:29:37.000Z",
-          "wordCount": 1902,
-          "title": "How do you put a digital service on paper?",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/fern-williams-lead-image-3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NHS England",
@@ -2797,16 +2786,6 @@
           "publishedOn": "2024-04-04T16:49:28.000Z",
           "wordCount": 1050,
           "title": "Transparency data: NHS injury costs recovery scheme: April 2023 to March 2024",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
-          "author": null,
-          "description": "Guidance for adult social care providers to comply with information provisions under Section 277A of the Health and Social Care Act 2012.",
-          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
-          "publishedOn": "2024-04-04T15:41:05.000Z",
-          "wordCount": 1182,
-          "title": "Statutory guidance: Adult social care provider information provisions: data collection",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -5025,6 +5004,16 @@
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cjqsn1/does_anyone_know_when_juniordoctorcouk_will_be_up/",
+          "author": null,
+          "description": "Need to preference places and the site is down at the wrong time 😭😭\n    submitted by    /u/Elegant_Initial3929  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cjqsn1/does_anyone_know_when_juniordoctorcouk_will_be_up/",
+          "publishedOn": "2024-05-04T03:23:20.000Z",
+          "wordCount": null,
+          "title": "Does anyone know when Juniordoctor.co.uk will be up again?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cjqjlc/clinical_attachments/",
           "author": null,
           "description": "Shooting my shot here just in case someone can guide me or point me to the right direction. By any chance has anyone here tried applying or has successfully applied for a clinical attachment at the John Radcliffe Hospital? I appreciate any advise Thanks.\n    submitted by    /u/gunsandeuphoria  \n [link]   [comments]",
@@ -5042,6 +5031,16 @@
           "publishedOn": "2024-05-04T01:05:46.000Z",
           "wordCount": null,
           "title": "ARCP questions for IMT3 (for past IMT3 trainees)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cjnnb6/if_you_are_an_international_student_who_have/",
+          "author": null,
+          "description": "Canadian student currently attending an English medical school on a student visa. I will graduate in 2025. My school graduates students at the end of June. Foundation programme induction started some time in July (?) ... will I have enough time to apply and gain a Health and Care visa, and what happens if my visa is delayed? Thank you in advance.\n    submitted by    /u/seewhyme  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cjnnb6/if_you_are_an_international_student_who_have/",
+          "publishedOn": "2024-05-04T00:34:02.000Z",
+          "wordCount": null,
+          "title": "If you are an international student who have attended and graduated medical school in UK can you help answer a question I have about visa timeline?",
           "imageUrl": null
         },
         {
