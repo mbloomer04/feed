@@ -1290,6 +1290,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1871017",
+          "author": null,
+          "description": "A GP practice unable to join or form a PCN despite several attempts has revealed the financial pressure that has come with its 'orphan' status.",
+          "link": "https://www.gponline.com/orphan-gp-practice-financial-pressure-frozen-pcns/article/1871017",
+          "publishedOn": "2024-05-07T07:00:00.000Z",
+          "wordCount": 696,
+          "title": "'Orphan' GP practice under financial pressure after being frozen out of PCNs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_66.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1871383",
           "author": null,
           "description": "GP leaders have urged NHS England to ditch plans to pilot ways to 'optimise the general practice operating model' and focus instead on reversing funding cuts to existing services.",
@@ -3370,6 +3380,16 @@
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=174903",
+          "author": "Cora Lydon",
+          "description": "A new AI tool has been used for the first time at St Bartholomew's to help identify when actions have not been taken that could cause harm or care delays.",
+          "link": "https://www.digitalhealth.net/2024/05/st-bartholomews-hospital-deploys-ai-to-spot-missed-appointments/",
+          "publishedOn": "2024-05-07T07:30:36.000Z",
+          "wordCount": 1799,
+          "title": "St Bartholomew’s Hospital deploys AI to spot missed appointments",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/05/Medical-records-AI-St-Barts2.jpg"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=174961",
           "author": "Jordan Sollof",
           "description": "Pharmacy system supplier Invatech is to roll out its technology across Wales following the completion of live testing at a site in the north of the country.",
@@ -4953,6 +4973,26 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cm6bnk/publishing_audits/",
+          "author": null,
+          "description": "Does anyone know whether an audit qualifies as \"original research\" if you manage to publish an abstract summarising your results? Alternatively, does it count as \"other\" publications like letters, editorials etc?\n Have looked through the guidance and they make no specific mention of publishing large audit results.\n    submitted by    /u/Remarkable-Book-9426  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cm6bnk/publishing_audits/",
+          "publishedOn": "2024-05-07T07:44:36.000Z",
+          "wordCount": null,
+          "title": "Publishing audits?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cm60t2/colleagues_signing_annual_leave/",
+          "author": null,
+          "description": "Are employers allowed to do this? If you want to take any kind ofe leave, you must find a colleague to sign to say they will cover you. If no one will sign (i.e you're the only doctor on the ward) they won't allow it?\n    submitted by    /u/Ok-Bother-9132  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cm60t2/colleagues_signing_annual_leave/",
+          "publishedOn": "2024-05-07T07:22:12.000Z",
+          "wordCount": null,
+          "title": "Colleagues signing annual leave",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cm5sl4/cst_portfolio/",
           "author": null,
@@ -11130,6 +11170,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cm6h11/they_lost_my_blood_samples_twice/",
+          "author": null,
+          "description": "I hate getting bloods taken so wasn’t thrilled about having to do a repeat, only to be contacted AGAIN this morning saying I need to do another because they lost the repeat. How is it possible that BOTH samples were lost/insufficient, and who do I put a complaint against? Has this happened to anybody else?\n    submitted by    /u/Sickofchildren  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cm6h11/they_lost_my_blood_samples_twice/",
+          "publishedOn": "2024-05-07T07:56:02.000Z",
+          "wordCount": null,
+          "title": "They lost my blood samples, twice.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cm4tkk/prescription_prepayment_12_months/",
           "author": null,
