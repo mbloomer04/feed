@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1871842",
+          "author": null,
+          "description": "GP practices are facing rising workload and frustration from patients stuck in an NHS waiting list 'black hole', as figures showed most hospital trusts have not met waiting targets for years.",
+          "link": "https://www.gponline.com/gps-rising-pressure-hospital-waiting-targets-missed-years/article/1871842",
+          "publishedOn": "2024-05-08T10:06:08.000Z",
+          "wordCount": 698,
+          "title": "GPs under rising pressure as hospital waiting targets missed for years",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Hospital_sign_GettyImages-GeorgeClerk_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1871726",
           "author": null,
           "description": "The government has announced details of 15 ICSs that will trial ways of integrating health and employment services, some of which will pilot changes to the way fit notes work, to help more people back to work.",
@@ -1966,6 +1976,16 @@
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis",
+          "author": null,
+          "description": "Quick reference materials for primary care on diagnosing and understanding culture results for urinary tract infections (UTI).",
+          "link": "https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis",
+          "publishedOn": "2024-05-08T11:53:45.000Z",
+          "wordCount": 1373,
+          "title": "Guidance: Urinary tract infection: diagnostic tools for primary care",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/women-in-prison-standards-to-improve-health-and-wellbeing",
           "author": null,
@@ -2735,6 +2755,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/co-production-and-engagement-with-communities-as-a-solution-to-reducing-health-inequalities.html",
+          "author": null,
+          "description": "NHS Providers - This report outlines the principles and benefits of co-production, exploring the actions trusts can take to put this into practice. NHS Providers - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/co-production-and-engagement-with-communities-as-a-solution-to-reducing-health-inequalities.html",
+          "publishedOn": "2024-05-08T11:57:04.000Z",
+          "wordCount": null,
+          "title": "Co-production and engagement with communities as a solution to reducing health inequalities",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/confronting-antimicrobial-resistance-2024-to-2029.html",
           "author": null,
