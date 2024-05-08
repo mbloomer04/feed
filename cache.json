@@ -2229,6 +2229,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/new-five-year-plan-to-combat-antimicrobial-resistance",
+          "author": null,
+          "description": "The government has announced its new National Action Plan on antimicrobial resistance to protect people and animals from the risk of drug resistant infections.",
+          "link": "https://www.gov.uk/government/news/new-five-year-plan-to-combat-antimicrobial-resistance",
+          "publishedOn": "2024-05-07T23:15:11.000Z",
+          "wordCount": 3736,
+          "title": "Press release: New five-year plan to combat antimicrobial resistance",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/workwell",
           "author": null,
           "description": "Information for organisations applying for grant funding to design and deliver a WorkWell service.",
@@ -2726,36 +2736,6 @@
           "publishedOn": "2024-04-08T13:14:39.000Z",
           "wordCount": 823,
           "title": "Transparency data: DHSC: spending over £500, January 2024",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "author": null,
-          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
-          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "publishedOn": "2024-04-08T12:08:49.000Z",
-          "wordCount": 2354,
-          "title": "Guidance: Child death overview panels: contacts",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-january-2024",
-          "author": null,
-          "description": "Reports on departmental spending over £25,000.",
-          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-january-2024",
-          "publishedOn": "2024-04-08T11:52:55.000Z",
-          "wordCount": 815,
-          "title": "Transparency data: DHSC: spending over £25,000, January 2024",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
-          "author": null,
-          "description": "Register of nutrition and health claims that may be made in commercial communications in Great Britain.",
-          "link": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
-          "publishedOn": "2024-04-08T11:35:10.000Z",
-          "wordCount": 1100,
-          "title": "Guidance: Great Britain nutrition and health claims (NHC) register",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -4198,16 +4178,6 @@
           "wordCount": 2127,
           "title": "Labour to partner with Virgin Media to expand access to diabetes tech",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Labour-Party.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=173305",
-          "author": "Andrea Chipman",
-          "description": "Today's briefing includes Canon installing its Aquilion One CT system at the Royal Bournmouth and NHSE extending rapid testing for Hepatitis C.",
-          "link": "https://www.digitalhealth.net/2024/04/digital-health-coffee-time-briefing-123/",
-          "publishedOn": "2024-04-08T11:37:10.000Z",
-          "wordCount": 2313,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
         }
       ]
     },
@@ -5113,6 +5083,26 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cmpwmc/nhs_forth_valley_employs_surgical_care/",
+          "author": null,
+          "description": "submitted by    /u/acopic_ginormahuman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cmpwmc/nhs_forth_valley_employs_surgical_care/",
+          "publishedOn": "2024-05-07T23:20:50.000Z",
+          "wordCount": null,
+          "title": "NHS Forth Valley employs “Surgical Care Practitioners” to complete advanced breast surgery- with only remote supervision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cmppaf/hi_please_is_there_anyone_here_who_know_about/",
+          "author": null,
+          "description": "I have just gotten a post in the North Region. Any information about training as well as living in the region? Being posted in the North region, where is the best place to live? Where do trainees rotate through? I will be very grateful to have any advice. Thank you in advance. \n    submitted by    /u/Purple_Parsley9280  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cmppaf/hi_please_is_there_anyone_here_who_know_about/",
+          "publishedOn": "2024-05-07T23:11:29.000Z",
+          "wordCount": null,
+          "title": "Hi please is there anyone here who know about neurology training in Scotland Deanery?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cmnbcy/mba/",
           "author": null,
