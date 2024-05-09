@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "34310e45-07a9-45dd-8160-61bfb8ba9a45",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Proof-of-concept exploit code released for 2 high severity vulnerabilities affecting BIG-IP Next Central Manager\n Proof-of-concept exploit code released for two high severity vulnerabilities\n Updated: 09 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4486",
+          "publishedOn": "2024-05-09T12:33:00.000Z",
+          "wordCount": 934,
+          "title": "CC-4486 - F5 Releases Quarterly Security Notification (May 2024) Affecting BIG-IP Products",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715253681132/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "c257cad3-bae7-4884-939c-25a44a1f20af",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Exploitation of the vulnerabilities could allow an attacker to create a DoS condition, record user credentials, replay VOIP calls, or initiate calls on the device\n Exploitation of the vulnerabilities could allow an attacker to create a DoS condition, record user credentials, replay VOIP calls, or initiate calls on the device\n Updated: 02 May 2024",
@@ -5093,6 +5103,26 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cnwv8o/mrcp_part_2_palliative_prescribing/",
+          "author": null,
+          "description": "So encountered the following question and got it wrong, I would appreciate any advice on the topic:\n You are asked to review a 67 year old man with oesophageal cancer who is in the last few days of life. He is hallucinating, extremely distressed and lashing out at relatives. \n What is the most appropriate intervention to control the patient's symptoms?\n Amitriptylline \n Diamorphine\n Hyoscine\n Levomepromazine\n Midazolam \n So I put the answer as midazolam since I thought benzos were used for agitation. However the answer was levomepromazine? They said it's widely used for nausea as well as agitation. When might you choose between these two for agitation?\n Thanks for the help!\n    submitted by    /u/CoconutFrequent8576  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cnwv8o/mrcp_part_2_palliative_prescribing/",
+          "publishedOn": "2024-05-09T13:07:48.000Z",
+          "wordCount": null,
+          "title": "MRCP Part 2 palliative prescribing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cnwt7k/what_level_of_anatomy_should_i_know/",
+          "author": null,
+          "description": "Hi guys,\n I’m starting my FY job in ED soon. Was just wondering what sort of level of anatomy should I know as an FY and for the MSRA if I was to sit it?\n To any radiologists or surgeons, what would be the standard that I could get by with if I was to have a discussion about a patient with you?\n My anatomy standards are in the mud just cuz we haven’t been tested on it for 3 years and our med school are shite at teaching it to us. \n    submitted by    /u/Far_Ad3193  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cnwt7k/what_level_of_anatomy_should_i_know/",
+          "publishedOn": "2024-05-09T13:05:11.000Z",
+          "wordCount": null,
+          "title": "What level of anatomy should I know?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cnv4x6/ltft_1000_supplement/",
           "author": null,
