@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1871882",
+          "author": null,
+          "description": "Four in five pharmacists say drug shortages are putting patients at risk - and the majority say they are contacting GP practices daily over unavailable medicines, a report has found.",
+          "link": "https://www.gponline.com/pharmacies-contacting-gps-daily-drug-shortages-amid-patient-safety-fears/article/1871882",
+          "publishedOn": "2024-05-08T23:01:00.000Z",
+          "wordCount": 690,
+          "title": "Pharmacies contacting GPs daily over drug shortages amid patient safety fears",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Prescriptions_GettyImages-PeterDazeley.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1871842",
           "author": null,
           "description": "GP practices are facing rising workload and frustration from patients stuck in an NHS waiting list 'black hole', as figures showed most hospital trusts have not met waiting targets for years.",
@@ -2717,36 +2727,6 @@
           "wordCount": 1210,
           "title": "Guidance: Lampard Inquiry: terms of reference",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medical-technology-strategy",
-          "author": null,
-          "description": "The government’s plan to support a thriving UK medtech sector and make sure the health and care system can reliably access safe, effective and innovative medical technologies to deliver the best outcomes for patients.",
-          "link": "https://www.gov.uk/government/publications/medical-technology-strategy",
-          "publishedOn": "2024-04-09T11:25:32.000Z",
-          "wordCount": 1154,
-          "title": "Policy paper: Medical technology strategy",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medical-technology-innovation-classification-framework",
-          "author": null,
-          "description": "Outlines the aim, scope and definitions of the medical technology innovation classification framework.",
-          "link": "https://www.gov.uk/government/publications/medical-technology-innovation-classification-framework",
-          "publishedOn": "2024-04-09T11:25:19.000Z",
-          "wordCount": 972,
-          "title": "Guidance: Medical technology innovation classification framework",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medical-technology-strategy-one-year-on",
-          "author": null,
-          "description": "Achievements made since the launch of the medtech strategy and the next steps to boost the adoption of medical technology in the NHS.",
-          "link": "https://www.gov.uk/government/publications/medical-technology-strategy-one-year-on",
-          "publishedOn": "2024-04-09T11:25:07.000Z",
-          "wordCount": 1165,
-          "title": "Policy paper: Medical technology strategy: one year on",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3243,16 +3223,6 @@
           "publishedOn": "2024-04-10T11:42:06.000Z",
           "wordCount": null,
           "title": "Medical technology innovation classification framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/04/1000-voices-not-1-a-report-highlighting-differences-in-cancer-care-in-the-uk.html",
-          "author": null,
-          "description": "Bristol Myers Squibb - To form the foundations of the Cancer Equals campaign (which aims to understand and help address the many factors leading to delays to diagnosis and differences in experiences of cancer across the UK) Bristol Myers Squibb carried out quantitative and qualitative research in partnership with Shine Cancer Support. This research report highlights some of the challenges...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/04/1000-voices-not-1-a-report-highlighting-differences-in-cancer-care-in-the-uk.html",
-          "publishedOn": "2024-04-09T12:17:21.000Z",
-          "wordCount": null,
-          "title": "1,000 voices not 1: a report highlighting differences in cancer care in the UK",
           "imageUrl": null
         }
       ]
@@ -4098,16 +4068,6 @@
           "wordCount": 2061,
           "title": "NHS Greater Glasgow and Clyde first to roll out head-CT AI solution",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Qure.ai-qER-showing-TBI3.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=173375",
-          "author": "Cora Lydon",
-          "description": "Two new solutions using the power of artificial intelligence to enhance research into dementia and cognitive decline are being worked on by NTT DATA.",
-          "link": "https://www.digitalhealth.net/2024/04/ntt-data-enhances-dementia-research-with-artificial-intelligence/",
-          "publishedOn": "2024-04-09T12:31:03.000Z",
-          "wordCount": 1784,
-          "title": "NTT DATA enhances dementia research with artificial intelligence",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/NTT-DATA-dementia-research3.jpg"
         }
       ]
     },
