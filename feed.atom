@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-09T19:07:11.453Z</updated>
+    <updated>2024-05-09T20:09:26.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is this more scope creep? "Chief Anatomical Pathology Technologist" with a background in architecture and security consulting claims to have personally done 30k autopsies after learning on the job. No pathologists mentioned.]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1co5ei7/is_this_more_scope_creep_chief_anatomical/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1co5ei7/is_this_more_scope_creep_chief_anatomical/"/>
+        <updated>2024-05-09T19:17:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/No-Friend-1138  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the title of someone who delivers food?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1co4o9s/what_is_the_title_of_someone_who_delivers_food/</id>
@@ -18721,16 +18732,6 @@ The post Super-practice wins bid for GMS-turned-APMS contract appeared first on 
 The post NHS has no hope of meeting autism and ADHD demand, warns report appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS Greater Glasgow and Clyde first to roll out head-CT AI solution]]></title>
-        <id>https://www.digitalhealth.net/?p=173417</id>
-        <link href="https://www.digitalhealth.net/2024/04/nhs-greater-glasgow-and-clyde-first-to-roll-out-head-ct-ai-solution/"/>
-        <updated>2024-04-10T07:30:28.000Z</updated>
-        <summary type="html"><![CDATA[NHS Greater Glasgow and Clyde's emergency department clinicians are now using an AI tool from Qure.ai to help improve decision making.]]></summary>
-        <author>
-            <name>Cora Lydon</name>
         </author>
     </entry>
 </feed>
