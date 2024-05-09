@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0701d672-eb2e-420f-a57c-132ac7e01e5b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Proof-of-concept exploit code was released for three vulnerabilities in March 2024\n Proof-of-concept exploit code was released for three vulnerabilities in March 2024\n Updated: 09 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4487",
+          "publishedOn": "2024-05-09T14:51:00.000Z",
+          "wordCount": 705,
+          "title": "CC-4487 - Possible Exploitation of Arcserve Unified Data Protection (UDP) Vulnerabilities",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715253681132/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "34310e45-07a9-45dd-8160-61bfb8ba9a45",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Proof-of-concept exploit code released for 2 high severity vulnerabilities affecting BIG-IP Next Central Manager\n Proof-of-concept exploit code released for two high severity vulnerabilities\n Updated: 09 May 2024",
@@ -132,6 +142,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147329",
+          "author": "Anna Colivicchi",
+          "description": "A private provider has announced GP redundancies at five practices in Plymouth, saying that it wants to ‘reduce the use of clinicians who work remotely’. Fuller and Forbes Healthcare, which only last month took over the Mayflower Group – including surgeries at Stirling Road, Ernesettle Medical Centre, Mount Gould, Trelawny and Mannamead – has launched\nThe post Private provider to make remote GPs redundant at five practices appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/private-provider-to-make-remote-gps-redundant-at-five-practices/",
+          "publishedOn": "2024-05-09T15:09:10.000Z",
+          "wordCount": 3524,
+          "title": "Private provider to make remote GPs redundant at five practices",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147335",
           "author": "Jaimie Kaffash",
@@ -4187,6 +4207,16 @@
       "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/GPUK/comments/1cny7cg/anyone_else_fed_up_with_primary_care/",
+          "author": null,
+          "description": "Waves of unfit adults, aging and multimorbidity, without any cure to people's symptoms and complaints. Furthermore, everyone has chronic pain - and we appear to be stuck in an endless loop of going nowhere (these patients may be seen by MSK or chronic pain service with no improvement in symptoms - and we are stuck in an endless merry-go-round).\n I have never seen such a deconditioned population. If it were up to me I'd get everyone to lift weights and regular exercise.\n However - everyone is 'too weak' or 'tired' to do anything. Or, in too much pain to undergo any kind of meaningful activity.\n I have only begun my career as a GP, but, I cannot wait to retire.\n    submitted by    /u/cipherinterferon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1cny7cg/anyone_else_fed_up_with_primary_care/",
+          "publishedOn": "2024-05-09T14:09:24.000Z",
+          "wordCount": null,
+          "title": "Anyone else fed up with primary care?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/GPUK/comments/1cns6yr/gp_practice_reviews/",
           "author": null,
           "description": "Hi all,\n I’m a new GP trainee. Just a quick question - is there a place you can find reviews of previous trainees experience in different practices? Thank you! \n    submitted by    /u/Mammoth-Safety-2830  \n [link]   [comments]",
@@ -5123,6 +5153,26 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cnyzvl/most_delayed_admin_task_youve_seen/",
+          "author": null,
+          "description": "Doing an audit and just seen a clinic letter typed 2+ years late - consisting of only one paragraph and advising weekly community nurse contact to review a burn.\n Impressed they even remembered any details. \n    submitted by    /u/Azndoctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cnyzvl/most_delayed_admin_task_youve_seen/",
+          "publishedOn": "2024-05-09T14:45:06.000Z",
+          "wordCount": null,
+          "title": "Most delayed admin task you’ve seen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cnyc2r/email_from_my_trust_explaining_that_they_plan_to/",
+          "author": null,
+          "description": "submitted by    /u/sim1019  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cnyc2r/email_from_my_trust_explaining_that_they_plan_to/",
+          "publishedOn": "2024-05-09T14:15:24.000Z",
+          "wordCount": null,
+          "title": "Email from my trust explaining that they plan to save money by not fillling rota gaps \"where it is safe to do so\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cnxab9/migrainey_docs/",
           "author": null,
