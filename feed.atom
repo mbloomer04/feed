@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-10T06:12:16.782Z</updated>
+    <updated>2024-05-10T07:09:28.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -791,6 +791,19 @@ The post GPs having to provide advice on alternatives amid ‘daily’ medicines
         <summary type="html"><![CDATA[Esri UK's geospatial mapping tool is being used by Airedale General Hospital in the management of its RAAC monitoring and repairs work.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New guidance aims to reduce bloodstream infections from catheter use]]></title>
+        <id>urn:uuid:c1571498-6aad-4b3a-94a7-5588ec9210ba</id>
+        <link href="https://www.who.int/news/item/09-05-2024-new-guidance-aims-to-reduce-bloodstream-infections-from-catheter-use"/>
+        <updated>2024-05-09T09:52:38.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) publishes the first global guidelines to prevent the occurrence of bloodstream and other infections caused by use of catheters placed in minor blood vessels during medical procedures.
+Poor practices in the insertion, maintenance, and removal of these catheters carry a high risk of introducing germs directly to the bloodstream, which can lead to serious conditions such as sepsis, and difficult-to-treat complications in major organs like the brain and kidneys. Soft tissue infections at the insertion site of the catheter can also occur.
+
+Up to 70% of all inpatients require the use of a catheter inserted into a peripheral vein or artery, also known as peripherally inserted catheters (PIVCs), at some point during their hospital stay.  People who receive treat…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
