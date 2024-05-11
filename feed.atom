@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-11T20:09:39.635Z</updated>
+    <updated>2024-05-11T21:08:49.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[So what are my options as a recently qualified UK GP!]]></title>
+        <id>https://www.reddit.com/r/GPUK/comments/1cpr8u4/so_what_are_my_options_as_a_recently_qualified_uk/</id>
+        <link href="https://www.reddit.com/r/GPUK/comments/1cpr8u4/so_what_are_my_options_as_a_recently_qualified_uk/"/>
+        <updated>2024-05-11T21:07:37.000Z</updated>
+        <summary type="html"><![CDATA[I am 35,sole breadwinner for a family of 3 and have been GP since end of 2022.Considering current GP market,I have been very lucky to have got into a long term locum role which may change soon and its likely the practice will hire someone on a salaried role.I am worried or should I say afraid about the future prospects so I want to know from you guys who have been in the field for longer than I am or know more than me !
+ 1.I joined GP training as it seemed easier option (which is not the case)and shorter considering UK market where I planned to work long term locum for few years to get some financial stability then join partnership.Now the way things are with GP world as a whole,how public and government treats them , lack of recognition no matter how hard you may work ,poor pay conditions…]]></summary>
+        <author>
+            <name>GPUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should we be paid for the day after a night shift lost due to re-syncing our body clock?]]></title>
         <id>https://www.reddit.com/r/doctorsUK/comments/1cppdny/should_we_be_paid_for_the_day_after_a_night_shift/</id>
@@ -20065,16 +20076,6 @@ The post Diabetes drug shows potential in treating Parkinson’s disease appeare
         <summary type="html"><![CDATA[Promptly Health and Datavant have announced a collaboration to address the challenges of a fragmented health data landscape in Europe.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP fears for patient care after referral tool axed 'to cut costs']]></title>
-        <id>https://www.gponline.com/article/1868610</id>
-        <link href="https://www.gponline.com/gp-fears-patient-care-referral-tool-axed-to-cut-costs/article/1868610"/>
-        <updated>2024-04-12T08:53:25.000Z</updated>
-        <summary type="html"><![CDATA[GPs have warned that NHS cost-cutting risks undermining patient care after an IT tool practices use to speed up referrals was axed in their area.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
