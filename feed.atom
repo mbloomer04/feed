@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-12T00:45:02.585Z</updated>
+    <updated>2024-05-12T01:55:12.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advertising work?]]></title>
+        <id>https://www.reddit.com/r/GPUK/comments/1cpvw7f/advertising_work/</id>
+        <link href="https://www.reddit.com/r/GPUK/comments/1cpvw7f/advertising_work/"/>
+        <updated>2024-05-12T00:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Can a GP advertise his private work to patients? Thanks
+    submitted by    /u/Ecstatic-View1106  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>GPUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Royal Stoke accommodation / one London road]]></title>
         <id>https://www.reddit.com/r/doctorsUK/comments/1cpuvgq/royal_stoke_accommodation_one_london_road/</id>
@@ -20061,30 +20073,6 @@ Rooted in the Netherlands' unwavering commitment to global health, human rights,
 Against the backdrop of ongoing conflicts, disasters, and the escalating impact of climate change, and the interconnectedness of the Dutch public health la…]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4477 - Palo Alto Releases Critical Security Update for PAN-OS GlobalProtect Gateway]]></title>
-        <id>ad2377d3-89a8-48aa-b85a-5c27a5f170d2</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4477"/>
-        <updated>2024-04-12T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- Successful exploitation of CVE-2024-3400 could lead to remote code execution
- Successful exploitation of CVE-2024-3400 could lead to remote code execution
- Updated: 12 Apr 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do we want? (Apart from money)]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=146274</id>
-        <link href="https://www.pulsetoday.co.uk/views/david-turner/what-do-we-want-apart-from-money/"/>
-        <updated>2024-04-12T13:07:54.000Z</updated>
-        <summary type="html"><![CDATA[In light of the BMA referendum result, Dr David Turner ponders how the DHSC could help cut out the rot eating away at general practice 99.2% of GPs voted to reject the Government’s pay offer of a 2% uplift. Only 0.8%, 155 individuals, voted to support it. I just wonder, as did Pulse editor Jaimie,
-The post What do we want? (Apart from money) appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Maya Dhillon</name>
         </author>
     </entry>
 </feed>

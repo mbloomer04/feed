@@ -114,16 +114,6 @@
           "wordCount": 562,
           "title": "CC-4478 - Multiple Vulnerabilities Affecting Ivanti Avalanche",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "ad2377d3-89a8-48aa-b85a-5c27a5f170d2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Successful exploitation of CVE-2024-3400 could lead to remote code execution\n Updated: 12 Apr 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4477",
-          "publishedOn": "2024-04-12T13:15:00.000Z",
-          "wordCount": 932,
-          "title": "CC-4477 - Palo Alto Releases Critical Security Update for PAN-OS GlobalProtect Gateway",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1251,16 +1241,6 @@
           "wordCount": 2610,
           "title": "ICBs told to take action amid ‘significant pressure’ on NHS abortion services",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/mental_health_waiting_times.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=146274",
-          "author": "Maya Dhillon",
-          "description": "In light of the BMA referendum result, Dr David Turner ponders how the DHSC could help cut out the rot eating away at general practice 99.2% of GPs voted to reject the Government’s pay offer of a 2% uplift. Only 0.8%, 155 individuals, voted to support it. I just wonder, as did Pulse editor Jaimie,\nThe post What do we want? (Apart from money) appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/views/david-turner/what-do-we-want-apart-from-money/",
-          "publishedOn": "2024-04-12T13:07:54.000Z",
-          "wordCount": 2618,
-          "title": "What do we want? (Apart from money)",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/12/Dr_David_Turner_1200x800px.jpg"
         }
       ]
     },
@@ -4006,6 +3986,16 @@
       "feedUrl": "https://www.reddit.com/r/GPUK.rss",
       "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/GPUK/comments/1cpvw7f/advertising_work/",
+          "author": null,
+          "description": "Can a GP advertise his private work to patients? Thanks\n    submitted by    /u/Ecstatic-View1106  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1cpvw7f/advertising_work/",
+          "publishedOn": "2024-05-12T00:55:30.000Z",
+          "wordCount": null,
+          "title": "Advertising work?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/GPUK/comments/1cpr8u4/so_what_are_my_options_as_a_recently_qualified_uk/",
           "author": null,
