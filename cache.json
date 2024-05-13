@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1872319",
+          "author": null,
+          "description": "Staff shortages linked to long-term underfunding have forced a medical group running five GP practices to close sites on 16 separate days in recent months.",
+          "link": "https://www.gponline.com/staff-gaps-linked-underfunding-force-temporary-practice-closures/article/1872319",
+          "publishedOn": "2024-05-13T08:52:00.000Z",
+          "wordCount": 682,
+          "title": "Staff gaps linked to underfunding force temporary practice closures",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-sinseeho_RF_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1872187",
           "author": null,
           "description": "The King is to become the new royal patron of the RCGP.",
@@ -2637,16 +2647,6 @@
           "wordCount": 1153,
           "title": "Guidance: Attributing the costs of health and social care research",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/ai-to-help-keep-people-in-work-through-15-million-investment-in-occupational-health",
-          "author": null,
-          "description": "Reforms to occupational health services will be shaped through a £1.5m innovation fund, as the government continues its drive to tackle in work sickness and boost economic activity using new technology and artificial intelligence.",
-          "link": "https://www.gov.uk/government/news/ai-to-help-keep-people-in-work-through-15-million-investment-in-occupational-health",
-          "publishedOn": "2024-04-13T23:01:10.000Z",
-          "wordCount": 3184,
-          "title": "Press release: AI to help keep people in work through £1.5 million investment in occupational health",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/661969d1679e9c8d921dff31/s960_PN-GOVUK_960x640_1.5m.png"
         }
       ]
     },
@@ -3997,6 +3997,16 @@
       "siteUrl": "https://www.reddit.com/r/GPUK",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/GPUK/comments/1cqvrjy/ibd_investigation/",
+          "author": null,
+          "description": "Thoughts on relatively young patients with a history that is consistent with IBD but who meet the criteria for a FIT\n Would you send a FIT anyway knowing that subsequent investigations may speed up a diagnosis?\n    submitted by    /u/GradDoc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/GPUK/comments/1cqvrjy/ibd_investigation/",
+          "publishedOn": "2024-05-13T10:14:53.000Z",
+          "wordCount": null,
+          "title": "IBD investigation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/GPUK/comments/1cqkfz8/how_are_gp_trainees_managing_leaving_late/",
           "author": null,
           "description": "In hospital we were always encouraged to exception report when we stay behind etc. In GP as ST1 I always leave a minimum an hour later than my scheduled time, is this just accepted in GP? Is everyone else always leaving late too? Or am I just super slow? 😬\n    submitted by    /u/messymedic7  \n [link]   [comments]",
@@ -5143,6 +5153,26 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cqw8xp/study_group_for_the_july_frca_primary_soeosce/",
+          "author": null,
+          "description": "Since the announcement of the extra sitting for the RCOA FRCA primary OSCE/SOE in July I've been plugging away at some revision and prep. The extra sitting has a lot fewer spaces so candidates will be relatively sparse. Unfortunately I haven't found anyone else in my deanery sitting the exam at the same time.\n Would be cool to know if others are in my situation too. Anyone one to join a study group with me? \n    submitted by    /u/chicken_leg_running  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cqw8xp/study_group_for_the_july_frca_primary_soeosce/",
+          "publishedOn": "2024-05-13T10:45:41.000Z",
+          "wordCount": null,
+          "title": "Study group for the July FRCA primary SOE/OSCE.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cqw1cp/colleague_cancelling_a_swap/",
+          "author": null,
+          "description": "Hi all, \n I recently swapped a weekend on-call with a colleague. They also emailed HR saying they were happy to swap.\n Who's responsibility is it to cover the shift now?\n    submitted by    /u/IceandFyree  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cqw1cp/colleague_cancelling_a_swap/",
+          "publishedOn": "2024-05-13T10:32:26.000Z",
+          "wordCount": null,
+          "title": "Colleague cancelling a swap",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cqv2ga/study_on_experiences_of_surgical_trainees_in_the/",
           "author": null,
