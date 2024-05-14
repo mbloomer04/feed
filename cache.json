@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "59102e60-909d-4eb3-98fc-cb94993f27fe",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses 16 vulnerabilities, including two rated as high severity\n Advisory addresses 16 vulnerabilities, including two rated as high severity\n Updated: 14 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4490",
+          "publishedOn": "2024-05-14T16:17:00.000Z",
+          "wordCount": 694,
+          "title": "CC-4490 - Mozilla Releases Security Updates for Firefox and Firefox ESR",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715685725294/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "eb8ade63-3044-4452-9b1d-5369f8dc6e3e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses one high severity vulnerability in Google Chrome that has an exploit in the wild\n Security update addresses one high severity vulnerability in Google Chrome that has an exploit in the wild\n Updated: 14 May 2024",
@@ -5663,6 +5673,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1crw6fx/question_for_men_in_surgery/",
+          "author": null,
+          "description": "Hi all, be honest - what is the attitude towards women wanting to be surgeons / women who are surgeons? There are things you will hear as men that I won’t hear as a woman.\n The gender gap for consultant level is hard to ignore and I recently heard a male colleague refer to “getting the lads together” forgetting I was in the room. \n I’m not going to let it deter me going into surgery if that’s what I choose but I’d like to know what I’m getting into if I go down the surgical route. Thanks \n    submitted by    /u/wellingtonshoe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1crw6fx/question_for_men_in_surgery/",
+          "publishedOn": "2024-05-14T16:20:21.000Z",
+          "wordCount": null,
+          "title": "Question for men in surgery",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1crvujl/the_doctor_wont_see_you_now_this_article_is_an/",
           "author": null,
