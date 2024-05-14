@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-14T17:07:54.326Z</updated>
+    <updated>2024-05-14T18:11:48.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Travelling as a GP]]></title>
+        <id>https://www.reddit.com/r/GPUK/comments/1crxws6/travelling_as_a_gp/</id>
+        <link href="https://www.reddit.com/r/GPUK/comments/1crxws6/travelling_as_a_gp/"/>
+        <updated>2024-05-14T17:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Is it possible for a GP who work as a salaried GP for 3 days travel for the 4 remaining days to different countries? Some post mentions GPs work long 10-12 hour days and may use remaining days to catch up from home. If so is this practically not possible to do 3 day work and 4 day travel every week?
+    submitted by    /u/Unfair_Finance_8364  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>GPUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Question for men in surgery]]></title>
         <id>https://www.reddit.com/r/doctorsUK/comments/1crw6fx/question_for_men_in_surgery/</id>
@@ -173,6 +185,21 @@ The post Andrea Leadsom: ‘I will fight to protect the principles of general pr
  [link]   [comments]]]></summary>
         <author>
             <name>GPUK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMT eportfolio]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1crto5z/imt_eportfolio/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1crto5z/imt_eportfolio/"/>
+        <updated>2024-05-14T14:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ I am IMT1 and since it’s coming up to ARCP just had a few questions regarding eportfolio.
+ Mainly re procedures - do I need to evidence every procedure I’ve done with a formative or summative DOPS? Or is it sufficient to record the date this was done (for example if it was skills lab). ARCP decision aid just says ‘skills lab or satisfactory supervised practice’ but does not specifically say how I should evidence this. 
+ If anyone who’s done this previously could offer some advice? 
+    submitted by    /u/Piee96  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
         </author>
     </entry>
     <entry>
@@ -22802,16 +22829,6 @@ The post GP surgery to get £400k from developers to build extension appeared fi
         <summary type="html"><![CDATA[Maternity services in Nottingham have introduced CardMedic a tool designed to tackle healthcare inequalities from communication barriers.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO announces Health for All Film Festival shortlist and jury]]></title>
-        <id>urn:uuid:a3471b8f-1a8d-42c3-8451-e2d9533bbbfa</id>
-        <link href="https://www.who.int/news/item/15-04-2024-who-announces-health-for-all-film-festival-shortlist-and-jury"/>
-        <updated>2024-04-15T06:00:48.000Z</updated>
-        <summary type="html"><![CDATA[More than 900 filmmakers from 110 countries have submitted short films for the 5th edition of the  WHO Health for All Film Festival on themes ranging from climate change, refugees, tobacco, and gender-based violence. Some 60 films have been selected for the shortlist, for review by a jury of international artists and health experts, before the announcement of the winners on 26 May 2024.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
