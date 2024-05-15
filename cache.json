@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a0ad4711-e162-453b-a43e-ab586ffce8ac",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Multiple vulnerabilities also affect iOS, macOS, iPadOS, and a zero-day vulnerability in Safari\n Multiple vulnerabilities also affect iOS, macOS, iPadOS, and a zero-day vulnerability in Safari\n Updated: 15 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4492",
+          "publishedOn": "2024-05-15T13:42:00.000Z",
+          "wordCount": 690,
+          "title": "CC-4492 - Apple Releases Security Updates for Multiple Products",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715685725294/images/nhs-england-logo-social.jpg"
+        },
+        {
+          "id": "7b293b8f-9321-4f0a-bdfa-48bd70129eb8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 60 vulnerabilities\n Scheduled updates for Microsoft products, including security updates for 60 vulnerabilities\n Updated: 15 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4491",
+          "publishedOn": "2024-05-15T13:13:00.000Z",
+          "wordCount": 708,
+          "title": "CC-4491 - Microsoft Releases May 2024 Security Updates",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715685725294/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "59102e60-909d-4eb3-98fc-cb94993f27fe",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses 16 vulnerabilities, including two rated as high severity\n Advisory addresses 16 vulnerabilities, including two rated as high severity\n Updated: 14 May 2024",
@@ -142,6 +162,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147558",
+          "author": "Maya Dhillon",
+          "description": "Dr Copperfield is not impressed with the RCGP’s triumphalism in delivering the GP improvement plan Here he goes, banging on about workload again, maybe if he wrote fewer blogs he’d have time to do his work har har etc etc. Yes, but today I’d like to bung the RCGP into the mix. Because I found\nThe post If the college was in touch with GPs, it wouldn’t delight in trying to improve them appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/copperfield/if-the-college-was-in-touch-with-gps-it-wouldnt-delight-in-trying-to-improve-them/",
+          "publishedOn": "2024-05-15T13:56:51.000Z",
+          "wordCount": 3304,
+          "title": "If the college was in touch with GPs, it wouldn’t delight in trying to improve them",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Copperfield_1200x800px.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147533",
+          "author": "Eliza Parr",
+          "description": "The RCGP has been awarded a contract to deliver NHS England’s recovery plan programme aimed at improving GP access. From July, the college will start delivering the General Practice Improvement Programme (GPIP), which provides ‘hands-on’ support to increase access to practices and ‘make full use of a multi-professional team’.  The GPIP was announced as part\nThe post NHSE awards RCGP ‘significant’ contract to help improve GP access appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workload/nhse-awards-rcgp-significant-contract-to-help-improve-gp-access/",
+          "publishedOn": "2024-05-15T13:38:09.000Z",
+          "wordCount": 3379,
+          "title": "NHSE awards RCGP ‘significant’ contract to help improve GP access",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/04/GPs-given-air-quality-training-to-advise-patients-on-pollution.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147227",
           "author": "Anna Colivicchi",
@@ -2846,6 +2886,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/the-care-act-2014-ten-years-on-from-royal-assent.html",
+          "author": null,
+          "description": "Local Government Association - A decade on since the Care Act received Royal Assent, our publication reflects on the extent to which the aims of the legislation have been achieved and, where they have not, what changes are needed to deliver fully on the Act’s ambitions. Report Press release",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/the-care-act-2014-ten-years-on-from-royal-assent.html",
+          "publishedOn": "2024-05-15T14:09:15.000Z",
+          "wordCount": null,
+          "title": "The Care Act 2014: ten years on from Royal Assent",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/10-year-strategic-plan-for-the-drug-and-alcohol-treatment-and-recovery-workforce-20242034.html",
           "author": null,
           "description": "NHS England - This plan aims to expand and improve the drug and alcohol treatment and recovery workforce. This is the first national workforce plan for this specialist part of the health workforce in England and outlines key milestones to grow, train and develop staff. This will include bringing more new and experienced professionals into the sector and developing better...",
@@ -5513,6 +5563,36 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cslk98/scope_regression/",
+          "author": null,
+          "description": "A lot of people talk about the scope creep of the allied health professionals, but has anyone else noticed some crazy examples of scope 'regression'? \n I work on a medical ward which has medical technicians. Today, one was complaining she's had to cannulate one chap 4 times as he keeps pulling the cannula out. \"Why don't you just put a bandage on?\", I ask. \"Not allowed to. Have to get a nurse or doctor to do that.\" She didn't seem to recognise how ridiculous this was, bearing in mind she can cannulate/catheterise. So I had to use my medical degree to go and put a crepe bandage on a cannula. \n It seems like such an NHS-ism that these people have no common sense applied to their scope of practice. Anyone else had similar experiences?\n    submitted by    /u/SnooTigers1702  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cslk98/scope_regression/",
+          "publishedOn": "2024-05-15T14:01:59.000Z",
+          "wordCount": null,
+          "title": "Scope regression",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cskz7y/northern_ireland_fy2/",
+          "author": null,
+          "description": "I’ve been allocated to Dundonald in Northern Ireland for my F2 standalone programme and would really appreciate any info about the hospital, the training and the area as I’m hearing mixed things and would love to chat to someone with first hand experience if possible. Also if you have any info about how FY2 is different in NI compared to the UK as I’m new to the NHS in general.\n    submitted by    /u/Komorebi_17  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cskz7y/northern_ireland_fy2/",
+          "publishedOn": "2024-05-15T13:35:47.000Z",
+          "wordCount": null,
+          "title": "Northern Ireland FY2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cskhuk/no_qip_how_much_of_an_issue_is_this/",
+          "author": null,
+          "description": "Hello all,\n Throwaway as this is slightly embarrassing. \n I am an IMT3 who has an ST4 position in a different city starting in August. Things are in motion for the move, I've ticked off pretty much all the required stuff for ARCP - but I don't have a QIP. This is not entirely for lack of trying; there have been a few things throughout the year that fell through/never took off, but I'd be lying if there wasn't also a large part of me that is hugely apathetic at the idea of doing a QIP for the sake of it when the majority of them never really seem to make any difference.\n ARCP is looming and I have diddly squat. I am concerned that as it is necessary for progression this will put a big stall on things. My partner has managed an inter-regional transfer to follow me. I have a meeting with my supervisor tomorrow and am sort of bricking it (returned to work yesterday after being away for significant life event). What does the hive mind advise? Yes, I am a dickhead for not getting myself in gear sooner. I know that. I'm looking for suggestions and insight - thanks in advance.\n    submitted by    /u/Few_Professional_788  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cskhuk/no_qip_how_much_of_an_issue_is_this/",
+          "publishedOn": "2024-05-15T13:13:16.000Z",
+          "wordCount": null,
+          "title": "No QIP, how much of an issue is this?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1csjd08/differences_in_practice_youve_noticed_from/",
           "author": null,
