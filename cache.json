@@ -2034,6 +2034,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
+          "publishedOn": "2024-05-15T15:43:40.000Z",
+          "wordCount": 1674,
+          "title": "Accessibility is a choice",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
+        },
+        {
           "id": "ac8722e7-c9b1-46f3-a066-375cdff75dd9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
@@ -2059,7 +2069,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
+          "publishedOn": "2024-05-15T15:43:40.000Z",
+          "wordCount": 1674,
+          "title": "Accessibility is a choice",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -2827,16 +2848,6 @@
           "wordCount": 1733,
           "title": "Press release: Government review to create a more open healthcare system",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/government-response-to-the-joint-committee-on-the-draft-mental-health-bill",
-          "author": null,
-          "description": "Response to the Joint Committee’s recommendations for the draft Mental Health Bill to reform the Mental Health Act 1983 and deliver a modern mental health service.",
-          "link": "https://www.gov.uk/government/publications/government-response-to-the-joint-committee-on-the-draft-mental-health-bill",
-          "publishedOn": "2024-04-16T16:17:26.000Z",
-          "wordCount": 1371,
-          "title": "Policy paper: Government response to the Joint Committee on the draft Mental Health Bill",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -5485,16 +5496,6 @@
           "wordCount": null,
           "title": "Upgrading the sh*t PC I'm working on in my practice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/GPUK/comments/1c5kbxy/gp_trainees_supervision_at_a_utc/",
-          "author": null,
-          "description": "Hello GPs and supervisors, \n I am currently GPST2 who is starting a placement at a UTC where there’s basically no GPs and obviously no GP trainers. It’s completely run by allied health care professionals. There’s a GP on-call remotely for advice and that’s all. \n My question is: am I ok with working with no supervision? As per my understanding and the NHSE policy; GP trainees are to be supervised at all times when in GP practice. I don’t know if it’s the same with UTCs. \n Advice and course of action appreciated. \n    submitted by    /u/Formerchild7571  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/GPUK/comments/1c5kbxy/gp_trainees_supervision_at_a_utc/",
-          "publishedOn": "2024-04-16T16:24:26.000Z",
-          "wordCount": null,
-          "title": "GP trainees supervision at a UTC",
-          "imageUrl": null
         }
       ]
     },
@@ -5503,6 +5504,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ct4mbs/new_cross_hospital_wolverhampton/",
+          "author": null,
+          "description": "I will be working at New Cross, Wolves from August. Completely new to Wolverhampton and Birmingham area and was hoping to get some advice from people familiar with the area regarding living and working here!\n I understand that Wolverhampton is not a nice place to live, but are there any decent places nearby (or near the hospital)?\n Is wolves that bad to live in? I would prefer to be walking distance to the hospital to minimise commuting as I do not have a car (should I get one?) My main concern would be racism and crime - I don't have children currently so not worried about schools and etc. If I lived in wolves, my main interactions with the town would be going to the gym, boardgames, doing groceries, church.\n Are there any particular quirks about working at New Cross I should know about? \n Appreciate any help!\n    submitted by    /u/Suspicious-Bid-9025  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ct4mbs/new_cross_hospital_wolverhampton/",
+          "publishedOn": "2024-05-16T04:24:03.000Z",
+          "wordCount": null,
+          "title": "New Cross Hospital (Wolverhampton)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cszm35/nhs_whistleblowers_series_by_the_telegraph/",
           "author": null,
