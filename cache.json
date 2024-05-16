@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "4f6d055f-68a5-424d-a9c0-01609f5cd231",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited vulnerability and eight others in Google Chrome\n Security update addresses an exploited vulnerability and eight others in Google Chrome\n Updated: 16 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4494",
+          "publishedOn": "2024-05-16T13:36:00.000Z",
+          "wordCount": 665,
+          "title": "CC-4494 - Google Releases Security Update for Exploited Vulnerability CVE-2024-4947",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "b307a54a-5cb6-4e25-8856-89e22f44fd2c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses four security vulnerabilities\n Advisory addresses four security vulnerabilities\n Updated: 15 May 2024",
@@ -172,6 +182,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=146822",
+          "author": "Maya Dhillon",
+          "description": "Mazars financial planner Thomas Scrupps breaks down the Court of Appeal’s ‘McCloud’ judgement that may allow younger GPs to stay on older pension arrangements In 2015, most public sector pension schemes, including the NHS Pension Scheme, underwent reforms. As a result, many NHS Pension members had to transition into new arrangements. However, other members closer\nThe post Finance Diary: How a court ruling may affect your pension appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/practice-personal-finance/finance-diary-how-a-court-ruling-may-affect-your-pension/",
+          "publishedOn": "2024-05-16T14:08:17.000Z",
+          "wordCount": 3950,
+          "title": "Finance Diary: How a court ruling may affect your pension",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/03/Finance-diary.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147613",
+          "author": "Sofia Lind",
+          "description": "NHS England has announced it will further expand the use of virtual wards in an update to the urgent and emergency care recovery plan. It includes proposals for GPs to have easier access to ‘step-up wards’ to prevent people ending up in hospital as well as an aim to increase the use of virtual wards\nThe post NHS England to expand use of virtual wards after positive evaluation appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/urgent-care/nhs-england-to-expand-use-of-virtual-wards-after-positive-evaluation/",
+          "publishedOn": "2024-05-16T13:25:58.000Z",
+          "wordCount": 3487,
+          "title": "NHS England to expand use of virtual wards after positive evaluation",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Hypertension-Home-BP-Measurement-GettyRF-2032791070-1200-x-800.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147610",
           "author": "Eliza Parr",
@@ -2907,6 +2937,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/how-has-the-role-of-the-private-sector-changed-in-uk-health-care.html",
+          "author": null,
+          "description": "Nuffield Trust - This long read reveals that, since the pandemic, there has been a 30% increase in the number of people paying out of their own pocket for hospital care across the UK’s four countries. The authors warn that this may be being forced by a lack of timely access to NHS provision rather than a planned extension of...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/how-has-the-role-of-the-private-sector-changed-in-uk-health-care.html",
+          "publishedOn": "2024-05-16T13:20:56.000Z",
+          "wordCount": null,
+          "title": "How has the role of the private sector changed in UK health care?",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/the-care-act-2014-ten-years-on-from-royal-assent.html",
           "author": null,
           "description": "Local Government Association - A decade on since the Care Act received Royal Assent, our publication reflects on the extent to which the aims of the legislation have been achieved and, where they have not, what changes are needed to deliver fully on the Act’s ambitions. Report Press release",
@@ -5624,6 +5664,56 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ctdtgm/update_to_pa_falsifying_records/",
+          "author": null,
+          "description": "https://www.reddit.com/r/nhs/s/uqg2LxfdnK\n    submitted by    /u/Outside-Ad7386  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ctdtgm/update_to_pa_falsifying_records/",
+          "publishedOn": "2024-05-16T14:09:09.000Z",
+          "wordCount": null,
+          "title": "Update to PA falsifying records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ctdouw/mass_resignation_in_protest/",
+          "author": null,
+          "description": "Just thought of a concept came here so that people on the Internet can call me stupid.\n So instead of walkout, we do a 3 month notice every single doctor working in the NHS resigns and their leaving date is 3 months from the day. Govt would have to act ... right?\n    submitted by    /u/Dr_ssyed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ctdouw/mass_resignation_in_protest/",
+          "publishedOn": "2024-05-16T14:03:45.000Z",
+          "wordCount": null,
+          "title": "Mass resignation in protest.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ctda40/diary_of_a_night_sho_part_3_of_3_grand_finale/",
+          "author": null,
+          "description": "Nights are officially completed it’s been a wild ride everyone I’m so happy to have participated in saving the nhs patient by patient at 3am! \n    submitted by    /u/Cameralagg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ctda40/diary_of_a_night_sho_part_3_of_3_grand_finale/",
+          "publishedOn": "2024-05-16T13:45:54.000Z",
+          "wordCount": null,
+          "title": "Diary of a Night SHO part 3 of 3 (Grand finale!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ctcr7x/gmc_research/",
+          "author": null,
+          "description": "Loved the insightful email just received from the GMC regarding their new research on team working. Where they found that “continuity” increases team efficiency. FAKE SHOCK GMC are you telling me that rotational training is a BAD thing for team efficiency? Never would’ve guessed personally. Man if only there was something you could do about that huh.. \n Also love when they go in to more detail they call it something nice and vague like “transient team structures” \n    submitted by    /u/Affectionate_Leg110  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ctcr7x/gmc_research/",
+          "publishedOn": "2024-05-16T13:20:57.000Z",
+          "wordCount": null,
+          "title": "GMC research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1ctckn4/mrcp_results_processing/",
+          "author": null,
+          "description": "End of the day, maybe?\n    submitted by    /u/Rule34NoExceptions  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1ctckn4/mrcp_results_processing/",
+          "publishedOn": "2024-05-16T13:12:07.000Z",
+          "wordCount": null,
+          "title": "MRCP Results 'Processing'",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1ctbk0d/what_the_hell_is_the_point_of_these_people_even/",
           "author": null,
