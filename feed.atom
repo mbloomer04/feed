@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-15T23:10:04.388Z</updated>
+    <updated>2024-05-16T00:41:21.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS whistleblowers series by The Telegraph]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1cszm35/nhs_whistleblowers_series_by_the_telegraph/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1cszm35/nhs_whistleblowers_series_by_the_telegraph/"/>
+        <updated>2024-05-15T23:58:14.000Z</updated>
+        <summary type="html"><![CDATA[https://www.telegraph.co.uk/news/2024/05/15/nhs-bosses-destroy-careers-whistleblowers-avoidable-deaths/
+ https://www.telegraph.co.uk/news/2024/05/15/the-four-step-playbook-the-nhs-uses-to-break-whistleblowers/
+ https://www.telegraph.co.uk/news/2024/05/15/the-nhs-whistleblowers-who-had-their-careers-ruined/
+    submitted by    /u/twistedbutviable  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: £85 million pledged to tackle antibiotic emergency]]></title>
         <id>https://www.gov.uk/government/news/85-million-pledged-to-tackle-antibiotic-emergency</id>
@@ -23665,16 +23679,6 @@ The post We can fight back against this state of discontentment appeared first o
         <summary type="html"><![CDATA[Department of Health and Social Care - This call for evidence forms part of a review by the Department of Health and Social Care to consider the operation (including compliance and enforcement) of the statutory duty of candour (‘the duty’) for health and social care providers in England. The call for evidence will be particularly relevant to those who are,...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE awards £8.5m contract to KPMG to ‘promote adoption’ of FDP]]></title>
-        <id>https://www.digitalhealth.net/?p=173815</id>
-        <link href="https://www.digitalhealth.net/2024/04/nhse-awards-8-5m-contract-to-kpmg-to-promote-adoption-of-fdp/"/>
-        <updated>2024-04-16T12:30:21.000Z</updated>
-        <summary type="html"><![CDATA[NHS England has awarded an £8.5m contract to consultancy firm KPMG to “promote the adoption” of the FDP by trusts and integrated care boards.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>
