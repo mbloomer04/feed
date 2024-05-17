@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0726f51c-e071-4572-8945-fb51740b78d9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Low\n A CISA medical advisory has been updated to reflect a new vulnerability present in GE HealthCare ultrasound products\n A CISA medical advisory has been updated to reflect a new vulnerability present in GE HealthCare ultrasound products\n Updated: 17 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4495",
+          "publishedOn": "2024-05-17T15:18:00.000Z",
+          "wordCount": 900,
+          "title": "CC-4495 - GE Healthcare Ultrasound Products Security Advisory Update",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "4f6d055f-68a5-424d-a9c0-01609f5cd231",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited vulnerability and eight others in Google Chrome\n Security update addresses an exploited vulnerability and eight others in Google Chrome\n Updated: 16 May 2024",
@@ -172,6 +182,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147661",
+          "author": "Eliza Parr",
+          "description": "There is ‘clear public appetite’ for shifting NHS funding towards general practice and away from hospitals, a health think tank has advised the next Government.  Based on polling and workshops with the public, the Health Foundation has recommended policymakers ‘give primary care and community services an increasing share of the available resources’.  Polling found that\nThe post Public wants GPs to get greater share of NHS funding, finds leading think tank appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/politics/public-wants-gps-to-get-greater-share-of-nhs-funding-finds-leading-think-tank/",
+          "publishedOn": "2024-05-17T15:18:50.000Z",
+          "wordCount": 3919,
+          "title": "Public wants GPs to get greater share of NHS funding, finds leading think tank",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/10/Cut-in-Scottish-GP-funding-will-affect-services-to-patients-warns-RCGP.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147629",
+          "author": "Sofia Lind",
+          "description": "Cash incentives of up to £400 alongside motivational text messages could be used to help men with obesity lose weight, a UK trial has found. After a year, men who were offered the ‘Game of Stones’ financial reward had lost a significant 3.2% more weight than those who had the daily messages offering motivation and\nThe post Cash incentives alongside motivational texts could boost weight loss appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/obesity-and-nutrition/cash-incentives-alongside-motivational-texts-could-boost-weight-loss/",
+          "publishedOn": "2024-05-17T15:12:57.000Z",
+          "wordCount": 3562,
+          "title": "Cash incentives alongside motivational texts could boost weight loss",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/BMA-to-seek-clarity-for-GP-exemption-from-anti-money-laundering-initiative.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147440",
           "author": "Maya Dhillon",
@@ -5643,6 +5673,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cu94be/dundee_paces/",
+          "author": null,
+          "description": "If anyone has done PACEs in Dundee this year or before or is working in Dundee could you pls let me know! Wanted to get an idea of what common pathologies are seen in Dundee. Thanks! \n    submitted by    /u/Lonely-Reality-3911  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cu94be/dundee_paces/",
+          "publishedOn": "2024-05-17T16:08:34.000Z",
+          "wordCount": null,
+          "title": "Dundee PACEs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cu77v1/contents_of_yesterdays_grand_rounds_on_pas_at_uhb/",
           "author": null,
@@ -16040,6 +16080,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cu7t8g/anyone_who_has_been_to_an_nhs_band_1_dental/",
+          "author": null,
+          "description": "So I had a Band 1 NHS dental checkup. I usually have 1 every year. I have had several cavities in the past in in 2022 I was told I have mild gingivitis. Hygiene advice was given and in 2023 I was told the same. I have only now found out that flouride varnish can be offered as part of Band 1. I am starting to get the feeling that my dentist is being lazy… has anyone been given/offered this at any point?\n    submitted by    /u/TowelLower5636  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cu7t8g/anyone_who_has_been_to_an_nhs_band_1_dental/",
+          "publishedOn": "2024-05-17T15:16:01.000Z",
+          "wordCount": null,
+          "title": "Anyone who has been to an NHS Band 1 Dental checkup been offered fluoride varnish?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cu2mko/got_this_text_today_from_an_07_number_is_this/",
           "author": null,
