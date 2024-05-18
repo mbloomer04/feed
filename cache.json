@@ -144,26 +144,6 @@
           "wordCount": 520,
           "title": "CC-4482 - Zero-Day Vulnerability in CrushFTP",
           "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "864e48df-1797-4a61-919f-74081c8d3ba8",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Two vulnerabilities found in devices using Cisco Integrated Management Controller (IMC) could lead to privilege escalation\n Two vulnerabilities found in devices using Cisco Integrated Management Controller (IMC) could lead to privilege escalation\n Updated: 18 Apr 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4481",
-          "publishedOn": "2024-04-18T15:29:00.000Z",
-          "wordCount": 873,
-          "title": "CC-4481 - Cisco Releases Advisories for Command Injection Vulnerabilities in Multiple Products",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "5f411cad-76f7-4427-9147-ea2352472abd",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The vulnerabilities could allow an attacker to remotely execute code, access the BIOS configuration or redirect a victim to an attacker-controlled domain\n The vulnerabilities could allow an attacker to remotely execute code, access the BIOS configuration or redirect a victim to an attacker-controlled domain\n Updated: 18 Apr 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4480",
-          "publishedOn": "2024-04-18T15:25:00.000Z",
-          "wordCount": 740,
-          "title": "CC-4480 - VMware Releases Security Updates for SD-WAN Edge and SD-WAN Orchestrator",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1712143187605/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1321,26 +1301,6 @@
           "wordCount": 3533,
           "title": "March sees highest number of measles cases yet as outbreak continues to spread",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/02/measles-child-virus-rash.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=146707",
-          "author": "Eliza Parr",
-          "description": "A GP who took part in ‘peaceful’ Just Stop Oil protests two years ago is facing GMC allegations at a tribunal this week.  The Medical Practitioners Tribunal Service (MPTS) is inquiring into allegations that Dr Sarah Benn breached a court injunction by attending protests at a Warwickshire oil terminal in 2022.  Today, the tribunal made\nThe post GP faces MPTS tribunal for taking part in Just Stop Oil protest appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/regulation/gp-faces-mpts-tribunal-for-taking-part-in-just-stop-oil-protest/",
-          "publishedOn": "2024-04-18T15:34:51.000Z",
-          "wordCount": 2808,
-          "title": "GP faces MPTS tribunal for taking part in Just Stop Oil protest",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/06/Credit-Vlad-Morozov-26-04-2022-06-37-27.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=146694",
-          "author": "Sofia Lind",
-          "description": "Regular shortages of life-saving medicines have become the ‘new normal’ in the UK, according to a report from the Nuffield Trust, which concludes Brexit has made the problem harder to tackle. In particular, the past two years has seen constant shortages with frequent disruption now commonplace and the NHS having to spend hundreds of millions\nThe post Drug shortages are ‘new normal’ and made worse by Brexit, report says appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/prescribing/drug-shortages-are-new-normal-and-made-worse-by-brexit-report-says/",
-          "publishedOn": "2024-04-18T15:16:05.000Z",
-          "wordCount": 2864,
-          "title": "Drug shortages are ‘new normal’ and made worse by Brexit, report says",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/r/d/r/GettyImages-537309906-scaled.jpg"
         }
       ]
     },
@@ -2018,16 +1978,6 @@
           "wordCount": 713,
           "title": "Climate protest GP facing GMC sanctions after tribunal misconduct ruling",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Credit-Vlad-Morozov-26-04-2022,063727.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1869361",
-          "author": null,
-          "description": "A GP practice has won a small business award for 'triumph over adversity' after absorbing more than 10,000 patients from a nearby practice shut down after an inadequate CQC rating.",
-          "link": "https://www.gponline.com/gp-practice-wins-business-award-exceptional-resilience-local-crisis/article/1869361",
-          "publishedOn": "2024-04-18T15:36:35.000Z",
-          "wordCount": 705,
-          "title": "GP practice wins business award for 'exceptional resilience' in local crisis",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Quayside_Zeenat_Cosr.jpg"
         }
       ]
     },
@@ -5513,6 +5463,16 @@
       "feedUrl": "https://www.reddit.com/r/doctorsUK.rss",
       "siteUrl": "https://www.reddit.com/r/doctorsUK",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/doctorsUK/comments/1cunrcw/rcpl_fellow_responsible_for_egm_running_for/",
+          "author": null,
+          "description": "Not sure what the rules are regarding political campaigning but thought this would be of interest to this sub, considering that Dr Nicholl was one of the main RCPL fellows responsible for ensuring that the EGM for PAs went ahead and has stuck up for the interests of future consultants. Wouldn't be a bad idea to have one of the good ones in parliament since a lot of the issues we face can only be improved by those at the top, so if anyone here is from or knows someone in Bromsgrove you know what to do! \n https://www.dauk.org/news/2024/03/14/physician-associates-roll-out-needs-to-be-slowed-down/\n    submitted by    /u/Onion_Ok  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/doctorsUK/comments/1cunrcw/rcpl_fellow_responsible_for_egm_running_for/",
+          "publishedOn": "2024-05-18T03:11:30.000Z",
+          "wordCount": null,
+          "title": "RCPL Fellow Responsible for EGM Running for Bromsgrove MP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/doctorsUK/comments/1cune2l/sharing_patient_updates_with_external_radiologist/",
           "author": null,
@@ -16040,6 +16000,16 @@
       "feedUrl": "https://www.reddit.com/r/nhs.rss",
       "siteUrl": "https://www.reddit.com/r/nhs",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/nhs/comments/1cunx9d/what_would_be_an_appropriate_gift_for_the_lovely/",
+          "author": null,
+          "description": "My partner and I are going through it right now and the NHS and my partners team in particular has been nothing short of absolutely amazing and has worked at lightning speed to get this, hopefully, sorted to a point where my partner will not die from this. We are so grateful and are thinking we would like to give the people involved a gift once we get to a sort of end point of this \"journey\". \n We are a struggling a bit with what this could be? We were thinking individual gift baskets, as splitting them up is always a faff. Is that something those of you who work for the NHS would appreciate, or do you maybe have some thoughts? \n Thank you so much for all you do. We have the utmost respect and love for you. You're truly amazing and I'm sorry a lot of people can't see that.\n    submitted by    /u/IthinkImightbeevil  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/nhs/comments/1cunx9d/what_would_be_an_appropriate_gift_for_the_lovely/",
+          "publishedOn": "2024-05-18T03:20:46.000Z",
+          "wordCount": null,
+          "title": "What would be an appropriate gift for the lovely team of doctors and nurses that may just end up saving my partners life?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/nhs/comments/1cum59d/nhs_deductions_for_overseas_workers/",
           "author": null,
