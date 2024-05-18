@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-18T05:09:36.552Z</updated>
+    <updated>2024-05-18T06:11:53.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How does one have a healthy working life as a doctor?]]></title>
+        <id>https://www.reddit.com/r/doctorsUK/comments/1cuq875/how_does_one_have_a_healthy_working_life_as_a/</id>
+        <link href="https://www.reddit.com/r/doctorsUK/comments/1cuq875/how_does_one_have_a_healthy_working_life_as_a/"/>
+        <updated>2024-05-18T05:38:42.000Z</updated>
+        <summary type="html"><![CDATA[I'm currently reading "The Health Gap" by Michael Marmot, who argues that for work to improve health outcomes, it must have healthy psychosocial elements - one must feel that their effort is adequately rewarded, minimise job strain (high demands, low control), and facilitate social connection. If you don't have these elements, your health outcomes are likely to suffer as a result...
+ At times it seems like working in Medicine leads one to forfeit these healthy psychosocial elements due to the nature of our jobs. As a doctor who has just entered the profession, reading and reflecting on this is quite disheartening and worrying. I don't subscribe to the argument that some people make where they say that "this is the life you chose, so suck it up and deal with it"; whilst there is a certain level of hardship that I believe that everyone going into Medicine is prepared to accept, I don't think that the 16 year old working towards entering medical school is fully cognisant of what working life is/should be like, much less what working as a doctor actually involves. 
+ I was wondering if anybody could share any advice as to how your workplace or you personally have tried to incorporate these things into your life as a doctor, specifically recognising and rewarding effort; offsetting high demands by obtaining more control; and facilitating social connection. Not just for my benefit, but for anyone else who's also new and nervous having just entered the profession!
+ Thanks so much - any and all advice is much appreciated. 
+    submitted by    /u/RealisticMud1959  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>DoctorsUK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What would be an appropriate gift for the lovely team of doctors and nurses that may just end up saving my partners life?]]></title>
         <id>https://www.reddit.com/r/nhs/comments/1cunx9d/what_would_be_an_appropriate_gift_for_the_lovely/</id>
@@ -25150,20 +25165,6 @@ The post March sees highest number of measles cases yet as outbreak continues to
  [link]   [comments]]]></summary>
         <author>
             <name>GPUK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO prequalifies new oral simplified vaccine for cholera]]></title>
-        <id>urn:uuid:b6d48a7b-2bde-4856-a46c-e549b1f30265</id>
-        <link href="https://www.who.int/news/item/18-04-2024-who-prequalifies-new-oral-simplified-vaccine-for-cholera"/>
-        <updated>2024-04-18T18:11:07.000Z</updated>
-        <summary type="html"><![CDATA[A new oral vaccine for cholera has received prequalification by the World Health Organization (WHO) on 12 April. The inactivated oral vaccine Euvichol-S has a similar efficacy to existing vaccines but a simplified formulation, allowing opportunities to rapidly increase production capacity. 
-“The new vaccine is the third product of the same family of vaccines we have for cholera in our WHO prequalification list,” said Dr Rogerio Gaspar, Director of the WHO Department for Regulation and Prequalification. “The new prequalification is hoped to enable a rapid increase in production and supply which many communities battling with cholera outbreaks urgently need.”
-WHO prequalification list already includes Euvichol and Euvichol-Plus inactivated oral cholera vaccines produced by EuBiologicals Co., Ltd, Republic of South Korea, which also produces the new vaccine Euvichol-S.  
-Vaccines provide the fastest intervention to prevent, limit and control cholera outbreaks but supplies have been at the lowest point amidst countries facing dire shortcomings in other areas of cholera prevention and management such as safe water, hygiene and sanitation.  
-There were 473 000 cholera cases reported to WHO in 2022 -- double the number from 2021. Further increase of cases by 700 000 was estimated for 2023. Currently, 23 countries are reporting cholera outbreaks with most severe impacts seen in the Comoros, Democratic Republic of the Congo, Ethiopia, Mozambique, Somalia, Zambia and Zimbabwe.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
