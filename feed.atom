@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-20T07:10:03.045Z</updated>
+    <updated>2024-05-20T08:12:48.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public wants primary care to receive greater share of NHS funding, research finds]]></title>
+        <id>https://www.gponline.com/article/1873347</id>
+        <link href="https://www.gponline.com/public-wants-primary-care-receive-greater-share-nhs-funding-research-finds/article/1873347"/>
+        <updated>2024-05-20T07:53:56.000Z</updated>
+        <summary type="html"><![CDATA[The majority of people believe that funding for primary care should be prioritised over hospitals, according to new research by a leading think tank.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entia at-home full blood count analyser to be deployed at NHS trusts]]></title>
+        <id>https://www.digitalhealth.net/?p=175693</id>
+        <link href="https://www.digitalhealth.net/2024/05/entia-at-home-full-blood-count-analyser-to-be-deployed-at-nhs-trusts/"/>
+        <updated>2024-05-20T07:30:18.000Z</updated>
+        <summary type="html"><![CDATA[A full blood count analyser from Entia has received the UKCA mark and is set to be deployed at two NHS trusts this September, with more to follow.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ground-breaking progress made in Member State negotiations on amendments to the International Health Regulations (IHR)]]></title>
         <id>urn:uuid:98e3db7a-1cc8-4281-90c2-83eef5a35efa</id>

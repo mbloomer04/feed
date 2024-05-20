@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1873347",
+          "author": null,
+          "description": "The majority of people believe that funding for primary care should be prioritised over hospitals, according to new research by a leading think tank.",
+          "link": "https://www.gponline.com/public-wants-primary-care-receive-greater-share-nhs-funding-research-finds/article/1873347",
+          "publishedOn": "2024-05-20T07:53:56.000Z",
+          "wordCount": 703,
+          "title": "Public wants primary care to receive greater share of NHS funding, research finds",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896426_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1873208",
           "author": null,
           "description": "GPs have been pushed to the brink of collective action by a 'sense of injustice' as the government refuses to renegotiate the 2024/25 GP contract while offering pay rises to other doctors, doctors' leaders say.",
@@ -3339,6 +3349,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=175693",
+          "author": "Cora Lydon",
+          "description": "A full blood count analyser from Entia has received the UKCA mark and is set to be deployed at two NHS trusts this September, with more to follow.",
+          "link": "https://www.digitalhealth.net/2024/05/entia-at-home-full-blood-count-analyser-to-be-deployed-at-nhs-trusts/",
+          "publishedOn": "2024-05-20T07:30:18.000Z",
+          "wordCount": 1899,
+          "title": "Entia at-home full blood count analyser to be deployed at NHS trusts",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/05/Entia_Lifestyle_blood-analyser-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=175371",
           "author": "Cora Lydon",
