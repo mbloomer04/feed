@@ -1290,6 +1290,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1873423",
+          "author": null,
+          "description": "Thousands of GP practices across England could launch a wave of collective action on 1 August over the contract imposed on the profession for 2024/25, the BMA has said.",
+          "link": "https://www.gponline.com/gp-collective-action-contract-start-1-august-says-bma/article/1873423",
+          "publishedOn": "2024-05-20T11:24:36.000Z",
+          "wordCount": 707,
+          "title": "GP 'collective action' over contract could start from 1 August, says BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_8.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1873406",
+          "author": null,
+          "description": "An 11,000-patient Nottinghamshire practice whose partners handed back their contract will be taken over by England's largest GP 'superpartnership' under a 10-year APMS contract, ICB leaders have confirmed.",
+          "link": "https://www.gponline.com/450000-patient-gp-superpartnership-confirms-apms-deal-run-nottinghamshire-practice/article/1873406",
+          "publishedOn": "2024-05-20T10:17:03.000Z",
+          "wordCount": 692,
+          "title": "450,000-patient GP 'superpartnership' confirms APMS deal to run Nottinghamshire practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_50.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1873355",
           "author": null,
           "description": "PCNs will be forced to choose between making additional roles staff redundant or asking member practices for six-figure sums to subsidise their salaries after a change in funding rules, LMCs have said.",
@@ -1927,6 +1947,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/cervical-screening-cytology-samples-external-quality-assessment",
+          "author": null,
+          "description": "External quality assessment scheme for the preparation and staining of cervical liquid based cytology samples.",
+          "link": "https://www.gov.uk/government/publications/cervical-screening-cytology-samples-external-quality-assessment",
+          "publishedOn": "2024-05-20T11:09:21.000Z",
+          "wordCount": 950,
+          "title": "Guidance: Cervical screening: cytology samples external quality assessment",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis",
           "author": null,
           "description": "Quick reference materials for primary care on diagnosing and understanding culture results for urinary tract infections (UTI).",
@@ -2287,6 +2317,16 @@
           "wordCount": 4231,
           "title": "Press release: Expansion of life-saving opioid overdose treatment",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/em-on-eu-regulations-2017745-2017746-com202443",
+          "author": null,
+          "description": "The government's summary of changes to the transitional arrangements for the supply of certain in vitro diagnostic medical devices within the Eurioean Union.",
+          "link": "https://www.gov.uk/government/publications/em-on-eu-regulations-2017745-2017746-com202443",
+          "publishedOn": "2024-05-13T23:00:00.000Z",
+          "wordCount": 988,
+          "title": "Policy paper: EM on EU regulations 2017/745 & 2017/746 (COM(2024)43)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         },
         {
           "id": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-birth-trauma-appg",
