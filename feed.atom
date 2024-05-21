@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-21T12:16:47.478Z</updated>
+    <updated>2024-05-21T13:11:57.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Northamptonshire hospitals are first to transition to local instance of FDP]]></title>
+        <id>https://www.digitalhealth.net/?p=175817</id>
+        <link href="https://www.digitalhealth.net/2024/05/northamptonshire-hospitals-are-first-to-transition-to-local-instance-of-fdp/"/>
+        <updated>2024-05-21T12:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Kettering and Northampton General Hospitals have become the first pilot sites to transition to a local instance of the NHS Federated Data Platform (FDP).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clinical trials get faster]]></title>
         <id>be1ef9a4-2036-4c33-9d84-0c95b54742bb</id>
