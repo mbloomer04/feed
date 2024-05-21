@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-21T18:11:52.431Z</updated>
+    <updated>2024-05-21T19:08:40.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: SaBTO microbiological safety guidelines]]></title>
+        <id>https://www.gov.uk/government/publications/guidance-on-the-microbiological-safety-of-human-organs-tissues-and-cells-used-in-transplantation</id>
+        <link href="https://www.gov.uk/government/publications/guidance-on-the-microbiological-safety-of-human-organs-tissues-and-cells-used-in-transplantation"/>
+        <updated>2024-05-21T19:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Information on the safety of transplanting human organs, tissues and cells from the advisory committee on the Safety of Blood, Tissues and Organs (SaBTO).]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP spirometry referrals regularly rejected despite ICB guidance]]></title>
         <id>https://www.pulsetoday.co.uk/?p=147174</id>
