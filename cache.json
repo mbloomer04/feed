@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5232bd6f-aa2a-4adb-aa8a-88de43bc73cb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Updated: 21 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4496",
+          "publishedOn": "2024-05-21T15:07:00.000Z",
+          "wordCount": 678,
+          "title": "CC-4496 - Proof-of-Concept Exploit Released for Critical Git Vulnerability CVE-2024-32002",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "0726f51c-e071-4572-8945-fb51740b78d9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Low\n A CISA medical advisory has been updated to reflect a new vulnerability present in GE HealthCare ultrasound products\n A CISA medical advisory has been updated to reflect a new vulnerability present in GE HealthCare ultrasound products\n Updated: 17 May 2024",
@@ -152,6 +162,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=145948",
+          "author": "Sofia Lind",
+          "description": "People with multiple sclerosis (MS) have a much higher risk of being hospitalised and dying from Covid despite being more likely to be vaccinated, UK research suggests. The analysis was done on data from the INFORM study which includes information on 12 million people aged 12 years and older in England. Previous research from the\nThe post People with MS at risk of severe outcomes from Covid despite being fully vaccinated appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/people-with-ms-at-risk-of-severe-outcomes-from-covid-despite-being-fully-vaccinated/",
+          "publishedOn": "2024-05-21T15:07:37.000Z",
+          "wordCount": 3511,
+          "title": "People with MS at risk of severe outcomes from Covid despite being fully vaccinated",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/GP-practices-offered-staff-from-closing-mass-vaccination-centres.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147754",
+          "author": "Maya Dhillon",
+          "description": "Following yesterday’s publication of the Infected Blood Inquiry report, Dr Nasir Nabi reflects on his time in haematology at the beginning of his career As I enter the twilight of my career, I am beginning to wonder whether I have killed more patients than I have saved; whether I have harmed more than I have\nThe post Infected blood scandal: ‘Have I killed more patients than I have saved?’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/infected-blood-scandal-have-i-killed-more-patients-than-i-have-saved/",
+          "publishedOn": "2024-05-21T15:00:28.000Z",
+          "wordCount": 3791,
+          "title": "Infected blood scandal: ‘Have I killed more patients than I have saved?’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/No-routine-bloods-accepted-at-London-NHS-trust-a-week-after-IT-meltdown.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147744",
           "author": "Eliza Parr",
@@ -1359,6 +1389,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1873091",
+          "author": null,
+          "description": "Some GP practices in Scotland could be forced to close and many more left in a 'precarious' financial position after the government paused a loan scheme meant to ease pressure on general practice.",
+          "link": "https://www.gponline.com/gp-practices-risk-government-pauses-loan-scheme/article/1873091",
+          "publishedOn": "2024-05-21T13:47:00.000Z",
+          "wordCount": 699,
+          "title": "GP practices at risk after government pauses loan scheme",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-KenJackCorbisviaGettyImages.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1873526",
           "author": null,
@@ -3543,6 +3583,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:0be1bfb4-fd6b-447a-b5ae-09c2c4af0267",
+          "author": null,
+          "description": "Global HIV, viral hepatitis epidemics and sexually transmitted infections (STIs) continue to pose significant public health challenges, causing 2.5 million deaths each year, according to a new WHO report - Implementing the global health sector strategies on HIV, viral hepatitis and sexually transmitted infections, 2022–2030.",
+          "link": "https://www.who.int/news/item/21-05-2024-new-report-flags-major-increase-in-sexually-transmitted-infections---amidst-challenges-in-hiv-and-hepatitis",
+          "publishedOn": "2024-05-21T07:50:55.000Z",
+          "wordCount": 2901,
+          "title": "New report flags major increase in sexually transmitted infections, \r\namidst challenges in HIV and hepatitis",
+          "imageUrl": "https://www.who.int/images/default-source/departments/reproductive-health/sexually-transmitted-infections/y1c5825_1920x.tmb-1200v.jpeg?Culture=en&sfvrsn=c1399442_1"
+        },
         {
           "id": "urn:uuid:26983862-c71f-4650-91e6-1d43d91aaccc",
           "author": null,

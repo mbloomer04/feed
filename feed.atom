@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-21T14:08:49.008Z</updated>
+    <updated>2024-05-21T15:09:48.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[People with MS at risk of severe outcomes from Covid despite being fully vaccinated]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=145948</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/people-with-ms-at-risk-of-severe-outcomes-from-covid-despite-being-fully-vaccinated/"/>
+        <updated>2024-05-21T15:07:37.000Z</updated>
+        <summary type="html"><![CDATA[People with multiple sclerosis (MS) have a much higher risk of being hospitalised and dying from Covid despite being more likely to be vaccinated, UK research suggests. The analysis was done on data from the INFORM study which includes information on 12 million people aged 12 years and older in England. Previous research from the
+The post People with MS at risk of severe outcomes from Covid despite being fully vaccinated appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4496 - Proof-of-Concept Exploit Released for Critical Git Vulnerability CVE-2024-32002]]></title>
+        <id>5232bd6f-aa2a-4adb-aa8a-88de43bc73cb</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4496"/>
+        <updated>2024-05-21T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE
+ Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE
+ Updated: 21 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infected blood scandal: ‘Have I killed more patients than I have saved?’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=147754</id>
+        <link href="https://www.pulsetoday.co.uk/views/guest-opinion/infected-blood-scandal-have-i-killed-more-patients-than-i-have-saved/"/>
+        <updated>2024-05-21T15:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday’s publication of the Infected Blood Inquiry report, Dr Nasir Nabi reflects on his time in haematology at the beginning of his career As I enter the twilight of my career, I am beginning to wonder whether I have killed more patients than I have saved; whether I have harmed more than I have
+The post Infected blood scandal: ‘Have I killed more patients than I have saved?’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Closed consultation: Our plan to improve the lives of people with ME/CFS (easy read)]]></title>
         <id>https://www.gov.uk/government/consultations/our-plan-to-improve-the-lives-of-people-with-mecfs-easy-read</id>
@@ -24,6 +59,16 @@
         <summary type="html"><![CDATA[We're seeking your views on an interim delivery plan to improve the experiences and outcomes of people with myalgic encephalomyelitis/chronic fatigue syndrome.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP practices at risk after government pauses loan scheme]]></title>
+        <id>https://www.gponline.com/article/1873091</id>
+        <link href="https://www.gponline.com/gp-practices-risk-government-pauses-loan-scheme/article/1873091"/>
+        <updated>2024-05-21T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Some GP practices in Scotland could be forced to close and many more left in a 'precarious' financial position after the government paused a loan scheme meant to ease pressure on general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +208,17 @@ The post GPs should no longer be sole patient data controller, says influential 
         <summary type="html"><![CDATA[Guidance for people aged 12 and over whose immune system means they are at higher risk of serious illness if they become infected with COVID-19.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New report flags major increase in sexually transmitted infections, 
+amidst challenges in HIV and hepatitis]]></title>
+        <id>urn:uuid:0be1bfb4-fd6b-447a-b5ae-09c2c4af0267</id>
+        <link href="https://www.who.int/news/item/21-05-2024-new-report-flags-major-increase-in-sexually-transmitted-infections---amidst-challenges-in-hiv-and-hepatitis"/>
+        <updated>2024-05-21T07:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Global HIV, viral hepatitis epidemics and sexually transmitted infections (STIs) continue to pose significant public health challenges, causing 2.5 million deaths each year, according to a new WHO report - Implementing the global health sector strategies on HIV, viral hepatitis and sexually transmitted infections, 2022–2030.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
