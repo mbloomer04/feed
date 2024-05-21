@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1873439",
+          "author": null,
+          "description": "GPs, their families and patients held a protest last weekend urging the government to increase practice funding and widen the additional roles reimbursement scheme (ARRS) to GPs and practice nurses.",
+          "link": "https://www.gponline.com/hundreds-join-gp-led-protest-calling-practice-funding/article/1873439",
+          "publishedOn": "2024-05-21T08:14:00.000Z",
+          "wordCount": 697,
+          "title": "Hundreds join GP-led protest calling for more practice funding",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Protest_pic_BirminghamLMC.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1873423",
           "author": null,
           "description": "Thousands of GP practices across England could launch a wave of collective action on 1 August over the contract imposed on the profession for 2024/25, the BMA has said.",
@@ -2278,6 +2288,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/covid-19-guidance-for-people-whose-immune-system-means-they-are-at-higher-risk",
+          "author": null,
+          "description": "Guidance for people aged 12 and over whose immune system means they are at higher risk of serious illness if they become infected with COVID-19.",
+          "link": "https://www.gov.uk/government/publications/covid-19-guidance-for-people-whose-immune-system-means-they-are-at-higher-risk",
+          "publishedOn": "2024-05-21T08:07:54.000Z",
+          "wordCount": 1003,
+          "title": "Guidance: COVID-19: guidance for people whose immune system means they are at higher risk",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-february-2024",
           "author": null,
