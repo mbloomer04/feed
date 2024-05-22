@@ -1370,6 +1370,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1873767",
+          "author": null,
+          "description": "The RCGP has demanded an urgent review of 'all general practice funding streams', warning that the current system has left GPs in deprived areas without the resources they need to care for patients.",
+          "link": "https://www.gponline.com/rcgp-demands-overhaul-all-gp-funding-streams-cut-inequality/article/1873767",
+          "publishedOn": "2024-05-22T10:35:46.000Z",
+          "wordCount": 701,
+          "title": "RCGP demands overhaul of 'all GP funding streams' to cut inequality",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KamilaHawthorne2_GraingePhotography_19.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1873749",
           "author": null,
           "description": "The UK asylum process is damaging the health and wellbeing of people seeking sanctuary, GP-led research has found.",
@@ -2398,6 +2408,16 @@
           "wordCount": 1003,
           "title": "Guidance: COVID-19: guidance for people whose immune system means they are at higher risk",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/secretary-of-state-responds-to-the-infected-blood-inquiry-report",
+          "author": null,
+          "description": "Secretary of State for Health and Social Care, Victoria Atkins says the department will study the report to make sure lessons are learned.",
+          "link": "https://www.gov.uk/government/news/secretary-of-state-responds-to-the-infected-blood-inquiry-report",
+          "publishedOn": "2024-05-20T23:00:00.000Z",
+          "wordCount": 1210,
+          "title": "Government response: Secretary of State responds to the Infected Blood Inquiry report",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-february-2024",
