@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ff43a008-9e93-4cf6-915e-dc7e588a66c8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM\n Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM\n Updated: 22 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4499",
+          "publishedOn": "2024-05-22T15:58:00.000Z",
+          "wordCount": 710,
+          "title": "CC-4499 - Ivanti Releases Security Advisory May 2024",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "d0b19a50-877a-4e6d-a8fe-6ba90e9ac982",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands \n Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands\n Updated: 22 May 2024",
@@ -183,6 +193,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=147750",
+          "author": "Anna Colivicchi",
+          "description": "More than 2,000 GPs have failed to claim their NHS pension payments in time, according to new data from the NHS Business Services Authority (NHSBSA). New analysis of FOI data from NHSBSA, gathered by wealth management business Quilter, found that 209,553 members of the NHS pension scheme failed to claim pension payments due to a\nThe post Thousands of GPs failed to claim their NHS pension in time appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/thousands-of-gps-failed-to-claim-their-nhs-pension-in-time/",
+          "publishedOn": "2024-05-22T15:48:39.000Z",
+          "wordCount": 3673,
+          "title": "Thousands of GPs failed to claim their NHS pension in time",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/Government-plans-continued-suspension-of-return-to-work-pension-restrictions.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=147680",
           "author": "Maya Dhillon",
           "description": "Ahead of the UK LMC conference this week, Dr Burnt Out looks at the state of general practice in each of the four nations and considers the next steps needed to save the profession ‘I always arrive late at the office, but I make up for it by leaving early.’ If only Charles Lamb’s quote\nThe post Can the LMC conference revive general practice across the UK? appeared first on Pulse Today.",
@@ -231,6 +251,16 @@
           "wordCount": 3660,
           "title": "GP spirometry referrals regularly rejected despite ICB guidance",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/r/f/b/GettyImages-517468502-scaled-e1616602407104.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147773",
+          "author": "Caroline Price",
+          "description": "GP mental health lead Dr Peter Bagshaw explains the principles and evidence behind digital mental health technologies, their current place in psychological therapy and what future developments may be on the horizon. Learning objectives This module will enable you to improve your understanding of: Q1. What are digital mental health technologies and which ones have\nThe post Sponsored CPD: Key questions on digital mental health technologies appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/mental-health-and-addiction/sponsored-cpd-key-questions-on-digital-mental-health-technologies/",
+          "publishedOn": "2024-05-21T15:39:58.000Z",
+          "wordCount": 4445,
+          "title": "Sponsored CPD: Key questions on digital mental health technologies",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/05/Mental-health-Getty-RF-1129696669-1200-x-800.jpg"
         },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147773",

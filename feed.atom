@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-22T15:09:56.442Z</updated>
+    <updated>2024-05-22T16:11:59.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4499 - Ivanti Releases Security Advisory May 2024]]></title>
+        <id>ff43a008-9e93-4cf6-915e-dc7e588a66c8</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4499"/>
+        <updated>2024-05-22T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM
+ Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM
+ Updated: 22 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of GPs failed to claim their NHS pension in time]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=147750</id>
+        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/thousands-of-gps-failed-to-claim-their-nhs-pension-in-time/"/>
+        <updated>2024-05-22T15:48:39.000Z</updated>
+        <summary type="html"><![CDATA[More than 2,000 GPs have failed to claim their NHS pension payments in time, according to new data from the NHS Business Services Authority (NHSBSA). New analysis of FOI data from NHSBSA, gathered by wealth management business Quilter, found that 209,553 members of the NHS pension scheme failed to claim pension payments due to a
+The post Thousands of GPs failed to claim their NHS pension in time appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4500 - Multiple Vulnerabilities in Ivanti Endpoint Manager Mobile]]></title>
         <id>d0b19a50-877a-4e6d-a8fe-6ba90e9ac982</id>
@@ -218,6 +242,17 @@ The post RCGP calls on Government to ‘radically’ reform  Carr-Hill funding f
 The post GP spirometry referrals regularly rejected despite ICB guidance appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sponsored CPD: Key questions on digital mental health technologies]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=147773</id>
+        <link href="https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/mental-health-and-addiction/sponsored-cpd-key-questions-on-digital-mental-health-technologies/"/>
+        <updated>2024-05-21T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[GP mental health lead Dr Peter Bagshaw explains the principles and evidence behind digital mental health technologies, their current place in psychological therapy and what future developments may be on the horizon. Learning objectives This module will enable you to improve your understanding of: Q1. What are digital mental health technologies and which ones have
+The post Sponsored CPD: Key questions on digital mental health technologies appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Caroline Price</name>
         </author>
     </entry>
     <entry>
