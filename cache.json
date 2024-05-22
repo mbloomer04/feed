@@ -2300,6 +2300,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/calls-for-evidence/duty-of-candour-review",
+          "author": null,
+          "description": "Call for evidence seeking views on the statutory duty of candour for health and social care providers in England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/duty-of-candour-review",
+          "publishedOn": "2024-05-22T09:00:04.000Z",
+          "wordCount": 1198,
+          "title": "Open call for evidence: Duty of candour review",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/duty-of-candour-review-easy-read",
+          "author": null,
+          "description": "A review looking at how health and social care services should be honest and open with people when things go wrong. We would like to know what you think about the duty of candour.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/duty-of-candour-review-easy-read",
+          "publishedOn": "2024-05-22T09:00:04.000Z",
+          "wordCount": 1269,
+          "title": "Open call for evidence: Duty of candour review (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/guidance-on-the-microbiological-safety-of-human-organs-tissues-and-cells-used-in-transplantation",
           "author": null,
           "description": "Information on the safety of transplanting human organs, tissues and cells from the advisory committee on the Safety of Blood, Tissues and Organs (SaBTO).",
