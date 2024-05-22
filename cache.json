@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f6781107-fa4e-4f1d-9c2d-8543b5a2f2a9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager\n The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager\n Updated: 22 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4498",
+          "publishedOn": "2024-05-22T12:49:00.000Z",
+          "wordCount": 535,
+          "title": "CC-4498 - Veeam Releases Security Advisory",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "5232bd6f-aa2a-4adb-aa8a-88de43bc73cb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Updated: 21 May 2024",
@@ -191,6 +201,16 @@
           "wordCount": 3660,
           "title": "GP spirometry referrals regularly rejected despite ICB guidance",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/r/f/b/GettyImages-517468502-scaled-e1616602407104.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147773",
+          "author": "Caroline Price",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: Sponsored CPD: Key questions on digital mental health technologies appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/sponsored-cpd-key-questions-on-digital-mental-health-technologies/",
+          "publishedOn": "2024-05-21T15:39:58.000Z",
+          "wordCount": 2768,
+          "title": "Protected: Sponsored CPD: Key questions on digital mental health technologies",
+          "imageUrl": null
         },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147773",
@@ -3574,6 +3594,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:373ad5ae-03c4-4b31-81f8-40fa9dda0146",
+          "author": null,
+          "description": "The World Health Organization’s (WHO) Task Team on Climate Change, Neglected Tropical Diseases (NTDs) and Malaria, in partnership with Reaching the Last Mile (RLM), has released a major scoping review published in Transactions of the Royal Society of Tropical Medicine and Hygiene.",
+          "link": "https://www.who.int/news/item/22-05-2024-new-research-flags-the-urgent-need-for-research-and-evidence-on-the-impact-of-climate-change-on-neglected-tropical-diseases-and-malaria",
+          "publishedOn": "2024-05-22T07:54:16.000Z",
+          "wordCount": 2705,
+          "title": "New research flags the urgent need for research and evidence on the impact of climate change on neglected tropical diseases and malaria",
+          "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/dengue-outbreak-and-response-in-bangladesh.tmb-1200v.jpg?Culture=en&sfvrsn=de5309b8_1"
+        },
+        {
           "id": "urn:uuid:0be1bfb4-fd6b-447a-b5ae-09c2c4af0267",
           "author": null,
           "description": "Global HIV, viral hepatitis epidemics and sexually transmitted infections (STIs) continue to pose significant public health challenges, causing 2.5 million deaths each year, according to a new WHO report - Implementing the global health sector strategies on HIV, viral hepatitis and sexually transmitted infections, 2022–2030.",
@@ -3740,6 +3770,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176017",
+          "author": "Jordan Sollof",
+          "description": "The Irish Health Service Executive has launched a digital framework, including plans to roll out a patient app and national shared care record.",
+          "link": "https://www.digitalhealth.net/2024/05/ireland-announces-plans-to-roll-out-patient-app-and-shared-care-record/",
+          "publishedOn": "2024-05-22T12:30:14.000Z",
+          "wordCount": 2022,
+          "title": "Ireland announces plans to roll out patient app and shared care record",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/02/Shared-Care-Records-Header-Feb-2023.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=175971",
           "author": "Jordan Sollof",

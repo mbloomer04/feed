@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-22T12:17:30.769Z</updated>
+    <updated>2024-05-22T13:11:40.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4498 - Veeam Releases Security Advisory]]></title>
+        <id>f6781107-fa4e-4f1d-9c2d-8543b5a2f2a9</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4498"/>
+        <updated>2024-05-22T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager
+ The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager
+ Updated: 22 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ireland announces plans to roll out patient app and shared care record]]></title>
+        <id>https://www.digitalhealth.net/?p=176017</id>
+        <link href="https://www.digitalhealth.net/2024/05/ireland-announces-plans-to-roll-out-patient-app-and-shared-care-record/"/>
+        <updated>2024-05-22T12:30:14.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Health Service Executive has launched a digital framework, including plans to roll out a patient app and national shared care record.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCGP demands overhaul of 'all GP funding streams' to cut inequality]]></title>
         <id>https://www.gponline.com/article/1873767</id>
@@ -90,6 +113,16 @@ The post RCGP calls on Government to ‘radically’ reform  Carr-Hill funding f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New research flags the urgent need for research and evidence on the impact of climate change on neglected tropical diseases and malaria]]></title>
+        <id>urn:uuid:373ad5ae-03c4-4b31-81f8-40fa9dda0146</id>
+        <link href="https://www.who.int/news/item/22-05-2024-new-research-flags-the-urgent-need-for-research-and-evidence-on-the-impact-of-climate-change-on-neglected-tropical-diseases-and-malaria"/>
+        <updated>2024-05-22T07:54:16.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization’s (WHO) Task Team on Climate Change, Neglected Tropical Diseases (NTDs) and Malaria, in partnership with Reaching the Last Mile (RLM), has released a major scoping review published in Transactions of the Royal Society of Tropical Medicine and Hygiene.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Liverpool Women’s NHS FT to roll out Netcall patient hub]]></title>
         <id>https://www.digitalhealth.net/?p=175791</id>
         <link href="https://www.digitalhealth.net/2024/05/liverpool-womens-nhs-ft-to-roll-out-netcall-patient-hub/"/>
@@ -128,6 +161,17 @@ The post RCGP calls on Government to ‘radically’ reform  Carr-Hill funding f
 The post GP spirometry referrals regularly rejected despite ICB guidance appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protected: Sponsored CPD: Key questions on digital mental health technologies]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=147773</id>
+        <link href="https://www.pulsetoday.co.uk/sponsored-cpd-key-questions-on-digital-mental-health-technologies/"/>
+        <updated>2024-05-21T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
+The post Protected: Sponsored CPD: Key questions on digital mental health technologies appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Caroline Price</name>
         </author>
     </entry>
     <entry>
