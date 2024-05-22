@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d0b19a50-877a-4e6d-a8fe-6ba90e9ac982",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands \n Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands\n Updated: 22 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4500",
+          "publishedOn": "2024-05-22T14:59:00.000Z",
+          "wordCount": 562,
+          "title": "CC-4500 - Multiple Vulnerabilities in Ivanti Endpoint Manager Mobile",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "376c0128-e970-4c70-9c01-dea00ceb27bb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files\n Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files\n Updated: 22 May 2024",
@@ -2379,6 +2389,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/changes-to-the-death-certification-process",
+          "author": null,
+          "description": "How the death certification process in England and Wales will change from 9 September 2024, including the introduction of medical examiners.",
+          "link": "https://www.gov.uk/government/publications/changes-to-the-death-certification-process",
+          "publishedOn": "2024-05-22T14:53:45.000Z",
+          "wordCount": 1043,
+          "title": "Guidance: Changes to the death certification process",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact",
           "author": null,

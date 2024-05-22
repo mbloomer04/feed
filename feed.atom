@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-22T14:09:03.437Z</updated>
+    <updated>2024-05-22T15:09:56.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4500 - Multiple Vulnerabilities in Ivanti Endpoint Manager Mobile]]></title>
+        <id>d0b19a50-877a-4e6d-a8fe-6ba90e9ac982</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4500"/>
+        <updated>2024-05-22T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands 
+ Vulnerabilities could allow an attacker to escalate privileges, modify data, or execute arbitrary commands
+ Updated: 22 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Changes to the death certification process]]></title>
+        <id>https://www.gov.uk/government/publications/changes-to-the-death-certification-process</id>
+        <link href="https://www.gov.uk/government/publications/changes-to-the-death-certification-process"/>
+        <updated>2024-05-22T14:53:45.000Z</updated>
+        <summary type="html"><![CDATA[How the death certification process in England and Wales will change from 9 September 2024, including the introduction of medical examiners.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News story: Migration numbers fall further as measures have major impact]]></title>
         <id>https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact</id>
