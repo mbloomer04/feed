@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-22T22:08:37.931Z</updated>
+    <updated>2024-05-22T23:11:05.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: New dentists required to deliver NHS care under government plans]]></title>
+        <id>https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans</id>
+        <link href="https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans"/>
+        <updated>2024-05-22T23:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Consultation asks whether newly qualified dentists should commit to delivering a minimum amount of NHS work after graduating or repay some training fees]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Carr-Hill formula is getting old]]></title>
         <id>https://www.pulsetoday.co.uk/?p=147852</id>
@@ -4600,48 +4610,6 @@ The post Climate change protest GP suspended for five months appeared first on P
         <summary type="html"><![CDATA[Independent Advisory Panel on Deaths in Custody (IAPDC) - This statistical analysis of deaths in custody which finds that people in state detention are at a significantly increased risk of death compared with the general population, with the rates of deaths in prisons and Mental Health Act (MHA) detention particularly high. The analysis assesses and presents deaths in custody through...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are UK health systems dementia ready? Comparing dementia policy across the four nations of the UK]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2024/04/are-uk-health-systems-dementia-ready-comparing-dementia-policy-across-the-four-nations-of-the-uk.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2024/04/are-uk-health-systems-dementia-ready-comparing-dementia-policy-across-the-four-nations-of-the-uk.html"/>
-        <updated>2024-04-23T10:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Future Health - This report highlights the growing challenge of diagnosing people with dementia in the UK. By 2040 the number of dementia cases is set to rise to 1.5 million as the population ages. The research, sponsored by Lilly, finds that if there is no progress in improving diagnosis rates then over half a million people with dementia will...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP practices could face ‘£500,000 clawback’ following PCN’s collapse]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=145672</id>
-        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/gp-practices-could-face-500000-clawback-following-pcns-collapse/"/>
-        <updated>2024-04-23T10:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Exclusive A group of practices across Norwich could face a £500,000 funding clawback following the sudden collapse of a company supporting the local PCN, it has been claimed. OneNorwich Practices, a company which supported Norwich PCN and had been commissioned by the local ICB to deliver primary medical services in Norwich and the surrounding areas,
-The post GP practices could face ‘£500,000 clawback’ following PCN’s collapse appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=174277</id>
-        <link href="https://www.digitalhealth.net/2024/04/digital-health-coffee-time-briefing-130/"/>
-        <updated>2024-04-23T10:37:38.000Z</updated>
-        <summary type="html"><![CDATA[This briefing features NHS Golden Jubilee's web-based customer service tool supporting patients with disabilities and The MS Trust launching My MS Expert.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of bird flu spread in humans is ‘enormous concern’, says WHO]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=146757</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/risk-of-bird-flu-spread-in-humans-is-enormous-concern-says-who/"/>
-        <updated>2024-04-23T10:10:17.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organisation’s chief scientist has said the risk of bird flu spreading to humans is of ‘enormous concern’. Since 2020, an outbreak of H5N1 bird flu has led to the deaths of tens of millions of poultry and more recently spread of the virus has been seen within mammals, including cattle in the
-The post Risk of bird flu spread in humans is ‘enormous concern’, says WHO appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
