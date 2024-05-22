@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1873708",
+          "author": null,
+          "description": "Physician associates should only be supervised by GPs, consultants or 'autonomously practising SAS doctors' - and these doctors should be 'immediately available' and suitably indemnified, according to new BMA guidance.",
+          "link": "https://www.gponline.com/bma-unveils-guidance-doctors-supervising-physician-associates/article/1873708",
+          "publishedOn": "2024-05-21T23:01:00.000Z",
+          "wordCount": 684,
+          "title": "BMA unveils guidance for doctors supervising physician associates",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_sign_MalcolmCaseGreen_50.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1873091",
           "author": null,
           "description": "Some GP practices in Scotland could be forced to close and many more left in a 'precarious' financial position after the government paused a loan scheme meant to ease pressure on general practice.",
@@ -2320,16 +2330,6 @@
           "publishedOn": "2024-04-23T23:01:39.000Z",
           "wordCount": 1713,
           "title": "NHS to roll out first targeted treatment for rare childhood brain tumours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=244648",
-          "author": "rwootton",
-          "description": "The NHS Digital Weight Management Programme is helping patients referred to the service to lose over 8 pounds, new research shows today.   A new peer reviewed paper, published today in The Obesity Journal, shows that 63,937 people were referred to the scheme in its first year with 50% taking up the offer and enrolling onto the […]",
-          "link": "https://www.england.nhs.uk/2024/04/nhs-online-weight-loss-programme-highlighted-as-a-success-in-new-study/",
-          "publishedOn": "2024-04-22T11:18:35.000Z",
-          "wordCount": 2018,
-          "title": "NHS online weight loss programme highlighted as a success in new study",
           "imageUrl": null
         }
       ]
@@ -4419,16 +4419,6 @@
           "wordCount": 1942,
           "title": "Coventry Uni uses AI-generated avatars to train medical students",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/Juliana-pic-1-2-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=174087",
-          "author": "Cora Lydon",
-          "description": "New guidance has been issued by ICO over how health and care organisations should be transparent over the use of personal information.",
-          "link": "https://www.digitalhealth.net/2024/04/ico-guidance-on-transparency-published-for-health-and-care-sector/",
-          "publishedOn": "2024-04-22T12:30:54.000Z",
-          "wordCount": 1768,
-          "title": "ICO guidance on transparency published for health and care sector",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/04/transparency-of-data-ICO-3.jpg"
         }
       ]
     }
