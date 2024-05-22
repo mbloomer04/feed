@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-22T13:11:40.251Z</updated>
+    <updated>2024-05-22T14:09:03.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[News story: Migration numbers fall further as measures have major impact]]></title>
+        <id>https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact</id>
+        <link href="https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact"/>
+        <updated>2024-05-22T13:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Government action cuts migration on key routes by 25% in the first 4 months of 2024, compared to the same period in 2023.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can the LMC conference revive general practice across the UK?]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=147680</id>
+        <link href="https://www.pulsetoday.co.uk/views/dr-burnt-out/can-the-lmc-conference-revive-general-practice-across-the-uk/"/>
+        <updated>2024-05-22T13:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the UK LMC conference this week, Dr Burnt Out looks at the state of general practice in each of the four nations and considers the next steps needed to save the profession ‘I always arrive late at the office, but I make up for it by leaving early.’ If only Charles Lamb’s quote
+The post Can the LMC conference revive general practice across the UK? appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4497 - Broadcom Releases Security Updates for VMware ESXi, Workstation, Fusion, and vCenter Server]]></title>
+        <id>376c0128-e970-4c70-9c01-dea00ceb27bb</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4497"/>
+        <updated>2024-05-22T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files
+ Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files
+ Updated: 22 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4498 - Veeam Releases Security Advisory]]></title>
         <id>f6781107-fa4e-4f1d-9c2d-8543b5a2f2a9</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "376c0128-e970-4c70-9c01-dea00ceb27bb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files\n Advisory addresses three security vulnerabilities that could result in DoS, RCE, or partially reading arbitrary files\n Updated: 22 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4497",
+          "publishedOn": "2024-05-22T13:30:00.000Z",
+          "wordCount": 813,
+          "title": "CC-4497 - Broadcom Releases Security Updates for VMware ESXi, Workstation, Fusion, and vCenter Server",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "f6781107-fa4e-4f1d-9c2d-8543b5a2f2a9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager\n The security advisory addresses one critical and three other vulnerabilities affecting Veeam Backup Enterprise Manager\n Updated: 22 May 2024",
@@ -162,6 +172,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147680",
+          "author": "Maya Dhillon",
+          "description": "Ahead of the UK LMC conference this week, Dr Burnt Out looks at the state of general practice in each of the four nations and considers the next steps needed to save the profession ‘I always arrive late at the office, but I make up for it by leaving early.’ If only Charles Lamb’s quote\nThe post Can the LMC conference revive general practice across the UK? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/dr-burnt-out/can-the-lmc-conference-revive-general-practice-across-the-uk/",
+          "publishedOn": "2024-05-22T13:30:04.000Z",
+          "wordCount": 3803,
+          "title": "Can the LMC conference revive general practice across the UK?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/02/Dr-Burnt-Out.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147800",
           "author": "Mollie Fraser-Andrews",
@@ -2359,6 +2379,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact",
+          "author": null,
+          "description": "Government action cuts migration on key routes by 25% in the first 4 months of 2024, compared to the same period in 2023.",
+          "link": "https://www.gov.uk/government/news/migration-numbers-fall-further-as-measures-have-major-impact",
+          "publishedOn": "2024-05-22T13:39:22.000Z",
+          "wordCount": 2250,
+          "title": "News story: Migration numbers fall further as measures have major impact",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/664df380bd01f5ed32794089/s960_James_Cleverly.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/calls-for-evidence/duty-of-candour-review",
           "author": null,
