@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-23T07:08:59.246Z</updated>
+    <updated>2024-05-23T08:12:13.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England sets ambition to improve access to virtual wards]]></title>
+        <id>https://www.digitalhealth.net/?p=176031</id>
+        <link href="https://www.digitalhealth.net/2024/05/nhs-england-sets-ambition-to-improve-access-to-virtual-wards/"/>
+        <updated>2024-05-23T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has announced proposals to increase access to virtual wards in a bid to reduce emergency department (ED) waiting times.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: New dentists required to deliver NHS care under government plans]]></title>
         <id>https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans</id>
@@ -82,6 +92,17 @@ The post Thousands of GPs failed to claim their NHS pension in time appeared fir
         <summary type="html"><![CDATA[Government action cuts migration on key routes by 25% in the first 4 months of 2024, compared to the same period in 2023.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["All for Health, Health for All" sets the stage for the Seventy-seventh World Health Assembly]]></title>
+        <id>urn:uuid:a10d2710-2326-4e96-a405-286e71cb24a2</id>
+        <link href="https://www.who.int/news/item/23-05-2024-all-for-health--health-for-all--sets-the-stage-for-the-seventy-seventh-world-health-assembly"/>
+        <updated>2024-05-22T13:34:50.000Z</updated>
+        <summary type="html"><![CDATA[As the world continues to grapple with the aftermath of the most severe pandemic in a century, the Seventy-seventh session of the World Health Assembly will convene under the banner of "All for Health, Health for All." Scheduled to run from 27 May to 1 June, with the participation of ministers of health and other high-level country representatives, the Health Assembly serves as a critical platform for addressing existing global health challenges such as HIV, measles and polio, amidst the climate emergency and the rise of conditions like hypertension and obesity. 
+One of the pivotal moments anticipated during the Health Assembly is the Pandemic prevention, preparedness and response accord and the amendments to the International Health Regulations, signaling a concerted effort by Member Stat…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
