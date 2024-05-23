@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-23T13:10:34.126Z</updated>
+    <updated>2024-05-23T14:08:53.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="https://www.gponline.com/lmcs-call-uk-governments-recognise-safe-workload-limits-general-practice/article/1873996"/>
         <updated>2024-05-23T11:42:17.000Z</updated>
         <summary type="html"><![CDATA[GP leaders have called on the four UK governments to publicly acknowledge safe working limits in general practice and accept that GPs should not be expected to work beyond this.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs forced to drive patients to hospital as ambulance delays hike risk for practices]]></title>
+        <id>https://www.gponline.com/article/1873994</id>
+        <link href="https://www.gponline.com/gps-forced-drive-patients-hospital-ambulance-delays-hike-risk-practices/article/1873994"/>
+        <updated>2024-05-23T11:42:15.000Z</updated>
+        <summary type="html"><![CDATA[GPs are being forced to drive patients to hospital themselves and to take on significant increases in clinical risk because of rising ambulance delays, doctors' leaders have warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
