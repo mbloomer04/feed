@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-24T07:08:51.547Z</updated>
+    <updated>2024-05-24T08:12:13.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bedfordshire Hospitals’ data supports simulation project]]></title>
+        <id>https://www.digitalhealth.net/?p=175943</id>
+        <link href="https://www.digitalhealth.net/2024/05/bedfordshire-hospitals-data-supports-simulation-project/"/>
+        <updated>2024-05-24T07:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Historic data collected from Bedfordshire Hospitals NHS FT is being used in a simulation project to help enhance patient journeys in clinics.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Are PCNs here to stay and how can practices make the most of them?]]></title>
         <id>https://www.gponline.com/article/1874066</id>
