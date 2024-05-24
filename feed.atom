@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-24T12:16:49.689Z</updated>
+    <updated>2024-05-24T13:10:36.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4501 - Google Releases Security Update for Exploited Vulnerability CVE-2024-5274]]></title>
+        <id>9b3b4d30-a6af-4358-812e-a2e035e13cca</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4501"/>
+        <updated>2024-05-24T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update addresses an exploited type confusion vulnerability in Google Chrome
+ Security update addresses an exploited type confusion vulnerability in Google Chrome
+ Updated: 24 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pay setting for doctors and nurses: what can the NHS learn from other countries?]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html"/>
+        <updated>2024-05-24T12:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Nuffield Trust - Industrial action has been a feature of the NHS in England since 2022. Although consultants have recently accepted a new pay deal, nurses remain officially in dispute and there has been no conclusion for junior doctors. This long read explores how the pay-setting process works in a selection of different health systems across the world and whether...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Central London ICB pilots WhatsApp and AI appointment scheduling]]></title>
+        <id>https://www.digitalhealth.net/?p=175903</id>
+        <link href="https://www.digitalhealth.net/2024/05/north-central-london-icb-pilots-whatsapp-and-ai-appointment-scheduling/"/>
+        <updated>2024-05-24T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp and an AI receptionist are being piloted at North Central London ICB, in a pilot to see if the tools can boost uptake of cervical cancer screening.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS Constitution: 10 year review]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html"/>
+        <updated>2024-05-24T12:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Department of Health and Social Care - The NHS Constitution sets out the principles, values, rights and pledges underpinning the NHS as a comprehensive health service, free at the point of use for all who need it. The NHS Constitution applies to all those who use its many services, its staff and providers. The Department of Health and Social Care...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medical practitioner stabbed at south-east London GP practice]]></title>
+        <id>https://www.gponline.com/article/1874201</id>
+        <link href="https://www.gponline.com/medical-practitioner-stabbed-south-east-london-gp-practice/article/1874201"/>
+        <updated>2024-05-24T11:40:34.000Z</updated>
+        <summary type="html"><![CDATA[A man has been arrested on suspicion of attempted murder after a medical practitioner was stabbed at a GP practice in south-east London, police have confirmed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Alarming’ rise seen in rates of type 2 diabetes in under 40s, a report warns]]></title>
         <id>https://www.pulsetoday.co.uk/?p=147947</id>

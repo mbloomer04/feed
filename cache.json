@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9b3b4d30-a6af-4358-812e-a2e035e13cca",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited type confusion vulnerability in Google Chrome\n Security update addresses an exploited type confusion vulnerability in Google Chrome\n Updated: 24 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4501",
+          "publishedOn": "2024-05-24T13:05:00.000Z",
+          "wordCount": 514,
+          "title": "CC-4501 - Google Releases Security Update for Exploited Vulnerability CVE-2024-5274",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "ff43a008-9e93-4cf6-915e-dc7e588a66c8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM\n Sixteen vulnerabilities have been seen in products including Avalanche, Connect Secure, Secure Access, and EPM\n Updated: 22 May 2024",
@@ -1439,6 +1449,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1874201",
+          "author": null,
+          "description": "A man has been arrested on suspicion of attempted murder after a medical practitioner was stabbed at a GP practice in south-east London, police have confirmed.",
+          "link": "https://www.gponline.com/medical-practitioner-stabbed-south-east-london-gp-practice/article/1874201",
+          "publishedOn": "2024-05-24T11:40:34.000Z",
+          "wordCount": 677,
+          "title": "Medical practitioner stabbed at south-east London GP practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/police_GettyImages-GeorgeClerk_RF_2.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1874168",
           "author": null,
@@ -3097,6 +3117,26 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html",
+          "author": null,
+          "description": "Nuffield Trust - Industrial action has been a feature of the NHS in England since 2022. Although consultants have recently accepted a new pay deal, nurses remain officially in dispute and there has been no conclusion for junior doctors. This long read explores how the pay-setting process works in a selection of different health systems across the world and whether...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html",
+          "publishedOn": "2024-05-24T12:37:05.000Z",
+          "wordCount": null,
+          "title": "Pay setting for doctors and nurses: what can the NHS learn from other countries?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html",
+          "author": null,
+          "description": "Department of Health and Social Care - The NHS Constitution sets out the principles, values, rights and pledges underpinning the NHS as a comprehensive health service, free at the point of use for all who need it. The NHS Constitution applies to all those who use its many services, its staff and providers. The Department of Health and Social Care...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html",
+          "publishedOn": "2024-05-24T12:18:31.000Z",
+          "wordCount": null,
+          "title": "NHS Constitution: 10 year review",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/proposal-for-a-tie-in-to-nhs-dentistry-for-graduate-dentists.html",
           "author": null,
           "description": "Department of Health and Social Care - This consultation seeks the views of interested parties on the proposal for a ‘tie-in’ to NHS dentistry for newly qualified dentists. This would ensure that graduate dentists spend at least some of their time delivering NHS care in the years following the completion of training. It is aimed at those who have an...",
@@ -3870,6 +3910,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=175903",
+          "author": "Cora Lydon",
+          "description": "WhatsApp and an AI receptionist are being piloted at North Central London ICB, in a pilot to see if the tools can boost uptake of cervical cancer screening.",
+          "link": "https://www.digitalhealth.net/2024/05/north-central-london-icb-pilots-whatsapp-and-ai-appointment-scheduling/",
+          "publishedOn": "2024-05-24T12:30:59.000Z",
+          "wordCount": 1923,
+          "title": "North Central London ICB pilots WhatsApp and AI appointment scheduling",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/05/North-Central-London-Whatsapp-pilot3.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=175965",
           "author": "Cora Lydon",
