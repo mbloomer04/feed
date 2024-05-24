@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-24T16:11:11.985Z</updated>
+    <updated>2024-05-24T17:09:11.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Making prevention everyone’s business]]></title>
+        <id>https://www.gov.uk/government/publications/making-prevention-everyones-business</id>
+        <link href="https://www.gov.uk/government/publications/making-prevention-everyones-business"/>
+        <updated>2024-05-24T16:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Professor John Deanfield’s vision for a modern, personalised heart health prevention service.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wider BMA ‘no longer adequately represents GPs’, say LMCs]]></title>
         <id>https://www.pulsetoday.co.uk/?p=147910</id>
