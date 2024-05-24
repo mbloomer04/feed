@@ -193,6 +193,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=147947",
+          "author": "Jaimie Kaffash",
+          "description": "There has been an ‘alarming’ rise in the number of people under the age of 40 diagnosed with type 2 diabetes in recent years, a charity has warned. A report from Diabetes UK found a 39% increase in type 2 diabetes in the under 40s since 2016. While rates are rising across the board, diagnoses\nThe post ‘Alarming’ rise seen in rates of type 2 diabetes in under 40s, a report warns appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/diabetes/alarming-rise-seen-in-rates-of-type-2-diabetes-in-under-40s-a-report-warns/",
+          "publishedOn": "2024-05-24T10:53:12.000Z",
+          "wordCount": 3611,
+          "title": "‘Alarming’ rise seen in rates of type 2 diabetes in under 40s, a report warns",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/10/diabetes.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147939",
+          "author": "Maya Dhillon",
+          "description": "A medical practitioner was hospitalised following a stabbing at a GP practice in South East London yesterday.  Police were called to Barnard Health Centre on Granville Road, Sidcup to reports of a stabbing. They confirmed that the victim was a male medical practitioner in their 50s. A statement by the Metropolitan Police said: ‘Police were called\nThe post Man arrested for attempted murder after stabbing in GP practice appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/special-investigations/gp-abuse/man-arrested-for-attempted-murder-after-stabbing-in-gp-practice/",
+          "publishedOn": "2024-05-24T10:18:18.000Z",
+          "wordCount": 3262,
+          "title": "Man arrested for attempted murder after stabbing in GP practice",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/10/police-crime-.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=147845",
           "author": "Sofia Lind",
           "description": "The GMC is ‘complicit’ in the Government’s ‘agenda’ to create ‘a cheaper model of primary care’ by supporting the use of physician associates (PAs) in place of GPs, local GP leaders said today. UK LMC Conference delegates in Newport, Wales, stopped short of ‘condemning’ the use of physician associates in general practice ‘for anything other\nThe post GMC ‘complicit in replacing GPs with PAs’, local leaders say appeared first on Pulse Today.",
@@ -1420,6 +1440,36 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1874168",
+          "author": null,
+          "description": "GP representatives from LMCs across the UK are meeting in Newport, Wales on 23 and 24 May. GPonline covers the key debates.",
+          "link": "https://www.gponline.com/uk-lmcs-conference-2024-full-coverage/article/1874168",
+          "publishedOn": "2024-05-24T10:26:44.000Z",
+          "wordCount": 905,
+          "title": "UK LMCs conference 2024: full coverage",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmcconf_3.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1874154",
+          "author": null,
+          "description": "GP registrars fear they will struggle to find work when they qualify this summer as some parts of England currently have no GP vacancies available, GP leaders have warned.",
+          "link": "https://www.gponline.com/gp-registrars-fear-unemployment-when-qualify-summer/article/1874154",
+          "publishedOn": "2024-05-24T10:00:29.000Z",
+          "wordCount": 687,
+          "title": "GP registrars fear unemployment when they qualify this summer",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MalingaRatwatte.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1874159",
+          "author": null,
+          "description": "GP leaders have voiced growing concern over the use of physician associates in general practice - and accused the GMC of 'complicity' in a move towards an inferior model of care.",
+          "link": "https://www.gponline.com/lmcs-voice-fears-physician-associates-replacing-gps/article/1874159",
+          "publishedOn": "2024-05-24T09:10:01.000Z",
+          "wordCount": 691,
+          "title": "LMCs voice fears over physician associates replacing GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmc_conferencevote.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1874130",
           "author": null,
           "description": "Government underfunding has taken a ‘sledgehammer’ to general practice - leaving practices unable to recruit and up to 80 GPs applying for jobs when scarce opportunities arise, GPs have been told.",
@@ -1458,6 +1508,16 @@
           "wordCount": 710,
           "title": "LMCs call on UK governments to recognise safe workload limits in general practice",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmcconf_2.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1873994",
+          "author": null,
+          "description": "GPs are being forced to drive patients to hospital themselves and to take on significant increases in clinical risk because of rising ambulance delays, doctors' leaders have warned.",
+          "link": "https://www.gponline.com/gps-forced-drive-patients-hospital-ambulance-delays-raise-risk-practices/article/1873994",
+          "publishedOn": "2024-05-23T11:42:15.000Z",
+          "wordCount": 723,
+          "title": "GPs forced to drive patients to hospital as ambulance delays raise risk for practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/LMCconf2024.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1873994",
@@ -3036,6 +3096,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/proposal-for-a-tie-in-to-nhs-dentistry-for-graduate-dentists.html",
+          "author": null,
+          "description": "Department of Health and Social Care - This consultation seeks the views of interested parties on the proposal for a ‘tie-in’ to NHS dentistry for newly qualified dentists. This would ensure that graduate dentists spend at least some of their time delivering NHS care in the years following the completion of training. It is aimed at those who have an...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/proposal-for-a-tie-in-to-nhs-dentistry-for-graduate-dentists.html",
+          "publishedOn": "2024-05-24T10:30:13.000Z",
+          "wordCount": null,
+          "title": "Proposal for a ‘tie-in’ to NHS dentistry for graduate dentists",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/the-approved-mental-health-professional-workforce-in-the-social-care-sector-.html",
           "author": null,
