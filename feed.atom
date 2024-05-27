@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-27T16:10:43.288Z</updated>
+    <updated>2024-05-27T17:08:07.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS announces 143 hospitals to roll out ‘Martha’s Rule’ in next step in major patient safety initiative]]></title>
+        <id>https://www.england.nhs.uk/?p=246572</id>
+        <link href="https://www.england.nhs.uk/2024/05/nhs-announces-143-hospitals-to-roll-out-marthas-rule/"/>
+        <updated>2024-05-27T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The NHS has today announced the 143 hospital sites that will test and roll out Martha’s Rule in its first year. Confirmation of the first sites to test implementation of Martha’s Rule is the next step in a major patient safety initiative, following the announcement in February of NHS England funding for this financial year. […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO launches its first Investment Round to sustainably finance its Health for All mandate]]></title>
         <id>urn:uuid:7d1ead01-9e88-4d2f-845a-e1ae6de8e747</id>
