@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-27T09:10:18.166Z</updated>
+    <updated>2024-05-27T10:09:57.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHO launches its first Investment Round to sustainably finance its Health for All mandate]]></title>
+        <id>urn:uuid:7d1ead01-9e88-4d2f-845a-e1ae6de8e747</id>
+        <link href="https://www.who.int/news/item/26-05-2024-who-launches-its-first-investment-round-to-sustainably-finance-its-health-for-all-mandate"/>
+        <updated>2024-05-26T19:26:20.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) launched its first-ever  Investment Round on Sunday as part of a broader plan to transform the way the Organization is funded heading into an era of climate change, mass migration, pandemic threats, an ageing world population, and turbulent geopolitics.
+The launch, on the eve of the Seventy-Seventh World Health Assembly, marks the start of a year-long series of engagements and events, co-hosted by countries, where Member States and other donors will be invited to contribute funds to WHO’s strategy for 2025 through 2028 and show high-level political commitment to WHO and global health. 
+The Investment Round will culminate in November with a major pledging event to be hosted by Brazil around the G20 Leaders’ Summit.
+“It’s about ensuring WHO is fully funded…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO announces winners of the 5th Health for All Film Festival]]></title>
+        <id>urn:uuid:091163dc-b29a-44b7-90a8-55b541b2d9be</id>
+        <link href="https://www.who.int/news/item/26-05-2024-who-announces-winners-of-the-5th-health-for-all-film-festival"/>
+        <updated>2024-05-26T08:33:21.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization has announced the official selection of this year’s winning films of its 5th Health for All Film Festival. The awards were announced today at a special event launching WHO’s Investment Round on the eve of the Seventy-Seventh World Health Assembly in Geneva.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO Member States agree to share outcomes of historic IHR, pandemic agreement processes to World Health Assembly]]></title>
         <id>urn:uuid:64bdb75d-d375-4158-b759-23714163f2ca</id>
