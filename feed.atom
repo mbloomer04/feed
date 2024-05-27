@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-27T19:08:10.069Z</updated>
+    <updated>2024-05-27T20:09:36.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Over 8000 people, including sports and health champions, join 5th WHO Walk the Talk in Geneva]]></title>
+        <id>urn:uuid:64e4a394-3828-4fbf-b4ab-df940f6d414a</id>
+        <link href="https://www.who.int/news/item/27-05-2024-over-8000-people-including-sports-and-health-champions-join-5th-who-walk-the-talk-in-geneva"/>
+        <updated>2024-05-27T15:33:06.000Z</updated>
+        <summary type="html"><![CDATA[WHO together with Swiss and Geneva partners, the UN family, Member States, athletes, local sports clubs, and health partners came together on Sunday 26 May 2024, to celebrate the importance of healthy lifestyles and to kick off the Seventy-seventh World Health Assembly.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Director-General’s Award for Global Health go to Prime Minister of Barbados and developers of mRNA vaccines for COVID-19]]></title>
+        <id>urn:uuid:74d2f4c8-fec4-45b7-a591-13e652be063a</id>
+        <link href="https://www.who.int/news/item/27-05-2024-director-general-s-award-for-global-health-go-to-prime-minister-of-barbados-and-developers-of-mrna-vaccines-for-covid-19"/>
+        <updated>2024-05-27T11:43:43.000Z</updated>
+        <summary type="html"><![CDATA[WHO Director-General Dr Tedros Adhanom Ghebreyesus presented his Award for Global Health to the Prime Minister of Barbados and two scientists for their contributions to advancing global health at the Seventy-seventh World Health Assembly.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS announces 143 hospitals to roll out ‘Martha’s Rule’ in next step in major patient safety initiative]]></title>
         <id>https://www.england.nhs.uk/?p=246572</id>
