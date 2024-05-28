@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b07ee3f0-d3ed-48a5-8107-3be7d2c1f240",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Six advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n Six advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n Updated: 28 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4502",
+          "publishedOn": "2024-05-28T14:16:00.000Z",
+          "wordCount": 1579,
+          "title": "CC-4502 - Cisco Releases May 2024 ASA, FMC, and FTD Software Security Advisory",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "9b3b4d30-a6af-4358-812e-a2e035e13cca",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited type confusion vulnerability in Google Chrome\n Security update addresses an exploited type confusion vulnerability in Google Chrome\n Updated: 24 May 2024",
@@ -192,6 +202,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147981",
+          "author": "Sofia Lind",
+          "description": "The NHS should be ‘ambitious’ in boosting the number of GP practices who undertake commercial research, a paper presented to the NHS England board has said. Currently only around 3% of practices take part in commercial clinical trials, the report said. Yet as the focus of delivery of services shifts from secondary care to local\nThe post NHS England told to boost GP practice numbers participating in research trials appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/nhs-england-told-to-boost-gp-practice-numbers-participating-in-research-trials/",
+          "publishedOn": "2024-05-28T14:53:37.000Z",
+          "wordCount": 3429,
+          "title": "NHS England told to boost GP practice numbers participating in research trials",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/11/scientist-lab-researcher-covid-vaccine.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147938",
+          "author": "Maya Dhillon",
+          "description": "Dr Copperfield pens an open letter to patients following the BMA’s announcement for planned industrial action to start in August So now we know. The initial sabre rattle of industrial action will be something along the lines of not doing fit notes, scripts, and investigations which should have been arranged by secondary care. In other\nThe post Time to put action into words appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/copperfield/time-to-put-action-into-words/",
+          "publishedOn": "2024-05-28T14:19:40.000Z",
+          "wordCount": 3381,
+          "title": "Time to put action into words",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Copperfield_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147999",
           "author": "Anna Colivicchi",
@@ -1399,6 +1429,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1874461",
+          "author": null,
+          "description": "A man has been charged with grievous bodily harm after a GP was stabbed at a practice in south-east London, police have confirmed.",
+          "link": "https://www.gponline.com/man-charged-grievous-bodily-harm-gp-stabbed-practice/article/1874461",
+          "publishedOn": "2024-05-28T14:26:00.000Z",
+          "wordCount": 694,
+          "title": "Man charged with grievous bodily harm after GP stabbed at practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Met_police_GettyImages-SunpholSorakul.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1874367",
           "author": null,
@@ -2976,6 +3016,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/a-preventative-approach-to-public-services-how-the-government-can-shift-its-focus-and-improve-lives.html",
+          "author": null,
+          "description": "Institute for Government - This report sets out how the next government can use the opportunity of a new parliament to shift to a preventative approach to public services that seeks to address and manage citizens’ problems before they reach crisis point. This would reap financial and political benefits by helping tackle the crises in the NHS, criminal justice, youth...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/a-preventative-approach-to-public-services-how-the-government-can-shift-its-focus-and-improve-lives.html",
+          "publishedOn": "2024-05-28T15:07:30.000Z",
+          "wordCount": null,
+          "title": "A preventative approach to public services: how the government can shift its focus and improve lives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/reverse-the-trend-reducing-type-2-diabetes-in-young-people.html",
+          "author": null,
+          "description": "Diabetes UK - This report reveals a 40% rise in type 2 diabetes diagnoses in younger people between 2016-17 and 2022-23. There are now almost 168,000 people under 40 years in the UK who live with type 2 diabetes, an increase of more than 47,000 since 2016-17. Diabetes UK is calling on all political parties to commit to tackling the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/reverse-the-trend-reducing-type-2-diabetes-in-young-people.html",
+          "publishedOn": "2024-05-28T14:09:22.000Z",
+          "wordCount": null,
+          "title": "Reverse the trend: reducing type 2 diabetes in young people",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/community-pharmacy-primary-care-network-engagement-role.html",
           "author": null,
