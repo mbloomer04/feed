@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-29T14:09:05.146Z</updated>
+    <updated>2024-05-29T15:10:30.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remove contractual restrictions on GPs seeing patients privately, say UK LMCs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=148073</id>
+        <link href="https://www.pulsetoday.co.uk/news/lmcs-conferences/remove-contractual-restrictions-on-gps-seeing-patients-privately-say-uk-lmcs/"/>
+        <updated>2024-05-29T14:58:13.000Z</updated>
+        <summary type="html"><![CDATA[GPs should have the ability to treat patients privately ‘in the same way that other clinicians can’, UK GP leaders have said. LMCs acknowledged during their conference last week that patients are ‘increasingly’ looking to access care privately due to ‘underfunding’ in general practice, and demanded that GPs are allowed to see their patients privately.
+The post Remove contractual restrictions on GPs seeing patients privately, say UK LMCs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closed consultation: Health and social care statistical outputs]]></title>
+        <id>https://www.gov.uk/government/consultations/health-and-social-care-statistical-outputs</id>
+        <link href="https://www.gov.uk/government/consultations/health-and-social-care-statistical-outputs"/>
+        <updated>2024-05-29T14:48:29.000Z</updated>
+        <summary type="html"><![CDATA[We are seeking views on health and social care statistical outputs published by DHSC (including OHID), NHSBSA, UKHSA, ONS and NHS England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4503 - RCE Vulnerability in Atlassian Confluence Data Center and Confluence Server]]></title>
+        <id>24362ad3-ceac-42d0-820d-7f0b1e2c6c05</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4503"/>
+        <updated>2024-05-29T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Proof-of-concept exploit code released for RCE vulnerability CVE-2024-21683
+ Proof-of-concept code released for RCE vulnerability CVE-2024-21683
+ Updated: 29 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCGP gives compensation to GP trainees affected by exam fiasco]]></title>
         <id>https://www.pulsetoday.co.uk/?p=148031</id>
