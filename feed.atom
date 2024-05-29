@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-29T07:09:24.970Z</updated>
+    <updated>2024-05-29T08:12:58.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First implementation phase of Guernsey’s new EPR delayed to 2025]]></title>
+        <id>https://www.digitalhealth.net/?p=176205</id>
+        <link href="https://www.digitalhealth.net/2024/05/first-implementation-phase-of-guernseys-new-epr-delayed-to-2025/"/>
+        <updated>2024-05-29T07:30:43.000Z</updated>
+        <summary type="html"><![CDATA[The Guernsey Government has announced that the first phase of the island's EPR implementation has been delayed to 2025 due to patient safety.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Labour promises five-year plan to end NHS backlog]]></title>
         <id>https://www.gponline.com/article/1874496</id>
