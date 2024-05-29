@@ -203,6 +203,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=147970",
+          "author": "Maya Dhillon",
+          "description": "A man has been sentenced to six and a half years in jail after pleading guilty to four assaults of staff at a GP surgery in Manchester. Olumuiwa Oduntan received the sentence last week (23 May), having attacked members of staff at a GP surgery in 2021 with a metal barrier pole after he was\nThe post Man jailed for six and a half years over Manchester GP surgery assaults appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/special-investigations/gp-abuse/man-jailed-for-six-and-a-half-years-over-manchester-gp-surgery-assaults/",
+          "publishedOn": "2024-05-29T10:53:11.000Z",
+          "wordCount": 3536,
+          "title": "Man jailed for six and a half years over Manchester GP surgery assaults",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/10/police-crime-.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148045",
+          "author": "Anna Colivicchi",
+          "description": "Pharmacy First ‘will fail’ if patients ‘keep having to return to their GPs’, a group of influential MPs has warned. A new report by the House of Commons health and social care committee said that patients’ concerns about ‘being referred back to the GP’ if they go to community pharmacies to receive care ‘should ring\nThe post Pharmacy First ‘will fail’ if people ‘keep having to return to their GP’, MPs warn appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/pharmacy-first-will-fail-if-people-keep-having-to-return-to-their-gp-mps-warn/",
+          "publishedOn": "2024-05-29T10:27:31.000Z",
+          "wordCount": 3659,
+          "title": "Pharmacy First ‘will fail’ if people ‘keep having to return to their GP’, MPs warn",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/10/Minor-injury-referrals-from-NHS-111-to-community-pharmacy-begin.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=148034",
           "author": "Sofia Lind",
           "description": "The Labour Party has pledged to eradicate elective waits over 18 weeks within five years, if they are elected on 4 July. A Labour government would invest £1.3bn to reduce hospital waiting times, via a doubling of the number of scanners; paying NHS staff to work evenings and weekends; as well as funding private surgeries.\nThe post Labour pledges to clear NHS elective backlog within five years appeared first on Pulse Today.",
@@ -1381,16 +1401,6 @@
           "wordCount": 4776,
           "title": "CPD: Key questions on supporting patients to quit tobacco smoking",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Smoking-cessation-GettyImages-1372431793-1200-x-800.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=147004",
-          "author": "Anna Colivicchi",
-          "description": "The Government is proposing to change the NHS Constitution so that patients have a right to request that intimate care is carried out by someone of the same biological sex.   Today it launched a consultation on changes to the constitution – a document outlining the rights of patients and staff – which will run for\nThe post Patients’ right to request same-sex intimate care to be included in NHS Constitution appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/womens-health/patients-right-to-request-same-sex-intimate-care-to-be-included-in-nhs-constitution/",
-          "publishedOn": "2024-04-29T23:02:00.000Z",
-          "wordCount": 3607,
-          "title": "Patients’ right to request same-sex intimate care to be included in NHS Constitution",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/l/l/c/GettyImages-510064595-scaled-e1714407811258.jpg"
         }
       ]
     },
@@ -1399,6 +1409,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1874575",
+          "author": null,
+          "description": "Junior doctors in England are to stage a five-day strike that will run from 7am on 27 June to 7am on 2 July.",
+          "link": "https://www.gponline.com/junior-doctors-announce-strike-run-up-general-election/article/1874575",
+          "publishedOn": "2024-05-29T10:24:15.000Z",
+          "wordCount": 684,
+          "title": "Junior doctors announce strike in run-up to general election",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2033296189.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1874470",
           "author": null,
@@ -1828,6 +1848,16 @@
           "wordCount": 707,
           "title": "Half of GPs believe PCNs have had a negative impact on general practice",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1917295414.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1872530",
+          "author": null,
+          "description": "MIMS Learning Live London takes place next Friday (7 June). Register FREE today to earn up to 20 CPD hours by attending this 3-stream event, covering four clinical topics and helping you meet your learning objectives for appraisal.",
+          "link": "https://www.gponline.com/join-peers-next-week-mims-learning-live-london/article/1872530",
+          "publishedOn": "2024-05-14T08:06:32.000Z",
+          "wordCount": 1694,
+          "title": "Join your peers next week at MIMS Learning Live London",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/articleimagegponlineandmims.png"
         },
         {
           "id": "https://www.gponline.com/article/1872530",
@@ -2928,16 +2958,6 @@
           "wordCount": 1081,
           "title": "Open consultation: NHS Constitution: 10 year review",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nhs-constitution-plans-to-strengthen-privacy-dignity-and-safety",
-          "author": null,
-          "description": "Proposed updates NHS Constitution for England will reflect biological needs of patients and empower people to request same-sex wards and care",
-          "link": "https://www.gov.uk/government/news/nhs-constitution-plans-to-strengthen-privacy-dignity-and-safety",
-          "publishedOn": "2024-04-29T23:01:04.000Z",
-          "wordCount": 2603,
-          "title": "Press release: NHS Constitution plans to strengthen privacy, dignity and safety",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -2946,6 +2966,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/05/taking-stock-of-the-governments-delivery-plan-for-recovering-primary-care-one-year-on-review.html",
+          "author": null,
+          "description": "PAGB - The Self-Care Strategy Group, founded by PAGB in 2019 with representatives of leading pharmacy and healthcare organisations, has published a report marking one year since the launch of NHS England's Delivery plan for recovering access to primary care. The delivery plan, published in May 2023, has been framed as a first step to address access challenges ahead of...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/05/taking-stock-of-the-governments-delivery-plan-for-recovering-primary-care-one-year-on-review.html",
+          "publishedOn": "2024-05-29T10:23:45.000Z",
+          "wordCount": null,
+          "title": "Taking stock of the Government’s delivery plan for recovering primary care: one year on review",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/05/a-preventative-approach-to-public-services-how-the-government-can-shift-its-focus-and-improve-lives.html",
           "author": null,
