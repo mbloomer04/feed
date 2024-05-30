@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-30T14:09:41.801Z</updated>
+    <updated>2024-05-30T15:10:12.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What GPs need to know about NICE’s vitamin B12 deficiency guidance]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=148078</id>
+        <link href="https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/gastroenterology/what-gps-need-to-know-about-nices-vitamin-b12-deficiency-guidance/"/>
+        <updated>2024-05-30T14:42:48.000Z</updated>
+        <summary type="html"><![CDATA[GP Dr Ed Pooley summarises NICE’s new guidance on vitamin B12 deficiency in over 16s Vitamin B12 is an essential water-soluble vitamin required for metabolism, DNA synthesis, nerve cell functioning and maturation of erythrocytes. It is widely found in meat, shellfish, liver, eggs, poultry, dairy products, and as a fortification agent in breakfast cereals. Symptoms
+The post What GPs need to know about NICE’s vitamin B12 deficiency guidance appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Jaimie Kaffash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government puts ’emergency ban’ on private prescribing of puberty blockers]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=148105</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/sexual-health-and-gynaecology/government-puts-emergency-ban-on-private-prescribing-of-puberty-blockers/"/>
+        <updated>2024-05-30T14:22:32.000Z</updated>
+        <summary type="html"><![CDATA[The Government has brought in an emergency ban on private prescribing of puberty blockers to children and young people. Earlier this year, NHS England banned routine prescription of puberty blockers on the NHS for children with gender dysphoria, after a working group found there is not sufficient evidence to support their ‘safety or clinical effectiveness’.
+The post Government puts ’emergency ban’ on private prescribing of puberty blockers appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4504 - Check Point Releases Security Hotfix for Exploited Zero-Day Vulnerability CVE-2024-24919]]></title>
+        <id>2d997862-be0f-4b7f-9bdc-24b583975168</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4504"/>
+        <updated>2024-05-30T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Active exploitation of Check Point security gateway devices
+ Check Point has released security advisories relating to ongoing exploitation of a zero-day vulnerability in the Quantum Gateway and CloudGuard family of products
+ Updated: 30 May 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[General election 2024: Health leaders share their views on digital priorities]]></title>
         <id>https://www.digitalhealth.net/?p=176383</id>

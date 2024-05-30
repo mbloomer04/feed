@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2d997862-be0f-4b7f-9bdc-24b583975168",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Active exploitation of Check Point security gateway devices\n Check Point has released security advisories relating to ongoing exploitation of a zero-day vulnerability in the Quantum Gateway and CloudGuard family of products\n Updated: 30 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4504",
+          "publishedOn": "2024-05-30T14:15:00.000Z",
+          "wordCount": 891,
+          "title": "CC-4504 - Check Point Releases Security Hotfix for Exploited Zero-Day Vulnerability CVE-2024-24919",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "24362ad3-ceac-42d0-820d-7f0b1e2c6c05",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Proof-of-concept exploit code released for RCE vulnerability CVE-2024-21683\n Proof-of-concept code released for RCE vulnerability CVE-2024-21683\n Updated: 29 May 2024",
@@ -212,6 +222,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148078",
+          "author": "Jaimie Kaffash",
+          "description": "GP Dr Ed Pooley summarises NICE’s new guidance on vitamin B12 deficiency in over 16s Vitamin B12 is an essential water-soluble vitamin required for metabolism, DNA synthesis, nerve cell functioning and maturation of erythrocytes. It is widely found in meat, shellfish, liver, eggs, poultry, dairy products, and as a fortification agent in breakfast cereals. Symptoms\nThe post What GPs need to know about NICE’s vitamin B12 deficiency guidance appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/gastroenterology/what-gps-need-to-know-about-nices-vitamin-b12-deficiency-guidance/",
+          "publishedOn": "2024-05-30T14:42:48.000Z",
+          "wordCount": 4202,
+          "title": "What GPs need to know about NICE’s vitamin B12 deficiency guidance",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/09/B12-supplements.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148105",
+          "author": "Eliza Parr",
+          "description": "The Government has brought in an emergency ban on private prescribing of puberty blockers to children and young people. Earlier this year, NHS England banned routine prescription of puberty blockers on the NHS for children with gender dysphoria, after a working group found there is not sufficient evidence to support their ‘safety or clinical effectiveness’.\nThe post Government puts ’emergency ban’ on private prescribing of puberty blockers appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/sexual-health-and-gynaecology/government-puts-emergency-ban-on-private-prescribing-of-puberty-blockers/",
+          "publishedOn": "2024-05-30T14:22:32.000Z",
+          "wordCount": 3348,
+          "title": "Government puts ’emergency ban’ on private prescribing of puberty blockers",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/mother_chatting_teenage_daughter_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=148090",
           "author": "Eliza Parr",
