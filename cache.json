@@ -2227,6 +2227,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/petrol-properties-incident-management-and-toxicology",
+          "author": null,
+          "description": "Information on petrol (also known as gasoline), for use in responding to chemical incidents.",
+          "link": "https://www.gov.uk/government/publications/petrol-properties-incident-management-and-toxicology",
+          "publishedOn": "2024-05-31T14:21:41.000Z",
+          "wordCount": 1060,
+          "title": "Guidance: Petrol: health effects, incident management and toxicology",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/cervical-screening-cytology-samples-external-quality-assessment",
           "author": null,
           "description": "External quality assessment scheme for the preparation and staining of cervical liquid based cytology samples.",

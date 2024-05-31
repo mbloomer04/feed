@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-05-31T14:08:53.237Z</updated>
+    <updated>2024-05-31T15:09:54.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Petrol: health effects, incident management and toxicology]]></title>
+        <id>https://www.gov.uk/government/publications/petrol-properties-incident-management-and-toxicology</id>
+        <link href="https://www.gov.uk/government/publications/petrol-properties-incident-management-and-toxicology"/>
+        <updated>2024-05-31T14:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Information on petrol (also known as gasoline), for use in responding to chemical incidents.]]></summary>
+        <author>
+            <name>Public Health England - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4505 - Linux Kernel Use-after-free Vulnerability]]></title>
         <id>1881cd46-5f8c-4683-a7f2-1860c86d57e4</id>
