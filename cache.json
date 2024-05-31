@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1881cd46-5f8c-4683-a7f2-1860c86d57e4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Updated: 31 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4505",
+          "publishedOn": "2024-05-31T12:58:00.000Z",
+          "wordCount": 544,
+          "title": "CC-4505 - Linux Kernel Use-after-free Vulnerability",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1717154519384/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "2d997862-be0f-4b7f-9bdc-24b583975168",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Active exploitation of Check Point security gateway devices\n Check Point has released security advisories relating to ongoing exploitation of a zero-day vulnerability in the Quantum Gateway and CloudGuard family of products\n Updated: 30 May 2024",
@@ -3890,6 +3900,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176403",
+          "author": "DHI News Team",
+          "description": "Six imaging networks in England have selected global health tech firm Annalise.ai as the preferred provider to support early lung cancer diagnosis.",
+          "link": "https://www.digitalhealth.net/2024/05/ai-chest-x-ray-tool-made-available-to-radiologists-at-more-than-40-nhs-trusts/",
+          "publishedOn": "2024-05-31T12:30:41.000Z",
+          "wordCount": 1865,
+          "title": "AI chest X-ray tool made available to radiologists at more than 40 NHS trusts",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/05/Clinical-CXR-ROW-lung-nodule-over.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=176407",
           "author": "Jordan Sollof",
