@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "e4eb27d0-d1f9-4a27-a013-c46b4bca83d2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Low\n Successful exploitation of CVE-2024-1275 could lead to data compromise, resulting in impact and/or delay in patient care\n Successful exploitation of CVE-2024-1275 could lead to data compromise, resulting in impact and/or delay in patient care\n Updated: 31 May 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4506",
+          "publishedOn": "2024-05-31T15:14:00.000Z",
+          "wordCount": 622,
+          "title": "CC-4506 - Baxter Welch Allyn  Connex Spot Monitor Vulnerability CVE-2024-1275",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1717154519384/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "1881cd46-5f8c-4683-a7f2-1860c86d57e4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Updated: 31 May 2024",
@@ -222,6 +232,36 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148165",
+          "author": "Maya Dhillon",
+          "description": "Pulse summarises May’s talking points – what does a general election mean for general practice, and what industrial action will the BMA partner ballot lead to What does the election mean for general practice? It was like something from a rom-com: the pouring rain; his finest suit; and asking people to just give him a\nThe post Big Questions: The general election and industrial action appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/big-questions/big-questions-the-general-election-and-industrial-action/",
+          "publishedOn": "2024-05-31T15:27:45.000Z",
+          "wordCount": 4479,
+          "title": "Big Questions: The general election and industrial action",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Big-questions-same-day-access_3.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148143",
+          "author": "Eliza Parr",
+          "description": "Exclusive The BMA will support female GPs who have been made redundant by GP at Hand owner eMed, after legal advice showed there is an ‘actionable claim’ for indirect discrimination. The online NHS GP provider, which serves around 100,000 patients in London after being launched by Babylon in 2017, was taken over by US company\nThe post BMA will support female GPs in discrimination claim against GP at Hand owner appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/bma-will-support-female-gps-in-discrimination-claim-against-gp-at-hand-owner/",
+          "publishedOn": "2024-05-31T15:22:33.000Z",
+          "wordCount": 3520,
+          "title": "BMA will support female GPs in discrimination claim against GP at Hand owner",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148154",
+          "author": "Sofia Lind",
+          "description": "General practice nurses (GPNs) should be encouraged to take up positions on their local medical committees (LMC) and challenge the ‘status quo’, it has been suggested. Ruth Colbeck, lead nurse at West Leeds Primary Care Network (PCN), discussed her journey into her local LMC and how other nurses should strive to do the same during\nThe post GP practice nurses encouraged to join LMCs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/politics/gp-practice-nurses-encouraged-to-join-lmcs/",
+          "publishedOn": "2024-05-31T15:15:08.000Z",
+          "wordCount": 3667,
+          "title": "GP practice nurses encouraged to join LMCs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Salary-and-responsibilities-of-ARRS-enhanced-nurses-revealed.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=147849",
           "author": "Anna Colivicchi",
@@ -1459,6 +1499,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1875044",
+          "author": null,
+          "description": "Employment of locum GPs is 'in crisis’ because chronic underfunding has led to a collapse in the resources practices have available to hire them, the BMA has warned.",
+          "link": "https://www.gponline.com/locum-gp-employment-in-crisis-warns-bma/article/1875044",
+          "publishedOn": "2024-05-31T14:13:57.000Z",
+          "wordCount": 683,
+          "title": "Locum GP employment is 'in crisis', warns BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_2.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1874986",
           "author": null,
