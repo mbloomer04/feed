@@ -220,8 +220,28 @@
     {
       "title": "Pulse Today",
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
-      "siteUrl": null,
+      "siteUrl": "https://www.pulsetoday.co.uk/?page_id=2",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=147856",
+          "author": "Sofia Lind",
+          "description": "GPs want ‘more severe sanctions’ for perpetrators of threatening and violent behaviour towards GP practice staff. In a vote at last month’s UK LMC conference, delegates demanded that ‘the criteria for inclusion in violent patient schemes should be relaxed’. The also called on UK governments to ‘ensure that the funding for violent patient schemes is\nThe post GPs demand ‘more severe sanctions’ for violent patients appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/special-investigations/gp-abuse/gps-demand-more-severe-sanctions-for-violent-patients/",
+          "publishedOn": "2024-06-03T14:56:22.000Z",
+          "wordCount": 3608,
+          "title": "GPs demand ‘more severe sanctions’ for violent patients",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/05/LMC-conf-violent-patients-2.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=148193",
+          "author": "Sofia Lind",
+          "description": "The NHS Digital Weight Management programme, available to both health staff and patients, is effective at leading to ‘clinically meaningful weight loss’, latest research has shown. The study, highlighted by NHS England in its primary care bulletin last month, found that people who adhered to and finished the 12-week programme shed over half a stone in weight.  The\nThe post NHS online weight programme can lead to losses of more than half a stone, study finds appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/obesity-and-nutrition/nhs-online-weight-programme-can-lead-to-losses-of-more-than-half-a-stone-study-finds/",
+          "publishedOn": "2024-06-03T14:18:48.000Z",
+          "wordCount": 3521,
+          "title": "NHS online weight programme can lead to losses of more than half a stone, study finds",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/11/phone-social-media-app-mobile.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=148186",
           "author": "Maya Dhillon",
@@ -2439,6 +2459,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/request-baby-loss-certificate",
+          "author": null,
+          "description": "If your pregnancy ends before 24 weeks, you can get a free certificate in memory of your baby.",
+          "link": "https://www.gov.uk/request-baby-loss-certificate",
+          "publishedOn": "2024-06-03T14:27:18.000Z",
+          "wordCount": 1297,
+          "title": "Request a baby loss certificate",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-restrictions-on-puberty-blockers",
           "author": null,
