@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-04T12:17:19.600Z</updated>
+    <updated>2024-06-04T13:11:45.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical incident at Synnovis disrupts pathology services across SE London]]></title>
+        <id>https://www.digitalhealth.net/?p=176575</id>
+        <link href="https://www.digitalhealth.net/2024/06/critical-incident-at-synnovis-disrupts-pathology-services-across-se-london/"/>
+        <updated>2024-06-04T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Breaking news: A critical incident at Synnovis has disrupted services at Guy’s and St Thomas’ NHS FT and King’s College Hospital NHS FT.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP workload concern as private hospital admissions reach ‘record level’]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149372</id>
