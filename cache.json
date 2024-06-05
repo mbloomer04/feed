@@ -1510,6 +1510,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1875530",
+          "author": null,
+          "description": "The next government must deliver a new GP contract, improve practice premises and stop the replacement of doctors with physician associates, a BMA general election manifesto warns.",
+          "link": "https://www.gponline.com/bma-manifesto-demands-new-gp-contract-end-pas-replacing-doctors/article/1875530",
+          "publishedOn": "2024-06-05T06:55:17.000Z",
+          "wordCount": 885,
+          "title": "BMA manifesto demands new GP contract and end to PAs replacing doctors",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_31.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1875503",
           "author": null,
           "description": "GPs fear 'flying blind' for weeks after a cyber attack on a pathology lab service forced hospitals to cancel or move appointments and disrupted access to test results.",
@@ -3970,6 +3980,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176633",
+          "author": "Tammy Lovell",
+          "description": "Synnovis CEO Mark Dollar has confirmed that a ransomware attack has interrupted pathology IT systems, causing patient activity to be cancelled.",
+          "link": "https://www.digitalhealth.net/2024/06/synnovis-ceo-confirms-ransomware-attack-at-london-hospitals/",
+          "publishedOn": "2024-06-05T07:30:31.000Z",
+          "wordCount": 1912,
+          "title": "Synnovis CEO confirms ransomware attack at London hospitals",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2019/05/Guys-and-St-Thomas.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=176575",
           "author": "Tammy Lovell",
