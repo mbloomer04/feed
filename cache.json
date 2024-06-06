@@ -220,8 +220,28 @@
     {
       "title": "Pulse Today",
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
-      "siteUrl": "https://www.pulsetoday.co.uk/?page_id=2",
+      "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149502",
+          "author": "Sofia Lind",
+          "description": "GPs have been asked to notify all cases of infectious bloody diarrhoea to local health protection teams, as UK authorities issue a health warning about a serious E. coli outbreak linked to an unknown ‘nationally distributed food item’. The UK Health Security Agency are investigating an increase in the number of Shiga toxin-producing Escherichia coli\nThe post GPs to notify cases of bloody diarrhoea amid E. coli ‘food item’ warning appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/gps-to-notify-cases-of-bloody-diarrhoea-amid-e-coli-food-item-warning/",
+          "publishedOn": "2024-06-06T15:10:19.000Z",
+          "wordCount": 3438,
+          "title": "GPs to notify cases of bloody diarrhoea amid E. coli ‘food item’ warning",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/08/stomach-pain-bowel-cancer.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149492",
+          "author": "Anna Colivicchi",
+          "description": "Exclusive The BMA has revealed potential actions that GP practices could take as part of collective action later this year. Pulse understands that these include refusing to engage in advice and guidance, seeing patients ‘face to face as a default’, and switching off the GP connect functionality which permits remote NHS 111 appointment booking. The\nThe post BMA reveals options for GP collective action appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/bma-reveals-options-for-gp-collective-action/",
+          "publishedOn": "2024-06-06T14:42:13.000Z",
+          "wordCount": 3488,
+          "title": "BMA reveals options for GP collective action",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149475",
           "author": "Sofia Lind",
@@ -3138,6 +3158,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/06/falling-through-the-gaps-a-closer-look-at-nhs-continuing-healthcare.html",
+          "author": null,
+          "description": "Nuffield Trust - NHS Continuing Healthcare (CHC) is care funded by the NHS, but provided outside of hospital for people with significant ongoing care needs. This briefing explains how eligibility for CHC is decided, what the data tells us about eligibility and access over time, and what the impact on individuals, carers and families can be. Briefing",
+          "link": "https://kingsfund.blogs.com/health_management/2024/06/falling-through-the-gaps-a-closer-look-at-nhs-continuing-healthcare.html",
+          "publishedOn": "2024-06-06T14:13:58.000Z",
+          "wordCount": null,
+          "title": "Falling through the gaps?: a closer look at NHS Continuing Healthcare",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/06/partners-for-change.html",
           "author": null,
