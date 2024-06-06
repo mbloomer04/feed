@@ -1490,6 +1490,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1875738",
+          "author": null,
+          "description": "LMCs across England, Scotland and Wales have co-signed a letter to political party leaders ahead of the general election, calling for fair funding, a plan to retain GPs and more autonomy.",
+          "link": "https://www.gponline.com/britains-lmcs-co-sign-unprecedented-letter-demanding-action-end-gp-crisis/article/1875738",
+          "publishedOn": "2024-06-06T06:37:59.000Z",
+          "wordCount": 888,
+          "title": "Britain's LMCs co-sign 'unprecedented' letter demanding action to end GP crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_51.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1875539",
           "author": null,
           "description": "A group representing anaesthetists has raised over £40,000 to launch a legal challenge against the GMC's plans to regulate physician associates (PAs) and anaesthesia associates (AAs).",
@@ -2519,6 +2529,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-june-2024",
+          "author": null,
+          "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-june-2024",
+          "publishedOn": "2024-06-06T08:30:09.000Z",
+          "wordCount": 948,
+          "title": "Official Statistics: Adult social care in England, monthly statistics: June 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the data in its monthly reports.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology",
+          "publishedOn": "2024-06-06T08:30:09.000Z",
+          "wordCount": 1432,
+          "title": "Guidance: Adult social care in England statistics: background quality and methodology",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/request-baby-loss-certificate",
           "author": null,
