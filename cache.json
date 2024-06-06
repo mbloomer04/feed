@@ -1490,6 +1490,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1874645",
+          "author": null,
+          "description": "GPonline has launched a new WhatsApp channel so you have another way to stay up to date with the latest news, and receive updates about our education, GP training and career articles direct to your phone.",
+          "link": "https://www.gponline.com/gponline-launches-whatsapp-channel/article/1874645",
+          "publishedOn": "2024-06-06T08:38:00.000Z",
+          "wordCount": 1543,
+          "title": "GPonline launches WhatsApp channel",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2155600335.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1875738",
           "author": null,
           "description": "LMCs across England, Scotland and Wales have co-signed a letter to political party leaders ahead of the general election, calling for fair funding, a plan to retain GPs and more autonomy.",
@@ -2264,6 +2274,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
+          "publishedOn": "2024-06-06T09:52:43.000Z",
+          "wordCount": 1448,
+          "title": "We had to follow the data, not our users",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/data-user-research-blog-lead-image_1.jpg"
+        },
+        {
           "id": "1e4241ae-b6b3-4081-8fb8-a0deb29a9e47",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Liz Gaffney, Head of NHS England's Secure Data Environment, reflects on the developments of the service one year on.\n\r\n\r\nIn January, Michael Chapman blogged about our ambitious plans for the NHS England Secure Data Environment (SDE), starting with migrating customers to the service, testing its capabilities and processes, and then scaling up the service to handle wider use.",
@@ -2320,6 +2340,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
+          "publishedOn": "2024-06-06T09:59:00.000Z",
+          "wordCount": 1755,
+          "title": "A new way to find patients",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/antivirals-blog.jpg"
+        },
+        {
           "id": "af535a23-cb35-49a3-b796-a949952b4f50",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Michael Chapman, Director of Research and Clinical Trials at NHS Digital, talks about our new Secure Data Environment and explains how it is making research into life-saving treatments easier and faster.\n\r\n\r\nAt the outset of the COVID-19 pandemic, we built the Trusted Research Environment (TRE) service for England to enable researchers from the NHS, government, academia and industry to contribute to our collective response to the disease.\n\r\n\r\nOur TRE service proved invaluable in understanding the impact of COVID-19 and the efficacy of treatments, but it wasn’t scalable or flexible enough for the wider community of researchers who we want to support.",
@@ -2355,7 +2385,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
+          "publishedOn": "2024-06-06T09:52:43.000Z",
+          "wordCount": 1448,
+          "title": "We had to follow the data, not our users",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/data-user-research-blog-lead-image_1.jpg"
+        }
+      ]
     },
     {
       "title": "NHS England",
@@ -3574,6 +3615,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:f26b6e52-e34f-4d74-b5ad-7ef4c5d5e3a2",
+          "author": null,
+          "description": "The World Health Organization (WHO) is pleased to announce the appointment of Mr José Luis Castro as WHO Director-General Special Envoy for Chronic Respiratory Diseases. Chronic respiratory diseases (CRD), including asthma and chronic obstructive pulmonary disease (COPD), affect nearly half a billion people worldwide. Despite their significant impact, these diseases have often been overlooked in global health discussions, lacking the necessary recognition and resources.",
+          "link": "https://www.who.int/news/item/06-06-2024-mr-jose-luis-castro-appointed-as-who-director-general-special-envoy-for-chronic-respiratory-diseases",
+          "publishedOn": "2024-06-05T12:14:32.000Z",
+          "wordCount": 2087,
+          "title": "Mr José Luis Castro appointed as WHO Director-General Special Envoy \r\nfor Chronic Respiratory Diseases",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/people/who-people/mr-jose-castro.tmb-1200v.jpg?sfvrsn=e9a5953d_1"
+        },
+        {
           "id": "urn:uuid:b2804f27-8da4-49a9-a25b-0b4b5b2ea4e7",
           "author": null,
           "description": "World Health Assembly agreement reached on wide-ranging, decisive package of amendments to improve the International Health Regulations, and sets date for finalizing negotiations on a proposed Pandemic Agreement\nIn a historic development, the World Health Assembly, the annual meeting of the World Health Organization's 194 member countries, today agreed on a package of critical amendments to the International Health Regulations (2005) (IHR), and made concrete commitments to completing negotiations on a global pandemic agreement within a year, at the latest. These critical actions have been taken in order to ensure comprehensive, robust systems are in place in all countries to protect the health and safety of all people everywhere from the risk of future outbreaks and pandemics.\nThese decisi…",
@@ -3900,6 +3951,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176577",
+          "author": "Jordan Sollof",
+          "description": "Healthcare IT supplier Clanwilliam is testing its pharmacy system technology in Wales to support the delivery of an Electronic Prescription Service (EPS).",
+          "link": "https://www.digitalhealth.net/2024/06/clanwilliam-tests-electronic-prescription-technology-in-wales/",
+          "publishedOn": "2024-06-06T10:00:47.000Z",
+          "wordCount": 1846,
+          "title": "Clanwilliam tests electronic prescription technology in Wales",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2017/06/e-prescribing.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=176709",
           "author": "Tammy Lovell",

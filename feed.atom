@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-06T09:11:26.188Z</updated>
+    <updated>2024-06-06T10:10:15.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clanwilliam tests electronic prescription technology in Wales]]></title>
+        <id>https://www.digitalhealth.net/?p=176577</id>
+        <link href="https://www.digitalhealth.net/2024/06/clanwilliam-tests-electronic-prescription-technology-in-wales/"/>
+        <updated>2024-06-06T10:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare IT supplier Clanwilliam is testing its pharmacy system technology in Wales to support the delivery of an Electronic Prescription Service (EPS).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new way to find patients]]></title>
+        <id>d585aac1-e2b6-41d9-8964-e0366454c1eb</id>
+        <link href="https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients"/>
+        <updated>2024-06-06T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  
+
+
+As COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We had to follow the data, not our users]]></title>
+        <id>a96bdbf2-24c5-42c6-9a5e-f90b0df14a44</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users"/>
+        <updated>2024-06-06T09:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.
+
+
+A big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.
+
+
+Therefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We had to follow the data, not our users]]></title>
+        <id>a96bdbf2-24c5-42c6-9a5e-f90b0df14a44</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users"/>
+        <updated>2024-06-06T09:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.
+
+
+A big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.
+
+
+Therefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPonline launches WhatsApp channel]]></title>
+        <id>https://www.gponline.com/article/1874645</id>
+        <link href="https://www.gponline.com/gponline-launches-whatsapp-channel/article/1874645"/>
+        <updated>2024-06-06T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[GPonline has launched a new WhatsApp channel so you have another way to stay up to date with the latest news, and receive updates about our education, GP training and career articles direct to your phone.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Adult social care in England, monthly statistics: June 2024]]></title>
         <id>https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-june-2024</id>
@@ -92,6 +157,17 @@ The post GP referrals ‘key’ to Pharmacy First success, analysis suggests app
         <summary type="html"><![CDATA[The programme for Summer Schools 2024 has been published, featuring national keynotes, NHS CEOs, digital leadership plenary sessions and more.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr José Luis Castro appointed as WHO Director-General Special Envoy 
+for Chronic Respiratory Diseases]]></title>
+        <id>urn:uuid:f26b6e52-e34f-4d74-b5ad-7ef4c5d5e3a2</id>
+        <link href="https://www.who.int/news/item/06-06-2024-mr-jose-luis-castro-appointed-as-who-director-general-special-envoy-for-chronic-respiratory-diseases"/>
+        <updated>2024-06-05T12:14:32.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) is pleased to announce the appointment of Mr José Luis Castro as WHO Director-General Special Envoy for Chronic Respiratory Diseases. Chronic respiratory diseases (CRD), including asthma and chronic obstructive pulmonary disease (COPD), affect nearly half a billion people worldwide. Despite their significant impact, these diseases have often been overlooked in global health discussions, lacking the necessary recognition and resources.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
