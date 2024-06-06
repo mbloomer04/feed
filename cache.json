@@ -220,8 +220,28 @@
     {
       "title": "Pulse Today",
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
-      "siteUrl": null,
+      "siteUrl": "https://www.pulsetoday.co.uk/?page_id=2",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149475",
+          "author": "Sofia Lind",
+          "description": "Three more babies have been confirmed to have died from whooping cough in April, the UK Health Security Agency (UKHSA) has said. It follow five deaths that were reported by health officials in the first three months of the year. The eight deaths were in infants who developed pertussis between January and April and were\nThe post Three more babies died from whooping cough in April appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/three-more-babies-died-from-whooping-cough-in-april/",
+          "publishedOn": "2024-06-06T11:36:21.000Z",
+          "wordCount": 3422,
+          "title": "Three more babies died from whooping cough in April",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/10/crying-baby-with-reflux-gaviscon.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149463",
+          "author": "Anna Colivicchi",
+          "description": "GPs are ‘not accountable’ for the decisions and actions of physician associates (PAs) they supervise, the GMC has said. In a letter to system leaders, the regulator said that its guidance for doctors is ‘clear’ that doctors – including GPs – are not accountable for the decisions and actions of PAs and anaesthesia associates (AAs)\nThe post GPs are ‘not accountable’ for PA errors, says GMC appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/gps-are-not-accountable-for-pa-errors-says-gmc/",
+          "publishedOn": "2024-06-06T11:21:40.000Z",
+          "wordCount": 3790,
+          "title": "GPs are ‘not accountable’ for PA errors, says GMC",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/Laptop-case-‘damaged-GMCs-work-to-build-trust-with-BAME-doctors-says-chief-exec.jpeg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149462",
           "author": "Sofia Lind",
@@ -1509,6 +1529,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1875791",
+          "author": null,
+          "description": "Doctors, physician associates and anaesthesia associates will be regulated as 'three distinct professions' when the GMC's remit widens later this year, the regulator has said.",
+          "link": "https://www.gponline.com/gmc-will-regulate-doctors-physician-associates-as-distinct-professions/article/1875791",
+          "publishedOn": "2024-06-06T10:20:12.000Z",
+          "wordCount": 872,
+          "title": "GMC will regulate doctors and physician associates 'as distinct professions'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMCCharlieMassey_4.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1874645",
           "author": null,
@@ -3100,16 +3130,6 @@
           "wordCount": 994,
           "title": "Policy paper: UK 5-year action plan for antimicrobial resistance 2024 to 2029",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/new-five-year-plan-to-combat-antimicrobial-resistance",
-          "author": null,
-          "description": "The government has announced its new National Action Plan on antimicrobial resistance to protect people and animals from the risk of drug resistant infections.",
-          "link": "https://www.gov.uk/government/news/new-five-year-plan-to-combat-antimicrobial-resistance",
-          "publishedOn": "2024-05-07T23:15:11.000Z",
-          "wordCount": 3736,
-          "title": "Press release: New five-year plan to combat antimicrobial resistance",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3118,6 +3138,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/06/partners-for-change.html",
+          "author": null,
+          "description": "New Philanthropy Capital - This report argues that, following the general election, charities and funders should be a key partner in delivering the new government’s plans to revitalise the country and can help tackle social challenges such as health inequalities. It includes eight recommendations for putting the partnership between government and charities on a strong footing, nine recommendations in priority...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/06/partners-for-change.html",
+          "publishedOn": "2024-06-06T11:56:37.000Z",
+          "wordCount": null,
+          "title": "Partners for change",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/06/a-new-national-purpose-harnessing-data-for-health.html",
           "author": null,
