@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-07T13:12:24.122Z</updated>
+    <updated>2024-06-07T14:10:21.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Atorvastatin most-prescribed drug by GPs, with diabetes and HRT drugs on rise]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=149554</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/diabetes-endocrinology/atorvastatin-most-prescribed-drug-by-gps-with-diabetes-and-hrt-drugs-on-rise/"/>
+        <updated>2024-06-07T14:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Atorvastatin was once again the most prescribed item by GPs in England last year, while endocrine system drugs saw the largest rise. Cardiovascular drugs accounted for 30% of all items prescribed by the NHS in the UK and dispensed in the community in England 2023/24, according to the latest statistics from the NHS Business Services
+The post Atorvastatin most-prescribed drug by GPs, with diabetes and HRT drugs on rise appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4507 - Directory Traversal Vulnerability in SolarWinds Serv-U]]></title>
+        <id>de5ed9a8-0e16-433c-a6be-41f3c5991460</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4507"/>
+        <updated>2024-06-07T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update addresses a vulnerability that could lead to unauthorised access of confidential files
+ Security update addresses a vulnerability that could lead to unauthorised access of confidential files
+ Updated: 07 Jun 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Great Western Hospitals to deploy Zebra devices in standardisation project]]></title>
         <id>https://www.digitalhealth.net/?p=176791</id>

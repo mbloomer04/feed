@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "de5ed9a8-0e16-433c-a6be-41f3c5991460",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Updated: 07 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4507",
+          "publishedOn": "2024-06-07T13:51:00.000Z",
+          "wordCount": 510,
+          "title": "CC-4507 - Directory Traversal Vulnerability in SolarWinds Serv-U",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1717500257396/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "e4eb27d0-d1f9-4a27-a013-c46b4bca83d2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Low\n Successful exploitation of CVE-2024-1275 could lead to data compromise, resulting in impact and/or delay in patient care\n Successful exploitation of CVE-2024-1275 could lead to data compromise, resulting in impact and/or delay in patient care\n Updated: 31 May 2024",
@@ -222,6 +232,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149554",
+          "author": "Sofia Lind",
+          "description": "Atorvastatin was once again the most prescribed item by GPs in England last year, while endocrine system drugs saw the largest rise. Cardiovascular drugs accounted for 30% of all items prescribed by the NHS in the UK and dispensed in the community in England 2023/24, according to the latest statistics from the NHS Business Services\nThe post Atorvastatin most-prescribed drug by GPs, with diabetes and HRT drugs on rise appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/diabetes-endocrinology/atorvastatin-most-prescribed-drug-by-gps-with-diabetes-and-hrt-drugs-on-rise/",
+          "publishedOn": "2024-06-07T14:08:38.000Z",
+          "wordCount": 3382,
+          "title": "Atorvastatin most-prescribed drug by GPs, with diabetes and HRT drugs on rise",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/statin-side-effects.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149481",
           "author": "Sofia Lind",
