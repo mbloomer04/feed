@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-09T03:11:10.758Z</updated>
+    <updated>2024-06-09T04:11:45.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -522,6 +522,16 @@ The post Doctors raise £25k to legally challenge GMC over PA/AA regulation appe
 The post Practice pays tribute to ‘well-loved’ GP who died in paddle-boarding accident appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2024-06-04T14:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -4486,30 +4496,6 @@ Governments meeting at the World Health Organization headquarters in Geneva agre
 "During more than two years of intensive negotiations, WHO’s Member States have shown unwavering commitment to forging a gen…]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antibiotic prescribing concerns ‘so far unfounded’, say Pharmacy First leaders]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=147389</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/prescribing/antibiotic-prescribing-concerns-so-far-unfounded-say-pharmacy-first-leaders/"/>
-        <updated>2024-05-10T15:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Pharmacists are supplying antibiotics ‘only when absolutely necessary’ as part of Pharmacy First, so concerns that the scheme would drive antibiotic resistance are so far ‘unfounded’, trade leaders have said. According to a report by the Company Chemists’ Association (CCA) – the trade association for large pharmacy operators across Great Britain – pharmacists are ‘closely
-The post Antibiotic prescribing concerns ‘so far unfounded’, say Pharmacy First leaders appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4488 - Google Releases Security Update for Vulnerability CVE-2024-4671]]></title>
-        <id>09d5ef4f-a228-4f78-b23d-00ec0bc23fdf</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4488"/>
-        <updated>2024-05-10T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security update addresses one high severity vulnerability in Google Chrome that has an exploit in the wild
- Security update addresses one high severity vulnerability in Google Chrome that has an exploit in the wild
- Updated: 10 May 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
