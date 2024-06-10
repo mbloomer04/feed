@@ -1450,6 +1450,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1876325",
+          "author": null,
+          "description": "GPs and pharmacists have called for action to tackle volatile drug costs after a £500m surge in prescribing spending in 2023/24, with spending on some medications more than doubling.",
+          "link": "https://www.gponline.com/gps-pharmacists-call-action-volatile-drug-costs-prescribing-bill-spirals/article/1876325",
+          "publishedOn": "2024-06-10T11:02:04.000Z",
+          "wordCount": 894,
+          "title": "GPs and pharmacists call for action on volatile drug costs as prescribing bill spirals",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Medicines_GettyImages-AlexanderFord_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1876299",
           "author": null,
           "description": "The BMA has declared the current GP unemployment crisis a ‘national disgrace’ after a GP confronted prime minister Rishi Sunak over the 'constructive dismissal' of general practice.",
@@ -3642,6 +3652,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176613",
+          "author": "Jordan Sollof",
+          "description": "Peter White, CNIO at Alder Hey Children’s Hospital, tells Digital Health about a project to create standardised pediatric datasets for infusion pumps.",
+          "link": "https://www.digitalhealth.net/2024/06/standard-infusion-pumps-with-new-software-to-go-live-fully-at-alder-hey/",
+          "publishedOn": "2024-06-10T12:30:12.000Z",
+          "wordCount": 1932,
+          "title": "Standard infusion pump software to go live at Alder Hey Children’s Hospital",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/infusion-pump-critical-care-Alder-Hey.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=176879",
           "author": "Tammy Lovell",
