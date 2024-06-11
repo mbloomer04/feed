@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-11T10:10:54.869Z</updated>
+    <updated>2024-06-11T11:09:39.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPC manifesto to demand 15% share of NHS budget for GP and community care]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=149621</id>
+        <link href="https://www.pulsetoday.co.uk/news/politics/gpc-manifesto-to-demand-15-share-of-nhs-budget-for-gp-and-community-care/"/>
+        <updated>2024-06-11T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive The BMA’s GP committee will ask the next Government to ensure that funding for out-of-hospital care gets ‘at least a 15% share’ of the NHS budget, its chair has revealed. Dr Katie Bramall-Stainer told Pulse that this would form part of GPC England’s manifesto, which is also expected to include ‘an ambition towards’ a
+The post GPC manifesto to demand 15% share of NHS budget for GP and community care appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[University Hospitals Coventry and Warwickshire to launch new EPR]]></title>
         <id>https://www.digitalhealth.net/?p=176919</id>
@@ -14,6 +25,16 @@
         <summary type="html"><![CDATA[A new EPR is to be deployed at University Hospitals Coventry and Warwickshire NHS Trust with the aim of improving patients' experience.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP 'black alert' trial will allow struggling practices to divert patients elsewhere]]></title>
+        <id>https://www.gponline.com/article/1875870</id>
+        <link href="https://www.gponline.com/gp-black-alert-trial-will-allow-struggling-practices-divert-patients-elsewhere/article/1875870"/>
+        <updated>2024-06-11T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[GP practices under extreme pressure will be allowed to divert patients elsewhere and offered additional support under a hospital-style 'black alert' scheme being trialled in part of England.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4608,16 +4629,6 @@ The post ‘Urgent’ GMC reform should be next Government’s priority, says MD
         <summary type="html"><![CDATA[The Government has funded 350 additional medical school places in England for the academic year 2025/26 in latest step to deliver NHS Long Term Workforce Plan.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First ever life-saving treatment for rare heart condition available on the NHS]]></title>
-        <id>https://www.england.nhs.uk/?p=245686</id>
-        <link href="https://www.england.nhs.uk/2024/05/first-ever-life-saving-treatment-for-rare-heart-condition-available-on-the-nhs/"/>
-        <updated>2024-05-12T23:01:36.000Z</updated>
-        <summary type="html"><![CDATA[NHS patients with a life-threatening heart condition are set to benefit from a cutting-edge new medicine which can significantly reduce the risk of hospitalisation and death. The drug, tafamidis, is the first ever approved treatment for a cohort of patients in England with a rare heart condition known as transthyretin amyloidosis cardiomyopathy (ATTR-CM), where clumps […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
 </feed>
