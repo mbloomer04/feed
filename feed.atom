@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-11T14:09:18.665Z</updated>
+    <updated>2024-06-11T15:09:36.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4509 - Critical Security Update Released for IntelliJ-based IDEs and JetBrains GitHub Plugin]]></title>
+        <id>31f7c1b1-d478-4c06-8557-eee708b68765</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4509"/>
+        <updated>2024-06-11T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites
+ Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites
+ Updated: 11 Jun 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ensure best outcomes from inhaler use with a MIMS Learning webinar]]></title>
         <id>https://www.gponline.com/article/1876537</id>

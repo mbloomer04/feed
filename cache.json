@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "31f7c1b1-d478-4c06-8557-eee708b68765",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites\n Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites\n Updated: 11 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4509",
+          "publishedOn": "2024-06-11T14:25:00.000Z",
+          "wordCount": 858,
+          "title": "CC-4509 - Critical Security Update Released for IntelliJ-based IDEs and JetBrains GitHub Plugin",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "5c861db6-ec67-4868-ad15-4d63ecdfe5a0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution\n New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution\n Updated: 11 Jun 2024",
