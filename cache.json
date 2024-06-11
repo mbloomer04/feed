@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5c861db6-ec67-4868-ad15-4d63ecdfe5a0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution\n New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution\n Updated: 11 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4508",
+          "publishedOn": "2024-06-11T11:48:00.000Z",
+          "wordCount": 658,
+          "title": "CC-4508 - Critical Vulnerability in PHP",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "de5ed9a8-0e16-433c-a6be-41f3c5991460",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Updated: 07 Jun 2024",
@@ -202,6 +212,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149631",
+          "author": "Sofia Lind",
+          "description": "Three quarters (74%) of GPs experience moral distress because they are unable to prescribe medicines patients need due to ongoing shortages. This is the finding of a survey carried out by indemnity provider MDDUS, which also found almost a third of this group (30%) suffer moral distress every day at work; and 37% several times\nThe post Medicine shortages cause ‘moral distress’ for three-in-four GPs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-areas/womens-health-gynaecology-obstetrics/medicine-shortages-cause-moral-distress-for-three-in-four-gps/",
+          "publishedOn": "2024-06-11T12:02:20.000Z",
+          "wordCount": 3752,
+          "title": "Medicine shortages cause ‘moral distress’ for three-in-four GPs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Getty-RF-182052944-HRT-1200-x-800.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149601",
+          "author": "Jaimie Kaffash",
+          "description": "In the next in our Masterclass series, consultant nephrologist Dr Colin Jones explains the latest knowledge and best practice in the management of CKD in primary care.  This series showcases content from our Pulse Reference site, which supports GPs in making diagnoses. We are expanding this service to include advice on managing and treating conditions\nThe post Masterclass: A complete GP’s guide to chronic kidney disease appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/renal-medicine-urology-mens-health/masterclass-a-complete-gps-guide-to-chronic-kidney-disease/",
+          "publishedOn": "2024-06-11T11:10:43.000Z",
+          "wordCount": 4260,
+          "title": "Masterclass: A complete GP’s guide to chronic kidney disease",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/06/Chronic-Kidney-Disease.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149621",
           "author": "Anna Colivicchi",
@@ -2900,16 +2930,6 @@
           "wordCount": 1592,
           "title": "Consultation outcome: Hub and spoke dispensing",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/350-extra-medical-school-places-allocated-in-nhs-training-boost",
-          "author": null,
-          "description": "The Government has funded 350 additional medical school places in England for the academic year 2025/26 in latest step to deliver NHS Long Term Workforce Plan.",
-          "link": "https://www.gov.uk/government/news/350-extra-medical-school-places-allocated-in-nhs-training-boost",
-          "publishedOn": "2024-05-12T23:30:08.000Z",
-          "wordCount": 2657,
-          "title": "Press release: 350 extra medical school places allocated in NHS training boost",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },

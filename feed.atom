@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-11T11:09:39.565Z</updated>
+    <updated>2024-06-11T12:18:03.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medicine shortages cause ‘moral distress’ for three-in-four GPs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=149631</id>
+        <link href="https://www.pulsetoday.co.uk/clinical-areas/womens-health-gynaecology-obstetrics/medicine-shortages-cause-moral-distress-for-three-in-four-gps/"/>
+        <updated>2024-06-11T12:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Three quarters (74%) of GPs experience moral distress because they are unable to prescribe medicines patients need due to ongoing shortages. This is the finding of a survey carried out by indemnity provider MDDUS, which also found almost a third of this group (30%) suffer moral distress every day at work; and 37% several times
+The post Medicine shortages cause ‘moral distress’ for three-in-four GPs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4508 - Critical Vulnerability in PHP]]></title>
+        <id>5c861db6-ec67-4868-ad15-4d63ecdfe5a0</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4508"/>
+        <updated>2024-06-11T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution
+ New versions of PHP address a critical vulnerability that could lead to arbitrary PHP code execution
+ Updated: 11 Jun 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masterclass: A complete GP’s guide to chronic kidney disease]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=149601</id>
+        <link href="https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/renal-medicine-urology-mens-health/masterclass-a-complete-gps-guide-to-chronic-kidney-disease/"/>
+        <updated>2024-06-11T11:10:43.000Z</updated>
+        <summary type="html"><![CDATA[In the next in our Masterclass series, consultant nephrologist Dr Colin Jones explains the latest knowledge and best practice in the management of CKD in primary care.  This series showcases content from our Pulse Reference site, which supports GPs in making diagnoses. We are expanding this service to include advice on managing and treating conditions
+The post Masterclass: A complete GP’s guide to chronic kidney disease appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Jaimie Kaffash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPC manifesto to demand 15% share of NHS budget for GP and community care]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149621</id>
@@ -4619,16 +4654,6 @@ The post ‘Urgent’ GMC reform should be next Government’s priority, says MD
         <summary type="html"><![CDATA[Bishoy Dimitri, CCIO at Oxford University Hospitals, chats to Digital Health about his career to date, digital priorities and ambitions for the next year.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: 350 extra medical school places allocated in NHS training boost]]></title>
-        <id>https://www.gov.uk/government/news/350-extra-medical-school-places-allocated-in-nhs-training-boost</id>
-        <link href="https://www.gov.uk/government/news/350-extra-medical-school-places-allocated-in-nhs-training-boost"/>
-        <updated>2024-05-12T23:30:08.000Z</updated>
-        <summary type="html"><![CDATA[The Government has funded 350 additional medical school places in England for the academic year 2025/26 in latest step to deliver NHS Long Term Workforce Plan.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
