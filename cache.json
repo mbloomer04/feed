@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5eaa15f8-dd94-40e6-ae38-368ea32c352b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation could allow a local attacker to gain access to freed memory\n Exploitation could allow a local attacker to gain access to freed memory\n Updated: 12 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4511",
+          "publishedOn": "2024-06-12T11:17:00.000Z",
+          "wordCount": 673,
+          "title": "CC-4511 - Arm Releases Security Advisory for Exploited Mali GPU Driver Vulnerability",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "31f7c1b1-d478-4c06-8557-eee708b68765",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites\n Exploitation of the vulnerability could lead to the disclosure of access tokens to third-party sites\n Updated: 11 Jun 2024",
@@ -1520,6 +1530,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1876705",
+          "author": null,
+          "description": "Green Party MPs in the next parliament will push for increasing the share of NHS funding that goes to primary care and an immediate boost to NHS staff pay, including pay restoration for junior doctors.",
+          "link": "https://www.gponline.com/green-party-manifesto-pledges-primary-care-funding-boost-junior-doctor-pay-restoration/article/1876705",
+          "publishedOn": "2024-06-12T11:04:41.000Z",
+          "wordCount": 725,
+          "title": "Green Party manifesto pledges primary care funding boost and junior doctor pay restoration",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2156627180.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1876581",
           "author": null,
           "description": "Almost nine in 10 GPs say prescription drug shortages are severely impacting their ability to practise safely, with three quarters experiencing ‘moral distress’ as a result, a survey shows.",
@@ -2840,16 +2860,6 @@
           "wordCount": 1622,
           "title": "Consultation outcome: Proposals to expand access to take-home naloxone supplies",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/expansion-of-life-saving-opioid-overdose-treatment",
-          "author": null,
-          "description": "New 10-year plan to expand and improve the drug and alcohol workforce published",
-          "link": "https://www.gov.uk/government/news/expansion-of-life-saving-opioid-overdose-treatment",
-          "publishedOn": "2024-05-13T23:15:05.000Z",
-          "wordCount": 4231,
-          "title": "Press release: Expansion of life-saving opioid overdose treatment",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -2858,6 +2868,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html",
+          "author": null,
+          "description": "The Health Foundation - NHS waiting times are a central issue of the 2024 election campaign. Proposed solutions – more money, more staff, more use of the independent sector and strengthening patient choice – are mostly shared between the two main parties. More money, more choice and more private sector provision helped reduce median waiting times (under old measures) from...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html",
+          "publishedOn": "2024-06-12T11:46:40.000Z",
+          "wordCount": null,
+          "title": "More money, more choice, more of the private sector: can the next government repeat the feat of the 2000s and cut waiting times?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/06/falling-through-the-gaps-a-closer-look-at-nhs-continuing-healthcare.html",
           "author": null,

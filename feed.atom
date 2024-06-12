@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-12T11:08:08.957Z</updated>
+    <updated>2024-06-12T12:17:40.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More money, more choice, more of the private sector: can the next government repeat the feat of the 2000s and cut waiting times?]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html"/>
+        <updated>2024-06-12T11:46:40.000Z</updated>
+        <summary type="html"><![CDATA[The Health Foundation - NHS waiting times are a central issue of the 2024 election campaign. Proposed solutions – more money, more staff, more use of the independent sector and strengthening patient choice – are mostly shared between the two main parties. More money, more choice and more private sector provision helped reduce median waiting times (under old measures) from...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4511 - Arm Releases Security Advisory for Exploited Mali GPU Driver Vulnerability]]></title>
+        <id>5eaa15f8-dd94-40e6-ae38-368ea32c352b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4511"/>
+        <updated>2024-06-12T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Exploitation could allow a local attacker to gain access to freed memory
+ Exploitation could allow a local attacker to gain access to freed memory
+ Updated: 12 Jun 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green Party manifesto pledges primary care funding boost and junior doctor pay restoration]]></title>
+        <id>https://www.gponline.com/article/1876705</id>
+        <link href="https://www.gponline.com/green-party-manifesto-pledges-primary-care-funding-boost-junior-doctor-pay-restoration/article/1876705"/>
+        <updated>2024-06-12T11:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Green Party MPs in the next parliament will push for increasing the share of NHS funding that goes to primary care and an immediate boost to NHS staff pay, including pay restoration for junior doctors.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England director admits GP trainee jobs ‘are not there for them’]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149690</id>
@@ -4465,16 +4498,6 @@ The post DHSC announces plans for expanded addiction services and relaxed naloxo
         <summary type="html"><![CDATA[Patient self-referrals to mental health services are failing to cut GP workload because practices are being asked to fill in complex forms to support their care, LMCs have warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: Expansion of life-saving opioid overdose treatment]]></title>
-        <id>https://www.gov.uk/government/news/expansion-of-life-saving-opioid-overdose-treatment</id>
-        <link href="https://www.gov.uk/government/news/expansion-of-life-saving-opioid-overdose-treatment"/>
-        <updated>2024-05-13T23:15:05.000Z</updated>
-        <summary type="html"><![CDATA[New 10-year plan to expand and improve the drug and alcohol workforce published]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
