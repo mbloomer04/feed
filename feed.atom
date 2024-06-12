@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-12T07:09:33.112Z</updated>
+    <updated>2024-06-12T08:12:39.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Cornwall and Isles of Scilly ICS restoring systems following IT outage]]></title>
+        <id>https://www.digitalhealth.net/?p=177105</id>
+        <link href="https://www.digitalhealth.net/2024/06/nhs-cornwall-and-isles-of-scilly-ics-restoring-services-following-it-outage/"/>
+        <updated>2024-06-12T07:30:44.000Z</updated>
+        <summary type="html"><![CDATA[NHS Cornwall and Isles of Scilly Integrated Care System (ICS) has confirmed that its IT systems are "coming back online" following a network outage.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Medicines shortages triggering ‘moral distress’ in GPs, survey shows]]></title>
         <id>https://www.gponline.com/article/1876581</id>
@@ -4431,16 +4441,6 @@ The post DHSC announces plans for expanded addiction services and relaxed naloxo
         <link href="https://www.gov.uk/government/publications/em-on-eu-regulations-2017745-2017746-com202443"/>
         <updated>2024-05-13T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[The government's summary of changes to the transitional arrangements for the supply of certain in vitro diagnostic medical devices within the Eurioean Union.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speech: Health and Social Care Secretary speech at birth trauma APPG]]></title>
-        <id>https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-birth-trauma-appg</id>
-        <link href="https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-birth-trauma-appg"/>
-        <updated>2024-05-13T19:25:44.000Z</updated>
-        <summary type="html"><![CDATA[A speech the Health and Social Care Secretary, Victoria Atkins gave at The All-Party Parliamentary Group on Birth Trauma on Monday 13 May, 2024.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>

@@ -2830,16 +2830,6 @@
           "wordCount": 988,
           "title": "Policy paper: EM on EU regulations 2017/745 & 2017/746 (COM(2024)43)",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-birth-trauma-appg",
-          "author": null,
-          "description": "A speech the Health and Social Care Secretary, Victoria Atkins gave at The All-Party Parliamentary Group on Birth Trauma on Monday 13 May, 2024.",
-          "link": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-birth-trauma-appg",
-          "publishedOn": "2024-05-13T19:25:44.000Z",
-          "wordCount": 4134,
-          "title": "Speech: Health and Social Care Secretary speech at birth trauma APPG",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/5a4f69b5e5274a6bed613902/Victoria_Atkins_2.jpg"
         }
       ]
     },
@@ -3552,6 +3542,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177105",
+          "author": "Tammy Lovell",
+          "description": "NHS Cornwall and Isles of Scilly Integrated Care System (ICS) has confirmed that its IT systems are \"coming back online\" following a network outage.",
+          "link": "https://www.digitalhealth.net/2024/06/nhs-cornwall-and-isles-of-scilly-ics-restoring-services-following-it-outage/",
+          "publishedOn": "2024-06-12T07:30:44.000Z",
+          "wordCount": 1736,
+          "title": "NHS Cornwall and Isles of Scilly ICS restoring systems following IT outage",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2022/08/System-Outage.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=176929",
           "author": "Tammy Lovell",
