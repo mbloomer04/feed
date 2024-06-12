@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1852598a-74ab-4f99-92a8-db9df9223437",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 50 vulnerabilities\n Scheduled updates for Microsoft products, including security updates for 50 vulnerabilities\n Updated: 12 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4510",
+          "publishedOn": "2024-06-12T14:49:00.000Z",
+          "wordCount": 842,
+          "title": "CC-4510 - Microsoft Releases June 2024 Security Updates",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "5eaa15f8-dd94-40e6-ae38-368ea32c352b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Exploitation could allow a local attacker to gain access to freed memory\n Exploitation could allow a local attacker to gain access to freed memory\n Updated: 12 Jun 2024",
@@ -232,6 +242,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149698",
+          "author": "Anna Colivicchi",
+          "description": "Pilots of new ways of working for GP practices – modelled on the Fuller Stocktake – will be ‘integral to the future of the NHS’, NHS England’s chief executive said today. Amanda Pritchard was speaking at the NHS Confederation Expo in Manchester today when she said that the NHS needs ‘a modern vision for primary\nThe post GP at-scale pilots to be ‘integral’ to NHS future, says chief executive appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/gp-at-scale-pilots-to-be-integral-to-nhs-future-says-chief-executive/",
+          "publishedOn": "2024-06-12T14:35:58.000Z",
+          "wordCount": 3752,
+          "title": "GP at-scale pilots to be ‘integral’ to NHS future, says chief executive",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/07/AmandaPritchard1200x800-.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149690",
           "author": "Anna Colivicchi",
@@ -1608,6 +1628,16 @@
           "wordCount": 885,
           "title": "BMA calls GP unemployment a ‘national disgrace’ after GP confronts Sunak",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Sunak_GettyImages-ChrisJRatcliffe.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1875277",
+          "author": null,
+          "description": "GPonline profiles the GPs standing to become MPs in the 2024 general election.",
+          "link": "https://www.gponline.com/gps-standing-mps-general-election/article/1875277",
+          "publishedOn": "2024-06-07T08:17:00.000Z",
+          "wordCount": 670,
+          "title": "The GPs standing to be MPs in the general election",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2151210808.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1875791",
