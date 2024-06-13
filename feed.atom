@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-13T04:12:12.121Z</updated>
+    <updated>2024-06-13T05:10:55.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4303,19 +4303,6 @@ The post Women in perimenopause have significant increased risk of depression ap
         <summary type="html"><![CDATA[Patients requiring treatment outside of hospitals will be able to choose between multiple providers across the NHS and independent sector.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4490 - Mozilla Releases Security Updates for Firefox and Firefox ESR]]></title>
-        <id>59102e60-909d-4eb3-98fc-cb94993f27fe</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4490"/>
-        <updated>2024-05-14T16:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Advisory addresses 16 vulnerabilities, including two rated as high severity
- Advisory addresses 16 vulnerabilities, including two rated as high severity
- Updated: 14 May 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
