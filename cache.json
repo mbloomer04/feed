@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "90e84f8a-cc60-4913-aab8-04a06d9e632c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Low\n One vulnerability could allow an attacker retrieve and plant medical image files and another could lead to arbitrary code execution\n One vulnerability could allow an attacker retrieve and plant medical image files and another could lead to arbitrary code execution\n Updated: 13 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4512",
+          "publishedOn": "2024-06-13T11:59:00.000Z",
+          "wordCount": 719,
+          "title": "CC-4512 - MicroDicom Releases DICOM Viewer Software Update",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "1852598a-74ab-4f99-92a8-db9df9223437",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 50 vulnerabilities\n Scheduled updates for Microsoft products, including security updates for 50 vulnerabilities\n Updated: 12 Jun 2024",
@@ -1530,6 +1540,36 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1876885",
+          "author": null,
+          "description": "The Labour party has promised 'thousands more GPs' and to 'bring back the family doctor', with trials of new neighbourhood health centres to move care out of hospital in its general election manifesto.",
+          "link": "https://www.gponline.com/labour-manifesto-promises-reform-bring-back-family-doctor/article/1876885",
+          "publishedOn": "2024-06-13T11:14:05.000Z",
+          "wordCount": 708,
+          "title": "Labour manifesto promises reform to 'bring back the family doctor'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Starmer_GettyImages-AlisonJacksonGettyImages.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1876880",
+          "author": null,
+          "description": "A senior NHS England official has said the health service must respond to the GP job shortage that has left thousands of GPs struggling to find work, and doctors about to qualify fearing for their futures.",
+          "link": "https://www.gponline.com/nhs-england-respond-gp-unemployment-crisis-senior-official-says/article/1876880",
+          "publishedOn": "2024-06-13T10:45:27.000Z",
+          "wordCount": 716,
+          "title": "NHS England must respond to GP unemployment crisis, senior official says",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign-GettyImages-MikeKemp_15.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1876873",
+          "author": null,
+          "description": "GP practices receive just 30p a day for every patient registered with them - less than the cost of the proverbial 'apple a day to keep the doctor away', a BMA campaign warns.",
+          "link": "https://www.gponline.com/practices-paid-less-cost-apple-day-per-patient-bma-warns/article/1876873",
+          "publishedOn": "2024-06-13T10:08:36.000Z",
+          "wordCount": 724,
+          "title": "Practices are paid 'less than the cost of an apple a day' per patient, BMA warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_poster.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1876705",
           "author": null,
           "description": "Green Party MPs in the next parliament will push for increasing the share of NHS funding that goes to primary care and an immediate boost to NHS staff pay, including pay restoration for junior doctors.",
@@ -2730,26 +2770,6 @@
           "wordCount": 785,
           "title": "Transparency data: DHSC: spending over £25,000, February 2024",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/people-with-hiv-can-now-donate-eggs-or-sperm-to-start-a-family",
-          "author": null,
-          "description": "Change in law will allow people with non-transmissible HIV to donate gametes to partners",
-          "link": "https://www.gov.uk/government/news/people-with-hiv-can-now-donate-eggs-or-sperm-to-start-a-family",
-          "publishedOn": "2024-05-15T00:01:01.000Z",
-          "wordCount": 2420,
-          "title": "Press release: People with HIV can now donate eggs or sperm to start a family",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/patients-to-benefit-from-largest-expansion-of-choice-in-a-decade",
-          "author": null,
-          "description": "Patients requiring treatment outside of hospitals will be able to choose between multiple providers across the NHS and independent sector.",
-          "link": "https://www.gov.uk/government/news/patients-to-benefit-from-largest-expansion-of-choice-in-a-decade",
-          "publishedOn": "2024-05-14T23:30:04.000Z",
-          "wordCount": 3578,
-          "title": "Press release: Patients to benefit from largest expansion of choice in a decade",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3452,6 +3472,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176911",
+          "author": "Cora Lydon",
+          "description": "Today's Coffee Time Briefing includes the relaunch of System C's CareFlow EPR and an online genetic support programme for MSD from Sano Genetics.",
+          "link": "https://www.digitalhealth.net/2024/06/digital-health-coffee-time-briefing-%e2%98%95-2/",
+          "publishedOn": "2024-06-13T10:30:21.000Z",
+          "wordCount": 1896,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177161",
           "author": "Tammy Lovell",
