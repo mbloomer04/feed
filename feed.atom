@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-13T07:09:21.472Z</updated>
+    <updated>2024-06-13T08:12:28.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital heart check service to integrate with NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=177115</id>
+        <link href="https://www.digitalhealth.net/2024/06/digital-heart-check-service-to-integrate-with-nhs-app/"/>
+        <updated>2024-06-13T07:30:22.000Z</updated>
+        <summary type="html"><![CDATA[PocDoc's home testing kit for cardiovascular disease is to be integrated with the NHS App, allowing patients to see test results on their NHS patient record.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Myths and facts: HIV]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149679</id>
