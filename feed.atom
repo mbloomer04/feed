@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-13T12:17:43.392Z</updated>
+    <updated>2024-06-13T13:12:01.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Campaigners protest against Palantir at NHS Confed Expo]]></title>
+        <id>https://www.digitalhealth.net/?p=177167</id>
+        <link href="https://www.digitalhealth.net/2024/06/campaigners-protest-against-palantir-at-nhs-confed-expo/"/>
+        <updated>2024-06-13T12:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Demonstrators gathered outside the NHS Confed Expo conference to protest against its sponsorship by US data analytics giant Palantir.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4512 - MicroDicom Releases DICOM Viewer Software Update]]></title>
         <id>90e84f8a-cc60-4913-aab8-04a06d9e632c</id>
