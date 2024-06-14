@@ -1460,6 +1460,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1876776",
+          "author": null,
+          "description": "GP partners at a highly-rated 8,000-patient practice in Cambridge have handed back their contract - warning that soaring premises fees and inadequate local and national funding left them no choice.",
+          "link": "https://www.gponline.com/devastated-partners-highly-rated-gp-practice-hand-back-contract/article/1876776",
+          "publishedOn": "2024-06-14T08:00:00.000Z",
+          "wordCount": 700,
+          "title": "'Devastated' partners at highly-rated GP practice hand back contract",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/East_Barnwell.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1876975",
+          "author": null,
+          "description": "The GPonline team discusses the latest news affecting primary care.",
+          "link": "https://www.gponline.com/podcast-gp-unemployment-crisis-general-election-manifestos-physician-associate-regulation/article/1876975",
+          "publishedOn": "2024-06-14T07:29:00.000Z",
+          "wordCount": 1026,
+          "title": "Podcast: GP unemployment crisis, general election manifestos, physician associate regulation",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_964.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1876885",
           "author": null,
           "description": "The Labour party has promised 'thousands more GPs' and to 'bring back the family doctor', with trials of new neighbourhood health centres to move care out of hospital in its general election manifesto.",
@@ -2294,6 +2314,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=247511",
+          "author": "jboshell",
+          "description": "NHS staff continue to face significant demand for urgent care, with new figures showing that A&Es in England managed their busiest ever month for attendances in May. New monthly performance data also shows that it was a record April for the number of elective appointments delivered for hundreds of thousands of patients. The latest statistics, […]",
+          "link": "https://www.england.nhs.uk/2024/06/nhs-continues-to-face-record-demand-for-services-new-data-shows/",
+          "publishedOn": "2024-06-13T09:37:51.000Z",
+          "wordCount": 1525,
+          "title": "NHS continues to face record demand for services, new data shows",
+          "imageUrl": null
+        },
         {
           "id": "https://www.england.nhs.uk/?p=247480",
           "author": "kbradshaw",
