@@ -194,16 +194,6 @@
           "wordCount": 665,
           "title": "CC-4494 - Google Releases Security Update for Exploited Vulnerability CVE-2024-4947",
           "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "b307a54a-5cb6-4e25-8856-89e22f44fd2c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisory addresses four security vulnerabilities\n Advisory addresses four security vulnerabilities\n Updated: 15 May 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4493",
-          "publishedOn": "2024-05-15T15:25:00.000Z",
-          "wordCount": 811,
-          "title": "CC-4493 - Broadcom Releases Security Updates for VMware Workstation and VMware Fusion",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1715685725294/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1461,16 +1451,6 @@
           "wordCount": 3624,
           "title": "Dr Katie Bramall-Stainer: ‘Leadsom fails to acknowledge general practice is in crisis’",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/katie-bramall-stainer-gesturing.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=147571",
-          "author": "Anna Colivicchi",
-          "description": "The Government today announced the ‘largest patient choice expansion in a decade’, focused on out-of-hospital care – however GPs have suggested the plans are misguided. Under the plans, patients will have more options for where they receive out-of-hospital care, with the Department of Health and Social Care stating examples including hearing aid care; some diagnostic\nThe post Government announces ‘largest patient choice expansion’ in a decade appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/referrals/government-announces-largest-patient-choice-expansion-in-a-decade/",
-          "publishedOn": "2024-05-15T15:52:31.000Z",
-          "wordCount": 3791,
-          "title": "Government announces ‘largest patient choice expansion’ in a decade",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/d/d/c/GettyImages-489349422-scaled.jpg"
         }
       ]
     },
@@ -2192,16 +2172,6 @@
           "wordCount": 1815,
           "title": "One year on: The latest on our Secure Data Environment",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/sde-update-blog-lead-image-3.jpg"
-        },
-        {
-          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
-          "publishedOn": "2024-05-15T15:43:40.000Z",
-          "wordCount": 1674,
-          "title": "Accessibility is a choice",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
         }
       ]
     },
@@ -2209,18 +2179,7 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
-          "publishedOn": "2024-05-15T15:43:40.000Z",
-          "wordCount": 1674,
-          "title": "Accessibility is a choice",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tech Talk Feed",
