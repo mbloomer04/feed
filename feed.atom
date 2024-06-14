@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-14T21:09:58.781Z</updated>
+    <updated>2024-06-14T22:09:55.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Birthday Honours 2024: Ambulance Service list]]></title>
+        <id>https://www.gov.uk/government/publications/birthday-honours-2024-ambulance-service-list</id>
+        <link href="https://www.gov.uk/government/publications/birthday-honours-2024-ambulance-service-list"/>
+        <updated>2024-06-14T21:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Recipients of the King's Ambulance Service Medal 2024.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SystmOne investigates IT crash issue with diagnostic test ordering]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149778</id>
@@ -4373,27 +4383,6 @@ The post ‘Acknowledge’ GP crisis and provide stability, GPCE chair implores 
         <summary type="html"><![CDATA[Digital Health Coffee Time Briefing today includes the good news that surfing the web can improve your wellbeing and NHSE research into cyberattacks.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MHRA launches regulatory sandbox for AI medical devices]]></title>
-        <id>https://www.digitalhealth.net/?p=175453</id>
-        <link href="https://www.digitalhealth.net/2024/05/ai-airlock-regulatory-sandbox-launched-by-mhra/"/>
-        <updated>2024-05-16T10:00:17.000Z</updated>
-        <summary type="html"><![CDATA[The MHRA has now launched AI Airlock - a regulatory sandbox that will explore the challenges that comes with regulating AI as a medical device.]]></summary>
-        <author>
-            <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government and junior doctors ‘mutually agree’ to enter mediation over pay dispute]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=147597</id>
-        <link href="https://www.pulsetoday.co.uk/news/politics/government-and-junior-doctors-mutually-agree-to-enter-mediation-over-pay-dispute/"/>
-        <updated>2024-05-16T09:17:45.000Z</updated>
-        <summary type="html"><![CDATA[England’s junior doctors have ‘mutually agreed’ with the Government to enter mediation to try to resolve their drawn-out pay dispute. Announcing the move, the Government said this was a significant step forward after both parties agreed on a preferred mediator. It follows more than a year of industrial action with no formal talks since December.
-The post Government and junior doctors ‘mutually agree’ to enter mediation over pay dispute appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
