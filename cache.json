@@ -2172,6 +2172,16 @@
           "wordCount": 1815,
           "title": "One year on: The latest on our Secure Data Environment",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/sde-update-blog-lead-image-3.jpg"
+        },
+        {
+          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
+          "publishedOn": "2024-05-16T06:38:45.000Z",
+          "wordCount": 1674,
+          "title": "Accessibility is a choice",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
         }
       ]
     },
@@ -2179,7 +2189,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "3715ebb8-aea6-4453-ac4c-87db75d9e726",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Claire Dellar talks about her experience of using assistive technology and explains how other people’s choices not to prioritise accessibility affect her.\n\r\n\r\nI spend a lot of time in conversations that start something like this:\n\r\n\r\n“I’m really sorry I can’t fill in that report, it’s not accessible to me. Can you send it in another format?”",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/accessibility-is-a-choice",
+          "publishedOn": "2024-05-16T06:38:45.000Z",
+          "wordCount": 1674,
+          "title": "Accessibility is a choice",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2024/claire-dellar-blog-lead-image.jpg"
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
