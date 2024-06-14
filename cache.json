@@ -2680,16 +2680,6 @@
           "wordCount": 3551,
           "title": "Press release: £85 million pledged to tackle antibiotic emergency",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/government-explores-mediation-with-junior-doctors-committee",
-          "author": null,
-          "description": "Both parties have agreed a preferred mediator - the union and the government will now begin the process of engaging with them",
-          "link": "https://www.gov.uk/government/news/government-explores-mediation-with-junior-doctors-committee",
-          "publishedOn": "2024-05-15T19:59:00.000Z",
-          "wordCount": 1593,
-          "title": "Press release: Government explores mediation with junior doctors’ committee",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3046,6 +3036,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:abd0e8c0-5908-4cb5-b332-44e90cbafb08",
+          "author": null,
+          "description": "We, the Principals of the affected United Nations (UN) entities and international non-governmental organizations (NGOs), call for the immediate and unconditional release of all personnel held in Yemen by the Houthi de facto authorities. \nWe are extremely concerned about the Houthi de facto authorities’ recent detention of 17 members of our organizations [UN entities and INGOs] and many others associated with civil society organizations, national and international NGOs, and other organizations supporting humanitarian activities. \nThese detentions are unprecedented – not only in Yemen but globally – and directly impede our ability to reach the most vulnerable people in Yemen, including the 18.2 million people who need humanitarian aid and protection.\nWe ask the de facto authorities to confirm the exact whereabouts of those detained and the conditions in which they are being held, as well as for immediate access to them. \nInternational law prohibits the arbitrary deprivation of liberty. International Humanitarian Law requires all parties to armed conflict to respect and protect humanitarian personnel, including against harassment, mistreatment, and unlawful arrest or detention. \nThe targeting of humanitarian, human rights, and development workers in Yemen must stop. All those detained must be immediately released. \n \nSigned by:\nAchim Steiner, Administrator, UNDP \nAmitabh Behar, Executive Director (interim), Oxfam International\nAudrey Azoulay, Director-General, UNESCO \nCatherine Russell, Executive Director, UNICEF\nCindy McCain, Executive Director, WFP \nInger Ashing, Chief Executive Officer, Save the Children International\nMichelle Nunn, President and CEO, CARE\nTedros Adhanom Ghebreyesus, Director-General, WHO\nVolker Türk, United Nations High Commissioner for Human Rights, OHCHR",
+          "link": "https://www.who.int/news/item/13-06-2024-detention-of-united-nations-and-non-governmental-organization-personnel-in-yemen",
+          "publishedOn": "2024-06-13T17:08:28.000Z",
+          "wordCount": 1549,
+          "title": "Detention of United Nations and non-governmental organization personnel in Yemen",
+          "imageUrl": "https://www.who.int/images/default-source/departments/foodborne-diseases/who-hq-logo.tmb-1200v.jpg?Culture=en&sfvrsn=a3f00adc_1"
+        },
+        {
           "id": "urn:uuid:d038eb3a-e7db-46b3-a5b6-b5e18629b27a",
           "author": null,
           "description": "Gavi, the Vaccine Alliance, in collaboration with partners, is announcing support for human rabies vaccines for post exposure prophylaxis (PEP) as part of routine immunisation. Eligible countries are receiving guidance on how to access these vaccines under Gavi’s cofinancing policy. The first round of applications will be reviewed in July 2024. Ninety-five percent of human rabies deaths occur in Africa and Asia, most often in marginalised communities that lack access to care.",
@@ -3362,6 +3362,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=176865",
+          "author": "Cora Lydon",
+          "description": "Calderdale and Huddersfield NHS Foundation Trust has achieved a stage 6 validation from HIMSS for its use of data and approach to data science.",
+          "link": "https://www.digitalhealth.net/2024/06/calderdale-and-huddersfield-awarded-himss-stage-6-for-analytics-capabilities/",
+          "publishedOn": "2024-06-14T07:30:48.000Z",
+          "wordCount": 1926,
+          "title": "Calderdale and Huddersfield awarded HIMSS stage 6 for analytics capabilities",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/Calderdale-352-2.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177167",
           "author": "Tammy Lovell",
