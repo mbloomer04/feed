@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-15T09:09:26.142Z</updated>
+    <updated>2024-06-15T10:10:25.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS staff among those recognised in 2024 King’s Birthday Honours]]></title>
+        <id>https://www.england.nhs.uk/?p=247740</id>
+        <link href="https://www.england.nhs.uk/2024/06/nhs-staff-among-those-recognised-in-2024-kings-birthday-honours/"/>
+        <updated>2024-06-14T21:39:59.000Z</updated>
+        <summary type="html"><![CDATA[NHS staff including paramedics, nurses and doctors are among dozens of frontline workers recognised in the 2024 King’s Birthday Honours list, released today (Friday 14 June). The head of the NHS, Amanda Pritchard, has said the awards recognise the dedication and skill of NHS staff. Among the staff recognised for their hard work and dedication […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: Birthday Honours 2024: Ambulance Service list]]></title>
         <id>https://www.gov.uk/government/publications/birthday-honours-2024-ambulance-service-list</id>
