@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "360252d5-33e5-45b7-9a9c-b789f094f355",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses three vulnerabilities that could result in privilege escalation or remote code execution\n Advisory addresses three vulnerabilities that could result in privilege escalation or remote code execution\n Updated: 18 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4513",
+          "publishedOn": "2024-06-18T14:27:00.000Z",
+          "wordCount": 740,
+          "title": "CC-4513 - Broadcom Releases Critical Security Updates for VMware vCenter Server and Cloud Foundation",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "90e84f8a-cc60-4913-aab8-04a06d9e632c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Low\n One vulnerability could allow an attacker retrieve and plant medical image files and another could lead to arbitrary code execution\n One vulnerability could allow an attacker retrieve and plant medical image files and another could lead to arbitrary code execution\n Updated: 13 Jun 2024",
@@ -182,6 +192,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149822",
+          "author": "Anna Colivicchi",
+          "description": "Supervising non-doctors should not form part of a sessional GP’s job description ‘unless expressly and mutually agreed’, according to new advice from the BMA. The union said that with the ‘expansion’ of the additional roles reimbursement scheme (ARRS) and the ‘diversification of the workforce’, GPs have seen a ‘dramatic increase’ in supervision responsibilities expected of\nThe post Sessional GPs should not be expected to supervise ARRS staff, says BMA appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/sessional-gps-should-not-be-expected-to-supervise-arrs-staff-says-bma/",
+          "publishedOn": "2024-06-18T14:51:29.000Z",
+          "wordCount": 3749,
+          "title": "Sessional GPs should not be expected to supervise ARRS staff, says BMA",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/LMCs-back-doctors-not-on-Performers-List-working-in-practices-under-GP-supervision.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=149648",
+          "author": "Maya Dhillon",
+          "description": "Reflecting on a new campaign for patients with opioid dependency issues, Dr David Turner asks how GPs can best help those in need ‘Pain killers don’t exist.’ I thought this a rather curious statement for pharmacists to make, given that a significant proportion of their work is concerned with the dispensing of medication that does\nThe post Pain killers don’t exist – so how can we help patients in pain? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/david-turner/pain-killers-dont-exist-so-how-can-we-help-patients-in-pain/",
+          "publishedOn": "2024-06-18T14:47:06.000Z",
+          "wordCount": 3494,
+          "title": "Pain killers don’t exist – so how can we help patients in pain?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/12/Dr_David_Turner_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=149860",
           "author": "Mollie Fraser-Andrews",
