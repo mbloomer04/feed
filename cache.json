@@ -1460,6 +1460,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1877499",
+          "author": null,
+          "description": "Most practices in London feel 'unable to deliver care that is either safe for patients or staff', GP leaders have warned as they launched resources to support safe working.",
+          "link": "https://www.gponline.com/london-gp-practices-feel-unable-deliver-safe-care/article/1877499",
+          "publishedOn": "2024-06-18T10:14:01.000Z",
+          "wordCount": 694,
+          "title": "Most London GP practices 'feel unable to deliver safe care'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Lisa-Harrod-Rothwell-landscape_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1877384",
           "author": null,
           "description": "The Reform party has promised to scrap basic rate tax for health and social care staff for three years and write off student fees in return for NHS service as part of its general election manifesto.",
@@ -3441,6 +3451,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177423",
+          "author": "Jordan Sollof",
+          "description": "NHS Dumfries and Galloway is warning around 150,000 patients to assume that their personal data is likely to have been stolen and published online.",
+          "link": "https://www.digitalhealth.net/2024/06/nhsdg-warns-150000-patients-to-assume-data-has-been-published/",
+          "publishedOn": "2024-06-18T12:29:09.000Z",
+          "wordCount": 1943,
+          "title": "NHSDG warns 150,000 patients to assume data has been published",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2018/01/dumfries-galloway-royal-infirmary.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177327",
           "author": "Cora Lydon",
