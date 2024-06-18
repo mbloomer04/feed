@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-18T09:10:37.020Z</updated>
+    <updated>2024-06-18T10:10:16.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-powered physio platform to be deployed in the NHS]]></title>
+        <id>https://www.digitalhealth.net/?p=177327</id>
+        <link href="https://www.digitalhealth.net/2024/06/ai-powered-physio-platform-to-be-deployed-by-nhs/"/>
+        <updated>2024-06-18T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered physio clinic, Flok Health is planned to be rolled out in the NHS by Autumn 2024, with the aim of cutting physiotherapy waiting lists.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Northern Ireland’s blood transfusion service goes live with Clinisys WinPath]]></title>
         <id>https://www.digitalhealth.net/?p=177337</id>
