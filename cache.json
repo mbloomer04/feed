@@ -1451,16 +1451,6 @@
           "wordCount": 3791,
           "title": "Infected blood scandal: ‘Have I killed more patients than I have saved?’",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/No-routine-bloods-accepted-at-London-NHS-trust-a-week-after-IT-meltdown.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=147744",
-          "author": "Eliza Parr",
-          "description": "A damning report into the decades-long infected blood scandal has concluded that GPs can play a key part in ‘finding the undiagnosed’. The Infected Blood Inquiry published its report yesterday with a ‘principal’ recommendation for the Government to immediately set up a compensation scheme for victims.  Thousands of patients have died or ‘suffered miserably’ as\nThe post GPs should identify undiagnosed victims, finds infected blood inquiry report appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/infectious-diseases/gps-should-identify-undiagnosed-victims-finds-infected-blood-inquiry-report/",
-          "publishedOn": "2024-05-21T10:43:20.000Z",
-          "wordCount": 4050,
-          "title": "GPs should identify undiagnosed victims, finds infected blood inquiry report",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/No-routine-bloods-accepted-at-London-NHS-trust-a-week-after-IT-meltdown.jpg"
         }
       ]
     },
@@ -1469,6 +1459,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1877683",
+          "author": null,
+          "description": "NHS funding could fall £38bn short of the level needed to meet rising demand and deliver key improvements over the next parliament, policy experts have warned.",
+          "link": "https://www.gponline.com/nhs-faces-38bn-annual-funding-shortfall-end-next-parliament/article/1877683",
+          "publishedOn": "2024-06-19T23:01:00.000Z",
+          "wordCount": 694,
+          "title": "NHS faces £38bn annual funding shortfall by end of next parliament",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-GettyImages-NurPhoto_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1877621",
           "author": null,
@@ -2258,16 +2258,6 @@
           "wordCount": 1815,
           "title": "One year on: The latest on our Secure Data Environment",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/sde-update-blog-lead-image-3.jpg"
-        },
-        {
-          "id": "be1ef9a4-2036-4c33-9d84-0c95b54742bb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "For International Clinical Trials Day, James Gray, NHS DigiTrials Service Delivery Manager, talks about the new Feasibility Self-Service tool that drastically cuts the time it takes researchers to find out if there are enough potential participants for their clinical trial.\n\r\n\r\n“In the time it takes to make a coffee.”\n\r\n\r\nThat was the challenge we set ourselves early in the creation of the NHS DigiTrials Feasibility Self-Service tool. And it was a big one: it meant giving users the ability to securely interrogate national datasets containing millions and millions of records in less than 5 minutes.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/clinical-trials-get-faster",
-          "publishedOn": "2024-05-21T10:56:33.000Z",
-          "wordCount": 1538,
-          "title": "Clinical trials get faster",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/digitrials-feasibility-service-blog-lead-image.jpg"
         }
       ]
     },
@@ -2985,16 +2975,6 @@
           "publishedOn": "2024-05-24T10:30:13.000Z",
           "wordCount": null,
           "title": "Proposal for a ‘tie-in’ to NHS dentistry for graduate dentists",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/05/the-approved-mental-health-professional-workforce-in-the-social-care-sector-.html",
-          "author": null,
-          "description": "Skills for Care - This report presents data collected via a dedicated Approved Mental Health Professional (AMHP) leads survey, as at April 2024. AMHPs are registered professionals (social workers, nurses, occupational therapists, or psychologists) who have undertaken additional training, approved by the Secretary of State and regulated by Social Work England, to carry out specific duties under the Mental Health...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/05/the-approved-mental-health-professional-workforce-in-the-social-care-sector-.html",
-          "publishedOn": "2024-05-21T10:20:41.000Z",
-          "wordCount": null,
-          "title": "The Approved Mental Health Professional Workforce in the social care sector",
           "imageUrl": null
         }
       ]
@@ -4010,16 +3990,6 @@
           "wordCount": 1956,
           "title": "Northamptonshire hospitals are first to transition to local instance of FDP",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2020/04/data-platform.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=175753",
-          "author": "Tammy Lovell",
-          "description": "Digital Health Coffee Time Briefing today includes UK healthcare operations software provider Agilio acquiring PraQties, and a digital tool to determine eligibility for NHS-funded IVF and IUI.",
-          "link": "https://www.digitalhealth.net/2024/05/digital-health-coffee-time-briefing-138/",
-          "publishedOn": "2024-05-21T10:30:31.000Z",
-          "wordCount": 1872,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
         }
       ]
     }
