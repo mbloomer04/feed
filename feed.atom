@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-19T10:11:04.487Z</updated>
+    <updated>2024-06-19T11:08:57.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -55,6 +55,16 @@ The post Over half of job-seeking GPs are ‘struggling’ to find role, finds R
         <link href="https://www.gponline.com/unemployment-scandal-job-seeking-gps-struggle-find-work/article/1877621"/>
         <updated>2024-06-19T08:50:35.000Z</updated>
         <summary type="html"><![CDATA[Six in 10 GPs looking for jobs have struggled to find a vacancy to apply for in the past year despite record workload in general practice, a shocking RCGP poll reveals.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labour promises brighter future for GPs and condemns 'failure to listen' on PAs]]></title>
+        <id>https://www.gponline.com/article/1877603</id>
+        <link href="https://www.gponline.com/labour-promises-brighter-future-gps-condemns-failure-listen-pas/article/1877603"/>
+        <updated>2024-06-19T08:41:53.000Z</updated>
+        <summary type="html"><![CDATA[General practice 'will do well under a Labour government' if the party wins the general election, shadow health and social care secretary Wes Streeting has said.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
@@ -4260,16 +4270,6 @@ amidst challenges in HIV and hepatitis]]></title>
         <summary type="html"><![CDATA[A smartphone app which aims to deliver more personalised care to Parkinson's disease patients is being trialled at Leeds Teaching Hospitals NHS Trust.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government response: Secretary of State responds to the Infected Blood Inquiry report]]></title>
-        <id>https://www.gov.uk/government/news/secretary-of-state-responds-to-the-infected-blood-inquiry-report</id>
-        <link href="https://www.gov.uk/government/news/secretary-of-state-responds-to-the-infected-blood-inquiry-report"/>
-        <updated>2024-05-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Secretary of State for Health and Social Care, Victoria Atkins says the department will study the report to make sure lessons are learned.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
