@@ -174,16 +174,6 @@
           "wordCount": 535,
           "title": "CC-4498 - Veeam Releases Security Advisory",
           "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "5232bd6f-aa2a-4adb-aa8a-88de43bc73cb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Recursive clones on case-insensitive file systems that support symbolic links are susceptible to RCE\n Updated: 21 May 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4496",
-          "publishedOn": "2024-05-21T15:07:00.000Z",
-          "wordCount": 678,
-          "title": "CC-4496 - Proof-of-Concept Exploit Released for Critical Git Vulnerability CVE-2024-32002",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1431,26 +1421,6 @@
           "wordCount": 4510,
           "title": "Sponsored CPD: Key questions on digital mental health technologies",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/05/Mental-health-Getty-RF-1129696669-1200-x-800.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=145948",
-          "author": "Sofia Lind",
-          "description": "People with multiple sclerosis (MS) have a much higher risk of being hospitalised and dying from Covid despite being more likely to be vaccinated, UK research suggests. The analysis was done on data from the INFORM study which includes information on 12 million people aged 12 years and older in England. Previous research from the\nThe post People with MS at risk of severe outcomes from Covid despite being fully vaccinated appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/people-with-ms-at-risk-of-severe-outcomes-from-covid-despite-being-fully-vaccinated/",
-          "publishedOn": "2024-05-21T15:07:37.000Z",
-          "wordCount": 3511,
-          "title": "People with MS at risk of severe outcomes from Covid despite being fully vaccinated",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/GP-practices-offered-staff-from-closing-mass-vaccination-centres.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=147754",
-          "author": "Maya Dhillon",
-          "description": "Following yesterday’s publication of the Infected Blood Inquiry report, Dr Nasir Nabi reflects on his time in haematology at the beginning of his career As I enter the twilight of my career, I am beginning to wonder whether I have killed more patients than I have saved; whether I have harmed more than I have\nThe post Infected blood scandal: ‘Have I killed more patients than I have saved?’ appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/infected-blood-scandal-have-i-killed-more-patients-than-i-have-saved/",
-          "publishedOn": "2024-05-21T15:00:28.000Z",
-          "wordCount": 3791,
-          "title": "Infected blood scandal: ‘Have I killed more patients than I have saved?’",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/No-routine-bloods-accepted-at-London-NHS-trust-a-week-after-IT-meltdown.jpg"
         }
       ]
     },
