@@ -2159,7 +2159,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "e1a8f60e-a136-47af-87f2-816581178f62",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.\n\r\n\r\nNHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.\n\r\n\r\nIn the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic",
+          "publishedOn": "2024-06-20T12:04:48.000Z",
+          "wordCount": 1699,
+          "title": "The NHS App after the pandemic",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2023/nhs-app-promotional-toolkit.jpg"
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -2557,6 +2568,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/06/how-much-funding-does-the-nhs-need-over-the-next-decade.html",
+          "author": null,
+          "description": "The Health Foundation - This long read projects a potential £38bn shortfall in the funding needed to improve the NHS by the end of the next parliament. With the pledges made by both the main political parties so far falling a long way short of this, the analysis raises questions about the trade-offs facing the next government in balancing the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/06/how-much-funding-does-the-nhs-need-over-the-next-decade.html",
+          "publishedOn": "2024-06-20T11:08:19.000Z",
+          "wordCount": null,
+          "title": "How much funding does the NHS need over the next decade?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/06/providers-deliver-achieving-value-for-money.html",
           "author": null,
@@ -3211,6 +3232,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177359",
+          "author": "Cora Lydon",
+          "description": "This edition of Digital Health's coffee time briefing includes a sustainability win for Swansea Bay University Health Board with a digital app.",
+          "link": "https://www.digitalhealth.net/2024/06/digital-health-coffee-time-briefing-200624/",
+          "publishedOn": "2024-06-20T10:30:27.000Z",
+          "wordCount": 1846,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177581",
           "author": "Jordan Sollof",
