@@ -1410,6 +1410,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1877810",
+          "author": null,
+          "description": "The RCGP has called for an immediate halt to recruitment of physician associates (PAs) in general practice after a consultation found half of GPs were aware of 'specific examples' in which work by these staff had compromised patient safety.",
+          "link": "https://www.gponline.com/rcgp-demands-halt-recruitment-physician-associates-amid-safety-fears/article/1877810",
+          "publishedOn": "2024-06-20T10:08:37.000Z",
+          "wordCount": 719,
+          "title": "RCGP demands halt to recruitment of physician associates amid safety fears",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP_646.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1877777",
           "author": null,
           "description": "Junior doctors have written to prime minister Rishi Sunak offering him a final chance to make an improved offer on pay to avert their next five-day strike that starts on 27 June.",
@@ -2098,16 +2108,6 @@
           "wordCount": 674,
           "title": "UK asylum process 'damaging to health', warns GP-led research",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Immigration_GettyImages-Livinus.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1873708",
-          "author": null,
-          "description": "Physician associates should only be supervised by GPs, consultants or 'autonomously practising SAS doctors' - and these doctors should be 'immediately available' and suitably indemnified, according to new BMA guidance.",
-          "link": "https://www.gponline.com/bma-unveils-guidance-doctors-supervising-physician-associates/article/1873708",
-          "publishedOn": "2024-05-21T23:01:00.000Z",
-          "wordCount": 684,
-          "title": "BMA unveils guidance for doctors supervising physician associates",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_sign_MalcolmCaseGreen_50.jpg"
         }
       ]
     },
@@ -2904,6 +2904,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:2565a01b-a1d7-4c47-abcb-57f79a517258",
+          "author": null,
+          "description": "The World Health Organization (WHO) congratulates Chad for having eliminated the gambiense form of human African trypanosomiasis, also known as sleeping sickness, as a public health problem. It marks the first neglected tropical disease to be eliminated in the country.",
+          "link": "https://www.who.int/news/item/20-06-2024-chad-eliminates-human-african-trypanosomiasis-as-a-public-health-problem",
+          "publishedOn": "2024-06-19T13:02:11.000Z",
+          "wordCount": 2279,
+          "title": "Chad eliminates human African trypanosomiasis as a public health problem",
+          "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/human-african-trypanosomiasis/medical-screening-campaign-for-sleeping-sickness-in-chad-patrick-robert-corbis.tmb-1200v.png?Culture=en&sfvrsn=dc8967d6_2"
+        },
         {
           "id": "urn:uuid:5ce74b93-7081-41fc-bbf9-c59567f952db",
           "author": null,

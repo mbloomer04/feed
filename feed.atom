@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-20T10:10:21.969Z</updated>
+    <updated>2024-06-20T11:07:52.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RCGP demands halt to recruitment of physician associates amid safety fears]]></title>
+        <id>https://www.gponline.com/article/1877810</id>
+        <link href="https://www.gponline.com/rcgp-demands-halt-recruitment-physician-associates-amid-safety-fears/article/1877810"/>
+        <updated>2024-06-20T10:08:37.000Z</updated>
+        <summary type="html"><![CDATA[The RCGP has called for an immediate halt to recruitment of physician associates (PAs) in general practice after a consultation found half of GPs were aware of 'specific examples' in which work by these staff had compromised patient safety.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCP president to step down over physician associate fallout]]></title>
         <id>https://www.pulsetoday.co.uk/?p=149964</id>
@@ -109,6 +119,16 @@ The post GP fury as Creon shortages leave patient at risk of hospitalisation app
 The post GP concerns around PAs need to be ‘seriously addressed’, says Streeting appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chad eliminates human African trypanosomiasis as a public health problem]]></title>
+        <id>urn:uuid:2565a01b-a1d7-4c47-abcb-57f79a517258</id>
+        <link href="https://www.who.int/news/item/20-06-2024-chad-eliminates-human-african-trypanosomiasis-as-a-public-health-problem"/>
+        <updated>2024-06-19T13:02:11.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) congratulates Chad for having eliminated the gambiense form of human African trypanosomiasis, also known as sleeping sickness, as a public health problem. It marks the first neglected tropical disease to be eliminated in the country.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4112,16 +4132,6 @@ The post RCGP calls on Government to ‘radically’ reform  Carr-Hill funding f
         <summary type="html"><![CDATA[Liverpool Women's NHS Foundation Trust is set to deploy Netcall's Patient Hub in autumn 2024 to streamline communications and empower patients.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA unveils guidance for doctors supervising physician associates]]></title>
-        <id>https://www.gponline.com/article/1873708</id>
-        <link href="https://www.gponline.com/bma-unveils-guidance-doctors-supervising-physician-associates/article/1873708"/>
-        <updated>2024-05-21T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Physician associates should only be supervised by GPs, consultants or 'autonomously practising SAS doctors' - and these doctors should be 'immediately available' and suitably indemnified, according to new BMA guidance.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
