@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-19T23:09:51.574Z</updated>
+    <updated>2024-06-20T00:42:44.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1612,6 +1612,22 @@ The post Three more babies died from whooping cough in April appeared first on P
 The post GPs are ‘not accountable’ for PA errors, says GMC appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical trials get faster]]></title>
+        <id>be1ef9a4-2036-4c33-9d84-0c95b54742bb</id>
+        <link href="https://digital.nhs.uk/blog/data-points-blog/2023/clinical-trials-get-faster"/>
+        <updated>2024-06-06T10:59:23.000Z</updated>
+        <summary type="html"><![CDATA[For International Clinical Trials Day, James Gray, NHS DigiTrials Service Delivery Manager, talks about the new Feasibility Self-Service tool that drastically cuts the time it takes researchers to find out if there are enough potential participants for their clinical trial.
+
+
+“In the time it takes to make a coffee.”
+
+
+That was the challenge we set ourselves early in the creation of the NHS DigiTrials Feasibility Self-Service tool. And it was a big one: it meant giving users the ability to securely interrogate national datasets containing millions and millions of records in less than 5 minutes.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -4183,16 +4199,6 @@ The post Infected blood scandal: ‘Have I killed more patients than I have save
         <summary type="html"><![CDATA[Some GP practices in Scotland could be forced to close and many more left in a 'precarious' financial position after the government paused a loan scheme meant to ease pressure on general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northamptonshire hospitals are first to transition to local instance of FDP]]></title>
-        <id>https://www.digitalhealth.net/?p=175817</id>
-        <link href="https://www.digitalhealth.net/2024/05/northamptonshire-hospitals-are-first-to-transition-to-local-instance-of-fdp/"/>
-        <updated>2024-05-21T12:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Kettering and Northampton General Hospitals have become the first pilot sites to transition to a local instance of the NHS Federated Data Platform (FDP).]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>

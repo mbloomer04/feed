@@ -2230,6 +2230,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "be1ef9a4-2036-4c33-9d84-0c95b54742bb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "For International Clinical Trials Day, James Gray, NHS DigiTrials Service Delivery Manager, talks about the new Feasibility Self-Service tool that drastically cuts the time it takes researchers to find out if there are enough potential participants for their clinical trial.\n\r\n\r\n“In the time it takes to make a coffee.”\n\r\n\r\nThat was the challenge we set ourselves early in the creation of the NHS DigiTrials Feasibility Self-Service tool. And it was a big one: it meant giving users the ability to securely interrogate national datasets containing millions and millions of records in less than 5 minutes.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/clinical-trials-get-faster",
+          "publishedOn": "2024-06-06T10:59:23.000Z",
+          "wordCount": 1503,
+          "title": "Clinical trials get faster",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/digitrials-feasibility-service-blog-lead-image.jpg"
+        },
+        {
           "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
@@ -3980,16 +3990,6 @@
           "wordCount": 1722,
           "title": "Liverpool Women’s NHS FT to roll out Netcall patient hub",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/05/Liverpool-Womens-Netcall-roll-out3.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=175817",
-          "author": "Jordan Sollof",
-          "description": "Kettering and Northampton General Hospitals have become the first pilot sites to transition to a local instance of the NHS Federated Data Platform (FDP).",
-          "link": "https://www.digitalhealth.net/2024/05/northamptonshire-hospitals-are-first-to-transition-to-local-instance-of-fdp/",
-          "publishedOn": "2024-05-21T12:30:15.000Z",
-          "wordCount": 1956,
-          "title": "Northamptonshire hospitals are first to transition to local instance of FDP",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2020/04/data-platform.jpg"
         }
       ]
     }
