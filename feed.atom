@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-21T12:16:47.747Z</updated>
+    <updated>2024-06-21T13:11:44.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patient data published online following south east London cyber attack]]></title>
+        <id>https://www.digitalhealth.net/?p=177763</id>
+        <link href="https://www.digitalhealth.net/2024/06/patient-data-published-online-following-south-east-london-cyber-attack/"/>
+        <updated>2024-06-21T12:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Cyber criminals have published patient data online which they claim was stolen as part of an attack on Synnovis, NHS England has confirmed.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP concern as cyber criminals publish alleged NHS patient data]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150045</id>
@@ -695,6 +705,16 @@ The post NHS removes patient-facing material referring to PAs as â€˜physiciansâ€
         <summary type="html"><![CDATA[Joseph Rowntree Foundation - Across Britain, millions of people are experiencing hardship, by which we mean they are going without basic essentials such as enough food, heating and appropriate clothing, because they cannot afford them. This report asks what impact hardship is having on the delivery of services in primary schools and primary and community healthcare setting such as GP...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA lists steps practices could take as part of collective action]]></title>
+        <id>https://www.gponline.com/article/1877357</id>
+        <link href="https://www.gponline.com/bma-lists-steps-practices-part-collective-action/article/1877357"/>
+        <updated>2024-06-17T14:33:38.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has set out 12 steps practices could take as part of collective action later this year, as voting opened in a ballot of the profession.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
