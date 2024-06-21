@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-21T10:09:57.240Z</updated>
+    <updated>2024-06-21T11:08:26.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How likely is a general election to transform health and social care?]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/06/how-likely-is-a-general-election-to-transform-health-and-social-care.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/06/how-likely-is-a-general-election-to-transform-health-and-social-care.html"/>
+        <updated>2024-06-21T10:50:48.000Z</updated>
+        <summary type="html"><![CDATA[The King's Fund - Nicholas Timmins looks back at the last three big political transitions to ask - how fast might things change for health and social care? Long read The King's Fund - publications]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[West Hertfordshire Teaching rolls out OptiRad radiology tech]]></title>
         <id>https://www.digitalhealth.net/?p=177699</id>
@@ -4094,16 +4104,6 @@ The report shows that globally an estimated 37 million children aged 13–15 yea
         <summary type="html"><![CDATA[NHS England has announced proposals to increase access to virtual wards in a bid to reduce emergency department (ED) waiting times.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: New dentists required to deliver NHS care under government plans]]></title>
-        <id>https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans</id>
-        <link href="https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans"/>
-        <updated>2024-05-22T23:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Consultation asks whether newly qualified dentists should commit to delivering a minimum amount of NHS work after graduating or repay some training fees]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>

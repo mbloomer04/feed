@@ -2500,16 +2500,6 @@
           "wordCount": 1036,
           "title": "Open consultation: Proposal for a ‘tie-in’ to NHS dentistry for graduate dentists",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans",
-          "author": null,
-          "description": "Consultation asks whether newly qualified dentists should commit to delivering a minimum amount of NHS work after graduating or repay some training fees",
-          "link": "https://www.gov.uk/government/news/new-dentists-required-to-deliver-nhs-care-under-government-plans",
-          "publishedOn": "2024-05-22T23:01:03.000Z",
-          "wordCount": 2750,
-          "title": "Press release: New dentists required to deliver NHS care under government plans",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -2518,6 +2508,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/06/how-likely-is-a-general-election-to-transform-health-and-social-care.html",
+          "author": null,
+          "description": "The King's Fund - Nicholas Timmins looks back at the last three big political transitions to ask - how fast might things change for health and social care? Long read The King's Fund - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2024/06/how-likely-is-a-general-election-to-transform-health-and-social-care.html",
+          "publishedOn": "2024-06-21T10:50:48.000Z",
+          "wordCount": null,
+          "title": "How likely is a general election to transform health and social care?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/06/how-do-the-last-five-years-measure-up-on-levelling-up.html",
           "author": null,
