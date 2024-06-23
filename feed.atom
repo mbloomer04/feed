@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-22T23:08:36.604Z</updated>
+    <updated>2024-06-23T00:47:12.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS urges more women to take up cervical screening invitations]]></title>
+        <id>https://www.england.nhs.uk/?p=247993</id>
+        <link href="https://www.england.nhs.uk/2024/06/nhs-urges-more-women-to-take-up-cervical-screening-invitations/"/>
+        <updated>2024-06-21T23:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Millions of women are being urged to come forward for cervical screening as figures show a third of eligible under 50s didn’t take up the potentially lifesaving offer. The latest figures show that as of December last year, 65.8% of the 11 million eligible women aged 25-49 took up their cervical screening invitation and were screened within […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chair announced for PrimaryCareLearnings 2024]]></title>
         <id>https://www.gponline.com/article/1876967</id>
@@ -35,6 +45,16 @@
 The post Electronic referral system switched off after ‘continuing’ IT issues appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synnovis cyber attack – statement from NHS England]]></title>
+        <id>https://www.england.nhs.uk/?p=248025</id>
+        <link href="https://www.england.nhs.uk/2024/06/synnovis-cyber-attack-statement-from-nhs-england/"/>
+        <updated>2024-06-21T14:54:27.000Z</updated>
+        <summary type="html"><![CDATA[On 3 June, Synnovis, a pathology laboratory which processes blood tests on behalf of a number of NHS organisations, primarily in South East London, was the victim of a cyber attack. NHS England has been made aware that a cyber criminal group published data last night which they are claiming belongs to Synnovis and was […]]]></summary>
+        <author>
+            <name>nowen</name>
         </author>
     </entry>
     <entry>
@@ -3810,56 +3830,6 @@ The post Dr Katie Bramall-Stainer: We need to prepare for undated resignations a
  Updated: 24 May 2024]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pay setting for doctors and nurses: what can the NHS learn from other countries?]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2024/05/pay-setting-for-doctors-and-nurses-what-can-the-nhs-learn-from-other-countries.html"/>
-        <updated>2024-05-24T12:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Nuffield Trust - Industrial action has been a feature of the NHS in England since 2022. Although consultants have recently accepted a new pay deal, nurses remain officially in dispute and there has been no conclusion for junior doctors. This long read explores how the pay-setting process works in a selection of different health systems across the world and whether...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Central London ICB pilots WhatsApp and AI appointment scheduling]]></title>
-        <id>https://www.digitalhealth.net/?p=175903</id>
-        <link href="https://www.digitalhealth.net/2024/05/north-central-london-icb-pilots-whatsapp-and-ai-appointment-scheduling/"/>
-        <updated>2024-05-24T12:30:59.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp and an AI receptionist are being piloted at North Central London ICB, in a pilot to see if the tools can boost uptake of cervical cancer screening.]]></summary>
-        <author>
-            <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS Constitution: 10 year review]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2024/05/nhs-constitution-10-year-review.html"/>
-        <updated>2024-05-24T12:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Department of Health and Social Care - The NHS Constitution sets out the principles, values, rights and pledges underpinning the NHS as a comprehensive health service, free at the point of use for all who need it. The NHS Constitution applies to all those who use its many services, its staff and providers. The Department of Health and Social Care...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searches for NHS advice on insect bites and stings surge ahead of bank holiday weekend]]></title>
-        <id>https://www.england.nhs.uk/?p=246530</id>
-        <link href="https://www.england.nhs.uk/2024/05/searches-for-nhs-advice-on-insect-bites-and-stings-surge-ahead-of-bank-holiday-weekend/"/>
-        <updated>2024-05-24T11:51:51.000Z</updated>
-        <summary type="html"><![CDATA[The number of people seeking advice on insect bites and stings from the NHS website has surged ahead of the bank holiday weekend. Analysis by NHS England, which runs the nhs.uk website, found visits to the insect bites and stings page have nearly tripled in the last three weeks compared to the same period last year – […]]]></summary>
-        <author>
-            <name>nowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical practitioner stabbed at south-east London GP practice]]></title>
-        <id>https://www.gponline.com/article/1874201</id>
-        <link href="https://www.gponline.com/medical-practitioner-stabbed-south-east-london-gp-practice/article/1874201"/>
-        <updated>2024-05-24T11:40:34.000Z</updated>
-        <summary type="html"><![CDATA[A man has been arrested on suspicion of attempted murder after a medical practitioner was stabbed at a GP practice in south-east London, police have confirmed.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
