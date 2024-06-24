@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d925b076-6869-45b3-83ef-021f7a24d378",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The update addresses 225 vulnerabilities in Juniper Secure Analytics, including five rated critical\n The update addresses 225 vulnerabilities in Juniper Secure Analytics, including five rated critical\n Updated: 24 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4514",
+          "publishedOn": "2024-06-24T12:39:00.000Z",
+          "wordCount": 739,
+          "title": "CC-4514 - Juniper Networks Releases Security Update for Juniper Secure Analytics",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "360252d5-33e5-45b7-9a9c-b789f094f355",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses three vulnerabilities that could result in privilege escalation or remote code execution\n Advisory addresses three vulnerabilities that could result in privilege escalation or remote code execution\n Updated: 18 Jun 2024",
@@ -2872,6 +2882,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177673",
+          "author": "Cora Lydon",
+          "description": "A leaked copy of the unpublished Phillips Ives Report, seen by Nursing Times, warns of a 'severe shortage' of digital nurses to support NHSE ambitions.",
+          "link": "https://www.digitalhealth.net/2024/06/leaked-nhse-review-warns-of-severe-shortage-of-digital-nurses/",
+          "publishedOn": "2024-06-24T12:30:42.000Z",
+          "wordCount": 1749,
+          "title": "Leaked NHSE review warns of ‘severe shortage’ of digital nurses",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/digital-nursing-phillip-Ives-report-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177803",
           "author": "Tammy Lovell",
