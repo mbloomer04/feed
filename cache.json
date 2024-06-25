@@ -1350,6 +1350,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1878274",
+          "author": null,
+          "description": "Up to 20 'test sites' across England will be offered seven-figure sums to trial controversial new models of general practice, GPonline can reveal.",
+          "link": "https://www.gponline.com/pcns-offered-seven-figure-sums-pilot-controversial-new-gp-models/article/1878274",
+          "publishedOn": "2024-06-25T08:00:00.000Z",
+          "wordCount": 680,
+          "title": "PCNs offered seven-figure sums to pilot controversial new GP models",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_12.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1878312",
           "author": null,
           "description": "GP practices will be asked to deliver an RSV vaccination campaign to adults aged over 75 from September this year, the DHSC has confirmed.",
@@ -2904,16 +2914,6 @@
           "wordCount": 2205,
           "title": "Director-General’s Award for Global Health go to Prime Minister of Barbados and developers of mRNA vaccines for COVID-19",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/katalin-kariko-dgs-award-for-global-health.tmb-1200v.jpg?sfvrsn=cdc701b1_1"
-        },
-        {
-          "id": "urn:uuid:7d1ead01-9e88-4d2f-845a-e1ae6de8e747",
-          "author": null,
-          "description": "The World Health Organization (WHO) launched its first-ever  Investment Round on Sunday as part of a broader plan to transform the way the Organization is funded heading into an era of climate change, mass migration, pandemic threats, an ageing world population, and turbulent geopolitics.\nThe launch, on the eve of the Seventy-Seventh World Health Assembly, marks the start of a year-long series of engagements and events, co-hosted by countries, where Member States and other donors will be invited to contribute funds to WHO’s strategy for 2025 through 2028 and show high-level political commitment to WHO and global health. \nThe Investment Round will culminate in November with a major pledging event to be hosted by Brazil around the G20 Leaders’ Summit.\n“It’s about ensuring WHO is fully funded…",
-          "link": "https://www.who.int/news/item/26-05-2024-who-launches-its-first-investment-round-to-sustainably-finance-its-health-for-all-mandate",
-          "publishedOn": "2024-05-26T19:26:20.000Z",
-          "wordCount": 3005,
-          "title": "WHO launches its first Investment Round to sustainably finance its Health for All mandate",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/prime-minister-of-barbados-at-launch-of-who-investment-round.tmb-1200v.jpg?sfvrsn=ff25d423_1"
         }
       ]
     },
@@ -2922,6 +2922,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177683",
+          "author": "Tammy Lovell",
+          "description": "Mark Edwards, CISO at Digital Health and Care Wales has warned that cyber attacks on critical national infrastructure are likely to increase.",
+          "link": "https://www.digitalhealth.net/2024/06/cyber-attacks-on-critical-national-infrastructure-to-increase-warns-ciso-for-wales/",
+          "publishedOn": "2024-06-25T07:30:14.000Z",
+          "wordCount": 1869,
+          "title": "Cyber attacks on critical national infrastructure predicted to increase",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2020/02/Cyber-Protection.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177673",
           "author": "Cora Lydon",

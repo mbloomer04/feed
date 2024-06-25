@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-25T07:09:06.546Z</updated>
+    <updated>2024-06-25T08:13:25.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PCNs offered seven-figure sums to pilot controversial new GP models]]></title>
+        <id>https://www.gponline.com/article/1878274</id>
+        <link href="https://www.gponline.com/pcns-offered-seven-figure-sums-pilot-controversial-new-gp-models/article/1878274"/>
+        <updated>2024-06-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Up to 20 'test sites' across England will be offered seven-figure sums to trial controversial new models of general practice, GPonline can reveal.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber attacks on critical national infrastructure predicted to increase]]></title>
+        <id>https://www.digitalhealth.net/?p=177683</id>
+        <link href="https://www.digitalhealth.net/2024/06/cyber-attacks-on-critical-national-infrastructure-to-increase-warns-ciso-for-wales/"/>
+        <updated>2024-06-25T07:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Mark Edwards, CISO at Digital Health and Care Wales has warned that cyber attacks on critical national infrastructure are likely to increase.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP employment crisis ‘simply bonkers’, says BMA council chair]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150132</id>
@@ -3788,19 +3808,6 @@ The post Five top tips for better chronic pain management appeared first on Puls
         <summary type="html"><![CDATA[The NHS has today announced the 143 hospital sites that will test and roll out Martha’s Rule in its first year. Confirmation of the first sites to test implementation of Martha’s Rule is the next step in a major patient safety initiative, following the announcement in February of NHS England funding for this financial year. […]]]></summary>
         <author>
             <name>nowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO launches its first Investment Round to sustainably finance its Health for All mandate]]></title>
-        <id>urn:uuid:7d1ead01-9e88-4d2f-845a-e1ae6de8e747</id>
-        <link href="https://www.who.int/news/item/26-05-2024-who-launches-its-first-investment-round-to-sustainably-finance-its-health-for-all-mandate"/>
-        <updated>2024-05-26T19:26:20.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) launched its first-ever  Investment Round on Sunday as part of a broader plan to transform the way the Organization is funded heading into an era of climate change, mass migration, pandemic threats, an ageing world population, and turbulent geopolitics.
-The launch, on the eve of the Seventy-Seventh World Health Assembly, marks the start of a year-long series of engagements and events, co-hosted by countries, where Member States and other donors will be invited to contribute funds to WHO’s strategy for 2025 through 2028 and show high-level political commitment to WHO and global health. 
-The Investment Round will culminate in November with a major pledging event to be hosted by Brazil around the G20 Leaders’ Summit.
-“It’s about ensuring WHO is fully funded…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
