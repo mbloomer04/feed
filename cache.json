@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9699ac3d-7ffc-44d6-b877-e1b5c6d92a04",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two critical vulnerabilities could lead to remote code execution\n Two critical vulnerabilities could lead to remote code execution\n Updated: 25 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4515",
+          "publishedOn": "2024-06-25T12:48:00.000Z",
+          "wordCount": 591,
+          "title": "CC-4515 - Avaya Releases Critical Security Update for IP Office",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "d925b076-6869-45b3-83ef-021f7a24d378",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The update addresses 225 vulnerabilities in Juniper Secure Analytics, including five rated critical\n The update addresses 225 vulnerabilities in Juniper Secure Analytics, including five rated critical\n Updated: 24 Jun 2024",
@@ -142,6 +152,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=150165",
+          "author": "Eliza Parr",
+          "description": "The Government has argued that it ‘does not decide how many GPs are in each practice’, in response to GP employment concerns.  Health minister Maria Caulfield said GP practices are given a contract and they ‘then decide who they directly employ’. Ms Caulfield was asked what the Government is doing to address GP unemployment during\nThe post Practices decide how many GPs they employ, says minister appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/practices-decide-how-many-gps-they-employ-says-minister/",
+          "publishedOn": "2024-06-25T12:23:11.000Z",
+          "wordCount": 3589,
+          "title": "Practices decide how many GPs they employ, says minister",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/08/recruitment_hiring_vacancy_staffing_1200-x-800.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=150148",
           "author": "Eliza Parr",
@@ -3002,6 +3022,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=177785",
+          "author": "Jordan Sollof",
+          "description": "The Royal Oldham Hospital is the first pathology lab in Manchester to use digital images for biopsies, with the aim of speeding up test results.",
+          "link": "https://www.digitalhealth.net/2024/06/the-royal-oldham-hospital-goes-live-with-digital-image-tech-for-biopsies/",
+          "publishedOn": "2024-06-25T12:30:48.000Z",
+          "wordCount": 1833,
+          "title": "The Royal Oldham Hospital goes live with digital image tech for biopsies",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/Digital-images-biopsies-Royal-Oldham-Hospital.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177641",
           "author": "Cora Lydon",
