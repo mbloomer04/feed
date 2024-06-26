@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b7626186-9d1c-49d3-900c-8c6412d703bf",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Improper authentication vulnerability can lead to authentication bypass\n Improper authentication vulnerability can lead to authentication bypass\n Updated: 26 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4516",
+          "publishedOn": "2024-06-26T13:37:00.000Z",
+          "wordCount": 808,
+          "title": "CC-4516 - Progress Software Releases Critical Security Updates for MOVEit Transfer",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "9699ac3d-7ffc-44d6-b877-e1b5c6d92a04",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Two critical vulnerabilities could lead to remote code execution\n Two critical vulnerabilities could lead to remote code execution\n Updated: 25 Jun 2024",
