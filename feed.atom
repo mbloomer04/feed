@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-26T12:18:54.790Z</updated>
+    <updated>2024-06-26T13:12:36.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Health Lewisham helps develop AI training resources for COPD]]></title>
+        <id>https://www.digitalhealth.net/?p=177839</id>
+        <link href="https://www.digitalhealth.net/2024/06/one-health-lewisham-helps-develop-ai-training-resources/"/>
+        <updated>2024-06-26T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[One Health Lewisham is working with TidalSense to develop training resources for an AI-powered device to diagnose respiratory illness.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA to explore GMC ‘fee withdrawal’ if PA regulation concerns not addressed]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150194</id>
