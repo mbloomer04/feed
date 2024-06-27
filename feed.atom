@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-27T09:10:20.160Z</updated>
+    <updated>2024-06-27T10:10:19.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHSE seeking provider to support cyber resilience in NHS supply chain]]></title>
+        <id>https://www.digitalhealth.net/?p=178093</id>
+        <link href="https://www.digitalhealth.net/2024/06/nhse-seeking-provider-to-support-cyber-resilience-in-nhs-supply-chain/"/>
+        <updated>2024-06-27T10:00:31.000Z</updated>
+        <summary type="html"><![CDATA[NHS England is letting a contract worth £4.3m to “enhance cyber risk visibility, assurance and resilience” throughout the NHS supply chain.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Labour will review ARRS to end 'absurd' GP unemployment crisis, says Streeting]]></title>
         <id>https://www.gponline.com/article/1878744</id>
@@ -32,6 +42,16 @@
         <link href="https://www.gponline.com/lib-dems-demand-emergency-nhs-budget-hire-gps/article/1878697"/>
         <updated>2024-06-26T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The Liberal Democrats have called for an emergency NHS budget within four weeks of the general election to hire more GPs and invest in hospitals and social care.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junior doctors begin 11th round of strikes in run-up to general election]]></title>
+        <id>https://www.gponline.com/article/1878707</id>
+        <link href="https://www.gponline.com/junior-doctors-begin-11th-round-strikes-run-up-general-election/article/1878707"/>
+        <updated>2024-06-26T16:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Junior doctors have begun an 11th wave of strike action in England after the government failed to meet BMA demands for a commitment to restore pay.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
@@ -3881,16 +3901,6 @@ The post Labour pledges to clear NHS elective backlog within five years appeared
         <summary type="html"><![CDATA[The Guernsey Government has announced that the first phase of the island's EPR implementation has been delayed to 2025 due to patient safety.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labour promises five-year plan to end NHS backlog]]></title>
-        <id>https://www.gponline.com/article/1874496</id>
-        <link href="https://www.gponline.com/labour-promises-five-year-plan-end-nhs-backlog/article/1874496"/>
-        <updated>2024-05-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Labour party has promised to end NHS waits of more than 18 weeks within the next parliament - bringing a major driver of GP workload front and centre in the general election campaign.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
