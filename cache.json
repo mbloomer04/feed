@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b85665f7-b58e-472f-b685-6d5c251fcb37",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The security update addresses a critical SQL injection vulnerability that could allow an attacker to modify data and create administrative users\n The security update addresses a critical SQL injection vulnerability that could allow an attacker to modify data and create administrative users\n Updated: 27 Jun 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4517",
+          "publishedOn": "2024-06-27T12:45:00.000Z",
+          "wordCount": 621,
+          "title": "CC-4517 - Critical Vulnerability in Fortra FileCatalyst Workflow",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "b7626186-9d1c-49d3-900c-8c6412d703bf",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Improper authentication vulnerability can lead to authentication bypass\n Improper authentication vulnerability can lead to authentication bypass\n Updated: 26 Jun 2024",
@@ -3022,6 +3032,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=178127",
+          "author": "Cora Lydon",
+          "description": "The National Institute for Health and Care Excellence has published draft guidance on digital supported self-management of COPD.",
+          "link": "https://www.digitalhealth.net/2024/06/nice-publishes-draft-guidance-on-digital-management-of-copd/",
+          "publishedOn": "2024-06-27T12:30:41.000Z",
+          "wordCount": 1948,
+          "title": "NICE publishes draft guidance on digital management of COPD",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/Lenus-Health-Treat-service-NICE-draft-approval-1-1.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177867",
           "author": "Cora Lydon",

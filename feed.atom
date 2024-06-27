@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-27T12:17:52.007Z</updated>
+    <updated>2024-06-27T13:12:15.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4517 - Critical Vulnerability in Fortra FileCatalyst Workflow]]></title>
+        <id>b85665f7-b58e-472f-b685-6d5c251fcb37</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4517"/>
+        <updated>2024-06-27T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ The security update addresses a critical SQL injection vulnerability that could allow an attacker to modify data and create administrative users
+ The security update addresses a critical SQL injection vulnerability that could allow an attacker to modify data and create administrative users
+ Updated: 27 Jun 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE publishes draft guidance on digital management of COPD]]></title>
+        <id>https://www.digitalhealth.net/?p=178127</id>
+        <link href="https://www.digitalhealth.net/2024/06/nice-publishes-draft-guidance-on-digital-management-of-copd/"/>
+        <updated>2024-06-27T12:30:41.000Z</updated>
+        <summary type="html"><![CDATA[The National Institute for Health and Care Excellence has published draft guidance on digital supported self-management of COPD.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CQC chief executive steps down]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150269</id>
