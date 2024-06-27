@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-27T07:09:23.876Z</updated>
+    <updated>2024-06-27T08:12:39.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health issues call for Rewired 2025 speakers]]></title>
+        <id>https://www.digitalhealth.net/?p=178037</id>
+        <link href="https://www.digitalhealth.net/2024/06/digital-health-issues-call-for-rewired-2025-speakers/"/>
+        <updated>2024-06-27T07:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Digital Health is on the hunt for speakers to present at Rewired 2025, which takes place at the NEC in Birmingham on 18 and 19 March.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lib Dems demand 'emergency NHS budget' to hire more GPs]]></title>
         <id>https://www.gponline.com/article/1878697</id>
@@ -3871,29 +3881,6 @@ The post Labour pledges to clear NHS elective backlog within five years appeared
         <summary type="html"><![CDATA[The Labour party has promised to end NHS waits of more than 18 weeks within the next parliament - bringing a major driver of GP workload front and centre in the general election campaign.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO Member States agree way forward to conclude Pandemic Agreement]]></title>
-        <id>urn:uuid:9eab43db-65d9-43fb-aff6-23c4328d31e6</id>
-        <link href="https://www.who.int/news/item/28-05-2024-who-member-states-agree-way-forward-to-conclude-pandemic-agreement"/>
-        <updated>2024-05-28T19:43:28.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Assembly (WHA) today recognized the progress made over the past two years by Member States to develop a pandemic agreement and strengthen the International Health Regulations (IHR, 2005). Governments meeting in Geneva for the Seventy-seventh World Health Assembly are in talks to advance these two efforts, which aim to boost the world’s ability to better able to prevent and respond to the threat of future pandemics.
- 
-WHO Member States agreed to continue to work during the World Health Assembly, which ends on 1 June, with the aim to:
-
-finalize the package of amendments to the IHR (2005)
-agree the timing, format and process to conclude the pandemic agreement.
-
- During today’s session, the WHA first considered agenda item 13.4 on the draft pandemic agreement. Delegates acknowledged the extensive work undertaken by the Member State-led Intergovernmental Negotiating Body (INB), and the Bureau steering the work, since governments launched the process in December 2021 to develop the world’s first pandemic accord to prevent a repeat of the global health, economic and social impacts of the COVID-19 pandemic.
- 
-Member States reiterated that the world needs a pandemic agreement built on the principles of equity, sovereignty, and prevention, preparedness and response, and to ensure future generations are safeguarded from the threat of inevitable future pandemics.
- 
-WHA delegates also considered agenda item 13.3, which laid out the work undertaken to negotiate the amendments to the International Health Regulations(2005) to build on lessons learned from the global response to the COVID-19 pandemic.  
- 
-Member States stressed that agreement on updated and stronger International Health Regulations were essential for ensuring global health security.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
