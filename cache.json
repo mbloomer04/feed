@@ -144,16 +144,6 @@
           "wordCount": 891,
           "title": "CC-4504 - Check Point Releases Security Hotfix for Exploited Zero-Day Vulnerability CVE-2024-24919",
           "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "24362ad3-ceac-42d0-820d-7f0b1e2c6c05",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Proof-of-concept exploit code released for RCE vulnerability CVE-2024-21683\n Proof-of-concept code released for RCE vulnerability CVE-2024-21683\n Updated: 29 May 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4503",
-          "publishedOn": "2024-05-29T14:20:00.000Z",
-          "wordCount": 867,
-          "title": "CC-4503 - RCE Vulnerability in Atlassian Confluence Data Center and Confluence Server",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1715858482974/images/nhs-england-logo-social.jpg"
         }
       ]
     },

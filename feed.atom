@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-28T01:56:53.777Z</updated>
+    <updated>2024-06-28T02:30:45.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -3883,19 +3883,6 @@ The post Remove contractual restrictions on GPs seeing patients privately, say U
         <summary type="html"><![CDATA[We are seeking views on health and social care statistical outputs published by DHSC (including OHID), NHSBSA, UKHSA, ONS and NHS England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4503 - RCE Vulnerability in Atlassian Confluence Data Center and Confluence Server]]></title>
-        <id>24362ad3-ceac-42d0-820d-7f0b1e2c6c05</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4503"/>
-        <updated>2024-05-29T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Proof-of-concept exploit code released for RCE vulnerability CVE-2024-21683
- Proof-of-concept code released for RCE vulnerability CVE-2024-21683
- Updated: 29 May 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
