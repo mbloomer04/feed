@@ -1390,6 +1390,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1878824",
+          "author": null,
+          "description": "Talking General Practice speaks to Labour’s shadow health and social care secretary Wes Streeting about the party’s plans for general practice if it wins next week’s general election.",
+          "link": "https://www.gponline.com/podcast-wes-streeting-labours-plans-general-practice/article/1878824",
+          "publishedOn": "2024-06-28T07:00:00.000Z",
+          "wordCount": 963,
+          "title": "Podcast: Wes Streeting on Labour’s plans for general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_966.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1878846",
           "author": null,
           "description": "The RCGP has recognised members who have undertaken work that benefits patients, local communities and general practice at its annual Inspire Awards.",
@@ -2224,6 +2234,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=248213",
+          "author": "rwootton",
+          "description": "Visits to heat exhaustion advice on the NHS website have more than doubled in the past 48 hours as temperatures surge in England. The warm weather comes at the same time as the NHS is facing major disruption with junior doctors launching industrial action from 7am tomorrow for five days. (7am Thursday 27 June until […]",
+          "link": "https://www.england.nhs.uk/2024/06/views-of-nhs-website-heat-health-advice-double-as-temperatures-soar/",
+          "publishedOn": "2024-06-26T16:00:32.000Z",
+          "wordCount": 1344,
+          "title": "Views of NHS website heat health advice double as temperatures soar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.england.nhs.uk/?p=248102",
           "author": "jboshell",
