@@ -2225,6 +2225,56 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=248414",
+          "author": "kbradshaw",
+          "description": "Professor Sir Stephen Powis, NHS National Medical Director, said: “With industrial action set to cause widespread disruption this weekend, and the NHS seeing record levels of patients in recent months, we urge the public to help us by using services as they normally would. “Everyone can also help by taking steps to keep themselves and others […]",
+          "link": "https://www.england.nhs.uk/2024/06/nhs-england-statement-on-industrial-action-friday-28-june/",
+          "publishedOn": "2024-06-28T11:14:34.000Z",
+          "wordCount": 872,
+          "title": "NHS England statement on industrial action: Friday, 28 June",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=248375",
+          "author": "jboshell",
+          "description": "Stella Vig, NHS National Clinical Director for Elective Care, said: “With the weekend approaching, ongoing strike action will continue to cause disruption – but we want to assure patients that staff are working extremely hard to prioritise urgent and emergency care. “Though the warm weather is subsiding, the NHS still faces significant pressure, with industrial […]",
+          "link": "https://www.england.nhs.uk/2024/06/nhs-england-statement-on-industrial-action-thursday-27-june/",
+          "publishedOn": "2024-06-27T15:58:47.000Z",
+          "wordCount": 854,
+          "title": "NHS England statement on industrial action: Thursday, 27 June",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=248338",
+          "author": "jboshell",
+          "description": "Professor Sir Stephen Powis, NHS National Medical Director, said: “This transformative gene therapy is the first of its kind for haemophilia B patients on the NHS and has the potential to significantly improve the lives of hundreds of people by helping to reduce symptoms such as painful bleeds. “It is a one-time therapy that could […]",
+          "link": "https://www.england.nhs.uk/2024/06/responding-to-new-final-draft-guidance-from-nice-for-a-new-gene-therapy-for-haemophilia-b/",
+          "publishedOn": "2024-06-27T11:17:05.000Z",
+          "wordCount": 1134,
+          "title": "Responding to new final draft guidance from NICE for a new gene therapy for haemophilia B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=248222",
+          "author": "rwootton",
+          "description": "With just days left of this year’s spring covid vaccine programme, the NHS is urging anyone eligible to get their jab by this Sunday [30 June 2024]. More than 4 million people have now received their spring booster jab since the campaign began in April. The NHS has made it easier than ever before for […]",
+          "link": "https://www.england.nhs.uk/2024/06/nhs-launches-final-call-for-people-to-get-their-covid-jab/",
+          "publishedOn": "2024-06-27T11:12:04.000Z",
+          "wordCount": 1363,
+          "title": "NHS launches final call for people to get their covid jab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=248324",
+          "author": "jboshell",
+          "description": "GP teams delivered more than 30 million appointments for patients last month (May 2024), up by more than a fifth on the same period before the pandemic.   NHS data published today shows there were around 30.5 million appointments delivered by GPs and their teams in just one month, compared with an estimated 25.3 million in […]",
+          "link": "https://www.england.nhs.uk/2024/06/more-gp-appointments-in-may-than-before-pandemic/",
+          "publishedOn": "2024-06-27T11:07:13.000Z",
+          "wordCount": 966,
+          "title": "More GP appointments in May than before pandemic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=248213",
           "author": "rwootton",
           "description": "Visits to heat exhaustion advice on the NHS website have more than doubled in the past 48 hours as temperatures surge in England. The warm weather comes at the same time as the NHS is facing major disruption with junior doctors launching industrial action from 7am tomorrow for five days. (7am Thursday 27 June until […]",
@@ -2914,16 +2964,6 @@
           "wordCount": 2782,
           "title": "Statement by Principals of the Inter-Agency Standing Committee (IASC): No time to lose as famine stalks millions in Sudan \r\namid intense fighting and access denials",
           "imageUrl": "https://www.who.int/images/default-source/searo---images/health-topics/whe/mother-and-child-in-a-who-supported-nutrition-stabilization-centre-in-port-sudan-march-2024.tmb-1200v.jpg?Culture=en&sfvrsn=6a0bce1e_1"
-        },
-        {
-          "id": "urn:uuid:1a52e2ed-8bf4-4952-bfe1-fe3d37f5b10e",
-          "author": null,
-          "description": "Delegates approve groundbreaking new agreement on transplantation\nOn 29 May 2024, Member States (with the initiation of Spain) approved a new resolution on increasing availability, ethical access and oversight of transplantation of human cells, tissues and organs. \nTransplantation is a life-saving treatment. The latest data of 2022 from the Global Observatory on Donation and Transplantation indicate that more than 150 000 solid organ transplants (≤ 10% of global needs) are performed worldwide annually, which is an increase of 52% compared with 2010.\n\nHowever, there is still an apparent insufficient growth in and asymmetrical development of transplantation worldwide with many countries not having established the appropriate systems, including legislation, governance, specialized workforce, …",
-          "link": "https://www.who.int/news/item/30-05-2024-seventy-seventh-world-health-assembly---daily-update--30-may-2024",
-          "publishedOn": "2024-05-30T18:36:07.000Z",
-          "wordCount": 4650,
-          "title": "Seventy-seventh World Health Assembly – Daily update: 30 May 2024",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/delegates-at-the-world-health-assembly.tmb-1200v.jpg?sfvrsn=dc38ab_2"
         }
       ]
     },
