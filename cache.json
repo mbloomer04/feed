@@ -124,16 +124,6 @@
           "wordCount": 622,
           "title": "CC-4506 - Baxter Welch Allyn  Connex Spot Monitor Vulnerability CVE-2024-1275",
           "imageUrl": "https://digital.nhs.uk/webfiles/1717154519384/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "1881cd46-5f8c-4683-a7f2-1860c86d57e4",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation\n Updated: 31 May 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4505",
-          "publishedOn": "2024-05-31T12:58:00.000Z",
-          "wordCount": 544,
-          "title": "CC-4505 - Linux Kernel Use-after-free Vulnerability",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1717154519384/images/nhs-england-logo-social.jpg"
         }
       ]
     },

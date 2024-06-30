@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-06-30T00:49:02.482Z</updated>
+    <updated>2024-06-30T02:02:15.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -3689,19 +3689,6 @@ The post GP practice nurses encouraged to join LMCs appeared first on Pulse Toda
         <summary type="html"><![CDATA[Employment of locum GPs is 'in crisis’ because chronic underfunding has led to a collapse in the resources practices have available to hire them, the BMA has warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4505 - Linux Kernel Use-after-free Vulnerability]]></title>
-        <id>1881cd46-5f8c-4683-a7f2-1860c86d57e4</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4505"/>
-        <updated>2024-05-31T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation
- Linux kernel contains a vulnerability that could allow an attacker to achieve local privilege escalation
- Updated: 31 May 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
