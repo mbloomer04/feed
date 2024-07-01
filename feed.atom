@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-01T07:10:41.938Z</updated>
+    <updated>2024-07-01T08:13:30.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plymouth virtual ward occupancy rate over 80% with plans to expand]]></title>
+        <id>https://www.digitalhealth.net/?p=178257</id>
+        <link href="https://www.digitalhealth.net/2024/07/plymouth-virtual-ward-occupancy-rate-over-80-with-plans-to-expand/"/>
+        <updated>2024-07-01T07:30:46.000Z</updated>
+        <summary type="html"><![CDATA[University Hospitals Plymouth has confirmed that its virtual ward beds are now over 80% occupied, the best occupancy rate in Devon, with plans to expand.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP continuity of care could ‘effectively disappear’ unless action taken]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150310</id>
@@ -3587,18 +3597,6 @@ The post GP practices must carefully check they are being paid PCN money, accoun
         <summary type="html"><![CDATA[A national theatre scheduling tool that reduces hospital waiting times and enhances operating theatre efficiency is to be rolled out across Scotland.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seventy-seventh World Health Assembly – Daily update: 1 June 2024]]></title>
-        <id>urn:uuid:b2804f27-8da4-49a9-a25b-0b4b5b2ea4e7</id>
-        <link href="https://www.who.int/news/item/01-06-2024-seventy-seventh-world-health-assembly---daily-update--1-june-2024"/>
-        <updated>2024-06-01T19:57:35.000Z</updated>
-        <summary type="html"><![CDATA[World Health Assembly agreement reached on wide-ranging, decisive package of amendments to improve the International Health Regulations, and sets date for finalizing negotiations on a proposed Pandemic Agreement
-In a historic development, the World Health Assembly, the annual meeting of the World Health Organization's 194 member countries, today agreed on a package of critical amendments to the International Health Regulations (2005) (IHR), and made concrete commitments to completing negotiations on a global pandemic agreement within a year, at the latest. These critical actions have been taken in order to ensure comprehensive, robust systems are in place in all countries to protect the health and safety of all people everywhere from the risk of future outbreaks and pandemics.
-These decisi…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>

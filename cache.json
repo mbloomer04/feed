@@ -2753,16 +2753,6 @@
           "wordCount": 2087,
           "title": "Mr José Luis Castro appointed as WHO Director-General Special Envoy \r\nfor Chronic Respiratory Diseases",
           "imageUrl": "https://cdn.who.int/media/images/default-source/people/who-people/mr-jose-castro.tmb-1200v.jpg?sfvrsn=e9a5953d_1"
-        },
-        {
-          "id": "urn:uuid:b2804f27-8da4-49a9-a25b-0b4b5b2ea4e7",
-          "author": null,
-          "description": "World Health Assembly agreement reached on wide-ranging, decisive package of amendments to improve the International Health Regulations, and sets date for finalizing negotiations on a proposed Pandemic Agreement\nIn a historic development, the World Health Assembly, the annual meeting of the World Health Organization's 194 member countries, today agreed on a package of critical amendments to the International Health Regulations (2005) (IHR), and made concrete commitments to completing negotiations on a global pandemic agreement within a year, at the latest. These critical actions have been taken in order to ensure comprehensive, robust systems are in place in all countries to protect the health and safety of all people everywhere from the risk of future outbreaks and pandemics.\nThese decisi…",
-          "link": "https://www.who.int/news/item/01-06-2024-seventy-seventh-world-health-assembly---daily-update--1-june-2024",
-          "publishedOn": "2024-06-01T19:57:35.000Z",
-          "wordCount": 3609,
-          "title": "Seventy-seventh World Health Assembly – Daily update: 1 June 2024",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/world-health-assembly-committee-a.tmb-1200v.jpg?sfvrsn=d8f2a319_1"
         }
       ]
     },
@@ -2771,6 +2761,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=178257",
+          "author": "Jordan Sollof",
+          "description": "University Hospitals Plymouth has confirmed that its virtual ward beds are now over 80% occupied, the best occupancy rate in Devon, with plans to expand.",
+          "link": "https://www.digitalhealth.net/2024/07/plymouth-virtual-ward-occupancy-rate-over-80-with-plans-to-expand/",
+          "publishedOn": "2024-07-01T07:30:46.000Z",
+          "wordCount": 1840,
+          "title": "Plymouth virtual ward occupancy rate over 80% with plans to expand",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2022/08/Virtual-ward.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=177707",
           "author": "Jordan Sollof",
