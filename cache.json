@@ -123,6 +123,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=150340",
+          "author": "Caroline Price",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: CPD: Key questions on the use of FIT in primary care appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-areas/cancer/cpd-key-questions-on-the-use-of-fit-in-primary-care/",
+          "publishedOn": "2024-07-01T11:08:46.000Z",
+          "wordCount": 2899,
+          "title": "Protected: CPD: Key questions on the use of FIT in primary care",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=150347",
           "author": "Maya Dhillon",
           "description": "Over three quarters of GPs have said that workload is compromising patients’ safety, a poll from the Royal College of GPs has revealed.  In the ‘GP Voice Survey’ of over 2000 GPs, 76% said that ‘patient safety was being compromised by their excessive workloads,’ and that six in ten GPs do not feel they have\nThe post Three quarters of GPs say that workload is a threat to patient safety, finds RCGP poll appeared first on Pulse Today.",
@@ -1309,6 +1319,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1879152",
+          "author": null,
+          "description": "The BMA has advised practices to switch off the GP Connect functionality that allows third parties to add codes to patient records immediately.",
+          "link": "https://www.gponline.com/bma-advises-practices-turn-off-gp-connect-update-functionality-immediately/article/1879152",
+          "publishedOn": "2024-07-01T11:00:17.000Z",
+          "wordCount": 870,
+          "title": "BMA advises practices to turn off GP Connect update functionality immediately",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-934679414_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1879138",
+          "author": null,
+          "description": "Patients are bearing the ‘brunt’ of the general practice crisis with more than three-quarters of GPs saying that patient safety is being compromised by excessive GP workloads, the RCGP has warned.",
+          "link": "https://www.gponline.com/gp-workload-threat-patient-safety-warns-rcgp/article/1879138",
+          "publishedOn": "2024-07-01T10:03:21.000Z",
+          "wordCount": 894,
+          "title": "GP workload is a threat to patient safety, warns RCGP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP2023-2_2.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1879116",
           "author": null,
