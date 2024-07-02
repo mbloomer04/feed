@@ -1380,6 +1380,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1878907",
+          "author": null,
+          "description": "Spiralling workload in general practice has left GPs feeling like they are 'short changing' patients, leading to moral injury that has a detrimental impact on their wellbeing, a former BMA chair has warned.",
+          "link": "https://www.gponline.com/workload-crisis-leaves-gps-feeling-short-changing-patients-says-former-bma-chair/article/1878907",
+          "publishedOn": "2024-07-02T09:24:00.000Z",
+          "wordCount": 905,
+          "title": "Workload crisis leaves GPs feeling they are 'short changing' patients, says former BMA chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/ChaandNagpaul_JHLancy_25.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1878917",
+          "author": null,
+          "description": "General practice has featured prominently in campaigning from political parties in the run-up to the 4 July general election. GPonline looks at what the data show about how general practice has changed since the last election.",
+          "link": "https://www.gponline.com/general-practice-changed-last-general-election/article/1878917",
+          "publishedOn": "2024-07-02T09:00:00.000Z",
+          "wordCount": 898,
+          "title": "How has general practice changed since the last general election?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_54.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1879152",
           "author": null,
           "description": "The BMA has advised practices to switch off the GP Connect functionality that allows third parties to add codes to patient records immediately.",
@@ -2971,6 +2991,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=178173",
+          "author": "Cora Lydon",
+          "description": "This edition of Digital Health's Coffee Time Briefing includes positive news on whole genome sequencing and a warning about CGM being used by non-diabetics.",
+          "link": "https://www.digitalhealth.net/2024/07/digital-health-coffee-time-briefing-150/",
+          "publishedOn": "2024-07-02T10:00:14.000Z",
+          "wordCount": 2069,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=178363",
+          "author": "Jordan Sollof",
+          "description": "Wandsworth Healthcare and DNV Imatis have partnered to help NHS trusts tackle low digital maturity and improve operational efficiency.",
+          "link": "https://www.digitalhealth.net/2024/07/wandsworth-healthcare-dnv-imatis-partner-to-improve-patient-journey/",
+          "publishedOn": "2024-07-02T09:59:59.000Z",
+          "wordCount": 1773,
+          "title": "Wandsworth Healthcare, DNV Imatis partner to improve patient journey",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/DNV-Imatis.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=178279",
           "author": "Cora Lydon",

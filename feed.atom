@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-02T09:10:35.566Z</updated>
+    <updated>2024-07-02T10:11:39.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=178173</id>
+        <link href="https://www.digitalhealth.net/2024/07/digital-health-coffee-time-briefing-150/"/>
+        <updated>2024-07-02T10:00:14.000Z</updated>
+        <summary type="html"><![CDATA[This edition of Digital Health's Coffee Time Briefing includes positive news on whole genome sequencing and a warning about CGM being used by non-diabetics.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wandsworth Healthcare, DNV Imatis partner to improve patient journey]]></title>
+        <id>https://www.digitalhealth.net/?p=178363</id>
+        <link href="https://www.digitalhealth.net/2024/07/wandsworth-healthcare-dnv-imatis-partner-to-improve-patient-journey/"/>
+        <updated>2024-07-02T09:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Wandsworth Healthcare and DNV Imatis have partnered to help NHS trusts tackle low digital maturity and improve operational efficiency.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workload crisis leaves GPs feeling they are 'short changing' patients, says former BMA chair]]></title>
+        <id>https://www.gponline.com/article/1878907</id>
+        <link href="https://www.gponline.com/workload-crisis-leaves-gps-feeling-short-changing-patients-says-former-bma-chair/article/1878907"/>
+        <updated>2024-07-02T09:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Spiralling workload in general practice has left GPs feeling like they are 'short changing' patients, leading to moral injury that has a detrimental impact on their wellbeing, a former BMA chair has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How has general practice changed since the last general election?]]></title>
+        <id>https://www.gponline.com/article/1878917</id>
+        <link href="https://www.gponline.com/general-practice-changed-last-general-election/article/1878917"/>
+        <updated>2024-07-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[General practice has featured prominently in campaigning from political parties in the run-up to the 4 July general election. GPonline looks at what the data show about how general practice has changed since the last election.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK to switch to non-polio containing pertussis vaccine for pregnant women]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150302</id>
