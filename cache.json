@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b3d2a495-9d03-4b42-bce9-94c2b5e70a03",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CLI in NX-OS software contains a command injection vulnerability CVE-2024-20399 that is being exploited in the wild\n CLI in NX-OS software contains a command injection vulnerability CVE-2024-20399 that is being exploited in the wild\n Updated: 02 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4519",
+          "publishedOn": "2024-07-02T13:11:00.000Z",
+          "wordCount": 754,
+          "title": "CC-4519 - Cisco Releases Advisory for Exploited Vulnerability in NX-OS software",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "466ea3f4-7cfd-48bb-be59-4a7a2324c428",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Authentication bypass vulnerability CVE-2024-2973 affects Session Smart Router, Conductor, and WAN Assurance Router\n Authentication bypass vulnerability CVE-2024-2973 affects Session Smart Router, Conductor, and WAN Assurance Router\n Updated: 01 Jul 2024",
@@ -3031,6 +3041,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=178427",
+          "author": "Jordan Sollof",
+          "description": "NHS England and NICE have invited comments on proposals for MedTech developers to fast-track products for use in the NHS.",
+          "link": "https://www.digitalhealth.net/2024/07/nhse-and-nice-invite-comments-on-pathway-to-fast-track-medtech/",
+          "publishedOn": "2024-07-02T12:29:33.000Z",
+          "wordCount": 1796,
+          "title": "NHSE and NICE invite comments on pathway to fast-track MedTech",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2018/12/Medical-Devices-Special-Report.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=178173",
           "author": "Cora Lydon",
