@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-02T11:08:58.283Z</updated>
+    <updated>2024-07-02T12:17:40.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 facts about the NHS workforce]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/07/10-facts-about-the-nhs-workforce.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/07/10-facts-about-the-nhs-workforce.html"/>
+        <updated>2024-07-02T11:48:09.000Z</updated>
+        <summary type="html"><![CDATA[NHS Providers - The NHS is the single largest employer in the UK. Although the size of its workforce is rising, the level of growth is not sufficient to meet the increasing demand for healthcare and complexity or level of patient need. Increases in staff numbers are not consistent across roles, and the service faces high numbers of vacancies overall....]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priorities for an AI in health care strategy]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/07/priorities-for-an-ai-in-health-care-strategy.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/07/priorities-for-an-ai-in-health-care-strategy.html"/>
+        <updated>2024-07-02T11:16:11.000Z</updated>
+        <summary type="html"><![CDATA[The Health Foundation - This long read argues that a dedicated strategy for artifical intelligence (AI) in health care is needed to coordinate current fragmented efforts in the NHS in England. It sets out six priorities this strategy should address and some of the steps to do so. Long read]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPC warns NHS England may use call data to ‘performance manage’ practices]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150401</id>
@@ -87,6 +107,19 @@ The post Case of the month answers: Did you get what was the cause of this patie
         <summary type="html"><![CDATA[Heriot-Watt University is focusing on accelerating health tech research and development, through a partnership with ABHI.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO releases first-ever clinical treatment guideline for tobacco cessation in adults]]></title>
+        <id>urn:uuid:e8ccc53b-5d12-4328-9a34-5c68f5a22b17</id>
+        <link href="https://www.who.int/news/item/02-07-2024-who-releases-first-ever-clinical-treatment-guideline-for-tobacco-cessation-in-adults"/>
+        <updated>2024-07-01T20:42:45.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) recommends a comprehensive set of tobacco cessation interventions, including behavioural support delivered by health-care providers, digital cessation interventions and pharmacological treatments in a first guideline on tobacco cessation.
+The guideline focuses on helping the more than 750 million tobacco users who want to quit all forms of tobacco. The recommendations are relevant for all adults seeking to quit various tobacco products, including cigarettes, waterpipes, smokeless tobacco products, cigars, roll-your-own tobacco, and heated tobacco products (HTPs).
+
+“This guideline marks a crucial milestone in our global battle against these dangerous products," said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. "It empowers countries with the essen…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
