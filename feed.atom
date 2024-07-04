@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-04T09:10:55.203Z</updated>
+    <updated>2024-07-04T10:10:07.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=178515</id>
+        <link href="https://www.digitalhealth.net/2024/07/digital-health-coffee-time-briefing-151/"/>
+        <updated>2024-07-04T10:00:32.000Z</updated>
+        <summary type="html"><![CDATA[This edition of Coffee Time Briefing includes an award for Addenbrooke’s Hospital’s virtual ward service and a new AI food diary app.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Collective energy’ needed to tackle discrimination in digital health]]></title>
         <id>https://www.digitalhealth.net/?p=178561</id>
