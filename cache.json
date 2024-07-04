@@ -2421,6 +2421,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2024-06-28T15:54:52.000Z",
+          "wordCount": 7649,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/guidance/receiving-the-new-medical-certificate-of-cause-of-death-mccd",
           "author": null,
           "description": "How to get the new MCCD if your organisation uses the current MCCD.",
