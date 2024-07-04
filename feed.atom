@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-04T11:10:37.745Z</updated>
+    <updated>2024-07-04T12:17:50.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BMA advises GPs not to share cloud-based telephony call data with NHSE]]></title>
+        <id>https://www.digitalhealth.net/?p=178599</id>
+        <link href="https://www.digitalhealth.net/2024/07/bma-advises-gps-not-to-share-cloud-based-telephony-call-data-with-nhse/"/>
+        <updated>2024-07-04T11:39:17.000Z</updated>
+        <summary type="html"><![CDATA[The BMA's GP Committee England has warned that NHS England could use cloud-based telephony data to ‘performance manage’ GP practices.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coroner calls for online drug prescribers to communicate with patients’ GP]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150466</id>
