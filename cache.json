@@ -2191,18 +2191,7 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
-          "publishedOn": "2024-06-06T09:52:43.000Z",
-          "wordCount": 1448,
-          "title": "We had to follow the data, not our users",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/data-user-research-blog-lead-image_1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Transformation Blog Feed",
@@ -2258,16 +2247,6 @@
           "wordCount": 1503,
           "title": "Clinical trials get faster",
           "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/digitrials-feasibility-service-blog-lead-image.jpg"
-        },
-        {
-          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
-          "publishedOn": "2024-06-06T09:59:00.000Z",
-          "wordCount": 1755,
-          "title": "A new way to find patients",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/antivirals-blog.jpg"
         }
       ]
     },
@@ -2275,18 +2254,7 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
-          "publishedOn": "2024-06-06T09:52:43.000Z",
-          "wordCount": 1448,
-          "title": "We had to follow the data, not our users",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/data-user-research-blog-lead-image_1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NHS England",
@@ -3790,16 +3758,6 @@
           "wordCount": 1905,
           "title": "NHS England scraps £300m digital pathways framework for GP tech",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2020/07/GP-technology.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=176577",
-          "author": "Jordan Sollof",
-          "description": "Healthcare IT supplier Clanwilliam is testing its pharmacy system technology in Wales to support the delivery of an Electronic Prescription Service (EPS).",
-          "link": "https://www.digitalhealth.net/2024/06/clanwilliam-tests-electronic-prescription-technology-in-wales/",
-          "publishedOn": "2024-06-06T10:00:47.000Z",
-          "wordCount": 1846,
-          "title": "Clanwilliam tests electronic prescription technology in Wales",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2017/06/e-prescribing.jpg"
         }
       ]
     }
