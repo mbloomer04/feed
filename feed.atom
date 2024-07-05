@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-05T02:28:35.046Z</updated>
+    <updated>2024-07-05T03:11:04.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update on cyber incident: clinical impact in South East London: Thursday 4 July]]></title>
+        <id>https://www.england.nhs.uk/?p=248629</id>
+        <link href="https://www.england.nhs.uk/2024/07/update-on-cyber-incident-clinical-impact-in-south-east-london-thursday-4-july/"/>
+        <updated>2024-07-04T17:18:31.000Z</updated>
+        <summary type="html"><![CDATA[NHS England London has released its latest weekly data update on the clinical impact of the ransomware cyber attack against Synnovis on Monday 3 June. Over four weeks on from the cyber attack, NHS organisations across London continue to work in partnership to ensure people who require critical and urgent care receive it. NHS England […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overdiagnosis: Depression]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150498</id>
