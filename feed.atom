@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-05T12:17:15.111Z</updated>
+    <updated>2024-07-05T13:11:28.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dublin-based healthcare clinic to go live with Aptvision RIS]]></title>
+        <id>https://www.digitalhealth.net/?p=178509</id>
+        <link href="https://www.digitalhealth.net/2024/07/dublin-based-healthcare-clinic-to-go-live-with-aptvision-ris/"/>
+        <updated>2024-07-05T12:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Dublin-based clinic Sana Health Diagnostic is implementing Aptvision's radiology information system to advance the accessibility of its medical services.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA warns Welsh government of potential GP contract dispute]]></title>
         <id>https://www.gponline.com/article/1879762</id>
