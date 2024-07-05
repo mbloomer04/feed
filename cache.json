@@ -1391,26 +1391,6 @@
           "wordCount": 3790,
           "title": "GPs are ‘not accountable’ for PA errors, says GMC",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/Laptop-case-‘damaged-GMCs-work-to-build-trust-with-BAME-doctors-says-chief-exec.jpeg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=149462",
-          "author": "Sofia Lind",
-          "description": "More than three times as many serious shortage protocols (SSPs) were issued in the two-year period between 2022 and 2024, compared with 2020 to 2022. And in a three-day period last month, the same number of SSPs were issued as those issued during the whole of 2020, according to analysis by the National Pharmacy Association\nThe post Medicine shortage warnings triple in last two years appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workload/medicine-shortage-warnings-triple-in-last-two-years/",
-          "publishedOn": "2024-06-06T10:46:39.000Z",
-          "wordCount": 3367,
-          "title": "Medicine shortage warnings triple in last two years",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/GPs-cleared-of-hiding-sleep-pill-overprescribing.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=149453",
-          "author": "Anna Colivicchi",
-          "description": "LMCs across the country have come together to urge politicians to ‘set aside party politics’ in a bid to resolve issues in general practice. Organised by the Rebuild General Practice campaign group, a letter signed by 80% of the UK’s LMCs has been sent to the leaders of Britain’s main political parties. It is asking\nThe post ‘Set aside party politics’ to solve GP ‘crisis’, LMCs urge politicians appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/politics/set-aside-party-politics-to-solve-gp-crisis-lmcs-urge-politicians/",
-          "publishedOn": "2024-06-06T10:17:54.000Z",
-          "wordCount": 3713,
-          "title": "‘Set aside party politics’ to solve GP ‘crisis’, LMCs urge politicians",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Letter-1200x800-1.jpg"
         }
       ]
     },
@@ -2168,16 +2148,6 @@
           "wordCount": 670,
           "title": "The GPs standing to be MPs in the general election",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2151210808.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1875791",
-          "author": null,
-          "description": "Doctors, physician associates and anaesthesia associates will be regulated as 'three distinct professions' when the GMC's remit widens later this year, the regulator has said.",
-          "link": "https://www.gponline.com/gmc-will-regulate-doctors-physician-associates-as-distinct-professions/article/1875791",
-          "publishedOn": "2024-06-06T10:20:12.000Z",
-          "wordCount": 872,
-          "title": "GMC will regulate doctors and physician associates 'as distinct professions'",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMCCharlieMassey_4.jpg"
         }
       ]
     },
@@ -2214,18 +2184,7 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
-          "publishedOn": "2024-06-06T10:27:43.000Z",
-          "wordCount": 1402,
-          "title": "How we’re modernising electronic prescribing",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/tech-talk-blog/andy-harrison-blog-collage.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Inside Story Feed",
@@ -2239,14 +2198,14 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
-          "id": "be1ef9a4-2036-4c33-9d84-0c95b54742bb",
+          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "For International Clinical Trials Day, James Gray, NHS DigiTrials Service Delivery Manager, talks about the new Feasibility Self-Service tool that drastically cuts the time it takes researchers to find out if there are enough potential participants for their clinical trial.\n\r\n\r\n“In the time it takes to make a coffee.”\n\r\n\r\nThat was the challenge we set ourselves early in the creation of the NHS DigiTrials Feasibility Self-Service tool. And it was a big one: it meant giving users the ability to securely interrogate national datasets containing millions and millions of records in less than 5 minutes.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/clinical-trials-get-faster",
-          "publishedOn": "2024-06-06T10:59:23.000Z",
-          "wordCount": 1503,
-          "title": "Clinical trials get faster",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/digitrials-feasibility-service-blog-lead-image.jpg"
+          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
+          "publishedOn": "2024-07-04T11:05:10.000Z",
+          "wordCount": 1755,
+          "title": "A new way to find patients",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/antivirals-blog.jpg"
         }
       ]
     },
