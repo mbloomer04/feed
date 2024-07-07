@@ -124,16 +124,6 @@
           "wordCount": 658,
           "title": "CC-4508 - Critical Vulnerability in PHP",
           "imageUrl": "https://digital.nhs.uk/webfiles/1718105197131/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "de5ed9a8-0e16-433c-a6be-41f3c5991460",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Security update addresses a vulnerability that could lead to unauthorised access of confidential files\n Updated: 07 Jun 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4507",
-          "publishedOn": "2024-06-07T13:51:00.000Z",
-          "wordCount": 510,
-          "title": "CC-4507 - Directory Traversal Vulnerability in SolarWinds Serv-U",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1717500257396/images/nhs-england-logo-social.jpg"
         }
       ]
     },
