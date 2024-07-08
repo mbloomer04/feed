@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "43ed7b09-5adf-4119-a06b-c57344bde238",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution\n Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution\n Updated: 08 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4520",
+          "publishedOn": "2024-07-08T14:59:00.000Z",
+          "wordCount": 965,
+          "title": "CC-4520 - Apache Releases Multiple Security Updates for HTTP Server",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "b3d2a495-9d03-4b42-bce9-94c2b5e70a03",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CLI in NX-OS software contains a command injection vulnerability CVE-2024-20399 that is being exploited in the wild\n CLI in NX-OS software contains a command injection vulnerability CVE-2024-20399 that is being exploited in the wild\n Updated: 02 Jul 2024",
