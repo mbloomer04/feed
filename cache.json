@@ -1340,6 +1340,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1880022",
+          "author": null,
+          "description": "The BMA has called on the new government to increase the proportion of NHS funding going to general practice by 1% year on year until it reaches 15%, redistribute PCN money to the core contract and develop a 2025 'family doctor charter'.",
+          "link": "https://www.gponline.com/bma-calls-government-increase-gp-funding-agree-new-family-doctor-charter/article/1880022",
+          "publishedOn": "2024-07-08T18:42:00.000Z",
+          "wordCount": 749,
+          "title": "BMA calls on government to increase GP funding and agree new 'family doctor charter'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_10.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1879883",
           "author": null,
           "description": "A former staff member of a GP practice near Buxton in Derbyshire has pleaded guilty to fraud after stealing more than £20,000 from the practice.",
@@ -2377,6 +2387,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/new-health-secretary-joined-by-nhs-ceo-on-london-gp-surgery-visit",
+          "author": null,
+          "description": "The Secretary of State and NHS Chief Executive Amanda Pritchard visited the Abbey Medical Centre in St John’s Wood, London.",
+          "link": "https://www.gov.uk/government/news/new-health-secretary-joined-by-nhs-ceo-on-london-gp-surgery-visit",
+          "publishedOn": "2024-07-08T19:59:32.000Z",
+          "wordCount": 1700,
+          "title": "Press release: New health secretary joined by NHS CEO on London GP surgery visit",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2024",
           "author": null,
