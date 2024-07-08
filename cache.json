@@ -2338,6 +2338,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2024",
+          "publishedOn": "2024-07-08T10:58:10.000Z",
+          "wordCount": 829,
+          "title": "Transparency data: DHSC: spending over £500, April 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-march-2024",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
@@ -2928,6 +2938,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=196751",
+          "author": "Cora Lydon",
+          "description": "Dartford and Gravesham NHS Trust has carried out the first robotic-assisted hysterectomy in Kent and Medway.",
+          "link": "https://www.digitalhealth.net/2024/07/dartford-and-gravesham-performs-its-first-robot-assisted-hysterectomy/",
+          "publishedOn": "2024-07-08T12:30:58.000Z",
+          "wordCount": 3570,
+          "title": "Dartford and Gravesham performs its first robot-assisted hysterectomy",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Dartford-and-Gravesham-daVinci-RAS2.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=178723",
           "author": "Jordan Sollof",
