@@ -1280,6 +1280,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1879883",
+          "author": null,
+          "description": "A former staff member of a GP practice near Buxton in Derbyshire has pleaded guilty to fraud after stealing more than £20,000 from the practice.",
+          "link": "https://www.gponline.com/former-gp-surgery-employee-pleads-guilty-22000-practice-fraud/article/1879883",
+          "publishedOn": "2024-07-08T09:24:08.000Z",
+          "wordCount": 689,
+          "title": "Former GP surgery employee pleads guilty to £22,000 practice fraud",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1169973756.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1879882",
+          "author": null,
+          "description": "Prime minister Sir Keir Starmer and health and social care secretary Wes Streeting have both said the NHS is ‘broken’, as the government announced fresh talks on junior doctor pay will begin this week.",
+          "link": "https://www.gponline.com/nhs-broken-says-government-announces-fresh-talks-junior-doctor-pay/article/1879882",
+          "publishedOn": "2024-07-08T09:07:55.000Z",
+          "wordCount": 916,
+          "title": "NHS is ‘broken’ says government as it announces fresh talks on junior doctor pay",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2160177166.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1879772",
           "author": null,
           "description": "Wes Streeting has been appointed health and social care secretary in Sir Keir Starmer’s new government. GPonline looks at what we know about the new secretary of state.",
@@ -2385,6 +2405,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/building-new-health-system-action-to-reduce-obesity-audit-findings-of-integrated-care-board-forward-.html",
+          "author": null,
+          "description": "Future Health - This report, sponsored by Johnson and Johnson, reveals that obesity is not a priority for 37 of the 42 NHS integrated care boards across England. Only five included obesity or the importance of the population maintaining a healthy weight as part of their top priorities. This is despite obesity rates tripling since 1975 and with two thirds...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/building-new-health-system-action-to-reduce-obesity-audit-findings-of-integrated-care-board-forward-.html",
+          "publishedOn": "2024-07-08T09:57:08.000Z",
+          "wordCount": null,
+          "title": "Building new health system action to reduce obesity: audit findings of integrated care board forward plans",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/this-campaign-will-leave-an-uncertain-dawn-for-the-nhs.html",
           "author": null,
           "description": "Nuffield Trust - The authors of this long read review what has (and hasn’t) been said and promised by the main political parties in England on the key issues facing health and care leading up to the general election. The briefing emphasises how important it will be for the new government that people’s experiences of these services are improved. Nuffield...",
@@ -2848,6 +2878,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=178723",
+          "author": "Jordan Sollof",
+          "description": "The University of Cambridge’s Maxwell Centre and SAS have partnered to accelerate healthcare innovation through better access to advanced analytics.",
+          "link": "https://www.digitalhealth.net/2024/07/university-of-cambridge-to-drive-health-innovation-through-ai-partnership/",
+          "publishedOn": "2024-07-08T10:00:12.000Z",
+          "wordCount": 3621,
+          "title": "University of Cambridge to drive health innovation through AI partnership",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2022/02/AI-Healthcare-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=178729",
           "author": "Tammy Lovell",
