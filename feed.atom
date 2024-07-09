@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-09T12:19:04.753Z</updated>
+    <updated>2024-07-09T13:13:12.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[£1m project explores how 5G can transform North East healthcare]]></title>
+        <id>https://www.digitalhealth.net/?p=196931</id>
+        <link href="https://www.digitalhealth.net/2024/07/1m-project-explores-how-5g-can-transform-north-east-healthcare/"/>
+        <updated>2024-07-09T12:34:16.000Z</updated>
+        <summary type="html"><![CDATA[A £1m project will explore how 5G technologies can improve and speed up the delivery of healthcare in the North East.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Unplugged: How digital maturity can help close the NHS’ 10-year divide]]></title>
         <id>https://www.digitalhealth.net/?p=178409</id>
