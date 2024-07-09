@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-09T07:09:40.974Z</updated>
+    <updated>2024-07-09T08:11:54.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Greater Manchester launches digital care plan and app]]></title>
+        <id>https://www.digitalhealth.net/?p=196791</id>
+        <link href="https://www.digitalhealth.net/2024/07/nhs-greater-manchester-launches-digital-care-plan-and-app/"/>
+        <updated>2024-07-09T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Greater Manchester is rolling out a patient app alongside digital care plans, as part of the GM Care Record.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: New health secretary joined by NHS CEO on London GP surgery visit]]></title>
         <id>https://www.gov.uk/government/news/new-health-secretary-joined-by-nhs-ceo-on-london-gp-surgery-visit</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[The Secretary of State and NHS Chief Executive Amanda Pritchard visited the Abbey Medical Centre in St John’s Wood, London.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA calls for GP funding to rise to 15% of NHS budget and new 'family doctor charter']]></title>
+        <id>https://www.gponline.com/article/1880022</id>
+        <link href="https://www.gponline.com/bma-calls-gp-funding-rise-15-nhs-budget-new-family-doctor-charter/article/1880022"/>
+        <updated>2024-07-08T18:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has called on the new government to increase the proportion of NHS funding going to general practice by 1% year on year until it reaches 15%, redistribute PCN money to the core contract and develop a 2025 'family doctor charter'.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
