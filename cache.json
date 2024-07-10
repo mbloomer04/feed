@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "11043b59-8336-4414-aedb-86aca971151e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities\n Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities\n Updated: 10 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4523",
+          "publishedOn": "2024-07-10T13:38:00.000Z",
+          "wordCount": 888,
+          "title": "CC-4523 - Microsoft Releases July 2024 Security Updates",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
+          "id": "d90d5190-12a0-4b3e-a97a-c183d1ceee8c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2024-26006 is a cross-site scripting vulnerability in SSL-VPN web UI\n CVE-2024-26006 is a cross-site scripting vulnerability in SSL-VPN web UI\n Updated: 10 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4522",
+          "publishedOn": "2024-07-10T13:33:00.000Z",
+          "wordCount": 599,
+          "title": "CC-4522 - Fortinet Releases Security Update for FortiOS and FortiProxy XSS Vulnerability",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "1f2b00c1-3e25-4c50-9bca-41a7ca515abb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Updated: 10 Jul 2024",
@@ -2624,6 +2644,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/rethinking-clinical-trial-country-prioritization-enabling-agility-through-global-diversification.html",
+          "author": null,
+          "description": "IQVIA Institute for Human Data Science - This report sets out to characterize the need for clinical trial global diversification by assessing trends in enrollment timelines, trial characteristics, and country utilization over the past five years. It examines the recent shifts and consolidation in regional and country clinical trial allocation, including analysis of the role of single country trials. Report...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/rethinking-clinical-trial-country-prioritization-enabling-agility-through-global-diversification.html",
+          "publishedOn": "2024-07-10T13:16:54.000Z",
+          "wordCount": null,
+          "title": "Rethinking clinical trial country prioritization: enabling agility through global diversification",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/keeping-your-integrated-care-system-safer-from-cyber-attacks.html",
           "author": null,
