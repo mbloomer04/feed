@@ -2225,7 +2225,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/diabetic-eye-screening-optical-coherence-tomography-in-surveillance",
+          "author": null,
+          "description": "Guidance for diabetic eye screening providers on use of optical coherence tomography (OCT) in surveillance clinics.",
+          "link": "https://www.gov.uk/government/publications/diabetic-eye-screening-optical-coherence-tomography-in-surveillance",
+          "publishedOn": "2024-07-10T14:26:29.000Z",
+          "wordCount": 950,
+          "title": "Guidance: Diabetic eye screening: optical coherence tomography in surveillance",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -3224,9 +3235,9 @@
       ]
     },
     {
-      "title": "News Archives | Digital Health",
+      "title": "News – Digital Health",
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
-      "siteUrl": "https://www.digitalhealth.net/news/",
+      "siteUrl": "https://www.digitalhealth.net",
       "articles": [
         {
           "id": "https://www.digitalhealth.net/?p=196973",
