@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1f2b00c1-3e25-4c50-9bca-41a7ca515abb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Updated: 10 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4521",
+          "publishedOn": "2024-07-10T12:43:00.000Z",
+          "wordCount": 611,
+          "title": "CC-4521 - Citrix Releases Security Critical Updates for NetScaler Console, NetScaler Agent, and NetScaler SVM",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "43ed7b09-5adf-4119-a06b-c57344bde238",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution\n Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution\n Updated: 08 Jul 2024",
@@ -3188,6 +3198,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=196973",
+          "author": "Jordan Sollof",
+          "description": "West Northamptonshire Council is implementing its System C's case management app for adult social care in the region.",
+          "link": "https://www.digitalhealth.net/2024/07/west-northamptonshire-to-launch-cloud-based-social-care-system/",
+          "publishedOn": "2024-07-10T12:30:06.000Z",
+          "wordCount": 3733,
+          "title": "West Northamptonshire to launch cloud-based social care system",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/WNC-Council-offices_0.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=196805",
           "author": "Jordan Sollof",
