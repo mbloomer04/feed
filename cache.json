@@ -153,6 +153,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=150719",
+          "author": "Eliza Parr",
+          "description": "Two royal colleges have written to the health secretary urging a review of GP and physician associate (PA) workforce projections. Both the RCGP and the Royal College of Physicians (RCP) have asked Wes Streeting to reconsider elements of NHS England’s long-term workforce plan, which was published last year.  The plan aims to establish a PA\nThe post Royal colleges urge Government to review GP and PA workforce goals appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/royal-colleges-urge-government-to-review-gp-and-pa-workforce-goals/",
+          "publishedOn": "2024-07-11T09:15:51.000Z",
+          "wordCount": 2714,
+          "title": "Royal colleges urge Government to review GP and PA workforce goals",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/PA-physicianassociate-GP-patientnotes-records.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=150711",
           "author": "Maya Dhillon",
           "description": "Editor Jaimie Kaffash on the dangers of opening up general practice to any doctors The biggest issue in general practice this year has been, without a shadow of a doubt, the role of the physician associate. As I said before, I’ve rarely seen such debate and anger on a single issue. But – to poorly\nThe post We are in danger of losing the sacrosanctity of the GP role appeared first on Pulse Today.",
@@ -1359,6 +1369,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1880395",
+          "author": null,
+          "description": "Health officials are urging pregnant women to come forward for the pertussis vaccine as latest figures show that cases continue to rise.",
+          "link": "https://www.gponline.com/pregnant-women-urged-pertussis-vaccine-cases-continue-rise/article/1880395",
+          "publishedOn": "2024-07-11T09:23:54.000Z",
+          "wordCount": 700,
+          "title": "Pregnant women urged to have pertussis vaccine as cases continue to rise",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1316444497_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1879706",
+          "author": null,
+          "description": "Almost three-quarters of GPs in England say they know of doctors in their area struggling to find work, a GPonline poll has found.",
+          "link": "https://www.gponline.com/three-quarters-gps-know-doctors-area-struggling-find-work/article/1879706",
+          "publishedOn": "2024-07-11T08:14:00.000Z",
+          "wordCount": 707,
+          "title": "Three-quarters of GPs know of doctors in their area struggling to find work",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1979239_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1880250",
           "author": null,
@@ -3165,7 +3195,7 @@
       ]
     },
     {
-      "title": "News – Digital Health",
+      "title": "Comments on:",
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
