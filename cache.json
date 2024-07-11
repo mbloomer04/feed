@@ -153,6 +153,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=150749",
+          "author": "Eliza Parr",
+          "description": "The health secretary has announced an ‘independent investigation’ into the ‘state of the NHS’, to be led by Professor Lord Ara Darzi.  The findings of this ‘rapid’ investigation, which will be published in September, will feed into a new 10-year plan ‘to radically reform’ the NHS, for which patients and staff will be consulted ‘soon’.\nThe post Lord Darzi tasked to lead investigation into ‘state of the NHS’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/lord-darzi-tasked-to-lead-investigation-into-state-of-the-nhs/",
+          "publishedOn": "2024-07-11T10:51:27.000Z",
+          "wordCount": 2663,
+          "title": "Lord Darzi tasked to lead investigation into ‘state of the NHS’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=150730",
+          "author": "Anna Colivicchi",
+          "description": "Three quarters (73.9%) of patients found their ‘overall experience’ of their GP practice ‘good’, the latest GP Patient Survey has found. The annual survey, run by Ipsos on behalf of NHS England, also saw 89.9% of patients saying that ‘their needs were met at their last appointment’. And 92.3% said they ‘had confidence and trust\nThe post Three quarters of patients have ‘good’ GP experience, finds NHS Patient Survey appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/consultations/three-quarters-of-patients-have-good-gp-experience-finds-nhs-patient-survey/",
+          "publishedOn": "2024-07-11T10:18:07.000Z",
+          "wordCount": 3105,
+          "title": "Three quarters of patients have ‘good’ GP experience, finds NHS Patient Survey",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/‘Good-GP-experience-takes-10-point-dive-in-patient-survey.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=150719",
           "author": "Eliza Parr",
           "description": "Two royal colleges have written to the health secretary urging a review of GP and physician associate (PA) workforce projections. Both the RCGP and the Royal College of Physicians (RCP) have asked Wes Streeting to reconsider elements of NHS England’s long-term workforce plan, which was published last year.  The plan aims to establish a PA\nThe post Royal colleges urge Government to review GP and PA workforce goals appeared first on Pulse Today.",
@@ -2439,6 +2459,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/independent-investigation-ordered-into-state-of-nhs",
+          "author": null,
+          "description": "Professor Lord Darzi appointed to establish the state of the nation's health service.",
+          "link": "https://www.gov.uk/government/news/independent-investigation-ordered-into-state-of-nhs",
+          "publishedOn": "2024-07-11T10:28:48.000Z",
+          "wordCount": 1880,
+          "title": "Press release: Independent investigation ordered into state of NHS",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology",
           "author": null,
           "description": "How the Department of Health and Social Care (DHSC) puts together the data in its monthly reports.",
@@ -3195,10 +3225,30 @@
       ]
     },
     {
-      "title": "Comments on:",
+      "title": "News – Digital Health",
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=196847",
+          "author": "Cora Lydon",
+          "description": "This edition of Coffee Time Briefing includes a call for chartered status for tech professionals and text message initiative for NHS Scotland.",
+          "link": "https://www.digitalhealth.net/2024/07/digital-health-coffee-time-briefing-152/",
+          "publishedOn": "2024-07-11T10:30:48.000Z",
+          "wordCount": 3745,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/01/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=197049",
+          "author": "Jordan Sollof",
+          "description": "Children’s Health Ireland is working with InterSystems to implement an interoperability platform at the new digital children’s hospital in Dublin.",
+          "link": "https://www.digitalhealth.net/2024/07/childrens-health-ireland-to-roll-out-interoperability-platform/",
+          "publishedOn": "2024-07-11T10:00:19.000Z",
+          "wordCount": 3691,
+          "title": "Children’s Health Ireland to implement interoperability platform",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/Childrens-Health-Ireland.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=197081",
           "author": "Tammy Lovell",
