@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-11T12:18:03.712Z</updated>
+    <updated>2024-07-11T13:13:24.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS North West London ICB cuts virtual ward capacity]]></title>
+        <id>https://www.digitalhealth.net/?p=178743</id>
+        <link href="https://www.digitalhealth.net/2024/07/nhs-north-west-london-icb-cuts-virtual-ward-capacity/"/>
+        <updated>2024-07-11T12:30:17.000Z</updated>
+        <summary type="html"><![CDATA[The end of ring-fenced funding for virtual wards has contributed to the fall in bed virtual ward bed capacity at NHS North West London ICB.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP patient survey shows slight rise in satisfaction during past year]]></title>
         <id>https://www.gponline.com/article/1880418</id>
