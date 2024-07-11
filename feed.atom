@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-11T16:11:45.810Z</updated>
+    <updated>2024-07-11T17:09:09.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Independent investigation of NHS performance: terms of reference]]></title>
+        <id>https://www.gov.uk/government/publications/independent-investigation-of-nhs-performance-terms-of-reference</id>
+        <link href="https://www.gov.uk/government/publications/independent-investigation-of-nhs-performance-terms-of-reference"/>
+        <updated>2024-07-11T16:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Terms of reference for the independent investigation of the NHS across England, commissioned by the Secretary of State for Health and Social Care.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analysis: GP Patient Survey lays bare stark regional inequalities]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150762</id>
