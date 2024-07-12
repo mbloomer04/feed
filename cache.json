@@ -1350,6 +1350,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1880459",
+          "author": null,
+          "description": "Talking General Practice speaks to Tim Gardner, assistant director of policy at the Health Foundation think tank, about what a new Labour government could mean for general practice and the rest of the NHS.",
+          "link": "https://www.gponline.com/podcast-does-new-labour-government-mean-general-practice/article/1880459",
+          "publishedOn": "2024-07-12T07:20:00.000Z",
+          "wordCount": 1040,
+          "title": "Podcast: What does a new Labour government mean for general practice?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_968.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1880418",
+          "author": null,
+          "description": "Overall patient satisfaction with general practice has risen slightly over the past year, results from the 2024 GP patient survey show.",
+          "link": "https://www.gponline.com/gp-patient-survey-shows-rise-satisfaction-during-past-year/article/1880418",
+          "publishedOn": "2024-07-11T11:06:51.000Z",
+          "wordCount": 687,
+          "title": "GP patient survey shows rise in satisfaction during past year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/survey_GettyImages-kasayizgi_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1880418",
           "author": null,
           "description": "Overall patient satisfaction with general practice has risen slightly over the past year, results from the 2024 GP patient survey show.",
@@ -3199,6 +3219,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=197269",
+          "author": "Jordan Sollof",
+          "description": "This contracts and go lives roundup includes University Hospitals of Derby and Burton rolling out the BadgerNet EPR for maternity services.",
+          "link": "https://www.digitalhealth.net/2024/07/digital-healths-monthly-roundup-of-contracts-and-go-lives-42/",
+          "publishedOn": "2024-07-12T07:30:02.000Z",
+          "wordCount": 3913,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Contract-Sign.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=178743",
           "author": "Jordan Sollof",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-12T07:10:33.831Z</updated>
+    <updated>2024-07-12T08:13:33.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=197269</id>
+        <link href="https://www.digitalhealth.net/2024/07/digital-healths-monthly-roundup-of-contracts-and-go-lives-42/"/>
+        <updated>2024-07-12T07:30:02.000Z</updated>
+        <summary type="html"><![CDATA[This contracts and go lives roundup includes University Hospitals of Derby and Burton rolling out the BadgerNet EPR for maternity services.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What does a new Labour government mean for general practice?]]></title>
+        <id>https://www.gponline.com/article/1880459</id>
+        <link href="https://www.gponline.com/podcast-does-new-labour-government-mean-general-practice/article/1880459"/>
+        <updated>2024-07-12T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Tim Gardner, assistant director of policy at the Health Foundation think tank, about what a new Labour government could mean for general practice and the rest of the NHS.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update on cyber incident: clinical impact in South East London – Thursday 11 July]]></title>
         <id>https://www.england.nhs.uk/?p=249187</id>
@@ -67,6 +87,16 @@ The post Renewed call for whooping cough vaccine uptake as cases rise again appe
         <summary type="html"><![CDATA[The end of ring-fenced funding for virtual wards has contributed to the fall in bed virtual ward bed capacity at NHS North West London ICB.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP patient survey shows rise in satisfaction during past year]]></title>
+        <id>https://www.gponline.com/article/1880418</id>
+        <link href="https://www.gponline.com/gp-patient-survey-shows-rise-satisfaction-during-past-year/article/1880418"/>
+        <updated>2024-07-11T11:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Overall patient satisfaction with general practice has risen slightly over the past year, results from the 2024 GP patient survey show.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
