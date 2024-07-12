@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-11T23:11:32.433Z</updated>
+    <updated>2024-07-12T00:44:20.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4095,39 +4095,6 @@ The post GP at-scale pilots to be ‘integral’ to NHS future, says chief execu
         <summary type="html"><![CDATA[Over half a million (549,000) more people in England have been identified by the NHS as being at risk of developing type 2 diabetes in a year, NHS figures show. The latest National Diabetes Audit shows that 3,615,330 people registered with a GP were found to have non-diabetic hyperglycaemia – also known as pre-diabetes -in […]]]></summary>
         <author>
             <name>kbradshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kettering General Hospital cuts neurology waiting list through telemedicine tech]]></title>
-        <id>https://www.digitalhealth.net/?p=177053</id>
-        <link href="https://www.digitalhealth.net/2024/06/kettering-general-hospital-cuts-neurology-waiting-list-through-telemedicine-tech/"/>
-        <updated>2024-06-12T12:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Kettering General Hospital has reduced its neurology waiting lists by 50% by using telemedicine technology to triage patients.]]></summary>
-        <author>
-            <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More money, more choice, more of the private sector: can the next government repeat the feat of the 2000s and cut waiting times?]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2024/06/more-money-more-choice-more-of-the-private-sector-can-the-next-government-repeat-the-feat-of-the-200.html"/>
-        <updated>2024-06-12T11:46:40.000Z</updated>
-        <summary type="html"><![CDATA[The Health Foundation - NHS waiting times are a central issue of the 2024 election campaign. Proposed solutions – more money, more staff, more use of the independent sector and strengthening patient choice – are mostly shared between the two main parties. More money, more choice and more private sector provision helped reduce median waiting times (under old measures) from...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4511 - Arm Releases Security Advisory for Exploited Mali GPU Driver Vulnerability]]></title>
-        <id>5eaa15f8-dd94-40e6-ae38-368ea32c352b</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4511"/>
-        <updated>2024-06-12T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation could allow a local attacker to gain access to freed memory
- Exploitation could allow a local attacker to gain access to freed memory
- Updated: 12 Jun 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
