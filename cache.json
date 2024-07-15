@@ -3093,6 +3093,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:cfba6b0d-f933-47e7-bf9f-02410624e25d",
+          "author": null,
+          "description": "Global childhood immunization coverage stalled in 2023, leaving 2.7 million additional children un- and under-vaccinated compared to pre-pandemic levels in 2019, according to data published today by the World Health Organization (WHO) and UNICEF.\nThe latest WHO and UNICEF estimates of national immunization coverage (WUENIC) – which provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 14 diseases – underscore the need for ongoing catch-up, recovery and system-strengthening efforts.\n“The latest trends demonstrate that many countries continue to miss far too many children,” said UNICEF Executive Director Catherine Russell. “Closing the immunization gap requires a global effort, with governments, partners, and local leaders investing in pri…",
+          "link": "https://www.who.int/news/item/15-07-2024-global-childhood-immunization-levels-stalled-in-2023-leaving-many-without-life-saving-protection",
+          "publishedOn": "2024-07-14T23:53:00.000Z",
+          "wordCount": 3477,
+          "title": "Global childhood immunization levels stalled in 2023, leaving many without life-saving protection",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/2023-kisumu-kenya.tmb-1200v.jpg?sfvrsn=ce47ab8f_4"
+        },
+        {
           "id": "urn:uuid:6f1d6a7a-d13e-43e4-81f1-28730a44a503",
           "author": null,
           "description": "The World Health Organization has released \"The Role of Parliaments and Parliamentarians in Strengthening Health Security Preparedness\", an online training course. This essential resource aims to equip parliamentarians with the knowledge and tools necessary to enhance global health security efforts.",
@@ -3189,6 +3199,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=198257",
+          "author": "Tammy Lovell",
+          "description": "Priory has signed a five-year contract with Ashtons which includes electronic prescribing and medicines administration (EPMA).",
+          "link": "https://www.digitalhealth.net/2024/07/mental-health-provider-priory-signs-five-year-epma-contract/",
+          "publishedOn": "2024-07-15T12:30:10.000Z",
+          "wordCount": 3472,
+          "title": "Mental health provider Priory signs five-year EPMA contract",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/mental-health.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=197341",
           "author": "Jordan Sollof",

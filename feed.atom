@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-15T12:19:14.993Z</updated>
+    <updated>2024-07-15T13:14:09.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mental health provider Priory signs five-year EPMA contract]]></title>
+        <id>https://www.digitalhealth.net/?p=198257</id>
+        <link href="https://www.digitalhealth.net/2024/07/mental-health-provider-priory-signs-five-year-epma-contract/"/>
+        <updated>2024-07-15T12:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Priory has signed a five-year contract with Ashtons which includes electronic prescribing and medicines administration (EPMA).]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2024 to March 2025]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025</id>
@@ -127,6 +137,18 @@ The post Stephen Kinnock named minister responsible for general practice appeare
         <summary type="html"><![CDATA[Some of England's ICB areas need to grow their GP workforce by more than a third to deliver safe care for their current patient population, analysis by GPonline's GP Insight data project reveals.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global childhood immunization levels stalled in 2023, leaving many without life-saving protection]]></title>
+        <id>urn:uuid:cfba6b0d-f933-47e7-bf9f-02410624e25d</id>
+        <link href="https://www.who.int/news/item/15-07-2024-global-childhood-immunization-levels-stalled-in-2023-leaving-many-without-life-saving-protection"/>
+        <updated>2024-07-14T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Global childhood immunization coverage stalled in 2023, leaving 2.7 million additional children un- and under-vaccinated compared to pre-pandemic levels in 2019, according to data published today by the World Health Organization (WHO) and UNICEF.
+The latest WHO and UNICEF estimates of national immunization coverage (WUENIC) – which provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 14 diseases – underscore the need for ongoing catch-up, recovery and system-strengthening efforts.
+“The latest trends demonstrate that many countries continue to miss far too many children,” said UNICEF Executive Director Catherine Russell. “Closing the immunization gap requires a global effort, with governments, partners, and local leaders investing in pri…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
