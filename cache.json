@@ -1290,6 +1290,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1878692",
+          "author": null,
+          "description": "Practices in Devon have reduced antibiotic prescriptions by nearly two-thirds in three months by using a point-of-care testing system for patients presenting with an acute sore throat suspected to be Strep A.",
+          "link": "https://www.gponline.com/practices-slash-antibiotic-use-nearly-two-thirds-using-point-of-care-testing/infections-and-infestations/article/1878692",
+          "publishedOn": "2024-07-15T08:35:00.000Z",
+          "wordCount": 728,
+          "title": "Practices slash antibiotic use by nearly two thirds using point-of-care testing",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1778015143.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1879955",
           "author": null,
           "description": "Stephen Kinnock has been named as the new minister of state for care who will be responsible for primary care including general practice.",
@@ -2565,6 +2575,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/forgotten-generation-shaping-better-services-for-children-and-young-people.html",
+          "author": null,
+          "description": "NHS Providers - This report, based based on NHS Providers' survey of trust leaders during April and May 2024, explores the issues in providing children and young people's services, and how trusts are working to address them. Report Press release",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/forgotten-generation-shaping-better-services-for-children-and-young-people.html",
+          "publishedOn": "2024-07-15T08:54:31.000Z",
+          "wordCount": null,
+          "title": "Forgotten generation: shaping better services for children and young people",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/nhs-secondary-care-an-overview.html",
+          "author": null,
+          "description": "NHS Providers - This explainer details the size and structure of NHS trusts and foundation trusts, their performance and activity, and how they are perceived by the public and their regulators. Explainer More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/nhs-secondary-care-an-overview.html",
+          "publishedOn": "2024-07-15T08:52:16.000Z",
+          "wordCount": null,
+          "title": "NHS secondary care: an overview",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/great-expectations-public-perceptions-and-expectations-for-the-new-government.html",
           "author": null,
