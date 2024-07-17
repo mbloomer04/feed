@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-16T23:10:42.214Z</updated>
+    <updated>2024-07-17T00:45:30.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: National RSV vaccination programme announced]]></title>
+        <id>https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced</id>
+        <link href="https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced"/>
+        <updated>2024-07-16T23:15:07.000Z</updated>
+        <summary type="html"><![CDATA[A national RSV vaccine programme protecting infants and elderly will save lives in the UK]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS computer systems – The modern-day emperor’s new clothes]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150494</id>
@@ -4112,16 +4122,6 @@ The post ICBs ‘increasing pressure’ on GPs to boost patient records access a
 The post Debate: Will AI replace clinicians? appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More than 800 operations postponed since London cyber attack]]></title>
-        <id>https://www.digitalhealth.net/?p=177335</id>
-        <link href="https://www.digitalhealth.net/2024/06/more-than-800-operations-postponed-since-london-cyber-attack/"/>
-        <updated>2024-06-17T12:30:34.000Z</updated>
-        <summary type="html"><![CDATA[More than 800 planned operations and 700 outpatient appointments were rearranged in the week following a cyber attack on Synnovis.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
         </author>
     </entry>
 </feed>
