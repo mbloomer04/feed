@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-17T08:13:04.136Z</updated>
+    <updated>2024-07-17T09:12:29.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[A national RSV vaccine programme protecting infants and elderly will save lives in the UK]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-quarters of Welsh GPs prepared to take industrial action, BMA poll finds]]></title>
+        <id>https://www.gponline.com/article/1880997</id>
+        <link href="https://www.gponline.com/three-quarters-welsh-gps-prepared-industrial-action-bma-poll-finds/article/1880997"/>
+        <updated>2024-07-16T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Almost three-quarters of GPs in Wales say they are prepared to take industrial action unless the government takes immediate steps to boost general practice funding, a BMA poll has found.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
