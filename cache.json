@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cb9c1ae8-6b28-4a3b-8948-4b3ff97100bf",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n New intelligence shows that exploitation of this RCE vulnerability does not require authentication\n New intelligence shows that exploitation of this RCE vulnerability does not require authentication\n Updated: 17 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4525",
+          "publishedOn": "2024-07-17T12:05:00.000Z",
+          "wordCount": 865,
+          "title": "CC-4525 - Exploited Unauthenticated RCE Vulnerability CVE-2023-6548 in Citrix NetScaler ADC and NetScaler Gateway",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "11043b59-8336-4414-aedb-86aca971151e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities\n Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities\n Updated: 10 Jul 2024",
@@ -122,6 +132,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=150971",
+          "author": "Sofia Lind",
+          "description": "The new Labour Government has confirmed it will introduce laws to ban smoking and clamp down on vaping in the King’s Speech today. In his speech this morning, the King laid out the Government’s legislative agenda for the coming months including the bills it will introduce to Parliament. The Government has committed to carrying forward\nThe post New Government rubberstamps plans to ban smoking appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/new-government-rubberstamps-plans-to-ban-smoking/",
+          "publishedOn": "2024-07-17T12:05:10.000Z",
+          "wordCount": 2551,
+          "title": "New Government rubberstamps plans to ban smoking",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/06/cigarette-smoker-smoking.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=150929",
           "author": "Anna Colivicchi",
@@ -1359,6 +1379,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1881107",
+          "author": null,
+          "description": "Practices should set up waiting lists based on clinical need for routine appointments to help manage demand, the BMA has said.",
+          "link": "https://www.gponline.com/bma-recommends-practices-set-waiting-lists-routine-appointments/article/1881107",
+          "publishedOn": "2024-07-17T11:20:53.000Z",
+          "wordCount": 694,
+          "title": "BMA recommends practices set up waiting lists for routine appointments",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_33.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1880997",
           "author": null,
