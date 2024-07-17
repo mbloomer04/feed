@@ -2499,6 +2499,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/flu-vaccines-2025-to-2026-jcvi-advice",
+          "author": null,
+          "description": "Statement from the Joint Committee on Vaccination and Immunisation (JCVI) about vaccines for the 2025 to 2026 flu season.",
+          "link": "https://www.gov.uk/government/publications/flu-vaccines-2025-to-2026-jcvi-advice",
+          "publishedOn": "2024-07-17T15:30:15.000Z",
+          "wordCount": 859,
+          "title": "Independent report: Flu vaccines 2025 to 2026: JCVI advice",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced",
           "author": null,
           "description": "A national RSV vaccine programme protecting infants and elderly will save lives in the UK",
