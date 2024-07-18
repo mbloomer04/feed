@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-18T07:09:38.163Z</updated>
+    <updated>2024-07-18T08:13:10.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: How DHSC processes special category data]]></title>
+        <id>https://www.gov.uk/government/publications/how-dhsc-processes-special-category-data</id>
+        <link href="https://www.gov.uk/government/publications/how-dhsc-processes-special-category-data"/>
+        <updated>2024-07-18T07:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Find out how DHSC processes special category and criminal offences personal data in line with GDPR requirements.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three south west trusts to launch BadgerNet maternity system]]></title>
+        <id>https://www.digitalhealth.net/?p=199525</id>
+        <link href="https://www.digitalhealth.net/2024/07/three-south-west-trusts-to-launch-badgernet-maternity-system/"/>
+        <updated>2024-07-18T07:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Three South West NHS trusts are to digitise their respective maternity services by going live with System C’s BadgerNet maternity system.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP practices should move to appointments ‘waiting list system’, BMA recommends]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150986</id>
