@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f03054f9-0cb4-4f56-a6ef-2a06e478d2ea",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address eight critical and five high severity vulnerabilities\n Updates address eight critical and five high severity vulnerabilities\n Updated: 19 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4528",
+          "publishedOn": "2024-07-19T13:41:00.000Z",
+          "wordCount": 1071,
+          "title": "CC-4528 - SolarWinds Releases Critical Security Updates for Access Rights Manager",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "b34b6806-8709-4162-8984-4f4837892b1a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Vulnerabilities could allow an attacker to execute arbitrary commands, bypass authentication, and access sensitive resources\n Vulnerabilities could allow an attacker to execute arbitrary commands, bypass authentication, and access sensitive resources\n Updated: 19 Jul 2024",
@@ -2735,6 +2745,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/from-ambition-to-reality-national-policy-options-to-improve-care-worker-pay-in-england.html",
+          "author": null,
+          "description": "Nuffield Trust - This report by the Nuffield Trust and the Health Foundation reveals how an inadequate national policy approach to social care pay and funding has trapped staff in a cycle of low wages and poor career prospects. It examines five national policy options to increase wages for social care workers in England: better minimum wage enforcement, increasing the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/from-ambition-to-reality-national-policy-options-to-improve-care-worker-pay-in-england.html",
+          "publishedOn": "2024-07-19T13:34:26.000Z",
+          "wordCount": null,
+          "title": "From ambition to reality: national policy options to improve care worker pay in England",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/the-real-face-of-mens-health.html",
+          "author": null,
+          "description": "Movember - This report features examples, from the UK and abroad, on what is effective across four elements of health systems to successfully engage with men: health promotion programmes; a responsive health system including health services, screenings, checks and facilities; a health workforce with the competencies to respond to men; and research that works to build, evaluate and translate its...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/the-real-face-of-mens-health.html",
+          "publishedOn": "2024-07-19T13:14:40.000Z",
+          "wordCount": null,
+          "title": "The real face of men’s health",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/green-physician-toolkit.html",
           "author": null,

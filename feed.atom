@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-19T13:12:52.659Z</updated>
+    <updated>2024-07-19T14:11:04.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4528 - SolarWinds Releases Critical Security Updates for Access Rights Manager]]></title>
+        <id>f03054f9-0cb4-4f56-a6ef-2a06e478d2ea</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4528"/>
+        <updated>2024-07-19T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates address eight critical and five high severity vulnerabilities
+ Updates address eight critical and five high severity vulnerabilities
+ Updated: 19 Jul 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From ambition to reality: national policy options to improve care worker pay in England]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/07/from-ambition-to-reality-national-policy-options-to-improve-care-worker-pay-in-england.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/07/from-ambition-to-reality-national-policy-options-to-improve-care-worker-pay-in-england.html"/>
+        <updated>2024-07-19T13:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Nuffield Trust - This report by the Nuffield Trust and the Health Foundation reveals how an inadequate national policy approach to social care pay and funding has trapped staff in a cycle of low wages and poor career prospects. It examines five national policy options to increase wages for social care workers in England: better minimum wage enforcement, increasing the...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The real face of men’s health]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/07/the-real-face-of-mens-health.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/07/the-real-face-of-mens-health.html"/>
+        <updated>2024-07-19T13:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Movember - This report features examples, from the UK and abroad, on what is effective across four elements of health systems to successfully engage with men: health promotion programmes; a responsive health system including health services, screenings, checks and facilities; a health workforce with the competencies to respond to men; and research that works to build, evaluate and translate its...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4527 - Ivanti Releases Security Updates for Endpoint Manager for Mobile]]></title>
         <id>b34b6806-8709-4162-8984-4f4837892b1a</id>
