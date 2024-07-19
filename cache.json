@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a2e7abd5-0b63-4e35-863c-07dd46d4f458",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Low\n Thirteen vulnerabilities have been found in Philips image-management platform\n Thirteen vulnerabilities have been found in Philips image-management platform\n Updated: 19 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4529",
+          "publishedOn": "2024-07-19T15:06:00.000Z",
+          "wordCount": 1609,
+          "title": "CC-4529 - Philips Releases Vue PACS Security Advisory",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "f03054f9-0cb4-4f56-a6ef-2a06e478d2ea",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address eight critical and five high severity vulnerabilities\n Updates address eight critical and five high severity vulnerabilities\n Updated: 19 Jul 2024",
@@ -162,6 +172,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151028",
+          "author": "Anna Colivicchi",
+          "description": "The Doctors’ Association has written to Lord Darzi urging him to take GP underfunding and pressures into account during his rapid NHS review. GPs need a government commitment to ‘significantly’ uplift general practice core funding, they argued, backed by a list of facts. Last week, Professor Lord Ara Darzi was appointed by the health secretary\nThe post Lord Darzi must review GP underfunding, say GP leaders appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/lord-darzi-must-review-gp-underfunding-say-gp-leaders/",
+          "publishedOn": "2024-07-19T15:06:43.000Z",
+          "wordCount": 2708,
+          "title": "Lord Darzi must review GP underfunding, say GP leaders",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/10/money-coins-pensions-notes.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=151067",
           "author": "Anna Colivicchi",
@@ -2509,6 +2529,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/review-of-suicides-and-gender-dysphoria-at-the-tavistock-and-portman-nhs-foundation-trust",
+          "author": null,
+          "description": "An independent report from Professor Louis Appleby reviewing data on suicides by young patients of the gender services at the Tavistock and Portman NHS Foundation Trust.",
+          "link": "https://www.gov.uk/government/publications/review-of-suicides-and-gender-dysphoria-at-the-tavistock-and-portman-nhs-foundation-trust",
+          "publishedOn": "2024-07-19T14:27:09.000Z",
+          "wordCount": 896,
+          "title": "Independent report: Review of suicides and gender dysphoria at the Tavistock and Portman NHS Foundation Trust",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval",
           "author": null,
           "description": "How to apply to have nutritional or dermatological products reviewed by the Advisory Committee on Borderline Substances (ACBS).",
@@ -2745,6 +2775,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/people-not-structures-putting-people-at-the-heart-of-integrated-care.html",
+          "author": null,
+          "description": "Local Government and Social Care Ombudsman - This report claims that Integrated Care Systems (ICSs) are not doing enough to put the vulnerable people they support at the heart of what they do. It details some of the things that can and do go wrong when people are not prioritised and local organisations do not work together effectively. It includes...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/people-not-structures-putting-people-at-the-heart-of-integrated-care.html",
+          "publishedOn": "2024-07-19T14:23:38.000Z",
+          "wordCount": null,
+          "title": "People not structures: putting people at the heart of integrated care",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/from-ambition-to-reality-national-policy-options-to-improve-care-worker-pay-in-england.html",
           "author": null,
