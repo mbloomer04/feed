@@ -2228,18 +2228,7 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "e1a8f60e-a136-47af-87f2-816581178f62",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.\n\r\n\r\nNHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.\n\r\n\r\nIn the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic",
-          "publishedOn": "2024-06-20T12:04:48.000Z",
-          "wordCount": 1699,
-          "title": "The NHS App after the pandemic",
-          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/transformation-blog/2023/nhs-app-promotional-toolkit.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tech Talk Feed",
@@ -3194,16 +3183,6 @@
           "wordCount": null,
           "title": "How likely is a general election to transform health and social care?",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/06/how-do-the-last-five-years-measure-up-on-levelling-up.html",
-          "author": null,
-          "description": "Institute for Fiscal Studies - Five years ago, then Prime Minister Boris Johnson made ‘levelling up’ a central plank of the Conservative Party’s bid for re-election, with a manifesto pledge to ‘level up every part of the UK’. In 2022, the government published a thorough and ambitious White Paper setting out 12 levelling up ‘missions’ to achieve by 2030, as...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/06/how-do-the-last-five-years-measure-up-on-levelling-up.html",
-          "publishedOn": "2024-06-20T12:31:27.000Z",
-          "wordCount": null,
-          "title": "How do the last five years measure up on levelling up?",
-          "imageUrl": null
         }
       ]
     },
@@ -4058,16 +4037,6 @@
           "wordCount": 2063,
           "title": "Digital Health’s monthly roundup of contracts and go lives",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2021/01/Contract-Sign.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=177609",
-          "author": "Cora Lydon",
-          "description": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published guidance on transparency for machine learning medical devices.",
-          "link": "https://www.digitalhealth.net/2024/06/mhra-issues-transparency-guidance-for-machine-learning-medical-devices/",
-          "publishedOn": "2024-06-20T12:30:15.000Z",
-          "wordCount": 1750,
-          "title": "MHRA issues transparency guidance for machine learning medical devices",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/MHRA-machine-learning-medical-device2.jpg"
         }
       ]
     }
