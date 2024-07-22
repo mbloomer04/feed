@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-22T06:14:16.843Z</updated>
+    <updated>2024-07-22T07:10:39.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dementia diagnoses in England at record high]]></title>
+        <id>https://www.england.nhs.uk/?p=249538</id>
+        <link href="https://www.england.nhs.uk/2024/07/dementia-diagnoses-in-england-at-record-high/"/>
+        <updated>2024-07-21T23:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Record numbers of people are being diagnosed with dementia in England, NHS figures show. Latest data shows a record 487,432 people in England in June had a diagnosis. While dementia diagnosis rates are the highest since the start of the pandemic at 65.0%, the NHS has more to do to meet its ambition to diagnose 66.7% […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated response to global IT outage – 22 July]]></title>
+        <id>https://www.england.nhs.uk/?p=249543</id>
+        <link href="https://www.england.nhs.uk/2024/07/updated-response-to-global-it-outage-22-july/"/>
+        <updated>2024-07-21T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[An NHS spokesperson said: “Systems are now back online, and patients with an NHS appointment this week should continue to attend unless told not to. “Thanks to the hard work of NHS staff throughout this incident we are hoping to keep further disruption to a minimum, however there still may be some delays as services recover, […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Health and Social Care Secretary visits Berkshire hospital]]></title>
         <id>https://www.gov.uk/government/news/health-and-social-care-secretary-visits-berkshire-hospital</id>
