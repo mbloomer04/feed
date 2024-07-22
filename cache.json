@@ -1360,6 +1360,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1881615",
+          "author": null,
+          "description": "BMA England’s GP committee chair has urged practices to claim compensation if they have incurred extra costs due to the global IT outage.",
+          "link": "https://www.gponline.com/bma-urges-gp-practices-claim-back-extra-costs-linked-global-outage/article/1881615",
+          "publishedOn": "2024-07-22T10:25:00.000Z",
+          "wordCount": null,
+          "title": "BMA urges GP practices to claim back extra costs linked to global IT outage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gponline.com/article/1881620",
+          "author": null,
+          "description": "GPs will hear this month whether they will receive a funding uplift beyond the imposed 1.9% that triggered a ballot on collective action, as the chancellor hinted at above-inflation public sector pay awards.",
+          "link": "https://www.gponline.com/gp-contract-uplift-likely-government-promises-public-sector-pay-update-this-month/article/1881620",
+          "publishedOn": "2024-07-22T08:57:57.000Z",
+          "wordCount": null,
+          "title": "GP contract uplift likely as government promises public sector pay update 'this month'",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.gponline.com/article/1881437",
           "author": null,
           "description": "Thousands of GP practices have been left without access to IT systems in a situation one senior GP described as ‘shambolic’, after a major global outage.",
@@ -2584,6 +2604,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/family-nurse-partnership-programme-.html",
+          "author": null,
+          "description": "Office for Health Improvement and Disparities - This guidance sets out how the Family Nurse Partnership supports first-time young mothers and families in England, why it works, where it is delivered and how to commission it. Guidance",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/family-nurse-partnership-programme-.html",
+          "publishedOn": "2024-07-22T11:13:22.000Z",
+          "wordCount": null,
+          "title": "Family Nurse Partnership programme",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/adult-social-care-charging-reform-analysing-the-costs-of-reforms-and-preparedness-for-implementation.html",
           "author": null,
