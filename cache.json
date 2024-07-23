@@ -2428,6 +2428,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/pressure-ulcers-how-to-safeguard-adults",
+          "author": null,
+          "description": "How to respond to individuals at risk of developing pressure ulcers, prevent harm where they occur and raise a safeguarding concern.",
+          "link": "https://www.gov.uk/government/publications/pressure-ulcers-how-to-safeguard-adults",
+          "publishedOn": "2024-07-23T11:13:42.000Z",
+          "wordCount": 1113,
+          "title": "Guidance: Pressure ulcers: how to safeguard adults",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/health-and-social-care-secretary-visits-berkshire-hospital",
           "author": null,
           "description": "Secretary of State Wes Streeting spoke to staff and patients before meeting regional health leaders.",
@@ -2674,6 +2684,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/missing-millions-exploring-hidden-and-unmet-social-care-need-for-disabled-people-.html",
+          "author": null,
+          "description": "Healthwatch England - This research into social care for disabled people shows how transformative social care can be for those receiving it. However, extrapolating survey data to national level data, it found that as many as 1.5 million working-age disabled people in England are not receiving social care support, despite potentially being eligible for care. The report outlines the findings...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/missing-millions-exploring-hidden-and-unmet-social-care-need-for-disabled-people-.html",
+          "publishedOn": "2024-07-23T11:44:26.000Z",
+          "wordCount": null,
+          "title": "Missing millions: exploring hidden and unmet social care need for disabled people",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/framework-for-managing-the-response-to-pandemic-diseases.html",
           "author": null,
