@@ -2368,6 +2368,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-information-asset-register",
+          "author": null,
+          "description": "This register lists personal and non-personal information assets held by DHSC in the UK.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-and-social-care-information-asset-register",
+          "publishedOn": "2024-07-25T11:34:50.000Z",
+          "wordCount": 995,
+          "title": "Transparency data: Department of Health and Social Care information asset register",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/apply-for-a-nutritional-product-to-be-considered-by-the-acbs",
           "author": null,
           "description": "Apply for a nutritional product to be considered by the Advisory Committee on Borderline Substances (ACBS).",
