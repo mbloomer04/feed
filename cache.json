@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c4f7dfb7-a5bc-42b7-a313-051b023709d8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical vulnerability could allow an attacker to bypass authorisation plugins\n A critical vulnerability could allow an attacker to bypass authorisation plugins\n Updated: 25 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4530",
+          "publishedOn": "2024-07-25T14:01:00.000Z",
+          "wordCount": 949,
+          "title": "CC-4530 - Docker Releases Security Advisory for Docker Engine",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "a2e7abd5-0b63-4e35-863c-07dd46d4f458",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Low\n Thirteen vulnerabilities have been found in Philips image-management platform\n Thirteen vulnerabilities have been found in Philips image-management platform\n Updated: 19 Jul 2024",

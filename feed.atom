@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-25T13:13:27.014Z</updated>
+    <updated>2024-07-25T14:09:03.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4530 - Docker Releases Security Advisory for Docker Engine]]></title>
+        <id>c4f7dfb7-a5bc-42b7-a313-051b023709d8</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4530"/>
+        <updated>2024-07-25T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ A critical vulnerability could allow an attacker to bypass authorisation plugins
+ A critical vulnerability could allow an attacker to bypass authorisation plugins
+ Updated: 25 Jul 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patient Safety Commissioner annual report 2023-24]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/07/patient-safety-commissioner-annual-report-2023-24.html</id>
