@@ -1381,16 +1381,6 @@
           "wordCount": 3297,
           "title": "Former RCGP chair quits NHSE to become New Zealand CMO",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/a/r/y/Dr_helen_stokes_lampard_3x2-scaled-e1623257787694.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=150165",
-          "author": "Eliza Parr",
-          "description": "The Government has argued that it ‘does not decide how many GPs are in each practice’, in response to GP employment concerns.  Health minister Maria Caulfield said GP practices are given a contract and they ‘then decide who they directly employ’. Ms Caulfield was asked what the Government is doing to address GP unemployment during\nThe post Practices decide how many GPs they employ, says minister appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workforce/practices-decide-how-many-gps-they-employ-says-minister/",
-          "publishedOn": "2024-06-25T12:23:11.000Z",
-          "wordCount": 3589,
-          "title": "Practices decide how many GPs they employ, says minister",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/08/recruitment_hiring_vacancy_staffing_1200-x-800.jpg"
         }
       ]
     },
@@ -1399,6 +1389,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1882037",
+          "author": null,
+          "description": "NHS targets for increasing the UK medical workforce risk failure because half of medical trainers are at high or moderate risk of burnout, the latest GMC national training survey warns.",
+          "link": "https://www.gponline.com/nhs-workforce-plan-will-fail-without-support-trainers-warns-gmc/article/1882037",
+          "publishedOn": "2024-07-24T23:01:00.000Z",
+          "wordCount": 714,
+          "title": "NHS workforce plan will fail without more support for trainers, warns GMC",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_37.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1882019",
+          "author": null,
+          "description": "Online consultation tools used in general practice can put patients at risk and should be investigated by NHS England, a health watchdog has warned.",
+          "link": "https://www.gponline.com/health-watchdog-calls-nhs-england-investigation-online-consultation-tools/article/1882019",
+          "publishedOn": "2024-07-24T23:01:00.000Z",
+          "wordCount": 700,
+          "title": "Health watchdog calls for NHS England investigation into online consultation tools",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_7.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1881899",
           "author": null,
@@ -3250,16 +3260,6 @@
           "wordCount": 2358,
           "title": "Nearly 1.8 billion adults at risk of disease from not doing enough physical activity",
           "imageUrl": "https://cdn.who.int/media/images/default-source/health-topics/physical-activity/who_052024_walk-cycle_parc.tmb-1200v.jpg?sfvrsn=26f7036b_3"
-        },
-        {
-          "id": "urn:uuid:8a048cb1-e291-4add-b2e7-d84157ec171c",
-          "author": null,
-          "description": "A new report from the World Health Organization (WHO) highlights that 2.6 million deaths per year were attributable to alcohol consumption, accounting for 4.7% of all deaths in that year, and 0.6 million deaths –to psychoactive drug use. Notably, 2 million of alcohol- and 0.4 million of drug-attributable deaths were among men.",
-          "link": "https://www.who.int/news/item/25-06-2024-over-3-million-annual-deaths-due-to-alcohol-and-drug-use-majority-among-men",
-          "publishedOn": "2024-06-25T11:37:53.000Z",
-          "wordCount": 3166,
-          "title": "Over 3 million annual deaths due to alcohol and drug use, majority among men",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/substances-and-elements/alcohol/alcohol-consumption.tmb-1200v.jpg?sfvrsn=2347c0e7_2"
         }
       ]
     },
@@ -4007,16 +4007,6 @@
           "wordCount": 1844,
           "title": "Digital Health partners with AphA for AI and Data 2024",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/09/AphA-logo.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=177785",
-          "author": "Jordan Sollof",
-          "description": "The Royal Oldham Hospital is the first pathology lab in Manchester to use digital images for biopsies, with the aim of speeding up test results.",
-          "link": "https://www.digitalhealth.net/2024/06/the-royal-oldham-hospital-goes-live-with-digital-image-tech-for-biopsies/",
-          "publishedOn": "2024-06-25T12:30:48.000Z",
-          "wordCount": 1833,
-          "title": "The Royal Oldham Hospital goes live with digital image tech for biopsies",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/06/Digital-images-biopsies-Royal-Oldham-Hospital.jpg"
         }
       ]
     }
