@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-25T00:45:24.298Z</updated>
+    <updated>2024-07-25T01:59:18.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4085,19 +4085,6 @@ The post Behind the headlines: Admin staff outnumber GPs – but so what? appear
 The post Former RCGP chair quits NHSE to become New Zealand CMO appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4515 - Avaya Releases Critical Security Update for IP Office]]></title>
-        <id>9699ac3d-7ffc-44d6-b877-e1b5c6d92a04</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4515"/>
-        <updated>2024-06-25T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Two critical vulnerabilities could lead to remote code execution
- Two critical vulnerabilities could lead to remote code execution
- Updated: 25 Jun 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
