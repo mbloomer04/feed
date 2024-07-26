@@ -2368,6 +2368,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/department-of-health-and-social-care-general-enquiries",
+          "author": null,
+          "description": "Contact information for general enquiries on health and care.",
+          "link": "https://www.gov.uk/guidance/department-of-health-and-social-care-general-enquiries",
+          "publishedOn": "2024-07-26T12:30:01.000Z",
+          "wordCount": 1416,
+          "title": "Guidance: Department of Health and Social Care general enquiries",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/government-acts-after-report-highlights-failings-at-regulator",
           "author": null,
           "description": "Significant failings found at health and social care regulator, the Care Quality Commission (CQC).",
@@ -2644,6 +2654,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/the-hewitt-review-where-are-we-one-year-on.html",
+          "author": null,
+          "description": "NHS Confederation - This long read explores the progress against key themes in Patricia Hewitt's review of integrated care systems (ICSs). It finds that the proposals set out in the review are still supported by ICS leaders and national partners as the right direction of travel to improve the population’s health, reduce health inequalities, improve patient care and get best...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/the-hewitt-review-where-are-we-one-year-on.html",
+          "publishedOn": "2024-07-26T13:02:14.000Z",
+          "wordCount": null,
+          "title": "The Hewitt review: where are we one year on?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/07/listening-to-the-silence-what-does-the-staff-survey-tell-us-about-speaking-up-in-the-nhs.html",
+          "author": null,
+          "description": "National Guardian - Analysis of the 2023 NHS Staff Survey by the National Guardian’s office reveals a decline in workers feeling secure raising concerns about unsafe clinical practice for the second consecutive year. Report National Guardian - publications National Guardian - press release",
+          "link": "https://kingsfund.blogs.com/health_management/2024/07/listening-to-the-silence-what-does-the-staff-survey-tell-us-about-speaking-up-in-the-nhs.html",
+          "publishedOn": "2024-07-26T12:56:03.000Z",
+          "wordCount": null,
+          "title": "Listening to the silence: what does the staff survey tell us about speaking up in the NHS?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/07/digital-tools-for-online-consultation-in-general-practice.html",
           "author": null,
@@ -3278,6 +3308,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=200297",
+          "author": "Jordan Sollof",
+          "description": "Northampton General Hospital NHS Trust has signed a ten-year contract with Nervecentre to implement its electronic patient record system.",
+          "link": "https://www.digitalhealth.net/2024/07/northampton-general-hospital-signs-nervecentre-epr-contract/",
+          "publishedOn": "2024-07-26T12:30:53.000Z",
+          "wordCount": 3868,
+          "title": "Northampton General Hospital signs Nervecentre EPR contract",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/Nervecentre-EPR.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=200479",
           "author": "Tammy Lovell",
