@@ -144,16 +144,6 @@
           "wordCount": 621,
           "title": "CC-4517 - Critical Vulnerability in Fortra FileCatalyst Workflow",
           "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "b7626186-9d1c-49d3-900c-8c6412d703bf",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Improper authentication vulnerability can lead to authentication bypass\n Improper authentication vulnerability can lead to authentication bypass\n Updated: 26 Jun 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4516",
-          "publishedOn": "2024-06-26T13:37:00.000Z",
-          "wordCount": 808,
-          "title": "CC-4516 - Progress Software Releases Critical Security Updates for MOVEit Transfer",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
         }
       ]
     },

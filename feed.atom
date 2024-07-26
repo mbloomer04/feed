@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-26T00:44:51.618Z</updated>
+    <updated>2024-07-26T01:58:57.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4086,19 +4086,6 @@ The post It’s a thin line between PAs and AI physio appeared first on Pulse To
 The post New Pharmacy First IT to ‘simplify’ referrals from GPs being rolled out appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4516 - Progress Software Releases Critical Security Updates for MOVEit Transfer]]></title>
-        <id>b7626186-9d1c-49d3-900c-8c6412d703bf</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4516"/>
-        <updated>2024-06-26T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Improper authentication vulnerability can lead to authentication bypass
- Improper authentication vulnerability can lead to authentication bypass
- Updated: 26 Jun 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
