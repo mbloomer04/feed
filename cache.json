@@ -1381,16 +1381,6 @@
           "wordCount": 3288,
           "title": "It’s a thin line between PAs and AI physio",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Copperfield_1200x800px.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=150226",
-          "author": "Anna Colivicchi",
-          "description": "A new IT functionality to ‘simplify’ referrals from GP practices to community pharmacies is currently being rolled out, NHS England has said. IT system suppliers have started rolling out a new feature allowing Pharmacy First referrals from practices using EMIS Web Local Services or PharmRefer to go into the workflows in pharmacy clinical systems. GP\nThe post New Pharmacy First IT to ‘simplify’ referrals from GPs being rolled out appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/referrals/new-pharmacy-first-it-to-simplify-referrals-from-gps-being-rolled-out/",
-          "publishedOn": "2024-06-26T14:10:29.000Z",
-          "wordCount": 3395,
-          "title": "New Pharmacy First IT to ‘simplify’ referrals from GPs being rolled out",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/PCNs-need-access-to-digital-safety-teams.jpg"
         }
       ]
     },
@@ -3151,6 +3141,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:d5cff295-f6e2-461d-a8d0-b75ebca21b04",
+          "author": null,
+          "description": "The World Health Organization is taking part in the Paris Olympics in multiple fields, supporting the International Olympic Committee (IOC) and France to help make the world’s leading sport spectacle, which officially starts this Friday, healthy and safe for spectators and athletes alike.",
+          "link": "https://www.who.int/news/item/25-07-2024-who-teams-up-with-ioc-and-france-to-support-healthy-paris-olympics",
+          "publishedOn": "2024-07-25T11:56:20.000Z",
+          "wordCount": 2106,
+          "title": "WHO teams up with IOC and France to support healthy Paris Olympics",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/health-promotion-(hpr)/more-physical-activity-(run)/wtt24_ehanotte_hd-189.tmb-1200v.jpg?sfvrsn=a0409f59_1"
+        },
         {
           "id": "urn:uuid:d7a1d6c6-8f3b-4d40-ac1c-ec4b50790fa1",
           "author": null,
