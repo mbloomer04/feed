@@ -1370,6 +1370,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1882217",
+          "author": null,
+          "description": "The GPonline team discusses the latest news affecting primary care including the BMA's vision to rebuild general practice in England and the RCGP's consultation on physician associates.",
+          "link": "https://www.gponline.com/podcast-bma-gp-manifesto-next-steps-collective-action-future-pas/article/1882217",
+          "publishedOn": "2024-07-26T07:43:00.000Z",
+          "wordCount": 1048,
+          "title": "Podcast: A BMA GP manifesto, next steps on collective action and the future of PAs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_970.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1882201",
           "author": null,
           "description": "The shingles vaccine introduced in the NHS from last summer offers significant protection against dementia, a major study suggests.",
@@ -3218,6 +3228,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=200425",
+          "author": "DHI News Team",
+          "description": "Two NHS trusts in the Midlands are piloting an AI based scheduling tool in an effort to bring down waiting lists.",
+          "link": "https://www.digitalhealth.net/2024/07/warwickshire-hospitals-pilot-ai-appointment-scheduling-tool/",
+          "publishedOn": "2024-07-26T07:30:43.000Z",
+          "wordCount": 3857,
+          "title": "Warwickshire hospitals pilot AI appointment scheduling tool",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2023/07/waiting-list-DrDoctor-research-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=200409",
           "author": "Tammy Lovell",

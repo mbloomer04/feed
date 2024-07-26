@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-26T07:09:46.333Z</updated>
+    <updated>2024-07-26T08:12:47.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: A BMA GP manifesto, next steps on collective action and the future of PAs]]></title>
+        <id>https://www.gponline.com/article/1882217</id>
+        <link href="https://www.gponline.com/podcast-bma-gp-manifesto-next-steps-collective-action-future-pas/article/1882217"/>
+        <updated>2024-07-26T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the latest news affecting primary care including the BMA's vision to rebuild general practice in England and the RCGP's consultation on physician associates.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warwickshire hospitals pilot AI appointment scheduling tool]]></title>
+        <id>https://www.digitalhealth.net/?p=200425</id>
+        <link href="https://www.digitalhealth.net/2024/07/warwickshire-hospitals-pilot-ai-appointment-scheduling-tool/"/>
+        <updated>2024-07-26T07:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Two NHS trusts in the Midlands are piloting an AI based scheduling tool in an effort to bring down waiting lists.]]></summary>
+        <author>
+            <name>DHI News Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dr Burnt Out: The first weeks of August will determine the profession’s future]]></title>
         <id>https://www.pulsetoday.co.uk/?p=150374</id>
