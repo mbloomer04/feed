@@ -2162,7 +2162,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "37b11b66-f76d-4fc4-830d-d915eff2e76a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Adam Hollings and Humaira Hussein talk about how NHS England Secure Data Environment service is powering life-saving research and treatments across the UK. \n\r\n\r\nNHS England Secure Data Environment service is part of the Secure Data Environment network which is powering life-saving research and treatments across the UK.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/from-days-to-minutes-how-nhs-england-secure-data-environment-is-accelerating-healthcare-research",
+          "publishedOn": "2024-07-26T15:23:31.000Z",
+          "wordCount": 1453,
+          "title": "From days to minutes: How NHS England Secure Data Environment is accelerating healthcare research",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/sde.jpg"
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -2187,6 +2198,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "37b11b66-f76d-4fc4-830d-d915eff2e76a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Adam Hollings and Humaira Hussein talk about how NHS England Secure Data Environment service is powering life-saving research and treatments across the UK. \n\r\n\r\nNHS England Secure Data Environment service is part of the Secure Data Environment network which is powering life-saving research and treatments across the UK.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/from-days-to-minutes-how-nhs-england-secure-data-environment-is-accelerating-healthcare-research",
+          "publishedOn": "2024-07-26T15:23:31.000Z",
+          "wordCount": 1453,
+          "title": "From days to minutes: How NHS England Secure Data Environment is accelerating healthcare research",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/data-points-blog/sde.jpg"
+        },
         {
           "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
