@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "691596e6-69d2-4487-9224-8fe33b2a3c2a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Critical vulnerability in Acronis Cyber Infrastructure (ACI) could be exploited to achieve remote code execution\n Critical vulnerability in Acronis Cyber Infrastructure (ACI) could be exploited to achieve remote code execution\n Updated: 29 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4532",
+          "publishedOn": "2024-07-29T15:17:00.000Z",
+          "wordCount": 580,
+          "title": "CC-4532 - Exploitation of Vulnerability CVE-2023-45249 in Acronis Cyber Infrastructure",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "11e7fe94-a89c-48b9-8e67-02ed2b67f4a9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses three security vulnerabilities that could result in denial-of-service or authentication bypass\n Advisory addresses three security vulnerabilities that could result in DoS or authentication bypass\n Updated: 29 Jul 2024",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151391",
+          "author": "Eliza Parr",
+          "description": "The BMA’s junior doctors committee will put a new Government offer to members which would increase pay by 22.3% over two years. Today, the union confirmed that following negotiations the new offer includes a backdated pay rise of 4.05% for 2023/24, which is on top of the existing increase of between 8.8% and 10.3%. For\nThe post Junior doctors offered 22.3% pay rise to end strike action appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/politics/junior-doctors-offered-22-3-pay-rise-to-end-strike-action/",
+          "publishedOn": "2024-07-29T15:59:49.000Z",
+          "wordCount": 2595,
+          "title": "Junior doctors offered 22.3% pay rise to end strike action",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/10/doctor-strikes.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=151397",
           "author": "Eliza Parr",
@@ -1369,6 +1389,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1882576",
+          "author": null,
+          "description": "The BMA is recommending junior doctors accept a new offer that would see them receive an average 22.3% pay increase over two years.",
+          "link": "https://www.gponline.com/junior-doctors-offered-223-pay-deal-two-years/article/1882576",
+          "publishedOn": "2024-07-29T15:43:55.000Z",
+          "wordCount": 701,
+          "title": "Junior doctors offered 22.3% pay deal over two years",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2158968597.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1882500",
           "author": null,
