@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-29T13:14:35.909Z</updated>
+    <updated>2024-07-29T14:09:46.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DDRB ‘recommends 6% pay rise’ for salaried GPs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=151397</id>
+        <link href="https://www.pulsetoday.co.uk/news/breaking-news/ddrb-recommends-6-pay-rise-for-salaried-gps/"/>
+        <updated>2024-07-29T14:08:48.000Z</updated>
+        <summary type="html"><![CDATA[The doctors’ pay review body has recommended a 6% pay uplift for salaried GPs this year, according to the BMA’s sessional GP committee chair. Chancellor Rachel Reeves is expected to address public sector pay uplifts in her statement to the House of Commons this afternoon. Ahead of this, BMA sessional GP committee chair Dr Mark
+The post DDRB ‘recommends 6% pay rise’ for salaried GPs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4531 - Broadcom Releases Security Updates for VMware ESXi, vCenter Server, and Cloud Foundation Vulnerabilities]]></title>
+        <id>11e7fe94-a89c-48b9-8e67-02ed2b67f4a9</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4531"/>
+        <updated>2024-07-29T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses three security vulnerabilities that could result in denial-of-service or authentication bypass
+ Advisory addresses three security vulnerabilities that could result in DoS or authentication bypass
+ Updated: 29 Jul 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the lesson from vets: we cannot replace GPs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=150700</id>
+        <link href="https://www.pulsetoday.co.uk/views/katie-musgrave/learn-the-lesson-from-vets-we-cannot-replace-gps/"/>
+        <updated>2024-07-29T14:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Dr Katie Musgrave compares the veterinary system to general practice to reflect on the systematic replacement of GPs My best friend from primary school was the daughter of a vet. I loved visiting her house: she had a tank of terrapins in her bedroom; her family kept chickens; and they had multiple dogs and cats.
+The post Learn the lesson from vets: we cannot replace GPs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS cost recovery - overseas visitors]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors</id>
+        <link href="https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors"/>
+        <updated>2024-07-29T13:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Information for NHS bodies who need to make and recover hospital charges from overseas visitors.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tavistock and Portman launches PEP in gender identity clinic]]></title>
         <id>https://www.digitalhealth.net/?p=200287</id>

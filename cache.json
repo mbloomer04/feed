@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "11e7fe94-a89c-48b9-8e67-02ed2b67f4a9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses three security vulnerabilities that could result in denial-of-service or authentication bypass\n Advisory addresses three security vulnerabilities that could result in DoS or authentication bypass\n Updated: 29 Jul 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4531",
+          "publishedOn": "2024-07-29T14:04:00.000Z",
+          "wordCount": 772,
+          "title": "CC-4531 - Broadcom Releases Security Updates for VMware ESXi, vCenter Server, and Cloud Foundation Vulnerabilities",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "c4f7dfb7-a5bc-42b7-a313-051b023709d8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A critical vulnerability could allow an attacker to bypass authorisation plugins\n A critical vulnerability could allow an attacker to bypass authorisation plugins\n Updated: 25 Jul 2024",
@@ -142,6 +152,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151397",
+          "author": "Eliza Parr",
+          "description": "The doctors’ pay review body has recommended a 6% pay uplift for salaried GPs this year, according to the BMA’s sessional GP committee chair. Chancellor Rachel Reeves is expected to address public sector pay uplifts in her statement to the House of Commons this afternoon. Ahead of this, BMA sessional GP committee chair Dr Mark\nThe post DDRB ‘recommends 6% pay rise’ for salaried GPs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/ddrb-recommends-6-pay-rise-for-salaried-gps/",
+          "publishedOn": "2024-07-29T14:08:48.000Z",
+          "wordCount": 2318,
+          "title": "DDRB ‘recommends 6% pay rise’ for salaried GPs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=150700",
+          "author": "Maya Dhillon",
+          "description": "Dr Katie Musgrave compares the veterinary system to general practice to reflect on the systematic replacement of GPs My best friend from primary school was the daughter of a vet. I loved visiting her house: she had a tank of terrapins in her bedroom; her family kept chickens; and they had multiple dogs and cats.\nThe post Learn the lesson from vets: we cannot replace GPs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/katie-musgrave/learn-the-lesson-from-vets-we-cannot-replace-gps/",
+          "publishedOn": "2024-07-29T14:01:24.000Z",
+          "wordCount": 2847,
+          "title": "Learn the lesson from vets: we cannot replace GPs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/12/Dr_Katie_Musgrave_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=151310",
           "author": "Anna Colivicchi",
@@ -2248,6 +2278,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors",
+          "author": null,
+          "description": "Information for NHS bodies who need to make and recover hospital charges from overseas visitors.",
+          "link": "https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors",
+          "publishedOn": "2024-07-29T13:38:29.000Z",
+          "wordCount": 1698,
+          "title": "Guidance: NHS cost recovery - overseas visitors",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/reforming-social-work-bursary-information-packs",
           "author": null,
