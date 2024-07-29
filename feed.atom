@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-29T07:10:50.091Z</updated>
+    <updated>2024-07-29T08:13:22.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[East Kent Hospitals pilots population health platform]]></title>
+        <id>https://www.digitalhealth.net/?p=200459</id>
+        <link href="https://www.digitalhealth.net/2024/07/east-kent-hospitals-pilots-population-health-platform/"/>
+        <updated>2024-07-29T07:30:25.000Z</updated>
+        <summary type="html"><![CDATA[East Kent Hospitals University NHS Foundation Trust has introduced a population health platform to reduce preoperative consultation times.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
         <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
