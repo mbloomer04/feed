@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-30T10:11:26.452Z</updated>
+    <updated>2024-07-30T11:09:31.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=200251</id>
+        <link href="https://www.digitalhealth.net/2024/07/digital-health-coffee-time-briefing-158/"/>
+        <updated>2024-07-30T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[This Coffee Time Briefing features NHS Humber Health Partnership launching a transformation project to reduce hospital stays and admissions.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Cumbria Integrated Care NHS FT to roll out EPR in 2025]]></title>
         <id>https://www.digitalhealth.net/?p=200597</id>
@@ -379,6 +389,17 @@ The post CQC ratings of GP practices ‘lack consistency’, review finds appear
         <summary type="html"><![CDATA[Recommendations from the NHS Pay Review Body on the pay of NHS staff paid on Agenda for Change terms and conditions in England, Wales and Northern Ireland.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adolescent girls face alarming rates of intimate partner violence]]></title>
+        <id>urn:uuid:5f785e41-94ee-49a4-9d23-f2ffa12bb7b4</id>
+        <link href="https://www.who.int/news/item/29-07-2024-adolescent-girls-face-alarming-rates-of-intimate-partner-violence"/>
+        <updated>2024-07-28T16:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Among adolescent girls who have been in a relationship, nearly a quarter (24%) – close to 19 million – will have experienced physical and/or sexual intimate partner violence by the time they turn 20 years old, as highlighted by a new analysis from the World Health Organization (WHO) published today in The Lancet Child & Adolescent Health. Almost 1 in 6 (16%) experienced such violence in the past year. 
+“Intimate partner violence is starting alarmingly early for millions of young women around the world,” said Dr Pascale Allotey, Director of WHO’s Sexual and Reproductive Health and Research Department. “Given that violence during these critical formative years can cause profound and lasting harms, it needs to be taken more seriously as a public health issue – with a focus on prevention and t…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
