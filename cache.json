@@ -1390,6 +1390,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1882739",
+          "author": null,
+          "description": "GPs are by no means guaranteed to see the 6% uplift promised by the government reflected in their pay packets, financial experts have warned.",
+          "link": "https://www.gponline.com/no-guarantee-gp-contract-uplift-will-deliver-promised-6-accountants-warn/article/1882739",
+          "publishedOn": "2024-07-31T10:00:00.000Z",
+          "wordCount": 692,
+          "title": "'No guarantee' GP contract uplift will deliver promised 6%, accountants warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_70.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1882736",
+          "author": null,
+          "description": "The GMC has warned doctors taking part in protests or activism of their duty to 'follow the law', in updated guidance that sets out how the regulator will approach cases where doctors receive a criminal conviction.",
+          "link": "https://www.gponline.com/gmc-reminds-doctors-taking-part-protests-follow-law/article/1882736",
+          "publishedOn": "2024-07-30T15:59:59.000Z",
+          "wordCount": 717,
+          "title": "GMC reminds doctors taking part in protests to 'follow the law'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_38.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1882628",
           "author": null,
           "description": "A major private provider of NHS GP services will not have its practice contracts terminated despite a 'serious breach' of their terms, an ICB has confirmed.",
@@ -2298,6 +2318,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2024",
+          "author": null,
+          "description": "Information on how the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG) is controlling spend on branded medicines in the NHS.",
+          "link": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2024",
+          "publishedOn": "2024-07-31T12:12:58.000Z",
+          "wordCount": 894,
+          "title": "Transparency data: Voluntary scheme aggregate net sales and payment information: May 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
           "author": null,
