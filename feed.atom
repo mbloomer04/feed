@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-31T22:09:34.761Z</updated>
+    <updated>2024-07-31T23:09:36.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Over 1,000 more GPs to be recruited this year]]></title>
+        <id>https://www.gov.uk/government/news/over-1000-more-gps-to-be-recruited-this-year</id>
+        <link href="https://www.gov.uk/government/news/over-1000-more-gps-to-be-recruited-this-year"/>
+        <updated>2024-07-31T23:01:08.000Z</updated>
+        <summary type="html"><![CDATA[The government will recruit more than 1,000 newly qualified GPs thanks to action to remove red tape.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA urges pause on implementation of Cass transgender child treatment advice]]></title>
         <id>https://www.pulsetoday.co.uk/?p=151526</id>
@@ -4242,17 +4252,6 @@ The post Being a ‘slow’ GP isn’t all bad appeared first on Pulse Today.]]>
         <summary type="html"><![CDATA[The Health Foundation - This long read argues that a dedicated strategy for artifical intelligence (AI) in health care is needed to coordinate current fragmented efforts in the NHS in England. It sets out six priorities this strategy should address and some of the steps to do so. Long read]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPC warns NHS England may use call data to ‘performance manage’ practices]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=150401</id>
-        <link href="https://www.pulsetoday.co.uk/news/technology/gpc-warns-nhs-england-may-use-call-data-to-performance-manage-practices/"/>
-        <updated>2024-07-02T10:12:25.000Z</updated>
-        <summary type="html"><![CDATA[The BMA’s GP Committee England have raised concerns that NHS England could use cloud-based telephony data to ‘performance manage’ GP practices. GPC England chair Dr Katie Bramall-Stainer raised the concerns during an online roadshow last week, warning that the data collected could be used to check if practices close for lunch, or take half days,
-The post GPC warns NHS England may use call data to ‘performance manage’ practices appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
         </author>
     </entry>
 </feed>

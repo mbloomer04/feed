@@ -1381,16 +1381,6 @@
           "wordCount": 3774,
           "title": "Being a ‘slow’ GP isn’t all bad",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Dr-Seema-Pattni-1200x800-1.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=150401",
-          "author": "Anna Colivicchi",
-          "description": "The BMA’s GP Committee England have raised concerns that NHS England could use cloud-based telephony data to ‘performance manage’ GP practices. GPC England chair Dr Katie Bramall-Stainer raised the concerns during an online roadshow last week, warning that the data collected could be used to check if practices close for lunch, or take half days,\nThe post GPC warns NHS England may use call data to ‘performance manage’ practices appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/technology/gpc-warns-nhs-england-may-use-call-data-to-performance-manage-practices/",
-          "publishedOn": "2024-07-02T10:12:25.000Z",
-          "wordCount": 3557,
-          "title": "GPC warns NHS England may use call data to ‘performance manage’ practices",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/GPs-influx-calls-patients-directed-111-outage.jpg"
         }
       ]
     },
@@ -2298,6 +2288,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/over-1000-more-gps-to-be-recruited-this-year",
+          "author": null,
+          "description": "The government will recruit more than 1,000 newly qualified GPs thanks to action to remove red tape.",
+          "link": "https://www.gov.uk/government/news/over-1000-more-gps-to-be-recruited-this-year",
+          "publishedOn": "2024-07-31T23:01:08.000Z",
+          "wordCount": 2037,
+          "title": "Press release: Over 1,000 more GPs to be recruited this year",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/healthy-start-eligibility-for-families-who-cannot-access-public-funds",
           "author": null,
