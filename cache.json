@@ -153,6 +153,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=151479",
+          "author": "Maya Dhillon",
+          "description": "Dr Copperfield considers the impact of industrial action on patients I’m writing this just before the result of the ballot on industrial action. And I’m going out on a limb here, but I reckon GPs will be in favour. There’s one thing I’m less clear on, though. Why, as D-day approaches, does the message to\nThe post First, do some harm appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/copperfield/first-do-some-harm/",
+          "publishedOn": "2024-07-31T14:02:38.000Z",
+          "wordCount": 2394,
+          "title": "First, do some harm",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Copperfield_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=151304",
           "author": "Anna Colivicchi",
           "description": "Cornish GP practices have now been included in NHS England’s OPEL framework, in a move that the local LMC hopes will ‘raise the profile’ of pressures in general practice. Last year, Pulse revealed exclusively that NHS England is currently working towards incorporating general practice in the system used by hospitals to report when they are under pressure.\nThe post GP practices incorporated in NHSE’s OPEL framework in one area appeared first on Pulse Today.",
@@ -2318,6 +2328,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/healthy-start-eligibility-for-families-who-cannot-access-public-funds",
+          "author": null,
+          "description": "Seeks views on whether eligibility for Healthy Start should be extended to include others who are prevented from accessing public funds due to immigration controls.",
+          "link": "https://www.gov.uk/government/consultations/healthy-start-eligibility-for-families-who-cannot-access-public-funds",
+          "publishedOn": "2024-07-31T14:02:47.000Z",
+          "wordCount": 1166,
+          "title": "Open consultation: Healthy Start eligibility for families who cannot access public funds",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/healthy-start-extension-application-guidance",
+          "author": null,
+          "description": "Sets out who is eligible to apply for the Healthy Start scheme under the extended criteria, and how to apply.",
+          "link": "https://www.gov.uk/government/publications/healthy-start-extension-application-guidance",
+          "publishedOn": "2024-07-31T13:58:22.000Z",
+          "wordCount": 907,
+          "title": "Guidance: Healthy Start extension: application guidance",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2024",
           "author": null,
