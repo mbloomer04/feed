@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-31T08:12:42.092Z</updated>
+    <updated>2024-07-31T09:11:19.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP practice closes following ‘bankruptcy order’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=151440</id>
+        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/gp-practice-closes-following-bankruptcy-order/"/>
+        <updated>2024-07-31T08:58:20.000Z</updated>
+        <summary type="html"><![CDATA[A GP practice caring for 4,000 patients in the West Midlands has closed down following a bankruptcy order. Hawes Lane Surgery in Rowley Regis closed suddenly on Thursday last week. Pulse was told that ‘a bankruptcy order was made’ against the surgery and that Black Country ICB was informed that actions were taken to annul
+The post GP practice closes following ‘bankruptcy order’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
+        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
+        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
+        <updated>2024-07-31T08:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adoption of FDP ‘progressing at pace’, says NHS England]]></title>
         <id>https://www.digitalhealth.net/?p=200691</id>
@@ -4190,19 +4211,6 @@ The post Case of the month answers: Did you get what was the cause of this patie
         <summary type="html"><![CDATA[Heriot-Watt University is focusing on accelerating health tech research and development, through a partnership with ABHI.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO releases first-ever clinical treatment guideline for tobacco cessation in adults]]></title>
-        <id>urn:uuid:e8ccc53b-5d12-4328-9a34-5c68f5a22b17</id>
-        <link href="https://www.who.int/news/item/02-07-2024-who-releases-first-ever-clinical-treatment-guideline-for-tobacco-cessation-in-adults"/>
-        <updated>2024-07-01T20:42:45.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) recommends a comprehensive set of tobacco cessation interventions, including behavioural support delivered by health-care providers, digital cessation interventions and pharmacological treatments in a first guideline on tobacco cessation.
-The guideline focuses on helping the more than 750 million tobacco users who want to quit all forms of tobacco. The recommendations are relevant for all adults seeking to quit various tobacco products, including cigarettes, waterpipes, smokeless tobacco products, cigars, roll-your-own tobacco, and heated tobacco products (HTPs).
-
-“This guideline marks a crucial milestone in our global battle against these dangerous products," said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. "It empowers countries with the essen…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
