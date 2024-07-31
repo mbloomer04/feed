@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-07-31T07:08:01.995Z</updated>
+    <updated>2024-07-31T08:12:42.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adoption of FDP ‘progressing at pace’, says NHS England]]></title>
+        <id>https://www.digitalhealth.net/?p=200691</id>
+        <link href="https://www.digitalhealth.net/2024/07/adoption-of-fdp-progressing-at-pace-says-nhs-england/"/>
+        <updated>2024-07-31T07:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Adoption of the federated data platform (FDP) is “progressing at pace”, according to an announcement from NHS England.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO and United Arab Emirates evacuate 85 patients from Gaza]]></title>
         <id>urn:uuid:9f0a5b6f-5160-48c2-958e-0ae6b8d1e0c6</id>
