@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-01T04:12:30.672Z</updated>
+    <updated>2024-08-01T05:10:16.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First targeted treatment made available for hundreds of blood cancer patients on the NHS]]></title>
+        <id>https://www.england.nhs.uk/?p=250292</id>
+        <link href="https://www.england.nhs.uk/2024/08/first-targeted-treatment-made-available-for-hundreds-of-blood-cancer-patients-on-the-nhs/"/>
+        <updated>2024-07-31T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[A take-at-home tablet which could be a ‘game-changer’ for hundreds of blood cancer patients is now available on the NHS in England. Patients in England with a form of blood cancer known as marginal zone lymphoma (MZL) can now be offered an additional treatment option which could halt the progression of their cancer and provide […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Over 1,000 more GPs to be recruited this year]]></title>
         <id>https://www.gov.uk/government/news/over-1000-more-gps-to-be-recruited-this-year</id>
