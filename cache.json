@@ -153,6 +153,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=151502",
+          "author": "Maya Dhillon",
+          "description": "Editor Jaimie Kaffash questions the use of the term ‘collective action’ when GPs simply fulfil their contract If you are a little confused about the collective action beginning today, I don’t blame you. None of the measures breach the GP contract, and there are good reasons for this – GP partners simply can’t afford financial\nThe post Why shouldn’t this collective action be the norm? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/why-shouldnt-this-collective-action-be-the-norm/",
+          "publishedOn": "2024-08-01T15:24:42.000Z",
+          "wordCount": 2419,
+          "title": "Why shouldn’t this collective action be the norm?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/Jaimie_Kaffash_1200x800px.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151613",
+          "author": "Anna Colivicchi",
+          "description": "The health secretary has said he wants ‘to reset the relationship between GPs and the Government’, in a letter sent to the profession today. Wes Streeting wrote to GPs today after the announcement that practices will be allowed to employ GPs as part of the additional roles reimbursement scheme (ARRS), in the hope practices will\nThe post Wes Streeting wants to ‘reset relationship’ between GPs and the Government appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/politics/health-secretary-says-he-wants-to-reset-relationships-between-gps-and-government/",
+          "publishedOn": "2024-08-01T15:19:12.000Z",
+          "wordCount": 2720,
+          "title": "Wes Streeting wants to ‘reset relationship’ between GPs and the Government",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/wes-streeting-MJA-podium.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=151597",
           "author": "Eliza Parr",
           "description": "High cholesterol and untreated vision loss have been identified as new risk factors for dementia by a major new report. The Lancet’s third ‘commission’ on dementia, published yesterday, suggested that 45% of dementia cases could be prevented or delayed by tackling 14 risk factors starting in childhood.  A previous dementia commission in 2020 identified 12\nThe post Dementia commission adds high cholesterol and untreated vision loss to risk list appeared first on Pulse Today.",
@@ -1400,6 +1420,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1882982",
+          "author": null,
+          "description": "Backing a 6% pay uplift and plans to recruit 1,000 GPs by expanding the additional roles reimbursement scheme (ARRS) are 'simply the first steps' towards a more sustainable future for general practice, the health and social care secretary has said.",
+          "link": "https://www.gponline.com/contract-uplift-82m-arrs-plan-first-steps-sustainable-general-practice-streeting-tells-gps/article/1882982",
+          "publishedOn": "2024-08-01T14:36:11.000Z",
+          "wordCount": 938,
+          "title": "Contract uplift and £82m ARRS plan 'first steps' to sustainable general practice, Streeting tells GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_GettyImages-LeonNeal_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1882951",
           "author": null,
           "description": "An £82m bolt-on to the additional roles reimbursement scheme (ARRS) unveiled by the government may not deliver the 'more than 1,000' new GP jobs it claims unless recruits are paid below market rates, a specialist accountant has warned.",
@@ -2348,6 +2378,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-june-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-june-2024",
+          "publishedOn": "2024-08-01T16:00:22.000Z",
+          "wordCount": 792,
+          "title": "Transparency data: DHSC: workforce management information June 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-may-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-may-2024",
+          "publishedOn": "2024-08-01T15:59:25.000Z",
+          "wordCount": 792,
+          "title": "Transparency data: DHSC: workforce management information May 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-april-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-april-2024",
+          "publishedOn": "2024-08-01T15:42:01.000Z",
+          "wordCount": 792,
+          "title": "Transparency data: DHSC: workforce management information April 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2024",
+          "publishedOn": "2024-08-01T15:40:45.000Z",
+          "wordCount": 793,
+          "title": "Transparency data: DHSC: workforce management information March 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-february-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-february-2024",
+          "publishedOn": "2024-08-01T15:37:31.000Z",
+          "wordCount": 792,
+          "title": "Transparency data: DHSC: workforce management information February 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-august-2024",
           "author": null,
