@@ -1370,6 +1370,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1882967",
+          "author": null,
+          "description": "Talking General Practice speaks to Dr Adrian Hayter, the Royal College of GPs medical director of clinical policy and a GP in Windsor, about the college’s new clinical priority - preventive medicine.",
+          "link": "https://www.gponline.com/podcast-preventive-medicine-general-practice-dr-adrian-hayter-rcgp/article/1882967",
+          "publishedOn": "2024-08-02T07:20:00.000Z",
+          "wordCount": 1176,
+          "title": "Podcast: Preventive medicine in general practice - with Dr Adrian Hayter from the RCGP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_971.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1882982",
           "author": null,
           "description": "Backing a 6% pay uplift and plans to recruit 1,000 GPs by expanding the additional roles reimbursement scheme (ARRS) are 'simply the first steps' towards a more sustainable future for general practice, the health and social care secretary has said.",
@@ -2298,6 +2308,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "author": null,
+          "description": "Proportion of payments made within 5 and 30 working days.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "publishedOn": "2024-08-02T08:35:19.000Z",
+          "wordCount": 1718,
+          "title": "Transparency data: Department of Health and Social Care prompt payment of suppliers",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/health-and-social-care-secretary-visits-hospital-staff-in-epping",
           "author": null,
