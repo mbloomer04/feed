@@ -2104,6 +2104,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5cff1f83-a677-4a72-9990-bd90c5509386",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Tanja Galloway talks about the work of the NHS App user research team – and the challenges of supporting a fast-moving, inclusive national service. \n\r\n\r\nThe NHS App recently achieved a significant milestone: most adults in England (34 million people) have now registered to use it.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2024/how-we-scaled-up-user-research-in-the-nhs-app-at-speed",
+          "publishedOn": "2024-08-05T14:06:11.000Z",
+          "wordCount": 1507,
+          "title": "How we scaled up user research in the NHS App at speed",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/nhs-app-user-research-blog-lead-image.jpg"
+        },
+        {
           "id": "37b11b66-f76d-4fc4-830d-d915eff2e76a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Adam Hollings and Humaira Hussein talk about how NHS England Secure Data Environment service is powering life-saving research and treatments across the UK. \n\r\n\r\nNHS England Secure Data Environment service is part of the Secure Data Environment network which is powering life-saving research and treatments across the UK.",
@@ -2154,7 +2164,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "5cff1f83-a677-4a72-9990-bd90c5509386",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Tanja Galloway talks about the work of the NHS App user research team – and the challenges of supporting a fast-moving, inclusive national service. \n\r\n\r\nThe NHS App recently achieved a significant milestone: most adults in England (34 million people) have now registered to use it.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2024/how-we-scaled-up-user-research-in-the-nhs-app-at-speed",
+          "publishedOn": "2024-08-05T14:06:11.000Z",
+          "wordCount": 1507,
+          "title": "How we scaled up user research in the NHS App at speed",
+          "imageUrl": "https://digital.nhs.uk/binaries/content/gallery/website/design-matters-blog/nhs-app-user-research-blog-lead-image.jpg"
+        }
+      ]
     },
     {
       "title": "NHS England",
