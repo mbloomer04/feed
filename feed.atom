@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-07T22:09:45.076Z</updated>
+    <updated>2024-08-07T23:09:52.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs ‘least satisfied’ with their job among all doctors, GMC finds]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=151798</id>
+        <link href="https://www.pulsetoday.co.uk/news/workforce/gps-least-satisfied-with-their-job-among-all-doctors-gmc-finds/"/>
+        <updated>2024-08-07T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[GPs continue to be the least likely to be satisfied with their job and the most likely to be struggling with their workload among all doctor groups, according to new GMC data. The regulator’s latest annual report into workplace accounts of doctors in the UK warned that the experiences of GPs ‘remain concerningly poor’. It
+The post GPs ‘least satisfied’ with their job among all doctors, GMC finds appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4534 - Progress Software Releases Security Advisory for WhatsUp Gold]]></title>
         <id>7f0cccc5-5cd7-4e75-961e-d1a9cd99b81a</id>
@@ -4426,26 +4437,6 @@ The post Tirzepatide more effective than semaglutide for weight loss, finds stud
         <summary type="html"><![CDATA[A £1m project will explore how 5G technologies can improve and speed up the delivery of healthcare in the North East.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Unplugged: How digital maturity can help close the NHS’ 10-year divide]]></title>
-        <id>https://www.digitalhealth.net/?p=178409</id>
-        <link href="https://www.digitalhealth.net/2024/07/digital-health-unplugged-how-digital-maturity-can-help-close-the-nhs-10-year-divide/"/>
-        <updated>2024-07-09T10:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Jordan Sollof is joined by Mark Burton, health and social care lead at Virgin Media O2 Business, to discuss NHS digital maturity.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Medicines that you cannot export from the UK or hoard]]></title>
-        <id>https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk</id>
-        <link href="https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk"/>
-        <updated>2024-07-09T10:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
