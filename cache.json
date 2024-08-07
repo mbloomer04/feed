@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7f0cccc5-5cd7-4e75-961e-d1a9cd99b81a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses 15 security vulnerabilities that could lead to unauthorised access\n Advisory addresses 15 security vulnerabilities that could lead to unauthorised access\n Updated: 07 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4534",
+          "publishedOn": "2024-08-07T16:10:00.000Z",
+          "wordCount": 1062,
+          "title": "CC-4534 - Progress Software Releases Security Advisory for WhatsUp Gold",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1722943377372/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "e41703b6-10db-4154-a74f-001a22be6ece",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n An improper authentication vulnerability can lead to privilege escalation\n An improper authentication vulnerability can lead to privilege escalation\n Updated: 01 Aug 2024",
@@ -142,6 +152,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151797",
+          "author": "Jaimie Kaffash",
+          "description": "General practice is disproportionately non-white, and GPs will be feeling the effects of these riots as much as anyone, argues editor Jaimie Kaffash Last week was one of the busiest weeks in terms of policy that we’ve seen for a while. We saw the closing of the ballot, the announcement of collective action, the promise\nThe post Concerns are not ‘legitimate’ if GPs are closing early for their safety appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/concerns-are-not-legitimate-if-gps-are-closing-early-for-their-safety/",
+          "publishedOn": "2024-08-07T15:19:28.000Z",
+          "wordCount": 2749,
+          "title": "Concerns are not ‘legitimate’ if GPs are closing early for their safety",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/Jaimie_Kaffash_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=151784",
           "author": "Anna Colivicchi",
