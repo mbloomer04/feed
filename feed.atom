@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-07T02:02:58.799Z</updated>
+    <updated>2024-08-07T03:11:26.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4393,29 +4393,6 @@ The post GPCE chair to new health secretary: ‘Let’s work together to rebuild
 The post GPs ask Government for 1% year-on-year increase to share of NHS budget appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4520 - Apache Releases Multiple Security Updates for HTTP Server]]></title>
-        <id>43ed7b09-5adf-4119-a06b-c57344bde238</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4520"/>
-        <updated>2024-07-08T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution
- Nine vulnerabilities have been patched, including two that could allow information disclosure and three that could lead to remote code execution
- Updated: 08 Jul 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI can help build sustainable services – but only if we mitigate its risks]]></title>
-        <id>https://www.digitalhealth.net/?p=177969</id>
-        <link href="https://www.digitalhealth.net/2024/07/ai-can-help-build-sustainable-services-but-only-if-we-mitigate-its-risks-3/"/>
-        <updated>2024-07-08T14:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Concerns about AI should not stop progress. They should prompt us to think about how to apply such powerful processing, argue Rebecca Hughes and Paul Davies]]></summary>
-        <author>
-            <name>DHI</name>
         </author>
     </entry>
 </feed>
