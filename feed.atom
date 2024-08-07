@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-07T07:09:44.406Z</updated>
+    <updated>2024-08-07T08:13:49.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Dr Katie Bramall-Stainer on GP collective action and what happens now]]></title>
+        <id>https://www.gponline.com/article/1883341</id>
+        <link href="https://www.gponline.com/podcast-dr-katie-bramall-stainer-gp-collective-action-happens/article/1883341"/>
+        <updated>2024-08-07T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[BMA England GP committee chair Dr Katie Bramall-Stainer explains why GPs need to take collective action, what she hopes it will achieve and the changes that are needed to ensure a sustainable future for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How would I improve the NHS? Well, I wouldn’t start from here]]></title>
         <id>https://www.pulsetoday.co.uk/?p=151469</id>
@@ -4341,16 +4351,6 @@ The post Health secretary commits to ‘reversing’ GP underfunding on first NH
         <summary type="html"><![CDATA[Greater Manchester is rolling out a patient app alongside digital care plans, as part of the GM Care Record.]]></summary>
         <author>
             <name>Cora Lydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: New health secretary joined by NHS CEO on London GP surgery visit]]></title>
-        <id>https://www.gov.uk/government/news/new-health-secretary-joined-by-nhs-ceo-on-london-gp-surgery-visit</id>
-        <link href="https://www.gov.uk/government/news/new-health-secretary-joined-by-nhs-ceo-on-london-gp-surgery-visit"/>
-        <updated>2024-07-08T19:59:32.000Z</updated>
-        <summary type="html"><![CDATA[The Secretary of State and NHS Chief Executive Amanda Pritchard visited the Abbey Medical Centre in St John’s Wood, London.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
