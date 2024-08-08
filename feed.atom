@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-07T23:09:52.305Z</updated>
+    <updated>2024-08-08T00:46:22.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -15,6 +15,16 @@
 The post GPs ‘least satisfied’ with their job among all doctors, GMC finds appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs forced to cut working hours as overwork and low satisfaction take toll, GMC reveals]]></title>
+        <id>https://www.gponline.com/article/1883549</id>
+        <link href="https://www.gponline.com/gps-forced-cut-working-hours-overwork-low-satisfaction-toll-gmc-reveals/article/1883549"/>
+        <updated>2024-08-07T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly a third of GPs cut their contracted working hours in 2023 as the profession remained more overworked and less satisfied than any other group of doctors, a GMC report shows.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4427,16 +4437,6 @@ The post Tirzepatide more effective than semaglutide for weight loss, finds stud
         <summary type="html"><![CDATA[NHS Providers - This briefing outlines the importance of prioritising the announcement of the 2024/25 pay award for NHS staff and explains the pay review process in England, with an overview of the: NHS Pay Review Body (NHSPRB), covering most NHS staff; Doctors’ and Dentists’ Remuneration Body (DDRB); and Senior Salaries Review Body (SSRB), covering very senior public sector managers,...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[£1m project explores how 5G can transform North East healthcare]]></title>
-        <id>https://www.digitalhealth.net/?p=196931</id>
-        <link href="https://www.digitalhealth.net/2024/07/1m-project-explores-how-5g-can-transform-north-east-healthcare/"/>
-        <updated>2024-07-09T12:34:16.000Z</updated>
-        <summary type="html"><![CDATA[A £1m project will explore how 5G technologies can improve and speed up the delivery of healthcare in the North East.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>

@@ -1400,6 +1400,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1883549",
+          "author": null,
+          "description": "Nearly a third of GPs cut their contracted working hours in 2023 as the profession remained more overworked and less satisfied than any other group of doctors, a GMC report shows.",
+          "link": "https://www.gponline.com/gps-forced-cut-working-hours-overwork-low-satisfaction-toll-gmc-reveals/article/1883549",
+          "publishedOn": "2024-08-07T23:01:00.000Z",
+          "wordCount": 731,
+          "title": "GPs forced to cut working hours as overwork and low satisfaction take toll, GMC reveals",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1883521",
           "author": null,
           "description": "GP practices across the country are closing earlier to ensure the safety of staff and patients as racist and Islamophobic riots continue to spread across the country.",
@@ -4329,16 +4339,6 @@
           "wordCount": 3818,
           "title": "Wes Streeting: We can make Britain a powerhouse for MedTech",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/06/Wes-Streeting-555.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=196931",
-          "author": "Jordan Sollof",
-          "description": "A £1m project will explore how 5G technologies can improve and speed up the delivery of healthcare in the North East.",
-          "link": "https://www.digitalhealth.net/2024/07/1m-project-explores-how-5g-can-transform-north-east-healthcare/",
-          "publishedOn": "2024-07-09T12:34:16.000Z",
-          "wordCount": 3727,
-          "title": "£1m project explores how 5G can transform North East healthcare",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2023/05/5G.jpg"
         }
       ]
     }
