@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "004b7f6c-b964-430f-bb6a-c3f6ec8eb34a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updated: 08 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4535",
+          "publishedOn": "2024-08-08T13:38:00.000Z",
+          "wordCount": 656,
+          "title": "CC-4535 - Roundcube Releases Security Updates for Webmail",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1722943377372/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "7f0cccc5-5cd7-4e75-961e-d1a9cd99b81a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses 15 security vulnerabilities that could lead to unauthorised access\n Advisory addresses 15 security vulnerabilities that could lead to unauthorised access\n Updated: 07 Aug 2024",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151830",
+          "author": "Anna Colivicchi",
+          "description": "GPs will no longer be able to refer young people directly into waiting lists for children gender services, NHS England has decided. Referrals may only be made by paediatric or mental health services, and ‘will not be accepted from any other source’, according to new documents published as part of NHS England’s plans to implement\nThe post GPs to no longer refer directly into children gender services appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/paediatrics/gps-to-no-longer-refer-directly-into-children-gender-services/",
+          "publishedOn": "2024-08-08T13:47:32.000Z",
+          "wordCount": 3440,
+          "title": "GPs to no longer refer directly into children gender services",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/01/waiting-room-patients-face-masks-child-mother.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=151812",
           "author": "Jaimie Kaffash",
