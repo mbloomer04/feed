@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-09T00:47:07.897Z</updated>
+    <updated>2024-08-09T02:02:34.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4364,42 +4364,6 @@ The post CQC sets out how it will inspect PA supervision in GP practices appeare
         <summary type="html"><![CDATA[Guidance for diabetic eye screening providers on use of optical coherence tomography (OCT) in surveillance clinics.]]></summary>
         <author>
             <name>Public Health England - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4523 - Microsoft Releases July 2024 Security Updates]]></title>
-        <id>11043b59-8336-4414-aedb-86aca971151e</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4523"/>
-        <updated>2024-07-10T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities
- Scheduled updates for Microsoft products fix 139 vulnerabilities, including two zero-day vulnerabilities
- Updated: 10 Jul 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4522 - Fortinet Releases Security Update for FortiOS and FortiProxy XSS Vulnerability]]></title>
-        <id>d90d5190-12a0-4b3e-a97a-c183d1ceee8c</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4522"/>
-        <updated>2024-07-10T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2024-26006 is a cross-site scripting vulnerability in SSL-VPN web UI
- CVE-2024-26006 is a cross-site scripting vulnerability in SSL-VPN web UI
- Updated: 10 Jul 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking clinical trial country prioritization: enabling agility through global diversification]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2024/07/rethinking-clinical-trial-country-prioritization-enabling-agility-through-global-diversification.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2024/07/rethinking-clinical-trial-country-prioritization-enabling-agility-through-global-diversification.html"/>
-        <updated>2024-07-10T13:16:54.000Z</updated>
-        <summary type="html"><![CDATA[IQVIA Institute for Human Data Science - This report sets out to characterize the need for clinical trial global diversification by assessing trends in enrollment timelines, trial characteristics, and country utilization over the past five years. It examines the recent shifts and consolidation in regional and country clinical trial allocation, including analysis of the role of single country trials. Report...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>
