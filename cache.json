@@ -144,16 +144,6 @@
           "wordCount": 599,
           "title": "CC-4522 - Fortinet Releases Security Update for FortiOS and FortiProxy XSS Vulnerability",
           "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "1f2b00c1-3e25-4c50-9bca-41a7ca515abb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Two vulnerabilities could lead to sensitive information disclosure or DoS \n Updated: 10 Jul 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4521",
-          "publishedOn": "2024-07-10T12:43:00.000Z",
-          "wordCount": 611,
-          "title": "CC-4521 - Citrix Releases Security Critical Updates for NetScaler Console, NetScaler Agent, and NetScaler SVM",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -1439,6 +1429,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1884558",
+          "author": null,
+          "description": "More than three quarters of the British public are concerned about the level of pressure on general practice, according to polling carried out just before the general election.",
+          "link": "https://www.gponline.com/vast-majority-public-concerned-pressure-gps-poll-shows/article/1884558",
+          "publishedOn": "2024-08-08T23:01:00.000Z",
+          "wordCount": 720,
+          "title": "Vast majority of public concerned about pressure on GPs, poll shows",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-SolStock_RF_7.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1883589",
           "author": null,
@@ -3395,16 +3395,6 @@
           "wordCount": null,
           "title": "Rethinking clinical trial country prioritization: enabling agility through global diversification",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/07/keeping-your-integrated-care-system-safer-from-cyber-attacks.html",
-          "author": null,
-          "description": "NHS Providers - This briefing from NHS Provider's Digital Integrated Care System programme shares five top tips and pose a series of questions to help ICS leaders ensure they are prepared and able to respond to cyber threats. Briefing More detail",
-          "link": "https://kingsfund.blogs.com/health_management/2024/07/keeping-your-integrated-care-system-safer-from-cyber-attacks.html",
-          "publishedOn": "2024-07-10T11:50:21.000Z",
-          "wordCount": null,
-          "title": "Keeping your integrated care system safer from cyber attacks",
-          "imageUrl": null
         }
       ]
     },
@@ -4309,16 +4299,6 @@
           "wordCount": 3758,
           "title": "Hull digital study sees 50% fall in COPD emergency attendances",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Lenus-health-app.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=196973",
-          "author": "Jordan Sollof",
-          "description": "West Northamptonshire Council is implementing its System C's case management app for adult social care in the region.",
-          "link": "https://www.digitalhealth.net/2024/07/west-northamptonshire-to-launch-cloud-based-social-care-system/",
-          "publishedOn": "2024-07-10T12:30:06.000Z",
-          "wordCount": 3733,
-          "title": "West Northamptonshire to launch cloud-based social care system",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/WNC-Council-offices_0.png"
         }
       ]
     }
