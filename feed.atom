@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-09T21:09:14.688Z</updated>
+    <updated>2024-08-09T22:10:56.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1293,6 +1293,16 @@ The post GP partners vote in favour of taking collective action appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Official Statistics: Adult social care in England, monthly statistics: July 2024]]></title>
+        <id>https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-july-2024</id>
+        <link href="https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-july-2024"/>
+        <updated>2024-08-01T08:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPs back collective action in landmark vote for general practice]]></title>
         <id>https://www.gponline.com/article/1882917</id>
         <link href="https://www.gponline.com/gps-back-collective-action-landmark-vote-general-practice/article/1882917"/>
@@ -1300,6 +1310,16 @@ The post GP partners vote in favour of taking collective action appeared first o
         <summary type="html"><![CDATA[GP partners have voted overwhelmingly in favour of collective action in a landmark BMA ballot that could see widespread adoption of safe working advice including capping daily appointments per GP in the coming days and weeks.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Adult social care in England statistics: background quality and methodology]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-background-quality-and-methodology"/>
+        <updated>2024-08-01T08:30:08.000Z</updated>
+        <summary type="html"><![CDATA[How the Department of Health and Social Care (DHSC) puts together the data in its monthly reports.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -4355,47 +4375,6 @@ The post Lord Darzi tasked to lead investigation into ‘state of the NHS’ app
 The post Three quarters of patients have ‘good’ GP experience, finds NHS Patient Survey appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record A&E demand for June amid hot weather and strikes]]></title>
-        <id>https://www.england.nhs.uk/?p=249095</id>
-        <link href="https://www.england.nhs.uk/2024/07/record-ae-demand-for-june-amid-hot-weather-and-strikes/"/>
-        <updated>2024-07-11T10:07:44.000Z</updated>
-        <summary type="html"><![CDATA[NHS staff managed a record number of A&E attendances for any June and more than half a million emergency admissions, new figures show today. Hospitals reported that they dealt with more than 2.29 million attendances to their A&E departments and over half a million emergency admissions (536,884) – more than any other June. Last month […]]]></summary>
-        <author>
-            <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Children’s Health Ireland to implement interoperability platform]]></title>
-        <id>https://www.digitalhealth.net/?p=197049</id>
-        <link href="https://www.digitalhealth.net/2024/07/childrens-health-ireland-to-roll-out-interoperability-platform/"/>
-        <updated>2024-07-11T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Children’s Health Ireland is working with InterSystems to implement an interoperability platform at the new digital children’s hospital in Dublin.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pregnant women urged to have pertussis vaccine as cases continue to rise]]></title>
-        <id>https://www.gponline.com/article/1880395</id>
-        <link href="https://www.gponline.com/pregnant-women-urged-pertussis-vaccine-cases-continue-rise/article/1880395"/>
-        <updated>2024-07-11T09:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Health officials are urging pregnant women to come forward for the pertussis vaccine as latest figures show that cases continue to rise.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Royal colleges urge Government to review GP and PA workforce goals]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=150719</id>
-        <link href="https://www.pulsetoday.co.uk/news/workforce/royal-colleges-urge-government-to-review-gp-and-pa-workforce-goals/"/>
-        <updated>2024-07-11T09:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Two royal colleges have written to the health secretary urging a review of GP and physician associate (PA) workforce projections. Both the RCGP and the Royal College of Physicians (RCP) have asked Wes Streeting to reconsider elements of NHS England’s long-term workforce plan, which was published last year.  The plan aims to establish a PA
-The post Royal colleges urge Government to review GP and PA workforce goals appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Eliza Parr</name>
         </author>
     </entry>
 </feed>
