@@ -2259,6 +2259,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/care-act-statutory-guidance",
+          "author": null,
+          "description": "Support for local authorities to carry out the implementation for part 1 of the Care Act 2014.",
+          "link": "https://www.gov.uk/government/publications/care-act-statutory-guidance",
+          "publishedOn": "2024-08-12T13:45:29.000Z",
+          "wordCount": 1921,
+          "title": "Statutory guidance: Care Act 2014: supporting implementation",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
           "author": null,
           "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",

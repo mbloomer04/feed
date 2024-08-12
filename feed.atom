@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-12T13:16:22.174Z</updated>
+    <updated>2024-08-12T14:11:35.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Statutory guidance: Care Act 2014: supporting implementation]]></title>
+        <id>https://www.gov.uk/government/publications/care-act-statutory-guidance</id>
+        <link href="https://www.gov.uk/government/publications/care-act-statutory-guidance"/>
+        <updated>2024-08-12T13:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Support for local authorities to carry out the implementation for part 1 of the Care Act 2014.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leeds Teaching Hospitals to trial laser-activated antimicrobial]]></title>
         <id>https://www.digitalhealth.net/?p=201933</id>
