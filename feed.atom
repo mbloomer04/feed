@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-12T04:12:35.397Z</updated>
+    <updated>2024-08-12T05:10:59.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS chief nurse urges students to consider healthcare careers through clearing]]></title>
+        <id>https://www.england.nhs.uk/?p=250964</id>
+        <link href="https://www.england.nhs.uk/2024/08/nhs-chief-nurse-urges-students-to-consider-healthcare-careers-through-clearing/"/>
+        <updated>2024-08-11T23:01:49.000Z</updated>
+        <summary type="html"><![CDATA[The university clearing system is a great gateway into the NHS, health bosses are reminding would-be graduates and career-changers. As thousands of students nervously await their A-level results on Thursday (15 August), the NHS is launching a campaign to highlight the many healthcare career options available through UCAS clearing. Students reconsidering their choices after receiving […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO invites mpox vaccine manufacturers to submit dossiers for emergency evaluation]]></title>
         <id>urn:uuid:59281230-ec21-402b-8f8b-ac8f2e39b855</id>
