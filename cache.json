@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1884871",
+          "author": null,
+          "description": "Some practices will not receive enough funding through the increased 2024/25 GP contract uplift to pass on a full 6% pay uplift to salaried GPs and other staff, the BMA has warned.",
+          "link": "https://www.gponline.com/gp-contract-uplift-wont-cover-6-pay-rise-practices-bma-warns/article/1884871",
+          "publishedOn": "2024-08-13T09:19:30.000Z",
+          "wordCount": 730,
+          "title": "GP contract uplift won't cover 6% pay rise for all practices, BMA warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_71.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1884604",
           "author": null,
           "description": "The GP partnership model is a sacred cow that the profession is unwilling to relinquish, but a system that leaves GPs facing the pressures of running a small business on a shoestring alongside intense clinical work seems like a recipe for burnout. Maybe it's time for a rethink, says former GP partner Dr Tom Riddington.",
@@ -1398,6 +1408,16 @@
           "wordCount": 693,
           "title": "RSV vaccination could prevent 5,000 infant hospitalisations a year",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1328370916_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1884802",
+          "author": null,
+          "description": "A man has received an 18-month suspended prison sentence after pleading guilty to offences including threatening behaviour and threatening to damage property at a GP practice.",
+          "link": "https://www.gponline.com/man-handed-suspended-jail-term-threats-violence-gp-practice/article/1884802",
+          "publishedOn": "2024-08-13T07:31:00.000Z",
+          "wordCount": 712,
+          "title": "Man handed suspended jail term for threats of violence at GP practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Police_GettyImages-Alphotographic_RF.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1884825",
@@ -3451,16 +3471,6 @@
           "wordCount": 2963,
           "title": "The Gambia’s decision to uphold ban on FGM critical win for girls’ and women’s rights",
           "imageUrl": "https://cdn.who.int/media/images/default-source/health-topics/fgm/unicef-un0414863.tmb-1200v.jpeg?sfvrsn=e913f466_2"
-        },
-        {
-          "id": "urn:uuid:cfba6b0d-f933-47e7-bf9f-02410624e25d",
-          "author": null,
-          "description": "Global childhood immunization coverage stalled in 2023, leaving 2.7 million additional children un- and under-vaccinated compared to pre-pandemic levels in 2019, according to data published today by the World Health Organization (WHO) and UNICEF.\nThe latest WHO and UNICEF estimates of national immunization coverage (WUENIC) – which provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 14 diseases – underscore the need for ongoing catch-up, recovery and system-strengthening efforts.\n“The latest trends demonstrate that many countries continue to miss far too many children,” said UNICEF Executive Director Catherine Russell. “Closing the immunization gap requires a global effort, with governments, partners, and local leaders investing in pri…",
-          "link": "https://www.who.int/news/item/15-07-2024-global-childhood-immunization-levels-stalled-in-2023-leaving-many-without-life-saving-protection",
-          "publishedOn": "2024-07-14T23:53:00.000Z",
-          "wordCount": 3477,
-          "title": "Global childhood immunization levels stalled in 2023, leaving many without life-saving protection",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/2023-kisumu-kenya.tmb-1200v.jpg?sfvrsn=ce47ab8f_4"
         }
       ]
     },

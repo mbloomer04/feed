@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-13T11:08:29.489Z</updated>
+    <updated>2024-08-13T12:19:15.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -48,6 +48,16 @@ The post GPs with burnout already resilient and need better support, research sh
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GP contract uplift won't cover 6% pay rise for all practices, BMA warns]]></title>
+        <id>https://www.gponline.com/article/1884871</id>
+        <link href="https://www.gponline.com/gp-contract-uplift-wont-cover-6-pay-rise-practices-bma-warns/article/1884871"/>
+        <updated>2024-08-13T09:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Some practices will not receive enough funding through the increased 2024/25 GP contract uplift to pass on a full 6% pay uplift to salaried GPs and other staff, the BMA has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Almost half of England’s GP practices have started taking collective action]]></title>
         <id>https://www.pulsetoday.co.uk/?p=151971</id>
         <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/almost-half-of-englands-gp-practices-have-started-taking-collective-action/"/>
@@ -74,6 +84,16 @@ The post Almost half of England’s GP practices have started taking collective 
         <link href="https://www.gponline.com/rsv-vaccination-prevent-5000-infant-hospitalisations-year/article/1884859"/>
         <updated>2024-08-13T07:45:42.000Z</updated>
         <summary type="html"><![CDATA[The RSV vaccination programme for pregnant women, which is due to start from September, could prevent 5,000 infant hospitalisations a year, health officials have said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man handed suspended jail term for threats of violence at GP practice]]></title>
+        <id>https://www.gponline.com/article/1884802</id>
+        <link href="https://www.gponline.com/man-handed-suspended-jail-term-threats-violence-gp-practice/article/1884802"/>
+        <updated>2024-08-13T07:31:00.000Z</updated>
+        <summary type="html"><![CDATA[A man has received an 18-month suspended prison sentence after pleading guilty to offences including threatening behaviour and threatening to damage property at a GP practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
@@ -4315,18 +4335,6 @@ The post Stephen Kinnock named minister responsible for general practice appeare
         <summary type="html"><![CDATA[Some of England's ICB areas need to grow their GP workforce by more than a third to deliver safe care for their current patient population, analysis by GPonline's GP Insight data project reveals.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global childhood immunization levels stalled in 2023, leaving many without life-saving protection]]></title>
-        <id>urn:uuid:cfba6b0d-f933-47e7-bf9f-02410624e25d</id>
-        <link href="https://www.who.int/news/item/15-07-2024-global-childhood-immunization-levels-stalled-in-2023-leaving-many-without-life-saving-protection"/>
-        <updated>2024-07-14T23:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Global childhood immunization coverage stalled in 2023, leaving 2.7 million additional children un- and under-vaccinated compared to pre-pandemic levels in 2019, according to data published today by the World Health Organization (WHO) and UNICEF.
-The latest WHO and UNICEF estimates of national immunization coverage (WUENIC) – which provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 14 diseases – underscore the need for ongoing catch-up, recovery and system-strengthening efforts.
-“The latest trends demonstrate that many countries continue to miss far too many children,” said UNICEF Executive Director Catherine Russell. “Closing the immunization gap requires a global effort, with governments, partners, and local leaders investing in pri…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
