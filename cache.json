@@ -6,6 +6,36 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "109955e9-5dd3-4129-8431-57e20b76a8c4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Updated: 14 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4537",
+          "publishedOn": "2024-08-14T12:15:00.000Z",
+          "wordCount": 1174,
+          "title": "CC-4537 - Microsoft Releases August 2024 Security Updates",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
+          "id": "f23828e8-5b9e-4a50-942d-224ccd27ffaa",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation\n Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation\n Updated: 14 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4538",
+          "publishedOn": "2024-08-14T12:01:00.000Z",
+          "wordCount": 524,
+          "title": "CC-4538 - Adobe Releases Security Updates for Acrobat and Reader",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
+          "id": "63eb5ba8-c97f-4427-9353-262e32dc8d76",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could lead to full system compromise\n Successful exploitation could lead to full system compromise\n Updated: 14 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4536",
+          "publishedOn": "2024-08-14T11:59:00.000Z",
+          "wordCount": 521,
+          "title": "CC-4536 - SAP Releases Security Update for BusinessObjects",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "004b7f6c-b964-430f-bb6a-c3f6ec8eb34a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updated: 08 Aug 2024",
@@ -1379,6 +1409,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1885081",
+          "author": null,
+          "description": "BMA GP leaders have urged the profession to 'push on with collective action' after revealing that global sum payments to practices will rise by 7.4% in 2024/25.",
+          "link": "https://www.gponline.com/bma-warns-gps-now-not-time-waver-collective-action/article/1885081",
+          "publishedOn": "2024-08-14T10:43:27.000Z",
+          "wordCount": 726,
+          "title": "BMA warns GPs 'now is not the time to waver' over collective action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/David_Wrigley_BMA_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1884980",
           "author": null,

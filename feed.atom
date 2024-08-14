@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-14T11:09:37.117Z</updated>
+    <updated>2024-08-14T12:19:44.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4537 - Microsoft Releases August 2024 Security Updates]]></title>
+        <id>109955e9-5dd3-4129-8431-57e20b76a8c4</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4537"/>
+        <updated>2024-08-14T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities
+ Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities
+ Updated: 14 Aug 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4538 - Adobe Releases Security Updates for Acrobat and Reader]]></title>
+        <id>f23828e8-5b9e-4a50-942d-224ccd27ffaa</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4538"/>
+        <updated>2024-08-14T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation
+ Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation
+ Updated: 14 Aug 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4536 - SAP Releases Security Update for BusinessObjects]]></title>
+        <id>63eb5ba8-c97f-4427-9353-262e32dc8d76</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4536"/>
+        <updated>2024-08-14T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could lead to full system compromise
+ Successful exploitation could lead to full system compromise
+ Updated: 14 Aug 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish GP practices funded to target ‘lost’ patients]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152110</id>
@@ -15,6 +54,16 @@
 The post Scottish GP practices funded to target ‘lost’ patients appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA warns GPs 'now is not the time to waver' over collective action]]></title>
+        <id>https://www.gponline.com/article/1885081</id>
+        <link href="https://www.gponline.com/bma-warns-gps-now-not-time-waver-collective-action/article/1885081"/>
+        <updated>2024-08-14T10:43:27.000Z</updated>
+        <summary type="html"><![CDATA[BMA GP leaders have urged the profession to 'push on with collective action' after revealing that global sum payments to practices will rise by 7.4% in 2024/25.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
