@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-14T12:19:44.549Z</updated>
+    <updated>2024-08-14T13:14:46.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Find help and support if you have long COVID]]></title>
+        <id>https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid</id>
+        <link href="https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid"/>
+        <updated>2024-08-14T12:55:35.000Z</updated>
+        <summary type="html"><![CDATA[If you have long COVID there is a range of support available.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six NHS hospitals now fully live with NPIC digital pathology system]]></title>
+        <id>https://www.digitalhealth.net/?p=202493</id>
+        <link href="https://www.digitalhealth.net/2024/08/six-nhs-hospitals-now-fully-live-with-npic-digital-pathology-system/"/>
+        <updated>2024-08-14T12:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Six NHS hospitals in the North of England have gone live with "digitised pathology departments" underpinned by the National Pathology Imaging Co-operative.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4537 - Microsoft Releases August 2024 Security Updates]]></title>
         <id>109955e9-5dd3-4129-8431-57e20b76a8c4</id>

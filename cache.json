@@ -2399,6 +2399,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid",
+          "author": null,
+          "description": "If you have long COVID there is a range of support available.",
+          "link": "https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid",
+          "publishedOn": "2024-08-14T12:55:35.000Z",
+          "wordCount": 1774,
+          "title": "Guidance: Find help and support if you have long COVID",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/new-mccd-check-that-your-organisation-is-on-the-distribution-list",
           "author": null,
           "description": "Current list of organisations that will receive the new medical certificate of cause of death (MCCD), which must be used from 9 September 2024.",
@@ -3489,6 +3499,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=202493",
+          "author": "Owen Hughes",
+          "description": "Six NHS hospitals in the North of England have gone live with \"digitised pathology departments\" underpinned by the National Pathology Imaging Co-operative.",
+          "link": "https://www.digitalhealth.net/2024/08/six-nhs-hospitals-now-fully-live-with-npic-digital-pathology-system/",
+          "publishedOn": "2024-08-14T12:30:15.000Z",
+          "wordCount": 4353,
+          "title": "Six NHS hospitals now fully live with NPIC digital pathology system",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/NPIC-digital-pathology-WYAAT.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=202431",
           "author": "Owen Hughes",
