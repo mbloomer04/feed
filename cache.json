@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1885219",
+          "author": null,
+          "description": "GPs need to be ‘alert’ to the possibility of clade 1b mpox infection if a patient has a link to a country listed with confirmed or possible cases, the UK Health Security Agency (UKHSA) has warned.",
+          "link": "https://www.gponline.com/gps-need-alert-new-mpox-strain-warns-ukhsa/article/1885219",
+          "publishedOn": "2024-08-15T10:55:17.000Z",
+          "wordCount": 724,
+          "title": "GPs need to be 'alert' to new mpox strain, warns UKHSA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP-201412220249265751-2018031206200658_66.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1885111",
           "author": null,
           "description": "The UK Health Security Agency (UKHSA) has warned that a 'concerning rise' in antiobiotic-resistant gonorrhoea cases in England could lead to the infection becoming untreatable in future.",
@@ -2078,16 +2088,6 @@
           "wordCount": 694,
           "title": "BMA recommends practices set up waiting lists for routine appointments",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_33.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1880997",
-          "author": null,
-          "description": "Almost three-quarters of GPs in Wales say they are prepared to take industrial action unless the government takes immediate steps to boost general practice funding, a BMA poll has found.",
-          "link": "https://www.gponline.com/three-quarters-welsh-gps-prepared-industrial-action-bma-poll-finds/article/1880997",
-          "publishedOn": "2024-07-16T23:10:00.000Z",
-          "wordCount": 910,
-          "title": "Three-quarters of Welsh GPs prepared to take industrial action, BMA poll finds",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Dr_Gareth_Oelmann-credit_Matthew_HorwoodBMA_6.jpg"
         }
       ]
     },
@@ -2857,16 +2857,6 @@
           "wordCount": 859,
           "title": "Independent report: Flu vaccines 2025 to 2026: JCVI advice",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced",
-          "author": null,
-          "description": "A national RSV vaccine programme protecting infants and elderly will save lives in the UK",
-          "link": "https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced",
-          "publishedOn": "2024-07-16T23:15:07.000Z",
-          "wordCount": 2361,
-          "title": "Press release: National RSV vaccination programme announced",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3449,6 +3439,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=202413",
+          "author": "Owen Hughes",
+          "description": "The latest Coffee Time Briefing includes Leeds Teaching Hospitals trialling an app to remotely monitor heart rhythm disorders in patients.",
+          "link": "https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-163/",
+          "publishedOn": "2024-08-15T10:30:11.000Z",
+          "wordCount": 3988,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=202575",
           "author": "Jordan Sollof",

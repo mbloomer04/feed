@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-15T11:09:08.635Z</updated>
+    <updated>2024-08-15T12:19:18.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs need to be 'alert' to new mpox strain, warns UKHSA]]></title>
+        <id>https://www.gponline.com/article/1885219</id>
+        <link href="https://www.gponline.com/gps-need-alert-new-mpox-strain-warns-ukhsa/article/1885219"/>
+        <updated>2024-08-15T10:55:17.000Z</updated>
+        <summary type="html"><![CDATA[GPs need to be ‘alert’ to the possibility of clade 1b mpox infection if a patient has a link to a country listed with confirmed or possible cases, the UK Health Security Agency (UKHSA) has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=202413</id>
+        <link href="https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-163/"/>
+        <updated>2024-08-15T10:30:11.000Z</updated>
+        <summary type="html"><![CDATA[The latest Coffee Time Briefing includes Leeds Teaching Hospitals trialling an app to remotely monitor heart rhythm disorders in patients.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP review submissions warn Darzi over loss of care continuity]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152137</id>
@@ -4281,26 +4301,6 @@ The post Closing GP practice one of 12 at risk in one area, LMC warns appeared f
         <summary type="html"><![CDATA[The junior ministers responsible for digital, data and MedTech within the Department of Health and Social Care (DHSC) have been announced.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: National RSV vaccination programme announced]]></title>
-        <id>https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced</id>
-        <link href="https://www.gov.uk/government/news/national-rsv-vaccination-programme-announced"/>
-        <updated>2024-07-16T23:15:07.000Z</updated>
-        <summary type="html"><![CDATA[A national RSV vaccine programme protecting infants and elderly will save lives in the UK]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-quarters of Welsh GPs prepared to take industrial action, BMA poll finds]]></title>
-        <id>https://www.gponline.com/article/1880997</id>
-        <link href="https://www.gponline.com/three-quarters-welsh-gps-prepared-industrial-action-bma-poll-finds/article/1880997"/>
-        <updated>2024-07-16T23:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Almost three-quarters of GPs in Wales say they are prepared to take industrial action unless the government takes immediate steps to boost general practice funding, a BMA poll has found.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
