@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-16T00:46:07.182Z</updated>
+    <updated>2024-08-16T02:00:48.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4297,19 +4297,6 @@ The post GP practices should move to appointments ‘waiting list system’, BMA
 The post Understanding the GP locum conundrum  appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4524 - Ivanti Releases Security Update for Vulnerability Affecting Endpoint Manager]]></title>
-        <id>c714b1bf-8882-447b-9f13-c4e3c7b6092c</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4524"/>
-        <updated>2024-07-17T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- A high severity vulnerability could allow an attacker to execute arbitary code via SQL Injection on an affected system
- A high severity vulnerability could allow an attacker to execute arbitary code via SQL Injection on an affected system
- Updated: 17 Jul 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>

@@ -134,16 +134,6 @@
           "wordCount": 953,
           "title": "CC-4526 - Cisco Releases Security Advisories for Multiple Products",
           "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "c714b1bf-8882-447b-9f13-c4e3c7b6092c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A high severity vulnerability could allow an attacker to execute arbitary code via SQL Injection on an affected system\n A high severity vulnerability could allow an attacker to execute arbitary code via SQL Injection on an affected system\n Updated: 17 Jul 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4524",
-          "publishedOn": "2024-07-17T13:10:00.000Z",
-          "wordCount": 515,
-          "title": "CC-4524 - Ivanti Releases Security Update for Vulnerability Affecting Endpoint Manager",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
         }
       ]
     },
