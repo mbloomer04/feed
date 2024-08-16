@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-16T12:19:11.322Z</updated>
+    <updated>2024-08-16T13:13:48.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Privacy concerns raised over trust’s AI data-sharing deal]]></title>
+        <id>https://www.digitalhealth.net/?p=202923</id>
+        <link href="https://www.digitalhealth.net/2024/08/privacy-concerns-raised-over-trusts-ai-data-sharing-deal/"/>
+        <updated>2024-08-16T12:30:08.000Z</updated>
+        <summary type="html"><![CDATA[A privacy campaign group has raised concerns over a data sharing agreement between the Royal National Orthopaedic Hospital and an AI startup.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New RSV vaccination programme could cut GP consultations by 35,000]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152162</id>
