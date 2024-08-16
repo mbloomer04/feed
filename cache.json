@@ -1360,6 +1360,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1885232",
+          "author": null,
+          "description": "The GPonline team discusses what the uplift to this year's GP contract in England means for GP practices, GP pay and staff salaries, plans to add GPs to the ARRS and the number of hours GPs work.",
+          "link": "https://www.gponline.com/podcast-gp-contract-uplift-will-arrs-gp-jobs-work-plus-gp-working-hours/article/1885232",
+          "publishedOn": "2024-08-16T07:07:00.000Z",
+          "wordCount": 1139,
+          "title": "Podcast: GP contract uplift, will ARRS GP jobs work, plus GP working hours",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_972.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1885233",
           "author": null,
           "description": "Demand for GP services has outstripped supply, with underfunding driving practice closures and a growing gap between the workforce and numbers of patients that has undermined continuity of care, the BMA has warned.",
@@ -3439,6 +3449,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=202767",
+          "author": "Jordan Sollof",
+          "description": "This latest roundup includes Northampton General Hospital signing a 10-year Nervecentre electronic patient record (EPR) contract.",
+          "link": "https://www.digitalhealth.net/2024/08/digital-healths-monthly-roundup-of-contracts-and-go-lives-43/",
+          "publishedOn": "2024-08-16T07:30:12.000Z",
+          "wordCount": 6873,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/Contract-Sign.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=202669",
           "author": "Owen Hughes",
