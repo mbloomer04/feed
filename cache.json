@@ -114,16 +114,6 @@
           "wordCount": 1071,
           "title": "CC-4528 - SolarWinds Releases Critical Security Updates for Access Rights Manager",
           "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
-        },
-        {
-          "id": "b34b6806-8709-4162-8984-4f4837892b1a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Vulnerabilities could allow an attacker to execute arbitrary commands, bypass authentication, and access sensitive resources\n Vulnerabilities could allow an attacker to execute arbitrary commands, bypass authentication, and access sensitive resources\n Updated: 19 Jul 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4527",
-          "publishedOn": "2024-07-19T12:44:00.000Z",
-          "wordCount": 608,
-          "title": "CC-4527 - Ivanti Releases Security Updates for Endpoint Manager for Mobile",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1719400944408/images/nhs-england-logo-social.jpg"
         }
       ]
     },
@@ -3143,36 +3133,6 @@
           "publishedOn": "2024-07-19T13:14:40.000Z",
           "wordCount": null,
           "title": "The real face of men’s health",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/07/green-physician-toolkit.html",
-          "author": null,
-          "description": "Royal College of Physicians - With the NHS responsible for around 40% of the UK’s public sector emissions and 4% of total emissions, the health service in England has committed to reach net zero on all direct emissions by 2040. This toolkit suggests a range of actions that physicians can take in their day-to-day practice to help mitigate and adapt...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/07/green-physician-toolkit.html",
-          "publishedOn": "2024-07-19T12:19:43.000Z",
-          "wordCount": null,
-          "title": "Green physician toolkit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/07/module-1-the-resilience-and-preparedness-of-the-united-kingdom.html",
-          "author": null,
-          "description": "UK Covid-19 Inquiry - This report contains the results of the first investigation into the nation’s resilience and preparedness for the Covid-19 pandemic. Key recommendations include a simplification of civil emergency preparedness and resilience systems, holding a UK-wide pandemic response exercise at least every three years and the creation of a single, independent statutory body responsible for whole system preparedness...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/07/module-1-the-resilience-and-preparedness-of-the-united-kingdom.html",
-          "publishedOn": "2024-07-19T12:08:59.000Z",
-          "wordCount": null,
-          "title": "Module 1: the resilience and preparedness of the United Kingdom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/07/a-workforce-strategy-for-adult-social-care-in-england.html",
-          "author": null,
-          "description": "Skills for Care - This strategy aims to improve the quality of roles in adult social care, ensuring that the sector can attract and keep enough people with the right skills and values to provide the best possible care and support for the people who draw on it. It highlights the impact of social care on improving lives – as...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/07/a-workforce-strategy-for-adult-social-care-in-england.html",
-          "publishedOn": "2024-07-19T11:13:32.000Z",
-          "wordCount": null,
-          "title": "A workforce strategy for adult social care in England",
           "imageUrl": null
         }
       ]
