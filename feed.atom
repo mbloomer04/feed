@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-20T10:11:29.627Z</updated>
+    <updated>2024-08-20T11:09:22.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=202707</id>
+        <link href="https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-%e2%98%95/"/>
+        <updated>2024-08-20T10:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Digital Health's latest Coffee Time Briefing includes Sussex's new £2 million robot surgeon and an AI study on pressure ulcers.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blair Institute calls for crash programme of digital health records]]></title>
+        <id>https://www.digitalhealth.net/?p=203155</id>
+        <link href="https://www.digitalhealth.net/2024/08/blair-institute-calls-for-crash-programme-of-digital-health-records/"/>
+        <updated>2024-08-20T10:27:46.000Z</updated>
+        <summary type="html"><![CDATA[The Tony Blair Institute for Global Change has proposed a programme to create digital health records for all UK citizens within five years.]]></summary>
+        <author>
+            <name>Jon Hoeksma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What can integrated care systems in England learn from the devolved nations?]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/08/what-can-integrated-care-systems-in-england-learn-from-the-devolved-nations.html</id>
@@ -4114,26 +4134,6 @@ The post Government must address GP retention and unemployment ‘as priority’
         <summary type="html"><![CDATA[Participants of the Digital Health Networks mentoring programme shared their experiences at a workshop on day one of Summer Schools 2024.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dementia diagnoses in England at record high]]></title>
-        <id>https://www.england.nhs.uk/?p=249538</id>
-        <link href="https://www.england.nhs.uk/2024/07/dementia-diagnoses-in-england-at-record-high/"/>
-        <updated>2024-07-21T23:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Record numbers of people are being diagnosed with dementia in England, NHS figures show. Latest data shows a record 487,432 people in England in June had a diagnosis. While dementia diagnosis rates are the highest since the start of the pandemic at 65.0%, the NHS has more to do to meet its ambition to diagnose 66.7% […]]]></summary>
-        <author>
-            <name>nowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated response to global IT outage – 22 July]]></title>
-        <id>https://www.england.nhs.uk/?p=249543</id>
-        <link href="https://www.england.nhs.uk/2024/07/updated-response-to-global-it-outage-22-july/"/>
-        <updated>2024-07-21T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[An NHS spokesperson said: “Systems are now back online, and patients with an NHS appointment this week should continue to attend unless told not to. “Thanks to the hard work of NHS staff throughout this incident we are hoping to keep further disruption to a minimum, however there still may be some delays as services recover, […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
 </feed>
