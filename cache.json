@@ -103,6 +103,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=152371",
+          "author": "Sofia Lind",
+          "description": "GP practices and other NHS providers are being requested to exclusively use ‘NHSNoReply’ and block other variations by 5 November 2024, the latest primary care bulletin has said. The National Cyber Security Centre (NCSC) is updating guidance to reduce the number of SMS SenderID variations, ensuring they reflect the service consumed and minimising the risk\nThe post NHSE urging GPs to streamline patient SMS practices to avoid fraud appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/nhse-urging-gps-to-streamline-patient-sms-practices-to-avoid-fraud/",
+          "publishedOn": "2024-08-20T16:05:47.000Z",
+          "wordCount": 2081,
+          "title": "NHSE urging GPs to streamline patient SMS practices to avoid fraud",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/05/depression-mental-health-online-mobile-phone-digital.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152363",
+          "author": "Eliza Parr",
+          "description": "GP practices in the devolved nations are still in the dark about how the 6% pay uplift will be allocated by their governments.  At the end of July, the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) recommended a 6% pay increase for GPs in all of the four nations.  Last week, an internal BMA\nThe post GPs in devolved nations still waiting for 6% pay rise confirmation appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/gps-in-devolved-nations-still-waiting-for-6-pay-rise-confirmation/",
+          "publishedOn": "2024-08-20T15:44:22.000Z",
+          "wordCount": 2285,
+          "title": "GPs in devolved nations still waiting for 6% pay rise confirmation",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/g/n/p/GettyImages-585301598-scaled-e1605284433419.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=152324",
           "author": "Maya Dhillon",
           "description": "True to his name, Dr Burnt Out reflects on how GPs can offer support to colleagues suffering from burn out and exhaustion  Sadly, we live in a health care system, and more specifically a primary care environment, where there is currently an epidemic of work-related stress and burnout. Doctors become seriously unwell due to work\nThe post We need to be better at reaching out to burnt out colleagues appeared first on Pulse Today.",
@@ -1329,6 +1349,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1885593",
+          "author": null,
+          "description": "A GP who was jailed twice after taking part in an M25 climate change protest has been suspended for three months from the GMC register.",
+          "link": "https://www.gponline.com/gp-given-three-month-suspension-m25-climate-protest-conviction/article/1885593",
+          "publishedOn": "2024-08-20T11:05:37.000Z",
+          "wordCount": 698,
+          "title": "GP given three-month suspension after M25 climate protest conviction",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_39.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1885593",
           "author": null,
