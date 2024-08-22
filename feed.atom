@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-22T10:11:36.060Z</updated>
+    <updated>2024-08-22T11:09:20.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=203223</id>
+        <link href="https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-%e2%98%95-2/"/>
+        <updated>2024-08-22T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Time Briefing covers Walsall Healthcare's first digital nurse role, rehab robots and a maternity EPR at East and North Herts.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Yorkshire trusts select Nervecentre as preferred EPR supplier]]></title>
         <id>https://www.digitalhealth.net/?p=203299</id>
@@ -46,6 +56,16 @@ The post NICE rules Alzheimer’s-slowing drug lecanemab too expensive for NHS a
 The post UK worst on hospital waits but best on GP access, 10-country survey shows appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs facing extra pressure as seven pharmacies a week close down]]></title>
+        <id>https://www.gponline.com/article/1885657</id>
+        <link href="https://www.gponline.com/gps-facing-extra-pressure-seven-pharmacies-week-close-down/article/1885657"/>
+        <updated>2024-08-22T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Pharmacy closures are adding to pressure on general practice and threaten to undermine patient care, GP leaders have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
