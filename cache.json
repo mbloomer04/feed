@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "74ab7663-66c2-40c7-acbf-7c60ea2baa00",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update includes one exploited high severity vulnerability in Google Chrome\n Security update includes one exploited high severity vulnerability in Google Chrome\n Updated: 22 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4539",
+          "publishedOn": "2024-08-22T14:12:00.000Z",
+          "wordCount": 525,
+          "title": "CC-4539 - Google Releases Security Updates for Chrome",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "109955e9-5dd3-4129-8431-57e20b76a8c4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Updated: 14 Aug 2024",
@@ -102,6 +112,36 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=151104",
+          "author": "Maya Dhillon",
+          "description": "Dr Emma Radcliffe on how general practice can be used to green the NHS I have devoted a large part of the past 20 years of my life endeavouring to provide high quality health care to the community I work in: Tower Hamlets in East London. However, my mind and working life has been increasingly\nThe post Fighting for general practice: the key to a net zero health service appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/fighting-for-general-practice-the-key-to-a-net-zero-health-service/",
+          "publishedOn": "2024-08-22T15:06:30.000Z",
+          "wordCount": 3037,
+          "title": "Fighting for general practice: the key to a net zero health service",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/Dr-Emma-Radcliffe.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152465",
+          "author": "Anna Colivicchi",
+          "description": "An LMC leader and GP partner has been elected as the new chair of the BMA’s GP committee for Scotland. Dr Iain Morrison, who has been Lothian LMC’s chair since October 2020, will succeed Dr Andrew Buist who is stepping down after six years in the role. In a message to members, Dr Morrison, who\nThe post BMA’s Scottish GP Committee elects new chair appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/scotland/bmas-scottish-gp-committee-elects-new-chair/",
+          "publishedOn": "2024-08-22T14:39:20.000Z",
+          "wordCount": 2353,
+          "title": "BMA’s Scottish GP Committee elects new chair",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/08/iain-morrison1.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152373",
+          "author": "Jaimie Kaffash",
+          "description": "In the latest of our series exploring some common misconceptions about conditions seen in general practice, GP Dr Toni Hazell debunks some myths about the menopause and HIV – and explains some perhaps less well known facts Myths 1. The menopause always presents with hot flushes and night sweats The menopause occurs at the average\nThe post Menopause and HRT: Myths and facts appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/womens-health-gynaecology-obstetrics/menopause-and-hrt-myths-and-facts/",
+          "publishedOn": "2024-08-22T14:25:21.000Z",
+          "wordCount": 4284,
+          "title": "Menopause and HRT: Myths and facts",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/08/Menopause-woman.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=152447",
           "author": "Sofia Lind",
@@ -2308,6 +2348,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/puberty-blockers-temporary-ban-extended",
+          "author": null,
+          "description": "Temporary ban on prescription and supply of puberty blockers extended.",
+          "link": "https://www.gov.uk/government/news/puberty-blockers-temporary-ban-extended",
+          "publishedOn": "2024-08-22T14:56:13.000Z",
+          "wordCount": 1144,
+          "title": "News story: Puberty blockers temporary ban extended",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/oral-nutritional-supplements-acbs-policy",
           "author": null,
