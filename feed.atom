@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-23T13:14:14.818Z</updated>
+    <updated>2024-08-23T14:09:47.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -67,6 +67,16 @@ The post Research suggests link between semaglutide and suicidal thoughts appear
         <summary type="html"><![CDATA[NHS England has signed two contracts to support the digital transformation of urgent and emergency care, totalling £86 million in value.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS England releases guidance to GP practice in wake of racist riots]]></title>
+        <id>https://www.gponline.com/article/1885061</id>
+        <link href="https://www.gponline.com/nhs-england-releases-guidance-gp-practice-wake-racist-riots/article/1885061"/>
+        <updated>2024-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has written to GP practices offering advice on how to support staff in the wake of the recent racist riots that swept the country.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
