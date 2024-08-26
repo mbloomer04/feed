@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-26T04:13:13.311Z</updated>
+    <updated>2024-08-26T05:10:22.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Libraries supporting more people to use NHS App]]></title>
+        <id>https://www.england.nhs.uk/?p=251738</id>
+        <link href="https://www.england.nhs.uk/2024/08/libraries-supporting-more-people-to-use-nhs-app/"/>
+        <updated>2024-08-25T23:01:26.000Z</updated>
+        <summary type="html"><![CDATA[The NHS has today announced a new partnership with libraries across England to help more people access online health services and use the NHS App. The scheme, in partnership with The National Health Literacy Partnership, will officially launch in October – with NHS England contacting public libraries and NHS libraries in the coming weeks to […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Workload dump impacting GP ability to provide safe care, LMC warns]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152564</id>
