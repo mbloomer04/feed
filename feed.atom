@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-27T04:14:45.038Z</updated>
+    <updated>2024-08-27T05:11:21.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS 111 offering crisis mental health support for the first time]]></title>
+        <id>https://www.england.nhs.uk/?p=251666</id>
+        <link href="https://www.england.nhs.uk/2024/08/nhs-111-offering-crisis-mental-health-support-for-the-first-time/"/>
+        <updated>2024-08-26T23:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Millions of patients experiencing a mental health crisis can now benefit from support through 111, the NHS has announced today. The change means the NHS in England is one of the first countries in the world to offer access to a 24/7 full package of mental health crisis support through one single phone line. People […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS 111 to offer mental health crisis support]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152553</id>
@@ -3810,28 +3820,6 @@ The post CQC ratings of GP practices ‘lack consistency’, review finds appear
         <summary type="html"><![CDATA[Recommendations from the NHS Pay Review Body on the pay of NHS staff paid on Agenda for Change terms and conditions in England, Wales and Northern Ireland.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adolescent girls face alarming rates of intimate partner violence]]></title>
-        <id>urn:uuid:5f785e41-94ee-49a4-9d23-f2ffa12bb7b4</id>
-        <link href="https://www.who.int/news/item/29-07-2024-adolescent-girls-face-alarming-rates-of-intimate-partner-violence"/>
-        <updated>2024-07-28T16:58:27.000Z</updated>
-        <summary type="html"><![CDATA[Among adolescent girls who have been in a relationship, nearly a quarter (24%) – close to 19 million – will have experienced physical and/or sexual intimate partner violence by the time they turn 20 years old, as highlighted by a new analysis from the World Health Organization (WHO) published today in The Lancet Child & Adolescent Health. Almost 1 in 6 (16%) experienced such violence in the past year. 
-“Intimate partner violence is starting alarmingly early for millions of young women around the world,” said Dr Pascale Allotey, Director of WHO’s Sexual and Reproductive Health and Research Department. “Given that violence during these critical formative years can cause profound and lasting harms, it needs to be taken more seriously as a public health issue – with a focus on prevention and t…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New initiative launched to advance mRNA vaccine development against human avian influenza (H5N1)]]></title>
-        <id>urn:uuid:fbba0215-c05f-4ee9-964e-bceca46a474f</id>
-        <link href="https://www.who.int/news/item/29-07-2024-new-initiative-launched-to-advance-mrna-vaccine-development-against-human-avian-influenza-(h5n1)"/>
-        <updated>2024-07-28T16:41:30.000Z</updated>
-        <summary type="html"><![CDATA[A new project aiming to accelerate the development and accessibility of human avian influenza (H5N1) messenger RNA (mRNA) vaccine candidates for manufacturers in low- and middle-income countries has been launched today. The Argentinian manufacturer Sinergium Biotech will lead this effort leveraging the World Health Organization (WHO) and the Medicines Patent Pool (MPP) mRNA Technology Transfer Programme.
-The mRNA Technology Transfer Programme, jointly developed by WHO and MPP, was launched in July 2021 with the aim to build capacity in low- and middle-income countries (LMICs) for the development and production of mRNA-based vaccines. Sinergium Biotech, a partner in the mRNA Technology Transfer Programme, has developed candidate H5N1 vaccines and aims to establish proof-of-concept in precli…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
