@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-27T10:10:46.229Z</updated>
+    <updated>2024-08-27T11:09:46.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public health funding]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2024/08/public-health-funding-.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2024/08/public-health-funding-.html"/>
+        <updated>2024-08-27T10:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Association of Directors of Public Health (ADPH) - This briefing presents the public health funding landscape across the UK, including ADPH’s recommendations for how public health funding can be reformed to ensure people can live healthier, happier and more productive lives. Briefing More detail]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=203395</id>
+        <link href="https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-166/"/>
+        <updated>2024-08-27T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Our latest Coffee Time Briefing includes new scanning tech at Royal Free Hospital and a report linking EPR design to nurse burnout.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMC tries to ‘pre-empt’ negative patient reaction to GP call data]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=151937</id>
+        <link href="https://www.pulsetoday.co.uk/news/technology/lmc-tries-to-pre-empt-negative-patient-reaction-to-gp-call-data/"/>
+        <updated>2024-08-27T10:12:59.000Z</updated>
+        <summary type="html"><![CDATA[GPs are concerned about the ‘potential negative impact’ on patients’ perceptions should their digital telephony data be released to the public. Sheffield LMC said it received GP concerns about the impact on patients of data that will be collected from practices’ digital telephony after October. The 2024/25 GP contract was amended to require practices to provide
+The post LMC tries to ‘pre-empt’ negative patient reaction to GP call data appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High-dose psilocybin may be effective in treating depression]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152484</id>
@@ -3851,16 +3882,6 @@ The post CQC ratings of GP practices ‘lack consistency’, review finds appear
         <summary type="html"><![CDATA[East Kent Hospitals University NHS Foundation Trust has introduced a population health platform to reduce preoperative consultation times.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Independent report: NHS Pay Review Body Thirty-Seventh Report: 2024]]></title>
-        <id>https://www.gov.uk/government/publications/nhs-pay-review-body-thirty-seventh-report-2024</id>
-        <link href="https://www.gov.uk/government/publications/nhs-pay-review-body-thirty-seventh-report-2024"/>
-        <updated>2024-07-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recommendations from the NHS Pay Review Body on the pay of NHS staff paid on Agenda for Change terms and conditions in England, Wales and Northern Ireland.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
