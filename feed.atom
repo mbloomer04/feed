@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-28T15:10:55.053Z</updated>
+    <updated>2024-08-28T16:13:35.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4540 - Fortra Releases Security Advisories for FileCatalyst Workflow]]></title>
+        <id>18401ee8-6a00-412f-89b8-05ea56eb9a97</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4540"/>
+        <updated>2024-08-28T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisories address two vulnerabilities, one rated as critical and the other as high severity
+ Advisories address two vulnerabilities, one rated as critical and the other as high severity
+ Updated: 28 Aug 2024]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More patients face worsening health due to long hospital waiting lists, CQC survey suggests]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=152644</id>
+        <link href="https://www.pulsetoday.co.uk/news/workload/more-patients-face-worsening-health-due-to-long-hospital-waiting-lists-cqc-survey-suggests/"/>
+        <updated>2024-08-28T15:24:45.000Z</updated>
+        <summary type="html"><![CDATA[More than 40% of patients feel their health deteriorated while waiting to be admitted to hospital, a new survey has found.  The CQC’s annual survey, which received more than 63,500 responses, found that patient satisfaction with hospital services is largely unchanged since 2022, but remains ‘significantly worse than pre-pandemic’.  There is a ‘continued frustration’ at
+The post More patients face worsening health due to long hospital waiting lists, CQC survey suggests appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A GP in Gaza: Delivering care in disaster zones]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152545</id>

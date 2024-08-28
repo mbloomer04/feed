@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "18401ee8-6a00-412f-89b8-05ea56eb9a97",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Updated: 28 Aug 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4540",
+          "publishedOn": "2024-08-28T15:34:00.000Z",
+          "wordCount": 685,
+          "title": "CC-4540 - Fortra Releases Security Advisories for FileCatalyst Workflow",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "74ab7663-66c2-40c7-acbf-7c60ea2baa00",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update includes one exploited high severity vulnerability in Google Chrome\n Security update includes one exploited high severity vulnerability in Google Chrome\n Updated: 22 Aug 2024",
@@ -82,6 +92,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152644",
+          "author": "Eliza Parr",
+          "description": "More than 40% of patients feel their health deteriorated while waiting to be admitted to hospital, a new survey has found.  The CQC’s annual survey, which received more than 63,500 responses, found that patient satisfaction with hospital services is largely unchanged since 2022, but remains ‘significantly worse than pre-pandemic’.  There is a ‘continued frustration’ at\nThe post More patients face worsening health due to long hospital waiting lists, CQC survey suggests appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workload/more-patients-face-worsening-health-due-to-long-hospital-waiting-lists-cqc-survey-suggests/",
+          "publishedOn": "2024-08-28T15:24:45.000Z",
+          "wordCount": 2505,
+          "title": "More patients face worsening health due to long hospital waiting lists, CQC survey suggests",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/05/hospital.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=152545",
           "author": "Maya Dhillon",
