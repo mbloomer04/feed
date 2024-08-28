@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-28T09:11:28.166Z</updated>
+    <updated>2024-08-28T10:10:53.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: UK secures £400 million investment to boost clinical trials]]></title>
+        <id>https://www.gov.uk/government/news/uk-secures-400-million-investment-to-boost-clinical-trials</id>
+        <link href="https://www.gov.uk/government/news/uk-secures-400-million-investment-to-boost-clinical-trials"/>
+        <updated>2024-08-28T10:04:13.000Z</updated>
+        <summary type="html"><![CDATA[World-first public-private collaboration launched to kickstart economic growth and build an NHS fit for the future.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libraries in England to promote the NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=203681</id>
+        <link href="https://www.digitalhealth.net/2024/08/libraries-in-england-to-promote-the-nhs-app/"/>
+        <updated>2024-08-28T10:00:32.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has announced plans to work with libraries to help more people access online health services and use the NHS App.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA urges ban on disposable and ‘non-tobacco flavoured’ vapes]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152607</id>

@@ -2148,6 +2148,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/uk-secures-400-million-investment-to-boost-clinical-trials",
+          "author": null,
+          "description": "World-first public-private collaboration launched to kickstart economic growth and build an NHS fit for the future.",
+          "link": "https://www.gov.uk/government/news/uk-secures-400-million-investment-to-boost-clinical-trials",
+          "publishedOn": "2024-08-28T10:04:13.000Z",
+          "wordCount": 3204,
+          "title": "Press release: UK secures £400 million investment to boost clinical trials",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/abortion-statistics-protocol-for-the-release-of-personal-data",
           "author": null,
           "description": "How to apply for the release of and use confidential abortion data for scientific research purposes.",
@@ -2968,6 +2978,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=203681",
+          "author": "Tammy Lovell",
+          "description": "NHS England has announced plans to work with libraries to help more people access online health services and use the NHS App.",
+          "link": "https://www.digitalhealth.net/2024/08/libraries-in-england-to-promote-the-nhs-app/",
+          "publishedOn": "2024-08-28T10:00:32.000Z",
+          "wordCount": 4165,
+          "title": "Libraries in England to promote the NHS App",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/shutterstock_2475803181-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=203459",
           "author": "Jordan Sollof",
