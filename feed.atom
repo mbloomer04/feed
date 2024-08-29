@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-29T21:10:04.342Z</updated>
+    <updated>2024-08-29T22:09:43.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1697,6 +1697,16 @@ The post UKHSA updates mpox guidance for doctors amid global health alert appear
         <summary type="html"><![CDATA[A project to speed up NHS prescription deliveries using AI algorithms is to receive a share of £32 million in UK government funding.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
+        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
+        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
+        <updated>2024-08-15T09:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -3854,16 +3864,6 @@ The post GP practices incorporated in NHSE’s OPEL framework in one area appear
         <summary type="html"><![CDATA[Flo Health, the number one downloaded women’s health app worldwide, has raised over $200 million in an investment from General Atlantic.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['No guarantee' GP contract uplift will deliver promised 6%, accountants warn]]></title>
-        <id>https://www.gponline.com/article/1882739</id>
-        <link href="https://www.gponline.com/no-guarantee-gp-contract-uplift-will-deliver-promised-6-accountants-warn/article/1882739"/>
-        <updated>2024-07-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs are by no means guaranteed to see the 6% uplift promised by the government reflected in their pay packets, financial experts have warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
