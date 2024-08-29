@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-29T07:10:55.915Z</updated>
+    <updated>2024-08-29T08:13:51.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mid and South Essex selects SYNLAB for £900m pathology contract]]></title>
+        <id>https://www.digitalhealth.net/?p=203803</id>
+        <link href="https://www.digitalhealth.net/2024/08/mid-and-south-essex-selects-synlab-for-900m-pathology-contract/"/>
+        <updated>2024-08-29T07:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Mid and South Essex NHS FT has chosen SYNLAB as its pathology supplier, despite a cyber attack which caused disruption to services in London.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4540 - Fortra Releases Security Advisories for FileCatalyst Workflow]]></title>
         <id>18401ee8-6a00-412f-89b8-05ea56eb9a97</id>
