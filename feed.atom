@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-29T20:11:18.022Z</updated>
+    <updated>2024-08-29T21:10:04.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHO urges rapid access to mpox diagnostic tests, invites manufacturers to emergency review]]></title>
+        <id>urn:uuid:9fdce8d4-82e5-439b-a66a-7ccd1bee3ada</id>
+        <link href="https://www.who.int/news/item/29-08-2024-who-urges-rapid-access-to-mpox-diagnostic-tests--invites-manufacturers-to-emergency-review"/>
+        <updated>2024-08-29T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[WHO has asked manufacturers of mpox in vitro diagnostics (IVDs) to submit an expression of interest for Emergency Use Listing (EUL). WHO has been in ongoing discussions with manufacturers about the need for effective diagnostics, particularly in low-income settings. The request for EUL expressions of interest by manufacturers is the latest development in these discussions.
+Testing is key for people to get treatment and care as early as possible and prevent further spread. Since 2022, WHO has delivered around 150 000 diagnostic tests for mpox globally, of which over a quarter have gone to countries in the African Region. In the coming weeks, WHO will deliver another 30 000 tests to African countries. 
+With as many as 1000 suspected cases reported in the Democratic Republic of the Congo alon…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP practices ‘lost tens of thousands of pounds’ due to care home patients underpayment]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152708</id>
@@ -3852,27 +3864,6 @@ The post GP practices incorporated in NHSE’s OPEL framework in one area appear
         <summary type="html"><![CDATA[GPs are by no means guaranteed to see the 6% uplift promised by the government reflected in their pay packets, financial experts have warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP practice closes following ‘bankruptcy order’]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=151440</id>
-        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/gp-practice-closes-following-bankruptcy-order/"/>
-        <updated>2024-07-31T08:58:20.000Z</updated>
-        <summary type="html"><![CDATA[A GP practice caring for 4,000 patients in the West Midlands has closed down following a bankruptcy order. Hawes Lane Surgery in Rowley Regis closed suddenly on Thursday last week. Pulse was told that ‘a bankruptcy order was made’ against the surgery and that Black Country ICB was informed that actions were taken to annul
-The post GP practice closes following ‘bankruptcy order’ appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
-        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
-        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
-        <updated>2024-07-31T08:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
