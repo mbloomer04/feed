@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-08-30T12:18:47.657Z</updated>
+    <updated>2024-08-30T13:16:02.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile numbers of NHS staff compromised in cyber incident]]></title>
+        <id>https://www.digitalhealth.net/?p=204027</id>
+        <link href="https://www.digitalhealth.net/2024/08/mobile-numbers-of-nhs-staff-compromised-in-cyber-incident/"/>
+        <updated>2024-08-30T12:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Mobile numbers of NHS staff have been compromised in a data breach at a software supplier which serves seven Scottish health boards.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New digital NHS Health Check to be trialled from early next year]]></title>
         <id>https://www.pulsetoday.co.uk/?p=152718</id>
