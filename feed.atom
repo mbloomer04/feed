@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-02T07:10:39.824Z</updated>
+    <updated>2024-09-02T08:14:30.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Birmingham and Solihull ICB launches digital social prescribing]]></title>
+        <id>https://www.digitalhealth.net/?p=203911</id>
+        <link href="https://www.digitalhealth.net/2024/09/birmingham-and-solihull-icb-launches-digital-social-prescribing/"/>
+        <updated>2024-09-02T07:30:21.000Z</updated>
+        <summary type="html"><![CDATA[A digital social prescribing system has been launched across Birmingham and Solihull ICB to address growing demand for mental health support.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP practices 'struggling to stay afloat' despite £311m contract boost]]></title>
+        <id>https://www.gponline.com/article/1886721</id>
+        <link href="https://www.gponline.com/gp-practices-struggling-stay-afloat-despite-311m-contract-boost/article/1886721"/>
+        <updated>2024-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GP practices across England are struggling to stay afloat in the face of rising costs, the BMA has warned, as the government revealed new detail on an extra £311m in core funding as part of this year's contract uplift.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Landmark Moment As NHS Kicks Off First Ever RSV Jab Rollout]]></title>
         <id>https://www.england.nhs.uk/?p=251944</id>
