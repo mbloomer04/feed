@@ -1211,16 +1211,6 @@
           "wordCount": 2396,
           "title": "NHSE ‘firmly expects’ GP partners to pass on 6% pay rise to staff",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/Enhanced-nursing-explained-at-Pulse-PCN-event.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=151685",
-          "author": "Anna Colivicchi",
-          "description": "A major study into the NHS ‘soups and shakes’ programme has given researchers and commissioners hope that type 2 diabetes remission can be achieved through at-scale intervention. Published today in The Lancet Diabetes & Endocrinology, the study assessed remission of type 2 diabetes for real-world NHS participants, finding that of those who completed the programme\nThe post One third of ‘soups and shakes’ programme participants in type 2 diabetes remission appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/diabetes-endocrinology/one-third-of-soups-and-shakes-programme-participants-in-type-2-diabetes-remission/",
-          "publishedOn": "2024-08-05T22:30:00.000Z",
-          "wordCount": 2975,
-          "title": "One third of ‘soups and shakes’ programme participants in type 2 diabetes remission",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/05/soups-and-shakes-diet-obesity.jpg"
         }
       ]
     },
@@ -1229,6 +1219,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1887088",
+          "author": null,
+          "description": "Five GP practice contracts held by a major private provider will be opened to new bidders after a 'serious breach' of their terms, NHS officials have confirmed.",
+          "link": "https://www.gponline.com/five-gp-contracts-put-tender-serious-breach-private-provider/article/1887088",
+          "publishedOn": "2024-09-04T09:32:01.000Z",
+          "wordCount": 907,
+          "title": "Five GP contracts put out to tender after 'serious breach' by private provider",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick2_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1887038",
           "author": null,
@@ -1868,26 +1868,6 @@
           "wordCount": 744,
           "title": "BMA to push for expanded GP retainer and fellowship schemes in next year's contract",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_11.JPG"
-        },
-        {
-          "id": "https://www.gponline.com/article/1882855",
-          "author": null,
-          "description": "More than half of GP practices in England took part in clinical research last year - with more than 270,000 patients recruited to studies via primary care, data from the National Institute for Health and Care Research (NIHR) show.",
-          "link": "https://www.gponline.com/half-gp-practices-england-took-part-clinical-research-last-year/article/1882855",
-          "publishedOn": "2024-08-05T23:01:00.000Z",
-          "wordCount": 752,
-          "title": "More than half of GP practices in England took part in clinical research last year",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/medical_centre_GettyImages-mtreasure_14.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1883297",
-          "author": null,
-          "description": "One in three patients who completed an NHS 'soup and shake' weight loss programme put their type 2 diabetes into remission in a year, a major study has found.",
-          "link": "https://www.gponline.com/gp-soup-shake-referrals-put-type-2-diabetes-remission-one-three-patients/article/1883297",
-          "publishedOn": "2024-08-05T22:30:00.000Z",
-          "wordCount": 924,
-          "title": "GP 'soup and shake' referrals put type 2 diabetes in remission for one in three patients",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/scales_GettyImages-CatherineMcQueen.jpg"
         }
       ]
     },
@@ -2077,16 +2057,6 @@
           "wordCount": 1958,
           "title": "NHS to roll out six new specialist gender centres for children and young people",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=250484",
-          "author": "jboshell",
-          "description": "A major study has found that the radical NHS “soups and shakes” programme works at scale and is helping hundreds of people put their type 2 diabetes into remission across England. The study showed that of those who completed the programme and were measured twice, 1 in 3 (32%) had put their type 2 diabetes […]",
-          "link": "https://www.england.nhs.uk/2024/08/third-of-nhs-soups-and-shakes-participants-in-remission-from-type-2-diabetes-in-a-year/",
-          "publishedOn": "2024-08-05T22:30:29.000Z",
-          "wordCount": 1433,
-          "title": "Third of NHS “soups and shakes” participants in remission from type 2 diabetes in a year",
-          "imageUrl": null
         }
       ]
     },
@@ -2095,6 +2065,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/ionising-radiation-medical-exposure-regulations-2017-guidance",
+          "author": null,
+          "description": "Guidance on the Ionising Radiation (Medical Exposure) Regulations 2017 for employers and health professionals who carry out medical radiological procedures.",
+          "link": "https://www.gov.uk/government/publications/ionising-radiation-medical-exposure-regulations-2017-guidance",
+          "publishedOn": "2024-09-04T11:00:46.000Z",
+          "wordCount": 941,
+          "title": "Guidance: Ionising Radiation (Medical Exposure) Regulations 2017: guidance",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
           "author": null,
@@ -2402,6 +2382,36 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/just-living-and-coping-the-cost-of-living-crisis-and-the-nations-mental-health.html",
+          "author": null,
+          "description": "Centre for Mental Health - The cost-of-living crisis has had a profound impact on people with mental health problems, with many struggling to get by day-to-day at the expense of their health. This report draws together research commissioned by Mind to explore the impact of the cost-of-living crisis. The Centre’s researchers heard from 500 people across England and Wales, many...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/just-living-and-coping-the-cost-of-living-crisis-and-the-nations-mental-health.html",
+          "publishedOn": "2024-09-04T11:03:18.000Z",
+          "wordCount": null,
+          "title": "Just living and coping: the cost-of-living crisis and the nation’s mental health",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/a-new-fiscal-model-to-deliver-prevention.html",
+          "author": null,
+          "description": "Tony Blair Institute for Global Change - This paper argues for the introduction of a national health insurance model in the UK to support a mission-led approach to growth and health, provide stability and predictability to health budgets, and fix a system that has been funded by short-sighted investments to plug short-term gaps. It argues that by formally and fiscally...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/a-new-fiscal-model-to-deliver-prevention.html",
+          "publishedOn": "2024-09-04T10:49:10.000Z",
+          "wordCount": null,
+          "title": "A new fiscal model to deliver prevention",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/pharmacy-pressures-survey-2024-funding-and-profitability-report.html",
+          "author": null,
+          "description": "Community Pharmacy England - This report confirms the severe financial pressures putting community pharmacies at risk of closure, threatening patient care and access to services across England. Spiralling costs and workload coupled with a 30% funding cut in real terms since 2015 mean too many pharmacies are struggling to stay afloat. Report Press release",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/pharmacy-pressures-survey-2024-funding-and-profitability-report.html",
+          "publishedOn": "2024-09-04T10:27:27.000Z",
+          "wordCount": null,
+          "title": "Pharmacy Pressures Survey 2024: funding and profitability report",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/09/-sexual-and-reproductive-health-competency-framework-for-nurses-caring-for-women-in-prison-.html",
           "author": null,
