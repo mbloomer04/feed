@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "e5f08660-ed81-435d-a34c-0dc21ea1cf25",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Updated: 04 Sep 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4541",
+          "publishedOn": "2024-09-04T14:47:00.000Z",
+          "wordCount": 1436,
+          "title": "CC-4541 - Zyxel Releases Multiple Security Advisories",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "18401ee8-6a00-412f-89b8-05ea56eb9a97",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Updated: 28 Aug 2024",
@@ -82,6 +92,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152868",
+          "author": "Maya Dhillon",
+          "description": "Offering up his own take on Pulse’s writing competition, editor Jaimie Kaffash reflects on the two doctors that left a lasting impact on him I’ve just finished my first read of the entries for the writing competition. The response was fantastic, and I genuinely enjoyed reading all of them – whether it was about That\nThe post Those two doctors appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/those-two-doctors/",
+          "publishedOn": "2024-09-04T14:37:00.000Z",
+          "wordCount": 2112,
+          "title": "Those two doctors",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/Jaimie_Kaffash_1200x800px.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=152873",
           "author": "Anna Colivicchi",
