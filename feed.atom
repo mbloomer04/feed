@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-04T22:09:44.815Z</updated>
+    <updated>2024-09-04T23:11:15.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First phase of polio campaign concludes successfully in Gaza]]></title>
+        <id>urn:uuid:7b8e058f-b03f-4620-880d-34bc7e81df11</id>
+        <link href="https://www.who.int/news/item/04-09-2024-first-phase-of-polio-campaign-concludes-successfully-in-gaza"/>
+        <updated>2024-09-04T20:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Over 187 000 children under ten years of age were vaccinated with novel oral polio vaccine type 2 (nOPV2) in central Gaza during the first phase of a two-round polio vaccination campaign, conducted between 1–3 September 2024. Vaccination coverage in this phase exceeded the initial estimated target of 157 000 children due to population movement towards central Gaza, and expanded coverage in areas outside the humanitarian pause zone.  
+
+To ensure no child is missed in this area, polio vaccination will continue at four large health facilities in central Gaza over the next few days. Vaccine doses have been supplied to these sites to meet any additional needs. 
+
+“It has been extremely encouraging to see thousands of children being able to access polio vaccines, with the support of their resilie…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Haemophilus influenzae type b (Hib): revised recommendations for the prevention of secondary cases]]></title>
         <id>https://www.gov.uk/government/publications/haemophilus-influenzae-type-b-hib-revised-recommendations-for-the-prevention-of-secondary-cases</id>
@@ -3700,38 +3714,6 @@ The post GP practices to close early amid fears of being caught up in racist rio
         <summary type="html"><![CDATA[Health leaders have voiced their concerns about the UK government cutting £1.3 billion of funding for AI and technology projects.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M25 climate protest GP to appear in front of MPTS tribunal]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=151670</id>
-        <link href="https://www.pulsetoday.co.uk/news/regulation/m25-climate-protest-gp-to-appear-in-front-of-mpts-tribunal/"/>
-        <updated>2024-08-06T10:50:46.000Z</updated>
-        <summary type="html"><![CDATA[A GP who participated in a climate protest blocking the M25 motorway is appearing in front of a medical practitioners’ tribunal this week. The Medical Practitioners Tribunal Service (MPTS) will inquire into the allegation that in September 2021 the High Court issued an injunction order preventing Dr Diana Warner from protesting on the M25, which
-The post M25 climate protest GP to appear in front of MPTS tribunal appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=201075</id>
-        <link href="https://www.digitalhealth.net/2024/08/digital-health-coffee-time-briefing-160/"/>
-        <updated>2024-08-06T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[This latest Coffee Time Briefing features £8m funding for UK Biobank and an initiative to accelerate motor neurone disease research.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE ‘firmly expects’ GP partners to pass on 6% pay rise to staff]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=151701</id>
-        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/nhse-firmly-expects-gp-partners-to-pass-on-6-pay-rise-to-staff/"/>
-        <updated>2024-08-06T10:23:22.000Z</updated>
-        <summary type="html"><![CDATA[NHS England (NHSE) has said it ‘firmly’ expects GP partners to award practice nurses and other practice staff a full 6% pay rise. A letter from NHSE primary care director, Dr Amanda Doyle, and medical director for primary care, Dr Claire Fuller, confirmed funding will be given via the Global Sum – used to deliver core
-The post NHSE ‘firmly expects’ GP partners to pass on 6% pay rise to staff appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
