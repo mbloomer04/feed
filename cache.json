@@ -2830,6 +2830,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:7a5bf437-d5f8-4719-bcf7-93cfb1b04e8e",
+          "author": null,
+          "description": "With the support of the Scientific Advisory Group for the Origins of Novel Pathogens (SAGO), the World Health Organization (WHO) has published a global framework to help Member States comprehensively investigate the origins of new and re-emerging pathogens. While there are a number of tools available for investigating infectious disease outbreaks, this is the first unified, structured approach to investigating the origins of a novel pathogen. This framework aims to fill that gap by providing a comprehensive set of scientific investigations and studies. It is the first version of a “how-to” guide that will be updated as and when needed, based on feedback from users.\nAs each outbreak and pandemic demonstrates, human and animal health is threatened by the increasing risk of the emergence of k…",
+          "link": "https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens",
+          "publishedOn": "2024-09-04T15:02:52.000Z",
+          "wordCount": 2527,
+          "title": "WHO launches global framework for understanding the origins of new or re-emerging pathogens",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/external-relations-governance-(ext)/department-of-communications-(dco)/who_logo_door_2023.tmb-1200v.jpg?sfvrsn=c08231b1_1"
+        },
+        {
+          "id": "urn:uuid:6db7eeb4-b0a8-4e30-8f78-8af936d11919",
+          "author": null,
+          "description": "The World Health Organization (WHO) has published global cholera statistics for 2023, showing an increase in cases and deaths.  \nThe number of reported cholera cases increased by 13% and deaths by 71% in 2023 compared to 2022. Over 4000 people died last year from a disease that is preventable and easily treatable. \nForty-five countries reported cases, an increase from 44 the previous year and 35 in 2021. Thirty-eight per cent of the reported cases were among children under five years of age.  \nCholera is an acute intestinal infection spread through contaminated food and water. Communities with limited access to sanitation are most affected. \nConflict, climate change, inadequate safe water and sanitation, poverty, underdevelopment, and population displacement due to emerging and re-emerging…",
+          "link": "https://www.who.int/news/item/04-09-2024-data-show-marked-increase-in-annual-cholera-deaths",
+          "publishedOn": "2024-09-04T10:30:03.000Z",
+          "wordCount": 2209,
+          "title": "Data show marked increase in annual cholera deaths",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cholera/cholera-outbreak.tmb-1200v.jpg?sfvrsn=6841ad8_3"
+        },
+        {
           "id": "urn:uuid:4e355564-dbfa-4ade-8d49-b5e357cbcc8f",
           "author": null,
           "description": "The World Health Organization (WHO) has published its first-ever guidance on antibiotic pollution from manufacturing.",
@@ -3655,16 +3675,6 @@
           "wordCount": 3957,
           "title": "Workforce is barrier to frontline digitisation, says NHS Confed report",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/shutterstock_1967582602-1-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=201317",
-          "author": "Jordan Sollof",
-          "description": "A HIV PrEP service has launched in East Sussex, giving users access to tests and medication without having to visit a clinic.",
-          "link": "https://www.digitalhealth.net/2024/08/digital-hiv-prep-service-launches-in-east-sussex/",
-          "publishedOn": "2024-08-06T07:30:25.000Z",
-          "wordCount": 3865,
-          "title": "Digital HIV PrEP service launches in East Sussex",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/PrEP.jpg"
         }
       ]
     }

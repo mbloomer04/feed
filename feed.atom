@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-04T19:08:36.030Z</updated>
+    <updated>2024-09-04T20:11:45.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -35,6 +35,17 @@ The post GPs warned against using AI for complaint responses appeared first on P
         <summary type="html"><![CDATA[A popular and successful training practice whose partners were forced to hand back their contract earlier this year will be taken over by a large provider under an APMS contract from October.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO launches global framework for understanding the origins of new or re-emerging pathogens]]></title>
+        <id>urn:uuid:7a5bf437-d5f8-4719-bcf7-93cfb1b04e8e</id>
+        <link href="https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens"/>
+        <updated>2024-09-04T15:02:52.000Z</updated>
+        <summary type="html"><![CDATA[With the support of the Scientific Advisory Group for the Origins of Novel Pathogens (SAGO), the World Health Organization (WHO) has published a global framework to help Member States comprehensively investigate the origins of new and re-emerging pathogens. While there are a number of tools available for investigating infectious disease outbreaks, this is the first unified, structured approach to investigating the origins of a novel pathogen. This framework aims to fill that gap by providing a comprehensive set of scientific investigations and studies. It is the first version of a “how-to” guide that will be updated as and when needed, based on feedback from users.
+As each outbreak and pandemic demonstrates, human and animal health is threatened by the increasing risk of the emergence of k…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -110,6 +121,20 @@ The post Former Operose GP practices set for contract retender following ‘seri
         <summary type="html"><![CDATA[Tony Blair Institute for Global Change - This paper argues for the introduction of a national health insurance model in the UK to support a mission-led approach to growth and health, provide stability and predictability to health budgets, and fix a system that has been funded by short-sighted investments to plug short-term gaps. It argues that by formally and fiscally...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data show marked increase in annual cholera deaths]]></title>
+        <id>urn:uuid:6db7eeb4-b0a8-4e30-8f78-8af936d11919</id>
+        <link href="https://www.who.int/news/item/04-09-2024-data-show-marked-increase-in-annual-cholera-deaths"/>
+        <updated>2024-09-04T10:30:03.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has published global cholera statistics for 2023, showing an increase in cases and deaths.  
+The number of reported cholera cases increased by 13% and deaths by 71% in 2023 compared to 2022. Over 4000 people died last year from a disease that is preventable and easily treatable. 
+Forty-five countries reported cases, an increase from 44 the previous year and 35 in 2021. Thirty-eight per cent of the reported cases were among children under five years of age.  
+Cholera is an acute intestinal infection spread through contaminated food and water. Communities with limited access to sanitation are most affected. 
+Conflict, climate change, inadequate safe water and sanitation, poverty, underdevelopment, and population displacement due to emerging and re-emerging…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -3725,16 +3750,6 @@ The post NHSE ‘firmly expects’ GP partners to pass on 6% pay rise to staff a
         <summary type="html"><![CDATA[BMA negotiators could push for an improved retainer scheme and fully-funded fellowships for newly-qualified GPs in next year's contract to build a permanent solution to GP unemployment, England's GP committee chair has suggested.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital HIV PrEP service launches in East Sussex]]></title>
-        <id>https://www.digitalhealth.net/?p=201317</id>
-        <link href="https://www.digitalhealth.net/2024/08/digital-hiv-prep-service-launches-in-east-sussex/"/>
-        <updated>2024-08-06T07:30:25.000Z</updated>
-        <summary type="html"><![CDATA[A HIV PrEP service has launched in East Sussex, giving users access to tests and medication without having to visit a clinic.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>
