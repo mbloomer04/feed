@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-04T20:11:45.845Z</updated>
+    <updated>2024-09-04T21:09:35.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -165,6 +165,18 @@ Conflict, climate change, inadequate safe water and sanitation, poverty, underde
         <summary type="html"><![CDATA[Five GP practice contracts held by a major private provider will be opened to new bidders after a 'serious breach' of their terms, NHS officials have confirmed.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Republic of Korea and WHO discuss joint priorities, challenges and trends around global health]]></title>
+        <id>urn:uuid:5c8b0528-cdb0-4a02-b86c-91e1c6b1b572</id>
+        <link href="https://www.who.int/news/item/29-08-2024-the-republic-of-korea-and-who-discuss-joint-priorities--challenges-and-trends-around-global-health"/>
+        <updated>2024-09-04T09:19:05.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone from being a donor-recipient country to a donor-country and is now a leader in global health and playing a critical role on the world stage.
+Dr Catharina Boehme, Assistant Director-General for External Relations and Governance (WHO) and Dr Hye-Jin Kim, Deputy Minister for Planning and Coordination (Ministry of Health and Welfare, Republic of Korea), together with counterparts from WHO and the Government of the Republic of Korea.
+To further strengthen this partnership and our commitment to working jointly to address …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -3740,16 +3752,6 @@ The post NHSE ‘firmly expects’ GP partners to pass on 6% pay rise to staff a
         <summary type="html"><![CDATA[NHS Confederation - Digital transformation is a significant enabler towards improved productivity and efficiency in the NHS. This report explores integrated care systems’ experience of frontline digitisation and highlights the reality, the common issues, challenges and areas of improvement to unlock the potential of a digitally responsive and modern NHS. Report Associated infographic]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA to push for expanded GP retainer and fellowship schemes in next year's contract]]></title>
-        <id>https://www.gponline.com/article/1883338</id>
-        <link href="https://www.gponline.com/bma-push-expanded-gp-retainer-fellowship-schemes-next-years-contract/article/1883338"/>
-        <updated>2024-08-06T08:40:30.000Z</updated>
-        <summary type="html"><![CDATA[BMA negotiators could push for an improved retainer scheme and fully-funded fellowships for newly-qualified GPs in next year's contract to build a permanent solution to GP unemployment, England's GP committee chair has suggested.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
