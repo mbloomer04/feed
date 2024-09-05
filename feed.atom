@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-05T04:13:02.931Z</updated>
+    <updated>2024-09-05T05:10:28.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First ever drug approved for NHS patients with life-threatening genetic, tumour-causing disease]]></title>
+        <id>https://www.england.nhs.uk/?p=252170</id>
+        <link href="https://www.england.nhs.uk/2024/09/first-ever-drug-approved-for-nhs-patients-with-life-threatening-genetic-tumour-causing-disease/"/>
+        <updated>2024-09-04T23:01:45.000Z</updated>
+        <summary type="html"><![CDATA[NHS patients in England with a rare genetic disease that causes tumours in major organs, including the brain and spine, can now benefit from the first-ever therapy which could shrink their tumours to help them avoid high-risk surgery. In clinical trials of belzutifan, 95% of patients did not experience any growth in their tumours in […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First phase of polio campaign concludes successfully in Gaza]]></title>
         <id>urn:uuid:7b8e058f-b03f-4620-880d-34bc7e81df11</id>
