@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "85825aaa-e2f2-4a84-a65c-6988f7db87fa",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines\n Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines\n Updated: 05 Sep 2024",
+          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4542",
+          "publishedOn": "2024-09-05T15:34:00.000Z",
+          "wordCount": 923,
+          "title": "CC-4542 - Veeam Releases September 2024 Security Bulletin",
+          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+        },
+        {
           "id": "e5f08660-ed81-435d-a34c-0dc21ea1cf25",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Updated: 04 Sep 2024",
@@ -92,6 +102,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152938",
+          "author": "Caroline Price",
+          "description": "In the next of our series, GP Dr Matthew Molloy considers this hypothetical case of a man with a finding of calcified coronary arteries after lung cancer screening You see a 62-year-old man who has recently undergone a CT scan, having been identified as high risk for lung cancer as part of the new lung\nThe post Clinical conundrum: An incidental finding of calcified coronary arteries on lung cancer screening appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/cardiovascular/clinical-conundrum-an-incidental-finding-of-calcified-coronary-arteries-on-lung-cancer-screening/",
+          "publishedOn": "2024-09-05T15:18:38.000Z",
+          "wordCount": 2457,
+          "title": "Clinical conundrum: An incidental finding of calcified coronary arteries on lung cancer screening",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/09/Coronary.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=152926",
+          "author": "Maya Dhillon",
+          "description": "Clinical psychologist Dr Matt Slavin on the early symptoms of burnout that GPs should keep an eye out for, and how to tackle them ‘I was running on fumes but not even aware of it,’ David* shared in our final session, reflecting on his experience of burnout. ‘I was just putting one foot in front\nThe post Spotting the early signs of burnout: A guide for GPs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/spotting-the-early-signs-of-burnout-a-guide-for-gps/",
+          "publishedOn": "2024-09-05T15:16:03.000Z",
+          "wordCount": 2713,
+          "title": "Spotting the early signs of burnout: A guide for GPs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/c/z/h/GettyImages-878334922-scaled-e1629300830245.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=152907",
           "author": "Anna Colivicchi",
