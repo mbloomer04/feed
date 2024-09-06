@@ -2046,6 +2046,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "author": null,
+          "description": "Information for adult social care employers in England on learning and development support for the financial year 2024 to 2025.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "publishedOn": "2024-09-06T12:51:27.000Z",
+          "wordCount": 1079,
+          "title": "Guidance: Adult Social Care Learning and Development Support Scheme",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2024",
           "author": null,
           "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",
@@ -2876,6 +2886,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=203979",
+          "author": "Owen Hughes",
+          "description": "The Maritime and Coastguard Agency has launched a £175 million search and rescue radio network to prevent loss of life on the coast and at sea.",
+          "link": "https://www.digitalhealth.net/2024/09/full-fibre-radio-network-to-help-prevent-loss-of-life-on-uks-coastline/",
+          "publishedOn": "2024-09-06T12:30:36.000Z",
+          "wordCount": 4084,
+          "title": "Full-fibre radio network to help prevent loss of life on UK’s coastline",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Full-fibre-network-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=203415",
+          "author": "Tammy Lovell",
+          "description": "A virtual reality initiative has been launched to help homeless people improve their mental health  and prepare for independent living.",
+          "link": "https://www.digitalhealth.net/2024/09/vr-project-aims-to-improve-mental-health-for-homeless/",
+          "publishedOn": "2024-09-06T12:30:08.000Z",
+          "wordCount": 4294,
+          "title": "VR project aims to improve mental health for homeless",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Innovative-Collaboration-Empowers-Homeless-Through-Virtual-Reality-Image-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=204625",
           "author": "Owen Hughes",
