@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1887390",
+          "author": null,
+          "description": "In our regular news review the GPonline team discusses the latest data on GP earnings and expenses, a recent report on AI in the NHS and a High Court ruling on RCGP exam resists.",
+          "link": "https://www.gponline.com/podcast-gps-earning-ai-doctors-gp-exam-ruling/article/1887390",
+          "publishedOn": "2024-09-06T07:00:00.000Z",
+          "wordCount": 1077,
+          "title": "Podcast: How much are GPs earning, AI doctors, GP exam ruling",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_974.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1887074",
           "author": null,
           "description": "GP practices taking part in collective action could be penalised by 'discriminatory' ICB rules on locally-commissioned services, an LMC has warned.",
@@ -2836,6 +2846,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=204619",
+          "author": "Jordan Sollof",
+          "description": "DigitalHealth.London has announced the latest 17 digital health companies selected for its accelerator programme.",
+          "link": "https://www.digitalhealth.net/2024/09/digitalhealth-london-reveals-latest-accelerator-programme-cohort/",
+          "publishedOn": "2024-09-06T07:30:24.000Z",
+          "wordCount": 4443,
+          "title": "DigitalHealth.London reveals latest Accelerator programme cohort",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/DH.LA-C8-Companies.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=204555",
           "author": "Jordan Sollof",

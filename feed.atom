@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-06T07:10:07.072Z</updated>
+    <updated>2024-09-06T08:13:47.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DigitalHealth.London reveals latest Accelerator programme cohort]]></title>
+        <id>https://www.digitalhealth.net/?p=204619</id>
+        <link href="https://www.digitalhealth.net/2024/09/digitalhealth-london-reveals-latest-accelerator-programme-cohort/"/>
+        <updated>2024-09-06T07:30:24.000Z</updated>
+        <summary type="html"><![CDATA[DigitalHealth.London has announced the latest 17 digital health companies selected for its accelerator programme.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How much are GPs earning, AI doctors, GP exam ruling]]></title>
+        <id>https://www.gponline.com/article/1887390</id>
+        <link href="https://www.gponline.com/podcast-gps-earning-ai-doctors-gp-exam-ruling/article/1887390"/>
+        <updated>2024-09-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In our regular news review the GPonline team discusses the latest data on GP earnings and expenses, a recent report on AI in the NHS and a High Court ruling on RCGP exam resists.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4542 - Veeam Releases September 2024 Security Bulletin]]></title>
         <id>85825aaa-e2f2-4a84-a65c-6988f7db87fa</id>
