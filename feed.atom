@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-09T08:15:34.722Z</updated>
+    <updated>2024-09-09T09:12:42.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Amending the medical certificate of cause of death (MCCD) process: survey results]]></title>
+        <id>https://www.gov.uk/government/publications/amending-the-medical-certificate-of-cause-of-death-mccd-process-survey-results</id>
+        <link href="https://www.gov.uk/government/publications/amending-the-medical-certificate-of-cause-of-death-mccd-process-survey-results"/>
+        <updated>2024-09-09T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[A report on the outcomes of a survey looking at amending the MCCD to reduce the number of uncertified deaths in England and Wales.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airedale NHS FT delay EPR go-live for further safety testing]]></title>
         <id>https://www.digitalhealth.net/?p=204731</id>
