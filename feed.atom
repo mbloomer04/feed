@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-10T11:09:09.978Z</updated>
+    <updated>2024-09-10T12:21:17.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: ICAI review of DHSC's aid-funded global health research and innovation: government response]]></title>
+        <id>https://www.gov.uk/government/publications/icai-review-of-dhscs-aid-funded-global-health-research-and-innovation-government-response</id>
+        <link href="https://www.gov.uk/government/publications/icai-review-of-dhscs-aid-funded-global-health-research-and-innovation-government-response"/>
+        <updated>2024-09-10T11:26:09.000Z</updated>
+        <summary type="html"><![CDATA[The UK government response to the Independent Commission for Aid Impact’s July 2024 recommendations on DHSC's aid-funded global health research and innovation.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A blueprint for the future: sexual and reproductive health and HIV services in England]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/09/a-blueprint-for-the-future-sexual-and-reproductive-health-and-hiv-services-in-england.html</id>
@@ -119,6 +129,16 @@ The post How we established our consultant-led surgery appeared first on Pulse T
 The post Patients prefer GPs to community diagnostic centres, survey finds appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How have GP earnings changed in the past 20 years?]]></title>
+        <id>https://www.gponline.com/article/1887749</id>
+        <link href="https://www.gponline.com/gp-earnings-changed-past-20-years/article/1887749"/>
+        <updated>2024-09-09T14:12:10.000Z</updated>
+        <summary type="html"><![CDATA[GP income has fluctuated over the past 20 years, with a step change from the 2004 GMS contract and a more recent COVID-induced blip. But downs have followed the ups - how does GP income compare now to the start of the century?]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1122,6 +1142,16 @@ The post GP practices refusing call data handover ‘risk contract breach’, BM
         <link href="https://www.gponline.com/changes-winter-fuel-payments-put-pensioners-risk-warns-rcgp/article/1886878"/>
         <updated>2024-09-02T13:42:04.000Z</updated>
         <summary type="html"><![CDATA[New restrictions on winter fuel payments will leave thousands of pensioners at risk of developing illness from cold and damp conditions and add to GP workload, the RCGP has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQC should pay outstanding practices to help struggling neighbours, says GP]]></title>
+        <id>https://www.gponline.com/article/1886824</id>
+        <link href="https://www.gponline.com/cqc-pay-outstanding-practices-help-struggling-neighbours-says-gp/article/1886824"/>
+        <updated>2024-09-02T12:48:43.000Z</updated>
+        <summary type="html"><![CDATA[GP practices rated 'good' or 'outstanding' by the CQC should be offered money to support neighbouring practices that are struggling, a leading GP has suggested.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
