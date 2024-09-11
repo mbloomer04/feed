@@ -93,6 +93,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=153192",
+          "author": "Anna Colivicchi",
+          "description": "The NHS is in a ‘critical condition’ but can be saved, with increased general practice funding a ‘fundamental strategic shift’ required, the Darzi review has concluded. The Government tasked Lord Ara Darzi, a cancer surgeon and former Labour minister, to lead a ‘rapid investigation’ into the NHS, which will feed into a new 10-year plan\nThe post Increased GP funding should be ‘fundamental strategic shift’, finds Darzi review appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/increased-gp-funding-should-be-fundamental-strategic-shift-finds-darzi-review/",
+          "publishedOn": "2024-09-11T21:30:00.000Z",
+          "wordCount": 2913,
+          "title": "Increased GP funding should be ‘fundamental strategic shift’, finds Darzi review",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=153190",
           "author": "Maya Dhillon",
           "description": "Editor Jaimie Kaffash reflects on the issue of APMS contracts replacing GMS contracts A decade ago, we exclusively revealed that NHS England had decided to replace all GMS contracts that were handed back with APMS contracts. At the time, it made little sense. And, as the years have gone by, it makes even less sense.\nThe post A Pretty Meagre Solution appeared first on Pulse Today.",
@@ -1220,6 +1230,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1888104",
+          "author": null,
+          "description": "GP services must be expanded to cope with demand from growing numbers of patients with multiple long-term conditions in an increasingly complex, ageing population, a rapid review of the NHS by Lord Ara Darzi warns.",
+          "link": "https://www.gponline.com/hardwire-nhs-finances-lock-in-expansion-gp-services-says-darzi-review/article/1888104",
+          "publishedOn": "2024-09-11T21:30:00.000Z",
+          "wordCount": 730,
+          "title": "Hardwire NHS finances to 'lock in' expansion of GP services, says Darzi review",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/AraDarzi_GettyImages-VictorBoyko_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1888082",
+          "author": null,
+          "description": "Prime minister Keir Starmer will promise the 'biggest reimagining of our NHS since its birth' after a rapid review by Lord Ara Darzi found the health service is in 'critical condition' and called for general practice to expand as part of a shift of care from hospitals into the community.",
+          "link": "https://www.gponline.com/shocking-darzi-report-shows-broken-nhs-reform-die-warns-starmer/article/1888082",
+          "publishedOn": "2024-09-11T21:30:00.000Z",
+          "wordCount": 763,
+          "title": "Shocking Darzi report shows broken NHS must 'reform or die', warns Starmer",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Keir_Starmer_GettyImages-BenStansallAFP.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1887939",
           "author": null,
           "description": "ICBs will remain free to commission GP services under APMS contracts despite a Labour MP hitting out at 'stealth privatisation' and warning that the time-limited deals are more expensive and worse for patients, the government has confirmed.",
@@ -1798,26 +1828,6 @@
           "wordCount": 728,
           "title": "Collective action plans must be put in writing to salaried and locum GPs, says BMA",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_11.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1884871",
-          "author": null,
-          "description": "Some practices will not receive enough funding through the increased 2024/25 GP contract uplift to pass on a full 6% pay uplift to salaried GPs and other staff, the BMA has warned.",
-          "link": "https://www.gponline.com/gp-contract-uplift-will-not-cover-6-pay-rise-practices-bma-warns/article/1884871",
-          "publishedOn": "2024-08-13T09:19:30.000Z",
-          "wordCount": 730,
-          "title": "GP contract uplift will not cover 6% pay rise for all practices, BMA warns",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_71.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1884871",
-          "author": null,
-          "description": "Some practices will not receive enough funding through the increased 2024/25 GP contract uplift to pass on a full 6% pay uplift to salaried GPs and other staff, the BMA has warned.",
-          "link": "https://www.gponline.com/gp-contract-uplift-wont-cover-6-pay-rise-practices-bma-warns/article/1884871",
-          "publishedOn": "2024-08-13T09:19:30.000Z",
-          "wordCount": 730,
-          "title": "GP contract uplift won't cover 6% pay rise for all practices, BMA warns",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_71.jpg"
         }
       ]
     },
@@ -2005,6 +2015,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/pm-major-surgery-not-sticking-plaster-solutions-needed-to-rebuild-nhs",
+          "author": null,
+          "description": "The PM will pledge the ‘biggest reimagining of our NHS since its birth’ in a speech this morning [12 September 2024], following the publication today of a full and independent investigation into the state of the NHS.",
+          "link": "https://www.gov.uk/government/news/pm-major-surgery-not-sticking-plaster-solutions-needed-to-rebuild-nhs",
+          "publishedOn": "2024-09-11T21:30:02.000Z",
+          "wordCount": 4296,
+          "title": "Press release: PM: ‘Major surgery, not sticking plaster solutions' needed to rebuild NHS",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/5a37daeaed915d5a5f96602b/s960_number10.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/dhsc-second-permanent-secretary-appointed",
           "author": null,
@@ -3635,16 +3655,6 @@
           "wordCount": 3769,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=202147",
-          "author": "Jordan Sollof",
-          "description": "Sussex Community NHS Foundation Trust has awarded a 10-year contract extension for an EPR system from TPP, worth almost £6.3 million.",
-          "link": "https://www.digitalhealth.net/2024/08/tpp-awarded-sussex-community-nhs-epr-contract-extension/",
-          "publishedOn": "2024-08-13T09:30:48.000Z",
-          "wordCount": 3801,
-          "title": "TPP awarded Sussex Community NHS EPR contract extension",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Sussex-Community-NHS.jpg"
         }
       ]
     }
