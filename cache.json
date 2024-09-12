@@ -1976,6 +1976,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/speeches/pm-speech-on-the-nhs-12-september-2024",
+          "author": null,
+          "description": "Prime Minister Keir Starmer delivers a speech on the NHS at the King's Fund today.",
+          "link": "https://www.gov.uk/government/speeches/pm-speech-on-the-nhs-12-september-2024",
+          "publishedOn": "2024-09-12T12:48:58.000Z",
+          "wordCount": 5678,
+          "title": "Speech: PM speech on the NHS: 12 September 2024",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/668813494a94d44125d9cd96/53836009867_63fd6cdffe_b.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care",
           "author": null,
           "description": "The government’s new plan for healthcare, adult social care, and our new funding plan.",
@@ -2770,6 +2780,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:30e490f9-43b7-4214-a8ad-93c12ec6aeca",
+          "author": null,
+          "description": "At least one quarter or 22 500 of those injured in Gaza by 23 July are estimated to have life-changing injuries that require rehabilitation services  now and for years to come, according to a  World Health Organization (WHO) analysis of the types of injuries resulting from the ongoing conflict in Gaza:   Estimating Trauma Rehabilitation Needs in Gaza using Injury Data from Emergency Medical Teams.  \n\nThe analysis found that severe limb injuries, estimated to be between 13 455 to 17 550, are the main driver of the need for rehabilitation. Many of those injured have more than one injury. According to the report, between 3105 and 4050 limb amputations have also occurred. Large surges in spinal cord injury, traumatic brain injury and major burn injuries all contribute to the overall number of …",
+          "link": "https://www.who.int/news/item/12-09-2024-who-analysis-highlights-vast-unmet-rehabilitation-needs-in-gaza",
+          "publishedOn": "2024-09-12T08:38:48.000Z",
+          "wordCount": 2030,
+          "title": "WHO analysis highlights vast unmet rehabilitation needs in Gaza",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/al-awda-hospital-in-north-gaza-15-jan-2024.tmb-1200v.jpg?sfvrsn=fde9b84d_2"
+        },
+        {
           "id": "urn:uuid:b72ca81d-e8e6-4c7d-9449-fe14a2cca63c",
           "author": null,
           "description": "WHO Director-General Dr Tedros Adhanom Ghebreyesus and Regional Director Dr Hanan Balkhy yesterday concluded a two-day mission to Port Sudan, where they reaffirmed WHO's commitment to reaching all Sudanese in need and called on the international community to urgently act to end the extreme health and humanitarian crisis.",
@@ -2916,6 +2936,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=205271",
+          "author": "Jordan Sollof",
+          "description": "Helen Thomas and Dr Malte Gerhold are the latest speakers to be confirmed for Digital Health Rewired 2025.",
+          "link": "https://www.digitalhealth.net/2024/09/helen-thomas-and-malte-gerhold-to-speak-at-rewired-2025/",
+          "publishedOn": "2024-09-12T12:30:42.000Z",
+          "wordCount": 3986,
+          "title": "Helen Thomas and Dr Malte Gerhold to speak at Rewired 2025",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Helen-Thomas-Malte-Gerhold-Rewired-2025.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=205233",
           "author": "Tammy Lovell",

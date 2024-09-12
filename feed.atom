@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-12T12:19:52.677Z</updated>
+    <updated>2024-09-12T13:17:55.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speech: PM speech on the NHS: 12 September 2024]]></title>
+        <id>https://www.gov.uk/government/speeches/pm-speech-on-the-nhs-12-september-2024</id>
+        <link href="https://www.gov.uk/government/speeches/pm-speech-on-the-nhs-12-september-2024"/>
+        <updated>2024-09-12T12:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Prime Minister Keir Starmer delivers a speech on the NHS at the King's Fund today.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helen Thomas and Dr Malte Gerhold to speak at Rewired 2025]]></title>
+        <id>https://www.digitalhealth.net/?p=205271</id>
+        <link href="https://www.digitalhealth.net/2024/09/helen-thomas-and-malte-gerhold-to-speak-at-rewired-2025/"/>
+        <updated>2024-09-12T12:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Helen Thomas and Dr Malte Gerhold are the latest speakers to be confirmed for Digital Health Rewired 2025.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Build Back Better: Our Plan for Health and Social Care]]></title>
         <id>https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care</id>
@@ -75,6 +95,18 @@ The post ‘No more money without reform’, says Starmer following damning Darz
         <summary type="html"><![CDATA[GPs and healthcare leaders have been reacting to Lord Ara Darzi’s review of the NHS, which called for a shift in funding and care from hospitals into the community to save the NHS. GPonline looks at what they had to say.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO analysis highlights vast unmet rehabilitation needs in Gaza]]></title>
+        <id>urn:uuid:30e490f9-43b7-4214-a8ad-93c12ec6aeca</id>
+        <link href="https://www.who.int/news/item/12-09-2024-who-analysis-highlights-vast-unmet-rehabilitation-needs-in-gaza"/>
+        <updated>2024-09-12T08:38:48.000Z</updated>
+        <summary type="html"><![CDATA[At least one quarter or 22 500 of those injured in Gaza by 23 July are estimated to have life-changing injuries that require rehabilitation services  now and for years to come, according to a  World Health Organization (WHO) analysis of the types of injuries resulting from the ongoing conflict in Gaza:   Estimating Trauma Rehabilitation Needs in Gaza using Injury Data from Emergency Medical Teams.  
+
+The analysis found that severe limb injuries, estimated to be between 13 455 to 17 550, are the main driver of the need for rehabilitation. Many of those injured have more than one injury. According to the report, between 3105 and 4050 limb amputations have also occurred. Large surges in spinal cord injury, traumatic brain injury and major burn injuries all contribute to the overall number of …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
