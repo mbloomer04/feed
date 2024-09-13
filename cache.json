@@ -2364,16 +2364,6 @@
           "wordCount": 1290,
           "title": "Guidance: Damp and mould: understanding and addressing the health risks for rented housing providers",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "author": null,
-          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
-          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "publishedOn": "2024-08-15T09:09:09.000Z",
-          "wordCount": 2393,
-          "title": "Guidance: Child death overview panels: contacts",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -2849,6 +2839,26 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:f6ca8b7c-dc20-4fc1-bf2c-e47faf6f7206",
+          "author": null,
+          "description": "Around 560 000 children under ten years old were vaccinated against polio during the first round of an emergency vaccination campaign conducted in three phases from 1-12 September 2024 in the Gaza Strip. \nThe 12-day campaign provided novel oral polio vaccine type 2 (nOPV2) to 558 963 children, following meticulous planning and coordination. This involved the use of an extensive network of teams, vaccinating at selected fixed sites at health facilities and outreach posts. Mobile and transit teams actively reached out to families living in shelter homes, tents, and camps for the displaced, alongside community workers engaging families to raise awareness ahead of and during the campaign. For each phase, an area-specific humanitarian pause of nine hours daily was agreed to ensure the safety of…",
+          "link": "https://www.who.int/news/item/13-09-2024-around-560-000-children-vaccinated-in-first-round-of-polio-campaign-in-gaza",
+          "publishedOn": "2024-09-13T16:58:53.000Z",
+          "wordCount": 3046,
+          "title": "Around 560 000 children vaccinated in first round of polio campaign in Gaza",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/ap3i2635.tmb-1200v.jpg?sfvrsn=e9c78b7_1"
+        },
+        {
+          "id": "urn:uuid:eb0eed85-e7d6-4b3d-b5f0-fa8b08cbedcc",
+          "author": null,
+          "description": "WHO has updated its guidelines for the care of patients with influenza. The guidelines are designed primarily for health care providers who manage patients with influenza virus infection, and will also serve as a reference source for policymakers and others in efforts towards epidemic and pandemic preparedness.\n Influenza is a viral disease. Seasonal influenza is common in all parts of the world. It is estimated that there are around a billion cases of seasonal influenza annually, including 3–5 million cases of severe respiratory illness. An estimated 290 000-650 000 deaths each year are due to seasonal influenza related respiratory disease, in addition to the deaths related to other influenza-related complications.\nAlong with seasonal influenza viruses, animal influenza viruses – most com…",
+          "link": "https://www.who.int/news/item/13-09-2024-who-updates-influenza-care-guidelines--includes-recommendations-for-viruses-with-pandemic-potential",
+          "publishedOn": "2024-09-13T16:17:34.000Z",
+          "wordCount": 1705,
+          "title": "WHO updates influenza care guidelines, includes recommendations for viruses with pandemic potential",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/influenza/influenza-surveillance-in-lebanon-july-2022.tmb-1200v.jpg?sfvrsn=f668c900_1"
+        },
         {
           "id": "urn:uuid:f92e1732-7ecc-4ce8-be5a-9f72ba740452",
           "author": null,
