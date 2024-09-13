@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1888406",
+          "author": null,
+          "description": "Four in five GP practices have started some form of collective action, the BMA has revealed.",
+          "link": "https://www.gponline.com/four-five-gp-practices-already-taking-collective-action-bma-says/article/1888406",
+          "publishedOn": "2024-09-13T10:24:18.000Z",
+          "wordCount": 692,
+          "title": "Four in five GP practices already taking collective action, BMA says",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie-Bramall-Stainer_Credit-Sarah-Turton_BMA_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1888279",
           "author": null,
           "description": "Health and social care secretary Wes Streeting has hit out at 'sabre-rattling' by the BMA GP committee - and contrasted the 'unnecessary threat of collective action' from GPs to an improving relationship with other parts of the medical profession.",
@@ -1228,6 +1238,16 @@
           "wordCount": 741,
           "title": "Streeting hits out at GP 'sabre-rattling' and 'unnecessary threat of collective action'",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_GettyImages-LeonNeal_2.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1888292",
+          "author": null,
+          "description": "A police investigation into alleged racist comments about the MP Diane Abbott by Frank Hester - chief executive of England's second-largest supplier of GP IT systems, TPP - is still ongoing, six months after the comments were first reported to the police.",
+          "link": "https://www.gponline.com/police-investigating-alleged-racist-comments-tpp-chief-frank-hester/article/1888292",
+          "publishedOn": "2024-09-12T14:43:21.000Z",
+          "wordCount": 736,
+          "title": "Police still investigating alleged racist comments by TPP chief Frank Hester",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/computer_GettyImages-JGITomGrill_RF_4.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1888173",
@@ -1798,16 +1818,6 @@
           "wordCount": null,
           "title": "Newly-qualified GPs could be 'driven away' by ARRS jobs plan, warns BMA",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.gponline.com/article/1885111",
-          "author": null,
-          "description": "The UK Health Security Agency (UKHSA) has warned that a 'concerning rise' in antiobiotic-resistant gonorrhoea cases in England could lead to the infection becoming untreatable in future.",
-          "link": "https://www.gponline.com/ukhsa-warns-concerning-rise-antibiotic-resistant-gonorrhoea-cases/sexual-health/article/1885111",
-          "publishedOn": "2024-08-14T23:12:00.000Z",
-          "wordCount": 714,
-          "title": "UKHSA warns of 'concerning rise' in antibiotic-resistant gonorrhoea cases",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Gonorrhoeatest_GettyImages-RodolfoParulanJr._1.jpg"
         }
       ]
     },
@@ -2352,6 +2362,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/what-are-unpaid-carers-who-are-they-and-how-often-do-they-provide-care.html",
+          "author": null,
+          "description": "The King's Fund - Unpaid carers or informal carers – anyone who provides care, unpaid, for a friend or family member who due to illness, disability, a mental health problem or an addiction and cannot cope without their support – play a key role in the health and care system. Here we unpack who is likely to be an unpaid...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/what-are-unpaid-carers-who-are-they-and-how-often-do-they-provide-care.html",
+          "publishedOn": "2024-09-13T11:40:30.000Z",
+          "wordCount": null,
+          "title": "What are unpaid carers, who are they and how often do they provide care?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/09/learning-and-development-support-scheme-for-the-adult-social-care-workforce-a-guide-for-employers.html",
           "author": null,
