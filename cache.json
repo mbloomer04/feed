@@ -2006,6 +2006,16 @@
           "imageUrl": "https://assets.publishing.service.gov.uk/media/668813494a94d44125d9cd96/53836009867_63fd6cdffe_b.jpg"
         },
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2024-09-12T11:55:07.000Z",
+          "wordCount": 8125,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care",
           "author": null,
           "description": "The government’s new plan for healthcare, adult social care, and our new funding plan.",
@@ -2333,16 +2343,6 @@
           "publishedOn": "2024-08-14T15:28:41.000Z",
           "wordCount": 1186,
           "title": "Guidance: Changes to the death certification process",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid",
-          "author": null,
-          "description": "If you have long COVID there is a range of support available.",
-          "link": "https://www.gov.uk/guidance/find-help-and-support-if-you-have-long-covid",
-          "publishedOn": "2024-08-14T12:55:35.000Z",
-          "wordCount": 1774,
-          "title": "Guidance: Find help and support if you have long COVID",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
