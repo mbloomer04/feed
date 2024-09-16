@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-16T07:11:26.274Z</updated>
+    <updated>2024-09-16T08:14:53.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS clinical scientist warns of AI ‘deployment blockage’]]></title>
+        <id>https://www.digitalhealth.net/?p=205479</id>
+        <link href="https://www.digitalhealth.net/2024/09/nhs-clinical-scientist-warns-of-ai-deployment-blockage/"/>
+        <updated>2024-09-16T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[A "deployment blockage" in the NHS is preventing AI from being adopted at scale, according to an NHS consultant clinical scientist.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS urges parents to help protect their children ahead of winter with flu vaccine rollout]]></title>
         <id>https://www.england.nhs.uk/?p=252665</id>
