@@ -1200,6 +1200,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1888829",
+          "author": null,
+          "description": "One in five GPs have incorporated AI into parts of their clinical practice, according to a study that has prompted calls for targeted training to educate clinicians about potential risks and benefits.",
+          "link": "https://www.gponline.com/one-five-gps-use-ai-tools-clinical-practice-survey-finds/article/1888829",
+          "publishedOn": "2024-09-17T22:30:00.000Z",
+          "wordCount": 720,
+          "title": "One in five GPs use AI tools in clinical practice, survey finds",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_computer_GettyImages-MarkoGeber_4.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1888937",
+          "author": null,
+          "description": "Junior doctors have been renamed formally as 'resident doctors' in a shift agreed between the BMA and the government to better reflect the expertise of a group of clinicians who can have 10 years' experience or more.",
+          "link": "https://www.gponline.com/junior-doctors-renamed-resident-doctors-reflect-expertise-experience/article/1888937",
+          "publishedOn": "2024-09-17T14:17:07.000Z",
+          "wordCount": 722,
+          "title": "Junior doctors renamed 'resident doctors' to reflect expertise and experience",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_12.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1888880",
           "author": null,
           "description": "Practices in England's most deprived areas have 17% more patients and 19% more long-term conditions per full-time equivalent GP, research shows.",
@@ -3046,6 +3066,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=205615",
+          "author": "Jordan Sollof",
+          "description": "Three of the UK’s stand-out pioneers in applying AI, machine learning and data analytics to healthcare will speak at Rewired 2025.",
+          "link": "https://www.digitalhealth.net/2024/09/healthcare-ai-experts-confirmed-as-speakers-for-rewired-2025/",
+          "publishedOn": "2024-09-18T07:30:50.000Z",
+          "wordCount": 4318,
+          "title": "Healthcare AI experts confirmed as speakers for Rewired 2025",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Dr-Zhang-Tang-and-Dr-Pimenta.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=205625",
           "author": "Tammy Lovell",
