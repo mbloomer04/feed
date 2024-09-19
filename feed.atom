@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-19T13:18:59.812Z</updated>
+    <updated>2024-09-19T14:10:02.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Healthcare for UK nationals living in Germany]]></title>
+        <id>https://www.gov.uk/guidance/healthcare-in-germany</id>
+        <link href="https://www.gov.uk/guidance/healthcare-in-germany"/>
+        <updated>2024-09-19T13:18:03.000Z</updated>
+        <summary type="html"><![CDATA[How to get state healthcare if you live, work or study in Germany.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clinical conundrum: Child presents with rash after antibiotic treatment]]></title>
         <id>https://www.pulsetoday.co.uk/?p=153469</id>
