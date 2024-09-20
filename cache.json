@@ -1240,6 +1240,36 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1889376",
+          "author": null,
+          "description": "Plans to create more than 1,000 GP jobs through the additional roles reimbursement scheme (ARRS) are highly unlikely to start in October, GP leaders have warned.",
+          "link": "https://www.gponline.com/almost-impossible-gp-arrs-jobs-start-october-lmc-warns/article/1889376",
+          "publishedOn": "2024-09-20T06:55:49.000Z",
+          "wordCount": 713,
+          "title": "'Almost impossible' for GP ARRS jobs to start in October, LMC warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_older_patient_GettyImages-sturti_7.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1888867",
+          "author": null,
+          "description": "A GP practice was forced to close after triggering an emergency alert when a patient arrived covered in white powder.",
+          "link": "https://www.gponline.com/emergency-closure-gp-practice-patient-arrived-covered-white-powder/article/1888867",
+          "publishedOn": "2024-09-20T06:24:00.000Z",
+          "wordCount": 701,
+          "title": "Emergency closure at GP practice after patient arrived 'covered in white powder'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-sinseeho_RF_5.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1889302",
+          "author": null,
+          "description": "In our regular news review, the GPonline team looks in detail at what the Darzi review had to say and what it could mean for general practice and the latest on GP collective action.",
+          "link": "https://www.gponline.com/podcast-next-general-practice-nhs-darzi-review/article/1889302",
+          "publishedOn": "2024-09-20T06:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Podcast: What next for general practice and the NHS after the Darzi review?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_976.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1889314",
           "author": null,
           "description": "Health secretary Wes Streeting has agreed to speak at this year’s RCGP Annual Conference - offering GPs the chance to quiz him on the government’s plans for general practice.",
@@ -3056,6 +3086,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=206187",
+          "author": "Owen Hughes",
+          "description": "AI platform Ada Health has announced a three-year extension to its partnership with French health services company, Santéclair.",
+          "link": "https://www.digitalhealth.net/2024/09/ada-health-and-santeclair-announce-partnership-extension/",
+          "publishedOn": "2024-09-20T10:00:42.000Z",
+          "wordCount": 4082,
+          "title": "Ada Health and Santéclair announce partnership extension",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/MG_5668-Edit_EN.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=206383",
           "author": "Jordan Sollof",
