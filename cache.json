@@ -93,6 +93,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=153500",
+          "author": "Eliza Parr",
+          "description": "Exclusive NHS England has extended the contract for the national GP mental health support service, after a controversial proposal to cut funding. NHS England has extended the contract for Practitioner Health by a further 12 months to March 2026 while a review into all mental health services continues, Pulse has learned. In April, NHSE said\nThe post GP mental health service offer extended another year amid NHSE review appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/gp-mental-health-service-offer-extended-another-year-amid-nhse-review/",
+          "publishedOn": "2024-09-20T10:58:30.000Z",
+          "wordCount": 2544,
+          "title": "GP mental health service offer extended another year amid NHSE review",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/mental_health_survey_2022.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=153374",
+          "author": "Anna Colivicchi",
+          "description": "Patients at a GP practice in Wales are opposing a health board’s decision to close their surgery, and are ‘considering options’ to save it, including potentially buying its premises. Earlier this year, St David’s Surgery in North Pembrokeshire announced its decision to return its contract to Hywel Dda University Health Board and GP partner Dr Stephen Riley\nThe post Patients considering buying premises of GP practice set for closure appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/wales/patients-considering-buying-premises-of-gp-practice-set-for-closure/",
+          "publishedOn": "2024-09-20T10:31:32.000Z",
+          "wordCount": 2376,
+          "title": "Patients considering buying premises of GP practice set for closure",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/GP-practice-closed_1200-x-800.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=153414",
           "author": "Caroline Price",
           "description": "The next in our series of quick quizzes in paediatric care asks – what is the likely diagnosis in this case of a child with recent upper respiratory tract infection who has developed a rash?\nThe post Speediatrics: Can you solve this quick case involving a lower-limb rash? appeared first on Pulse Today.",
@@ -1838,16 +1858,6 @@
           "wordCount": 689,
           "title": "GPs facing extra pressure as seven pharmacies a week close down",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Medicines_GettyImages-AlexanderFord_RF_6.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1885805",
-          "author": null,
-          "description": "Patients' experience of healthcare in the UK is 'near the bottom of the pack' compared with other developed nations despite relatively strong performance on rapid access to a GP, analysis of a major international survey reveals.",
-          "link": "https://www.gponline.com/uk-healthcare-near-bottom-pack-compared-similar-countries/article/1885805",
-          "publishedOn": "2024-08-21T23:01:00.000Z",
-          "wordCount": 731,
-          "title": "UK healthcare 'near bottom of the pack' compared with similar countries",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick2.jpg"
         }
       ]
     },
@@ -2452,6 +2462,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/assisted-dying-legislation-will-have-a-big-impact-on-end-of-life-care-what-is-the-state-of-play-for-.html",
+          "author": null,
+          "description": "Nuffield Trust - With the subject of assisted dying much debated in recent months, this long read describes the main challenges facing palliative and end of life care in England, and discusses what legislation on assisted dying might mean for end of life care services. Nuffield Trust - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/assisted-dying-legislation-will-have-a-big-impact-on-end-of-life-care-what-is-the-state-of-play-for-.html",
+          "publishedOn": "2024-09-20T10:42:08.000Z",
+          "wordCount": null,
+          "title": "Assisted dying legislation will have a big impact on end of life care: what is the state of play for services in England?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/09/prescription-for-prevention-supplementary-paper-a-new-funding-model-for-primary-care.html",
           "author": null,
