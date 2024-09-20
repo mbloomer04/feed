@@ -93,6 +93,46 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=153523",
+          "author": "Maya Dhillon",
+          "description": "Highly commended in our ‘gut feelings’ category, Dr SD on ‘That one patient’ with more than meets the eye… Late 1990’s. First GP partnership. Not quite the steep learning curve of house jobs, but still challenging. I had just finished the usual busy Monday morning surgery with a cacophony of extras and was heading for\nThe post A sixth sense appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/writing-competition-2024/a-sixth-sense/",
+          "publishedOn": "2024-09-20T13:54:55.000Z",
+          "wordCount": 2419,
+          "title": "A sixth sense",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/Pulse-writing-comp-gut-feelings-1200x800-1.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=153443",
+          "author": "Eliza Parr",
+          "description": "The vast majority of patients contacting their GP practice think waiting times for an appointment are ‘reasonable’, a new survey has suggested. From July, a survey commissioned by NHS England began collecting patient feedback on GP and other NHS services, which has now been analysed by the Office for National Statistics (ONS).  The survey results,\nThe post Nine in 10 patients find GP waiting times ‘reasonable’, says ONS survey appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/consultations/nine-in-10-patients-find-gp-waiting-times-reasonable-says-ons-survey/",
+          "publishedOn": "2024-09-20T13:44:01.000Z",
+          "wordCount": 2335,
+          "title": "Nine in 10 patients find GP waiting times ‘reasonable’, says ONS survey",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/ARRS-improves-patient-access-study-finds.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=153471",
+          "author": "Maya Dhillon",
+          "description": "Next up in the ‘highly commended’ entries from our writing competition is the ‘gut feelings’ category.  These are entries that were written on the theme of ‘That one patient’, but specifically looked at cases where the authors knew there was more than met the eye with the presenting patient. Even if they weren’t sure why,\nThe post Pulse Writing Competition: Gut feelings appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/writing-competition-2024/pulse-writing-competition-gut-feelings/",
+          "publishedOn": "2024-09-20T13:38:56.000Z",
+          "wordCount": 1917,
+          "title": "Pulse Writing Competition: Gut feelings",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/Pulse-writing-comp-gut-feelings-1200x800-1.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=153466",
+          "author": "Maya Dhillon",
+          "description": "On the theme of ‘That one patient’, Dr Peter Nutley writes about a patient he never saw, but who remains with him Some patients are memorable for the wrong reasons. I did what I should have done. I even got a ‘thank you’ note, which is uncommon for a locum, but the events still sadden\nThe post Unfulfilled hope – a memorable patient appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/writing-competition-2024/unfulfilled-hope-a-memorable-patient/",
+          "publishedOn": "2024-09-20T13:37:11.000Z",
+          "wordCount": 2392,
+          "title": "Unfulfilled hope – a memorable patient",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/Pulse-writing-comp-gut-feelings-1200x800-1.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=153500",
           "author": "Eliza Parr",
           "description": "Exclusive NHS England has extended the contract for the national GP mental health support service, after a controversial proposal to cut funding. NHS England has extended the contract for Practitioner Health by a further 12 months to March 2026 while a review into all mental health services continues, Pulse has learned. In April, NHSE said\nThe post GP mental health service offer extended another year amid NHSE review appeared first on Pulse Today.",
@@ -2472,6 +2512,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/ai-in-healthcare-navigating-the-noise.html",
+          "author": null,
+          "description": "NHS Confederation - This guide aims to support health care leaders to make sense of artificial intelligence and explore what is currently possible. It includes a jargon buster and various case studies on how AI is currently being used in some NHS trusts. NHS Confederation - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/ai-in-healthcare-navigating-the-noise.html",
+          "publishedOn": "2024-09-20T13:46:12.000Z",
+          "wordCount": null,
+          "title": "AI in healthcare: navigating the noise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/09/new-hospital-programme-review-terms-of-reference.html",
+          "author": null,
+          "description": "Department of Health and Social Care - This guidance sets out the terms of reference for the government’s internal review of the New Hospital Programme, a hospital building programme introduced by the previous government. The review examines options for putting the New Hospital Programme onto an affordable and deliverable footing. Guidance Department of Health and Social Care - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2024/09/new-hospital-programme-review-terms-of-reference.html",
+          "publishedOn": "2024-09-20T13:28:04.000Z",
+          "wordCount": null,
+          "title": "New Hospital Programme review: terms of reference",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/09/national-review-of-maternity-services-in-england-2022-to-2024.html",
           "author": null,
