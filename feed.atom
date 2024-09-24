@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-24T13:19:43.042Z</updated>
+    <updated>2024-09-24T14:09:28.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prescription tracking feature launched on the NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=206779</id>
+        <link href="https://www.digitalhealth.net/2024/09/prescription-tracking-feature-launched-on-the-nhs-app/"/>
+        <updated>2024-09-24T13:22:46.000Z</updated>
+        <summary type="html"><![CDATA[A feature which allows patients to trace the status and readiness of their prescriptions has been released on the NHS App.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs affected by McCloud remedy can now use online tool for tax refunds]]></title>
         <id>https://www.pulsetoday.co.uk/?p=153598</id>
