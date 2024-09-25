@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-25T18:14:55.955Z</updated>
+    <updated>2024-09-25T20:12:29.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -34,6 +34,17 @@
         <summary type="html"><![CDATA[Royal National Orthopaedic Hospital NHS Trust has announced plans to implement Epic's electronic patient record in 2025.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New global guidance puts forward recommendations for more effective and equitable clinical trials]]></title>
+        <id>urn:uuid:c89c2c0e-14a7-47ff-ab2f-1444019217f3</id>
+        <link href="https://www.who.int/news/item/25-09-2024-new-global-guidance-puts-forward-recommendations-for-more-effective-and-equitable-clinical-trials"/>
+        <updated>2024-09-25T10:36:06.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released guidance to improve the design, conduct and oversight of clinical trials in countries of all income levels. This guidance aims to support stronger country-led research and development (R&D) ecosystems to advance health science so that new, safe and effective health interventions can be made more accessible and affordable globally for people everywhere, faster. 
+For the first time, WHO offers recommendations for national health authorities, regulatory authorities, funders and others on how they can best facilitate clinical trials to generate evidence on health interventions. It addresses challenges such as poor trial design, limited diversity of participants, insufficient infrastructure and bureaucratic efficiencies, which cost time, money …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4064,16 +4075,6 @@ The post High-dose psilocybin may be effective in treating depression appeared f
         <summary type="html"><![CDATA[West London Children’s Healthcare has deployed a clinical decision support tool to safeguard prescribing for young patients.]]></summary>
         <author>
             <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS 111 extended to mental health crisis support]]></title>
-        <id>https://www.digitalhealth.net/?p=203511</id>
-        <link href="https://www.digitalhealth.net/2024/08/nhs-111-extended-to-mental-health-crisis-support/"/>
-        <updated>2024-08-27T07:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Patients experiencing a mental health crisis can now access support through calling 111, the NHS England has announced.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
         </author>
     </entry>
     <entry>
