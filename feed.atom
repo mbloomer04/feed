@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-26T18:13:28.955Z</updated>
+    <updated>2024-09-26T19:08:34.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA[Today's Coffee Time Briefing covers progress on NHS Lanarkshire's £700m digital hospital and technology for detecting diabetic foot ulcers.]]></summary>
         <author>
             <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World leaders commit to decisive action on antimicrobial resistance]]></title>
+        <id>urn:uuid:278f55f7-e8da-4f30-abf0-3f09bcb17fb9</id>
+        <link href="https://www.who.int/news/item/26-09-2024-world-leaders-commit-to-decisive-action-on-antimicrobial-resistance"/>
+        <updated>2024-09-26T10:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Global leaders have approved a political declaration at the 79th United Nations General Assembly (UNGA) High-Level Meeting on Antimicrobial Resistance (AMR), committing to a clear set of targets and actions, including reducing the estimated 4.95 million human deaths associated with bacterial antimicrobial resistance (AMR) annually by 10% by 2030.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
