@@ -2216,6 +2216,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/gms1",
+          "author": null,
+          "description": "Family doctor services registration form.",
+          "link": "https://www.gov.uk/government/publications/gms1",
+          "publishedOn": "2024-09-27T12:56:29.000Z",
+          "wordCount": 1082,
+          "title": "Form: GMS1",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/market-sustainability-and-fair-cost-of-care-fund-2022-to-2023-guidance",
           "author": null,
           "description": "Sets out the guidance to support local authorities in administering the Market Sustainability and Fair Cost of Care Fund.",
@@ -3336,6 +3346,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=206489",
+          "author": "Owen Hughes",
+          "description": "An independent actuarial report from Strategia has confirmed the potential of Frimley Health’s remote monitoring programme.",
+          "link": "https://www.digitalhealth.net/2024/09/frimley-healths-remote-monitoring-programme-shows-benefits/",
+          "publishedOn": "2024-09-27T12:30:44.000Z",
+          "wordCount": 4115,
+          "title": "Frimley Health’s remote monitoring programme shows promise",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/doccla-stock-remote-monitoring.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=206709",
           "author": "Jordan Sollof",
