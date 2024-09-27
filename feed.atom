@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-27T07:11:16.648Z</updated>
+    <updated>2024-09-27T08:14:50.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=206973</id>
+        <link href="https://www.digitalhealth.net/2024/09/movers-and-shakers-news-roundup-52/"/>
+        <updated>2024-09-27T07:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Our latest Movers and Shakers roundup includes the appointments of a national CCIO and CNIO at NHS England.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Details of GP ARRS plans revealed in updated network contract DES]]></title>
         <id>https://www.gponline.com/article/1890184</id>
