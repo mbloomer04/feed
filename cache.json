@@ -2086,6 +2086,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care governing the provision of Directed Enhanced Services (DESs) in general practice.",
+          "link": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "publishedOn": "2024-09-30T08:30:01.000Z",
+          "wordCount": 986,
+          "title": "Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
+          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "publishedOn": "2024-09-30T08:30:01.000Z",
+          "wordCount": 1039,
+          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/gms1",
           "author": null,
           "description": "Family doctor services registration form.",
