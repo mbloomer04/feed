@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-09-30T12:22:26.705Z</updated>
+    <updated>2024-09-30T13:20:43.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI algorithm could aid drug discovery, find researchers]]></title>
+        <id>https://www.digitalhealth.net/?p=206695</id>
+        <link href="https://www.digitalhealth.net/2024/09/ai-algorithm-could-aid-drug-discovery-find-researchers/"/>
+        <updated>2024-09-30T12:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at King’s College London and Imperial College London have developed an AI algorithm that could help aid drug discovery.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-election poll found one in 10 GPs expected practice closure within a year]]></title>
+        <id>https://www.gponline.com/article/1890426</id>
+        <link href="https://www.gponline.com/pre-election-poll-found-one-10-gps-expected-practice-closure-within-year/article/1890426"/>
+        <updated>2024-09-30T11:42:11.000Z</updated>
+        <summary type="html"><![CDATA[One in 10 GPs expected their practice to close or hand back its contract within a year and 42% expected to leave the profession within five years, according to RCGP polling carried out in the run-up to the general election.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whistleblowing disclosures report 2024: health and social care professional regulators]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/09/whistleblowing-disclosures-report-2024-health-and-social-care-professional-regulators-.html</id>
