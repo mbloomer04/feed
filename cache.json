@@ -1330,6 +1330,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1890555",
+          "author": null,
+          "description": "Royal colleges have urged the government and NHS England to carry out a rapid review into the safety, cost-effectiveness and efficiency of physician associates.",
+          "link": "https://www.gponline.com/medical-royal-colleges-demand-rapid-review-physician-associate-roles/article/1890555",
+          "publishedOn": "2024-10-01T10:59:25.000Z",
+          "wordCount": 885,
+          "title": "Medical royal colleges demand rapid review into physician associate roles",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_3.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1890541",
+          "author": null,
+          "description": "Funding available to recruit GPs through the additional roles reimbursement scheme (ARRS) is a 'drop in the ocean of what is needed' and the roles could create significant financial risks for PCNs and practices, experts have warned.",
+          "link": "https://www.gponline.com/arrs-gp-funding-nowhere-near-enough-creates-significant-risks/article/1890541",
+          "publishedOn": "2024-10-01T08:58:43.000Z",
+          "wordCount": 914,
+          "title": "ARRS GP funding 'nowhere near enough' and creates 'significant risks'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_appt_GettyImages-SolStock_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1890541",
           "author": null,
           "description": "Funding available to recruit GPs through the additional roles reimbursement scheme (ARRS) is a 'drop in the ocean of what is needed' and the roles could create significant financial risks for PCNs and practices, experts have warned.",
@@ -2176,6 +2196,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "author": null,
+          "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
+          "link": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "publishedOn": "2024-10-01T11:05:30.000Z",
+          "wordCount": 3439,
+          "title": "Guidance: Medicines that you cannot export from the UK or hoard",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2024",
           "author": null,
           "description": "Amendment in the tariff and ceiling of charges payable by compensators for the recovery of NHS charges under the NHS injury costs recovery scheme.",
@@ -2632,6 +2662,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/primary-care-patient-safety-strategy-.html",
+          "author": null,
+          "description": "NHS England - This strategy outlines the primary care implementation of the NHS Patient Safety Strategy, and is for all areas of primary care, though with some improvements implemented first in general practice to enable the successes and learning to be used in the rollout to community pharmacy, optometry and dental services. Strategy More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/primary-care-patient-safety-strategy-.html",
+          "publishedOn": "2024-10-01T12:00:07.000Z",
+          "wordCount": null,
+          "title": "Primary care patient safety strategy",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/structural-racism-ethnicity-and-health-inequalities-in-london-.html",
           "author": null,
