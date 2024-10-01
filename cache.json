@@ -3190,6 +3190,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:68fba918-1f63-4cd3-b27b-059daa7c94f0",
+          "author": null,
+          "description": "The World Health Organization (WHO) congratulates Brazil for having eliminated lymphatic filariasis as a public health problem.",
+          "link": "https://www.who.int/news/item/01-10-2024-brazil-eliminates-lymphatic-filariasis-as-a-public-health-problem",
+          "publishedOn": "2024-09-30T16:22:28.000Z",
+          "wordCount": 2606,
+          "title": "Brazil eliminates lymphatic filariasis as a public health problem",
+          "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/lymphatic-filariasis/lymphatic-filariasis-patient-stories/brazil-2015/joshua-e-cogan-pernambuco-brazil-microfilaria-testing-for-lymphatic-filariasis.tmb-1200v.png?Culture=en&sfvrsn=a9736ecc_3"
+        },
+        {
           "id": "urn:uuid:e083993b-38b9-4226-aa67-43b48d0a7fe5",
           "author": null,
           "description": "The World Health Organization (WHO) today announced the recommendations for the viral composition of influenza vaccines for the 2025 influenza season in the southern hemisphere. The announcement was made at an information session after a 4-day meeting on the Composition of Influenza Virus Vaccines. The meeting is held twice annually, once for the southern and once for the northern hemisphere.",
@@ -3436,6 +3446,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=207057",
+          "author": "Jordan Sollof",
+          "description": "Whittington Health NHS Trust has rolled out an electronic prescription solution from CLEO Systems in its community heart failure team.",
+          "link": "https://www.digitalhealth.net/2024/10/whittington-health-nhs-trust-rolls-out-electronic-prescribing/",
+          "publishedOn": "2024-10-01T12:30:49.000Z",
+          "wordCount": 4152,
+          "title": "Whittington Health NHS Trust rolls out electronic prescribing",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Prescription-pharmacy.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=207373",
+          "author": "Jordan Sollof",
+          "description": "More people with type 1 diabetes in England will be able to receive an ‘artificial pancreas’ over the next five years.",
+          "link": "https://www.digitalhealth.net/2024/10/more-people-with-type-1-diabetes-to-get-artificial-pancreas/",
+          "publishedOn": "2024-10-01T12:30:02.000Z",
+          "wordCount": 4341,
+          "title": "More type 1 diabetes patients in England to get artificial pancreas",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Cloosed-loop-tech.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=205451",
           "author": "Owen Hughes",

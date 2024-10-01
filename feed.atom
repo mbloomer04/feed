@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-01T12:21:24.135Z</updated>
+    <updated>2024-10-01T13:20:36.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Whittington Health NHS Trust rolls out electronic prescribing]]></title>
+        <id>https://www.digitalhealth.net/?p=207057</id>
+        <link href="https://www.digitalhealth.net/2024/10/whittington-health-nhs-trust-rolls-out-electronic-prescribing/"/>
+        <updated>2024-10-01T12:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Whittington Health NHS Trust has rolled out an electronic prescription solution from CLEO Systems in its community heart failure team.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More type 1 diabetes patients in England to get artificial pancreas]]></title>
+        <id>https://www.digitalhealth.net/?p=207373</id>
+        <link href="https://www.digitalhealth.net/2024/10/more-people-with-type-1-diabetes-to-get-artificial-pancreas/"/>
+        <updated>2024-10-01T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[More people with type 1 diabetes in England will be able to receive an ‘artificial pancreas’ over the next five years.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Primary care patient safety strategy]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/10/primary-care-patient-safety-strategy-.html</id>
@@ -157,6 +177,16 @@ The post Case of the month – what’s underlying this patient’s nausea and t
         <summary type="html"><![CDATA[Isle of Wight NHS Trust will launch a digital consent platform created by former Digital Health Rewired Pitchfest finalist Concentric Health.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil eliminates lymphatic filariasis as a public health problem]]></title>
+        <id>urn:uuid:68fba918-1f63-4cd3-b27b-059daa7c94f0</id>
+        <link href="https://www.who.int/news/item/01-10-2024-brazil-eliminates-lymphatic-filariasis-as-a-public-health-problem"/>
+        <updated>2024-09-30T16:22:28.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) congratulates Brazil for having eliminated lymphatic filariasis as a public health problem.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
