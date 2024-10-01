@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1890541",
+          "author": null,
+          "description": "Funding available to recruit GPs through the additional roles reimbursement scheme (ARRS) is a 'drop in the ocean of what is needed' and the roles could create significant financial risks for PCNs and practices, experts have warned.",
+          "link": "https://www.gponline.com/arrs-gp-funding-nowhere-near-enough-leaves-gps-facing-significant-risks/article/1890541",
+          "publishedOn": "2024-10-01T08:58:43.000Z",
+          "wordCount": 928,
+          "title": "ARRS GP funding 'nowhere near enough' and leaves GPs facing 'significant risks'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_appt_GettyImages-SolStock_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1890426",
           "author": null,
           "description": "One in 10 GPs expected their practice to close or hand back its contract within a year and 42% expected to leave the profession within five years, according to RCGP polling carried out in the run-up to the general election.",
@@ -2157,26 +2167,6 @@
           "wordCount": 1711,
           "title": "First ever drug approved for NHS patients with life-threatening genetic, tumour-causing disease",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=251944",
-          "author": "nowen",
-          "description": "The NHS has started vaccinating people against Respiratory Syncytial Virus (RSV), for the first time in its history. RSV, a leading cause of infant mortality around the world, is a common cause of coughs and colds but can lead to severe lung infections like pneumonia and infant bronchiolitis, which are highly dangerous to older people and young children. As […]",
-          "link": "https://www.england.nhs.uk/2024/09/landmark-moment-as-nhs-kicks-off-first-ever-rsv-jab-rollout/",
-          "publishedOn": "2024-09-01T23:02:28.000Z",
-          "wordCount": 1787,
-          "title": "Landmark Moment As NHS Kicks Off First Ever RSV Jab Rollout",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=251940",
-          "author": "nowen",
-          "description": "The NHS is trialling blood pressure checks at dentist and optometry appointments to help find people at hidden risks of stroke or heart attacks. The scheme which will be up and running in the coming months follows the success of NHS community pharmacy blood pressure checks, which has delivered more than a million checks in […]",
-          "link": "https://www.england.nhs.uk/2024/09/blood-pressure-checks-at-the-dentist-and-optician-to-catch-those-at-risk-of-heart-attacks-and-strokes/",
-          "publishedOn": "2024-09-01T23:01:35.000Z",
-          "wordCount": 1411,
-          "title": "Blood pressure checks at the dentist and optician to catch those at risk of heart attacks and strokes",
-          "imageUrl": null
         }
       ]
     },
@@ -2642,6 +2632,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/structural-racism-ethnicity-and-health-inequalities-in-london-.html",
+          "author": null,
+          "description": "Institute of Health Equity - This report finds that structural racism affects the health and wellbeing of ethnic minority group communities in London and contributes to avoidable and unfair inequalities between ethnic groups. The report reviews both published and unpublished reports, materials and research, as well as health and social determinants data. The findings highlight how people who are repeatedly...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/structural-racism-ethnicity-and-health-inequalities-in-london-.html",
+          "publishedOn": "2024-10-01T10:23:29.000Z",
+          "wordCount": null,
+          "title": "Structural racism, ethnicity and health inequalities in London",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/strengthening-clinical-leadership-and-management-lessons-from-our-research-in-the-uk-and-usa-.html",
           "author": null,
@@ -3396,6 +3396,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=205451",
+          "author": "Owen Hughes",
+          "description": "Today's Coffee Time Briefing covers AstraZeneca's new AI tool and figures on the impact of the cost of living crisis on healthcare staff.",
+          "link": "https://www.digitalhealth.net/2024/10/digital-health-coffee-time-briefing-%e2%98%95-7/",
+          "publishedOn": "2024-10-01T10:30:14.000Z",
+          "wordCount": 4310,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=207249",
           "author": "Tammy Lovell",
