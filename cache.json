@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1890925",
+          "author": null,
+          "description": "Lessons from the COVID-19 pandemic response can help general practice tackle rising long-term conditions and health inequalities, a leading public health professor has told the RCGP conference.",
+          "link": "https://www.gponline.com/covid-response-inform-gps-approach-long-term-conditions-inequality/article/1890925",
+          "publishedOn": "2024-10-03T12:45:41.000Z",
+          "wordCount": 898,
+          "title": "COVID response could inform GPs' approach to long-term conditions and inequality",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP2024-7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1890897",
           "author": null,
           "description": "General practice needs a new outcomes-based contract with the flexibility for local GPs to build services around the needs of their patients, the head of a major charity coalition has said.",
@@ -2673,6 +2683,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/the-financial-outlook-for-councils-this-parliament-a-review-of-local-government-spending-need-fundin.html",
+          "author": null,
+          "description": "County Councils Network - This report warns that unless the government acts in the Budget and Spending Review, local authorities in England face a funding shortfall of £54bn over the next five years – leaving the prospect of them providing ‘little more’ than care services by the end of the decade in order to avert financial insolvency. It reveals this...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/the-financial-outlook-for-councils-this-parliament-a-review-of-local-government-spending-need-fundin.html",
+          "publishedOn": "2024-10-03T13:38:51.000Z",
+          "wordCount": null,
+          "title": "The financial outlook for councils this Parliament: a review of local government spending need & funding",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/womens-health-economics-investing-in-the-51-per-cent.html",
           "author": null,
           "description": "NHS Confederation - According to this report by the NHS Confederation, Create Health Foundation and London Economics, an additional £1 invested in obstetrics and gynaecology services per woman in England could generate an estimated £319 million return to the economy. This equates to a return on investment of £11 per woman in England for every additional £1 invested in obstetrics...",
@@ -3179,6 +3199,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:c12dc432-4641-44ea-9a06-8a75d9b22c10",
+          "author": null,
+          "description": "Today, the World Health Organization (WHO) launched the Global Strategic Preparedness, Readiness and Response Plan (SPRP) to tackle dengue and other Aedes-borne arboviruses.",
+          "link": "https://www.who.int/news/item/03-10-2024-who-launches-global-strategic-plan-to-fight-rising-dengue-and-other-aedes-borne-arboviral-diseases",
+          "publishedOn": "2024-10-02T14:25:20.000Z",
+          "wordCount": 2318,
+          "title": "WHO launches global strategic plan to fight rising dengue and other Aedes-borne arboviral diseases",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/dengue/community-workers-help-to-destroy-mosquito-breeding-sites-brazil.tmb-1200v.jpg?sfvrsn=f181fe91_4"
+        },
         {
           "id": "urn:uuid:68fba918-1f63-4cd3-b27b-059daa7c94f0",
           "author": null,
