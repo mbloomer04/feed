@@ -1350,6 +1350,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1890592",
+          "author": null,
+          "description": "The winners of the RCGP Research Paper of the Year have been announced at the college’s annual conference.",
+          "link": "https://www.gponline.com/rcgp-research-paper-year-winners-announced/article/1890592",
+          "publishedOn": "2024-10-03T14:00:00.000Z",
+          "wordCount": 857,
+          "title": "RCGP Research Paper of the Year winners announced",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP_letters.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1890935",
+          "author": null,
+          "description": "Talking General Practice highlights key events from day one of the conference and speaks to college safeguarding lead Dr Joy Shacklock about the RCGP's new safeguarding standards and Dr Catherine Millington-Sanders, the RCGP clinical lead for palliative and end-of-life care.",
+          "link": "https://www.gponline.com/podcast-rcgp-annual-conference-%E2%80%93-health-inequalities-new-safeguarding-standards-end-of-life-care/article/1890935",
+          "publishedOn": "2024-10-03T13:26:56.000Z",
+          "wordCount": 1404,
+          "title": "Podcast: RCGP annual conference – Health inequalities, new safeguarding standards, end-of-life care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/CoppaFeel-858x575_v5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1890925",
           "author": null,
           "description": "Lessons from the COVID-19 pandemic response can help general practice tackle rising long-term conditions and health inequalities, a leading public health professor has told the RCGP conference.",
@@ -2225,6 +2245,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2024-to-2025",
+          "author": null,
+          "description": "Non-executive appointments to the Department of Health and Social Care's public bodies and committees from October 2024 to March 2025.",
+          "link": "https://www.gov.uk/government/publications/dhsc-public-appointments-2024-to-2025",
+          "publishedOn": "2024-10-03T15:32:30.000Z",
+          "wordCount": 1201,
+          "title": "Guidance: DHSC public appointments: 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/adult-social-work-apprenticeship-fund",
           "author": null,
