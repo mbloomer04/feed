@@ -93,6 +93,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=153975",
+          "author": "Sofia Lind",
+          "description": "NHS England has asked NICE to consider approving a slow phased rollout of tirzepatide (Mounjaro) for weight loss in primary care to avoid overwhelming GPs. It follows draft recommendations from NICE this summer for the weekly injection to be provided in primary care alongside diet and exercise advice for people with a BMI of at\nThe post NHSE plans phased rollout of tirzepatide for weight loss to avoid ‘profound’ impact on GPs appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/nhse-plans-phased-rollout-of-tirzepatide-for-weight-loss-to-avoid-profound-impact-on-gps/",
+          "publishedOn": "2024-10-04T10:27:54.000Z",
+          "wordCount": 3124,
+          "title": "NHSE plans phased rollout of tirzepatide for weight loss to avoid ‘profound’ impact on GPs",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/healthy-food-obesity-overweight-diet.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=153967",
           "author": "Anna Colivicchi",
           "description": "The health secretary has asked GPs to ‘stand down’ collective action, while also announcing that he is launching a ‘red tape challenge’ to reduce workload dump on practices. During a speech at the RCGP conference this morning, Wes Streeting condemned collective action organised by the BMA, as he said that it is ‘in no doubt\nThe post Streeting pledges end to workload dump and asks GPs to ‘stand down’ collective action appeared first on Pulse Today.",
@@ -1340,6 +1350,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1891053",
+          "author": null,
+          "description": "Health and social care secretary Wes Streeting has said the government will introduce legislation to create a single register of GPs and specialist doctors.",
+          "link": "https://www.gponline.com/streeting-pledges-legislation-merge-gp-specialist-registers/article/1891053",
+          "publishedOn": "2024-10-04T09:52:31.000Z",
+          "wordCount": 879,
+          "title": "Streeting pledges legislation to merge GP and specialist registers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/WesStreetingRCGP2024-46.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1891054",
+          "author": null,
+          "description": "Funding for more than 1,000 GP jobs created through an £82m expansion of the additional roles reimbursement scheme (ARRS) from this month will be guaranteed beyond the end of the current financial year, the health and social care secretary has confirmed.",
+          "link": "https://www.gponline.com/funding-gp-arrs-jobs-will-continue-beyond-march-says-streeting/article/1891054",
+          "publishedOn": "2024-10-04T09:40:59.000Z",
+          "wordCount": 924,
+          "title": "Funding for GP ARRS jobs will continue beyond March, says Streeting",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/WesStreetingRCGP2024-13.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1891031",
           "author": null,
           "description": "Health and social care secretary Wes Streeting will promise today to 'bulldoze bureaucracy' to free up GP time - but will also call on the profession to step back from measures over 80% of practices are taking to reduce workload as part of collective action.",
@@ -2237,16 +2267,6 @@
           "wordCount": 1632,
           "title": "National Shortlist of Exceptional NHS Staff Announced",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=252170",
-          "author": "nowen",
-          "description": "NHS patients in England with a rare genetic disease that causes tumours in major organs, including the brain and spine, can now benefit from the first-ever therapy which could shrink their tumours to help them avoid high-risk surgery. In clinical trials of belzutifan, 95% of patients did not experience any growth in their tumours in […]",
-          "link": "https://www.england.nhs.uk/2024/09/first-ever-drug-approved-for-nhs-patients-with-life-threatening-genetic-tumour-causing-disease/",
-          "publishedOn": "2024-09-04T23:01:45.000Z",
-          "wordCount": 1711,
-          "title": "First ever drug approved for NHS patients with life-threatening genetic, tumour-causing disease",
-          "imageUrl": null
         }
       ]
     },
@@ -2255,6 +2275,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/the-2024-vpag-operational-review-22-july-2024",
+          "author": null,
+          "description": "Minutes of a meeting held between the government, NHS England and ABPI about the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG).",
+          "link": "https://www.gov.uk/government/publications/the-2024-vpag-operational-review-22-july-2024",
+          "publishedOn": "2024-10-04T10:31:59.000Z",
+          "wordCount": 943,
+          "title": "Transparency data: The 2024 VPAG operational review: 22 July 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2024-to-2025",
           "author": null,
