@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-10T08:14:32.609Z</updated>
+    <updated>2024-10-10T09:12:09.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: DHSC equality information: 2023]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-equality-information-2023</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-equality-information-2023"/>
+        <updated>2024-10-10T08:30:01.000Z</updated>
+        <summary type="html"><![CDATA[A report setting out how the Department of Health and Social Care (DHSC) has responded to its equality duties.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paediatric virtual ward launches across Norfolk and Waveney ICB]]></title>
         <id>https://www.digitalhealth.net/?p=208033</id>
