@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1891891",
+          "author": null,
+          "description": "Rising numbers of patients finding it easy to contact their GP practice represent 'green shoots of hope' for the profession after a period of intense criticism, NHS England's national director for primary care and community services has said.",
+          "link": "https://www.gponline.com/green-shoots-hope-amid-rise-patients-say-contacting-gp-practice-easy/article/1891891",
+          "publishedOn": "2024-10-11T08:46:01.000Z",
+          "wordCount": 936,
+          "title": "'Green shoots of hope' amid rise in patients who say contacting GP practice is easy",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/phone_GettyImages-Westend61_RF_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1891835",
           "author": null,
           "description": "Talking General Practice speaks to GP Dr Rik Fijten and consultant hepatologist Dr Kosh Agarwal about the NHS in England’s drive to eliminate hepatitis C and how GPs can help with this programme.",
@@ -2854,16 +2864,6 @@
           "wordCount": 910,
           "title": "Research: Management information on medicines supply issue notifications",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england",
-          "author": null,
-          "description": "Lord Darzi's report on the state of the National Health Service in England.",
-          "link": "https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england",
-          "publishedOn": "2024-09-11T23:01:02.000Z",
-          "wordCount": 1128,
-          "title": "Independent report: Independent investigation of the NHS in England",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -2872,6 +2872,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/physical-health-checks-for-people-with-a-severe-mental-illness.html",
+          "author": null,
+          "description": "Race Equality Foundation - Between 2021 and 2024, the Race Equality Foundation conducted a series of projects to understand in greater detail whether Black African and Caribbean people with severe mental illness (SMI) were aware of and accessing physical health checks (PHCs), an NHS intervention to detect and treat early signs of physical ill health. This work identified several barriers...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/physical-health-checks-for-people-with-a-severe-mental-illness.html",
+          "publishedOn": "2024-10-11T10:59:57.000Z",
+          "wordCount": null,
+          "title": "Physical health checks for people with a severe mental illness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/tackling-inequalities-faced-by-minority-groups-in-mental-health-through-the-personalised-care-progra.html",
+          "author": null,
+          "description": "Race Equality Foundation - People from Black, Asian, and ethnic minority communities facing mental illness or distress encounter barriers in accessing personalised mental health care, including Personal Health Budgets, essential for their safety and recovery. This report by the Association of Mental Health Providers, NHS England, and the Race Equality Foundation aims to provide solutions to these disparities and offers...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/tackling-inequalities-faced-by-minority-groups-in-mental-health-through-the-personalised-care-progra.html",
+          "publishedOn": "2024-10-11T10:35:50.000Z",
+          "wordCount": null,
+          "title": "Tackling inequalities faced by minority groups in mental health through the Personalised Care Programme",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/the-state-of-the-adult-social-care-sector-and-workforce-in-england-2024.html",
           "author": null,
