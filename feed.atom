@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-11T11:09:34.943Z</updated>
+    <updated>2024-10-11T12:20:31.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avoid and report internet scams and phishing]]></title>
+        <id>https://www.gov.uk/report-suspicious-emails-websites-phishing</id>
+        <link href="https://www.gov.uk/report-suspicious-emails-websites-phishing"/>
+        <updated>2024-10-11T11:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Find out how internet scams work and what to be aware of - misleading websites, report website fraud, suspicious communication and phishing]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Physical health checks for people with a severe mental illness]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/10/physical-health-checks-for-people-with-a-severe-mental-illness.html</id>
