@@ -2884,26 +2884,6 @@
           "wordCount": 1114,
           "title": "Open consultation: Introducing further advertising restrictions on TV and online for less healthy food and drink: internet protocol television (IPTV)",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/management-information-on-recruitment-to-clinical-research-studies",
-          "author": null,
-          "description": "Data on the recruitment of participants to clinical research studies, reported to the Department of Health and Social Care (DHSC).",
-          "link": "https://www.gov.uk/government/publications/management-information-on-recruitment-to-clinical-research-studies",
-          "publishedOn": "2024-09-12T08:30:07.000Z",
-          "wordCount": 882,
-          "title": "Research: Management information on recruitment to clinical research studies",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/management-information-on-medicines-supply-issue-notifications",
-          "author": null,
-          "description": "Data on the total number of monthly medicine supply issue notifications in the UK, reported to the Department of Health and Social Care (DHSC).",
-          "link": "https://www.gov.uk/government/publications/management-information-on-medicines-supply-issue-notifications",
-          "publishedOn": "2024-09-12T08:30:05.000Z",
-          "wordCount": 910,
-          "title": "Research: Management information on medicines supply issue notifications",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3460,6 +3440,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:ac1cca92-4091-4db5-9898-b6edb454a076",
+          "author": null,
+          "description": "The second round of an emergency polio vaccination campaign is scheduled to start on 14 October 2024 in Gaza, to vaccinate an estimated 591 700 children under ten years of age with a second dose of the novel oral polio vaccine type 2 (nOPV2) vaccine.\nThis follows a first round, which was successfully implemented from 1-12 September 2024 and vaccinated 559 161 children, or an estimated 95% of eligible children at governorate level, according to independently conducted post-campaign monitoring. As with the first round, the second round will have three phases, each involving three campaign days and one catch-up day.\nA minimum of two doses of nOPV2 are needed to interrupt poliovirus transmission. However, this will only be achieved if at least 90% of all children are vaccinated in all communit…",
+          "link": "https://www.who.int/news/item/11-10-2024-second-round-of-polio-vaccination-in-the-gaza-strip-aims-to-vaccinate-over-half-a-million-children",
+          "publishedOn": "2024-10-11T19:50:41.000Z",
+          "wordCount": 2518,
+          "title": "Second round of polio vaccination in the Gaza Strip aims to vaccinate over half a million children",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/child-in-a-refugee-camp-al-mawasi-south-of-gaza.tmb-1200v.jpg?sfvrsn=b470ffac_6"
+        },
+        {
           "id": "urn:uuid:dc2f4f46-5bff-46f1-a3d4-3c8aecfb51c2",
           "author": null,
           "description": "A new report by the World Health Organization (WHO) finds that vaccines against 24 pathogens could reduce the number of antibiotics needed by 22% or 2.5 billion defined daily doses globally every year, supporting worldwide efforts to address antimicrobial resistance (AMR). While some of these vaccines are already available but underused, others would need to be developed and brought to the market as soon as possible.\nAMR occurs when bacteria, viruses, fungi, and parasites no longer respond to antimicrobial medicines, making people sicker and increasing the risk of illness, death and the spread of infections that are difficult to treat. AMR is driven largely by the misuse and overuse of antimicrobials, yet, at the same time, many people around the world do not have access to essential antim…",
@@ -3698,16 +3688,6 @@
           "wordCount": 2763,
           "title": "WHO prequalifies the first vaccine against mpox",
           "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2024---mpox-outbreak/drc-mpox-vaccine-arrival.tmb-1200v.jpg?sfvrsn=6233df12_1"
-        },
-        {
-          "id": "urn:uuid:30e490f9-43b7-4214-a8ad-93c12ec6aeca",
-          "author": null,
-          "description": "At least one quarter or 22 500 of those injured in Gaza by 23 July are estimated to have life-changing injuries that require rehabilitation services  now and for years to come, according to a  World Health Organization (WHO) analysis of the types of injuries resulting from the ongoing conflict in Gaza:   Estimating Trauma Rehabilitation Needs in Gaza using Injury Data from Emergency Medical Teams.  \n\nThe analysis found that severe limb injuries, estimated to be between 13 455 to 17 550, are the main driver of the need for rehabilitation. Many of those injured have more than one injury. According to the report, between 3105 and 4050 limb amputations have also occurred. Large surges in spinal cord injury, traumatic brain injury and major burn injuries all contribute to the overall number of …",
-          "link": "https://www.who.int/news/item/12-09-2024-who-analysis-highlights-vast-unmet-rehabilitation-needs-in-gaza",
-          "publishedOn": "2024-09-12T08:38:48.000Z",
-          "wordCount": 2030,
-          "title": "WHO analysis highlights vast unmet rehabilitation needs in Gaza",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/al-awda-hospital-in-north-gaza-15-jan-2024.tmb-1200v.jpg?sfvrsn=fde9b84d_2"
         }
       ]
     },
