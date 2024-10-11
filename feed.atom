@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-11T12:20:31.421Z</updated>
+    <updated>2024-10-11T13:17:26.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Somerset ICB integrates shared care record with Dorset GP data]]></title>
+        <id>https://www.digitalhealth.net/?p=208227</id>
+        <link href="https://www.digitalhealth.net/2024/10/somerset-icb-connects-shared-care-record-to-dorset-gps/"/>
+        <updated>2024-10-11T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Clinicians at Yeovil Hospital can now access Dorset patients' GP data through Somerset's shared care record.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avoid and report internet scams and phishing]]></title>
         <id>https://www.gov.uk/report-suspicious-emails-websites-phishing</id>
