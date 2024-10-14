@@ -2326,6 +2326,16 @@
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         },
         {
+          "id": "https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-food-safety-c238519",
+          "author": null,
+          "description": "The government's summary of a European Commission delegated regulation about \r\nspecific hygiene requirements for certain food products.",
+          "link": "https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-food-safety-c238519",
+          "publishedOn": "2024-10-10T23:00:00.000Z",
+          "wordCount": 983,
+          "title": "Policy paper: EM on EU legislation concerning food safety (C(23)8519)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-equality-information-2023",
           "author": null,
           "description": "A report setting out how the Department of Health and Social Care (DHSC) has responded to its equality duties.",
@@ -3506,6 +3516,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=208381",
+          "author": "Tammy Lovell",
+          "description": "Software is being rolled out to 150 GP practices across Greater Manchester with the aim of supporting better adult asthma and COPD care.",
+          "link": "https://www.digitalhealth.net/2024/10/lunghealth-software-to-launch-at-150-gp-practices-in-manchester/",
+          "publishedOn": "2024-10-14T12:30:42.000Z",
+          "wordCount": 6700,
+          "title": "LungHealth software to launch at 150 GP practices in Manchester",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/shutterstock_2352934729-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=208287",
           "author": "Jordan Sollof",
