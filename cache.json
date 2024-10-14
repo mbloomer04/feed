@@ -2296,6 +2296,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/landmark-collaboration-with-largest-pharmaceutical-company",
+          "author": null,
+          "description": "Collaboration announced at International Investment Summit, meeting the PM's ambitions to catalyse investment in the UK, proving the UK is open for business.",
+          "link": "https://www.gov.uk/government/news/landmark-collaboration-with-largest-pharmaceutical-company",
+          "publishedOn": "2024-10-14T11:21:04.000Z",
+          "wordCount": 2831,
+          "title": "Press release: Landmark collaboration with largest pharmaceutical company",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/child-death-reviews-forms-for-reporting-child-deaths",
           "author": null,
           "description": "Forms to help child death overview panels (CDOPs) assess the causes of a child’s death as part of the child death review process.",
@@ -2732,6 +2742,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/adult-social-care-in-england-what-next-.html",
+          "author": null,
+          "description": "Institute for Fiscal Studies - This report sets out the major challenges facing the adult social care system in England and explores potential future developments for the sector. Report More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/adult-social-care-in-england-what-next-.html",
+          "publishedOn": "2024-10-14T11:45:40.000Z",
+          "wordCount": null,
+          "title": "Adult social care in England: what next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/physician-associates-in-general-practice-scope-of-practice.html",
+          "author": null,
+          "description": "Royal College of General Practitioners - This guidance is for GP practices that employ physician associates (PAs). Its purpose is to describe the scope of practice for all PAs working in UK general practice and should be read in conjunction with the College’s policy position on PAs, as well as related RCGP guidance (on Supervision and Induction & Preceptorship). Guidance",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/physician-associates-in-general-practice-scope-of-practice.html",
+          "publishedOn": "2024-10-14T11:11:10.000Z",
+          "wordCount": null,
+          "title": "Physician associates in general practice: scope of practice",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/protecting-the-mental-health-of-people-seeking-sanctuary-in-the-uks-evolving-legislative-landscape.html",
           "author": null,
