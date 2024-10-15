@@ -1381,16 +1381,6 @@
           "wordCount": 2256,
           "title": "Wegovy makers say new amycretin weight-loss pill even more effective",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/12/aspirin-pills.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=153303",
-          "author": "Eliza Parr",
-          "description": "A former GP who spread ‘dangerous’ and ‘baseless’ conspiracy theories about the Covid-19 pandemic has been struck off.  At the end of last month, the Medical Practitioners Tribunal Service (MPTS) found that statements made by Dr Sam White in videos online amounted to serious misconduct and that erasure was necessary to protect public safety.  Dr\nThe post GP struck off for ‘dangerous’ claims about Covid pandemic appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/vaccinations-prevention-screening/gp-struck-off-for-dangerous-claims-about-covid-pandemic/",
-          "publishedOn": "2024-09-16T11:10:45.000Z",
-          "wordCount": 2417,
-          "title": "GP struck off for ‘dangerous’ claims about Covid pandemic",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/GPs-come-out-in-force-for-autumn-Covid-boosters-despite-funding-decrease.jpg"
         }
       ]
     },
@@ -2395,6 +2385,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/design-for-life-roadmap",
+          "author": null,
+          "description": "The government’s plan to build a circular economy for medical technology to increase resilience, drive growth, realise cost savings and improve sustainability.",
+          "link": "https://www.gov.uk/government/publications/design-for-life-roadmap",
+          "publishedOn": "2024-10-15T23:01:00.000Z",
+          "wordCount": 1115,
+          "title": "Policy paper: Design for Life roadmap",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/viral-haemorrhagic-fever-algorithm-and-guidance-on-management-of-patients",
           "author": null,
@@ -4505,16 +4505,6 @@
           "wordCount": 4089,
           "title": "GPs to get easier access to Yorkshire and Humber Care Record",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/shutterstock_1873472677-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=205231",
-          "author": "Jordan Sollof",
-          "description": "The Universal Care Plan (UCP), OneLondon’s shared care planning solution, has extended to support sickle cell disease patients.",
-          "link": "https://www.digitalhealth.net/2024/09/onelondons-ucp-expands-to-sickle-cell-disease-patients/",
-          "publishedOn": "2024-09-16T11:06:42.000Z",
-          "wordCount": 4144,
-          "title": "OneLondon’s UCP expands to sickle cell disease patients",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Sickle-cell.jpg"
         }
       ]
     }
