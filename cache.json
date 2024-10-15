@@ -2356,6 +2356,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/uk-5-year-antimicrobial-resistance-strategy-2013-to-2018",
+          "author": null,
+          "description": "Sets out actions to slow the development and spread of antimicrobial resistance with a focus on antibiotics.",
+          "link": "https://www.gov.uk/government/publications/uk-5-year-antimicrobial-resistance-strategy-2013-to-2018",
+          "publishedOn": "2024-10-15T10:55:53.000Z",
+          "wordCount": 1270,
+          "title": "Guidance: UK 5 Year Antimicrobial Resistance Strategy 2013 to 2018",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/david-fuller-inquiry-phase-2-interim-report",
+          "author": null,
+          "description": "The independent inquiry’s preliminary findings and recommendations on the funeral sector in England.",
+          "link": "https://www.gov.uk/government/publications/david-fuller-inquiry-phase-2-interim-report",
+          "publishedOn": "2024-10-15T10:52:38.000Z",
+          "wordCount": 1087,
+          "title": "Independent report: David Fuller inquiry: phase 2 interim report",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/review-into-the-operational-effectiveness-of-the-care-quality-commission",
           "author": null,
           "description": "Emerging findings and initial recommendations of the review into the operational effectiveness of the Care Quality Commission (CQC).",
@@ -2842,6 +2862,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/review-of-patient-safety-across-the-health-and-care-landscape-terms-of-reference.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - This document sets out the terms of an independent review of patient safety across the health and care landscape. It will: map the broad range of organisations that impact on quality (and therefore have links to safety); and focus on six key organisations overseen by the DHSC, which have a significant impact...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/review-of-patient-safety-across-the-health-and-care-landscape-terms-of-reference.html",
+          "publishedOn": "2024-10-15T11:07:24.000Z",
+          "wordCount": null,
+          "title": "Review of patient safety across the health and care landscape: terms of reference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/review-into-the-operational-effectiveness-of-the-care-quality-commission-full-report.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - In May 2024, Dr Penny Dash was asked by the DHSC to conduct a review into the operational effectiveness of the Care Quality Commission (CQC). An interim report of her work, providing a high-level summary of her emerging findings, was published in July 2024. The review has found significant failings in the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/review-into-the-operational-effectiveness-of-the-care-quality-commission-full-report.html",
+          "publishedOn": "2024-10-15T10:53:02.000Z",
+          "wordCount": null,
+          "title": "Review into the operational effectiveness of the Care Quality Commission: full report",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/the-state-of-social-care-in-england-and-the-case-for-a-comprehensive-social-care-strategy.html",
           "author": null,
