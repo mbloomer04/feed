@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1892245",
+          "author": null,
+          "description": "A damning final report on the operational effectiveness of the CQC confirms serious failings including inconsistent and unclear ratings, inspectors lacking expertise, long delays in re-inspecting organisations after a 'requires improvement' or 'inadequate' rating and a failure to listen people raising concerns.",
+          "link": "https://www.gponline.com/lack-clarity-consistency-expertise-cqc-failings-exposed/article/1892245",
+          "publishedOn": "2024-10-15T10:18:39.000Z",
+          "wordCount": 722,
+          "title": "Lack of clarity, consistency and expertise: CQC failings exposed",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-SolStock_RF_8.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1892171",
           "author": null,
           "description": "The CQC plans to step up inspections and simplify its assessment process after a report confirmed serious failings at the watchdog - as the government launched a further review that could call its future into doubt.",
@@ -3706,6 +3716,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=208535",
+          "author": "Tammy Lovell",
+          "description": "NHS Providers found that 73% of trust leaders named funding and financial constraints as the biggest barrier to digital transformation.",
+          "link": "https://www.digitalhealth.net/2024/10/finances-are-main-barrier-digital-transformation-say-nhs-leaders/",
+          "publishedOn": "2024-10-15T12:30:44.000Z",
+          "wordCount": 4282,
+          "title": "Finances are main barrier to digital transformation say NHS leaders",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/shutterstock_2395972473-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=208145",
           "author": "Owen Hughes",
