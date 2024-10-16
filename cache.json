@@ -2326,6 +2326,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-vision-missions",
+          "author": null,
+          "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-vision-missions",
+          "publishedOn": "2024-10-16T07:54:50.000Z",
+          "wordCount": 1026,
+          "title": "Notice: Life Sciences Vision Missions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/major-crackdown-on-nhs-waste",
           "author": null,
           "description": "A new strategy is being published to radically cut the number of single-use medical devices in the health service.",
@@ -2844,16 +2854,6 @@
           "wordCount": 895,
           "title": "Correspondence: Adult social care winter letter 2024 to 2025",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/junior-doctors-accept-government-pay-deal",
-          "author": null,
-          "description": "Devastating strikes come to an end as junior doctors accept pay offer by 66%",
-          "link": "https://www.gov.uk/government/news/junior-doctors-accept-government-pay-deal",
-          "publishedOn": "2024-09-16T19:14:48.000Z",
-          "wordCount": 1945,
-          "title": "Press release: Junior doctors accept government pay deal",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3696,6 +3696,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=208647",
+          "author": "Tammy Lovell",
+          "description": "United Lincolnshire Teaching Hospitals NHS Trust (ULTH) has selected Nervecentre as its preferred electronic patient record (EPR) supplier.",
+          "link": "https://www.digitalhealth.net/2024/10/ulth-selects-nervecentre-as-preferred-epr-supplier/",
+          "publishedOn": "2024-10-16T07:30:03.000Z",
+          "wordCount": 4280,
+          "title": "ULTH selects Nervecentre as preferred EPR supplier",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/shutterstock_1999903178-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=208535",
           "author": "Tammy Lovell",
