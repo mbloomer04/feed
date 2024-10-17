@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1892595",
+          "author": null,
+          "description": "One in three GPs say their practice premises are inadequate for providing patient care and a similar proportion say their work PC or laptop is not fit for purpose, according to damning findings from an RCGP poll.",
+          "link": "https://www.gponline.com/one-three-gps-say-premises-computers-not-fit-purpose/article/1892595",
+          "publishedOn": "2024-10-17T08:59:57.000Z",
+          "wordCount": 727,
+          "title": "One in three GPs say their premises and computers are not fit for purpose",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_11.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1892382",
           "author": null,
           "description": "GP practices in Northern Ireland are in a stand-off with health authorities after refusing to accept a short-notice demand to take on thousands of patients dispersed from a nearby practice that is closing down.",
@@ -2085,7 +2095,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/diabetic-eye-screening-roles-of-clinical-leads",
+          "author": null,
+          "description": "This document explains the roles and responsibilities of NHS diabetic eye screening (DES) programme clinical leads.",
+          "link": "https://www.gov.uk/government/publications/diabetic-eye-screening-roles-of-clinical-leads",
+          "publishedOn": "2024-10-17T09:31:45.000Z",
+          "wordCount": 960,
+          "title": "Guidance: Diabetic eye screening: roles of clinical leads",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -3626,6 +3647,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=208781",
+          "author": "Tammy Lovell",
+          "description": "A campaign for digital adult mental health and wellbeing has been launched in Northern Ireland to offer self-help resources and tools.",
+          "link": "https://www.digitalhealth.net/2024/10/campaign-for-digital-mental-health-launches-in-northern-ireland/",
+          "publishedOn": "2024-10-17T10:00:56.000Z",
+          "wordCount": 4162,
+          "title": "Campaign for digital mental health launches in Northern Ireland",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/shutterstock_1962853882-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=208737",
           "author": "Jordan Sollof",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-17T09:12:10.594Z</updated>
+    <updated>2024-10-17T10:11:41.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Campaign for digital mental health launches in Northern Ireland]]></title>
+        <id>https://www.digitalhealth.net/?p=208781</id>
+        <link href="https://www.digitalhealth.net/2024/10/campaign-for-digital-mental-health-launches-in-northern-ireland/"/>
+        <updated>2024-10-17T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A campaign for digital adult mental health and wellbeing has been launched in Northern Ireland to offer self-help resources and tools.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Diabetic eye screening: roles of clinical leads]]></title>
+        <id>https://www.gov.uk/government/publications/diabetic-eye-screening-roles-of-clinical-leads</id>
+        <link href="https://www.gov.uk/government/publications/diabetic-eye-screening-roles-of-clinical-leads"/>
+        <updated>2024-10-17T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[This document explains the roles and responsibilities of NHS diabetic eye screening (DES) programme clinical leads.]]></summary>
+        <author>
+            <name>Public Health England - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One in three GPs say their premises and computers are not fit for purpose]]></title>
+        <id>https://www.gponline.com/article/1892595</id>
+        <link href="https://www.gponline.com/one-three-gps-say-premises-computers-not-fit-purpose/article/1892595"/>
+        <updated>2024-10-17T08:59:57.000Z</updated>
+        <summary type="html"><![CDATA[One in three GPs say their practice premises are inadequate for providing patient care and a similar proportion say their work PC or laptop is not fit for purpose, according to damning findings from an RCGP poll.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Royal Papworth introduces AI software for stroke diagnosis]]></title>
         <id>https://www.digitalhealth.net/?p=208737</id>
