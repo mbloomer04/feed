@@ -2387,6 +2387,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/virtual-reality-and-wearable-technology-pilot-to-cut-drug-deaths",
+          "author": null,
+          "description": "The government will fund research into wearable technology, virtual reality and artificial intelligence in a bid to support people with drug addictions.",
+          "link": "https://www.gov.uk/government/news/virtual-reality-and-wearable-technology-pilot-to-cut-drug-deaths",
+          "publishedOn": "2024-10-17T23:15:01.000Z",
+          "wordCount": 4946,
+          "title": "Press release: Virtual reality and wearable technology pilot to cut drug deaths",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/assisted-dying-bill-debate-advice-to-doctors",
           "author": null,
           "description": "The UK chief medical officers and NHS England National Medical Director have given advice to help doctors wanting to take part in the assisted dying debate.",
@@ -4466,16 +4476,6 @@
           "wordCount": 4376,
           "title": "Careology app boosted to help young people with cancer",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Ella-Dawson-Foundation-Careology-Royal-Marsden.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=205741",
-          "author": "Jordan Sollof",
-          "description": "Digital forms have been rolled out across Staffordshire and Stoke-on-Trent to enable personalised clinical care during emergencies.",
-          "link": "https://www.digitalhealth.net/2024/09/digital-forms-for-emergency-care-launched-in-the-midlands/",
-          "publishedOn": "2024-09-18T12:30:12.000Z",
-          "wordCount": 4310,
-          "title": "Digital forms for emergency care launched in the Midlands",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/Doctor-and-patient.jpg"
         }
       ]
     }
