@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-20T20:11:14.710Z</updated>
+    <updated>2024-10-20T21:10:00.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Egypt is certified malaria-free by WHO]]></title>
+        <id>urn:uuid:d2c2395e-b6dc-468c-9190-822cf3271685</id>
+        <link href="https://www.who.int/news/item/20-10-2024-egypt-is-certified-malaria-free-by-who"/>
+        <updated>2024-10-19T15:48:52.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has certified Egypt as malaria-free, marking a significant public health milestone for a country with more than 100 million inhabitants. The achievement follows a nearly 100-year effort by the Egyptian government and people to end a disease that has been present in the country since ancient times.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The future is out there: joining up health and care for the benefit of all]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/10/the-future-is-out-there-joining-up-health-and-care-for-the-benefit-of-all.html</id>
