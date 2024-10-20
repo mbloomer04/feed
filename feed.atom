@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-20T22:09:48.017Z</updated>
+    <updated>2024-10-20T23:11:20.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Government issues rallying cry to the nation to help fix NHS]]></title>
+        <id>https://www.gov.uk/government/news/government-issues-rallying-cry-to-the-nation-to-help-fix-nhs</id>
+        <link href="https://www.gov.uk/government/news/government-issues-rallying-cry-to-the-nation-to-help-fix-nhs"/>
+        <updated>2024-10-20T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Members of the public as well as NHS staff and experts will be invited to share their experiences views and ideas for fixing the NHS]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Egypt is certified malaria-free by WHO]]></title>
         <id>urn:uuid:d2c2395e-b6dc-468c-9190-822cf3271685</id>
