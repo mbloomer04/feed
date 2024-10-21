@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-21T12:21:36.187Z</updated>
+    <updated>2024-10-21T13:20:56.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Electronic prescription service now live in every Welsh health board]]></title>
+        <id>https://www.digitalhealth.net/?p=208991</id>
+        <link href="https://www.digitalhealth.net/2024/10/electronic-prescription-service-now-live-in-every-welsh-health-board/"/>
+        <updated>2024-10-21T12:30:35.000Z</updated>
+        <summary type="html"><![CDATA[The electronic prescription service (EPS) is now available at some GP practices and community pharmacies in every health board in Wales.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streeting pushes single patient record plans with new data sharing laws]]></title>
         <id>https://www.pulsetoday.co.uk/?p=154577</id>
