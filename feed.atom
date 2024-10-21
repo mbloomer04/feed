@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-21T07:12:07.758Z</updated>
+    <updated>2024-10-21T08:15:30.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One in three GPs say their work computers are ‘not fit for purpose’]]></title>
+        <id>https://www.digitalhealth.net/?p=208879</id>
+        <link href="https://www.digitalhealth.net/2024/10/one-in-three-gps-say-their-work-computers-are-not-fit-for-purpose/"/>
+        <updated>2024-10-21T07:30:20.000Z</updated>
+        <summary type="html"><![CDATA[One in three GPs say their work computer is not fit for purpose, while more than 50% report data-sharing challenges, an RCGP survey found.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Government issues rallying cry to the nation to help fix NHS]]></title>
         <id>https://www.gov.uk/government/news/government-issues-rallying-cry-to-the-nation-to-help-fix-nhs</id>
