@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-21T21:10:22.539Z</updated>
+    <updated>2024-10-21T22:10:32.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -130,6 +130,18 @@ The post Dr Amanda Doyle: ‘GPs have an opportunity to shape a better, sustaina
         <summary type="html"><![CDATA[The government has launched an online platform for members of the public to share ideas to shape the government’s 10 Year Health Plan.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO global network expands digital health certification for Hajj pilgrims]]></title>
+        <id>urn:uuid:81408b38-f3c1-4be0-8d88-c56655d89a09</id>
+        <link href="https://www.who.int/news/item/21-10-2024-who-global-network-expands-digital-health-certification-for-hajj-pilgrims"/>
+        <updated>2024-10-21T09:47:55.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) and the Kingdom of Saudi Arabia announced a new milestone digital health collaboration today to expand the Hajj health card initiative to support the roughly 3 million pilgrims who undertake the holy pilgrimage every year.
+The Hajj health card, built on the WHO Global Digital Health Certification Network’s public key infrastructure, summarizes critical health information, such as medication needs, allergies, immunization status and pre-existing conditions. The card gives individuals agency over their own health information when they travel to Saudi Arabia so that they can provide authorized health providers access to accurate, up-to-date patient summary information and obtain personalized quality care. 
+“Today marks a notable progress in WHO’s support to…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
