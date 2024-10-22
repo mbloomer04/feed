@@ -93,6 +93,36 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=154602",
+          "author": "Anna Colivicchi",
+          "description": "Exclusive North West London (NWL) ICB has drawn up first-of-its-kind plans to introduce ‘integrated neighbourhood teams’ inspired by the Fuller Stocktake. All NWL providers, including GP practices, are now ‘asked to put their plans in place’ to ‘enact the vision’ for integrated neighbourhood teams, according to a document presented to the board last week. NWL\nThe post ICB reveals detailed plan for integrated neighbourhood teams for 50-100k patients appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/nhs-structures/icb-reveals-detailed-plan-for-integrated-neighbourhood-teams-for-50-100k-patients/",
+          "publishedOn": "2024-10-22T10:56:23.000Z",
+          "wordCount": 2396,
+          "title": "ICB reveals detailed plan for integrated neighbourhood teams for 50-100k patients",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/GP-urgent-care-could-be-organised-around-single-teams-in-every-neighbourhood.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=154187",
+          "author": "Caroline Price",
+          "description": "Prescribing experts Professor Tony Avery and Dr Reya Shah discuss five key challenges in the management of potential drug interactions when prescribing in general practice. Learning objectives This module will support your understanding of drug interactions and how to manage them, in particular with regard to: 1. Therapeutics is such a complex area that we\nThe post CPD: Challenges in management of drug interactions appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/renal-medicine-urology-mens-health/cpd-challenges-in-management-of-drug-interactions/",
+          "publishedOn": "2024-10-22T10:44:23.000Z",
+          "wordCount": 2346,
+          "title": "CPD: Challenges in management of drug interactions",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/10/Drug-interactions.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=154600",
+          "author": "Sofia Lind",
+          "description": "IT suppliers are testing pharmacy access to GP records with some pharmacies using Cegedim Rx live in a pilot stage, it has been revealed. Speaking at the Pharmacy Show earlier this month, Tahmina Rokib, clinical lead at the clinical digital informatics, transformation directorate at NHS England (NHSE) said that Cegedim had been running a pilot\nThe post Pharmacies piloting access to GP records appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/pharmacies-piloting-access-to-gp-records/",
+          "publishedOn": "2024-10-22T10:21:57.000Z",
+          "wordCount": 2314,
+          "title": "Pharmacies piloting access to GP records",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/05/NHS-England-funds-new-PCN-pharmacy-engagement-role-e1717408977593.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=154571",
           "author": "Maya Dhillon",
           "description": "Copperfield on the GPC’s vote to completely ‘phase out’ PAs in general practice Wow. As in literally, blimey. I mean, I realise that the UK’s most senior medical leaders have advised it IS ‘entirely reasonable’ for doctors to take part in the public debate around assisted dying. But for the GPC to suggest that PAs\nThe post Why should PAs be the only ones feeling the heat? appeared first on Pulse Today.",
@@ -1310,6 +1340,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1893078",
+          "author": null,
+          "description": "Contracts for GP ARRS jobs should cap daily appointments at the BMA-recommended safe limit and offer salaries at least £10,000 higher than the level proposed by NHS England, BMA guidance warns.",
+          "link": "https://www.gponline.com/cap-daily-appointments-hike-pay-least-10000-gp-arrs-jobs-says-bma/article/1893078",
+          "publishedOn": "2024-10-21T16:14:50.000Z",
+          "wordCount": 914,
+          "title": "Cap daily appointments and hike pay by at least £10,000 for GP ARRS jobs, says BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_13.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1892878",
           "author": null,
           "description": "Thousands of GPs are still struggling to find work - and more practice funding could 'bring back the family doctor overnight', a leading GP has said.",
@@ -2297,16 +2337,6 @@
           "publishedOn": "2024-09-24T09:03:39.000Z",
           "wordCount": 1122,
           "title": "National Patient Safety Alert – risk of oxytocin overdose during labour and childbirth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=252988",
-          "author": "nowen",
-          "description": "Millions of people in England can book flu and COVID-19 vaccinations from today (Monday, 23 September) as the NHS rolls out additional protection for those most at risk ahead of winter. Anyone eligible can book their vaccinations from 9am via the NHS website, by downloading the NHS App, or by calling 119 for free if they […]",
-          "link": "https://www.england.nhs.uk/2024/09/nhs-booking-opens-for-life-saving-flu-and-covid-19-vaccinations/",
-          "publishedOn": "2024-09-22T23:01:47.000Z",
-          "wordCount": 1651,
-          "title": "NHS booking opens for life-saving flu and COVID-19 vaccinations",
           "imageUrl": null
         }
       ]
@@ -3767,6 +3797,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=208855",
+          "author": "Owen Hughes",
+          "description": "This Coffee Time Briefing covers a children's healthtech accelerator in Sheffield and ePMA plans at Hampshire & Isle of Wight NHS FT.",
+          "link": "https://www.digitalhealth.net/2024/10/digital-health-coffee-time-briefing-%e2%98%95-13/",
+          "publishedOn": "2024-10-22T10:30:38.000Z",
+          "wordCount": 4411,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=209295",
           "author": "Jordan Sollof",
