@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-22T12:21:21.222Z</updated>
+    <updated>2024-10-22T13:20:30.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICE recommends use of AI to detect broken bones on X-rays]]></title>
+        <id>https://www.digitalhealth.net/?p=209433</id>
+        <link href="https://www.digitalhealth.net/2024/10/nice-recommends-use-of-ai-to-detect-broken-bones-on-x-rays/"/>
+        <updated>2024-10-22T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[NICE has recommended the use of four AI technologies to help detect broken bones on X-rays, in addition to a trained healthcare professional.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICB reveals detailed plan for integrated neighbourhood teams for 50-100k patients]]></title>
         <id>https://www.pulsetoday.co.uk/?p=154602</id>
