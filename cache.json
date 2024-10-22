@@ -2128,16 +2128,6 @@
           "wordCount": 701,
           "title": "NHS Practitioner Health secures funding for further 12 months",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1321701820_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1889289",
-          "author": null,
-          "description": "A scheme that provides remote monitoring to patients with long-term conditions and frailty has led to a reduction in GP visits, A&E attendances, hospital admissions and outpatient appointments.",
-          "link": "https://www.gponline.com/remote-patient-monitoring-scheme-cuts-gp-visits-a-e-attendances-admissions/article/1889289",
-          "publishedOn": "2024-09-23T08:25:00.000Z",
-          "wordCount": 710,
-          "title": "Remote patient monitoring scheme cuts GP visits, A&E attendances and admissions",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1299306682.jpg"
         }
       ]
     },
@@ -3570,6 +3560,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:90613be7-6cbc-4ad4-9a0c-c68b5b38018a",
+          "author": null,
+          "description": "On 21 October, 14 patients and 10 caregivers were transferred from Kamal Adwan in North Gaza to Al-Shifa Hospital in Gaza City during a high-risk, WHO-led joint mission, amid intense hostilities and access restrictions. Despite an initial agreement, the delivery of critical medical supplies, blood, and fuel – resources essential for keeping Kamal Adwan and Al-Awda hospitals operational – was denied just a few hours before the mission began on 20 October. \n\nThe mission lasted two days, with the team facing delays at successive checkpoints, and during extensive security screenings. The team was forced to stay overnight at Kamal Adwan Hospital, as they were not cleared to proceed to Al-Shifa hospital due to active conflict in the area. Heavy bombardment continued near the hospital throughout …",
+          "link": "https://www.who.int/news/item/22-10-2024-patients-transferred--critical-supplies-denied-as-high-risk--on-who-led-joint-mission-in-northern-gaza-amid-intense-hostilities",
+          "publishedOn": "2024-10-22T17:28:52.000Z",
+          "wordCount": 2075,
+          "title": "Patients transferred, critical supplies denied as high-risk, on WHO-led joint mission in northern Gaza amid intense hostilities",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/high-risk-patient-transfer-in-northern-gaza.tmb-1200v.jpeg?sfvrsn=5d00d79a_1"
+        },
         {
           "id": "urn:uuid:81408b38-f3c1-4be0-8d88-c56655d89a09",
           "author": null,
