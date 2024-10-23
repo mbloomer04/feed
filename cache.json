@@ -3451,6 +3451,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:208e9011-6f0d-4825-8eb2-ace4ed2b07d1",
+          "author": null,
+          "description": "Due to the escalating violence, intense bombardment, mass displacement orders, and lack of assured humanitarian pauses across most of northern Gaza, the Polio Technical Committee for Gaza, including the Palestinian Ministry of Health, World Health Organization (WHO), United Nations Children’s Fund (UNICEF), the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) and partners have been compelled to postpone the third phase of the polio vaccination campaign, which was set to begin today. This final phase of the ongoing campaign aimed to vaccinate 119 279 children across northern Gaza.\nThe current conditions, including ongoing attacks on civilian infrastructure continue to jeopardize people’s safety and movement in northern Gaza, making it impossible for families to safely b…",
+          "link": "https://www.who.int/news/item/23-10-2024-intense-bombardments--mass-displacements-and-lack-of-access-in-northern-gaza-force-the-postponement-of-polio-vaccination-campaign",
+          "publishedOn": "2024-10-23T07:22:09.000Z",
+          "wordCount": 2180,
+          "title": "Intense bombardments, mass displacements and lack of access in northern Gaza force the postponement of polio vaccination campaign",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/polio/poliovaxgaza2024.tmb-1200v.jpg?sfvrsn=a7fb98fa_1"
+        },
+        {
           "id": "urn:uuid:90613be7-6cbc-4ad4-9a0c-c68b5b38018a",
           "author": null,
           "description": "On 21 October, 14 patients and 10 caregivers were transferred from Kamal Adwan in North Gaza to Al-Shifa Hospital in Gaza City during a high-risk, WHO-led joint mission, amid intense hostilities and access restrictions. Despite an initial agreement, the delivery of critical medical supplies, blood, and fuel – resources essential for keeping Kamal Adwan and Al-Awda hospitals operational – was denied just a few hours before the mission began on 20 October. \n\nThe mission lasted two days, with the team facing delays at successive checkpoints, and during extensive security screenings. The team was forced to stay overnight at Kamal Adwan Hospital, as they were not cleared to proceed to Al-Shifa hospital due to active conflict in the area. Heavy bombardment continued near the hospital throughout …",
@@ -3679,16 +3689,6 @@
           "wordCount": 2153,
           "title": "New global guidance puts forward recommendations for more effective and equitable clinical trials",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/clinical-trials/guinea-ebola-consent-forms.tmb-1200v.jpg?sfvrsn=5ce77e82_3"
-        },
-        {
-          "id": "urn:uuid:0491fa21-c50d-405d-8647-01dd960782e9",
-          "author": null,
-          "description": "Execution is starting under the new Health Impact Investment Platform on the first country health investment plans turning original commitment into operational reality. The landmark partnership between Multilateral Development Banks (MDBs), the World Health Organization (WHO) and low- and middle-income countries (LMICs) is addressing the critical need for coordinated efforts to strengthen primary healthcare (PHC) in vulnerable and underserved communities to build resilience against pandemic threats like mpox and the climate crisis. \nAt the high-level roundtable meeting in New York on the margins of the UN Summit of the Future in New York today, new funding was signed, and it was agreed that the partners will sit down and start identifying needs and planning health care improvements in 15 c…",
-          "link": "https://www.who.int/news/item/23-09-2024-who-and-multilateral-development-banks-kick-off-primary-health-financing-platform-with-new-funds-and-launch-of-first-investment-plans-in-15-countries",
-          "publishedOn": "2024-09-23T19:21:20.000Z",
-          "wordCount": 3431,
-          "title": "WHO and multilateral development banks kick off US$ 1.5 billion primary health financing platform with new funds and launch of first investment plans in 15 countries",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cancer/kyrgyzstan-feature-story-image.tmb-1200v.jpg?sfvrsn=87be45d4_3"
         }
       ]
     },
@@ -3697,6 +3697,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=209513",
+          "author": "Jordan Sollof",
+          "description": "A report from patient engagement platform supplier DrDoctor has revealed the main reasons why people miss hospital appointments.",
+          "link": "https://www.digitalhealth.net/2024/10/drdoctor-conducts-study-to-make-better-use-of-ai/",
+          "publishedOn": "2024-10-23T07:30:27.000Z",
+          "wordCount": 4241,
+          "title": "DrDoctor study reveals why patients miss hospital appointments",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/DrDoctor-interactive-DNA-map.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=209433",
           "author": "Jordan Sollof",

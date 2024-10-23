@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-23T07:11:05.050Z</updated>
+    <updated>2024-10-23T08:14:41.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DrDoctor study reveals why patients miss hospital appointments]]></title>
+        <id>https://www.digitalhealth.net/?p=209513</id>
+        <link href="https://www.digitalhealth.net/2024/10/drdoctor-conducts-study-to-make-better-use-of-ai/"/>
+        <updated>2024-10-23T07:30:27.000Z</updated>
+        <summary type="html"><![CDATA[A report from patient engagement platform supplier DrDoctor has revealed the main reasons why people miss hospital appointments.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intense bombardments, mass displacements and lack of access in northern Gaza force the postponement of polio vaccination campaign]]></title>
+        <id>urn:uuid:208e9011-6f0d-4825-8eb2-ace4ed2b07d1</id>
+        <link href="https://www.who.int/news/item/23-10-2024-intense-bombardments--mass-displacements-and-lack-of-access-in-northern-gaza-force-the-postponement-of-polio-vaccination-campaign"/>
+        <updated>2024-10-23T07:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Due to the escalating violence, intense bombardment, mass displacement orders, and lack of assured humanitarian pauses across most of northern Gaza, the Polio Technical Committee for Gaza, including the Palestinian Ministry of Health, World Health Organization (WHO), United Nations Children’s Fund (UNICEF), the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) and partners have been compelled to postpone the third phase of the polio vaccination campaign, which was set to begin today. This final phase of the ongoing campaign aimed to vaccinate 119 279 children across northern Gaza.
+The current conditions, including ongoing attacks on civilian infrastructure continue to jeopardize people’s safety and movement in northern Gaza, making it impossible for families to safely b…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patients transferred, critical supplies denied as high-risk, on WHO-led joint mission in northern Gaza amid intense hostilities]]></title>
         <id>urn:uuid:90613be7-6cbc-4ad4-9a0c-c68b5b38018a</id>
@@ -4401,17 +4422,6 @@ The post Childhood vaccine uptake in England declines further despite disease ou
         <summary type="html"><![CDATA[Physician associates (PAs) have a role to play in the NHS, but doctors' concerns about how they are working must be taken seriously, the health and social care secretary Wes Streeting has said.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO and multilateral development banks kick off US$ 1.5 billion primary health financing platform with new funds and launch of first investment plans in 15 countries]]></title>
-        <id>urn:uuid:0491fa21-c50d-405d-8647-01dd960782e9</id>
-        <link href="https://www.who.int/news/item/23-09-2024-who-and-multilateral-development-banks-kick-off-primary-health-financing-platform-with-new-funds-and-launch-of-first-investment-plans-in-15-countries"/>
-        <updated>2024-09-23T19:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Execution is starting under the new Health Impact Investment Platform on the first country health investment plans turning original commitment into operational reality. The landmark partnership between Multilateral Development Banks (MDBs), the World Health Organization (WHO) and low- and middle-income countries (LMICs) is addressing the critical need for coordinated efforts to strengthen primary healthcare (PHC) in vulnerable and underserved communities to build resilience against pandemic threats like mpox and the climate crisis. 
-At the high-level roundtable meeting in New York on the margins of the UN Summit of the Future in New York today, new funding was signed, and it was agreed that the partners will sit down and start identifying needs and planning health care improvements in 15 c…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
