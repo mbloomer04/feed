@@ -90,8 +90,18 @@
     {
       "title": "Pulse Today",
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
-      "siteUrl": "https://www.pulsetoday.co.uk/?page_id=2",
+      "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=154662",
+          "author": "Eliza Parr",
+          "description": "The UK medicines regulator has today approved a new treatment that can slow Alzheimer’s disease progression, but NICE has said it is too costly for the NHS. Donanemab, produced by Eli Lilly, is used to treat mild cognitive impairment or mild dementia via a monthly infusion and it requires ‘intensive monitoring for serious side effects’.\nThe post NICE rules newly-approved Alzheimer’s-slowing drug too costly for NHS appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/nice-rules-newly-approved-alzheimers-slowing-drug-too-costly-for-nhs/",
+          "publishedOn": "2024-10-23T09:51:53.000Z",
+          "wordCount": 2339,
+          "title": "NICE rules newly-approved Alzheimer’s-slowing drug too costly for NHS",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/Dementia-Getty-RF-1457715559-1200-x-800.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=154624",
           "author": "Sofia Lind",
@@ -2904,6 +2914,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/a-guide-to-business-cases-for-digital-projects.html",
+          "author": null,
+          "description": "Healthcare Financial Management Association - As part of the NHS governance structure, a robust, well-evidenced business case demonstrates the potential of a new idea to deliver real value across the whole health and care system, giving a digital tech innovation the best chance of being adopted by the NHS. This briefing looks at the structure of a good business case...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/a-guide-to-business-cases-for-digital-projects.html",
+          "publishedOn": "2024-10-23T10:10:54.000Z",
+          "wordCount": null,
+          "title": "A guide to business cases for digital projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/policy-position-racial-and-ethnic-equality-in-womens-health-.html",
           "author": null,
           "description": "Royal College of Obstetricians and Gynaecologists (RCOG) - This statement sets out the RCOG’s position and recommendations on the key areas for change across NHS England and UK government policy to address inequalities in Black, Asian and minority ethnic women’s health and care. Position statement Press release",
@@ -3707,6 +3727,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=209557",
+          "author": "Jordan Sollof",
+          "description": "Jordan Sollof is joined by DJ Hamblin-Brown and Simon Weldon to discuss the challenges of clinical coordination in the UK health system.",
+          "link": "https://www.digitalhealth.net/2024/10/digital-health-unplugged-the-challenges-of-clinical-coordination-in-the-uk-health-system/",
+          "publishedOn": "2024-10-23T10:00:31.000Z",
+          "wordCount": 3431,
+          "title": "Digital Health Unplugged: The challenges of clinical coordination in the UK health system",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Digital-Health-Podcast-Episode-91-Header.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=209513",
           "author": "Jordan Sollof",
