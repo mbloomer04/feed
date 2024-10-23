@@ -93,6 +93,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=154687",
+          "author": "Maya Dhillon",
+          "description": "Deputy editor Sofia Lind on the hoops GPs have to jump through for sustainable funding On Monday, the Government launched what it called the ‘biggest-ever conversation about the future of the NHS’. The consultation of NHS staff and patients will inform a new 10-year plan for the service – a prescription to bring it back to\nThe post How high do GPs need to jump for sustainable funding? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/how-high-do-gps-need-to-jump-for-sustainable-funding/",
+          "publishedOn": "2024-10-23T15:41:15.000Z",
+          "wordCount": 2033,
+          "title": "How high do GPs need to jump for sustainable funding?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/01/Sofia_Lind_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=154685",
           "author": "Sofia Lind",
           "description": "A randomised clinical trial of an mRNA vaccine against norovirus will be launched in the UK within the next two weeks, it has been announced. It will evaluate the efficacy, safety, and immunogenicity of an investigational norovirus vaccine, mRNA-1403, which if successful could be the first licensed norovirus vaccine in the world. The trial is\nThe post Norovirus vaccine trial to launch in the UK appeared first on Pulse Today.",
@@ -1370,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1893315",
+          "author": null,
+          "description": "Patients have praised ‘amazing’ GP practice staff after an ‘emergency situation’ forced a surgery to cancel appointments and close for one afternoon.",
+          "link": "https://www.gponline.com/man-charged-emergency-situation-gp-practice-waiting-room/article/1893315",
+          "publishedOn": "2024-10-23T13:07:32.000Z",
+          "wordCount": 878,
+          "title": "Man charged after 'emergency situation' in GP practice waiting room",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1893302",
           "author": null,
           "description": "Doctors on the Isle of Man - including salaried GPs - will be balloted over industrial action for the first time ever, the BMA has announced.",
@@ -2376,6 +2396,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "author": null,
+          "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
+          "link": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "publishedOn": "2024-10-23T15:58:09.000Z",
+          "wordCount": 1221,
+          "title": "Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/the-nhs-choice-framework",
+          "author": null,
+          "description": "Sets out patients’ rights to choice in healthcare, where to find information to help choose, and how to complain if choice is not offered.",
+          "link": "https://www.gov.uk/government/publications/the-nhs-choice-framework",
+          "publishedOn": "2024-10-23T15:19:51.000Z",
+          "wordCount": 1382,
+          "title": "Guidance: NHS Choice Framework - what choices are available to you in your NHS care",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/digitising-social-care-programme-sro-appointment-letter",
           "author": null,
