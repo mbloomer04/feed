@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-24T08:14:49.274Z</updated>
+    <updated>2024-10-24T09:12:02.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Correspondence: UKHSA priorities in 2024 to 2025]]></title>
+        <id>https://www.gov.uk/government/publications/ukhsa-priorities-in-2024-to-2025</id>
+        <link href="https://www.gov.uk/government/publications/ukhsa-priorities-in-2024-to-2025"/>
+        <updated>2024-10-24T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Letter from Health Minister Andrew Gwynne MP confirming the UK Health Security Agency’s role and priorities for the financial year 2024 to 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Government crackdown on single-use vapes]]></title>
         <id>https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes</id>
