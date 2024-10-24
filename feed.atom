@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-24T07:11:21.226Z</updated>
+    <updated>2024-10-24T08:14:49.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Government crackdown on single-use vapes]]></title>
+        <id>https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes</id>
+        <link href="https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes"/>
+        <updated>2024-10-24T08:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Ban on sale and supply of single-use vapes in England to come into force on 1 June 2025]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maternity EHR rolled out across Humber and North Yorkshire ICB]]></title>
+        <id>https://www.digitalhealth.net/?p=209637</id>
+        <link href="https://www.digitalhealth.net/2024/10/badgernet-maternity-rolled-out-across-humber-and-north-yorkshire/"/>
+        <updated>2024-10-24T07:30:32.000Z</updated>
+        <summary type="html"><![CDATA[The BadgerNet maternity electronic health record system from System C has been rolled out across NHS Humber and North Yorkshire ICB.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: New data laws unveiled to improve public services and boost UK economy by £10 billion]]></title>
         <id>https://www.gov.uk/government/news/new-data-laws-unveiled-to-improve-public-services-and-boost-uk-economy-by-10-billion</id>

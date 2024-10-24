@@ -2257,6 +2257,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes",
+          "author": null,
+          "description": "Ban on sale and supply of single-use vapes in England to come into force on 1 June 2025",
+          "link": "https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes",
+          "publishedOn": "2024-10-24T08:05:01.000Z",
+          "wordCount": 2597,
+          "title": "Press release: Government crackdown on single-use vapes",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/671905d5dd93e6b1fa07bed9/s960_Disposable_vapes_in_nature.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/new-data-laws-unveiled-to-improve-public-services-and-boost-uk-economy-by-10-billion",
           "author": null,
           "description": "New Bill to unlock the secure and effective use of data for the public interest has been introduced into Parliament.",
@@ -3717,6 +3727,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=209637",
+          "author": "Jordan Sollof",
+          "description": "The BadgerNet maternity electronic health record system from System C has been rolled out across NHS Humber and North Yorkshire ICB.",
+          "link": "https://www.digitalhealth.net/2024/10/badgernet-maternity-rolled-out-across-humber-and-north-yorkshire/",
+          "publishedOn": "2024-10-24T07:30:32.000Z",
+          "wordCount": 4169,
+          "title": "Maternity EHR rolled out across Humber and North Yorkshire ICB",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/System-C-ipad-maternity.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=209577",
           "author": "Jordan Sollof",
