@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1893597",
+          "author": null,
+          "description": "Detrimental reforms to pensions and national insurance in the 30 October autumn budget could drive more GP practices out of business, the BMA has warned.",
+          "link": "https://www.gponline.com/detrimental-budget-reforms-pensions-ni-force-practice-closures-warns-bma/article/1893597",
+          "publishedOn": "2024-10-25T09:42:04.000Z",
+          "wordCount": null,
+          "title": "Detrimental budget reforms to pensions and NI could force practice closures, warns BMA",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.gponline.com/article/1893575",
           "author": null,
           "description": "Detrimental reforms to pensions and national insurance in the 30 October autumn budget could drive more GP practices out of business, the BMA has warned.",
@@ -3817,6 +3827,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=209781",
+          "author": "Jordan Sollof",
+          "description": "The Scottish government said that its Digital Front Door \"goes beyond\" the NHS App because it includes access to health and social care data.",
+          "link": "https://www.digitalhealth.net/2024/10/scotland-s-digital-front-door-platform-to-go-beyond-the-nhs-app/",
+          "publishedOn": "2024-10-25T10:00:22.000Z",
+          "wordCount": 4424,
+          "title": "Scotland’s Digital Front Door platform ‘goes beyond’ the NHS App",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/shutterstock_2060759657-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=209759",
           "author": "Jordan Sollof",
