@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-25T12:20:48.109Z</updated>
+    <updated>2024-10-25T13:19:35.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS to trial AI tool that predicts health risks and early death]]></title>
+        <id>https://www.digitalhealth.net/?p=209827</id>
+        <link href="https://www.digitalhealth.net/2024/10/nhs-to-trial-ai-tool-that-predicts-health-risks-and-early-death/"/>
+        <updated>2024-10-25T12:30:54.000Z</updated>
+        <summary type="html"><![CDATA[The NHS in England is to trial an AI tool that can predict patients’ risk of heart disease and early death using an electrocardiogram (ECG).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland’s Digital Front Door platform ‘goes beyond’ the NHS App]]></title>
         <id>https://www.digitalhealth.net/?p=209781</id>
