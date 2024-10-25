@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-25T13:19:35.470Z</updated>
+    <updated>2024-10-25T14:10:56.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Adult Social Care Learning and Development Support Scheme]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme"/>
+        <updated>2024-10-25T13:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Information for adult social care employers in England on learning and development support for the financial year 2024 to 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS to trial AI tool that predicts health risks and early death]]></title>
         <id>https://www.digitalhealth.net/?p=209827</id>
