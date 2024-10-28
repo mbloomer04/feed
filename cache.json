@@ -93,6 +93,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=154712",
+          "author": "Eliza Parr",
+          "description": "All NHS IT suppliers will need to meet ‘common standards’ which enable patient data sharing across GP practices and trusts, under new legislation. The Data Use and Access Bill, introduced last week in the House of Lords, aims to ‘harness’ data to boost the economy by £10bn and ‘free up’ 140,000 hours of NHS staff\nThe post GP IT suppliers required to enable patient data sharing under new laws appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/gp-it-suppliers-required-to-enable-patient-data-sharing-under-new-laws/",
+          "publishedOn": "2024-10-28T11:56:30.000Z",
+          "wordCount": 2221,
+          "title": "GP IT suppliers required to enable patient data sharing under new laws",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/06/NHS-England-cancels-primary-care-digital-pathways-framework.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=154677",
+          "author": "Eliza Parr",
+          "description": "GP leaders are pushing back against hospital trusts rejecting referrals, with LMCs issuing warnings of potential contract breaches. A number of LMCs have encouraged GPs to send warnings back to providers who reject their referrals, stating that there are no valid grounds for the rejection.  Some template letters produced by LMCs to help GPs do\nThe post Trusts rejecting GP referrals risk contract breach, LMCs warn appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/referrals/trusts-rejecting-gp-referrals-risk-contract-breach-lmcs-warn/",
+          "publishedOn": "2024-10-28T11:21:24.000Z",
+          "wordCount": 2378,
+          "title": "Trusts rejecting GP referrals risk contract breach, LMCs warn",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/01/GPs_say_advice_and_guidance_blocking_referrals.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=154808",
           "author": "Eliza Parr",
           "description": "An unofficial representative body has shared new guidance to ‘support’ GP partners in employing physician associates (PAs), warning that the use of ‘restrictive’ scope documents could result in legal challenge.  The new guidance, produced by United Medical Associate Professionals (UMAPs), advises on the qualifications, recruitment, prescribing powers and clinical supervision of physician associates.  Unlike the\nThe post PA body warns of legal action against GP practices following ‘restrictive’ scopes appeared first on Pulse Today.",
@@ -1298,6 +1318,16 @@
           "wordCount": 1088,
           "title": "Podcast: Labour’s GP MP Dr Simon Opher on adjusting to life in parliament",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_withSimonOphercopy_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1893493",
+          "author": null,
+          "description": "England's GP workforce has risen to a five-year high despite an ongoing jobs crisis that has left thousands of GPs struggling to find work, official data show.",
+          "link": "https://www.gponline.com/gp-workforce-hits-five-year-high-despite-ongoing-jobs-crisis/article/1893493",
+          "publishedOn": "2024-10-24T10:24:17.000Z",
+          "wordCount": 702,
+          "title": "GP workforce hits five-year high despite ongoing jobs crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_59.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1893398",
@@ -2833,6 +2863,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/mental-health-inpatient-settings-creating-conditions-for-the-delivery-of-safe-and-therapeutic-care-t.html",
+          "author": null,
+          "description": "Health Services Safety Investigations Body - In June 2023 the Secretary of State for Health and Social Care announced that HSSIB would undertake a series of investigations focused on mental health inpatient settings. This report describes the findings of the first of those investigations, exploring the risks to patient safety associated with the workforce and working conditions in acute mental...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/mental-health-inpatient-settings-creating-conditions-for-the-delivery-of-safe-and-therapeutic-care-t.html",
+          "publishedOn": "2024-10-28T11:46:13.000Z",
+          "wordCount": null,
+          "title": "Mental health inpatient settings: creating conditions for the delivery of safe and therapeutic care to adults",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/the-state-of-health-care-and-adult-social-care-in-england-202324.html",
+          "author": null,
+          "description": "Care Quality Commission - This annual assessment of the state of health and social care in England looks at the quality of care over the past year. It draws on inspection activity, findings from CQC’s national NHS patient survey programme and statutory reports, bespoke research into people’s experiences, insight from key stakeholders and evidence collected by the regulator throughout the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/the-state-of-health-care-and-adult-social-care-in-england-202324.html",
+          "publishedOn": "2024-10-28T11:32:57.000Z",
+          "wordCount": null,
+          "title": "The state of health care and adult social care in England 2023/24",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/tackling-health-inequalities-through-english-devolution.html",
           "author": null,
