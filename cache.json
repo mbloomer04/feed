@@ -1340,6 +1340,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1894000",
+          "author": null,
+          "description": "A newly-qualified GP has signed a contract for an additional roles reimbursement scheme (ARRS) job starting in Wiltshire from next week, GPonline has learned, in what is thought to be the first confirmed GP job created through the scheme.",
+          "link": "https://www.gponline.com/first-arrs-gp-job-confirmed-doctor-signs-contract-pcn-wiltshire/article/1894000",
+          "publishedOn": "2024-10-29T15:43:33.000Z",
+          "wordCount": 733,
+          "title": "First ARRS GP job confirmed as doctor signs contract with PCN in Wiltshire",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS_GP_sign_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1893944",
           "author": null,
           "description": "More than 180,000 consultations took place in July this year under Pharmacy First - a scheme meant to free up 10m GP appointments a year - but analysis reveals significant variation in uptake between ICBs.",
@@ -2963,6 +2973,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/10/retention-looking-after-the-gps-of-today-to-safeguard-the-workforce-of-tomorrow.html",
+          "author": null,
+          "description": "Royal College of General Practitioners - This report explores the workforce challenges facing general practice in England and highlights the pressing need to address the reasons GPs are leaving the profession or reducing their contracted hours. Report Press release",
+          "link": "https://kingsfund.blogs.com/health_management/2024/10/retention-looking-after-the-gps-of-today-to-safeguard-the-workforce-of-tomorrow.html",
+          "publishedOn": "2024-10-29T17:29:43.000Z",
+          "wordCount": null,
+          "title": "Retention: looking after the GPs of today to safeguard the workforce of tomorrow",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/10/community-pharmacy-england-pharmacy-advice-audit-2024-.html",
           "author": null,
