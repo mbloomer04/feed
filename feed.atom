@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-30T10:12:44.233Z</updated>
+    <updated>2024-10-30T11:09:43.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Liverpool project integrates social housing data and NHS records]]></title>
+        <id>https://www.digitalhealth.net/?p=210101</id>
+        <link href="https://www.digitalhealth.net/2024/10/liverpool-project-integrates-social-housing-data-and-nhs-records/"/>
+        <updated>2024-10-30T11:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Mersey Care NHS Foundation Trust and Prima Group are leading a project that integrates social care housing data into NHS records.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICB to spend £10m on plans for radical overhaul of care model]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=154414</id>
+        <link href="https://www.pulsetoday.co.uk/news/technology/icb-to-spend-10m-on-plans-for-radical-overhaul-of-care-model/"/>
+        <updated>2024-10-30T10:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive Cambridgeshire and Peterborough ICB is looking for an ‘IT partner’ to realise the first step of a plan to radically overhaul its local care model. The ICB has put out a pre-notice for a potential £10m contract to ‘deliver a digital front door (DFD) as a single entry-point for citizens managing their care’. The
+The post ICB to spend £10m on plans for radical overhaul of care model appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maternal pertussis vaccination figures show ‘steady’ increase, says UKHSA]]></title>
         <id>https://www.pulsetoday.co.uk/?p=154526</id>
