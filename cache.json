@@ -2057,6 +2057,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/lead-properties-incident-management-and-toxicology",
+          "author": null,
+          "description": "Information on lead, for use in responding to chemical incidents.",
+          "link": "https://www.gov.uk/government/publications/lead-properties-incident-management-and-toxicology",
+          "publishedOn": "2024-10-31T11:00:01.000Z",
+          "wordCount": 1072,
+          "title": "Guidance: Lead: health effects, incident management and toxicology",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/diabetic-eye-screening-roles-of-clinical-leads",
           "author": null,
           "description": "This document explains the roles and responsibilities of NHS diabetic eye screening (DES) programme clinical leads.",
@@ -3637,6 +3647,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=210003",
+          "author": "Jordan Sollof",
+          "description": "A trial has found that digital avatars can help people with psychosis reduce the distress and frequency with which they hear voices.",
+          "link": "https://www.digitalhealth.net/2024/10/trial-finds-digital-avatars-reduce-distressing-voices-in-psychosis/",
+          "publishedOn": "2024-10-31T11:00:02.000Z",
+          "wordCount": 4403,
+          "title": "Trial finds digital avatars reduce distressing voices in psychosis",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Psychosis.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=210175",
           "author": "DHI News Team",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-31T10:12:20.752Z</updated>
+    <updated>2024-10-31T11:09:44.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trial finds digital avatars reduce distressing voices in psychosis]]></title>
+        <id>https://www.digitalhealth.net/?p=210003</id>
+        <link href="https://www.digitalhealth.net/2024/10/trial-finds-digital-avatars-reduce-distressing-voices-in-psychosis/"/>
+        <updated>2024-10-31T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A trial has found that digital avatars can help people with psychosis reduce the distress and frequency with which they hear voices.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Lead: health effects, incident management and toxicology]]></title>
+        <id>https://www.gov.uk/government/publications/lead-properties-incident-management-and-toxicology</id>
+        <link href="https://www.gov.uk/government/publications/lead-properties-incident-management-and-toxicology"/>
+        <updated>2024-10-31T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Information on lead, for use in responding to chemical incidents.]]></summary>
+        <author>
+            <name>Public Health England - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: Provisional list of abortion clinics and hospitals in England and Wales, 2023]]></title>
         <id>https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-england-and-wales-2023</id>
