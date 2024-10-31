@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-10-31T08:14:16.647Z</updated>
+    <updated>2024-10-31T09:11:48.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Provisional list of abortion clinics and hospitals in England and Wales, 2023]]></title>
+        <id>https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-england-and-wales-2023</id>
+        <link href="https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-england-and-wales-2023"/>
+        <updated>2024-10-31T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[This publication contains a provisional list of abortion clinics and hospitals in England and Wales, as identified in a notification to the Chief Medical Officer in 2023.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital health sector reacts to Autumn Budget NHS investment]]></title>
+        <id>https://www.digitalhealth.net/?p=210175</id>
+        <link href="https://www.digitalhealth.net/2024/10/digital-health-sector-reacts-to-autumn-budget-nhs-tech-investment/"/>
+        <updated>2024-10-31T08:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Leaders from across the digital health, care and technology sectors have reacted to chancellor Rachel Reeves' Autumn Budget.]]></summary>
+        <author>
+            <name>DHI News Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs ‘glaringly absent’ from NHS Budget investment]]></title>
         <id>https://www.pulsetoday.co.uk/?p=154946</id>
