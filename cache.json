@@ -1311,16 +1311,6 @@
           "wordCount": 2657,
           "title": "BMA demands extra £40 per patient for GP practices ahead of Autumn Budget",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/BMA-to-seek-clarity-for-GP-exemption-from-anti-money-laundering-initiative.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=153098",
-          "author": "Mollie Fraser-Andrews",
-          "description": "In the next in our Masterclass series, GP cardiologists Dr Christine A’Court and Dr Charles Gardiner explain the latest knowledge and best practice in the management of atrial fibrillation. This series showcases content from our Pulse Reference site, which supports GPs in making diagnoses and provides advice on managing conditions Definition/diagnostic criteria  Atrial fibrillation (AF) is a supraventricular\nThe post Masterclass: A GP’s complete guide to atrial fibrillation appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/cardiovascular/masterclass-a-gps-complete-guide-to-atrial-fibrillation/",
-          "publishedOn": "2024-10-03T09:45:19.000Z",
-          "wordCount": 4527,
-          "title": "Masterclass: A GP’s complete guide to atrial fibrillation",
-          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/10/Stethoscope-and-ECG-GettyImages-473291878-1200-x-800.jpg"
         }
       ]
     },
@@ -3391,6 +3381,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:c37807b4-d223-4c01-9046-a58900abc909",
+          "author": null,
+          "description": "A third phase of the polio vaccination campaign is set to begin tomorrow in part of the northern Gaza Strip after being postponed from 23 October 2024 due to lack of access and assured, comprehensive humanitarian pauses, intense bombardment, and mass evacuation orders. These conditions made it impossible for families to safely bring their children for vaccination and to organize campaign activities.  \n\n\"The humanitarian pause necessary to conduct the campaign has been assured; however, the area of the pause has been substantially reduced compared to the first round of vaccination in northern Gaza, conducted in September 2024. It is now limited to just Gaza City. Though in the past few weeks, at least 100 000 people have been forced to evacuate from North Gaza towards Gaza City for safety, …",
+          "link": "https://www.who.int/news/item/01-11-2024-polio-vaccination-campaign-to-resume-in-northern-gaza",
+          "publishedOn": "2024-11-01T12:12:31.000Z",
+          "wordCount": 2208,
+          "title": "Polio vaccination campaign to resume in northern Gaza",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/polio-vaccination-campaign-in-gaza--phrase-2.tmb-1200v.jpg?sfvrsn=cdded609_1"
+        },
+        {
           "id": "urn:uuid:51c550af-1bf1-410f-b71f-5b6d43d78425",
           "author": null,
           "description": "As part of ongoing efforts to enhance quality-assured testing options, the World Health Organization (WHO) has listed two additional mpox in vitro diagnostics under its Emergency Use Listing (EUL) procedure. WHO’s EUL is based on the review of quality, safety and performance data in compliance with international standards while addressing the specific needs of low- and middle-income countries (LMICs).\nPolymerase Chain Reaction (PCR) testing, which detects viral DNA, is considered the gold standard for diagnosing mpox infection.\nWHO listed the Xpert Mpox, a real-time PCR test manufactured by Cepheid under its EUL procedure, on 25 October. This test is designed for use on compatible GeneXpert systems. The Xpert Mpox test is easy to operate and delivers results in under 40 minutes. Once the c…",
@@ -4346,16 +4346,6 @@
           "wordCount": 4324,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=207557",
-          "author": "Jordan Sollof",
-          "description": "Countess of Chester Hospital NHS Foundation Trust has partnered with patient engagement platform (PEP) supplier DrDoctor.",
-          "link": "https://www.digitalhealth.net/2024/10/countess-of-chester-hospital-introduces-drdoctor-patient-portal/",
-          "publishedOn": "2024-10-03T10:00:46.000Z",
-          "wordCount": 4241,
-          "title": "Countess of Chester Hospital introduces DrDoctor patient portal",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Countess-of-Chester-Hospital.jpg"
         }
       ]
     }
