@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-01T09:11:50.955Z</updated>
+    <updated>2024-11-01T10:12:53.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Following the Autumn Budget, members of the Digital Health Networks Advisory Panels have shared their views on the NHS funding plans.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Is the GP workforce turning a corner? Plus what the budget means for general practice]]></title>
+        <id>https://www.gponline.com/article/1894354</id>
+        <link href="https://www.gponline.com/podcast-gp-workforce-turning-corner-plus-budget-means-general-practice/article/1894354"/>
+        <updated>2024-11-01T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the latest GP workforce figures, GP ARRS jobs, an RCGP plan to improve retention and looks at how the budget will affect practices.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
