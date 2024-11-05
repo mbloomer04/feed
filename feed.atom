@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-05T05:11:02.136Z</updated>
+    <updated>2024-11-05T06:16:04.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,18 @@
         <summary type="html"><![CDATA[The government will introduce plans for tougher action to protect people from the harms of smoking in the Tobacco and Vapes Bill today.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO study lists top endemic pathogens for which new vaccines are urgently needed]]></title>
+        <id>urn:uuid:96f0c682-cb9d-47fd-85e7-8e9bef69a1ab</id>
+        <link href="https://www.who.int/news/item/05-11-2024-who-study-lists-top-endemic-pathogens-for-which-new-vaccines-are-urgently-needed"/>
+        <updated>2024-11-04T17:47:08.000Z</updated>
+        <summary type="html"><![CDATA[A new World Health Organization (WHO) study published today in eBioMedicine names 17 pathogens that regularly cause diseases in communities as top priorities for new vaccine development. The WHO study is the first global effort to systematically prioritize endemic pathogens based on criteria that included regional disease burden, antimicrobial resistance risk and socioeconomic impact. 
+The study reconfirms longstanding priorities for vaccine research and development (R&D), including for HIV, malaria, and tuberculosis – three diseases that collectively take nearly 2.5 million lives each year. 
+The study also identifies pathogens such as Group A streptococcus and Klebsiella pneumoniae as top disease control priorities in all regions, highlighting the urgency to develop new vaccines for patho…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
