@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-05T06:16:04.526Z</updated>
+    <updated>2024-11-05T07:10:45.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: UK to create world-first 'early warning system' for pandemics]]></title>
+        <id>https://www.gov.uk/government/news/uk-to-create-world-first-early-warning-system-for-pandemics</id>
+        <link href="https://www.gov.uk/government/news/uk-to-create-world-first-early-warning-system-for-pandemics"/>
+        <updated>2024-11-05T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The government is set to partner with Oxford Nanopore, which uses technology to rapidly diagnose a range of cancers, along with rare and infectious diseases]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speech: Protecting children, families and vulnerable from tobacco harms]]></title>
         <id>https://www.gov.uk/government/speeches/protecting-children-families-and-vulnerable-from-tobacco-harms</id>
