@@ -2625,16 +2625,6 @@
           "wordCount": 2397,
           "title": "Press release: New NHS programme to reduce brain injury in childbirth trialled",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/market-sustainability-and-improvement-fund-2024-to-2025-care-provider-fees",
-          "author": null,
-          "description": "Data and analysis of fees paid to care providers by local authorities, reported as part of the Market Sustainability and Improvement Fund.",
-          "link": "https://www.gov.uk/government/publications/market-sustainability-and-improvement-fund-2024-to-2025-care-provider-fees",
-          "publishedOn": "2024-10-06T23:00:00.000Z",
-          "wordCount": 1275,
-          "title": "Research: Market Sustainability and Improvement Fund 2024 to 2025: care provider fees",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3497,6 +3487,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=210451",
+          "author": "Jordan Sollof",
+          "description": "Concerns have been raised that government NHS plans, including having a single patient record through the NHS App, will exclude older people.",
+          "link": "https://www.digitalhealth.net/2024/11/concerns-raised-that-nhs-digital-plans-could-exclude-older-adults/",
+          "publishedOn": "2024-11-05T11:00:05.000Z",
+          "wordCount": 4428,
+          "title": "Concerns raised that NHS digital plans could exclude older adults",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/Old-man-alone.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=210137",
           "author": "Jordan Sollof",
