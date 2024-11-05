@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-05T12:20:15.908Z</updated>
+    <updated>2024-11-05T13:18:20.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conservatives appoint new shadow health and social care secretary]]></title>
+        <id>https://www.gponline.com/article/1894809</id>
+        <link href="https://www.gponline.com/conservatives-appoint-new-shadow-health-social-care-secretary/article/1894809"/>
+        <updated>2024-11-05T12:16:34.000Z</updated>
+        <summary type="html"><![CDATA[A former health minister has been appointed shadow health and social care secretary as new Conservative leader Kemi Badenoch’s shadow front bench takes shape.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Out-of-hours GPs threatened with termination for completing too few cases per hour]]></title>
         <id>https://www.pulsetoday.co.uk/?p=154992</id>
@@ -56,6 +66,16 @@ The post ‘Historic’ legislation to ban smoking laid in Parliament appeared f
         <summary type="html"><![CDATA[Concerns have been raised that government NHS plans, including having a single patient record through the NHS App, will exclude older people.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS data confirm GP practice appointments are rising and lasting longer]]></title>
+        <id>https://www.gponline.com/article/1894807</id>
+        <link href="https://www.gponline.com/nhs-data-confirm-gp-practice-appointments-rising-lasting-longer/article/1894807"/>
+        <updated>2024-11-05T10:50:59.000Z</updated>
+        <summary type="html"><![CDATA[GP practices across England are delivering rising numbers of appointments - and those appointments are lasting longer, NHS data confirm.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
