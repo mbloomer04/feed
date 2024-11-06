@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-06T13:18:33.666Z</updated>
+    <updated>2024-11-06T14:10:36.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apply to the Mental Health Tribunal]]></title>
+        <id>https://www.gov.uk/mental-health-tribunal</id>
+        <link href="https://www.gov.uk/mental-health-tribunal"/>
+        <updated>2024-11-06T14:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Appealing to a Mental Health Tribunal if you're sectioned: how to appeal, what happens at a hearing and what to do if you lose your case]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK government to create surveillance system for future pandemics]]></title>
+        <id>https://www.digitalhealth.net/?p=210599</id>
+        <link href="https://www.digitalhealth.net/2024/11/uk-government-to-create-surveillance-system-for-future-pandemics/"/>
+        <updated>2024-11-06T13:30:11.000Z</updated>
+        <summary type="html"><![CDATA[The UK government has announced plans to create a real-time surveillance system to monitor the threat of future pandemics and prevent disease.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greater than the sum of its parts?: sharing board leadership between NHS trusts]]></title>
         <id>https://kingsfund.blogs.com/health_management/2024/11/greater-than-the-sum-of-its-parts-sharing-board-leadership-between-nhs-trusts.html</id>

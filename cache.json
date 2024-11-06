@@ -2147,6 +2147,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/mental-health-tribunal",
+          "author": null,
+          "description": "Appealing to a Mental Health Tribunal if you're sectioned: how to appeal, what happens at a hearing and what to do if you lose your case",
+          "link": "https://www.gov.uk/mental-health-tribunal",
+          "publishedOn": "2024-11-06T14:05:37.000Z",
+          "wordCount": 4007,
+          "title": "Apply to the Mental Health Tribunal",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/better-care-for-mental-health-patients-under-major-reforms",
           "author": null,
           "description": "Mental Health Act reformed to improve treatment of patients and address disparities",
@@ -3527,6 +3537,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=210599",
+          "author": "Tammy Lovell",
+          "description": "The UK government has announced plans to create a real-time surveillance system to monitor the threat of future pandemics and prevent disease.",
+          "link": "https://www.digitalhealth.net/2024/11/uk-government-to-create-surveillance-system-for-future-pandemics/",
+          "publishedOn": "2024-11-06T13:30:11.000Z",
+          "wordCount": 6764,
+          "title": "UK government to create surveillance system for future pandemics",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/shutterstock_2534299873-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=210487",
           "author": "Jordan Sollof",
