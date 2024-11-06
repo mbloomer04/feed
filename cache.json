@@ -2137,6 +2137,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/better-care-for-mental-health-patients-under-major-reforms",
+          "author": null,
+          "description": "Mental Health Act reformed to improve treatment of patients and address disparities",
+          "link": "https://www.gov.uk/government/news/better-care-for-mental-health-patients-under-major-reforms",
+          "publishedOn": "2024-11-06T00:01:04.000Z",
+          "wordCount": 4315,
+          "title": "Press release: Better Care for Mental Health Patients Under Major Reforms",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/calls-for-evidence/standardised-packaging-for-all-tobacco-products",
           "author": null,
           "description": "A call for evidence on standardised packaging for all tobacco products, cigarette papers and herbal smoking products and potentially introducing pack inserts.",
@@ -4226,16 +4236,6 @@
           "wordCount": 6660,
           "title": "My Care portal to be rolled out across Northern Ireland",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/My-Care-portal-Northern-Ireland.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=207713",
-          "author": "Jordan Sollof",
-          "description": "Henley Business School has been awarded an £1.2m grant to develop an AI system for early detection of rheumatic and musculoskeletal diseases.",
-          "link": "https://www.digitalhealth.net/2024/10/ai-platform-for-arthritis-detection-secures-1-2m-grant/",
-          "publishedOn": "2024-10-07T12:30:06.000Z",
-          "wordCount": 6745,
-          "title": "AI platform for arthritis detection secures £1.2m grant",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/RMD-Health.jpg"
         }
       ]
     }
