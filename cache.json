@@ -93,6 +93,26 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=155135",
+          "author": "Anna Colivicchi",
+          "description": "Exclusive GPs in Kent have been asked to go through 9,000 hospital letters that were delayed by three weeks, to check for urgent patient actions. The problem affecting the automatic sending of letters to GPs was caused by an error that occurred during a recent IT upgrade at Kent Community Health Foundation Trust (KCHFT), one\nThe post GPs asked to check 9k delayed hospital letters for urgent patient information appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workload/gps-asked-to-check-9k-delayed-hospital-letters-for-urgent-patient-information/",
+          "publishedOn": "2024-11-06T11:04:05.000Z",
+          "wordCount": 2325,
+          "title": "GPs asked to check 9k delayed hospital letters for urgent patient information",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/NHSPS-practices-receive-letters-‘pressuring-them-to-‘settle-disputes-over-service-charges.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=155168",
+          "author": "Anna Colivicchi",
+          "description": "GP leaders in Wales have voted unanimously to reject the Welsh Government’s offer for the GMS contract for the current financial year, as they said it ‘fails’ to provide a ‘credible and sustainable future’ for general practice. The BMA’s Welsh GP committee said that following ‘a series’ of contract negotiations meetings with the Government and\nThe post GPC Wales rejects ‘sub-standard’ GMS contract offer and announces referendum appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/gpc-wales-rejects-sub-standard-gms-contract-offer-and-announces-referendum/",
+          "publishedOn": "2024-11-06T10:50:06.000Z",
+          "wordCount": 2344,
+          "title": "GPC Wales rejects ‘sub-standard’ GMS contract offer and announces referendum",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/11/Dr-Gareth-Oelmann-mhorwood_Bma_160623_4-6.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=155133",
           "author": "Eliza Parr",
           "description": "GP leaders in England will vote on whether the BMA should ramp up collective action based on concern that it is ‘not having enough impact’. The national LMCs conference will debate a motion which calls on the GP Committee England ‘to ballot the profession for more significant industrial action’. This follows three months of GP\nThe post England LMCs to consider if ‘more significant’ collective action is needed appeared first on Pulse Today.",
@@ -1269,6 +1289,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1894894",
+          "author": null,
+          "description": "GP leaders in Wales have voted unanimously to reject a 'beyond insulting' contract offer for the current financial year put forward by the Welsh government - and will now ask the profession to vote in a referendum that could be the first step towards forms of industrial action.",
+          "link": "https://www.gponline.com/welsh-gps-head-referendum-bma-rejects-2024-25-contract-offer/article/1894894",
+          "publishedOn": "2024-11-05T16:33:12.000Z",
+          "wordCount": 944,
+          "title": "Welsh GPs head for referendum after BMA rejects 2024/25 contract offer",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Dr_Gareth_Oelmann-credit_Matthew_HorwoodBMA_9.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1894894",
           "author": null,
@@ -3457,6 +3487,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=210487",
+          "author": "Jordan Sollof",
+          "description": "A project by North East London Cancer Alliance is integrating AI into cancer diagnostic pathways to achieve faster chest X-ray results.",
+          "link": "https://www.digitalhealth.net/2024/11/london-cancer-alliance-integrates-ai-for-faster-chest-x-ray-results/",
+          "publishedOn": "2024-11-06T11:00:15.000Z",
+          "wordCount": 4327,
+          "title": "London cancer alliance integrates AI for faster chest X-ray results",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/Chest-X-ray.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=210495",
           "author": "Tammy Lovell",
