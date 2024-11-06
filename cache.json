@@ -1290,6 +1290,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1894990",
+          "author": null,
+          "description": "Wes Streeting has told parliament he will 'take seriously' representations from GPs over the impact of employer national insurance contributions announced in the budget last week - as the BMA England GP committee warned hundreds of practices could hand back their contracts over increased costs.",
+          "link": "https://www.gponline.com/streeting-aware-pressures-gps-warn-budget-risks-hundreds-practice-closures/article/1894990",
+          "publishedOn": "2024-11-06T10:00:33.000Z",
+          "wordCount": 942,
+          "title": "Streeting 'aware of pressures' as GPs warn budget risks hundreds of practice closures",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_RCGP_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1894894",
           "author": null,
           "description": "GP leaders in Wales have voted unanimously to reject a 'beyond insulting' contract offer for the current financial year put forward by the Welsh government - and will now ask the profession to vote in a referendum that could be the first step towards forms of industrial action.",
@@ -2683,6 +2693,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/2024-autumn-survey.html",
+          "author": null,
+          "description": "Association of Directors of Adult Social Services - The survey results highlight the challenges facing councils as they work to provide access to care and support to people with disabilities, long-term health conditions and their carers amidst financial pressures. The report finds that, currently, 81% of councils expect to overspend their adult social care budgets this year—up from 72% in...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/2024-autumn-survey.html",
+          "publishedOn": "2024-11-06T12:04:40.000Z",
+          "wordCount": null,
+          "title": "2024 autumn survey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/malnutrition-and-nutritional-care-survey-in-adults.html",
+          "author": null,
+          "description": "British Association for Parenteral and Enteral Nutrition - This report presents findings from the screening of 2,250 adults from across the UK. It aims to give a picture of the prevalence of malnutrition and the different nutritional care interventions implemented in various settings across the four nations. It found the highest rate of adults at risk of malnutrition since the...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/malnutrition-and-nutritional-care-survey-in-adults.html",
+          "publishedOn": "2024-11-06T11:44:42.000Z",
+          "wordCount": null,
+          "title": "Malnutrition and nutritional care survey in adults",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/11/costs-and-activity-for-mental-health-services-provided-by-nhs-mental-health-trusts-in-england-sociod.html",
           "author": null,
