@@ -1280,6 +1280,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1895101",
+          "author": null,
+          "description": "GPs should only consider suggesting CBT in addition to HRT for women with menopause symptoms, or as an option for those who are unable or do not want to take hormonal treatment, NICE has said.",
+          "link": "https://www.gponline.com/final-nice-menopause-guidance-says-cbt-used-in-addition-hrt/womens-health/menopausal-and-hrt/article/1895101",
+          "publishedOn": "2024-11-06T17:22:35.000Z",
+          "wordCount": 928,
+          "title": "Final NICE menopause guidance says CBT should be used 'in addition' to HRT",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1447707012.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1894990",
           "author": null,
           "description": "Wes Streeting has told parliament he will 'take seriously' representations from GPs over the impact of employer national insurance contributions announced in the budget last week - as the BMA England GP committee warned hundreds of practices could hand back their contracts over increased costs.",
@@ -2086,6 +2096,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/request-baby-loss-certificate",
+          "author": null,
+          "description": "If your pregnancy ends before 24 weeks, you can get a free certificate in memory of your baby.",
+          "link": "https://www.gov.uk/request-baby-loss-certificate",
+          "publishedOn": "2024-11-07T08:00:02.000Z",
+          "wordCount": 1332,
+          "title": "Request a baby loss certificate",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/extension-to-temporary-ban-on-puberty-blockers",
           "author": null,
