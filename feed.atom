@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-11T08:15:04.397Z</updated>
+    <updated>2024-11-11T09:12:22.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK ‘not maximising the benefits of health data’, says Sudlow review]]></title>
+        <id>https://www.digitalhealth.net/?p=210939</id>
+        <link href="https://www.digitalhealth.net/2024/11/uk-not-maximising-the-benefits-of-health-data-says-sudlow-review/"/>
+        <updated>2024-11-11T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Sudlow review has called for barriers on access to NHS patient data to be removed so that it can be used to further medical advances.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Former Health Secretary to help government fix health and care]]></title>
         <id>https://www.gov.uk/government/news/former-health-secretary-to-help-government-fix-health-and-care</id>
