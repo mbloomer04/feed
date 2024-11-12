@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1895787",
+          "author": null,
+          "description": "GPs will hit out over underfunding of general practice at the Northern Ireland LMCs conference this month - demanding that GMS contract funding should rise to more than the price of annual insurance for a pet hamster.",
+          "link": "https://www.gponline.com/gp-funding-per-patient-less-annual-hamster-insurance-lmcs-warn/article/1895787",
+          "publishedOn": "2024-11-12T15:37:17.000Z",
+          "wordCount": 914,
+          "title": "GP funding per patient less than annual hamster insurance, LMCs warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/hamster_GettyImages-AndresLopezFotopets_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1895737",
           "author": null,
           "description": "GPs should refer all patients with suspected endometriosis for a transvaginal ultrasound, even if their pelvic or abdominal examination is normal, according to new NICE guidance.",
@@ -2039,6 +2049,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=256118",
+          "author": "kbradshaw",
+          "description": "The NHS is set to revolutionise access to cancer screening for women in a major drive to boost uptake and save thousands of lives, the head of the NHS has announced. From next month, the NHS will begin to roll out a new “ping and book” service, alerting the phones of women to remind them […]",
+          "link": "https://www.england.nhs.uk/2024/11/nhs-ping-and-book-screening-to-help-save-thousands-of-womens-lives/",
+          "publishedOn": "2024-11-12T16:53:40.000Z",
+          "wordCount": 1867,
+          "title": "NHS ‘ping and book’ screening to help save thousands of women’s lives",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=255975",
           "author": "jboshell",
