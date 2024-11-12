@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-12T08:14:50.359Z</updated>
+    <updated>2024-11-12T09:11:41.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More than 9,000 hospital letters delayed in Kent owing to IT glitch]]></title>
+        <id>https://www.digitalhealth.net/?p=211041</id>
+        <link href="https://www.digitalhealth.net/2024/11/more-than-9000-hospital-letters-delayed-in-kent-owing-to-it-glitch/"/>
+        <updated>2024-11-12T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[More than 9,000 automatic letters from hospitals to GPs in Kent were delayed by three weeks due to an IT error.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patient satisfaction with general practice rising rapidly, ONS data suggest]]></title>
         <id>https://www.gponline.com/article/1895633</id>
