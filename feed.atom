@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-13T12:21:16.825Z</updated>
+    <updated>2024-11-13T13:19:01.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speech: Our ambition to reform the NHS]]></title>
+        <id>https://www.gov.uk/government/speeches/our-ambition-to-reform-the-nhs</id>
+        <link href="https://www.gov.uk/government/speeches/our-ambition-to-reform-the-nhs"/>
+        <updated>2024-11-13T12:45:08.000Z</updated>
+        <summary type="html"><![CDATA[The Health and Social Care Secretary spoke at the NHS Providers annual conference 2024, in Salford.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICBs must focus on 'building up' primary care services, says Streeting]]></title>
+        <id>https://www.gponline.com/article/1895885</id>
+        <link href="https://www.gponline.com/icbs-focus-building-up-primary-care-services-says-streeting/article/1895885"/>
+        <updated>2024-11-13T12:39:18.000Z</updated>
+        <summary type="html"><![CDATA[ICBs will be stripped of their role performance managing hospitals so they can focus on 'building up community and primary care services' to develop a neighbourhood NHS, the health and social care secretary has said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Ping and book’ cancer screening service to launch via NHS App]]></title>
         <id>https://www.digitalhealth.net/?p=211191</id>

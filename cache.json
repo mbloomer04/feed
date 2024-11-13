@@ -1290,6 +1290,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1895885",
+          "author": null,
+          "description": "ICBs will be stripped of their role performance managing hospitals so they can focus on 'building up community and primary care services' to develop a neighbourhood NHS, the health and social care secretary has said.",
+          "link": "https://www.gponline.com/icbs-focus-building-up-primary-care-services-says-streeting/article/1895885",
+          "publishedOn": "2024-11-13T12:39:18.000Z",
+          "wordCount": 906,
+          "title": "ICBs must focus on 'building up' primary care services, says Streeting",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2173543350.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1895855",
           "author": null,
           "description": "The government should create clear targets to define the proportion of eligible people who should receive an NHS health check each year - and consider adding the checks to the QOF, a National Audit Office (NAO) report says.",
@@ -2166,6 +2176,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/our-ambition-to-reform-the-nhs",
+          "author": null,
+          "description": "The Health and Social Care Secretary spoke at the NHS Providers annual conference 2024, in Salford.",
+          "link": "https://www.gov.uk/government/speeches/our-ambition-to-reform-the-nhs",
+          "publishedOn": "2024-11-13T12:45:08.000Z",
+          "wordCount": 7679,
+          "title": "Speech: Our ambition to reform the NHS",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/6688152fd9d35187868f454f/wes-streeting.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/zero-tolerance-for-failure-under-package-of-tough-nhs-reforms",
           "author": null,
