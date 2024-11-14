@@ -1988,16 +1988,6 @@
           "wordCount": 727,
           "title": "One in three GPs say their premises and computers are not fit for purpose",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_11.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1892382",
-          "author": null,
-          "description": "GP practices in Northern Ireland are in a stand-off with health authorities after refusing to accept a short-notice demand to take on thousands of patients dispersed from a nearby practice that is closing down.",
-          "link": "https://www.gponline.com/practice-closure-triggers-stand-off-gps-refuse-accept-list-dispersal/article/1892382",
-          "publishedOn": "2024-10-16T08:25:30.000Z",
-          "wordCount": 903,
-          "title": "Practice closure triggers stand-off as GPs refuse to accept list dispersal",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-sinseeho_RF_6.jpg"
         }
       ]
     },
@@ -3450,6 +3440,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:1524ec09-78e0-4e3f-a6d3-957cb3ade35e",
+          "author": null,
+          "description": "Worldwide, there were an estimated 10.3 million cases of measles in 2023, a 20% increase from 2022, according to new estimates from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC). Inadequate immunization coverage globally is driving the surge in cases.\nMeasles is preventable with two doses of measles vaccine; yet more than 22 million children missed their first dose of measles vaccine in 2023. Globally, an estimated 83% of children received their first dose of measles vaccine last year, while only 74% received the recommended second dose.\nCoverage of 95% or greater of two doses of measles vaccine is needed in each country and community to prevent outbreaks and protect populations from one of the world’s most contagious human viruses.\n“Meas…",
+          "link": "https://www.who.int/news/item/14-11-2024-measles-cases-surge-worldwide--infecting-10.3-million-people-in-2023",
+          "publishedOn": "2024-11-14T10:48:03.000Z",
+          "wordCount": 2928,
+          "title": "Measles cases surge worldwide, infecting 10.3 million people in 2023",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/measles/measleskyrgyzstan.tmb-1200v.jpg?sfvrsn=1bef44df_5"
+        },
         {
           "id": "urn:uuid:45dc6705-0720-4590-86fa-562aacc20ef2",
           "author": null,

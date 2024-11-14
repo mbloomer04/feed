@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-14T20:12:36.709Z</updated>
+    <updated>2024-11-14T21:10:40.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -170,6 +170,19 @@ The post Pharmacy owners vote in favour of taking collective action appeared fir
         <summary type="html"><![CDATA[Northern Health and Social Care Trust in Northern Ireland has gone live with Clinisys Winpath, the laboratory information management system.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measles cases surge worldwide, infecting 10.3 million people in 2023]]></title>
+        <id>urn:uuid:1524ec09-78e0-4e3f-a6d3-957cb3ade35e</id>
+        <link href="https://www.who.int/news/item/14-11-2024-measles-cases-surge-worldwide--infecting-10.3-million-people-in-2023"/>
+        <updated>2024-11-14T10:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Worldwide, there were an estimated 10.3 million cases of measles in 2023, a 20% increase from 2022, according to new estimates from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC). Inadequate immunization coverage globally is driving the surge in cases.
+Measles is preventable with two doses of measles vaccine; yet more than 22 million children missed their first dose of measles vaccine in 2023. Globally, an estimated 83% of children received their first dose of measles vaccine last year, while only 74% received the recommended second dose.
+Coverage of 95% or greater of two doses of measles vaccine is needed in each country and community to prevent outbreaks and protect populations from one of the world’s most contagious human viruses.
+“Meas…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4410,16 +4423,6 @@ The post GP federation refuses to take on 2,300 patients from closing neighbouri
         <summary type="html"><![CDATA[The UK has announced a package of measures to tackle the outbreaks of mpox and Marburg in central Africa]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practice closure triggers stand-off as GPs refuse to accept list dispersal]]></title>
-        <id>https://www.gponline.com/article/1892382</id>
-        <link href="https://www.gponline.com/practice-closure-triggers-stand-off-gps-refuse-accept-list-dispersal/article/1892382"/>
-        <updated>2024-10-16T08:25:30.000Z</updated>
-        <summary type="html"><![CDATA[GP practices in Northern Ireland are in a stand-off with health authorities after refusing to accept a short-notice demand to take on thousands of patients dispersed from a nearby practice that is closing down.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
