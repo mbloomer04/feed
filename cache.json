@@ -2148,16 +2148,6 @@
           "wordCount": 1573,
           "title": "Renewed call for millions to take up NHS breast screening invites",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=254595",
-          "author": "kbradshaw",
-          "description": "NHS staff will be able to anonymously report incidents of sexual misconduct, as part of major plans to improve safety for staff across the health service. In the first ever policy of its kind in the NHS, chief executive Amanda Pritchard has said she hopes that any member of staff who experiences sexual abuse will […]",
-          "link": "https://www.england.nhs.uk/2024/10/anonymous-reporting-for-nhs-staff-to-report-sexual-misconduct-at-work/",
-          "publishedOn": "2024-10-15T23:01:56.000Z",
-          "wordCount": 2221,
-          "title": "Anonymous reporting for NHS staff to report sexual misconduct at work",
-          "imageUrl": ""
         }
       ]
     },
@@ -2825,16 +2815,6 @@
           "wordCount": 2879,
           "title": "Press release: Major crackdown on NHS waste",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/design-for-life-roadmap",
-          "author": null,
-          "description": "The government’s plan to build a circular economy for medical technology to increase resilience, drive growth, realise cost savings and improve sustainability.",
-          "link": "https://www.gov.uk/government/publications/design-for-life-roadmap",
-          "publishedOn": "2024-10-15T23:01:00.000Z",
-          "wordCount": 1115,
-          "title": "Policy paper: Design for Life roadmap",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3597,6 +3577,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=211133",
+          "author": "Jordan Sollof",
+          "description": "Northern Health and Social Care Trust in Northern Ireland has gone live with Clinisys Winpath, the laboratory information management system.",
+          "link": "https://www.digitalhealth.net/2024/11/northern-hsc-trust-goes-live-with-clinisys-winpath/",
+          "publishedOn": "2024-11-14T11:00:24.000Z",
+          "wordCount": 4360,
+          "title": "Northern HSC Trust goes live with Clinisys Winpath",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/CoreLIMS-go-live-Phase-3-Northern-Ireland.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211261",
           "author": "Tammy Lovell",
