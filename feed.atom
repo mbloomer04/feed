@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-15T13:20:31.461Z</updated>
+    <updated>2024-11-15T14:11:17.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drones deliver urgent blood samples for Guy’s and St Thomas’]]></title>
+        <id>https://www.digitalhealth.net/?p=211231</id>
+        <link href="https://www.digitalhealth.net/2024/11/drones-deliver-urgent-blood-samples-for-guys-and-st-thomas/"/>
+        <updated>2024-11-15T13:30:18.000Z</updated>
+        <summary type="html"><![CDATA[The first drones have successfully delivered patient blood samples as part of a six-month trial at Guy’s and St Thomas’ NHS Foundation Trust.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Independent investigation of the NHS in England]]></title>
+        <id>https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england</id>
+        <link href="https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england"/>
+        <updated>2024-11-15T13:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Lord Darzi's report on the state of the National Health Service in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs put pressure on ICB with joint approach to collective action]]></title>
         <id>https://www.pulsetoday.co.uk/?p=155628</id>

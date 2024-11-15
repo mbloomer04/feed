@@ -2227,6 +2227,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england",
+          "author": null,
+          "description": "Lord Darzi's report on the state of the National Health Service in England.",
+          "link": "https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england",
+          "publishedOn": "2024-11-15T13:18:51.000Z",
+          "wordCount": 1285,
+          "title": "Independent report: Independent investigation of the NHS in England",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
           "author": null,
           "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
@@ -3627,6 +3637,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=211231",
+          "author": "Jordan Sollof",
+          "description": "The first drones have successfully delivered patient blood samples as part of a six-month trial at Guy’s and St Thomas’ NHS Foundation Trust.",
+          "link": "https://www.digitalhealth.net/2024/11/drones-deliver-urgent-blood-samples-for-guys-and-st-thomas/",
+          "publishedOn": "2024-11-15T13:30:18.000Z",
+          "wordCount": 7045,
+          "title": "Drones deliver urgent blood samples for Guy’s and St Thomas’",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/Medical-drone-Guys-and-St-Thomas.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211211",
           "author": "Jordan Sollof",
