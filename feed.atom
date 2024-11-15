@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-15T08:15:04.654Z</updated>
+    <updated>2024-11-15T09:12:26.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=211361</id>
+        <link href="https://www.digitalhealth.net/2024/11/digital-healths-monthly-roundup-of-contracts-and-go-lives-46/"/>
+        <updated>2024-11-15T08:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Our latest round-up includes Cheshire and Merseyside's £11.5 million LIMS contract and PAHT's Oracle Health EHR go-live.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS launches search for 150,000 volunteers to help transform cancer treatment]]></title>
         <id>https://www.england.nhs.uk/?p=256246</id>
