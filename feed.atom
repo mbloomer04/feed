@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-15T09:12:26.477Z</updated>
+    <updated>2024-11-15T10:12:14.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Our latest round-up includes Cheshire and Merseyside's £11.5 million LIMS contract and PAHT's Oracle Health EHR go-live.]]></summary>
         <author>
             <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Fallout from the budget, how the job shortage has hit GP pay]]></title>
+        <id>https://www.gponline.com/article/1896120</id>
+        <link href="https://www.gponline.com/podcast-fallout-budget-job-shortage-hit-gp-pay/article/1896120"/>
+        <updated>2024-11-15T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses how the increase in employer national insurance contributions will affect GP practices, salaried GP pay and some good news about patient satisfaction with general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
