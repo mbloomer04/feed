@@ -2050,6 +2050,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=256246",
+          "author": "rwootton",
+          "description": "The NHS is launching a search for nearly 150,000 volunteers to take part in a series of research trials that could transform cancer treatment. Three cancer projects have been selected as part of the NHS DigiTrials initiative, which aims to sign up tens of thousands of volunteers over the next 2 years to help improve […]",
+          "link": "https://www.england.nhs.uk/2024/11/nhs-launches-search-for-150000-volunteers-to-help-transform-cancer-treatment/",
+          "publishedOn": "2024-11-15T00:01:01.000Z",
+          "wordCount": 1809,
+          "title": "NHS launches search for 150,000 volunteers to help transform cancer treatment",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=256236",
           "author": "rwootton",
           "description": "Staff working in A&E and ambulance services experienced more pressure than any October on record, new figures show today, as the NHS heads into winter busier than ever before. Despite the continued pressure on hospitals, the overall waiting list fell for the first time since February. It reduced by around 70,000 in September from 7.64 […]",
@@ -2845,16 +2855,6 @@
           "wordCount": 4946,
           "title": "Press release: Virtual reality and wearable technology pilot to cut drug deaths",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/assisted-dying-bill-debate-advice-to-doctors",
-          "author": null,
-          "description": "The UK chief medical officers and NHS England National Medical Director have given advice to help doctors wanting to take part in the assisted dying debate.",
-          "link": "https://www.gov.uk/government/publications/assisted-dying-bill-debate-advice-to-doctors",
-          "publishedOn": "2024-10-16T13:41:27.000Z",
-          "wordCount": 897,
-          "title": "Correspondence: Assisted dying bill debate: advice to doctors",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
