@@ -2097,6 +2097,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/middlesbrough-kicks-off-national-roadshow-of-nhs-debates",
+          "author": null,
+          "description": "The national conversation about the NHS's future took to the road, as Middlesbrough hosted the first of a series of public debates about fixing the NHS.",
+          "link": "https://www.gov.uk/government/news/middlesbrough-kicks-off-national-roadshow-of-nhs-debates",
+          "publishedOn": "2024-11-16T19:27:50.000Z",
+          "wordCount": 2975,
+          "title": "Press release: Middlesbrough kicks off national roadshow of NHS debates",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england",
           "author": null,
           "description": "Lord Darzi's report on the state of the National Health Service in England.",
@@ -4196,16 +4206,6 @@
           "wordCount": 4423,
           "title": "Government funds research into VR and AI to tackle drug deaths",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/VR-project-Kings-College-London.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=208871",
-          "author": "Jordan Sollof",
-          "description": "This roundup includes Isle of Wight NHS Trust launching a digital consent platform from former Rewired Pitchfest finalist Concentric Health.",
-          "link": "https://www.digitalhealth.net/2024/10/digital-healths-monthly-roundup-of-contracts-and-go-lives-45/",
-          "publishedOn": "2024-10-18T07:30:19.000Z",
-          "wordCount": 4406,
-          "title": "Digital Health’s monthly roundup of contracts and go lives",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/Contract-Sign.jpg"
         }
       ]
     }
