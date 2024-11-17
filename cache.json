@@ -1900,6 +1900,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=256392",
+          "author": "Tom W",
+          "description": "The number of people being admitted to hospital following a stroke has risen by 28% in the last 20 years, new NHS analysis has found. NHS England data shows an increase to 111,137 stroke admissions in England in 2023/24 – from 87,069 in 2004/05 – driven in part by an ageing population and the impacts […]",
+          "link": "https://www.england.nhs.uk/2024/11/hospital-admissions-for-strokes-rise-by-28-since-2004-as-nhs-urges-the-public-to-act-fast/",
+          "publishedOn": "2024-11-17T09:54:45.000Z",
+          "wordCount": 2244,
+          "title": "Hospital admissions for strokes rise by 28% since 2004 – as NHS urges the public to ‘Act FAST’",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=256246",
           "author": "rwootton",
           "description": "The NHS is launching a search for nearly 150,000 volunteers to take part in a series of research trials that could transform cancer treatment. Three cancer projects have been selected as part of the NHS DigiTrials initiative, which aims to sign up tens of thousands of volunteers over the next 2 years to help improve […]",
@@ -3090,6 +3100,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:8a931ceb-3fe5-4c05-9c52-f6a5a87ff71c",
+          "author": null,
+          "description": "As world leaders arrive in Rio de Janeiro, Brazil, for the G20 Summit this weekend, the city’s iconic Christ the Redeemer statue will be illuminated in the colour teal. The Brazilian advocates behind this effort are among many around the globe joining the World Health Organization (WHO) to mobilize efforts on a worldwide “Day of Action for Cervical Cancer Elimination.” Other countries are marking the day with campaigns to provide human papillomavirus (HPV) vaccination and screening, launching new health policies to align with the world’s first-ever effort to eliminate a cancer, and raising awareness in communities. \nFour years ago to the day, 194 countries resolved to eliminate cervical cancer and WHO launched a global strategy. Since then, significant progress has been made. At least 144 …",
+          "link": "https://www.who.int/news/item/17-11-2024-who-and-partners-rally-cervical-cancer-elimination-efforts",
+          "publishedOn": "2024-11-16T16:35:08.000Z",
+          "wordCount": 2491,
+          "title": "WHO and partners rally cervical cancer elimination efforts",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cervical-cancer/cervical-cancer-screening-in-sierra-leone.tmb-1200v.jpg?sfvrsn=3a9f1cc3_1"
+        },
         {
           "id": "urn:uuid:1524ec09-78e0-4e3f-a6d3-957cb3ade35e",
           "author": null,

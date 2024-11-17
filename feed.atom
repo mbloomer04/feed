@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-17T10:11:12.123Z</updated>
+    <updated>2024-11-17T11:08:36.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hospital admissions for strokes rise by 28% since 2004 – as NHS urges the public to ‘Act FAST’]]></title>
+        <id>https://www.england.nhs.uk/?p=256392</id>
+        <link href="https://www.england.nhs.uk/2024/11/hospital-admissions-for-strokes-rise-by-28-since-2004-as-nhs-urges-the-public-to-act-fast/"/>
+        <updated>2024-11-17T09:54:45.000Z</updated>
+        <summary type="html"><![CDATA[The number of people being admitted to hospital following a stroke has risen by 28% in the last 20 years, new NHS analysis has found. NHS England data shows an increase to 111,137 stroke admissions in England in 2023/24 – from 87,069 in 2004/05 – driven in part by an ageing population and the impacts […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Middlesbrough kicks off national roadshow of NHS debates]]></title>
         <id>https://www.gov.uk/government/news/middlesbrough-kicks-off-national-roadshow-of-nhs-debates</id>
@@ -14,6 +24,17 @@
         <summary type="html"><![CDATA[The national conversation about the NHS's future took to the road, as Middlesbrough hosted the first of a series of public debates about fixing the NHS.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO and partners rally cervical cancer elimination efforts]]></title>
+        <id>urn:uuid:8a931ceb-3fe5-4c05-9c52-f6a5a87ff71c</id>
+        <link href="https://www.who.int/news/item/17-11-2024-who-and-partners-rally-cervical-cancer-elimination-efforts"/>
+        <updated>2024-11-16T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[As world leaders arrive in Rio de Janeiro, Brazil, for the G20 Summit this weekend, the city’s iconic Christ the Redeemer statue will be illuminated in the colour teal. The Brazilian advocates behind this effort are among many around the globe joining the World Health Organization (WHO) to mobilize efforts on a worldwide “Day of Action for Cervical Cancer Elimination.” Other countries are marking the day with campaigns to provide human papillomavirus (HPV) vaccination and screening, launching new health policies to align with the world’s first-ever effort to eliminate a cancer, and raising awareness in communities. 
+Four years ago to the day, 194 countries resolved to eliminate cervical cancer and WHO launched a global strategy. Since then, significant progress has been made. At least 144 …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
