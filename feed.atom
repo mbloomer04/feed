@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-18T08:16:33.349Z</updated>
+    <updated>2024-11-18T09:13:56.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHSE announces digital eye screening plans for diabetes patients]]></title>
+        <id>https://www.digitalhealth.net/?p=211425</id>
+        <link href="https://www.digitalhealth.net/2024/11/nhse-announces-digital-eye-screening-plans-for-diabetes-patients/"/>
+        <updated>2024-11-18T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has announced plans to provide digital eye scans in the community for diabetes patients, helping to prevent sight loss.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital eye screening for people with diabetes could save hundreds of thousands of hospital appointments]]></title>
         <id>https://www.england.nhs.uk/?p=256383</id>
