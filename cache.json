@@ -93,6 +93,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=155100",
+          "author": "Caroline Price",
+          "description": "Continuing our monthly series, Dr Hannah Rosa asked readers to suggest what was causing abdominal pain in this young man. Did you get the answer? All is revealed below. Your next patient during your morning surgery is a 29-year-old male patient, who is booked in to see you with a 2-week history of abdominal pain.\nThe post Case of the month answers – what was the cause of this young worker’s abdominal pain? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/gastroenterology-obesity/case-of-the-month-answers-what-was-the-cause-of-this-young-workers-abdominal-pain/",
+          "publishedOn": "2024-11-20T09:59:33.000Z",
+          "wordCount": 2433,
+          "title": "Case of the month answers – what was the cause of this young worker’s abdominal pain?",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/Case-of-the-Month-abdominal-pain-answer.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=155279",
           "author": "Sofia Lind",
           "description": "More than 5,000 people in England have now been diagnosed with cancer through the NHS Targeted Lung Health Check programme, officials have said. Since roll out of mobile CT scanning units in 2019, 5,037 lung cancers have been detected, NHS data shows with 76% detected at stage 1 and 2, NHS England said. People diagnosed\nThe post Thousands of cancers caught early through lung screening, NHS England says appeared first on Pulse Today.",
@@ -1270,6 +1280,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1896784",
+          "author": null,
+          "description": "The national shingles vaccination programme should be expanded to include patients aged 80 and over and all severely immunosuppressed adults aged 18 and over, new Joint Committee on Vaccination and Immunisation (JCVI) guidance recommends.",
+          "link": "https://www.gponline.com/shingles-programme-expand-over-80s-says-jcvi/article/1896784",
+          "publishedOn": "2024-11-20T08:00:00.000Z",
+          "wordCount": 704,
+          "title": "Shingles programme should expand to over-80s, says JCVI",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1896717",
           "author": null,
           "description": "The government has commissioned an independent review into physician associate (PA) and anaesthesia associate (AA) roles in the NHS amid widespread safety concerns - sparking calls from the BMA for immediate steps to protect patients.",
@@ -2106,6 +2126,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/independent-review-of-physician-and-anaesthesia-associates-terms-of-reference",
+          "author": null,
+          "description": "Terms of reference for the independent review of the physician associate and anaesthesia associate professions, led by Professor Gillian Leng CBE",
+          "link": "https://www.gov.uk/government/publications/independent-review-of-physician-and-anaesthesia-associates-terms-of-reference",
+          "publishedOn": "2024-11-20T09:57:02.000Z",
+          "wordCount": 941,
+          "title": "Guidance: Independent review of physician and anaesthesia associates: terms of reference",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-pay-review-body-thirty-seventh-report-2024",
+          "author": null,
+          "description": "Recommendations from the NHS Pay Review Body on the pay of NHS staff paid on Agenda for Change terms and conditions in England, Wales and Northern Ireland.",
+          "link": "https://www.gov.uk/government/publications/nhs-pay-review-body-thirty-seventh-report-2024",
+          "publishedOn": "2024-11-20T09:50:55.000Z",
+          "wordCount": 1048,
+          "title": "Independent report: NHS Pay Review Body Thirty-Seventh Report: 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/assisted-dying-bill-debate-advice-to-pharmacy-professionals",
+          "author": null,
+          "description": "The UK chief pharmaceutical officers have given advice to help pharmacists and pharmacy technicians wanting to take part in the assisted dying debate.",
+          "link": "https://www.gov.uk/government/publications/assisted-dying-bill-debate-advice-to-pharmacy-professionals",
+          "publishedOn": "2024-11-20T09:31:44.000Z",
+          "wordCount": 869,
+          "title": "Correspondence: Assisted dying bill debate: advice to pharmacy professionals",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-review-of-physician-and-anaesthesia-associates-launched",
           "author": null,
