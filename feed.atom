@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-21T09:12:51.069Z</updated>
+    <updated>2024-11-21T10:13:00.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Evidence on costs associated with NHS-funded nursing care in 2023]]></title>
+        <id>https://www.gov.uk/government/publications/evidence-on-costs-associated-with-nhs-funded-nursing-care-in-2023</id>
+        <link href="https://www.gov.uk/government/publications/evidence-on-costs-associated-with-nhs-funded-nursing-care-in-2023"/>
+        <updated>2024-11-21T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[A breakdown of the costs to care homes of providing NHS-funded nursing care in April and October 2023.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneAdvanced discontinues Carenotes EPR system]]></title>
         <id>https://www.digitalhealth.net/?p=211759</id>
