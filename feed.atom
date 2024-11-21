@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-20T23:11:13.664Z</updated>
+    <updated>2024-11-21T00:55:19.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Government acts to eradicate modern slavery from NHS]]></title>
+        <id>https://www.gov.uk/government/news/government-acts-to-eradicate-modern-slavery-from-nhs</id>
+        <link href="https://www.gov.uk/government/news/government-acts-to-eradicate-modern-slavery-from-nhs"/>
+        <updated>2024-11-21T00:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Proposed new measures would legally require public bodies procuring goods and services for the NHS to both identify and mitigate risks of modern slavery]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP appointed shadow health minister presses Streeting on Budget impact]]></title>
         <id>https://www.pulsetoday.co.uk/?p=155795</id>
@@ -4263,16 +4273,6 @@ The post How our GP practice became a topic at the UN General Assembly appeared 
         <summary type="html"><![CDATA[Appointment letter from DHSC confirming appointment of the senior responsible owner (SRO) of the Digitising Social Care Programme.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICE recommends use of AI to detect broken bones on X-rays]]></title>
-        <id>https://www.digitalhealth.net/?p=209433</id>
-        <link href="https://www.digitalhealth.net/2024/10/nice-recommends-use-of-ai-to-detect-broken-bones-on-x-rays/"/>
-        <updated>2024-10-22T12:30:22.000Z</updated>
-        <summary type="html"><![CDATA[NICE has recommended the use of four AI technologies to help detect broken bones on X-rays, in addition to a trained healthcare professional.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
