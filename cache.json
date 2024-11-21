@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1897018",
+          "author": null,
+          "description": "Debate over physician associate (PA) roles in general practice has intensified this year, with legal battles, calls for strict supervision and limits on their work and the launch of a major government review. In recent months, PA numbers have dropped for the first time - so are they starting to be phased out?",
+          "link": "https://www.gponline.com/general-practice-already-starting-phase-physician-associates/article/1897018",
+          "publishedOn": "2024-11-21T08:00:00.000Z",
+          "wordCount": 750,
+          "title": "Is general practice already starting to phase out physician associates?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_60.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1896784",
           "author": null,
           "description": "The national shingles vaccination programme should be expanded to include patients aged 80 and over and all severely immunosuppressed adults aged 18 and over, new Joint Committee on Vaccination and Immunisation (JCVI) guidance recommends.",
@@ -3527,6 +3537,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=211759",
+          "author": "Tammy Lovell",
+          "description": "Software supplier OneAdvanced has confirmed that it has withdrawn its Carenotes electronic patient record (EPR) from the products it offers.",
+          "link": "https://www.digitalhealth.net/2024/11/oneadvanced-discontinues-carenotes-epr-system/",
+          "publishedOn": "2024-11-21T08:30:15.000Z",
+          "wordCount": 6757,
+          "title": "OneAdvanced discontinues Carenotes EPR system",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/slam-hospital-shutterstock.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211415",
           "author": "Tammy Lovell",

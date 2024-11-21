@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-21T08:15:26.624Z</updated>
+    <updated>2024-11-21T09:12:51.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OneAdvanced discontinues Carenotes EPR system]]></title>
+        <id>https://www.digitalhealth.net/?p=211759</id>
+        <link href="https://www.digitalhealth.net/2024/11/oneadvanced-discontinues-carenotes-epr-system/"/>
+        <updated>2024-11-21T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Software supplier OneAdvanced has confirmed that it has withdrawn its Carenotes electronic patient record (EPR) from the products it offers.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is general practice already starting to phase out physician associates?]]></title>
+        <id>https://www.gponline.com/article/1897018</id>
+        <link href="https://www.gponline.com/general-practice-already-starting-phase-physician-associates/article/1897018"/>
+        <updated>2024-11-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debate over physician associate (PA) roles in general practice has intensified this year, with legal battles, calls for strict supervision and limits on their work and the launch of a major government review. In recent months, PA numbers have dropped for the first time - so are they starting to be phased out?]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Government acts to eradicate modern slavery from NHS]]></title>
         <id>https://www.gov.uk/government/news/government-acts-to-eradicate-modern-slavery-from-nhs</id>
