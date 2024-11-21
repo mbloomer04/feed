@@ -2107,6 +2107,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/health-and-social-care-statistical-outputs",
+          "author": null,
+          "description": "We are seeking views on health and social care statistical outputs published by DHSC (including OHID), NHSBSA, UKHSA, ONS and NHS England.",
+          "link": "https://www.gov.uk/government/consultations/health-and-social-care-statistical-outputs",
+          "publishedOn": "2024-11-21T10:30:02.000Z",
+          "wordCount": 1345,
+          "title": "Consultation outcome: Health and social care statistical outputs",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/evidence-on-costs-associated-with-nhs-funded-nursing-care-in-2023",
           "author": null,
           "description": "A breakdown of the costs to care homes of providing NHS-funded nursing care in April and October 2023.",
@@ -3547,6 +3557,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=211659",
+          "author": "Jordan Sollof",
+          "description": "AI that helps detect diseases such as lung cancer quicker is being rolled out at seven trusts within the Greater Manchester Imaging Network.",
+          "link": "https://www.digitalhealth.net/2024/11/ai-to-help-detect-lung-cancer-faster-deployed-in-greater-manchester/",
+          "publishedOn": "2024-11-21T11:00:33.000Z",
+          "wordCount": 4443,
+          "title": "AI to help detect lung cancer faster deployed in Greater Manchester",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/AI-lung-cancer-X-ray.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211759",
           "author": "Tammy Lovell",
