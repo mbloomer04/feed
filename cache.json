@@ -2895,16 +2895,6 @@
           "wordCount": 847,
           "title": "Correspondence: UKHSA priorities in 2024 to 2025",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes",
-          "author": null,
-          "description": "Ban on sale and supply of single-use vapes in England to come into force on 1 June 2025",
-          "link": "https://www.gov.uk/government/news/government-crackdown-on-single-use-vapes",
-          "publishedOn": "2024-10-24T08:05:01.000Z",
-          "wordCount": 2597,
-          "title": "Press release: Government crackdown on single-use vapes",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/671905d5dd93e6b1fa07bed9/s960_Disposable_vapes_in_nature.jpg"
         }
       ]
     },
@@ -2913,6 +2903,36 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/unlocking-productivity-through-the-ambulance-estate.html",
+          "author": null,
+          "description": "NHS Confederation - This briefing sets out the current condition of ambulance trusts’ estates in England and discovers a growing maintenance backlog which has reached over £146 million. It explains the role that improved support and control facilities can play in increasing the ambulance service’s productivity and highlights some key areas of best practice already apparent in England and Wales....",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/unlocking-productivity-through-the-ambulance-estate.html",
+          "publishedOn": "2024-11-22T19:54:22.000Z",
+          "wordCount": null,
+          "title": "Unlocking productivity through the ambulance estate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/mental-health-inpatient-settings-out-of-area-placements.html",
+          "author": null,
+          "description": "Health Services Safety Investigations Body - This report finds that patients experience harm with the continued use of out of area placements for their mental health inpatient care. It explored what drives the need for out of area placements, and the impact on patients and families when they are placed far from their homes. Report Health Services Safety Investigations Body...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/mental-health-inpatient-settings-out-of-area-placements.html",
+          "publishedOn": "2024-11-22T19:38:03.000Z",
+          "wordCount": null,
+          "title": "Mental health inpatient settings: out of area placements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/health-and-social-care-statistical-outputs-consultation-outcome.html",
+          "author": null,
+          "description": "Department of Health and Social Care - The Department of Health and Social Care, NHS Business Services Authority, UK Health Security Agency, Office for National Statistics and NHS England are making changes to statistical products to with the aim of creating an improved, more coherent and efficient health and social care statistical landscape. This response sets out the changes, including:...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/health-and-social-care-statistical-outputs-consultation-outcome.html",
+          "publishedOn": "2024-11-22T19:22:24.000Z",
+          "wordCount": null,
+          "title": "Health and social care statistical outputs: consultation outcome",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/11/tackling-modern-slavery-in-nhs-procurement-proposed-regulations-and-guidance.html",
           "author": null,
@@ -4426,16 +4446,6 @@
           "wordCount": 4195,
           "title": "New data laws will allow patient data to be shared across the NHS",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/09/shutterstock_2285254059-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=209637",
-          "author": "Jordan Sollof",
-          "description": "The BadgerNet maternity electronic health record system from System C has been rolled out across NHS Humber and North Yorkshire ICB.",
-          "link": "https://www.digitalhealth.net/2024/10/badgernet-maternity-rolled-out-across-humber-and-north-yorkshire/",
-          "publishedOn": "2024-10-24T07:30:32.000Z",
-          "wordCount": 4169,
-          "title": "Maternity EHR rolled out across Humber and North Yorkshire ICB",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/System-C-ipad-maternity.png"
         }
       ]
     }
