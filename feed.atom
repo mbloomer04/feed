@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-23T14:09:36.925Z</updated>
+    <updated>2024-11-23T15:10:25.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[NHS teams are delivering more than 300 vaccinations a minute for COVID, flu and RSV in a huge effort to help avoid a ‘tripledemic’ this winter. New analysis of the latest vaccination data (from 30 September to 17 November) shows 335 vaccinations were given for COVID, flu and Respiratory Syncytial Virus (RSV) per minute on average, with […]]]></summary>
         <author>
             <name>nowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Press release: 1 million visits to Change.NHS.UK as roadshow hits Leicestershire]]></title>
+        <id>https://www.gov.uk/government/news/1-million-visits-to-changenhsuk-as-roadshow-hits-leicestershire</id>
+        <link href="https://www.gov.uk/government/news/1-million-visits-to-changenhsuk-as-roadshow-hits-leicestershire"/>
+        <updated>2024-11-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The biggest ever conversation about the future of the NHS came to the Midlands today.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
