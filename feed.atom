@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-25T00:57:17.335Z</updated>
+    <updated>2024-11-25T02:23:20.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS calls on public to use NHS 111 this winter]]></title>
+        <id>https://www.england.nhs.uk/?p=256855</id>
+        <link href="https://www.england.nhs.uk/2024/11/nhs-calls-on-public-to-use-nhs-111-this-winter/"/>
+        <updated>2024-11-25T00:01:26.000Z</updated>
+        <summary type="html"><![CDATA[The NHS’s top A&E doctor is urging the public to use 111 services this winter, as the health service launches its annual campaign with adverts across online video, radio, podcasts and social media. The campaign comes as the NHS ramps up its plans to deliver the safest possible care this winter, including the delivery of […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Lords to consider landmark reforms to mental health care]]></title>
         <id>https://www.gov.uk/government/news/lords-to-consider-landmark-reforms-to-mental-health-care</id>
