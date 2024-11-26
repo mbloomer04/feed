@@ -3401,6 +3401,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:6316daa9-0f54-4f17-90ea-312fb65bffed",
+          "author": null,
+          "description": "Delegations from over 110 countries are coming together to produce national roadmaps and negotiate a joint declaration on oral health at the first-ever global oral health meeting organized by the World Health Organization (WHO). The declaration is expected to outline collective commitments from Member States to accelerate the implementation of the Global strategy and action plan on oral health 2023–2030.\nOral diseases are the most common noncommunicable diseases (NCDs) worldwide, affecting an estimated 3.5 billion people. Oral health is often misunderstood as just dental health, overlooking its broader importance. Oral diseases include dental caries or cavities, gum disease, tooth loss, oral cancer, noma and birth defects, affecting the mouth, teeth and facial structures that are essential…",
+          "link": "https://www.who.int/news/item/25-11-2024-the-first-ever-global-oral-health-conference-highlights-universal-health-coverage-by-2030",
+          "publishedOn": "2024-11-25T23:02:12.000Z",
+          "wordCount": 2374,
+          "title": "The first-ever global oral health conference highlights universal health coverage by 2030",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/oral-health/tajikistan-oral-health.tmb-1200v.jpg?sfvrsn=3c5ca595_1"
+        },
+        {
           "id": "urn:uuid:3e98aafd-6bc7-4022-ba0d-195eb7091b17",
           "author": null,
           "description": "Since 7 October 2023, 47% of attacks on health care – 65 out of 137 – have proven fatal to at least one health worker or patient in Lebanon, as of 21 November 2024.\n\nThis is a higher percentage than in any active conflict today across the globe – with nearly half of all attacks on health causing the death of a health worker.\n\nIn comparison, the global average is 13.3%, based on the SSA’s figures from 13 countries or territories that reported attacks in the same period, 7 October 2023 – 18 November 2024 - among them Ukraine, Sudan and the occupied Palestinian territory (oPt). In the case of oPt, 9.6% of the total number of incidents has resulted in the death of at least one medical professional or patient.\n\nAccording to SSA, 226 health workers and patients were killed in Lebanon and 199 inj…",
@@ -3607,6 +3617,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212029",
+          "author": "Jordan Sollof",
+          "description": "Airedale NHS Foundation Trust has postponed the go-live of its Oracle Health electronic patient record (EPR) system for a second time.",
+          "link": "https://www.digitalhealth.net/2024/11/airedale-nhs-ft-postpones-oracle-epr-go-live-indefinitely/",
+          "publishedOn": "2024-11-26T08:30:04.000Z",
+          "wordCount": 6659,
+          "title": "Airedale NHS FT postpones Oracle EPR go-live indefinitely",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/Doctor-checking-watch.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211925",
           "author": "Jordan Sollof",
