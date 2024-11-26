@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-26T20:13:20.285Z</updated>
+    <updated>2024-11-26T21:10:51.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -189,6 +189,18 @@ The post GP concern as mandatory registration forms fail to capture transgender 
         <summary type="html"><![CDATA[The scale of medicines shortages in the UK is putting unprecedented pressure on frontline healthcare professionals including GPs, according to a report that calls for a new national strategy to manage the problem.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Pathogen Surveillance Network announces first recipients of grants to better understand disease threats]]></title>
+        <id>urn:uuid:83895de0-0a0f-490f-aa51-747403e730a5</id>
+        <link href="https://www.who.int/news/item/26-11-2024-international-pathogen-surveillance-network-announces-first-recipients-of-grants-to-better-understand-disease-threats"/>
+        <updated>2024-11-26T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) and partners announced 10 projects that will receive almost US$ 2 million in grants to improve capacities in pathogen genomic surveillance. 
+
+The catalytic grant fund was established by the International Pathogen Surveillance Network (IPSN) to support partners from low- and middle-income countries to build their capacities in pathogen genomic analysis. This technology analyses the genetic code of viruses, bacteria and other disease-causing organisms to understand, in conjunction with other data, how easily they spread, and how sick they can make people. This data allows scientists and public health teams to track and respond to infectious disease threats, supports the development of vaccines and treatments and empowers countries to take faster decisions.…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4502,16 +4514,6 @@ The post Trusts rejecting GP referrals risk contract breach, LMCs warn appeared 
         <summary type="html"><![CDATA[Centre for Local Economic Strategies (CLES) - Produced by the CLES and The King’s Fund, and supported by the Health Foundation, this report sets out a bold vision for tackling health inequalities across England through devolution. The research explores the case for regional devolution as an effective approach towards narrowing health inequalities and sets out key considerations for the government...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partnership aims to accelerate NHS adoption of radiology AI]]></title>
-        <id>https://www.digitalhealth.net/?p=209719</id>
-        <link href="https://www.digitalhealth.net/2024/10/partnership-aims-to-accelerate-nhs-adoption-of-radiology-ai/"/>
-        <updated>2024-10-28T08:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Six NHS trusts will deploy deepc's AI radiology platform as part of a collaboration with the AI Centre for Value Based Healthcare.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
         </author>
     </entry>
     <entry>
