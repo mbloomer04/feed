@@ -2167,6 +2167,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/folic-acid-supplementation-advice-to-health-professionals",
+          "author": null,
+          "description": "The UK chief medical officers, chief nursing officers and chief midwifery officers have given advice on the importance of folic acid supplementation.",
+          "link": "https://www.gov.uk/government/publications/folic-acid-supplementation-advice-to-health-professionals",
+          "publishedOn": "2024-11-27T12:16:38.000Z",
+          "wordCount": 996,
+          "title": "Correspondence: Folic acid supplementation: advice to health professionals",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/landmark-genetics-partnership-to-probe-causes-of-cancer-and-dementia",
           "author": null,
           "description": "Oxford Nanopore’s breakthrough genetic sequencing tech to analyse 50,000 samples from UK Biobank, to create a world-first ‘epigenetic map’.",
@@ -2873,6 +2883,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/get-britain-working-white-paper-what-you-need-to-know.html",
+          "author": null,
+          "description": "NHS Confederation - To drive forward approaches to tackling economic inactivity and work towards the long-term ambition of an 80 per cent employment rate, the government has published a Get Britain Working white paper, backed by £240 million of investment. The investment includes funding to tackle ill health as the biggest driver of inactivity. As part of this, the government...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/get-britain-working-white-paper-what-you-need-to-know.html",
+          "publishedOn": "2024-11-27T12:21:06.000Z",
+          "wordCount": null,
+          "title": "Get Britain Working white paper: what you need to know",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/11/medicines-shortages-solutions-for-empty-shelves-.html",
           "author": null,
@@ -3727,6 +3747,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212155",
+          "author": "Jordan Sollof",
+          "description": "The latest episode of Unplugged explores how data and digital solutions are improving care pathways and advancing clinical research.",
+          "link": "https://www.digitalhealth.net/2024/11/digital-health-unplugged-what-value-do-data-and-digital-solutions-bring-to-improving-care-pathways-and-advancing-clinical-research/",
+          "publishedOn": "2024-11-27T11:00:51.000Z",
+          "wordCount": 5862,
+          "title": "Digital Health Unplugged: What value do data and digital solutions bring to improving care pathways and advancing clinical research?",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/Digital-Health-Podcast-Episode-92-Header.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=212231",
           "author": "Jordan Sollof",
