@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-28T13:22:24.876Z</updated>
+    <updated>2024-11-28T14:11:21.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHSE chief nurse Duncan Burton to deliver Rewired 2025 keynote]]></title>
+        <id>https://www.digitalhealth.net/?p=211121</id>
+        <link href="https://www.digitalhealth.net/2024/11/nhse-chief-nurse-duncan-burton-to-deliver-rewired-2025-keynote/"/>
+        <updated>2024-11-28T13:30:08.000Z</updated>
+        <summary type="html"><![CDATA[England’s most senior nurse, Duncan Burton, is the latest NHS keynote announced to join the Digital Health Rewired 2025 speaker line-up.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speech: Health Secretary opens first Men's Health Summit]]></title>
         <id>https://www.gov.uk/government/speeches/health-secretary-opens-first-mens-health-summit</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Grant determination for the Accelerating Reform Fund 2024 to 2025.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where in England are patients per GP rising fastest?]]></title>
+        <id>https://www.gponline.com/article/1897935</id>
+        <link href="https://www.gponline.com/england-patients-per-gp-rising-fastest/article/1897935"/>
+        <updated>2024-11-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The gap between England's most and least underdoctored areas is growing - with GPs in parts of the country now responsible for more than 1,000 extra patients each than their counterparts in other areas, data from GPonline's GP Insight project reveal.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
