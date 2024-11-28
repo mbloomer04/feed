@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-11-28T08:16:09.453Z</updated>
+    <updated>2024-11-28T09:12:57.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI tool could predict type 2 diabetes 10 years in advance]]></title>
+        <id>https://www.digitalhealth.net/?p=211619</id>
+        <link href="https://www.digitalhealth.net/2024/11/ai-tool-could-predict-type-2-diabetes-10-years-in-advance/"/>
+        <updated>2024-11-28T08:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Imperial College have developed an AI tool which could identify people at risk of type 2 diabetes 10 years in advance.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News story: Unpaid carers supported by £22.6 million investment in innovation]]></title>
         <id>https://www.gov.uk/government/news/unpaid-carers-supported-by-226-million-investment-in-innovation</id>
