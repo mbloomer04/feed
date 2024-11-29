@@ -90,8 +90,18 @@
     {
       "title": "Pulse Today",
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
-      "siteUrl": null,
+      "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=156238",
+          "author": "Anna Colivicchi",
+          "description": "Scottish GP leaders have voted in favour of balloting the profession on industrial action. At their annual conference in Clydebank today, LMC representatives said they are ‘dismayed’ to watch general practice ‘decline due to the incompetence of Scottish Government’ and voted in favour of a motion calling on the BMA to ballot GPs on ‘industrial\nThe post Scottish GP leaders back industrial action ballot appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/scotland/scottish-gp-leaders-back-industrial-action-ballot/",
+          "publishedOn": "2024-11-29T10:11:18.000Z",
+          "wordCount": 2011,
+          "title": "Scottish GP leaders back industrial action ballot",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=156209",
           "author": "Eliza Parr",
@@ -1259,6 +1269,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1898033",
+          "author": null,
+          "description": "The GPonline team discusses what happened at last week's England LMCs conference and whether the profession looks set to take more significant industrial action, and the latest update to our GP Insight Workforce Tracker.",
+          "link": "https://www.gponline.com/podcast-will-gps-step-collective-action-plus-growing-gap-underdoctored-areas/article/1898033",
+          "publishedOn": "2024-11-29T08:55:00.000Z",
+          "wordCount": 724,
+          "title": "Podcast: Will GPs step up collective action? Plus the growing gap in underdoctored areas",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_981.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1898104",
+          "author": null,
+          "description": "Two thirds of GPs in Scotland are ready to cause 'significant disruption' to services through industrial action, BMA polling reveals.",
+          "link": "https://www.gponline.com/two-thirds-scottish-gps-ready-disrupt-services-industrial-action/article/1898104",
+          "publishedOn": "2024-11-29T08:29:17.000Z",
+          "wordCount": 703,
+          "title": "Two thirds of Scottish GPs ready to disrupt services through industrial action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Iain_Morrison_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1898032",
           "author": null,
