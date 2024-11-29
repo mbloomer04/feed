@@ -3015,16 +3015,6 @@
           "wordCount": 1350,
           "title": "Guidance: DHSC public appointments: 2024 to 2025",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-england-and-wales-2023",
-          "author": null,
-          "description": "This publication contains a provisional list of abortion clinics and hospitals in England and Wales, as identified in a notification to the Chief Medical Officer in 2023.",
-          "link": "https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-england-and-wales-2023",
-          "publishedOn": "2024-10-31T09:00:05.000Z",
-          "wordCount": 934,
-          "title": "Transparency data: Provisional list of abortion clinics and hospitals in England and Wales, 2023",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3033,6 +3023,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/11/accelerating-reform-fund-2024-to-2025-grant-determination.html",
+          "author": null,
+          "description": "Department of Health - The Accelerating Reform Fund provides a total of £42.6 million over the financial years 2023 to 2024 and 2024 to 2025. It supports local authorities, working in integrated care system consortia, to take forward projects that scale innovations in adult social care and improve services for unpaid carers. This is the grant determination for the Adult...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/11/accelerating-reform-fund-2024-to-2025-grant-determination.html",
+          "publishedOn": "2024-11-29T21:02:04.000Z",
+          "wordCount": null,
+          "title": "Accelerating Reform Fund 2024 to 2025: grant determination",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/11/healthcare-provision-in-prisons-continuity-of-care.html",
           "author": null,
@@ -4636,16 +4636,6 @@
           "wordCount": 4403,
           "title": "Trial finds digital avatars reduce distressing voices in psychosis",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Psychosis.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=210175",
-          "author": "DHI News Team",
-          "description": "Leaders from across the digital health, care and technology sectors have reacted to chancellor Rachel Reeves' Autumn Budget.",
-          "link": "https://www.digitalhealth.net/2024/10/digital-health-sector-reacts-to-autumn-budget-nhs-tech-investment/",
-          "publishedOn": "2024-10-31T08:30:30.000Z",
-          "wordCount": 9404,
-          "title": "Digital health sector reacts to Autumn Budget NHS investment",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/10/Westminster.jpg"
         }
       ]
     }
