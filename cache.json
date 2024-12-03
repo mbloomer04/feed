@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1898214",
+          "author": null,
+          "description": "GMC regulation of physician associates (PAs) will begin from next week - and critics of the plans should recognise 'that ship has sailed', the regulator's chief executive has said.",
+          "link": "https://www.gponline.com/no-turning-back-gmc-regulation-physician-associates-says-chief-executive/article/1898214",
+          "publishedOn": "2024-12-03T08:00:00.000Z",
+          "wordCount": 908,
+          "title": "No turning back on GMC regulation of physician associates, says chief executive",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMCCharlieMassey_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1898246",
           "author": null,
           "description": "The RCGP has said it will consult members on what its position should be on legalising assisted dying, as it insisted any change in the law must ensure there are clear protections to allow GPs to opt out of the process.",
@@ -3817,6 +3827,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212567",
+          "author": "Jordan Sollof",
+          "description": "Three quarters of people support sharing health data for the development of AI systems in the NHS, according to a Health Foundation survey.",
+          "link": "https://www.digitalhealth.net/2024/12/most-people-open-to-sharing-health-data-to-develop-ai-in-the-nhs/",
+          "publishedOn": "2024-12-03T08:30:05.000Z",
+          "wordCount": 6787,
+          "title": "Most people open to sharing health data to develop AI in the NHS",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/AI-medical.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=211403",
           "author": "Jordan Sollof",
