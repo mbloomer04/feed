@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=156373",
+          "author": "Eliza Parr",
+          "description": "A Court of Appeal has ruled in favour of a GP partner who was issued with contract termination notices for refusing to cooperate with the local PCN. Following a years-long dispute, a judgment passed down today found that the CCG ‘failed to give notice of a variation’ in the GP partner’s contract and was therefore\nThe post GP wins appeal against contract termination over PCN non-cooperation appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/contract/gp-wins-appeal-against-having-contract-terminated-over-pcn-non-cooperation/",
+          "publishedOn": "2024-12-03T11:57:22.000Z",
+          "wordCount": 2462,
+          "title": "GP wins appeal against contract termination over PCN non-cooperation",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/m/f/k/ThinkstockPhotos-638601140-scaled.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=156372",
+          "author": "Anna Colivicchi",
+          "description": "Adults who have irregular sleep patterns are 26% more likely to have a major cardiovascular event than those with a regular sleep-wake cycle, a new study shows. Going to bed and waking up at different times was found to be detrimental to cardiac health and ‘strongly associated’ with an increased risk of heart attacks and\nThe post Irregular sleep patterns could increase risk of heart attack and stroke appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/irregular-sleep-patterns-could-increase-risk-of-heart-attack-and-stroke/",
+          "publishedOn": "2024-12-03T11:52:53.000Z",
+          "wordCount": 2186,
+          "title": "Irregular sleep patterns could increase risk of heart attack and stroke",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/12/sleep.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=155039",
           "author": "Anna Colivicchi",
           "description": "The World Health Organisation (WHO) has raised the alarm about soaring cases of tuberculosis (TB) around the world. Last year, more than eight million people were newly diagnosed with the condition, the highest number since they began monitoring in 1995, WHO said. While TB-related deaths did fall last year from 1.32 million to 1.25 million\nThe post WHO raises alarm about growing rates of tuberculosis globally appeared first on Pulse Today.",
@@ -2148,16 +2168,6 @@
           "wordCount": 1272,
           "title": "Almost one in ten children obese in first year of school",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=255591",
-          "author": "jboshell",
-          "description": "Tens of thousands of people who have a stroke could be diagnosed and treated sooner as new data found that the average time between onset of first symptoms and a 999 call being made was nearly an hour and a half.   New analysis of NHS data shows that for 2023-24, of 41,327 patients with a […]",
-          "link": "https://www.england.nhs.uk/2024/11/nhs-launches-major-new-stroke-campaign-as-thousands-delay-calling-999-by-nearly-90-minutes/",
-          "publishedOn": "2024-11-04T00:01:06.000Z",
-          "wordCount": 2279,
-          "title": "NHS launches major new stroke campaign as thousands delay calling 999 by nearly 90 minutes",
-          "imageUrl": ""
         }
       ]
     },
@@ -2166,6 +2176,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/restricting-advertising-of-less-healthy-food-or-drink-on-tv-and-online-products-in-scope",
+          "author": null,
+          "description": "Outlines the provisions of the Advertising (Less Healthy Food Definitions and Exemptions) Regulations 2024 which will come into force on 1 October 2025.",
+          "link": "https://www.gov.uk/government/publications/restricting-advertising-of-less-healthy-food-or-drink-on-tv-and-online-products-in-scope",
+          "publishedOn": "2024-12-03T11:59:09.000Z",
+          "wordCount": 1015,
+          "title": "Guidance: Restricting advertising of less healthy food or drink on TV and online: products in scope",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/introducing-further-advertising-restrictions-on-tv-and-online-for-less-healthy-food-and-drink-internet-protocol-television-iptv",
+          "author": null,
+          "description": "Government is seeking views on the proposed exemption of Ofcom-regulated IPTV services from online advertising restrictions on less healthy food and drink.",
+          "link": "https://www.gov.uk/government/consultations/introducing-further-advertising-restrictions-on-tv-and-online-for-less-healthy-food-and-drink-internet-protocol-television-iptv",
+          "publishedOn": "2024-12-03T11:59:07.000Z",
+          "wordCount": 1392,
+          "title": "Consultation outcome: Introducing further advertising restrictions on TV and online for less healthy food and drink: internet protocol television (IPTV)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/flu-vaccines-2025-to-2026-jcvi-advice",
+          "author": null,
+          "description": "Statement from the Joint Committee on Vaccination and Immunisation (JCVI) about vaccines for the 2025 to 2026 flu season.",
+          "link": "https://www.gov.uk/government/publications/flu-vaccines-2025-to-2026-jcvi-advice",
+          "publishedOn": "2024-12-03T11:40:03.000Z",
+          "wordCount": 943,
+          "title": "Independent report: Flu vaccines 2025 to 2026: JCVI advice",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/evaluating-the-implementation-of-right-care-right-person",
           "author": null,
@@ -2993,6 +3033,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/12/exploring-health-and-social-care-perspectives-on-the-implementation-of-right-care-right-person-under.html",
+          "author": null,
+          "description": "Partnership for Responsive Policy Analysis and Research (PREPARE) - ‘Right Care, Right Person’ (RCRP) is a policy designed to end the inappropriate and avoidable involvement of police in responding to incidents involving people with mental health needs. This report from the University of York, York St John University and The King’s Fund explores the view of health and care staff...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/12/exploring-health-and-social-care-perspectives-on-the-implementation-of-right-care-right-person-under.html",
+          "publishedOn": "2024-12-03T11:16:26.000Z",
+          "wordCount": null,
+          "title": "Exploring health and social care perspectives on the implementation of ‘Right Care, Right Person’, under the National Partnership Agreement",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/12/right-care-right-person-.html",
           "author": null,
@@ -3887,6 +3937,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212419",
+          "author": "Owen Hughes",
+          "description": "Today's news roundup covers an intelligent bedside medicine cabinet at Royal Aberdeen Children’s Hospital and Europe's new £6.5m XR project.",
+          "link": "https://www.digitalhealth.net/2024/12/digital-health-coffee-time-briefing-%e2%98%95-25/",
+          "publishedOn": "2024-12-03T11:30:06.000Z",
+          "wordCount": 4325,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=212433",
           "author": "Owen Hughes",
