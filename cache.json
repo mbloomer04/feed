@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=156443",
+          "author": "Sofia Lind",
+          "description": "NICE has accepted a request from NHS England to slow down the roll out of weight-loss drug tirzepatide, reserving eligibility for those with the highest clinical need at first. However its final draft guidance on use of the weekly injection, published today, still means around a quarter of a million people gaining access to the\nThe post NICE accepts slower rollout of tirzepatide but GP workload concerns remain appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/nice-accepts-slower-rollout-of-tirzepatide-but-gp-workload-concerns-remain/",
+          "publishedOn": "2024-12-05T10:09:34.000Z",
+          "wordCount": 3150,
+          "title": "NICE accepts slower rollout of tirzepatide but GP workload concerns remain",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/08/semaglutide-liraglutide-obesity-weight-loss-drugs.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=156434",
           "author": "Eliza Parr",
           "description": "The General Practice Alert System (GPAS), aimed at mapping workload pressures, is being retired as it has not had the uptake nor impact GPs had hoped for. Devon LMC began the OPEL-style mapping of general practice pressures in its own county in 2020 and has been producing a national heatmap since 2022, in a bid\nThe post GPs stop system pressure alerts amid poor uptake and disappointing impact appeared first on Pulse Today.",
@@ -2096,6 +2106,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-december-2024",
+          "author": null,
+          "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-december-2024",
+          "publishedOn": "2024-12-05T09:30:10.000Z",
+          "wordCount": 1180,
+          "title": "Official Statistics: Adult social care in England, monthly statistics: December 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/excess-treatment-costs-etcs-in-non-commercial-research",
+          "author": null,
+          "description": "Guidance for researchers, funders and administrators on the process of applying for excess treatment costs (ETCs) in non-commercial research.",
+          "link": "https://www.gov.uk/government/publications/excess-treatment-costs-etcs-in-non-commercial-research",
+          "publishedOn": "2024-12-05T09:30:00.000Z",
+          "wordCount": 860,
+          "title": "Guidance: Excess treatment costs (ETCs) in non-commercial research",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners",
           "author": null,
