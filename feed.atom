@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-05T10:13:23.697Z</updated>
+    <updated>2024-12-05T11:10:31.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two more Liverpool hospitals impacted by Alder Hey cyber attack]]></title>
+        <id>https://www.digitalhealth.net/?p=212755</id>
+        <link href="https://www.digitalhealth.net/2024/12/alder-hey-and-two-more-hospitals-impacted-by-cyber-attack/"/>
+        <updated>2024-12-05T11:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Alder Hey Children's NHS Foundation Trust has announced that the cyber attack it suffered last week has impacted two more hospitals.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS data leader Ming Tang to deliver keynote at Rewired 2025]]></title>
+        <id>https://www.digitalhealth.net/?p=212687</id>
+        <link href="https://www.digitalhealth.net/2024/12/nhs-data-leader-ming-tang-to-deliver-keynote-at-rewired-2025/"/>
+        <updated>2024-12-05T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Ming Tang, chief data and analytics officer for NHS England, will deliver a keynote at Digital Health Rewired 2025.]]></summary>
+        <author>
+            <name>DHI News Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study shows benefits of pharmacy sore throat service over GP consultation]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=156635</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/study-shows-benefits-of-pharmacy-sore-throat-service-over-gp-consultation/"/>
+        <updated>2024-12-05T10:29:53.000Z</updated>
+        <summary type="html"><![CDATA[A pharmacy-led sore throat treatment service in Wales has been found to result in fewer same-day antibiotic prescriptions than those given during GP consultations, according to a new study. The study, published in the Journal of Antimicrobial Chemotherapy, found that pharmacy-led sore throat treatment provides a safe, effective, and cost-efficient alternative to GP consultations. The research, carried
+The post Study shows benefits of pharmacy sore throat service over GP consultation appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICE accepts slower rollout of tirzepatide but GP workload concerns remain]]></title>
         <id>https://www.pulsetoday.co.uk/?p=156443</id>
@@ -38,6 +69,16 @@ The post NICE accepts slower rollout of tirzepatide but GP workload concerns rem
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Warning over impact on GPs as NICE announces three-year tirzepatide rollout]]></title>
+        <id>https://www.gponline.com/article/1898769</id>
+        <link href="https://www.gponline.com/warning-impact-gps-nice-announces-three-year-tirzepatide-rollout/article/1898769"/>
+        <updated>2024-12-05T09:07:41.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders have urged caution over the rollout of obesity drug tirzepatide after final draft guidance from NICE set out plans to offer it to almost quarter of a million people over the next three years.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Synnovis staff to strike following ‘alarming impact’ of cyber attack]]></title>
         <id>https://www.digitalhealth.net/?p=212697</id>
         <link href="https://www.digitalhealth.net/2024/12/synnovis-staff-to-strike-following-alarming-impact-of-cyber-attack/"/>
@@ -45,6 +86,18 @@ The post NICE accepts slower rollout of tirzepatide but GP workload concerns rem
         <summary type="html"><![CDATA[Staff working for NHS pathology provider Synnovis have announced plans to strike for five days, following a major cyber attack in June 2024.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO announces first prequalification of a tuberculosis diagnostic test]]></title>
+        <id>urn:uuid:97f8c710-0127-4025-ba1d-1e28e9ede159</id>
+        <link href="https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test"/>
+        <updated>2024-12-04T21:20:12.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has granted prequalification to the molecular diagnostic test for tuberculosis (TB) called Xpert® MTB/RIF Ultra. It is the first test for TB diagnosis and antibiotic susceptibility testing that meets WHO's prequalification standards. 
+Tuberculosis is one of the world’s leading infectious disease killers, causing over a million deaths annually and imposing immense socioeconomic burdens, especially in low- and middle-income countries. Accurate and early detection of TB, especially drug-resistant strains, remains a critical and challenging global health priority. 
+“This first prequalification of a diagnostic test for tuberculosis marks a critical milestone in WHO’s efforts to support countries in scaling up and accelerating access to high-quality TB assays …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

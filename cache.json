@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=156635",
+          "author": "Sofia Lind",
+          "description": "A pharmacy-led sore throat treatment service in Wales has been found to result in fewer same-day antibiotic prescriptions than those given during GP consultations, according to a new study. The study, published in the Journal of Antimicrobial Chemotherapy, found that pharmacy-led sore throat treatment provides a safe, effective, and cost-efficient alternative to GP consultations. The research, carried\nThe post Study shows benefits of pharmacy sore throat service over GP consultation appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/study-shows-benefits-of-pharmacy-sore-throat-service-over-gp-consultation/",
+          "publishedOn": "2024-12-05T10:29:53.000Z",
+          "wordCount": 2160,
+          "title": "Study shows benefits of pharmacy sore throat service over GP consultation",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/01/cough-flu-covid-respiratory.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=156443",
           "author": "Sofia Lind",
           "description": "NICE has accepted a request from NHS England to slow down the roll out of weight-loss drug tirzepatide, reserving eligibility for those with the highest clinical need at first. However its final draft guidance on use of the weekly injection, published today, still means around a quarter of a million people gaining access to the\nThe post NICE accepts slower rollout of tirzepatide but GP workload concerns remain appeared first on Pulse Today.",
@@ -1279,6 +1289,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1898769",
+          "author": null,
+          "description": "GP leaders have urged caution over the rollout of obesity drug tirzepatide after final draft guidance from NICE set out plans to offer it to almost quarter of a million people over the next three years.",
+          "link": "https://www.gponline.com/warning-impact-gps-nice-announces-three-year-tirzepatide-rollout/article/1898769",
+          "publishedOn": "2024-12-05T09:07:41.000Z",
+          "wordCount": 928,
+          "title": "Warning over impact on GPs as NICE announces three-year tirzepatide rollout",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_older_patient_GettyImages-sturti_8.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1898716",
           "author": null,
@@ -3671,6 +3691,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:97f8c710-0127-4025-ba1d-1e28e9ede159",
+          "author": null,
+          "description": "The World Health Organization (WHO) has granted prequalification to the molecular diagnostic test for tuberculosis (TB) called Xpert® MTB/RIF Ultra. It is the first test for TB diagnosis and antibiotic susceptibility testing that meets WHO's prequalification standards. \nTuberculosis is one of the world’s leading infectious disease killers, causing over a million deaths annually and imposing immense socioeconomic burdens, especially in low- and middle-income countries. Accurate and early detection of TB, especially drug-resistant strains, remains a critical and challenging global health priority. \n“This first prequalification of a diagnostic test for tuberculosis marks a critical milestone in WHO’s efforts to support countries in scaling up and accelerating access to high-quality TB assays …",
+          "link": "https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test",
+          "publishedOn": "2024-12-04T21:20:12.000Z",
+          "wordCount": 2064,
+          "title": "WHO announces first prequalification of a tuberculosis diagnostic test",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/laboratory-in-tuberculosis-centre.tmb-1200v.jpg?sfvrsn=e6c549e_1"
+        },
+        {
           "id": "urn:uuid:9ee551ef-7377-4a8a-9625-507899f001ae",
           "author": null,
           "description": "A large proportion of healthcare-associated infections can be prevented with improved IPC practices and basic water, sanitation and hygiene (WASH) services. This report provides a baseline assessment for policymakers, IPC professionals, health-care workers and stakeholders to guide action.",
@@ -3827,6 +3857,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212755",
+          "author": "Jordan Sollof",
+          "description": "Alder Hey Children's NHS Foundation Trust has announced that the cyber attack it suffered last week has impacted two more hospitals.",
+          "link": "https://www.digitalhealth.net/2024/12/alder-hey-and-two-more-hospitals-impacted-by-cyber-attack/",
+          "publishedOn": "2024-12-05T11:09:59.000Z",
+          "wordCount": 4375,
+          "title": "Two more Liverpool hospitals impacted by Alder Hey cyber attack",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/Royal-Liverpool-University-Hospital.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=212687",
+          "author": "DHI News Team",
+          "description": "Ming Tang, chief data and analytics officer for NHS England, will deliver a keynote at Digital Health Rewired 2025.",
+          "link": "https://www.digitalhealth.net/2024/12/nhs-data-leader-ming-tang-to-deliver-keynote-at-rewired-2025/",
+          "publishedOn": "2024-12-05T11:00:39.000Z",
+          "wordCount": 3971,
+          "title": "NHS data leader Ming Tang to deliver keynote at Rewired 2025",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/Ming-Tang-rewired.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=212697",
           "author": "Tammy Lovell",
