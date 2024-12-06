@@ -1280,6 +1280,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1898846",
+          "author": null,
+          "description": "Talking General Practice speaks to GP Dr Jonathan Griffiths, associate medical director for primary care at NHS Cheshire and Merseyside ICB, about the work he's been doing in his area to address problems that occur at the interface between primary and secondary care.",
+          "link": "https://www.gponline.com/podcast-solve-problems-primary-secondary-care-interface/article/1898846",
+          "publishedOn": "2024-12-06T08:30:00.000Z",
+          "wordCount": 744,
+          "title": "Podcast: How can we solve problems at the primary/secondary care interface?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_JonathanGriffiths_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1898877",
           "author": null,
           "description": "The GMC has set out changes to its plans for regulation of physician associates (PAs) and anaesthesia associates (AAs) after most respondents to a major consultation disagreed with broad swathes of its proposals.",
@@ -3779,16 +3789,6 @@
           "wordCount": 2866,
           "title": "Countries pledge to act on childhood violence affecting \r\nsome 1 billion children",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/vaccines-and-immunization/vaccinationlpdr2014.tmb-1200v.jpg?sfvrsn=5a0a6dc_6"
-        },
-        {
-          "id": "urn:uuid:14d5888f-9d01-414e-8b78-aa2072f6b5b0",
-          "author": null,
-          "description": "The second round of the polio vaccination campaign in the Gaza Strip was completed yesterday, with an overall 556 774 children under the age of 10 being vaccinated with a second dose of polio vaccine, and 448 425 children between 2- to 10-years-old receiving vitamin A, following the three phases conducted in the last weeks. \nAdministrative data confirm around 94% of the target population of 591 714 children under the age of 10 years received a second dose of nOPV2 across the Gaza Strip, which is a remarkable achievement given the extremely difficult circumstances the campaign was executed under. The campaign achieved 103% and 91% coverage in central and southern Gaza, respectively. However, in northern Gaza, where the campaign was compromised due to lack of access, approximately 88% covera…",
-          "link": "https://www.who.int/news/item/06-11-2024-second-round-of-polio-campaign-in-gaza-completed-amid-ongoing-conflict-and-attacks--unicef-and-who",
-          "publishedOn": "2024-11-06T20:51:30.000Z",
-          "wordCount": 2417,
-          "title": "Second round of polio campaign in Gaza completed amid ongoing conflict and attacks: UNICEF and WHO",
-          "imageUrl": null
         }
       ]
     },
@@ -3797,6 +3797,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212733",
+          "author": "Jordan Sollof",
+          "description": "The Medicines and Healthcare products Regulatory Agency (MHRA) has selected five medical technologies for its AI Airlock a pilot scheme.",
+          "link": "https://www.digitalhealth.net/2024/12/mhra-selects-five-ai-powered-medical-devices-for-regulatory-pilot/",
+          "publishedOn": "2024-12-06T08:30:31.000Z",
+          "wordCount": 6787,
+          "title": "MHRA selects five AI-powered medical devices for regulatory pilot",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/Medical-AI-tablet.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=212781",
           "author": "Owen Hughes",
