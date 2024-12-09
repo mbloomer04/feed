@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-09T08:17:05.480Z</updated>
+    <updated>2024-12-09T09:13:53.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS trust offers remote testing kits for gestational diabetes]]></title>
+        <id>https://www.digitalhealth.net/?p=212821</id>
+        <link href="https://www.digitalhealth.net/2024/12/nhs-trust-offers-remote-testing-kits-for-gestational-diabetes/"/>
+        <updated>2024-12-09T08:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Dartford and Gravesham NHS Trust will offer at-home testing kits to women at risk of gestational diabetes mellitus during pregnancy.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs fear 'domino effect' as practice set to close over NI hike]]></title>
+        <id>https://www.gponline.com/article/1898831</id>
+        <link href="https://www.gponline.com/gps-fear-domino-effect-practice-set-close-ni-hike/article/1898831"/>
+        <updated>2024-12-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A GP practice in Yorkshire has warned it will be forced to hand back its contract within weeks unless a solution to increased employer national insurance (NI) contributions is announced - sparking fears of a 'domino effect' of practice closures.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: UK & Switzerland deepen science ties with £16 million backing]]></title>
         <id>https://www.gov.uk/government/news/uk-switzerland-deepen-science-ties-with-16-million-backing</id>

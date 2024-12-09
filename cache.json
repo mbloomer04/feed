@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1898831",
+          "author": null,
+          "description": "A GP practice in Yorkshire has warned it will be forced to hand back its contract within weeks unless a solution to increased employer national insurance (NI) contributions is announced - sparking fears of a 'domino effect' of practice closures.",
+          "link": "https://www.gponline.com/gps-fear-domino-effect-practice-set-close-ni-hike/article/1898831",
+          "publishedOn": "2024-12-09T08:00:00.000Z",
+          "wordCount": 933,
+          "title": "GPs fear 'domino effect' as practice set to close over NI hike",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1898846",
           "author": null,
           "description": "Talking General Practice speaks to GP Dr Jonathan Griffiths, associate medical director for primary care at NHS Cheshire and Merseyside ICB, about the work he's been doing in his area to address problems that occur at the interface between primary and secondary care.",
@@ -3576,6 +3586,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=212821",
+          "author": "Owen Hughes",
+          "description": "Dartford and Gravesham NHS Trust will offer at-home testing kits to women at risk of gestational diabetes mellitus during pregnancy.",
+          "link": "https://www.digitalhealth.net/2024/12/nhs-trust-offers-remote-testing-kits-for-gestational-diabetes/",
+          "publishedOn": "2024-12-09T08:30:20.000Z",
+          "wordCount": 6640,
+          "title": "NHS trust offers remote testing kits for gestational diabetes",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/GTThome-Test-Kit-Lifestyle.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=212841",
           "author": "Jordan Sollof",
