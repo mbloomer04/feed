@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-10T08:16:36.023Z</updated>
+    <updated>2024-12-10T09:13:14.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IT systems in Medway disconnected due to ‘suspicious activity’]]></title>
+        <id>https://www.digitalhealth.net/?p=212995</id>
+        <link href="https://www.digitalhealth.net/2024/12/it-systems-in-medway-disconnected-due-to-suspicious-activity/"/>
+        <updated>2024-12-10T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Medway Community Healthcare has disconnected its IT systems to “protect patient and staff data” after detecting some “suspicious activity”.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Health Secretary asks NHS to prioritise patient safety for winter]]></title>
         <id>https://www.gov.uk/government/news/health-secretary-asks-nhs-to-prioritise-patient-safety-for-winter</id>
