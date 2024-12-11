@@ -3630,6 +3630,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:006f81ad-d413-464d-a32c-2fdb082ab7e5",
+          "author": null,
+          "description": "Around 846 million people aged between 15 and 49 are living with genital herpes infections – more than 1 in 5 of this age-group globally – according to new estimates released today. At least 1 person each second – 42 million people annually – is estimated to acquire a new genital herpes infection.\nMost of the time, these infections cause no or few symptoms. However, for some people they lead to painful genital sores and blisters that can recur throughout life, causing significant discomfort and often requiring multiple healthcare visits. According to the estimates, more than 200 million people aged 15 to 49 suffered at least one such symptomatic episode in 2020. \nThe authors of the study, published in the journal Sexually Transmitted Infections, say that new treatments and vaccines are nee…",
+          "link": "https://www.who.int/news/item/11-12-2024-over-1-in-5-adults-worldwide-has-a-genital-herpes-infection-who",
+          "publishedOn": "2024-12-09T16:27:03.000Z",
+          "wordCount": 3097,
+          "title": "Over 1 in 5 adults worldwide has a genital herpes infection – WHO",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hiv/hiv-and-sti-prevention-and-treatment.tmb-1200v.jpg?sfvrsn=d632eb10_6"
+        },
+        {
+          "id": "urn:uuid:ae8be262-40de-4c91-9d28-5e2a4261591a",
+          "author": null,
+          "description": "New data from the World Health Organization (WHO) reveal that an estimated 2.2 billion cases of malaria and 12.7 million deaths have been averted since 2000, but the disease remains a serious global health threat, particularly in the WHO African Region.",
+          "link": "https://www.who.int/news/item/11-12-2024-reinvigorated-global-efforts-needed-to-curb-rising-malaria-threat",
+          "publishedOn": "2024-12-06T14:02:01.000Z",
+          "wordCount": 2750,
+          "title": "Reinvigorated global efforts needed to curb rising malaria threat",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/malaria-testing-at-health-clinic-in-kenya.tmb-1200v.jpg?sfvrsn=80067702_6"
+        },
+        {
           "id": "urn:uuid:97f8c710-0127-4025-ba1d-1e28e9ede159",
           "author": null,
           "description": "The World Health Organization (WHO) has granted prequalification to the molecular diagnostic test for tuberculosis (TB) called Xpert® MTB/RIF Ultra. It is the first test for TB diagnosis and antibiotic susceptibility testing that meets WHO's prequalification standards. \nTuberculosis is one of the world’s leading infectious disease killers, causing over a million deaths annually and imposing immense socioeconomic burdens, especially in low- and middle-income countries. Accurate and early detection of TB, especially drug-resistant strains, remains a critical and challenging global health priority. \n“This first prequalification of a diagnostic test for tuberculosis marks a critical milestone in WHO’s efforts to support countries in scaling up and accelerating access to high-quality TB assays …",
@@ -3756,6 +3776,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213125",
+          "author": "Jordan Sollof",
+          "description": "Airedale NHS Foundation Trust has secured funding to improve its cancer care service with digital cancer care platform Careology.",
+          "link": "https://www.digitalhealth.net/2024/12/airedale-nhs-ft-secures-228k-for-digital-cancer-care-platform/",
+          "publishedOn": "2024-12-11T08:30:12.000Z",
+          "wordCount": 6754,
+          "title": "Airedale NHS FT secures £228k for digital cancer care platform",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/Woman-with-cancer-using-phone.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213037",
           "author": "Tammy Lovell",
