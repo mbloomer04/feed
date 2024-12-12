@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-12T09:13:06.114Z</updated>
+    <updated>2024-12-12T10:13:15.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Consultation outcome: Health Protection (Notification) Regulations 2010: proposed amendments]]></title>
+        <id>https://www.gov.uk/government/consultations/health-protection-notification-regulations-2010-proposed-amendments</id>
+        <link href="https://www.gov.uk/government/consultations/health-protection-notification-regulations-2010-proposed-amendments"/>
+        <updated>2024-12-12T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[This consultation seeks views on proposed amendments to the Health Protection (Notification) Regulations 2010 (HPNR).]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS using AI to predict frequent emergency service users]]></title>
         <id>https://www.digitalhealth.net/?p=213205</id>
