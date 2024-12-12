@@ -1301,16 +1301,6 @@
           "wordCount": 2377,
           "title": "GPs need ‘swift reassurance’ tax hikes will be covered, BMA tells health secretary",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/03/katie-bramall-stainer-hands-out.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=155351",
-          "author": "Eliza Parr",
-          "description": "Exclusive At least 13 PCNs hired GPs through the Additional Roles Reimbursement Scheme (ARRS) in the first few weeks of the new £82m funding pot becoming available. A Pulse survey, which ran for a month until mid-October, revealed that 13 PCNs had ‘already hired a GP’ via the ARRS, while over a third of GP\nThe post 13 PCNs hire GPs via ARRS funding in first weeks of expanded scheme appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workforce/13-pcns-hire-gps-via-arrs-funding-in-first-weeks-of-expanded-scheme/",
-          "publishedOn": "2024-11-12T11:23:01.000Z",
-          "wordCount": 2740,
-          "title": "13 PCNs hire GPs via ARRS funding in first weeks of expanded scheme",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/06/recruitment-vacancies.jpg"
         }
       ]
     },
@@ -1319,6 +1309,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1899505",
+          "author": null,
+          "description": "GP practices serving England's most deprived areas receive almost 10% less funding per patient than their counterparts in the most affluent areas, according to a report that calls for the 'outdated and unfair' Carr-Hill formula to be scrapped.",
+          "link": "https://www.gponline.com/outdated-gp-funding-formula-leaves-practices-deprived-areas-10-less-funding/article/1899505",
+          "publishedOn": "2024-12-12T00:01:00.000Z",
+          "wordCount": 925,
+          "title": "Outdated GP funding formula leaves practices in deprived areas with 10% less funding",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_24.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1899472",
           "author": null,
@@ -1939,6 +1939,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=257881",
+          "author": "jboshell",
+          "description": "The NHS is using AI to predict patients who are at risk of becoming frequent users of emergency services so staff can get them more appropriate care at an earlier stage. The intervention will ensure that thousands of people get the support they need earlier, while also reducing demand on pressured A&Es. Over 360,000 patients […]",
+          "link": "https://www.england.nhs.uk/2024/12/nhs-ai-giving-patients-better-care-and-support/",
+          "publishedOn": "2024-12-12T00:01:11.000Z",
+          "wordCount": 1458,
+          "title": "NHS artificial intelligence (AI) giving patients better care and support",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=257891",
           "author": "jboshell",
           "description": "The NHS is offering flu jabs to people at football clubs, supermarkets and Christmas markets as it braces itself for a rise in winter viruses in the coming weeks. Latest data from the UK Health Security Agency (UKHSA) shows flu cases are currently highest among 5 to 14-year-olds, but adult cases are expected to rise […]",
@@ -2135,6 +2145,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/100-million-public-private-health-research-boost",
+          "author": null,
+          "description": "20 new clinical research hubs to be set up across UK to accelerate research into the next generation of treatments.",
+          "link": "https://www.gov.uk/government/news/100-million-public-private-health-research-boost",
+          "publishedOn": "2024-12-12T00:15:01.000Z",
+          "wordCount": 3192,
+          "title": "Press release: £100 million public-private health research boost",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/chief-medical-officers-annual-report-health-in-cities",
+          "author": null,
+          "description": "2024 Annual Report from Chief Medical Officer, Professor Chris Whitty, focusing on ‘Health In Cities'.",
+          "link": "https://www.gov.uk/government/news/chief-medical-officers-annual-report-health-in-cities",
+          "publishedOn": "2024-12-12T00:01:04.000Z",
+          "wordCount": 1407,
+          "title": "Press release: Chief Medical Officer's Annual Report - Health in Cities",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/proposed-changes-to-the-availability-of-puberty-blockers-for-under-18s",
           "author": null,
@@ -3661,26 +3691,6 @@
           "wordCount": null,
           "title": "‘I can’t see myself doing this forever’: younger people’s experiences of working in adult social care",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/11/uniting-the-uks-health-data-a-huge-opportunity-for-society--1.html",
-          "author": null,
-          "description": "The Sudlow Review - Professor Cathie Sudlow was commissioned to lead this independent review by the Chief Medical Officer for England, NHS England’s National Director for Transformation, and the UK National Statistician. The review flags complexities and inefficiencies impeding the use of health data in the UK. It emphasises that health data should be seen as critical national infrastructure requiring...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/11/uniting-the-uks-health-data-a-huge-opportunity-for-society--1.html",
-          "publishedOn": "2024-11-12T11:56:39.000Z",
-          "wordCount": null,
-          "title": "Uniting the UK’s health data: a huge opportunity for society",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2024/11/uniting-the-uks-health-data-a-huge-opportunity-for-society-.html",
-          "author": null,
-          "description": "The Sudlow Review - Professor Cathie Sudlow was commissioned to lead this independent review by the Chief Medical Officer for England, NHS England’s National Director for Transformation, and the UK National Statistician. The review flags complexities and inefficiencies impeding the use of health data in the UK. It emphasises that health data should be seen as critical national infrastructure requiring...",
-          "link": "https://kingsfund.blogs.com/health_management/2024/11/uniting-the-uks-health-data-a-huge-opportunity-for-society-.html",
-          "publishedOn": "2024-11-12T11:56:35.000Z",
-          "wordCount": null,
-          "title": "Uniting the UK’s health data: a huge opportunity for society",
-          "imageUrl": null
         }
       ]
     },
@@ -4545,16 +4555,6 @@
           "wordCount": 6880,
           "title": "Synnovis attack led to at least five cases of ‘moderate’ patient harm",
           "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/11/shutterstock_1624880980-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=210811",
-          "author": "Owen Hughes",
-          "description": "Today's Coffee Briefing covers data centre upgrades at Betsi Cadwaladr University Health Board and a new Swiss partnership for Ada Health.",
-          "link": "https://www.digitalhealth.net/2024/11/digital-health-coffee-time-briefing-%e2%98%95-19/",
-          "publishedOn": "2024-11-12T11:30:59.000Z",
-          "wordCount": 6704,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     }
