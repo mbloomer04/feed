@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=156960",
+          "author": "Eliza Parr",
+          "description": "The number of UK medical school students from the most deprived areas has more than doubled over the past decade, with potential positive impact on GP numbers down the line, a report has said. The Medical Schools Council (MSC) has laid out progress against recommendations made 10 years ago to widen participation in medicine. Medical\nThe post Potential for GP numbers boost as medical schools improve uptake in deprived areas appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/education-and-training/potential-for-gp-numbers-boost-as-medical-schools-improve-uptake-in-deprived-areas/",
+          "publishedOn": "2024-12-12T11:39:18.000Z",
+          "wordCount": 2333,
+          "title": "Potential for GP numbers boost as medical schools improve uptake in deprived areas",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/x/n/e/GettyImages-914314318-scaled.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=156951",
+          "author": "Anna Colivicchi",
+          "description": "The current GP funding formula must be replaced with a new ‘needs-based’ system, taking into account younger populations living in deprived areas, an influential think-tank has recommended. The Carr-Hill formula should be replaced to include adjustments for ‘unmet need’, according to a report by the Nuffield Trust. It pointed out that the current formula uses\nThe post Carr-Hill overhaul must consider young deprived patients, says new report appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/contract/carr-hill-overhaul-must-consider-young-deprived-patients-says-new-report/",
+          "publishedOn": "2024-12-12T11:20:02.000Z",
+          "wordCount": 2956,
+          "title": "Carr-Hill overhaul must consider young deprived patients, says new report",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/08/money-pensions-payments-calculator-accountant.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=156959",
           "author": "Sofia Lind",
           "description": "The UK ban on private prescribing of puberty blockers in under-18s with gender dysphoria has been extended indefinitely, the Government has announced. It follows a consultation on the measures and independent advice from the Commission on Human Medicines (CHM) which found an ‘unacceptable safety risk’ in the continued prescription of puberty blockers to children. As\nThe post Under-18s puberty blocker ban extended indefinitely following expert advice appeared first on Pulse Today.",
@@ -1261,26 +1281,6 @@
           "wordCount": 2021,
           "title": "Health secretary to ‘take stock’ of PA role before further expansion",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/04/wes-streeting-MJA-podium.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=155516",
-          "author": "Eliza Parr",
-          "description": "The Government should consider giving GPs incentives to do NHS Health Checks via QOF, the public spending watchdog has said. A report looking at cardiovascular disease prevention in England, published today by the National Audit Office (NAO), concluded that ‘not enough people are offered or receive’ NHS Health Checks and the current system ‘isn’t working\nThe post Incentivise GPs to do NHS Health Checks via QOF, NAO suggests appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/incentivise-gps-to-do-nhs-health-checks-via-qof-nao-suggests/",
-          "publishedOn": "2024-11-13T00:02:00.000Z",
-          "wordCount": 2461,
-          "title": "Incentivise GPs to do NHS Health Checks via QOF, NAO suggests",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/01/health-check-blood-pressure-hypertension.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=155497",
-          "author": "Anna Colivicchi",
-          "description": "The health secretary has promised to cut long hospital waiting times back down to the NHS 18-week target via financial incentives and performance league tables. At a speech today, Wes Streeting will say hospitals will no longer be rewarded for ‘failure’, with a ban on senior managers receiving pay rises at underperforming trusts. Under the\nThe post Streeting pledges to bring hospital waiting times down with league tables appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/nhs-structures/streeting-pledges-to-bring-hospital-waiting-times-down-with-league-tables/",
-          "publishedOn": "2024-11-13T00:01:00.000Z",
-          "wordCount": 2074,
-          "title": "Streeting pledges to bring hospital waiting times down with league tables",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/05/hospital.jpg"
         }
       ]
     },
@@ -1289,6 +1289,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1899612",
+          "author": null,
+          "description": "GPs need a new contract that brings an end to competing incentives with pharmacy and allows them the financial freedom to build services around patients, policy experts have said.",
+          "link": "https://www.gponline.com/gp-pharmacy-contracts-need-harmonising-end-competing-incentives-mps-told/article/1899612",
+          "publishedOn": "2024-12-12T10:12:09.000Z",
+          "wordCount": 723,
+          "title": "GP and pharmacy contracts need 'harmonising' to end competing incentives, MPs told",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/westminster_GettyImages-track5_RF_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1899505",
           "author": null,
@@ -2884,16 +2894,6 @@
           "wordCount": 7679,
           "title": "Speech: Our ambition to reform the NHS",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/6688152fd9d35187868f454f/wes-streeting.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/zero-tolerance-for-failure-under-package-of-tough-nhs-reforms",
-          "author": null,
-          "description": "Health and Social Care Secretary will outline how government and NHS leaders have a duty to patients and taxpayers to get the system working well",
-          "link": "https://www.gov.uk/government/news/zero-tolerance-for-failure-under-package-of-tough-nhs-reforms",
-          "publishedOn": "2024-11-13T00:01:02.000Z",
-          "wordCount": 3301,
-          "title": "Press release: Zero tolerance for failure under package of tough NHS reforms",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3786,6 +3786,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213347",
+          "author": "Owen Hughes",
+          "description": "Today's news roundup covers the government's new £100m CRDC scheme and concerns about the UK's underinvestment in digital initiatives.",
+          "link": "https://www.digitalhealth.net/2024/12/digital-health-coffee-time-briefing-%e2%98%95-28/",
+          "publishedOn": "2024-12-12T11:30:57.000Z",
+          "wordCount": 4388,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213249",
           "author": "Jordan Sollof",
