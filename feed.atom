@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-12T14:11:44.109Z</updated>
+    <updated>2024-12-12T15:12:30.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Department of Health and Social Care prompt payment of suppliers]]></title>
+        <id>https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data</id>
+        <link href="https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data"/>
+        <updated>2024-12-12T14:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Proportion of payments made within 5 and 30 working days.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Macmillan chief executive joins Rewired 2025 speaker lineup]]></title>
         <id>https://www.digitalhealth.net/?p=213273</id>
