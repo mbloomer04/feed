@@ -1909,6 +1909,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=257952",
+          "author": "rwootton",
+          "description": "Flu hit hospitals in England even harder last week, as a ‘tidal wave’ of infections led to a 70% increase in hospital cases across just 7 days. The NHS is encouraging eligible people to get vaccinated without delay if they haven’t done so already to avoid “festive flu” with an average of 1,861 patients with […]",
+          "link": "https://www.england.nhs.uk/2024/12/tidal-wave-of-flu-hitting-hospitals-amid-record-treatment-delivered-for-patients/",
+          "publishedOn": "2024-12-12T10:49:42.000Z",
+          "wordCount": 1645,
+          "title": "‘Tidal wave’ of flu hitting hospitals amid record treatment delivered for patients",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=257881",
           "author": "jboshell",
           "description": "The NHS is using AI to predict patients who are at risk of becoming frequent users of emergency services so staff can get them more appropriate care at an earlier stage. The intervention will ensure that thousands of people get the support they need earlier, while also reducing demand on pressured A&Es. Over 360,000 patients […]",
@@ -2095,6 +2105,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/advice-accepted-on-spring-2025-covid-19-vaccination-programme",
+          "author": null,
+          "description": "The government has accepted advice from the Joint Committee on Vaccination and Immunisation (JCVI) for the spring 2025 COVID-19 vaccination programme",
+          "link": "https://www.gov.uk/government/news/advice-accepted-on-spring-2025-covid-19-vaccination-programme",
+          "publishedOn": "2024-12-12T12:34:53.000Z",
+          "wordCount": 1081,
+          "title": "Press release: Advice accepted on spring 2025 COVID-19 vaccination programme",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/health-protection-notification-regulations-2010-proposed-amendments",
           "author": null,

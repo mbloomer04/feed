@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-12T12:23:33.523Z</updated>
+    <updated>2024-12-12T13:22:51.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Advice accepted on spring 2025 COVID-19 vaccination programme]]></title>
+        <id>https://www.gov.uk/government/news/advice-accepted-on-spring-2025-covid-19-vaccination-programme</id>
+        <link href="https://www.gov.uk/government/news/advice-accepted-on-spring-2025-covid-19-vaccination-programme"/>
+        <updated>2024-12-12T12:34:53.000Z</updated>
+        <summary type="html"><![CDATA[The government has accepted advice from the Joint Committee on Vaccination and Immunisation (JCVI) for the spring 2025 COVID-19 vaccination programme]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Potential for GP numbers boost as medical schools improve uptake in deprived areas]]></title>
         <id>https://www.pulsetoday.co.uk/?p=156960</id>
@@ -57,6 +67,16 @@ The post Carr-Hill overhaul must consider young deprived patients, says new repo
 The post Under-18s puberty blocker ban extended indefinitely following expert advice appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Tidal wave’ of flu hitting hospitals amid record treatment delivered for patients]]></title>
+        <id>https://www.england.nhs.uk/?p=257952</id>
+        <link href="https://www.england.nhs.uk/2024/12/tidal-wave-of-flu-hitting-hospitals-amid-record-treatment-delivered-for-patients/"/>
+        <updated>2024-12-12T10:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Flu hit hospitals in England even harder last week, as a ‘tidal wave’ of infections led to a 70% increase in hospital cases across just 7 days. The NHS is encouraging eligible people to get vaccinated without delay if they haven’t done so already to avoid “festive flu” with an average of 1,861 patients with […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>
