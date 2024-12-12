@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-12T07:12:15.043Z</updated>
+    <updated>2024-12-12T08:16:18.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Chief Medical Officer’s annual report 2024: health in cities]]></title>
+        <id>https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2024-health-in-cities</id>
+        <link href="https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2024-health-in-cities"/>
+        <updated>2024-12-12T08:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Professor Whitty’s report outlines a broad range of health opportunities and challenges for city populations, and includes case studies from core cities in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: £100 million public-private health research boost]]></title>
         <id>https://www.gov.uk/government/news/100-million-public-private-health-research-boost</id>
