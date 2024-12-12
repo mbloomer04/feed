@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-12T08:16:18.388Z</updated>
+    <updated>2024-12-12T09:13:06.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS using AI to predict frequent emergency service users]]></title>
+        <id>https://www.digitalhealth.net/?p=213205</id>
+        <link href="https://www.digitalhealth.net/2024/12/nhs-using-ai-to-predict-frequent-emergency-service-users/"/>
+        <updated>2024-12-12T08:30:35.000Z</updated>
+        <summary type="html"><![CDATA[The NHS in England is using AI to predict patients who are at risk of becoming frequent users of emergency services.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Independent report: Chief Medical Officer’s annual report 2024: health in cities]]></title>
         <id>https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2024-health-in-cities</id>
