@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-13T08:16:09.609Z</updated>
+    <updated>2024-12-13T09:12:46.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=213287</id>
+        <link href="https://www.digitalhealth.net/2024/12/digital-healths-monthly-roundup-of-contracts-and-go-lives-47/"/>
+        <updated>2024-12-13T08:30:03.000Z</updated>
+        <summary type="html"><![CDATA[The latest roundup includes East Sussex Healthcare NHS Trust selecting Nervecentre as its preferred electronic patient record supplier.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around 3,500 out-of-work GPs could be hired overnight for £35 per patient]]></title>
+        <id>https://www.gponline.com/article/1899686</id>
+        <link href="https://www.gponline.com/around-3500-out-of-work-gps-hired-overnight-35-per-patient/article/1899686"/>
+        <updated>2024-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A £3-a-month increase in general practice funding per patient could bring an extra 3,500 full-time GPs into the workforce overnight, an organisation representing doctors has estimated.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMC regulation of physician associates begins despite doctors' concerns]]></title>
         <id>https://www.gponline.com/article/1899717</id>
