@@ -1290,6 +1290,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1899642",
+          "author": null,
+          "description": "The GPonline team discusses the key news stories affecting general practice, including the challenges facing the NHS this winter, how the GP jobs crisis is affecting locums and whether GPs in Wales and Scotland could take industrial action.",
+          "link": "https://www.gponline.com/podcast-winter-pressures-falling-locum-pay-one-area-transformed-its-patient-per-gp-ratio/article/1899642",
+          "publishedOn": "2024-12-13T08:17:00.000Z",
+          "wordCount": 933,
+          "title": "Podcast: Winter pressures, falling locum pay, how one area transformed its patient per GP ratio",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_983.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1899686",
+          "author": null,
+          "description": "A £3-a-month increase in general practice funding per patient could bring an extra 3,500 full-time GPs into the workforce overnight, an organisation representing doctors has estimated.",
+          "link": "https://www.gponline.com/around-3500-gps-hired-overnight-35-per-patient/article/1899686",
+          "publishedOn": "2024-12-13T08:00:00.000Z",
+          "wordCount": 715,
+          "title": "Around 3,500 GPs could be hired overnight for £35 per patient",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1899686",
           "author": null,
           "description": "A £3-a-month increase in general practice funding per patient could bring an extra 3,500 full-time GPs into the workforce overnight, an organisation representing doctors has estimated.",
@@ -3766,6 +3786,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213397",
+          "author": "Owen Hughes",
+          "description": "Patients Know Best (PKB) is partnering with digital health company Wellola to boost their combined offerings in mental health and community care.",
+          "link": "https://www.digitalhealth.net/2024/12/pkb-partners-with-wellola-in-mental-heath-and-community-push/",
+          "publishedOn": "2024-12-13T11:00:58.000Z",
+          "wordCount": 4022,
+          "title": "PKB partners with Wellola in mental heath and community push",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Patients-Know-Best-in-use-1.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213287",
           "author": "Jordan Sollof",

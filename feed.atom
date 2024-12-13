@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-13T10:13:11.517Z</updated>
+    <updated>2024-12-13T11:10:06.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PKB partners with Wellola in mental heath and community push]]></title>
+        <id>https://www.digitalhealth.net/?p=213397</id>
+        <link href="https://www.digitalhealth.net/2024/12/pkb-partners-with-wellola-in-mental-heath-and-community-push/"/>
+        <updated>2024-12-13T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Patients Know Best (PKB) is partnering with digital health company Wellola to boost their combined offerings in mental health and community care.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
         <id>https://www.digitalhealth.net/?p=213287</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[The latest roundup includes East Sussex Healthcare NHS Trust selecting Nervecentre as its preferred electronic patient record supplier.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Winter pressures, falling locum pay, how one area transformed its patient per GP ratio]]></title>
+        <id>https://www.gponline.com/article/1899642</id>
+        <link href="https://www.gponline.com/podcast-winter-pressures-falling-locum-pay-one-area-transformed-its-patient-per-gp-ratio/article/1899642"/>
+        <updated>2024-12-13T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice, including the challenges facing the NHS this winter, how the GP jobs crisis is affecting locums and whether GPs in Wales and Scotland could take industrial action.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around 3,500 GPs could be hired overnight for £35 per patient]]></title>
+        <id>https://www.gponline.com/article/1899686</id>
+        <link href="https://www.gponline.com/around-3500-gps-hired-overnight-35-per-patient/article/1899686"/>
+        <updated>2024-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A £3-a-month increase in general practice funding per patient could bring an extra 3,500 full-time GPs into the workforce overnight, an organisation representing doctors has estimated.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
