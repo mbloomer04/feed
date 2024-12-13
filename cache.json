@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=156984",
+          "author": "Eliza Parr",
+          "description": "North East London ICB has enlisted the services of an AI company to help identify patients at high risk of A&E attendance and hospital referrals by GPs. During a three-year programme, ‘advanced AI screening’ will be used identify patients with long-term conditions who are likely to need unplanned emergency care and offer them ‘clinical coaching’\nThe post High-risk patients to be identified via AI to reduce A&E attendance and GP referrals appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/high-risk-patients-to-be-identified-via-ai-to-reduce-ae-attendance-and-gp-referrals/",
+          "publishedOn": "2024-12-13T16:15:31.000Z",
+          "wordCount": 2413,
+          "title": "High-risk patients to be identified via AI to reduce A&E attendance and GP referrals",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/04/GP-practices-being-told-off-for-patients-inappropriately-attending-AE.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=157089",
           "author": "Anna Colivicchi",
           "description": "The move of hundreds of GP practice IT systems from EMIS to Vision has been put on hold due to upstream financial problems. IT provider Cegedim announced that its British subsidiary In Practice Systems Limited (INPS), a software publisher, decided to ‘voluntarily’ place itself under administration on Tuesday this week. The software publisher was the\nThe post Major GP IT system migration on hold after supplier goes into administration appeared first on Pulse Today.",
@@ -2176,6 +2186,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
+          "author": null,
+          "description": "Guidance for GP practices, hospitals, hospices and medical examiner offices about when to order more MCCDs and what to do with completed MCCDs.",
+          "link": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
+          "publishedOn": "2024-12-13T16:55:17.000Z",
+          "wordCount": 1453,
+          "title": "Guidance: Ordering and retaining medical certificates of cause of death (MCCDs)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/speeches/health-and-social-care-secretarys-statement-puberty-blockers",
           "author": null,
           "description": "The Health and Social Care Secretary made a statement to the House of Commons on puberty-suppressing hormones on 11 December.",
@@ -2962,6 +2982,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/12/dhscs-written-evidence-to-the-senior-salaries-review-body-ssrb-for-the-pay-round-2025-to-2026.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - The SSRB has been asked to make a pay recommendation on the current levels of pay for very senior managers (VSMs) in the NHS and executive and senior managers (ESMs) in DHSC’s arm’s length bodies (ALBs). The written evidence seeks to enable the SSRB to make independent observations on the levels of...",
+          "link": "https://kingsfund.blogs.com/health_management/2024/12/dhscs-written-evidence-to-the-senior-salaries-review-body-ssrb-for-the-pay-round-2025-to-2026.html",
+          "publishedOn": "2024-12-13T17:06:51.000Z",
+          "wordCount": null,
+          "title": "DHSC's written evidence to the Senior Salaries Review Body (SSRB) for the pay round 2025 to 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2024/12/realising-the-health-mission-from-emergency-care-to-prevention.html",
+          "author": null,
+          "description": "The King's Fund - Reflecting on the patients she met on a shift with the London Ambulance Service, Sarah Woolnough considers what it will take to make the shift towards prevention. Blog The King's Fund - blogs",
+          "link": "https://kingsfund.blogs.com/health_management/2024/12/realising-the-health-mission-from-emergency-care-to-prevention.html",
+          "publishedOn": "2024-12-13T16:58:51.000Z",
+          "wordCount": null,
+          "title": "Realising the health mission: from emergency care to prevention",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2024/12/chief-medical-officers-annual-report-2024-health-in-cities.html",
           "author": null,
