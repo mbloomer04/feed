@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-14T08:14:05.426Z</updated>
+    <updated>2024-12-14T09:11:21.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1179,6 +1179,16 @@ The post GPs criticised for continuing to call police to attend mental health cr
         <summary type="html"><![CDATA[Community pharmacy chain Well Pharmacy has signed up for access to the Greater Manchester (GM) Care Record.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning deaths decline globally but the most vulnerable remain at risk]]></title>
+        <id>urn:uuid:4eb2851e-92a2-47ca-8496-94bcd7a28a18</id>
+        <link href="https://www.who.int/news/item/13-12-2024-drowning-deaths-decline-globally-but-the-most-vulnerable-remain-at-risk"/>
+        <updated>2024-12-06T13:27:14.000Z</updated>
+        <summary type="html"><![CDATA[WHO publishes its first-ever report on drowning prevention, which reveals a 38% drop in the global drowning death rate since 2000—a major global health achievement. However, the report notes that drowning remains a major public health issue.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
