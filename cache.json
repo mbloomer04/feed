@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=157168",
+          "author": "Maya Dhillon",
+          "description": "Following the fall of Syria’s regime, NHS doctors of the Syrian diaspora are pitching in on the ground to help treat liberated political prisoners. Sally Howard reports On 20 December Dr Ghanem Tayara, an NHS GP, will fly home. Dr Tayara has lived in the UK for 29 years, but this is the first time\nThe post The NHS GPs heading home to Syria to treat patients liberated from the regime appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/special/workforce/the-nhs-gps-heading-home-to-syria-to-treat-patients-liberated-from-the-regime/",
+          "publishedOn": "2024-12-17T15:54:55.000Z",
+          "wordCount": 2754,
+          "title": "The NHS GPs heading home to Syria to treat patients liberated from the regime",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/12/Karim-1200-800.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=156672",
           "author": "Sofia Lind",
           "description": "More than two thirds of young people with long Covid recover within two years, say UK researchers who carried out the largest study to date including 11-17-year-olds. But some groups appear more at risk than others of longer-term problems, including those living in the most deprived areas, the study found. Young people aged between 11\nThe post Most young people with long Covid recover within two years appeared first on Pulse Today.",
@@ -2155,6 +2165,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-gender-pay-gap-report-and-data-2024",
+          "author": null,
+          "description": "Data on the difference in employees’ average earnings from April 2023 to March 2024.",
+          "link": "https://www.gov.uk/government/publications/dhsc-gender-pay-gap-report-and-data-2024",
+          "publishedOn": "2024-12-17T16:00:05.000Z",
+          "wordCount": 820,
+          "title": "Transparency data: DHSC: gender pay gap report and data 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-non-consolidated-performance-related-pay-for-2022-to-2023",
+          "author": null,
+          "description": "Non-consolidated performance-related pay for the Department of Health and Social Care and its agencies between 2022 and 2023.",
+          "link": "https://www.gov.uk/government/publications/dhsc-non-consolidated-performance-related-pay-for-2022-to-2023",
+          "publishedOn": "2024-12-17T16:00:04.000Z",
+          "wordCount": 839,
+          "title": "Transparency data: DHSC: non-consolidated performance-related pay for 2022 to 2023",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/investigating-suspected-criminal-activity-in-healthcare-mou",
+          "author": null,
+          "description": "Memorandum of understanding for investigating healthcare incidents where suspected criminal activity may have contributed to death or serious life-changing harm.",
+          "link": "https://www.gov.uk/government/publications/investigating-suspected-criminal-activity-in-healthcare-mou",
+          "publishedOn": "2024-12-17T16:00:03.000Z",
+          "wordCount": 1320,
+          "title": "Guidance: Investigating suspected criminal activity in healthcare: MoU",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-annual-report-and-accounts-2023-to-2024",
+          "author": null,
+          "description": "How the Department of Health and Social Care has funded its activities and used its resources during the financial year 2023 to 2024.",
+          "link": "https://www.gov.uk/government/publications/dhsc-annual-report-and-accounts-2023-to-2024",
+          "publishedOn": "2024-12-17T15:19:08.000Z",
+          "wordCount": 1250,
+          "title": "Corporate report: DHSC annual report and accounts: 2023 to 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2024-to-2025",
           "author": null,
