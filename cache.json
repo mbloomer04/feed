@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=157037",
+          "author": "Sofia Lind",
+          "description": "Children from the most deprived areas are four times more likely to die from an asthma attack, a charity has warned. Asthma + Lung UK called on the Government to take ‘urgent action’ to prevent child asthma deaths including tackling poor housing conditions and air pollution. It comes as the National Child Mortality Database Report\nThe post Latest report on child asthma deaths highlights stark impact of deprivation appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/paediatrics/latest-report-on-child-asthma-deaths-highlights-stark-impact-of-deprivation/",
+          "publishedOn": "2024-12-19T09:40:36.000Z",
+          "wordCount": 2296,
+          "title": "Latest report on child asthma deaths highlights stark impact of deprivation",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/01/deprivation-deprived-areas.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=156156",
+          "author": "Mollie Fraser-Andrews",
+          "description": "For a bit of fun in the lead-up to Christmas we are asking if you can help diagnose some seasonal ailments in our Quizmas picture quiz. What are the diagnoses for the festive patients below? Click the answer boxes to find out. Note: ChatGPT was used to assist in the creation of these images\nThe post Clinical Quizmas: What is causing these patients’ long faces? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/mental-health-pain-and-addiction/clinical-quizmas-what-is-causing-these-patients-long-faces/",
+          "publishedOn": "2024-12-19T09:30:25.000Z",
+          "wordCount": 2258,
+          "title": "Clinical Quizmas: What is causing these patients’ long faces?",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/Raynauds-Christmas-quiz-1024x683-1.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=157257",
           "author": "Maya Dhillon",
           "description": "Copperfield on his lack of Christmas presents from patients It being the week before Christmas, it’s mandatory to write about something jolly and festive. Which rules out the usual-suspect news stories, even if they’re hot (RCP interim guidance limiting PA scope) or hilarious (salaried GPs should have 20% pay uplift says BMA). And especially if\nThe post ‘To my family doctor, whoever that is’ appeared first on Pulse Today.",
@@ -2135,6 +2155,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/our-plan-to-improve-the-lives-of-people-with-mecfs-easy-read",
+          "author": null,
+          "description": "The government has written a plan to support people who live with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).",
+          "link": "https://www.gov.uk/government/consultations/our-plan-to-improve-the-lives-of-people-with-mecfs-easy-read",
+          "publishedOn": "2024-12-19T09:32:01.000Z",
+          "wordCount": 1290,
+          "title": "Closed consultation: Our plan to improve the lives of people with ME/CFS (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/improving-the-experiences-of-people-with-mecfs-interim-delivery-plan",
+          "author": null,
+          "description": "We're seeking your views on an interim delivery plan to improve the experiences and outcomes of people with myalgic encephalomyelitis/chronic fatigue syndrome.",
+          "link": "https://www.gov.uk/government/consultations/improving-the-experiences-of-people-with-mecfs-interim-delivery-plan",
+          "publishedOn": "2024-12-19T09:31:55.000Z",
+          "wordCount": 1366,
+          "title": "Consultation outcome: Improving the experiences of people with ME/CFS: interim delivery plan",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/changes-to-regulations-relating-to-the-care-quality-commission",
           "author": null,
