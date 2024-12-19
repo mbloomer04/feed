@@ -3798,16 +3798,6 @@
           "wordCount": 2844,
           "title": "Lebanon: a conflict particularly destructive to health care",
           "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/ambulance-in-beirut.tmb-1200v.jpg?sfvrsn=1849684f_6"
-        },
-        {
-          "id": "urn:uuid:535ba702-b40a-447d-b467-87864eb93d3b",
-          "author": null,
-          "description": "The first-ever Investment Round of the World Health Organization (WHO) reached a culminating moment during the G20 Leaders' Summit today in Rio de Janeiro, chaired by the President of Brazil, H.E. Luiz Inácio Lula da Silva. Heads of state and government at the G20 voiced strong support for a sustainably funded WHO, additional financial pledges were announced, and incoming G20 Chair South Africa pledged to maintain a focus in 2025 on sustainably financing the Organization. \nThe support was reflected in the G20 Rio de Janeiro Leaders’ Declaration which said: “We reiterate the central coordinating role of the World Health Organization (WHO) in the global health architecture, supported by adequate, predictable, transparent, flexible and sustainable financing. We support the conducting of the W…",
-          "link": "https://www.who.int/news/item/19-11-2024-who-investment-round--culminating-moment-at-g20-summit-as-leaders-pledge",
-          "publishedOn": "2024-11-19T21:11:47.000Z",
-          "wordCount": 2855,
-          "title": "WHO Investment Round: culminating moment at G20 Summit as leaders pledge",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/conference-and-events/who-investment-round-at-g20-leaders-summit.tmb-1200v.jpg?sfvrsn=db59e463_2"
         }
       ]
     },
@@ -3816,6 +3806,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213855",
+          "author": "Jordan Sollof",
+          "description": "Moorfields Eye Hospital NHS Foundation Trust is to implement MEDITECH’s Expanse electronic patient record in its 20 locations around London.",
+          "link": "https://www.digitalhealth.net/2024/12/moorfields-eye-hospital-selects-meditech-expanse-epr/",
+          "publishedOn": "2024-12-19T08:30:38.000Z",
+          "wordCount": 6570,
+          "title": "Moorfields Eye Hospital selects MEDITECH Expanse EPR",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/12/Moorfields-Eye-Hospital.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213633",
           "author": "Owen Hughes",
