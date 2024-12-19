@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=157264",
+          "author": "Eliza Parr",
+          "description": "Exclusive GPs should withdraw care for children with ADHD due to ‘capacity issues’, and as a way of pressuring the ICB into commissioning a specialist service, a group of LMCs has recommended.  North and South Essex LMCs chief executive Dr Brian Balmer told Pulse that practices are not currently paid to provide this care, and\nThe post GPs told to stop providing ADHD care to children due to ‘capacity issues’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/gps-told-to-stop-providing-adhd-care-to-children-due-to-capacity-issues/",
+          "publishedOn": "2024-12-19T11:18:55.000Z",
+          "wordCount": 2240,
+          "title": "GPs told to stop providing ADHD care to children due to ‘capacity issues’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/d/b/x/GettyImages-171450954-scaled-e1662642657443.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=157037",
           "author": "Sofia Lind",
           "description": "Children from the most deprived areas are four times more likely to die from an asthma attack, a charity has warned. Asthma + Lung UK called on the Government to take ‘urgent action’ to prevent child asthma deaths including tackling poor housing conditions and air pollution. It comes as the National Child Mortality Database Report\nThe post Latest report on child asthma deaths highlights stark impact of deprivation appeared first on Pulse Today.",
@@ -1301,16 +1311,6 @@
           "wordCount": 2125,
           "title": "Thousands of cancers caught early through lung screening, NHS England says",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/06/smokers-lung-cancer-screening.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=155741",
-          "author": "Eliza Parr",
-          "description": "Health secretary Wes Streeting has launched an independent review into the scope and safety of physician associates (PAs). Having previously recognised the ‘legitimate concerns’ of doctors, Mr Streeting has now commissioned a review into PAs and anaesthesia associates (AAs) which will cover recruitment and training, scope of practice, supervision, and regulation.  Mr Streeting said the\nThe post Health secretary launches independent review into safety of physician associates appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/regulation/health-secretary-launches-independent-review-into-safety-of-physician-associates/",
-          "publishedOn": "2024-11-20T00:01:00.000Z",
-          "wordCount": 2573,
-          "title": "Health secretary launches independent review into safety of physician associates",
-          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/PA-review.jpg"
         }
       ]
     },
@@ -1908,16 +1908,6 @@
           "wordCount": 704,
           "title": "Shingles programme should expand to over-80s, says JCVI",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1896717",
-          "author": null,
-          "description": "The government has commissioned an independent review into physician associate (PA) and anaesthesia associate (AA) roles in the NHS amid widespread safety concerns - sparking calls from the BMA for immediate steps to protect patients.",
-          "link": "https://www.gponline.com/government-launches-independent-review-safety-physician-associate-roles/article/1896717",
-          "publishedOn": "2024-11-20T00:01:00.000Z",
-          "wordCount": 712,
-          "title": "Government launches independent review into safety of physician associate roles",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick2_4.jpg"
         }
       ]
     },
@@ -1968,6 +1958,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=258238",
+          "author": "jboshell",
+          "description": "Flu cases in hospital have already surpassed last year’s peak as festive infections “flood” hospitals early this winter. Latest weekly figures published today show one in 18 hospital beds are being taken up or closed by a festive bug, with 2,504 beds alone being taken up by flu patients – an increase of almost half on […]",
+          "link": "https://www.england.nhs.uk/2024/12/winter-pressure-builds-as-no-sign-of-festive-flu-letting-up/",
+          "publishedOn": "2024-12-19T10:05:48.000Z",
+          "wordCount": 1371,
+          "title": "Winter pressure builds as no sign of ‘festive flu’ letting up",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=258210",
           "author": "jboshell",
@@ -3024,16 +3024,6 @@
           "wordCount": 869,
           "title": "Correspondence: Assisted dying bill debate: advice to pharmacy professionals",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/new-review-of-physician-and-anaesthesia-associates-launched",
-          "author": null,
-          "description": "Government launches independent review of Physician and Anaesthesia Associate professions, chaired by Professor Gillian Leng CBE.",
-          "link": "https://www.gov.uk/government/news/new-review-of-physician-and-anaesthesia-associates-launched",
-          "publishedOn": "2024-11-20T00:01:00.000Z",
-          "wordCount": 2482,
-          "title": "Press release: New review of Physician and Anaesthesia Associates launched",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3770,6 +3760,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:070eb927-d574-444f-bb65-101fb9d835e0",
+          "author": null,
+          "description": "The WHO Academy in Lyon, France, officially opened its doors today with a high-profile inauguration ceremony. The Academy aims to tackle the growing global shortage of health and care workers, projected to reach 10 million by 2030, by training thousands of health professionals each year.",
+          "link": "https://www.who.int/news/item/18-12-2024-president-macron-who-director-general-and-global-health-leaders-inaugurate-who-academy-in-lyon",
+          "publishedOn": "2024-12-17T12:44:09.000Z",
+          "wordCount": 2723,
+          "title": "President Macron, WHO Director-General, and global health leaders inaugurate WHO Academy in Lyon",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who-academy/dr-tedros-macron-academy.tmb-1200v.jpg?sfvrsn=acaa4a2e_2"
+        },
+        {
           "id": "urn:uuid:066992f3-3fc3-407f-b8ff-5d484346cd01",
           "author": null,
           "description": "The 2024 Global Heath Expenditure Report by the World Health Organization (WHO) shows that the average per capita government spending on health in all country income groups fell in 2022 from 2021 after a surge in the early pandemic years. The report entitled, “Global spending on health Emerging from the pandemic” has been published in alignment with the  Universal Health Coverage (UHC) Day campaign marked annually on 12 December. The campaign’s focus for 2024 is on improving financial protection for people everywhere to access health services they need.\nGovernment spending on health is crucial to delivering UHC. Its deprioritization can have dire consequences in a context where 4.5 billion people worldwide lack access to basic health services and 2 billion people face financial hardship du…",
@@ -3876,6 +3876,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213593",
+          "author": "Owen Hughes",
+          "description": "Our latest Coffee Time Briefing includes updates on the Synnovis strike action and insights from the National Data Guardian 2023-2024 report.",
+          "link": "https://www.digitalhealth.net/2024/12/digital-health-coffee-time-briefing-%e2%98%95-30/",
+          "publishedOn": "2024-12-19T11:30:28.000Z",
+          "wordCount": 4337,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213959",
           "author": "Tammy Lovell",
