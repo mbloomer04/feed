@@ -1300,6 +1300,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1900524",
+          "author": null,
+          "description": "GP consultations for flu-like illness rose by 42% in the week to 15 December, reflecting a spike in workload in general practice as NHS leaders warned that hospitals had been 'flooded' with cases in an early surge of illness before Christmas.",
+          "link": "https://www.gponline.com/winter-pressure-surge-gps-flu-consultations-pass-epidemic-threshold/infections-and-infestations/influenza/article/1900524",
+          "publishedOn": "2024-12-20T08:00:00.000Z",
+          "wordCount": 743,
+          "title": "Winter pressure surge for GPs as flu consultations pass epidemic threshold",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1900271",
           "author": null,
           "description": "Salaried GPs are on the increase in every part of England and partners are in decline almost everywhere. But the rate of change is hugely varied across England - GPonline looks at how the balance is changing in the GP workforce and where that shift is happening fastest.",
@@ -3690,6 +3700,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:4455b1b9-4f69-472e-8381-5c867b65d67c",
+          "author": null,
+          "description": "The ceasefire and the cessation of hostilities took effect on 27 November, offering temporary relief for the millions of civilians caught in the conflict in Lebanon. But Lebanon’s suffering did not end amid staggering unmet health needs. Bordering Syria and Israel, Lebanon’s overburdened health system is reeling from the impacts of an economic crisis, political deadlock, refugee crisis and now war. \nThe country is host to 1.5 million Syrian refugees: inevitably, events in Syria impact Lebanon and WHO operations. Syrian nationals are entering Lebanon at the same time as Syrian refugees are returning to Syria from Lebanon.\n\"An already decimated health system remarkably withstood this latest storm, but it has been further weakened. The challenges are complex and call for specialized, sustaine…",
+          "link": "https://www.who.int/news/item/20-12-2024-lebanon--soaring-needs-for-trauma-treatment-and-rehabilitation",
+          "publishedOn": "2024-12-19T14:49:14.000Z",
+          "wordCount": 2922,
+          "title": "Lebanon: soaring needs for trauma treatment and rehabilitation",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/health-workers-in-lebanon.tmb-1200v.jpg?sfvrsn=94c51cd8_2"
+        },
+        {
           "id": "urn:uuid:070eb927-d574-444f-bb65-101fb9d835e0",
           "author": null,
           "description": "The WHO Academy in Lyon, France, officially opened its doors today with a high-profile inauguration ceremony. The Academy aims to tackle the growing global shortage of health and care workers, projected to reach 10 million by 2030, by training thousands of health professionals each year.",
@@ -3806,6 +3826,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=213933",
+          "author": "Jordan Sollof",
+          "description": "Our latest roundup features a new joint CEO of Chelsea and Westminster Hospital and The Hillingdon Hospitals NHS Foundation Trusts.",
+          "link": "https://www.digitalhealth.net/2024/12/movers-and-shakers-news-roundup-55/",
+          "publishedOn": "2024-12-20T08:30:05.000Z",
+          "wordCount": 6562,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": "https://e41b000c.rocketcdn.me/wp-content/uploads/2024/07/Movers-and-Shakers.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=213865",
           "author": "Tammy Lovell",

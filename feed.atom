@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-20T08:14:48.256Z</updated>
+    <updated>2024-12-20T09:11:40.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=213933</id>
+        <link href="https://www.digitalhealth.net/2024/12/movers-and-shakers-news-roundup-55/"/>
+        <updated>2024-12-20T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Our latest roundup features a new joint CEO of Chelsea and Westminster Hospital and The Hillingdon Hospitals NHS Foundation Trusts.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter pressure surge for GPs as flu consultations pass epidemic threshold]]></title>
+        <id>https://www.gponline.com/article/1900524</id>
+        <link href="https://www.gponline.com/winter-pressure-surge-gps-flu-consultations-pass-epidemic-threshold/infections-and-infestations/influenza/article/1900524"/>
+        <updated>2024-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GP consultations for flu-like illness rose by 42% in the week to 15 December, reflecting a spike in workload in general practice as NHS leaders warned that hospitals had been 'flooded' with cases in an early surge of illness before Christmas.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[England among countries experiencing steepest rise in bowel cancer in under-50s]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157044</id>
@@ -26,6 +46,18 @@ The post England among countries experiencing steepest rise in bowel cancer in u
 The post GPs told to stop ‘subsidising’ minor surgery as part of collective action appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lebanon: soaring needs for trauma treatment and rehabilitation]]></title>
+        <id>urn:uuid:4455b1b9-4f69-472e-8381-5c867b65d67c</id>
+        <link href="https://www.who.int/news/item/20-12-2024-lebanon--soaring-needs-for-trauma-treatment-and-rehabilitation"/>
+        <updated>2024-12-19T14:49:14.000Z</updated>
+        <summary type="html"><![CDATA[The ceasefire and the cessation of hostilities took effect on 27 November, offering temporary relief for the millions of civilians caught in the conflict in Lebanon. But Lebanon’s suffering did not end amid staggering unmet health needs. Bordering Syria and Israel, Lebanon’s overburdened health system is reeling from the impacts of an economic crisis, political deadlock, refugee crisis and now war. 
+The country is host to 1.5 million Syrian refugees: inevitably, events in Syria impact Lebanon and WHO operations. Syrian nationals are entering Lebanon at the same time as Syrian refugees are returning to Syria from Lebanon.
+"An already decimated health system remarkably withstood this latest storm, but it has been further weakened. The challenges are complex and call for specialized, sustaine…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
