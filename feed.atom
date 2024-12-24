@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-24T08:14:43.882Z</updated>
+    <updated>2024-12-24T09:11:36.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s 2024 Review: Top 5 podcasts]]></title>
+        <id>https://www.digitalhealth.net/?p=212893</id>
+        <link href="https://www.digitalhealth.net/2024/12/digital-healths-2024-review-top-5-podcasts/"/>
+        <updated>2024-12-24T08:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Digital Health News takes a look at the five most listened to episodes of he Digital Health Unplugged podcast in 2024.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dr Burnt Out’s 2025 preview for general practice]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157218</id>
@@ -36,6 +46,16 @@ The post 2024 in review: The rise of the physician associates appeared first on 
         <summary type="html"><![CDATA[Booze, burns and bites are top of the list of NHS health advice being sought over Christmas. The NHS website’s information on alcohol, burns, rabies and animal bites showed the biggest increases in visits on Christmas Day and Boxing Day last year, newly released figures from NHS England show. Top of the list was advice […]]]></summary>
         <author>
             <name>jboshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luxembourg and WHO sign two strategic agreements]]></title>
+        <id>urn:uuid:d503ccdc-d0a3-4b19-9e3f-6047222e81ae</id>
+        <link href="https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements"/>
+        <updated>2024-12-23T16:44:44.000Z</updated>
+        <summary type="html"><![CDATA[A Strategic Partnership Framework (SPF) with the Ministry of Development Cooperation and Humanitarian Affairs and multiyear agreement with the Ministry of Health and Social Safety was signed on 20 December 2024. By signing two new partnership agreements, Luxembourg reaffirmed its continued support for WHO to fulfill a shared mission to promote, provide and protect health.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
