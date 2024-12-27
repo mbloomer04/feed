@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-27T12:20:20.381Z</updated>
+    <updated>2024-12-27T13:16:58.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Tackles Problem Gambling Amid Growing Demand]]></title>
+        <id>https://www.england.nhs.uk/?p=258480</id>
+        <link href="https://www.england.nhs.uk/2024/12/nhs-tackles-problem-gambling-amid-growing-demand-2/"/>
+        <updated>2024-12-27T12:21:05.000Z</updated>
+        <summary type="html"><![CDATA[The NHS in England is facing an “uphill battle” with demand for gambling addiction help more than doubling since last year.  Referrals have gone up almost 130%, with almost 2,000 people referred to gambling clinics between April and September this year, compared to just over 800 in the same period last year. However to manage […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Medicine choices in opioid substitution treatment]]></title>
         <id>https://www.gov.uk/government/publications/medicine-choices-in-opioid-substitution-treatment</id>
@@ -25,6 +35,21 @@
 The post 2024 in review: The 2024/25 GP contract and collective action appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement by Dr Tedros Adhanom Ghebreyesus, WHO Director-General on the attack on the Sana'a airport, Yemen]]></title>
+        <id>urn:uuid:aa704480-634f-4627-8278-ead3d0da2a07</id>
+        <link href="https://www.who.int/news/item/26-12-2024-statement-by-dr-tedros-adhanom-ghebreyesus--who-director-general-on-the-attack-on-the-sana-a-airport--yemen"/>
+        <updated>2024-12-26T18:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Our mission to negotiate the release of the United Nations staff detainees and to assess the health and humanitarian situation in Yemen concluded today. 
+We continue to call for the detainees' immediate release.  
+As we were about to board our flight from Sana’a, about three hours ago (around 5 pm local time), the airport came under aerial bombardment.  One of our plane’s crew members was injured.  At least two people were reported killed at the airport.  
+The air traffic control tower, the departure lounge — just a few meters from where we were — and the runway were damaged.  We will need to wait for the damage to the airport to be repaired before we can leave. 
+My UN and WHO colleagues and I are safe. 
+Our heartfelt condolences to the families whose loved ones lost their lives in the attack.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
