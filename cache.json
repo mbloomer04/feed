@@ -1706,6 +1706,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/quit-for-a-week-and-save-a-day-say-health-experts",
+          "author": null,
+          "description": "Smokers who choose to quit on the 1 January could save a whole day of their life by 8 January, according to new research.",
+          "link": "https://www.gov.uk/government/news/quit-for-a-week-and-save-a-day-say-health-experts",
+          "publishedOn": "2024-12-30T00:01:07.000Z",
+          "wordCount": 3421,
+          "title": "Press release: Quit for a week and save a day, say health experts",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicine-choices-in-opioid-substitution-treatment",
           "author": null,
           "description": "Recommendations for prescribing methadone and buprenorphine to people in treatment for opioid dependence in England.",
