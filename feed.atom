@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-30T23:10:11.959Z</updated>
+    <updated>2024-12-31T00:53:16.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Record numbers complete NHS Couch to 5k app]]></title>
+        <id>https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app</id>
+        <link href="https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app"/>
+        <updated>2024-12-31T00:01:02.000Z</updated>
+        <summary type="html"><![CDATA[The free running app has been downloaded over 7 million times since it launched in 2016, with 9.3 million NHS Couch to 5k runs started this year.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS staff among those recognised in 2025 New Year honours list]]></title>
+        <id>https://www.england.nhs.uk/?p=258495</id>
+        <link href="https://www.england.nhs.uk/2024/12/nhs-staff-among-those-recognised-in-2025-new-year-honours-list/"/>
+        <updated>2024-12-30T22:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Nurses, doctors and surgeons are among dozens of NHS staff on the 2025 New Year Honour list, released today (Monday 30 December). The head of the NHS, Amanda Pritchard, praised the dedication of those recognised in what has again been another challenging year for the health service. This year staff have dealt with record levels of demand but also […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: New Year Honours 2025: Ambulance Service list]]></title>
         <id>https://www.gov.uk/government/publications/new-year-honours-2025-ambulance-service-list</id>
