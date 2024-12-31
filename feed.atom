@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-31T16:12:43.582Z</updated>
+    <updated>2024-12-31T17:09:15.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS national medical director comments on latest winter pressures]]></title>
+        <id>https://www.england.nhs.uk/?p=258517</id>
+        <link href="https://www.england.nhs.uk/2024/12/nhs-national-medical-director-comments-on-latest-winter-pressures/"/>
+        <updated>2024-12-31T13:59:04.000Z</updated>
+        <summary type="html"><![CDATA[NHS national medical director, Professor Sir Stephen Powis, said: “The winter flu season has not only hit the NHS early this year, but it is potentially on track to be one of the worst we have ever seen, as the ‘quad-demic’ continues to increase pressure across services. “Frontline NHS staff are currently under significant pressure […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Provisional list of NHS abortion clinics and hospitals in England, 2024]]></title>
         <id>https://www.gov.uk/government/publications/provisional-list-of-nhs-abortion-clinics-and-hospitals-in-england-2024</id>
