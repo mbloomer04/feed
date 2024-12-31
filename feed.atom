@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2024-12-31T10:11:56.084Z</updated>
+    <updated>2024-12-31T11:09:21.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -85,6 +85,21 @@ The post 2024 in review: The 10-year plan and neighbourhood teams appeared first
         <summary type="html"><![CDATA[Recipients of The King's Ambulance Service Medal 2025.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milestone: COVID-19 five years ago]]></title>
+        <id>urn:uuid:de1c6f88-8660-4274-b6f6-b08abbafa414</id>
+        <link href="https://www.who.int/news/item/30-12-2024-milestone-covid-19-five-years-ago"/>
+        <updated>2024-12-30T16:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Five years ago on 31 December 2019, WHO’s Country Office in China picked up a media statement by the Wuhan Municipal Health Commission from their website on cases of ‘viral pneumonia’ in Wuhan, China. In the weeks, months and years that unfolded after that, COVID-19 came to shape our lives and our world. 
+At WHO, we went to work immediately as the new year dawned. WHO employees activated emergency systems on 1 January 2020, and informed the world on 4 January. By 9-12 January, WHO had published its first set of comprehensive guidance for countries, and on 13 January, we brought together partners to publish the blueprint of the first SARS-CoV-2 laboratory test. 
+All along, we convened experts and ministries of health from around the world, gathered and analysed data, and shared what was reported, what we learned and what it meant for people. Read about WHO’s actions in this  interactive timeline. 
+As we mark this milestone, let’s take a moment to honour the lives changed and lost, recognize those who are suffering from COVID-19 and long COVID, express gratitude to the health workers who sacrificed so much to care for us, and commit to learning from COVID-19 to build a healthier tomorrow. 
+We continue to call on China to share data and access so we can understand the origins of COVID-19. This is a moral and scientific imperative. Without transparency, sharing, and cooperation among countries, the world cannot adequately prevent and prepare for future epidemics and pandemics. 
+As we pose the question, “Is the world better prepared for the next pandemic than we were for COVID-19?” see WHO Director-General Dr Tedros Adhanom Ghebreyesus’s response at a recent press conference: https://who.canto.global/b/SHEJL]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
