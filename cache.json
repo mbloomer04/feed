@@ -971,26 +971,6 @@
           "wordCount": 2136,
           "title": "NHS clinical negligence costs likely to reduce after Treasury decision",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/10/Getty-1194484882_1200x800.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=156286",
-          "author": "Sofia Lind",
-          "description": "Dr Burnt Out takes issue with the BMA’s ‘assistance’ in preparing the Assisted Dying Bill. As I am sure a lot of you did, I watched with interest the events unfold regarding Kim Leadbeater’s bill on physician-assisted dying last Friday which passed, and for all intents and purposes set in motion a chain of events\nThe post Dr Burnt Out on assisted dying: The meaning of neutrality appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/views/clinical-areas/mental-health-pain-and-addiction/dr-burnt-out-on-assisted-dying-the-meaning-of-neutrality/",
-          "publishedOn": "2024-12-02T12:50:01.000Z",
-          "wordCount": 2417,
-          "title": "Dr Burnt Out on assisted dying: The meaning of neutrality",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/02/Dr-Burnt-Out.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=156289",
-          "author": "Eliza Parr",
-          "description": "The RCGP will consult members to establish a position on assisted dying following a new bill’s progress in Parliament.  Over the weekend, the RCGP council voted in favour of mandating the college to ‘undertake a new all-member survey’ to inform a future decision on its ‘principle stance on the legalisation of assisted dying’.  This meant\nThe post GPs will be consulted on assisted dying laws to establish RCGP position appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/gps-will-be-consulted-on-assisted-dying-laws-to-establish-rcgp-position/",
-          "publishedOn": "2024-12-02T12:46:35.000Z",
-          "wordCount": 2350,
-          "title": "GPs will be consulted on assisted dying laws to establish RCGP position",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/11/assisted-dying.jpg"
         }
       ]
     },
@@ -1695,6 +1675,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/healthy-start",
+          "author": null,
+          "description": "Healthy Start is an NHS scheme that helps women who are pregnant or have young children and are receiving benefits, buy foods such as milk or fruit.",
+          "link": "https://www.gov.uk/healthy-start",
+          "publishedOn": "2025-01-01T00:01:03.000Z",
+          "wordCount": 1187,
+          "title": "Healthy Start",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/provisional-list-of-nhs-abortion-clinics-and-hospitals-in-england-2024",
           "author": null,
