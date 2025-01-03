@@ -1576,6 +1576,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
+          "publishedOn": "2025-01-03T10:54:36.000Z",
+          "wordCount": 1001,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2024 to March 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/healthy-start",
           "author": null,
           "description": "Healthy Start is an NHS scheme that helps women who are pregnant or have young children and are receiving benefits, buy foods such as milk or fruit.",
@@ -2646,6 +2656,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=214315",
+          "author": "Jordan Sollof",
+          "description": "A pilot by South Tyneside and Sunderland NHS Foundation Trust is utilising technology to support digital access for kidney patients.",
+          "link": "https://www.digitalhealth.net/2025/01/pilot-utilises-tech-to-support-digital-access-for-kidney-patients/",
+          "publishedOn": "2025-01-03T11:00:08.000Z",
+          "wordCount": 3656,
+          "title": "Pilot utilises tech to support digital access for kidney patients",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/Renal-tablet-South-Tyneside-and-Sunderland-NHS-FT.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=214279",
           "author": "Jordan Sollof",

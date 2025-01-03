@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-03T10:11:45.283Z</updated>
+    <updated>2025-01-03T11:09:10.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pilot utilises tech to support digital access for kidney patients]]></title>
+        <id>https://www.digitalhealth.net/?p=214315</id>
+        <link href="https://www.digitalhealth.net/2025/01/pilot-utilises-tech-to-support-digital-access-for-kidney-patients/"/>
+        <updated>2025-01-03T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[A pilot by South Tyneside and Sunderland NHS Foundation Trust is utilising technology to support digital access for kidney patients.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2024 to March 2025]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025"/>
+        <updated>2025-01-03T10:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS Lothian launches AI physiotherapy clinic pilot for patients]]></title>
         <id>https://www.digitalhealth.net/?p=214279</id>
