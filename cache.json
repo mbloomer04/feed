@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=157433",
+          "author": "Eliza Parr",
+          "description": "Over 80% of GPs experienced verbal abuse from patients in 2024, while a quarter were subjected to physical violence, a new survey has found. Worryingly, over a fifth of GPs also reported that they have endured thoughts of harming themselves due to work pressures. The medical defence organisation MDDUS recently conducted a survey of 1,855\nThe post Over 80% of GPs faced verbal abuse from patients last year, finds survey appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/special-investigations/gp-abuse/over-80-of-gps-faced-verbal-abuse-from-patients-last-year-finds-survey/",
+          "publishedOn": "2025-01-03T12:14:40.000Z",
+          "wordCount": 2299,
+          "title": "Over 80% of GPs faced verbal abuse from patients last year, finds survey",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/05/Abuse_in_general_practice.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=157426",
+          "author": "Eliza Parr",
+          "description": "GP practices could face legal action from physician associates (PAs), as an unofficial representative body revealed plans to take forward 184 individual employment claims. The organisation, United Medical Associate Professionals (UMAPs), claimed there have been around 200 PA redundancies from surgeries since October as a result of ‘discriminatory’ scope guidance produced by both the BMA\nThe post Physician associate body preparing over 180 legal cases against GP practices appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/physician-associate-body-preparing-over-180-legal-cases-against-gp-practices/",
+          "publishedOn": "2025-01-03T11:49:52.000Z",
+          "wordCount": 2417,
+          "title": "Physician associate body preparing over 180 legal cases against GP practices",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/12/health-bill-GP-legal-CCGs-medicolegal.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=157417",
           "author": "Eliza Parr",
           "description": "Several GPs have been recognised for their achievements and contributions to healthcare in the King’s New Year Honours list.  A total of five GPs made the list for 2025, which ‘recognises the achievements and service of extraordinary people across the UK’. RCGP Wales chair Dr Rowena Christmas, who is also a GP principal at the\nThe post GPs recognised in 2025 New Year Honours appeared first on Pulse Today.",
@@ -900,6 +920,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1901068",
+          "author": null,
+          "description": "Take part in the GP Business survey of private and professional fees and you could be in with a chance of winning £350 of John Lewis vouchers.",
+          "link": "https://www.gponline.com/complete-fees-survey-chance-win-350-john-lewis-vouchers/article/1901068",
+          "publishedOn": "2025-01-03T11:30:01.000Z",
+          "wordCount": 1122,
+          "title": "Complete our fees survey for a chance to win £350 of John Lewis vouchers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-661505270.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1901015",
           "author": null,
           "description": "Talking General Practice speaks to Dr Tommy Perkins and accountant Andy Pow from Medics Money about the year ahead for general practice finance and how practices can ensure their business is in good shape.",
@@ -1339,6 +1369,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=258570",
+          "author": "nowen",
+          "description": "New NHS data covering the Christmas and New Year period shows flu cases have continued to skyrocket, with over 5,000 patients hospitalised with the virus at the end of last week. Last week (w/e 29 Dec) there were an average of 4,469 patients with flu in hospital each day – almost 3.5 times higher than […]",
+          "link": "https://www.england.nhs.uk/2025/01/hospital-patients-with-flu-quadrupled-to-over-5000-ahead-of-new-year/",
+          "publishedOn": "2025-01-03T10:06:39.000Z",
+          "wordCount": 1498,
+          "title": "Hospital patients with flu quadrupled to over 5,000 ahead of New Year",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=258507",
           "author": "jboshell",
           "description": "The proportion of patients being diagnosed with cancer at an early stage in England has risen to its highest ever level, according to new NHS analysis.  Latest data on 13 of the most common cancers, such as breast, prostate and lung cancer, shows that nearly three in five patients are now being diagnosed at stages […]",
@@ -1575,6 +1615,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/new-reforms-and-independent-commission-to-transform-social-care",
+          "author": null,
+          "description": "Immediate investment and reforms to improve adult social care, and Louise Casey appointed to head independent commission and build cross-party consensus.",
+          "link": "https://www.gov.uk/government/news/new-reforms-and-independent-commission-to-transform-social-care",
+          "publishedOn": "2025-01-03T11:18:33.000Z",
+          "wordCount": 7350,
+          "title": "Press release: New reforms and independent commission to transform social care",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
           "author": null,
