@@ -900,6 +900,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1901015",
+          "author": null,
+          "description": "Talking General Practice speaks to Dr Tommy Perkins and accountant Andy Pow from Medics Money about the year ahead for general practice finance and how practices can ensure their business is in good shape.",
+          "link": "https://www.gponline.com/podcast-general-practice-finance-year-ahead/article/1901015",
+          "publishedOn": "2025-01-03T07:54:00.000Z",
+          "wordCount": 880,
+          "title": "Podcast: General practice finance in the year ahead",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_985.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1900791",
           "author": null,
           "description": "Plans to add practice nurses to the additional roles reimbursement scheme (ARRS) risk creating a two-tier employment system and driving more staff into at-scale working, GPs and nursing leaders have warned.",
@@ -2628,16 +2638,6 @@
           "wordCount": 3072,
           "title": "Drowning deaths decline globally but the most vulnerable remain at risk",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/populations-demographics-human-behaviour-and-injuries/drowning/child-by-pond.tmb-1200v.jpg?sfvrsn=62e2ec95_6"
-        },
-        {
-          "id": "urn:uuid:97f8c710-0127-4025-ba1d-1e28e9ede159",
-          "author": null,
-          "description": "The World Health Organization (WHO) has granted prequalification to the molecular diagnostic test for tuberculosis (TB) called Xpert® MTB/RIF Ultra. It is the first test for TB diagnosis and antibiotic susceptibility testing that meets WHO's prequalification standards. \nTuberculosis is one of the world’s leading infectious disease killers, causing over a million deaths annually and imposing immense socioeconomic burdens, especially in low- and middle-income countries. Accurate and early detection of TB, especially drug-resistant strains, remains a critical and challenging global health priority. \n“This first prequalification of a diagnostic test for tuberculosis marks a critical milestone in WHO’s efforts to support countries in scaling up and accelerating access to high-quality TB assays …",
-          "link": "https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test",
-          "publishedOn": "2024-12-04T21:20:12.000Z",
-          "wordCount": 2064,
-          "title": "WHO announces first prequalification of a tuberculosis diagnostic test",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/laboratory-in-tuberculosis-centre.tmb-1200v.jpg?sfvrsn=e6c549e_1"
         }
       ]
     },

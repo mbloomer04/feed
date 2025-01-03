@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-03T09:11:50.264Z</updated>
+    <updated>2025-01-03T10:11:45.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[NHS Lothian in Scotland has made an AI-powered physiotherapy clinic available to nearly one million patients as part of a large-scale pilot.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: General practice finance in the year ahead]]></title>
+        <id>https://www.gponline.com/article/1901015</id>
+        <link href="https://www.gponline.com/podcast-general-practice-finance-year-ahead/article/1901015"/>
+        <updated>2025-01-03T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Dr Tommy Perkins and accountant Andy Pow from Medics Money about the year ahead for general practice finance and how practices can ensure their business is in good shape.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -3080,18 +3090,6 @@ The post NICE accepts slower rollout of tirzepatide but GP workload concerns rem
         <summary type="html"><![CDATA[Staff working for NHS pathology provider Synnovis have announced plans to strike for five days, following a major cyber attack in June 2024.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO announces first prequalification of a tuberculosis diagnostic test]]></title>
-        <id>urn:uuid:97f8c710-0127-4025-ba1d-1e28e9ede159</id>
-        <link href="https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test"/>
-        <updated>2024-12-04T21:20:12.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) has granted prequalification to the molecular diagnostic test for tuberculosis (TB) called Xpert® MTB/RIF Ultra. It is the first test for TB diagnosis and antibiotic susceptibility testing that meets WHO's prequalification standards. 
-Tuberculosis is one of the world’s leading infectious disease killers, causing over a million deaths annually and imposing immense socioeconomic burdens, especially in low- and middle-income countries. Accurate and early detection of TB, especially drug-resistant strains, remains a critical and challenging global health priority. 
-“This first prequalification of a diagnostic test for tuberculosis marks a critical milestone in WHO’s efforts to support countries in scaling up and accelerating access to high-quality TB assays …]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
