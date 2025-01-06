@@ -1486,6 +1486,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/pm-sets-out-plan-to-end-waiting-list-backlogs-through-millions-more-appointments",
+          "author": null,
+          "description": "Millions of patients will be able to access more appointments closer to home and get the treatment they need faster under a new plan to tackle hospital backlogs.",
+          "link": "https://www.gov.uk/government/news/pm-sets-out-plan-to-end-waiting-list-backlogs-through-millions-more-appointments",
+          "publishedOn": "2025-01-06T09:04:08.000Z",
+          "wordCount": 4364,
+          "title": "Press release: PM sets out plan to end waiting list backlogs through millions more appointments",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/5a37daeaed915d5a5f96602b/s960_number10.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/new-reforms-and-independent-commission-to-transform-social-care",
           "author": null,
           "description": "Immediate investment and reforms to improve adult social care, and Louise Casey appointed to head independent commission and build cross-party consensus.",
@@ -2466,6 +2476,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=214351",
+          "author": "Jordan Sollof",
+          "description": "The government will develop a shared digital platform to allow up-to-date medical information to be shared between the NHS and care staff.",
+          "link": "https://www.digitalhealth.net/2025/01/government-to-develop-nhs-shared-digital-platform-for-medical-info/",
+          "publishedOn": "2025-01-06T08:30:22.000Z",
+          "wordCount": 3639,
+          "title": "Government to develop NHS shared digital platform for medical info",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/DHSC.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=214337",
           "author": "Jordan Sollof",
