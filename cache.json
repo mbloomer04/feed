@@ -1516,6 +1516,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/power-to-patient-as-government-sets-out-plan-to-cut-waiting-lists",
+          "author": null,
+          "description": "Patients will be offered a wider choice of providers and the process of booking treatments and appointments will be made as smooth as possible",
+          "link": "https://www.gov.uk/government/news/power-to-patient-as-government-sets-out-plan-to-cut-waiting-lists",
+          "publishedOn": "2025-01-06T11:06:24.000Z",
+          "wordCount": 3166,
+          "title": "Press release: Power to patient as government sets out plan to cut waiting lists",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-general-ophthalmic-service-fees-and-optical-voucher-values-from-april-2024",
           "author": null,
           "description": "Letter and directions setting out general ophthalmic services fees, payments, optical voucher values and hospital eye service charges from 1 April 2024.",
@@ -2054,16 +2064,6 @@
           "wordCount": 2765,
           "title": "Press release: UK & Switzerland deepen science ties with £16 million backing",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/67531a9e20bcf083762a6d31/s960_govuk_1__1_.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/government-to-tackle-nhs-workforce-crisis-with-refreshed-plan",
-          "author": null,
-          "description": "Revised Workforce Plan to be unveiled in summer, ensuring we train necessary staff and provide the NHS with stability and certainty to plan into the future.",
-          "link": "https://www.gov.uk/government/news/government-to-tackle-nhs-workforce-crisis-with-refreshed-plan",
-          "publishedOn": "2024-12-08T00:01:05.000Z",
-          "wordCount": 2484,
-          "title": "Press release: Government to tackle NHS workforce crisis with refreshed plan",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -2072,6 +2072,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/01/reforming-elective-care-for-patients.html",
+          "author": null,
+          "description": "NHS England - This plan sets out how the NHS will reform elective care services and meet the 18 week referral to treatment standard by March 2029. The aim is that elective care will be increasingly personalised and digital, with a focus on improving experience and convenience, and empowering people with choice and control over when and where they will...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/01/reforming-elective-care-for-patients.html",
+          "publishedOn": "2025-01-06T12:18:13.000Z",
+          "wordCount": null,
+          "title": "Reforming elective care for patients",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/01/counting-what-matters-how-to-classify-account-and-track-spending-for-prevention.html",
           "author": null,
