@@ -870,6 +870,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1901718",
+          "author": null,
+          "description": "General practice is facing an 'extremely busy winter' with consultations for flu-like illness well above the seasonal average, as doctors' leaders warned of a 'national emergency' for the NHS as a whole.",
+          "link": "https://www.gponline.com/spike-flu-driving-extremely-busy-winter-gps-nhs-faces-national-emergency/article/1901718",
+          "publishedOn": "2025-01-09T12:08:01.000Z",
+          "wordCount": 733,
+          "title": "Spike in flu driving extremely busy winter for GPs as NHS faces 'national emergency'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Patients_GettyImages-SDIProductions_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1901644",
           "author": null,
           "description": "GPs and practice teams are facing extra workload and a rise in complaints from patients denied weight loss drugs on the NHS that they have previously obtained privately, the Institute of General Practice Managers (IGPM) has revealed.",
@@ -1565,6 +1575,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/supplementary-information-for-pharmaceutical-wholesalers-on-the-windsor-framework",
+          "author": null,
+          "description": "Information for pharmaceutical wholesalers explaining the main changes the Windsor Framework introduces to the packaging for all medicines licensed in the UK, effective from 1 January 2025.",
+          "link": "https://www.gov.uk/government/publications/supplementary-information-for-pharmaceutical-wholesalers-on-the-windsor-framework",
+          "publishedOn": "2025-01-09T15:48:37.000Z",
+          "wordCount": 1039,
+          "title": "Guidance: Supplementary information for pharmaceutical wholesalers on the Windsor Framework",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/supplementary-information-for-pharmacists-and-medicines-procurers-on-the-windsor-framework",
+          "author": null,
+          "description": "Information for pharmaceutical wholesalers explaining the main changes the Windsor Framework introduces to the packaging for all medicines licensed in the UK, effective from 1 January 2025.",
+          "link": "https://www.gov.uk/government/publications/supplementary-information-for-pharmacists-and-medicines-procurers-on-the-windsor-framework",
+          "publishedOn": "2025-01-09T15:48:33.000Z",
+          "wordCount": 1071,
+          "title": "Guidance: Supplementary information for pharmacists and medicines procurers on the Windsor Framework",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/changes-to-rules-the-care-quality-commission-easy-read",
           "author": null,
