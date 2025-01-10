@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=157669",
+          "author": "Eliza Parr",
+          "description": "The Government has rejected a call to make over-the-counter (OTC) medicines free of charge to reduce pressure on GPs.  In May last year, the previous Health and Social Care Committee recommended that OTC medication should become ‘free for people on low incomes, as part of the Pharmacy First scheme’.  The aim was to ‘avoid patients\nThe post Government rejects call to make OTC medicines free to reduce GP pressure appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/long-term-conditions-prescribing/government-rejects-call-to-make-otc-medicines-free-to-reduce-gp-pressure/",
+          "publishedOn": "2025-01-10T11:27:52.000Z",
+          "wordCount": 2186,
+          "title": "Government rejects call to make OTC medicines free to reduce GP pressure",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/z/y/o/GettyImages-669895608-scaled-e1600369463491.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=157634",
           "author": "Anna Colivicchi",
           "description": "Exclusive Cambridgeshire and Peterborough ICB has unveiled further detail on its planned care model overhaul, including a central patiens ‘helpdesk’ and a shift of funding towards general practice. An updated draft plan said it will invest up to £205m into the radical overhaul, which will also see new neighbourhood hubs being introduced to bring together\nThe post Central patient ‘helpdesk’ and increased GP funding part of £205m ICB plan appeared first on Pulse Today.",
@@ -1308,16 +1318,6 @@
           "wordCount": 925,
           "title": "ICB cuts deny GPs millions of pounds 'ringfenced' for general practice",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_77.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1899505",
-          "author": null,
-          "description": "GP practices serving England's most deprived areas receive almost 10% less funding per patient than their counterparts in the most affluent areas, according to a report that calls for the 'outdated and unfair' Carr-Hill formula to be scrapped.",
-          "link": "https://www.gponline.com/outdated-gp-funding-formula-leaves-practices-deprived-areas-10-less-funding/article/1899505",
-          "publishedOn": "2024-12-12T00:01:00.000Z",
-          "wordCount": 925,
-          "title": "Outdated GP funding formula leaves practices in deprived areas with 10% less funding",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_24.jpg"
         }
       ]
     },
@@ -1567,16 +1567,6 @@
           "wordCount": 1645,
           "title": "‘Tidal wave’ of flu hitting hospitals amid record treatment delivered for patients",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=257881",
-          "author": "jboshell",
-          "description": "The NHS is using AI to predict patients who are at risk of becoming frequent users of emergency services so staff can get them more appropriate care at an earlier stage. The intervention will ensure that thousands of people get the support they need earlier, while also reducing demand on pressured A&Es. Over 360,000 patients […]",
-          "link": "https://www.england.nhs.uk/2024/12/nhs-ai-giving-patients-better-care-and-support/",
-          "publishedOn": "2024-12-12T00:01:11.000Z",
-          "wordCount": 1458,
-          "title": "NHS artificial intelligence (AI) giving patients better care and support",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1585,6 +1575,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/families-to-receive-126-million-in-early-years-support",
+          "author": null,
+          "description": "Thousands of parents and children across England will be able to give their child the best start in life thanks to a £126 million government funding boost.",
+          "link": "https://www.gov.uk/government/news/families-to-receive-126-million-in-early-years-support",
+          "publishedOn": "2025-01-10T11:48:13.000Z",
+          "wordCount": 4609,
+          "title": "Press release: Families to receive £126 million in early years support",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/vpas-aggregate-net-sales-and-payment-information-november-2024",
           "author": null,
@@ -2084,26 +2084,6 @@
           "wordCount": 1187,
           "title": "Independent report: Chief Medical Officer’s annual report 2024: health in cities",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/100-million-public-private-health-research-boost",
-          "author": null,
-          "description": "20 new clinical research hubs to be set up across UK to accelerate research into the next generation of treatments.",
-          "link": "https://www.gov.uk/government/news/100-million-public-private-health-research-boost",
-          "publishedOn": "2024-12-12T00:15:01.000Z",
-          "wordCount": 3192,
-          "title": "Press release: £100 million public-private health research boost",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/chief-medical-officers-annual-report-health-in-cities",
-          "author": null,
-          "description": "2024 Annual Report from Chief Medical Officer, Professor Chris Whitty, focusing on ‘Health In Cities'.",
-          "link": "https://www.gov.uk/government/news/chief-medical-officers-annual-report-health-in-cities",
-          "publishedOn": "2024-12-12T00:01:04.000Z",
-          "wordCount": 1407,
-          "title": "Press release: Chief Medical Officer's Annual Report - Health in Cities",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
