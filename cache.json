@@ -1566,6 +1566,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/vpas-aggregate-net-sales-and-payment-information-november-2024",
+          "author": null,
+          "description": "Information on how the 2019 voluntary scheme for branded medicines pricing and access (VPAS) controlled spend on branded medicines in the NHS between 2019 and 2023.",
+          "link": "https://www.gov.uk/government/publications/vpas-aggregate-net-sales-and-payment-information-november-2024",
+          "publishedOn": "2025-01-10T09:30:09.000Z",
+          "wordCount": 975,
+          "title": "Transparency data: VPAS aggregate net sales and payment information: November 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/supplementary-information-for-pharmaceutical-wholesalers-on-the-windsor-framework",
           "author": null,
           "description": "Information for pharmaceutical wholesalers explaining the main changes the Windsor Framework introduces to the packaging for all medicines licensed in the UK, effective from 1 January 2025.",
@@ -2083,6 +2093,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2025/01/emergency-preparedness-resilience-and-response-concept-of-operations.html",
+          "author": null,
+          "description": "UK Health Security Agency - This guidance sets out the UK Health Security Agency’s approach to systematically preparing for, responding to and recovering from health security incidents. These include: infectious diseases; pandemics; chemical, biological, radiological and nuclear events; extreme adverse weather events; business continuity challenges; and cyber security events. Guidance UK Health Security Agency - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2025/01/emergency-preparedness-resilience-and-response-concept-of-operations.html",
+          "publishedOn": "2025-01-10T10:06:04.000Z",
+          "wordCount": null,
+          "title": "Emergency preparedness, resilience and response concept of operations",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2025/01/a-portrait-of-modern-britain-health-the-publics-priorities-for-the-nhs.html",
           "author": null,
           "description": "Policy Exchange - This report – based on polling of 2,000 representative Britons in 2024 – examines the perceptions of and priorities the British public have for the NHS. It found that the NHS providing services free at point of use was less of a priority to the public than ensuring access to a GP and treating major conditions. It...",
@@ -2458,16 +2478,6 @@
           "wordCount": 2723,
           "title": "President Macron, WHO Director-General, and global health leaders inaugurate WHO Academy in Lyon",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who-academy/dr-tedros-macron-academy.tmb-1200v.jpg?sfvrsn=acaa4a2e_2"
-        },
-        {
-          "id": "urn:uuid:066992f3-3fc3-407f-b8ff-5d484346cd01",
-          "author": null,
-          "description": "The 2024 Global Heath Expenditure Report by the World Health Organization (WHO) shows that the average per capita government spending on health in all country income groups fell in 2022 from 2021 after a surge in the early pandemic years. The report entitled, “Global spending on health Emerging from the pandemic” has been published in alignment with the  Universal Health Coverage (UHC) Day campaign marked annually on 12 December. The campaign’s focus for 2024 is on improving financial protection for people everywhere to access health services they need.\nGovernment spending on health is crucial to delivering UHC. Its deprioritization can have dire consequences in a context where 4.5 billion people worldwide lack access to basic health services and 2 billion people face financial hardship du…",
-          "link": "https://www.who.int/news/item/12-12-2024-new-who-report-reveals-governments-deprioritizing-health-spending",
-          "publishedOn": "2024-12-11T22:08:01.000Z",
-          "wordCount": 2864,
-          "title": "New WHO report reveals governments deprioritizing health spending",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/universal-health-coverage/uhc_north_darfur.tmb-1200v.jpg?sfvrsn=2a9fff46_1"
         }
       ]
     },
