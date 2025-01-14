@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-14T08:14:27.514Z</updated>
+    <updated>2025-01-14T09:11:43.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government announces AI Action Plan including health data library]]></title>
+        <id>https://www.digitalhealth.net/?p=215357</id>
+        <link href="https://www.digitalhealth.net/2025/01/government-announces-ai-action-plan-including-health-data-library/"/>
+        <updated>2025-01-14T08:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Prime minister Keir Starmer has unveiled details of the government’s AI Opportunities Action Plan, which includes a National Data Library.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS rolls out lifesaving home testing for bowel cancer to over 50s]]></title>
         <id>https://www.england.nhs.uk/?p=259013</id>
