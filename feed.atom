@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-16T08:14:07.240Z</updated>
+    <updated>2025-01-16T09:11:32.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC Government Major Projects Portfolio data, 2024]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-government-major-projects-portfolio-data-2024</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-government-major-projects-portfolio-data-2024"/>
+        <updated>2025-01-16T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Department of Health and Social Care (DHSC) March 2024 Government Major Projects Portfolio data that supports the 2023-24 Infrastructure and Projects Authority (IPA) annual report.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQC says 500 inspection reports are stuck in IT platform]]></title>
+        <id>https://www.digitalhealth.net/?p=215721</id>
+        <link href="https://www.digitalhealth.net/2025/01/cqc-says-500-inspection-reports-are-stuck-in-it-platform/"/>
+        <updated>2025-01-16T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[The Care Quality Commission (CQC) revealed that it has around 500 reports which are “stuck” in its IT platform and cannot be retrieved.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Hearing aids in the UK]]></title>
+        <id>https://www.gov.uk/government/publications/hearing-aids-in-the-uk</id>
+        <link href="https://www.gov.uk/government/publications/hearing-aids-in-the-uk"/>
+        <updated>2025-01-16T08:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Policy statement setting out case studies for the sale of hearing aids in the UK.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hundreds of people at increased cancer risk identified by new NHS BRCA testing programme]]></title>
         <id>https://www.england.nhs.uk/?p=259113</id>

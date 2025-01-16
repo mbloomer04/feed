@@ -1516,6 +1516,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-government-major-projects-portfolio-data-2024",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) March 2024 Government Major Projects Portfolio data that supports the 2023-24 Infrastructure and Projects Authority (IPA) annual report.",
+          "link": "https://www.gov.uk/government/publications/dhsc-government-major-projects-portfolio-data-2024",
+          "publishedOn": "2025-01-16T09:00:03.000Z",
+          "wordCount": 993,
+          "title": "Transparency data: DHSC Government Major Projects Portfolio data, 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/hearing-aids-in-the-uk",
+          "author": null,
+          "description": "Policy statement setting out case studies for the sale of hearing aids in the UK.",
+          "link": "https://www.gov.uk/government/publications/hearing-aids-in-the-uk",
+          "publishedOn": "2025-01-16T08:30:03.000Z",
+          "wordCount": 993,
+          "title": "Policy paper: Hearing aids in the UK",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/uk-invests-55-million-to-tackle-mpox-in-sub-saharan-africa",
           "author": null,
           "description": "£5.5 million to go towards vital research projects to tackle ongoing mpox outbreaks in DRC and neighbouring countries.",
@@ -2256,6 +2276,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=215721",
+          "author": "Jordan Sollof",
+          "description": "The Care Quality Commission (CQC) revealed that it has around 500 reports which are “stuck” in its IT platform and cannot be retrieved.",
+          "link": "https://www.digitalhealth.net/2025/01/cqc-says-500-inspection-reports-are-stuck-in-it-platform/",
+          "publishedOn": "2025-01-16T08:30:17.000Z",
+          "wordCount": 3647,
+          "title": "CQC says 500 inspection reports are stuck in IT platform",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/CQC_logo-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=215465",
           "author": "Tammy Lovell",
