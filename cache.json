@@ -830,6 +830,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1902707",
+          "author": null,
+          "description": "GPs in England have been called to give evidence on the impact of medicines shortages, factors contributing to it and potential solutions.",
+          "link": "https://www.gponline.com/gps-called-give-evidence-impact-medicines-shortages/article/1902707",
+          "publishedOn": "2025-01-17T09:55:37.000Z",
+          "wordCount": 697,
+          "title": "GPs called to give evidence on impact of medicines shortages",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/westminster_GettyImages-track5_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1902607",
           "author": null,
           "description": "Talking General Practice speaks to Dr Richard Fieldhouse, chair of the National Association of Sessional GPs, about how the current jobs market is affecting locum GPs and what the NHS could do to make better use of locums",
@@ -2316,6 +2326,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=215557",
+          "author": "Jordan Sollof",
+          "description": "The Royal Orthopaedic Hospital NHS FT has launched a pilot with VitVio to enhance the safety and efficiency of surgical procedures.",
+          "link": "https://www.digitalhealth.net/2025/01/royal-orthopaedic-hospital-pilots-vitvio-to-boost-surgical-safety/",
+          "publishedOn": "2025-01-17T11:00:44.000Z",
+          "wordCount": 3609,
+          "title": "Royal Orthopaedic Hospital pilots VitVio to boost surgical safety",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/Royal-Orthopaedic-Hospital.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=215831",
           "author": "Jordan Sollof",
