@@ -6,84 +6,94 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
-          "id": "85825aaa-e2f2-4a84-a65c-6988f7db87fa",
+          "id": "c2e9c7db-c63a-4ccc-bbfc-7dcf5f537679",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines\n Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines\n Updated: 05 Sep 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4542",
-          "publishedOn": "2024-09-05T15:34:00.000Z",
-          "wordCount": 923,
-          "title": "CC-4542 - Veeam Releases September 2024 Security Bulletin",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n Security researchers claim CVE-2024-53691 could lead to RCE\n Security researchers claim CVE-2024-53691 could lead to RCE\n Updated: 17 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4608",
+          "publishedOn": "2025-01-17T16:05:00.000Z",
+          "wordCount": null,
+          "title": "CC-4608 - Proof-of-Concept Exploit Released for CVE-2024-53691 in QNAP QTS and QuTS NAS",
+          "imageUrl": null
         },
         {
-          "id": "e5f08660-ed81-435d-a34c-0dc21ea1cf25",
+          "id": "e6f7251d-9b94-47fd-a1d5-c79608bd067a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices\n Updated: 04 Sep 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4541",
-          "publishedOn": "2024-09-04T14:47:00.000Z",
-          "wordCount": 1436,
-          "title": "CC-4541 - Zyxel Releases Multiple Security Advisories",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 159 vulnerabilities, with three reported as actively exploited\n Scheduled updates for Microsoft products, including security updates for 159 vulnerabilities, with three reported as actively exploited\n Updated: 15 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4607",
+          "publishedOn": "2025-01-15T16:12:00.000Z",
+          "wordCount": null,
+          "title": "CC-4607 - Microsoft Releases January 2025 Security Updates",
+          "imageUrl": null
         },
         {
-          "id": "18401ee8-6a00-412f-89b8-05ea56eb9a97",
+          "id": "550341ce-cce5-4c2c-83bb-cff0402c22aa",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Advisories address two vulnerabilities, one rated as critical and the other as high severity\n Updated: 28 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4540",
-          "publishedOn": "2024-08-28T15:34:00.000Z",
-          "wordCount": 685,
-          "title": "CC-4540 - Fortra Releases Security Advisories for FileCatalyst Workflow",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n Updates address 4 critical and 12 high severity vulnerabilities\n Updates address 4 critical and 12 high severity vulnerabilities\n Updated: 15 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4606",
+          "publishedOn": "2025-01-15T14:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4606 - Ivanti Releases January 2025 Updates for EPM",
+          "imageUrl": null
         },
         {
-          "id": "74ab7663-66c2-40c7-acbf-7c60ea2baa00",
+          "id": "1ef5adf3-7488-480b-ab18-48db3fc39b72",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security update includes one exploited high severity vulnerability in Google Chrome\n Security update includes one exploited high severity vulnerability in Google Chrome\n Updated: 22 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4539",
-          "publishedOn": "2024-08-22T14:12:00.000Z",
-          "wordCount": 525,
-          "title": "CC-4539 - Google Releases Security Updates for Chrome",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n Exploitation of critical vulnerability CVE-2023-37936 could allow an unauthenticated attacker to perform RCE\n Exploitation of critical vulnerability CVE-2023-37936 could allow an unauthenticated attacker to perform RCE\n Updated: 15 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4605",
+          "publishedOn": "2025-01-15T14:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4605 - Fortinet Releases Security Advisory for FortiSwitch",
+          "imageUrl": null
         },
         {
-          "id": "109955e9-5dd3-4129-8431-57e20b76a8c4",
+          "id": "9228b5b9-ef28-42e9-a609-6596f6ee91ce",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities\n Updated: 14 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4537",
-          "publishedOn": "2024-08-14T12:15:00.000Z",
-          "wordCount": 1174,
-          "title": "CC-4537 - Microsoft Releases August 2024 Security Updates",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: High\n CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges\n CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges\n Updated: 14 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4604",
+          "publishedOn": "2025-01-14T16:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4604 - Active Exploitation of Zero-Day Vulnerability CVE-2024-55591 in FortiOS and FortiProxy",
+          "imageUrl": null
         },
         {
-          "id": "f23828e8-5b9e-4a50-942d-224ccd27ffaa",
+          "id": "a419e7fc-3b58-4f2d-a9a0-6d9d56e1ea7e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation\n Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation\n Updated: 14 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4538",
-          "publishedOn": "2024-08-14T12:01:00.000Z",
-          "wordCount": 524,
-          "title": "CC-4538 - Adobe Releases Security Updates for Acrobat and Reader",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n Updates address two critical vulnerabilities which could lead to information disclosure or privilege escalation, and fourteen others affecting multiple products\n Updates address two critical vulnerabilities which could lead to information disclosure or privilege escalation, and fourteen others affecting multiple products\n Updated: 14 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4603",
+          "publishedOn": "2025-01-14T15:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4603 - SAP Releases January 2025 Updates",
+          "imageUrl": null
         },
         {
-          "id": "63eb5ba8-c97f-4427-9353-262e32dc8d76",
+          "id": "54218f6d-dae1-4f09-ae23-038361b19c4e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could lead to full system compromise\n Successful exploitation could lead to full system compromise\n Updated: 14 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4536",
-          "publishedOn": "2024-08-14T11:59:00.000Z",
-          "wordCount": 521,
-          "title": "CC-4536 - SAP Releases Security Update for BusinessObjects",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1723634587878/images/nhs-england-logo-social.jpg"
+          "description": "Severity: High\n CVE-2025-0282 could allow an unauthenticated attacker to achieve RCE and is under active exploitation. Patches also fix CVE-2025-0283 which could be exploited to allow a local attacker to escalate their privileges.\n CVE-2025-0282 could allow an unauthenticated attacker to achieve RCE and is under active exploitation. Patches also fix CVE-2025-0283 which could be exploited to allow a local attacker to escalate their privileges.\n Updated: 09 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4602",
+          "publishedOn": "2025-01-09T11:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4602 - Active Exploitation of Zero-Day Vulnerability in Ivanti Connect Secure, Policy Secure, and Neurons for ZTA Gateways",
+          "imageUrl": null
         },
         {
-          "id": "004b7f6c-b964-430f-bb6a-c3f6ec8eb34a",
+          "id": "aa2a0b95-3ff2-412a-911c-e03a39b7d292",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updates address three vulnerabilities that could lead to theft of emails and contacts\n Updated: 08 Aug 2024",
-          "link": "https://digital.nhs.uk/cyber-alerts/2024/cc-4535",
-          "publishedOn": "2024-08-08T13:38:00.000Z",
-          "wordCount": 656,
-          "title": "CC-4535 - Roundcube Releases Security Updates for Webmail",
-          "imageUrl": "https://digital.nhs.uk/webfiles/1722943377372/images/nhs-england-logo-social.jpg"
+          "description": "Severity: Medium\n SonicWall releases security update to address four vulnerabilities in SonicOS\n SonicWall releases security update to address four vulnerabilities in SonicOS\n Updated: 10 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4601",
+          "publishedOn": "2025-01-08T15:20:00.000Z",
+          "wordCount": null,
+          "title": "CC-4601 - Multiple Vulnerabilities in SonicOS",
+          "imageUrl": null
+        },
+        {
+          "id": "08fd6381-edce-4165-909c-454a0a695d0a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates fix two vulnerabilities that could lead to RCE and denial-of-service\n Security updates fix two vulnerabilities that could lead to RCE and denial-of-service\n Updated: 07 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4600",
+          "publishedOn": "2025-01-07T15:44:00.000Z",
+          "wordCount": null,
+          "title": "CC-4600 - Multiple Vulnerabilities in Redis",
+          "imageUrl": null
         }
       ]
     },
@@ -881,16 +891,6 @@
           "wordCount": 2551,
           "title": "2024 in review: The 2024/25 GP contract and collective action",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/09/English-LMCs-to-hold-special-conference-to-discuss-new-GP-contract.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=157218",
-          "author": "Maya Dhillon",
-          "description": "Dr Burnt Out takes a satirical look at what 2025 could have in store for general practice JanuaryNorth West London ICB suddenly halts funding to half of the area’s GP practices, and announces that they need to all urgently move to an empty repurposed storage warehouse along the edge of the North Circular Road which has been\nThe post Dr Burnt Out’s 2025 preview for general practice appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/views/dr-burnt-out/dr-burnt-outs-2025-preview-for-general-practice/",
-          "publishedOn": "2024-12-24T08:02:00.000Z",
-          "wordCount": 2679,
-          "title": "Dr Burnt Out’s 2025 preview for general practice",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/02/Dr-Burnt-Out.jpg"
         }
       ]
     },

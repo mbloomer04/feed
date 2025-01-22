@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-22T19:09:16.616Z</updated>
+    <updated>2025-01-22T20:12:17.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -463,6 +463,19 @@ The health challenges ahead are immense. The entire population of Gaza has faced
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CC-4608 - Proof-of-Concept Exploit Released for CVE-2024-53691 in QNAP QTS and QuTS NAS]]></title>
+        <id>c2e9c7db-c63a-4ccc-bbfc-7dcf5f537679</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4608"/>
+        <updated>2025-01-17T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security researchers claim CVE-2024-53691 could lead to RCE
+ Security researchers claim CVE-2024-53691 could lead to RCE
+ Updated: 17 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPs warned against using artificial intelligence without ICB approval]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157789</id>
         <link href="https://www.pulsetoday.co.uk/news/technology/gps-warned-against-using-artificial-intelligence-without-icb-approval/"/>
@@ -897,6 +910,19 @@ The post Repeated paracetamol use linked with severe complications in over-65s a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CC-4607 - Microsoft Releases January 2025 Security Updates]]></title>
+        <id>e6f7251d-9b94-47fd-a1d5-c79608bd067a</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4607"/>
+        <updated>2025-01-15T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products, including security updates for 159 vulnerabilities, with three reported as actively exploited
+ Scheduled updates for Microsoft products, including security updates for 159 vulnerabilities, with three reported as actively exploited
+ Updated: 15 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Population need’ GP funding overhaul would cost just £333m, according to ICB modelling]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157842</id>
         <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/population-need-gp-funding-overhaul-would-cost-just-333m-according-to-icb-modelling/"/>
@@ -916,6 +942,32 @@ The post ‘Population need’ GP funding overhaul would cost just £333m, accor
 The post Reform plan? No scan do appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4606 - Ivanti Releases January 2025 Updates for EPM]]></title>
+        <id>550341ce-cce5-4c2c-83bb-cff0402c22aa</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4606"/>
+        <updated>2025-01-15T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates address 4 critical and 12 high severity vulnerabilities
+ Updates address 4 critical and 12 high severity vulnerabilities
+ Updated: 15 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4605 - Fortinet Releases Security Advisory for FortiSwitch]]></title>
+        <id>1ef5adf3-7488-480b-ab18-48db3fc39b72</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4605"/>
+        <updated>2025-01-15T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Exploitation of critical vulnerability CVE-2023-37936 could allow an unauthenticated attacker to perform RCE
+ Exploitation of critical vulnerability CVE-2023-37936 could allow an unauthenticated attacker to perform RCE
+ Updated: 15 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -1011,6 +1063,19 @@ The post CQC admits to backlog for looking into major issues of concern about NH
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CC-4604 - Active Exploitation of Zero-Day Vulnerability CVE-2024-55591 in FortiOS and FortiProxy]]></title>
+        <id>9228b5b9-ef28-42e9-a609-6596f6ee91ce</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4604"/>
+        <updated>2025-01-14T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges
+ CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges
+ Updated: 14 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GP staff quitting or considering quitting over cost of living, say practice managers]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157775</id>
         <link href="https://www.pulsetoday.co.uk/news/workforce/gp-staff-quitting-or-considering-quitting-over-cost-of-living-say-practice-managers/"/>
@@ -1030,6 +1095,19 @@ The post GP staff quitting or considering quitting over cost of living, say prac
 The post GP practices in deprived areas should be ‘prioritised’ for funding, say researchers appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4603 - SAP Releases January 2025 Updates]]></title>
+        <id>a419e7fc-3b58-4f2d-a9a0-6d9d56e1ea7e</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4603"/>
+        <updated>2025-01-14T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates address two critical vulnerabilities which could lead to information disclosure or privilege escalation, and fourteen others affecting multiple products
+ Updates address two critical vulnerabilities which could lead to information disclosure or privilege escalation, and fourteen others affecting multiple products
+ Updated: 14 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -1681,6 +1759,19 @@ The post Health secretary grilled on further GP redundancy claims appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CC-4602 - Active Exploitation of Zero-Day Vulnerability in Ivanti Connect Secure, Policy Secure, and Neurons for ZTA Gateways]]></title>
+        <id>54218f6d-dae1-4f09-ae23-038361b19c4e</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4602"/>
+        <updated>2025-01-09T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ CVE-2025-0282 could allow an unauthenticated attacker to achieve RCE and is under active exploitation. Patches also fix CVE-2025-0283 which could be exploited to allow a local attacker to escalate their privileges.
+ CVE-2025-0282 could allow an unauthenticated attacker to achieve RCE and is under active exploitation. Patches also fix CVE-2025-0283 which could be exploited to allow a local attacker to escalate their privileges.
+ Updated: 09 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPs can reject requests for input on private weight-loss jab prescriptions, say LMCs]]></title>
         <id>https://www.pulsetoday.co.uk/?p=157158</id>
         <link href="https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/gps-can-reject-requests-for-input-on-private-weight-loss-jab-prescriptions-say-lmcs/"/>
@@ -1771,6 +1862,19 @@ The post Is £20 for A&G a good deal? appeared first on Pulse Today.]]></summary
 The post BMA may stand down A&G collective action if GPs ‘paid fairly’ appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4601 - Multiple Vulnerabilities in SonicOS]]></title>
+        <id>aa2a0b95-3ff2-412a-911c-e03a39b7d292</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4601"/>
+        <updated>2025-01-08T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ SonicWall releases security update to address four vulnerabilities in SonicOS
+ SonicWall releases security update to address four vulnerabilities in SonicOS
+ Updated: 10 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -1897,6 +2001,19 @@ The post Behind the headlines: Are there really more ‘failing’ GP practices 
 The post Practice Tips: Exploring the role of non-GP partners in general practice appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4600 - Multiple Vulnerabilities in Redis]]></title>
+        <id>08fd6381-edce-4165-909c-454a0a695d0a</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4600"/>
+        <updated>2025-01-07T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security updates fix two vulnerabilities that could lead to RCE and denial-of-service
+ Security updates fix two vulnerabilities that could lead to RCE and denial-of-service
+ Updated: 07 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -2749,121 +2866,6 @@ Our heartfelt condolences to the families whose loved ones lost their lives in t
         <summary type="html"><![CDATA[Digital Health News takes a look at the five most listened to episodes of he Digital Health Unplugged podcast in 2024.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Burnt Out’s 2025 preview for general practice]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=157218</id>
-        <link href="https://www.pulsetoday.co.uk/views/dr-burnt-out/dr-burnt-outs-2025-preview-for-general-practice/"/>
-        <updated>2024-12-24T08:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Dr Burnt Out takes a satirical look at what 2025 could have in store for general practice JanuaryNorth West London ICB suddenly halts funding to half of the area’s GP practices, and announces that they need to all urgently move to an empty repurposed storage warehouse along the edge of the North Circular Road which has been
-The post Dr Burnt Out’s 2025 preview for general practice appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4542 - Veeam Releases September 2024 Security Bulletin]]></title>
-        <id>85825aaa-e2f2-4a84-a65c-6988f7db87fa</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4542"/>
-        <updated>2024-09-05T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines
- Security bulletin addresses critical severity vulnerabilities affecting Backup & Replication, One, Server Provider Console, and other Veeam product lines
- Updated: 05 Sep 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4541 - Zyxel Releases Multiple Security Advisories]]></title>
-        <id>e5f08660-ed81-435d-a34c-0dc21ea1cf25</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4541"/>
-        <updated>2024-09-04T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices
- Advisories address vulnerabilities in Zyxel firewalls, APs, extenders, and security router devices
- Updated: 04 Sep 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4540 - Fortra Releases Security Advisories for FileCatalyst Workflow]]></title>
-        <id>18401ee8-6a00-412f-89b8-05ea56eb9a97</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4540"/>
-        <updated>2024-08-28T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Advisories address two vulnerabilities, one rated as critical and the other as high severity
- Advisories address two vulnerabilities, one rated as critical and the other as high severity
- Updated: 28 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4539 - Google Releases Security Updates for Chrome]]></title>
-        <id>74ab7663-66c2-40c7-acbf-7c60ea2baa00</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4539"/>
-        <updated>2024-08-22T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security update includes one exploited high severity vulnerability in Google Chrome
- Security update includes one exploited high severity vulnerability in Google Chrome
- Updated: 22 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4537 - Microsoft Releases August 2024 Security Updates]]></title>
-        <id>109955e9-5dd3-4129-8431-57e20b76a8c4</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4537"/>
-        <updated>2024-08-14T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities
- Scheduled updates for Microsoft products fix 90 vulnerabilities, including ten zero-day vulnerabilities
- Updated: 14 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4538 - Adobe Releases Security Updates for Acrobat and Reader]]></title>
-        <id>f23828e8-5b9e-4a50-942d-224ccd27ffaa</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4538"/>
-        <updated>2024-08-14T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation
- Successful exploitation of the critical vulnerabilities could lead to ACE or privilege escalation
- Updated: 14 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4536 - SAP Releases Security Update for BusinessObjects]]></title>
-        <id>63eb5ba8-c97f-4427-9353-262e32dc8d76</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4536"/>
-        <updated>2024-08-14T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation could lead to full system compromise
- Successful exploitation could lead to full system compromise
- Updated: 14 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4535 - Roundcube Releases Security Updates for Webmail]]></title>
-        <id>004b7f6c-b964-430f-bb6a-c3f6ec8eb34a</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2024/cc-4535"/>
-        <updated>2024-08-08T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Updates address three vulnerabilities that could lead to theft of emails and contacts
- Updates address three vulnerabilities that could lead to theft of emails and contacts
- Updated: 08 Aug 2024]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
