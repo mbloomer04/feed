@@ -93,6 +93,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=158047",
+          "author": "Sofia Lind",
+          "description": "Use of GLP-1 weight loss-drugs – such as semaglutide (Wegovy) and tirzepatide (Mounjaro) – is associated with reduced risk of a wide range of conditions including Alzheimer’s disease and dementia, a large study has concluded. US researchers analysed the use of GLP-1 receptor agonist drugs in health records from 2.4 million people with diabetes and\nThe post GLP-1 weight-loss drugs may cut risk of dementia and other conditions appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/glp-1-weight-loss-drugs-may-cut-risk-of-dementia-and-other-conditions/",
+          "publishedOn": "2025-01-22T11:58:05.000Z",
+          "wordCount": 2132,
+          "title": "GLP-1 weight-loss drugs may cut risk of dementia and other conditions",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/10/man-weight-management-obesity-consultation-doctor.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=158025",
           "author": "Anna Colivicchi",
           "description": "GPs in Wales are missing out on more than £300,000 from contracts that haven’t been fulfilled by a large GP-led company, politicians have been told. In December Pulse reported on several locum GPs who said they were owed thousands of pounds from eHarley Street, an England-based company which is owned by two GP partners and which\nThe post GPs ‘owed more than £300k’ after company failed to fulfil contracts appeared first on Pulse Today.",
@@ -850,6 +860,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1903226",
+          "author": null,
+          "description": "MPs have raised concern over unprecedented pressure on GPs in a debate in parliament, highlighting intense workload, poor mental health, crumbling premises, recruitment and retention problems and threats to the partnership model.",
+          "link": "https://www.gponline.com/gps-under-pressure-before-mps-warn/article/1903226",
+          "publishedOn": "2025-01-22T10:03:36.000Z",
+          "wordCount": 706,
+          "title": "GPs 'under pressure as never before', MPs warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Parliament_GettyImages-Nuwan_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1903067",
           "author": null,
           "description": "GP practices are continuing to step up collective action at the start of 2025 despite appeals from the government for the profession to back down.",
@@ -1255,7 +1275,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/inoculation-injuries-and-children-in-schools-and-similar-settings",
+          "author": null,
+          "description": "Risk assessment guidelines for health protection teams (HPTs).",
+          "link": "https://www.gov.uk/government/publications/inoculation-injuries-and-children-in-schools-and-similar-settings",
+          "publishedOn": "2025-01-22T11:33:08.000Z",
+          "wordCount": 967,
+          "title": "Guidance: Inoculation injuries and children in schools and similar settings",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -1446,16 +1477,6 @@
           "publishedOn": "2024-12-26T10:01:56.000Z",
           "wordCount": 1331,
           "title": "NHS Tackles Problem Gambling Amid Growing Demand",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=258383",
-          "author": "jboshell",
-          "description": "Booze, burns and bites are top of the list of NHS health advice being sought over Christmas. The NHS website’s information on alcohol, burns, rabies and animal bites showed the biggest increases in visits on Christmas Day and Boxing Day last year, newly released figures from NHS England show. Top of the list was advice […]",
-          "link": "https://www.england.nhs.uk/2024/12/booze-burns-and-bites-top-nhs-christmas-health-advice-list/",
-          "publishedOn": "2024-12-24T00:01:17.000Z",
-          "wordCount": 1270,
-          "title": "Booze, burns and bites top NHS Christmas health advice list",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
