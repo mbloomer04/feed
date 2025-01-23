@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-23T14:10:32.196Z</updated>
+    <updated>2025-01-23T15:11:38.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4609 - Exploitation of Critical Vulnerability CVE-2025-23006 in SonicWall SMA1000 Series Appliances]]></title>
+        <id>0ce121cf-983a-4295-85e0-b09042568225</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4609"/>
+        <updated>2025-01-23T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances 
+ Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances 
+ Updated: 23 Jan 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synnovis cyber attack caused two cases of severe patient harm]]></title>
         <id>https://www.digitalhealth.net/?p=216331</id>

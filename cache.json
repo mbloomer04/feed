@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0ce121cf-983a-4295-85e0-b09042568225",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances \n Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances \n Updated: 23 Jan 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4609",
+          "publishedOn": "2025-01-23T14:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4609 - Exploitation of Critical Vulnerability CVE-2025-23006 in SonicWall SMA1000 Series Appliances",
+          "imageUrl": null
+        },
+        {
           "id": "c2e9c7db-c63a-4ccc-bbfc-7dcf5f537679",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security researchers claim CVE-2024-53691 could lead to RCE\n Security researchers claim CVE-2024-53691 could lead to RCE\n Updated: 17 Jan 2025",
