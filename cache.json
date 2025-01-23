@@ -1388,7 +1388,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "429c5390-c8c3-4152-9ff2-13cab0ad7aab",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "As we prepare to bring new products and suppliers into the GP IT market, Dan Wintercross discusses the Tech Innovation Framework. \n\r\n\r\nThe demand for primary care is increasing, with GP practices currently delivering more than 27 million appointments every month. It’s more important than ever to make sure they have the best digital tools to support them to do their job.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/new-choices-for-gp-it",
+          "publishedOn": "2025-01-03T13:49:08.000Z",
+          "wordCount": null,
+          "title": "New choices for GP IT",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -1419,6 +1430,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=259389",
+          "author": "jboshell",
+          "description": "Norovirus levels in hospitals in England are 80% higher than the same period last year, new figures show today as pressure on NHS services remains high.  New data published today shows that 784 patients a day were in hospital with norovirus last week (week ending 19 January 2025), up from 650 the previous week. Levels […]",
+          "link": "https://www.england.nhs.uk/2025/01/surge-in-norovirus-cases-keeps-pressure-on-hospitals-high/",
+          "publishedOn": "2025-01-23T12:47:58.000Z",
+          "wordCount": 1342,
+          "title": "‘Surge’ in norovirus cases keeps pressure on hospitals high",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=259228",
           "author": "Tom W",
