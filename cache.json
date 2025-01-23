@@ -930,6 +930,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1903443",
+          "author": null,
+          "description": "The overall GP workforce grew by 2.6% in 2024 - the second successive year in which GP numbers have risen - but doctors' leaders have warned that the accelerating decline of partners leaves the profession's future at risk.",
+          "link": "https://www.gponline.com/why-gps-fear-future-despite-sharp-workforce-rise-2024/article/1903443",
+          "publishedOn": "2025-01-23T12:18:43.000Z",
+          "wordCount": 726,
+          "title": "Why GPs fear for future despite sharp workforce rise in 2024",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation1_GettyImages-GrantSquibb_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1903399",
           "author": null,
           "description": "Take part in our survey, which also asks about key issues affecting locum GPsm and you could be in with a chance of winning £250 of John Lewis vouchers.",
@@ -2368,6 +2378,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=216331",
+          "author": "Jordan Sollof",
+          "description": "Two patients have suffered long-term or permanent damage to their health as a result of the cyber attack on NHS pathology provider Synnovis.",
+          "link": "https://www.digitalhealth.net/2025/01/synnovis-attack-led-to-at-least-two-cases-of-severe-patient-harm/",
+          "publishedOn": "2025-01-23T13:30:00.000Z",
+          "wordCount": 3669,
+          "title": "Synnovis cyber attack caused two cases of severe patient harm",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/Patient-harm.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=215775",
           "author": "Owen Hughes",
