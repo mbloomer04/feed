@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-24T08:14:55.671Z</updated>
+    <updated>2025-01-24T09:11:47.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Will 1,000 ARRS GPs materialise, how GPs became a minority in general practice, CQC crisis]]></title>
+        <id>https://www.gponline.com/article/1903474</id>
+        <link href="https://www.gponline.com/podcast-will-1000-arrs-gps-materialise-gps-became-minority-general-practice-cqc-crisis/article/1903474"/>
+        <updated>2025-01-24T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pitchfest finalist Kidney Beam secures seed funding for app]]></title>
+        <id>https://www.digitalhealth.net/?p=215537</id>
+        <link href="https://www.digitalhealth.net/2025/01/kidney-beam-secures-seed-funding-for-exercise-and-lifestyle-app/"/>
+        <updated>2025-01-24T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[An evidence-based kidney care app has secured £610,000 in seed funding, including a sizeable contribution from charity Kidney Research UK.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Standardised referral criteria’? Gawd help us all]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158060</id>
