@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-24T16:13:04.482Z</updated>
+    <updated>2025-01-24T17:09:34.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Handbook to the NHS Constitution for England]]></title>
+        <id>https://www.gov.uk/government/publications/supplements-to-the-nhs-constitution-for-england</id>
+        <link href="https://www.gov.uk/government/publications/supplements-to-the-nhs-constitution-for-england"/>
+        <updated>2025-01-24T16:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Information about the rights and pledges in the NHS Constitution and what these mean for NHS patients and staff.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most patients unsure when their asthma inhaler is empty, research shows]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158175</id>
