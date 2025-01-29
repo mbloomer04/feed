@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-29T11:09:04.093Z</updated>
+    <updated>2025-01-29T12:20:38.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: Code on Genetic Testing and Insurance annual report 2024: government summary]]></title>
+        <id>https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary</id>
+        <link href="https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary"/>
+        <updated>2025-01-29T11:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Summary of the 2024 annual report on the agreement between the government and the Association of British Insurers (ABI) on the use of genetic test results in underwriting insurance policies.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamped GP practices forced to cut private services that help boost income]]></title>
+        <id>https://www.gponline.com/article/1904071</id>
+        <link href="https://www.gponline.com/swamped-gp-practices-forced-cut-private-services-help-boost-income/article/1904071"/>
+        <updated>2025-01-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Just over a quarter of GP practices have stopped providing non-NHS services in the past 12 months because of rising workload, a survey suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project launched to improve regulation of AI healthcare devices]]></title>
         <id>https://www.digitalhealth.net/?p=217163</id>
@@ -3575,16 +3595,6 @@ The post GPs must continue promotion of folic acid in pregnancy after fortificat
 The post 2024 in review: The 10-year plan and neighbourhood teams appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: Record numbers complete NHS Couch to 5k app]]></title>
-        <id>https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app</id>
-        <link href="https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app"/>
-        <updated>2024-12-31T00:01:02.000Z</updated>
-        <summary type="html"><![CDATA[The free running app has been downloaded over 7 million times since it launched in 2016, with 9.3 million NHS Couch to 5k runs started this year.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>

@@ -1150,6 +1150,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1904071",
+          "author": null,
+          "description": "Just over a quarter of GP practices have stopped providing non-NHS services in the past 12 months because of rising workload, a survey suggests.",
+          "link": "https://www.gponline.com/swamped-gp-practices-forced-cut-private-services-help-boost-income/article/1904071",
+          "publishedOn": "2025-01-29T11:30:00.000Z",
+          "wordCount": 720,
+          "title": "Swamped GP practices forced to cut private services that help boost income",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2159075588.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1903617",
           "author": null,
           "description": "LMCs could call for a move towards full industrial action, a threat of mass resignation or stopping all non-core work at a March conference to debate potential escalation from current collective action by GP practices.",
@@ -1949,6 +1959,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary",
+          "author": null,
+          "description": "Summary of the 2024 annual report on the agreement between the government and the Association of British Insurers (ABI) on the use of genetic test results in underwriting insurance policies.",
+          "link": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary",
+          "publishedOn": "2025-01-29T11:46:17.000Z",
+          "wordCount": 1034,
+          "title": "Corporate report: Code on Genetic Testing and Insurance annual report 2024: government summary",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
           "author": null,
           "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
@@ -2377,16 +2397,6 @@
           "wordCount": 1096,
           "title": "Guidance: Independent clinics approved to carry out abortions in England",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app",
-          "author": null,
-          "description": "The free running app has been downloaded over 7 million times since it launched in 2016, with 9.3 million NHS Couch to 5k runs started this year.",
-          "link": "https://www.gov.uk/government/news/record-numbers-complete-nhs-couch-to-5k-app",
-          "publishedOn": "2024-12-31T00:01:02.000Z",
-          "wordCount": 2472,
-          "title": "Press release: Record numbers complete NHS Couch to 5k app",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
