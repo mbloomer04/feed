@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-29T08:14:41.462Z</updated>
+    <updated>2025-01-29T09:11:37.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Import a human medicine]]></title>
+        <id>https://www.gov.uk/guidance/import-a-human-medicine</id>
+        <link href="https://www.gov.uk/guidance/import-a-human-medicine"/>
+        <updated>2025-01-29T09:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for UK wholesalers and manufacturers on how to import human medicines including unlicensed medicines, how to apply for a licence and how much it costs.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kent Community Health NHS FT trials AI note-taking technology]]></title>
+        <id>https://www.digitalhealth.net/?p=217137</id>
+        <link href="https://www.digitalhealth.net/2025/01/kent-nhs-pilots-ambient-voice-technology-to-draft/"/>
+        <updated>2025-01-29T08:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Kent Community Healthcare NHS Foundation Trust is piloting AI-assistant TORTUS to reduce the admin burden on clinicians and social workers.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England response to ‘flawed’ PAC report]]></title>
         <id>https://www.england.nhs.uk/?p=259663</id>
@@ -25,6 +45,16 @@
 The post PAC tells Government it is time to start shifting NHS funding to general practice appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Complacent' health officials lack ideas to save NHS, MPs warn]]></title>
+        <id>https://www.gponline.com/article/1904074</id>
+        <link href="https://www.gponline.com/complacent-health-officials-lack-ideas-save-nhs-mps-warn/article/1904074"/>
+        <updated>2025-01-29T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Key government aims for the NHS - including plans to shift care from hospitals to the community - could be at risk because 'complacent' NHS and DHSC officials may not be ready to drive them through, MPs have warned in a report that also calls for a review of GP vaccination payments.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
