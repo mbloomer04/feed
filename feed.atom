@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-01-29T00:52:29.265Z</updated>
+    <updated>2025-01-29T02:09:01.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England response to ‘flawed’ PAC report]]></title>
+        <id>https://www.england.nhs.uk/?p=259663</id>
+        <link href="https://www.england.nhs.uk/2025/01/nhs-england-response-to-flawed-pac-report/"/>
+        <updated>2025-01-29T00:01:12.000Z</updated>
+        <summary type="html"><![CDATA[An NHS spokesperson said: “The report from the PAC contains basic factual inaccuracies and a flawed understanding of how the NHS and the government’s financial processes work. “While NHS productivity is now improving at double pre-pandemic levels – far from being complacent, NHS England has repeatedly been open about the problem and the actions being […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PAC tells Government it is time to start shifting NHS funding to general practice]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158327</id>
