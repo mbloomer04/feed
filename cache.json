@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1904442",
+          "author": null,
+          "description": "The 2025/26 financial year is a 'reset moment' for the NHS, according to an updated strategic plan that puts plans to improve GP access among national priorities for the year ahead.",
+          "link": "https://www.gponline.com/gp-access-among-priorities-reset-year-nhs-officials-hint-new-targets/article/1904442",
+          "publishedOn": "2025-01-30T13:07:51.000Z",
+          "wordCount": 740,
+          "title": "GP access among priorities in 'reset year' for NHS as officials hint at new targets",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_10.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1904366",
           "author": null,
           "description": "Now in its sixth year, MIMS Learning Live Digital will take place over 4 evenings from 10-13 March 2025.",
@@ -2068,6 +2078,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-july-to-september-2024",
+          "author": null,
+          "description": "Data on gifts that ministers gave and received, their external meetings and any overseas travel.",
+          "link": "https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-july-to-september-2024",
+          "publishedOn": "2025-01-30T16:01:36.000Z",
+          "wordCount": 961,
+          "title": "Transparency data: DHSC: ministerial gifts, hospitality, travel and meetings, July to September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-july-to-september-2024",
+          "author": null,
+          "description": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+          "link": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-july-to-september-2024",
+          "publishedOn": "2025-01-30T16:00:20.000Z",
+          "wordCount": 889,
+          "title": "Transparency data: DHSC: special advisers' gifts, hospitality and meetings, July to September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2024",
+          "author": null,
+          "description": "All data on senior officials’ business expenses, external meetings and hospitality.",
+          "link": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2024",
+          "publishedOn": "2025-01-30T16:00:20.000Z",
+          "wordCount": 863,
+          "title": "Transparency data: DHSC: senior officials’ business expenses, hospitality and meetings, July to September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-july-to-september-2024",
+          "author": null,
+          "description": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+          "link": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-july-to-september-2024",
+          "publishedOn": "2025-01-30T16:00:19.000Z",
+          "wordCount": 871,
+          "title": "Transparency data: DHSC: business appointment rules advice, July to September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-food-and-health-report",
           "author": null,
