@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1904372",
+          "author": null,
+          "description": "Talking General Practice speaks to Ruth Rankine, director of primary care at the NHS Confederation, about how to create a neighbourhood NHS and the key role general practice will play.",
+          "link": "https://www.gponline.com/podcast-create-neighbourhood-nhs/article/1904372",
+          "publishedOn": "2025-01-31T08:10:00.000Z",
+          "wordCount": 709,
+          "title": "Podcast: How can we create a neighbourhood NHS?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_988.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1904442",
           "author": null,
           "description": "The 2025/26 financial year is a 'reset moment' for the NHS, according to an updated strategic plan that puts plans to improve GP access among national priorities for the year ahead.",
@@ -3189,6 +3199,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=217565",
+          "author": "Tammy Lovell",
+          "description": "Amanda Pritchard has hinted at changes to the leadership of NHS England's Transformation Directorate, as staffing cuts are announced.",
+          "link": "https://www.digitalhealth.net/2025/01/pritchard-hints-at-change-to-national-director-of-transformation-role/",
+          "publishedOn": "2025-01-31T08:30:04.000Z",
+          "wordCount": 3625,
+          "title": "Pritchard hints at change to national director of transformation role",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/Vin-Diwakar-HETT-2024.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=217411",
           "author": "Jordan Sollof",
