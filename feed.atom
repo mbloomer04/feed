@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-03T08:15:17.385Z</updated>
+    <updated>2025-02-03T09:12:58.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wirral cyber attack set back cancer waiting times by months]]></title>
+        <id>https://www.digitalhealth.net/?p=217715</id>
+        <link href="https://www.digitalhealth.net/2025/02/cancer-pathways-set-back-by-wirral-cyber-incident/"/>
+        <updated>2025-02-03T08:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Waiting times for cancer pathways at Wirral University Teaching Hospital have been “significantly impacted” by last year’s cyber incident.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS opens new mpox vaccination sites across England]]></title>
         <id>https://www.england.nhs.uk/?p=260356</id>
