@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-03T00:53:42.933Z</updated>
+    <updated>2025-02-03T02:10:27.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS opens new mpox vaccination sites across England]]></title>
+        <id>https://www.england.nhs.uk/?p=260356</id>
+        <link href="https://www.england.nhs.uk/2025/02/nhs-opens-new-mpox-vaccination-sites-across-england/"/>
+        <updated>2025-02-03T00:01:26.000Z</updated>
+        <summary type="html"><![CDATA[12 new mpox vaccination sites have opened across England, making it easier for eligible people to get protected. From this week, every region will be able to offer the vaccine for those at increased risk of getting the infection – after previously only being available to those eligible in London, Manchester and Brighton. While the […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO and partners enable access to candidate vaccine and treatments for outbreak of Sudan Ebola virus disease in Uganda]]></title>
         <id>urn:uuid:48ffac4d-83d8-49ac-8280-0ce169ca4de3</id>
