@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-04T08:14:49.939Z</updated>
+    <updated>2025-02-04T09:11:45.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sheffield Teaching Hospitals sets new date for Oracle EPR go-live]]></title>
+        <id>https://www.digitalhealth.net/?p=217799</id>
+        <link href="https://www.digitalhealth.net/2025/02/sheffield-teaching-hospitals-sets-new-date-for-oracle-epr-go-live/"/>
+        <updated>2025-02-04T08:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Sheffield Teaching Hospitals NHS Foundation Trust has set a new date for the go-live of its Oracle Health electronic patient record (EPR).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: World-leading AI trial to tackle breast cancer launched]]></title>
         <id>https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched</id>
