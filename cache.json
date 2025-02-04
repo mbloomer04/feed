@@ -2168,6 +2168,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/leading-figures-to-help-build-nhs-fit-for-the-future",
+          "author": null,
+          "description": "Baroness Camilla Cavendish, Naomi Eisenstadt CB and Phil Jordan become non-executive directors on the board of the Department of Health and Social Care.",
+          "link": "https://www.gov.uk/government/news/leading-figures-to-help-build-nhs-fit-for-the-future",
+          "publishedOn": "2025-02-04T13:28:07.000Z",
+          "wordCount": 2783,
+          "title": "Press release: Leading figures to help build NHS fit for the future",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/calls-for-evidence/shaping-the-national-cancer-plan",
           "author": null,
           "description": "Call for evidence seeking views from individuals, professionals and organisations to inform the development of the government’s national cancer plan for England.",
@@ -3428,6 +3438,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=217943",
+          "author": "Jordan Sollof",
+          "description": "Kate Brintworth, chief midwife at NHS England, will deliver a keynote session at Digital Health Rewired 2025.",
+          "link": "https://www.digitalhealth.net/2025/02/nhs-englands-chief-midwife-confirmed-for-rewired-2025/",
+          "publishedOn": "2025-02-04T13:30:13.000Z",
+          "wordCount": 3482,
+          "title": "NHS England’s chief midwife confirmed for Rewired 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=218031",
+          "author": "Jordan Sollof",
+          "description": "The government has announced the launch of a trial that will test how AI tools can be used to detect cases of breast cancer earlier.",
+          "link": "https://www.digitalhealth.net/2025/02/government-launches-ai-breast-cancer-trial/",
+          "publishedOn": "2025-02-04T13:30:06.000Z",
+          "wordCount": 3653,
+          "title": "Government launches AI breast cancer trial",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Breast-cancer-results.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=216739",
           "author": "Owen Hughes",
