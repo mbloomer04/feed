@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-06T00:53:23.439Z</updated>
+    <updated>2025-02-06T02:11:27.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for 'urgent action' as data show one in five UK adults has diabetes or prediabetes]]></title>
+        <id>https://www.gponline.com/article/1905171</id>
+        <link href="https://www.gponline.com/call-urgent-action-data-show-one-five-uk-adults-diabetes-prediabetes/diabetes/article/1905171"/>
+        <updated>2025-02-06T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One in five adults in the UK are now living with diabetes or prediabetes, according to new figures, with experts warning the government of a looming health crisis unless urgent action is taken.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doctors increasingly using AI and seeing benefits, finds GMC report]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158597</id>
@@ -4225,26 +4235,6 @@ The post Practice Tips: Exploring the role of non-GP partners in general practic
         <summary type="html"><![CDATA[NHS Providers - On 6 January 2025, the prime minister announced a new national plan published by NHS England (NHSE) setting out how the NHS will reform elective care for patients in England. This briefing highlights the key points from the plan and includes NHS Providers’ view and press statements. Briefing More detail]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: DHSC group accounting manual 2024 to 2025]]></title>
-        <id>https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2024-to-2025</id>
-        <link href="https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2024-to-2025"/>
-        <updated>2025-01-07T13:59:24.000Z</updated>
-        <summary type="html"><![CDATA[Mandatory annual reports and accounts guidelines for the Department of Health and Social Care (DHSC) group bodies.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patients Know Best secures £6m to scale personal health record]]></title>
-        <id>https://www.digitalhealth.net/?p=214695</id>
-        <link href="https://www.digitalhealth.net/2025/01/patients-know-best-secures-6m-to-scale-personal-health-record/"/>
-        <updated>2025-01-07T13:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Patients Know Best has secured £6 million in funding to scale its personal health record (PHR) platform in the UK and expand internationally.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>
