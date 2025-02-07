@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-07T09:11:35.165Z</updated>
+    <updated>2025-02-07T10:11:56.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[An app for gynaecological conditions is among the health tech solutions to win the Innovate UK Women in Innovation Awards.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: GP recruitment scheme faces axe, contract negotiations update, NHS planning guidance]]></title>
+        <id>https://www.gponline.com/article/1905367</id>
+        <link href="https://www.gponline.com/podcast-gp-recruitment-scheme-faces-axe-contract-negotiations-update-nhs-planning-guidance/article/1905367"/>
+        <updated>2025-02-07T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories from the past two weeks.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
