@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-06T23:12:19.492Z</updated>
+    <updated>2025-02-07T00:53:45.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press release: Local public health services given £200 million boost]]></title>
+        <id>https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost</id>
+        <link href="https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost"/>
+        <updated>2025-02-07T00:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Local communities to receive funding for family and school nurses, sexual health clinics and other public health services.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs left to review backlog of ‘failed’ discharge letters from hospitals]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158661</id>
@@ -4370,28 +4380,6 @@ The post GPs affected by unemployment urged to attend BMA rally appeared first o
         <summary type="html"><![CDATA[Researchers at The Clatterbridge Cancer Centre NHS Foundation Trust are using AI to enhance the precision of radiotherapy for prostate cancer.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO prequalifies diagnostic test to support safer administration of P. vivax malaria treatments]]></title>
-        <id>urn:uuid:d0fab7da-0ea3-44a2-8d8c-0e994d9db812</id>
-        <link href="https://www.who.int/news/item/08-01-2025-who-prequalifies-diagnostic-test-to-support-safer-administration-of-p.-vivax-malaria-treatments"/>
-        <updated>2025-01-08T11:56:44.000Z</updated>
-        <summary type="html"><![CDATA[On 18 December 2024, the World Health Organization (WHO) prequalified the first diagnostic test for glucose-6-phosphate dehydrogenase (G6PD) deficiency which can help to safely deliver WHO-recommended treatments to prevent relapse of Plasmodium vivax (P. vivax) infection.
-The prequalification of this G6PD diagnostic test marks a significant milestone in facilitating safe and effective P. vivax malaria treatment, reaffirming WHO’s dedication to ensuring equitable access to life-saving health solutions globally. Some 500 000 people die each year from malaria, most of them children.
-The prequalification of this test immediately followed the prequalification, in early December, of two new tafenoquine products for anti-relapse treatment of P. vivax malaria, and these therapeutics were recommend…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A portrait of modern Britain: health - the public's priorities for the NHS]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/01/a-portrait-of-modern-britain-health-the-publics-priorities-for-the-nhs.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/01/a-portrait-of-modern-britain-health-the-publics-priorities-for-the-nhs.html"/>
-        <updated>2025-01-08T11:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Policy Exchange - This report – based on polling of 2,000 representative Britons in 2024 – examines the perceptions of and priorities the British public have for the NHS. It found that the NHS providing services free at point of use was less of a priority to the public than ensuring access to a GP and treating major conditions. It...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>

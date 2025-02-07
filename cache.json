@@ -2228,6 +2228,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost",
+          "author": null,
+          "description": "Local communities to receive funding for family and school nurses, sexual health clinics and other public health services.",
+          "link": "https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost",
+          "publishedOn": "2025-02-07T00:01:03.000Z",
+          "wordCount": 1669,
+          "title": "Press release: Local public health services given £200 million boost",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/cardiothoracic-transplant-information-collation-exercise-survey-analysis",
           "author": null,
           "description": "Findings from patient and staff surveys on cardiothoracic (heart and lung) transplantation in England and Scotland, collected as part of the Implementation Steering group for Organ Utilisation’s (ISOU) information collation exercise.",
@@ -3443,16 +3453,6 @@
           "wordCount": null,
           "title": "Emergency preparedness, resilience and response concept of operations",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/01/a-portrait-of-modern-britain-health-the-publics-priorities-for-the-nhs.html",
-          "author": null,
-          "description": "Policy Exchange - This report – based on polling of 2,000 representative Britons in 2024 – examines the perceptions of and priorities the British public have for the NHS. It found that the NHS providing services free at point of use was less of a priority to the public than ensuring access to a GP and treating major conditions. It...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/01/a-portrait-of-modern-britain-health-the-publics-priorities-for-the-nhs.html",
-          "publishedOn": "2025-01-08T11:44:50.000Z",
-          "wordCount": null,
-          "title": "A portrait of modern Britain: health - the public's priorities for the NHS",
-          "imageUrl": null
         }
       ]
     },
@@ -3560,16 +3560,6 @@
           "wordCount": 2143,
           "title": "WHO launches US$ 1.5 billion Health Emergency Appeal to tackle unprecedented global health crises",
           "imageUrl": "https://cdn.who.int/media/images/default-source/products/emergency-appeals/2025/afgjpn-2-jan-2024-resized.tmb-1200v.jpg?sfvrsn=59f021b6_1"
-        },
-        {
-          "id": "urn:uuid:d0fab7da-0ea3-44a2-8d8c-0e994d9db812",
-          "author": null,
-          "description": "On 18 December 2024, the World Health Organization (WHO) prequalified the first diagnostic test for glucose-6-phosphate dehydrogenase (G6PD) deficiency which can help to safely deliver WHO-recommended treatments to prevent relapse of Plasmodium vivax (P. vivax) infection.\nThe prequalification of this G6PD diagnostic test marks a significant milestone in facilitating safe and effective P. vivax malaria treatment, reaffirming WHO’s dedication to ensuring equitable access to life-saving health solutions globally. Some 500 000 people die each year from malaria, most of them children.\nThe prequalification of this test immediately followed the prequalification, in early December, of two new tafenoquine products for anti-relapse treatment of P. vivax malaria, and these therapeutics were recommend…",
-          "link": "https://www.who.int/news/item/08-01-2025-who-prequalifies-diagnostic-test-to-support-safer-administration-of-p.-vivax-malaria-treatments",
-          "publishedOn": "2025-01-08T11:56:44.000Z",
-          "wordCount": 2375,
-          "title": "WHO prequalifies diagnostic test to support safer administration of P. vivax malaria treatments",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/medical-devices/g6pd-test-device-in-use.tmb-1200v.jpg?sfvrsn=10a90c0b_2"
         }
       ]
     },
