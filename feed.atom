@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-07T08:14:42.715Z</updated>
+    <updated>2025-02-07T09:11:35.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Public health grants to local authorities: 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026"/>
+        <updated>2025-02-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The public health allocations and monetary conditions for local authorities to improve health in local populations.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health tech founders win at UK Women in Innovation Awards]]></title>
+        <id>https://www.digitalhealth.net/?p=218295</id>
+        <link href="https://www.digitalhealth.net/2025/02/health-tech-founders-win-at-uk-women-in-innovation-awards/"/>
+        <updated>2025-02-07T08:30:12.000Z</updated>
+        <summary type="html"><![CDATA[An app for gynaecological conditions is among the health tech solutions to win the Innovate UK Women in Innovation Awards.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Press release: Local public health services given £200 million boost]]></title>
         <id>https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost</id>
