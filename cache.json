@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ee0380c9-f952-46ac-8ebb-918dcab7464a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle attack\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle (MitM) attack\n Updated: 11 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4616",
+          "publishedOn": "2025-02-11T15:21:00.000Z",
+          "wordCount": null,
+          "title": "CC-4616 - MicroDicom Releases DICOM Viewer Software Update",
+          "imageUrl": null
+        },
+        {
+          "id": "53696ba5-9c80-491f-a2c5-3714889a210e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials\n Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials\n Updated: 11 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4615",
+          "publishedOn": "2025-02-11T15:21:00.000Z",
+          "wordCount": null,
+          "title": "CC-4615 - Proof-of-Concept Exploit for AnyDesk Vulnerability (CVE-2024-12754)",
+          "imageUrl": null
+        },
+        {
           "id": "51cb023a-14f9-49cb-ad02-e8eb2e3c5f73",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Nine security advisories address multiple vulnerabilities, including one critical and two high severity advisories\n Nine security advisories address multiple vulnerabilities, including one critical and two high severity advisories\n Updated: 06 Feb 2025",
@@ -132,6 +152,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=158800",
+          "author": "Sofia Lind",
+          "description": "More medicines could be switched from prescription-only medicines (POM) to pharmacy medicines (P), as the Medicines and Healthcare Products Regulatory Agency (MHRA) has encouraged medicines manufacturers to apply for product reclassification. Specifically, it has asked for applications regarding medicines that treat women’s health, short-term sleep issues, allergies, pain, skin problems, digestive disorders and oral health.\nThe post MHRA opens up for more medicines to become available without a GP prescription appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/womens-health-gynaecology-obstetrics/mhra-opens-up-for-more-medicines-to-become-available-without-a-gp-prescription/",
+          "publishedOn": "2025-02-11T16:10:06.000Z",
+          "wordCount": 2110,
+          "title": "MHRA opens up for more medicines to become available without a GP prescription",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/09/Pharmacists-to-supply-contraception-without-a-GP-prescription-under-Coffey-access-plan.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=158031",
+          "author": "Maya Dhillon",
+          "description": "In his first blog for Pulse, Dr Paul O’Reilly finds the bright side in appraisals. Dr O’Reilly won our summer writing competition with his candid and powerful piece on a patient’s final birthday. As the winner, he will be writing a blog for us every month Every new year, I have the same resolutions –\nThe post Less of the paperchase, more of the appraisal appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/paul-oreilly/less-of-the-paperchase-more-of-the-appraisal/",
+          "publishedOn": "2025-02-11T15:58:53.000Z",
+          "wordCount": 2171,
+          "title": "Less of the paperchase, more of the appraisal",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/Paul-OReilly.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=158784",
           "author": "Eliza Parr",
