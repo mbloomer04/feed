@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-11T16:14:35.903Z</updated>
+    <updated>2025-02-11T17:10:37.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Guidance for government engagement with the tobacco industry]]></title>
+        <id>https://www.gov.uk/government/publications/protocol-for-engagement-with-stakeholders-with-links-to-the-tobacco-industry</id>
+        <link href="https://www.gov.uk/government/publications/protocol-for-engagement-with-stakeholders-with-links-to-the-tobacco-industry"/>
+        <updated>2025-02-11T16:50:32.000Z</updated>
+        <summary type="html"><![CDATA[How government and public bodies should act to protect public health policies when engaging stakeholders with links to the tobacco industry.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4617 - F5 Releases Quarterly Security Notification (February 2025) Affecting BIG-IP Products]]></title>
+        <id>93a667f7-2baf-4a7c-a735-71b23111fe70</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4617"/>
+        <updated>2025-02-11T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution
+ One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution
+ Updated: 11 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government urged to abolish NHS Property Services and write off GP debt]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=158801</id>
+        <link href="https://www.pulsetoday.co.uk/news/premises/government-urged-to-abolish-nhs-property-services-and-write-off-gp-debt/"/>
+        <updated>2025-02-11T16:22:13.000Z</updated>
+        <summary type="html"><![CDATA[The Government should consider ‘abolishing’ NHS Property Services (NHSPS) and writing off GP debt, a report by an influential membership body has argued. NHS Confederation’s new report declared that the current capital regime is ‘broken’, and made 16 recommendations to the Government ahead of the upcoming 10-year plan for health.  It called for integrated care
+The post Government urged to abolish NHS Property Services and write off GP debt appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MHRA opens up for more medicines to become available without a GP prescription]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158800</id>

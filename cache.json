@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "93a667f7-2baf-4a7c-a735-71b23111fe70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n Updated: 11 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4617",
+          "publishedOn": "2025-02-11T16:46:00.000Z",
+          "wordCount": null,
+          "title": "CC-4617 - F5 Releases Quarterly Security Notification (February 2025) Affecting BIG-IP Products",
+          "imageUrl": null
+        },
+        {
           "id": "ee0380c9-f952-46ac-8ebb-918dcab7464a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle attack\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle (MitM) attack\n Updated: 11 Feb 2025",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=158801",
+          "author": "Eliza Parr",
+          "description": "The Government should consider ‘abolishing’ NHS Property Services (NHSPS) and writing off GP debt, a report by an influential membership body has argued. NHS Confederation’s new report declared that the current capital regime is ‘broken’, and made 16 recommendations to the Government ahead of the upcoming 10-year plan for health.  It called for integrated care\nThe post Government urged to abolish NHS Property Services and write off GP debt appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/premises/government-urged-to-abolish-nhs-property-services-and-write-off-gp-debt/",
+          "publishedOn": "2025-02-11T16:22:13.000Z",
+          "wordCount": 2668,
+          "title": "Government urged to abolish NHS Property Services and write off GP debt",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/h/g/e/GettyImages-532334798-scaled-e1600958841875.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=158800",
           "author": "Sofia Lind",
@@ -2217,6 +2237,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/protocol-for-engagement-with-stakeholders-with-links-to-the-tobacco-industry",
+          "author": null,
+          "description": "How government and public bodies should act to protect public health policies when engaging stakeholders with links to the tobacco industry.",
+          "link": "https://www.gov.uk/government/publications/protocol-for-engagement-with-stakeholders-with-links-to-the-tobacco-industry",
+          "publishedOn": "2025-02-11T16:50:32.000Z",
+          "wordCount": 1124,
+          "title": "Guidance: Guidance for government engagement with the tobacco industry",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/telecare-national-action-plan-protecting-telecare-users-throughout-the-digital-phone-switchover",
           "author": null,
