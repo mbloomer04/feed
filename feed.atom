@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-11T09:11:57.441Z</updated>
+    <updated>2025-02-11T10:12:39.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Reporting to the National Supply Disruption Response (NSDR)]]></title>
+        <id>https://www.gov.uk/guidance/reporting-to-the-national-supply-disruption-response-nsdr</id>
+        <link href="https://www.gov.uk/guidance/reporting-to-the-national-supply-disruption-response-nsdr"/>
+        <updated>2025-02-11T10:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Information on how to request assistance from the NSDR.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guy’s and St Thomas’ has ‘reporting issues’ with £450m Epic EPR]]></title>
         <id>https://www.digitalhealth.net/?p=218563</id>
@@ -34,6 +44,17 @@
         <summary type="html"><![CDATA[One in five UK medical students consider dropping out of their degree and high rates of mental health issues are a major contributing factor, a study shows.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mental health concerns as one in five medical students on verge of dropping out]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=158772</id>
+        <link href="https://www.pulsetoday.co.uk/news/workforce/mental-health-concerns-as-one-in-five-medical-students-on-verge-of-dropping-ou/"/>
+        <updated>2025-02-10T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Around one in every five UK medical students is considering dropping out, with mental health a ‘key contributor’, a new study has suggested. The observational study, published in BMJ Open, is based on an initial survey of just under 800 medical students from across the UK between November 2020 and February 2021, and a follow-up
+The post Mental health concerns as one in five medical students on verge of dropping out appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
         </author>
     </entry>
     <entry>
