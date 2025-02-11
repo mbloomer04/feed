@@ -1300,6 +1300,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1905761",
+          "author": null,
+          "description": "One in five UK medical students consider dropping out of their degree and high rates of mental health issues are a major contributing factor, a study shows.",
+          "link": "https://www.gponline.com/fifth-uk-medical-students-consider-dropping-out-study-finds/article/1905761",
+          "publishedOn": "2025-02-10T23:35:00.000Z",
+          "wordCount": 904,
+          "title": "Fifth of UK medical students consider dropping out, study finds",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_11.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1905678",
           "author": null,
           "description": "GP partners behind a group of practices in Wales linked with management company eHarley Street have handed back four more contracts, health officials have confirmed - as the BMA said it could take legal action to support doctors owed thousands of pounds for working at the practices.",
@@ -1960,6 +1970,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=261194",
+          "author": "jboshell",
+          "description": "Around 100 frontline NHS staff will be joined by NHS England directors in Liverpool today (11 Feb 2025) to discuss what they want to see from the government’s 10 Year Health Plan. It marks the first of a series of events where frontline NHS staff across the breadth of the NHS workforce will come together […]",
+          "link": "https://www.england.nhs.uk/2025/02/frontline-nhs-staff-in-the-north-west-to-have-their-say-on-the-future-of-the-nhs/",
+          "publishedOn": "2025-02-11T00:01:27.000Z",
+          "wordCount": 1464,
+          "title": "Frontline NHS staff in the North West to have their say on the future of the NHS",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=261154",
           "author": "rwootton",
