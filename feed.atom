@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-12T11:09:35.312Z</updated>
+    <updated>2025-02-12T12:21:17.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4618 - Microsoft Releases February 2025 Security Updates]]></title>
+        <id>8905eb52-652c-413a-9e94-0b8f41d2d648</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4618"/>
+        <updated>2025-02-12T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products, including security updates for 63 vulnerabilities, of which two are reported as exploited
+ Scheduled updates for Microsoft products, including security updates for 63 vulnerabilities, of which two are reported as exploited
+ Updated: 12 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing health inequalities through engagement with people and communities: a self-assessment and improvement framework for integrated care systems]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/02/addressing-health-inequalities-through-engagement-with-people-and-communities-a-self-assessment-and-.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/02/addressing-health-inequalities-through-engagement-with-people-and-communities-a-self-assessment-and-.html"/>
+        <updated>2025-02-12T11:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Care Quality Commission - The Care Quality Commission (CQC), in partnership with National Voices and the Point of Care Foundation, has developed this self-assessment and improvement framework. It is a voluntary resource to support integrated care systems in reducing health inequalities by improving the way they engage with people and communities. Framework Press release]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People powered care: leveraging employee ownership as a succession option to retain capacity in the adult social care sector]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/02/people-powered-care-leveraging-employee-ownership-as-a-succession-option-to-retain-capacity-in-the-a.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/02/people-powered-care-leveraging-employee-ownership-as-a-succession-option-to-retain-capacity-in-the-a.html"/>
+        <updated>2025-02-12T11:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Care England - Rising pressures have seen the care sector predict nearly three in ten providers will exit the market. This report outlines the benefits of employee ownership as a business model that could retain capacity, reduce recruitment and retention issues, and improve care quality in the sector. A key case study in the report is Shaw Healthcare, who are...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telecare National Action Plan: protecting telecare users throughout the digital phone switchover]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/02/telecare-national-action-plan-protecting-telecare-users-throughout-the-digital-phone-switchover.html</id>
@@ -4478,36 +4511,6 @@ The post GPs criticise ICB for choosing to invest in hospital-based hub instead 
         <summary type="html"><![CDATA[Prime minister Keir Starmer has unveiled details of the government’s AI Opportunities Action Plan, which includes a National Data Library.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS rolls out lifesaving home testing for bowel cancer to over 50s]]></title>
-        <id>https://www.england.nhs.uk/?p=259013</id>
-        <link href="https://www.england.nhs.uk/2025/01/nhs-rolls-out-lifesaving-home-testing-for-bowel-cancer-to-over-50s/"/>
-        <updated>2025-01-14T00:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of thousands more people will be sent a home-testing kit that can help to detect signs of bowel cancer, as the NHS expands its lifesaving screening programme to those aged 50 in England. People aged 50 and 52 are now starting to automatically receive a home test kit every two years by post when […]]]></summary>
-        <author>
-            <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs outnumbered almost 3:1 after 'stark' reshaping of workforce through ARRS]]></title>
-        <id>https://www.gponline.com/article/1902141</id>
-        <link href="https://www.gponline.com/gps-outnumbered-almost-31-stark-reshaping-workforce-arrs/article/1902141"/>
-        <updated>2025-01-14T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs are now outnumbered almost three to one by other clinical roles in general practice after a dramatic NHS-wide workforce shift that has been 'particularly stark' in GP practices, a report has said.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs outnumbered almost 3:1 after 'stark' reshaping of staff through ARRS]]></title>
-        <id>https://www.gponline.com/article/1902141</id>
-        <link href="https://www.gponline.com/gps-outnumbered-almost-31-stark-reshaping-staff-arrs/article/1902141"/>
-        <updated>2025-01-14T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs are now outnumbered almost three to one by other clinical roles in general practice after a dramatic NHS-wide workforce shift that has been 'particularly stark' in GP practices, a report has said.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>

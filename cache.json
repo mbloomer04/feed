@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8905eb52-652c-413a-9e94-0b8f41d2d648",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 63 vulnerabilities, of which two are reported as exploited\n Scheduled updates for Microsoft products, including security updates for 63 vulnerabilities, of which two are reported as exploited\n Updated: 12 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4618",
+          "publishedOn": "2025-02-12T12:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4618 - Microsoft Releases February 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "93a667f7-2baf-4a7c-a735-71b23111fe70",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n Updated: 11 Feb 2025",
@@ -1918,26 +1928,6 @@
           "wordCount": 718,
           "title": "RCGP changes exam re-sit policy for disabled GP registrars",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP_HQ-201609301027525711-20180307041248454_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1902141",
-          "author": null,
-          "description": "GPs are now outnumbered almost three to one by other clinical roles in general practice after a dramatic NHS-wide workforce shift that has been 'particularly stark' in GP practices, a report has said.",
-          "link": "https://www.gponline.com/gps-outnumbered-almost-31-stark-reshaping-workforce-arrs/article/1902141",
-          "publishedOn": "2025-01-14T00:01:00.000Z",
-          "wordCount": 718,
-          "title": "GPs outnumbered almost 3:1 after 'stark' reshaping of workforce through ARRS",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-GettyImages-sturti_10.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1902141",
-          "author": null,
-          "description": "GPs are now outnumbered almost three to one by other clinical roles in general practice after a dramatic NHS-wide workforce shift that has been 'particularly stark' in GP practices, a report has said.",
-          "link": "https://www.gponline.com/gps-outnumbered-almost-31-stark-reshaping-staff-arrs/article/1902141",
-          "publishedOn": "2025-01-14T00:01:00.000Z",
-          "wordCount": 717,
-          "title": "GPs outnumbered almost 3:1 after 'stark' reshaping of staff through ARRS",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-GettyImages-sturti_10.jpg"
         }
       ]
     },
@@ -2168,16 +2158,6 @@
           "publishedOn": "2025-01-14T10:44:23.000Z",
           "wordCount": 1484,
           "title": "NHS jabs tens of thousands more against flu than last winter",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=259013",
-          "author": "jboshell",
-          "description": "Hundreds of thousands more people will be sent a home-testing kit that can help to detect signs of bowel cancer, as the NHS expands its lifesaving screening programme to those aged 50 in England. People aged 50 and 52 are now starting to automatically receive a home test kit every two years by post when […]",
-          "link": "https://www.england.nhs.uk/2025/01/nhs-rolls-out-lifesaving-home-testing-for-bowel-cancer-to-over-50s/",
-          "publishedOn": "2025-01-14T00:01:47.000Z",
-          "wordCount": 2267,
-          "title": "NHS rolls out lifesaving home testing for bowel cancer to over 50s",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2794,6 +2774,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/addressing-health-inequalities-through-engagement-with-people-and-communities-a-self-assessment-and-.html",
+          "author": null,
+          "description": "Care Quality Commission - The Care Quality Commission (CQC), in partnership with National Voices and the Point of Care Foundation, has developed this self-assessment and improvement framework. It is a voluntary resource to support integrated care systems in reducing health inequalities by improving the way they engage with people and communities. Framework Press release",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/addressing-health-inequalities-through-engagement-with-people-and-communities-a-self-assessment-and-.html",
+          "publishedOn": "2025-02-12T11:57:52.000Z",
+          "wordCount": null,
+          "title": "Addressing health inequalities through engagement with people and communities: a self-assessment and improvement framework for integrated care systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/people-powered-care-leveraging-employee-ownership-as-a-succession-option-to-retain-capacity-in-the-a.html",
+          "author": null,
+          "description": "Care England - Rising pressures have seen the care sector predict nearly three in ten providers will exit the market. This report outlines the benefits of employee ownership as a business model that could retain capacity, reduce recruitment and retention issues, and improve care quality in the sector. A key case study in the report is Shaw Healthcare, who are...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/people-powered-care-leveraging-employee-ownership-as-a-succession-option-to-retain-capacity-in-the-a.html",
+          "publishedOn": "2025-02-12T11:20:37.000Z",
+          "wordCount": null,
+          "title": "People powered care: leveraging employee ownership as a succession option to retain capacity in the adult social care sector",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/02/telecare-national-action-plan-protecting-telecare-users-throughout-the-digital-phone-switchover.html",
           "author": null,
