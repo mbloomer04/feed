@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "03251d77-d477-48a9-b912-4e6b3521acc2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Three advisories cover vulnerabilities and weaknesses in Ivanti Cloud Services Application (CSA), Ivanti Neurons for MDM, Ivanti Connect Secure, Policy Secure, and Secure Access Client.\n Three advisories cover vulnerabilities and weaknesses in Ivanti Cloud Services Application (CSA), Ivanti Neurons for MDM, Ivanti Connect Secure, Policy Secure, and Secure Access Client.\n Updated: 12 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4620",
+          "publishedOn": "2025-02-12T16:41:00.000Z",
+          "wordCount": null,
+          "title": "CC-4620 - Ivanti Releases February 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "eeea152b-1418-4998-a1f7-b4263e2d8f67",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n A proof-of-concept exploit has been published for CVE-2024-53704, which affects SonicWall NGFWs\n A proof-of-concept exploit has been published for CVE-2024-53704, which affects SonicWall NGFWs\n Updated: 12 Feb 2025",
