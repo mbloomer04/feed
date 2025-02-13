@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-13T09:12:04.574Z</updated>
+    <updated>2025-02-13T10:12:13.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kent hospital goes live with Altera electronic patient record]]></title>
+        <id>https://www.digitalhealth.net/?p=218769</id>
+        <link href="https://www.digitalhealth.net/2025/02/kent-hospital-goes-live-with-altera-electronic-patient-record/"/>
+        <updated>2025-02-13T08:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Fordcombe Hospital in Kent has gone live with an electronic patient record (EPR) with integrated patient administration system from Altera.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCGP chair to lead National Academy of Social Prescribing]]></title>
         <id>https://www.gponline.com/article/1906114</id>
