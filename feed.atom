@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-13T04:14:13.353Z</updated>
+    <updated>2025-02-13T05:11:27.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4390,30 +4390,6 @@ The post CQC admits to backlog for looking into major issues of concern about NH
         <summary type="html"><![CDATA[UK health tech firm Cera has completed a transaction in excess of $150m (£123m) to further scale its AI-led home healthcare technology.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4604 - Active Exploitation of Zero-Day Vulnerability CVE-2024-55591 in FortiOS and FortiProxy]]></title>
-        <id>9228b5b9-ef28-42e9-a609-6596f6ee91ce</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4604"/>
-        <updated>2025-01-14T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges
- CVE-2024-55591 could allow an unauthenticated remote attacker to gain super-admin privileges
- Updated: 14 Jan 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP staff quitting or considering quitting over cost of living, say practice managers]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=157775</id>
-        <link href="https://www.pulsetoday.co.uk/news/workforce/gp-staff-quitting-or-considering-quitting-over-cost-of-living-say-practice-managers/"/>
-        <updated>2025-01-14T16:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Half of practice managers report that GP staff have quit their job or indicated they may need to leave their job as a result of the cost of living crisis, a survey has revealed. The survey of 540 respondents, by Pulse’s sister title Management in Practice, has highlighted the toll of financial pressures on practice
-The post GP staff quitting or considering quitting over cost of living, say practice managers appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Mollie Fraser-Andrews</name>
         </author>
     </entry>
 </feed>
