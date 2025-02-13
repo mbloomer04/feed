@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-13T10:12:13.741Z</updated>
+    <updated>2025-02-13T11:09:38.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South Yorkshire Digital Health Hub partners with health tech startup]]></title>
+        <id>https://www.digitalhealth.net/?p=218543</id>
+        <link href="https://www.digitalhealth.net/2025/02/south-yorkshire-digital-health-hub-partners-with-health-tech-startup/"/>
+        <updated>2025-02-13T11:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Health tech startup Daiser has partnered with the South Yorkshire Digital Health Hub to accelerate the translation into digital.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kent hospital goes live with Altera electronic patient record]]></title>
         <id>https://www.digitalhealth.net/?p=218769</id>
