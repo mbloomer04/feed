@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-14T11:09:11.571Z</updated>
+    <updated>2025-02-14T12:20:47.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Heart attack and stroke risk higher with certain hormonal contraceptives]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=158869</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/womens-health-gynaecology-obstetrics/heart-attack-and-stroke-risk-higher-with-certain-hormonal-contraceptives/"/>
+        <updated>2025-02-14T11:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Some hormonal contraceptives are associated with a small but significant increased risk of stroke and heart attack, according to a large and detailed study from Denmark. The analysis was based on national prescription records for more than two million Danish women between 1996 and 2021. It showed that ‘contemporary’ oestrogen-progestin and progestin-only contraceptives were associated
+The post Heart attack and stroke risk higher with certain hormonal contraceptives appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘AI can’t just be overlaid on a failing health service’]]></title>
         <id>https://www.digitalhealth.net/?p=219071</id>
@@ -25,6 +36,16 @@
 The post NHSE cuts GP ‘golden handshake’ scheme due to budget pressures appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor named as preferred candidate to become next NHS England chair]]></title>
+        <id>https://www.gponline.com/article/1906428</id>
+        <link href="https://www.gponline.com/doctor-named-preferred-candidate-become-next-nhs-england-chair/article/1906428"/>
+        <updated>2025-02-14T10:36:54.000Z</updated>
+        <summary type="html"><![CDATA[A former NHS doctor who led a damning review of the CQC has been named by the government as its preferred candidate to become the next chair of NHS England.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4446,16 +4467,6 @@ The post CQC IT failure means 500 draft inspection reports currently ‘lost’ 
         <summary type="html"><![CDATA[Policy statement setting out case studies for the sale of hearing aids in the UK.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hundreds of people at increased cancer risk identified by new NHS BRCA testing programme]]></title>
-        <id>https://www.england.nhs.uk/?p=259113</id>
-        <link href="https://www.england.nhs.uk/2025/01/hundreds-of-people-at-increased-cancer-risk-identified-by-new-nhs-brca-testing-programme/"/>
-        <updated>2025-01-16T00:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of people with Jewish ancestry in England have been identified as being at increased risk of cancer and offered risk-reducing options, as part of a new NHS genetic testing programme. New data shows that over 25,000 free saliva test kits have now been requested and delivered as part of the NHS Jewish BRCA Testing […]]]></summary>
-        <author>
-            <name>Tom W</name>
         </author>
     </entry>
 </feed>
