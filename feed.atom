@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-14T13:18:44.246Z</updated>
+    <updated>2025-02-14T14:10:24.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4623 - Active Exploitation of Critical Vulnerability Chain in SimpleHelp]]></title>
+        <id>0cdb0d92-e5cc-4035-805f-7d81d1bef14f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4623"/>
+        <updated>2025-02-14T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server
+ CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server
+ Updated: 14 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer diagnostic pathway service to run on FDP]]></title>
+        <id>https://www.digitalhealth.net/?p=218981</id>
+        <link href="https://www.digitalhealth.net/2025/02/cancer-diagnostic-pathway-tool-to-launch-on-fdp/"/>
+        <updated>2025-02-14T13:30:22.000Z</updated>
+        <summary type="html"><![CDATA[A cancer diagnostic pathway management tool, is one of the new products which NHS England has announced will launch in 2025.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assisted dying bill amendment compels doctors to discuss other options first]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158908</id>
