@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-14T15:12:01.263Z</updated>
+    <updated>2025-02-14T16:13:12.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4622 - Security updates released for PostgreSQL]]></title>
+        <id>fcb1bcc5-cfe6-4711-a40d-79a056845250</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4622"/>
+        <updated>2025-02-14T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094
+ Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094
+ Updated: 14 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Seven-month CQC results delay caused immense damage to our GP practice’]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158927</id>

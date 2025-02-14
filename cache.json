@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "fcb1bcc5-cfe6-4711-a40d-79a056845250",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094\n Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094\n Updated: 14 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4622",
+          "publishedOn": "2025-02-14T15:17:00.000Z",
+          "wordCount": null,
+          "title": "CC-4622 - Security updates released for PostgreSQL",
+          "imageUrl": null
+        },
+        {
           "id": "0cdb0d92-e5cc-4035-805f-7d81d1bef14f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server\n CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server\n Updated: 14 Feb 2025",
