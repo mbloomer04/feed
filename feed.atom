@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-15T00:52:46.205Z</updated>
+    <updated>2025-02-15T02:10:56.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS expands HIV opt-out testing to 30 more A&Es]]></title>
+        <id>https://www.england.nhs.uk/?p=261579</id>
+        <link href="https://www.england.nhs.uk/2025/02/nhs-expands-hiv-opt-out-testing/"/>
+        <updated>2025-02-15T00:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Thousands more people across England are to benefit from routine HIV testing in A&Es this year, thanks to the extension of a major NHS public health initiative. Under a new expansion plan, 30 more A&Es will start testing for the infectious disease in hospital emergency departments (ED) via the revolutionary NHS Blood Borne Virus Opt-out […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4622 - Security updates released for PostgreSQL]]></title>
         <id>fcb1bcc5-cfe6-4711-a40d-79a056845250</id>
@@ -4363,47 +4373,6 @@ The post GP flu consultations up in past week but spread may have reached its pe
 The post Dilemmas in HRT: Getting the basics right appeared first on Pulse Today.]]></summary>
         <author>
             <name>Mollie Fraser-Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annual assessment of integrated care boards 2023/24]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/01/annual-assessment-of-integrated-care-boards-202324.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/01/annual-assessment-of-integrated-care-boards-202324.html"/>
-        <updated>2025-01-16T13:51:32.000Z</updated>
-        <summary type="html"><![CDATA[NHS England - This report is a summary of the assessment of each ICB covering how effectively they have led their local NHS system and their contribution to each of the four core purposes of an integrated care system. It summarises an assessment of performance during the 2023/24 financial year and reflects NHS England’s views relating to that period only....]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS trust chief exec Richard Mitchell confirmed for Rewired 2025]]></title>
-        <id>https://www.digitalhealth.net/?p=215643</id>
-        <link href="https://www.digitalhealth.net/2025/01/nhs-trust-chief-exec-richard-mitchell-confirmed-for-rewired-2025/"/>
-        <updated>2025-01-16T13:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Richard Mitchell, chief executive at University Hospitals of Leicester NHS Trust, is the latest speaker announced for Rewired 2025.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO launches US$ 1.5 billion Health Emergency Appeal to tackle unprecedented global health crises]]></title>
-        <id>urn:uuid:acb1ee43-7123-4ecd-af94-57be51cbd4e7</id>
-        <link href="https://www.who.int/news/item/16-01-2025-who-launches-us-1.5-billion-health-emergency-appeal-to-tackle-unprecedented-global-health-crises"/>
-        <updated>2025-01-16T13:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Conflict, climate change, epidemics, and displacement are converging to create an unparalleled global health crisis, with 305 million people in urgent need of humanitarian assistance in 2025. In response, the World Health Organization (WHO) is calling for US$ 1.5 billion for its 2025 Health Emergency Appeal (HEA), to support life-saving health interventions worldwide.
-The appeal, launched today by WHO Director-General, Dr Tedros Adhanom Ghebreyesus, outlines the critical priorities and resources needed to address 42 ongoing health emergencies, including 17 Grade 3 crises – the most severe emergencies requiring the highest level of response. With health systems stretched to their limits and global financial resources dwindling, the US$ 1.5 billion are needed to help people facing the most d…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the frontline of the UK’s corridor care crisis]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/01/on-the-frontline-of-the-uks-corridor-care-crisis.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/01/on-the-frontline-of-the-uks-corridor-care-crisis.html"/>
-        <updated>2025-01-16T12:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Royal College of Nursing - This report documents the experiences of more than 5,000 NHS nursing staff following a survey at the end of December 2024. Thousands of nursing staff responded, confirming corridor care is widespread across the UK. Almost 7 in 10 (66.8%) respondents to an RCN survey said they're delivering care in over-crowded or unsuitable places – such...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>
