@@ -1280,6 +1280,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1906591",
+          "author": null,
+          "description": "Chaotic NHS admin is piling more work on overstretched GPs and putting patients off seeking care, doctors' leaders have warned, after a report highlighted 'widespread' problems that hit vulnerable patients hardest.",
+          "link": "https://www.gponline.com/dysfunctional-nhs-admin-driving-gp-workload-undermining-care/article/1906591",
+          "publishedOn": "2025-02-17T10:40:39.000Z",
+          "wordCount": 910,
+          "title": "'Dysfunctional' NHS admin driving up GP workload and undermining care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/phone_GettyImages-Westend61_RF_5.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1906331",
+          "author": null,
+          "description": "Nearly two dozen GP practices have received a share of almost £1m to help them develop research hubs.",
+          "link": "https://www.gponline.com/gp-practices-share-nearly-1m-fund-expand-research-hubs/article/1906331",
+          "publishedOn": "2025-02-17T07:50:00.000Z",
+          "wordCount": 890,
+          "title": "GP practices share nearly £1m fund to expand research hubs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Station_House_GPsurgeryKendal_NIHR.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1906428",
           "author": null,
           "description": "A former NHS doctor who led a damning review of the CQC has been named by the government as its preferred candidate to become the next chair of NHS England.",
@@ -2624,6 +2644,46 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/labours-10-year-plan-for-the-nhs-in-england-what-should-it-look-like.html",
+          "author": null,
+          "description": "Health Foundation - Pressures on the NHS are severe and the new government is producing a 10-year plan for reform to make the health service ‘fit for the future’. Policymakers have a long history of producing long-term plans for the NHS. But implementation has been mixed and the political context, including levels of public spending and policy approach, has shaped...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/labours-10-year-plan-for-the-nhs-in-england-what-should-it-look-like.html",
+          "publishedOn": "2025-02-17T12:06:13.000Z",
+          "wordCount": null,
+          "title": "Labour’s 10-year plan for the NHS in England: what should it look like?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/the-preventative-shift-how-can-we-embed-prevention-and-achieve-long-term-missions.html",
+          "author": null,
+          "description": "Demos - Published in collaboration with the Health Foundation, this discussion paper looks at how to shift the culture of public bodies to think ‘prevention first’ and target spending at activities which are value for money and improve outcomes. The paper is part of an ongoing series of work by Demos making the case for a more preventative state, one...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/the-preventative-shift-how-can-we-embed-prevention-and-achieve-long-term-missions.html",
+          "publishedOn": "2025-02-17T11:56:18.000Z",
+          "wordCount": null,
+          "title": "The preventative shift: how can we embed prevention and achieve long term missions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/lost-in-the-system-the-need-for-better-admin.html",
+          "author": null,
+          "description": "The King's Fund - 2 out of 3 people say they've had a problem with NHS admin in the past year. We explore the impact these experiences is having on public perceptions of the NHS and what could be done to make things better. Long read",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/lost-in-the-system-the-need-for-better-admin.html",
+          "publishedOn": "2025-02-17T11:21:47.000Z",
+          "wordCount": null,
+          "title": "Lost in the system: the need for better admin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/headline-social-worker-information-social-workers-employed-by-local-authorities-in-the-adult-social-.html",
+          "author": null,
+          "description": "Skills for Care - This report provides the estimated number of social workers employed by local authorities in England, and information about recruitment and retention, demographics and pay rates. The findings are from the Adult Social Care Workforce Dataset (ASC-WDS) relating to social workers in local authority adult social service departments as at September 2024. The report does not include...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/headline-social-worker-information-social-workers-employed-by-local-authorities-in-the-adult-social-.html",
+          "publishedOn": "2025-02-17T11:10:34.000Z",
+          "wordCount": null,
+          "title": "Headline social worker information: social workers employed by local authorities in the adult social care sector",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/02/nhs-provider-deficits-are-back-how-bad-is-the-situation.html",
           "author": null,
