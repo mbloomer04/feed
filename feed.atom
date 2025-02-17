@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-17T13:19:55.022Z</updated>
+    <updated>2025-02-17T14:11:15.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Birmingham Community Healthcare pilots electronic prescribing]]></title>
+        <id>https://www.digitalhealth.net/?p=218353</id>
+        <link href="https://www.digitalhealth.net/2025/02/birmingham-community-healthcare-pilots-electronic-prescribing/"/>
+        <updated>2025-02-17T13:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Birmingham Community Healthcare NHS FT is piloting CLEO SOLO EPS in its Children's Services to address the challenges of manual prescribing.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs need to be aware of LES risks, BMA warns after coroner ruling]]></title>
         <id>https://www.pulsetoday.co.uk/?p=158909</id>
