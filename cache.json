@@ -2218,6 +2218,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/care-act-statutory-guidance",
+          "author": null,
+          "description": "Support for local authorities to carry out the implementation for part 1 of the Care Act 2014.",
+          "link": "https://www.gov.uk/government/publications/care-act-statutory-guidance",
+          "publishedOn": "2025-02-18T12:57:39.000Z",
+          "wordCount": 1988,
+          "title": "Statutory guidance: Care Act 2014: supporting implementation",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
           "author": null,
           "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
@@ -2744,6 +2754,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/sas-and-consultant-role-comparison.html",
+          "author": null,
+          "description": "NHS Employers - This infographic explains the different roles and responsibilities of specialty and specialist doctors (SAS) and consultants, created in partnership with the British Medical Association (BMA) and based on the BMA's role comparison document. Infographic",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/sas-and-consultant-role-comparison.html",
+          "publishedOn": "2025-02-18T13:16:50.000Z",
+          "wordCount": null,
+          "title": "SAS and consultant role comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/workforce-and-wellbeing-survey-2024.html",
+          "author": null,
+          "description": "Royal Pharmaceutical Society - The results of the sixth annual survey, in partnership with Pharmacist Support and in collaboration with the Association of Pharmacy Technicians UK (APTUK), highlight the intense pressures that pharmacy teams face due to medicine shortages. The survey results underline the urgent need for the government and NHS to create a national strategy to tackle medicine shortages...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/workforce-and-wellbeing-survey-2024.html",
+          "publishedOn": "2025-02-18T11:55:58.000Z",
+          "wordCount": null,
+          "title": "Workforce and wellbeing survey 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/02/an-overview-of-the-department-of-health-social-care-for-the-new-parliament-2023-24.html",
           "author": null,
