@@ -3492,6 +3492,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:8cdef777-3509-481b-9367-fd6002c9af22",
+          "author": null,
+          "description": "The emergency polio outbreak response in the Gaza Strip is continuing, with a mass vaccination campaign scheduled from 22 to 26 February 2025. The novel oral polio vaccine type 2 (nOPV2) will be administered to over 591,000 children under 10 years of age to protect them from polio. This campaign follows the recent detection of poliovirus in wastewater samples in Gaza, signaling ongoing circulation in the environment, putting children at risk.  \nPockets of individuals with low or no immunity provide the virus an opportunity to continue spreading and potentially cause disease. The current environment in Gaza, including overcrowding in shelters and severely damaged water, sanitation, and hygiene infrastructure, which facilitates fecal-oral transmission, create ideal conditions for further spr…",
+          "link": "https://www.who.int/news/item/19-02-2025-mass-polio-vaccination-campaign-to-continue-in-the-gaza-strip",
+          "publishedOn": "2025-02-18T13:17:16.000Z",
+          "wordCount": 2239,
+          "title": "Mass polio vaccination campaign to continue in the Gaza Strip",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/polio/polio-vaccination-nail-marking.tmb-1200v.jpg?sfvrsn=366a7b92_1"
+        },
+        {
           "id": "urn:uuid:8ccfa7cc-d1d7-454a-837e-e54009364596",
           "author": null,
           "description": "The World Health Organization (WHO) and St. Jude Children’s Research Hospital have commenced distribution of critically-needed childhood cancer medicines in 2 of 6 pilot countries, through the Global Platform for Access to Childhood Cancer Medicines.",
@@ -3598,6 +3608,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=219501",
+          "author": "Jordan Sollof",
+          "description": "Aneurin Bevan University Health Board in Wales has selected the Better electronic Prescribing and Medicines Administration (ePMA) system.",
+          "link": "https://www.digitalhealth.net/2025/02/aneurin-bevan-university-health-board-selects-better-epma/",
+          "publishedOn": "2025-02-19T13:30:07.000Z",
+          "wordCount": 3736,
+          "title": "Aneurin Bevan University Health Board selects Better ePMA",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Electronic-prescribing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=219205",
           "author": "Jordan Sollof",
