@@ -2208,6 +2208,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/10-year-study-to-shed-light-on-youth-vaping",
+          "author": null,
+          "description": "Landmark study to investigate long-term health effects of vaping on young people's health and wellbeing, alongside wider influences on adolescent health.",
+          "link": "https://www.gov.uk/government/news/10-year-study-to-shed-light-on-youth-vaping",
+          "publishedOn": "2025-02-19T08:45:06.000Z",
+          "wordCount": 2390,
+          "title": "Press release: 10-year study to shed light on youth vaping",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/care-act-statutory-guidance",
           "author": null,
           "description": "Support for local authorities to carry out the implementation for part 1 of the Care Act 2014.",
@@ -3548,6 +3558,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=219505",
+          "author": "Tammy Lovell",
+          "description": "Medway and Swale NHS Women’s Health Hub has launched a free digital platform to support new mothers with their postnatal recovery.",
+          "link": "https://www.digitalhealth.net/2025/02/online-postnatal-programme-aims-to-address-gynaecology-wait-list/",
+          "publishedOn": "2025-02-19T08:30:22.000Z",
+          "wordCount": 3739,
+          "title": "Online postnatal programme aims to address gynaecology wait list",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/shutterstock_2290886679-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=219357",
           "author": "Jordan Sollof",
