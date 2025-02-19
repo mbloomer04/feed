@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6653b931-9b6d-4b4f-a446-c2fff3e16cd9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n Updated: 19 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4624",
+          "publishedOn": "2025-02-19T12:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4624 - Juniper Networks Releases Out-of-Cycle Security Bulletin for Critical Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "fcb1bcc5-cfe6-4711-a40d-79a056845250",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094\n Proof-of-concept exploit code released for SQL injection vulnerability CVE-2025-1094\n Updated: 14 Feb 2025",
@@ -162,6 +172,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159045",
+          "author": "Eliza Parr",
+          "description": "NHS England has announced it will conduct a ‘significant’ review of all postgraduate medical training, including GP programmes. England’s chief medical officer Professor Sir Chris Whitty and NHSE’s national medical director Sir Stephen Powis will oversee the review, which was prompted by ‘concerns from resident doctors’, according to the commissioner. It confirmed to Pulse that\nThe post NHS England launches major review of postgraduate training including GP programmes appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/nhs-england-launches-major-review-of-postgraduate-training-including-gp-programmes/",
+          "publishedOn": "2025-02-19T12:59:52.000Z",
+          "wordCount": 2094,
+          "title": "NHS England launches major review of postgraduate training including GP programmes",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=159034",
           "author": "Eliza Parr",
@@ -2744,6 +2764,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html",
+          "author": null,
+          "description": "Care England - This is the final report in a series exploring the root causes of care home failures and offers proactive strategies to ensure long-term sustainability. It offers practical tools, such as the Risk Matrix, Risk Management Framework, and Business Continuity Plan, to help care homes identify, assess, and mitigate risks effectively. Report Care England - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html",
+          "publishedOn": "2025-02-19T12:32:02.000Z",
+          "wordCount": null,
+          "title": "Restructuring social care services: the importance of risk management systems in care homes",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/02/sas-and-consultant-role-comparison.html",
           "author": null,

@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-19T12:19:55.121Z</updated>
+    <updated>2025-02-19T13:18:30.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England launches major review of postgraduate training including GP programmes]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=159045</id>
+        <link href="https://www.pulsetoday.co.uk/news/breaking-news/nhs-england-launches-major-review-of-postgraduate-training-including-gp-programmes/"/>
+        <updated>2025-02-19T12:59:52.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has announced it will conduct a ‘significant’ review of all postgraduate medical training, including GP programmes. England’s chief medical officer Professor Sir Chris Whitty and NHSE’s national medical director Sir Stephen Powis will oversee the review, which was prompted by ‘concerns from resident doctors’, according to the commissioner. It confirmed to Pulse that
+The post NHS England launches major review of postgraduate training including GP programmes appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4624 - Juniper Networks Releases Out-of-Cycle Security Bulletin for Critical Vulnerability]]></title>
+        <id>6653b931-9b6d-4b4f-a446-c2fff3e16cd9</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4624"/>
+        <updated>2025-02-19T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers
+ API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers
+ Updated: 19 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restructuring social care services: the importance of risk management systems in care homes]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html"/>
+        <updated>2025-02-19T12:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Care England - This is the final report in a series exploring the root causes of care home failures and offers proactive strategies to ensure long-term sustainability. It offers practical tools, such as the Risk Matrix, Risk Management Framework, and Business Continuity Plan, to help care homes identify, assess, and mitigate risks effectively. Report Care England - publications]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Croydon Health Services NHS Trust seeks to ‘uplift’ maternity EPR]]></title>
         <id>https://www.digitalhealth.net/?p=219205</id>
