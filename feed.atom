@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-20T00:54:00.303Z</updated>
+    <updated>2025-02-20T02:13:19.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS rolls out life-changing treatment offering ‘new hope’ for hundreds of children with severe epilepsy]]></title>
+        <id>https://www.england.nhs.uk/?p=261720</id>
+        <link href="https://www.england.nhs.uk/2025/02/nhs-rolls-out-life-changing-treatment-offering-new-hope-for-hundreds-of-children-with-severe-epilepsy/"/>
+        <updated>2025-02-20T00:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of children with severe epilepsy will be able to benefit from a groundbreaking new treatment on the NHS that could significantly reduce their seizures, providing new hope for them and their families. The drug, fenfluramine, will be funded for NHS patients in England from today (Thursday 20 February) after the National Institute for Health […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish Labour pledges to open negotiations for new GP contract]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159061</id>
@@ -4371,16 +4381,6 @@ The post GPs ‘owed more than £300k’ after company failed to fulfil contract
 The post The ‘scope of practice’ debate: who should decide what a physician associate can do? appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government announces tech and AI plans to streamline NHS]]></title>
-        <id>https://www.digitalhealth.net/?p=216405</id>
-        <link href="https://www.digitalhealth.net/2025/01/government-announces-tech-and-ai-plans-to-streamline-nhs/"/>
-        <updated>2025-01-21T14:05:54.000Z</updated>
-        <summary type="html"><![CDATA[The government has announced technology plans and new AI tools to streamline the NHS and other public services.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>
