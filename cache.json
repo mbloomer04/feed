@@ -1361,26 +1361,6 @@
           "wordCount": 2127,
           "title": "Climate protest GP loses High Court challenge against GMC suspension",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=158057",
-          "author": "Sofia Lind",
-          "description": "Commissioning of NHS Health Check is fragmented and causing duplication of work, the BMA’s deputy chair has told a committee of MPs. Dr David Wrigley also warned that the move to do more Health Checks using finger prick blood samples was leading to inaccurate results causing worry for patients and more work for GPs having\nThe post NHS Health Check DES needed to reduce fragmentation, GP leader tells MPs appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/nhs-health-check-des-needed-to-reduce-fragmentation-gp-leader-tells-mps/",
-          "publishedOn": "2025-01-22T12:24:34.000Z",
-          "wordCount": 2531,
-          "title": "NHS Health Check DES needed to reduce fragmentation, GP leader tells MPs",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Finger-prick1200x800.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=158047",
-          "author": "Sofia Lind",
-          "description": "Use of GLP-1 weight loss-drugs – such as semaglutide (Wegovy) and tirzepatide (Mounjaro) – is associated with reduced risk of a wide range of conditions including Alzheimer’s disease and dementia, a large study has concluded. US researchers analysed the use of GLP-1 receptor agonist drugs in health records from 2.4 million people with diabetes and\nThe post GLP-1 weight-loss drugs may cut risk of dementia and other conditions appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/glp-1-weight-loss-drugs-may-cut-risk-of-dementia-and-other-conditions/",
-          "publishedOn": "2025-01-22T11:58:05.000Z",
-          "wordCount": 2132,
-          "title": "GLP-1 weight-loss drugs may cut risk of dementia and other conditions",
-          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/10/man-weight-management-obesity-consultation-doctor.jpg"
         }
       ]
     },
@@ -2025,18 +2005,7 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": [
-        {
-          "id": "https://www.gov.uk/government/publications/inoculation-injuries-and-children-in-schools-and-similar-settings",
-          "author": null,
-          "description": "Risk assessment guidelines for health protection teams (HPTs).",
-          "link": "https://www.gov.uk/government/publications/inoculation-injuries-and-children-in-schools-and-similar-settings",
-          "publishedOn": "2025-01-22T11:33:08.000Z",
-          "wordCount": 967,
-          "title": "Guidance: Inoculation injuries and children in schools and similar settings",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "All Blog Feed",
@@ -2287,6 +2256,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/dental-patients-to-benefit-from-700000-extra-urgent-appointments",
+          "author": null,
+          "description": "Government delivers on its manifesto commitment to roll out extra urgent appointments across the country",
+          "link": "https://www.gov.uk/government/news/dental-patients-to-benefit-from-700000-extra-urgent-appointments",
+          "publishedOn": "2025-02-21T00:30:06.000Z",
+          "wordCount": 3820,
+          "title": "Dental patients to benefit from 700,000 extra urgent appointments",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/10-year-study-to-shed-light-on-youth-vaping",
           "author": null,
