@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-21T08:14:48.163Z</updated>
+    <updated>2025-02-21T09:12:05.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS private service provider investigating cyber attack]]></title>
+        <id>https://www.digitalhealth.net/?p=219755</id>
+        <link href="https://www.digitalhealth.net/2025/02/nhs-private-provider-hcrg-care-group-investigating-cyber-attack/"/>
+        <updated>2025-02-21T08:30:54.000Z</updated>
+        <summary type="html"><![CDATA[NHS private service provider, the HCRG Care Group, has confirmed that it is investigating a suspected ransomware attack.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dental patients to benefit from 700,000 extra urgent appointments]]></title>
         <id>https://www.gov.uk/government/news/dental-patients-to-benefit-from-700000-extra-urgent-appointments</id>
