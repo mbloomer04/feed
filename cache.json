@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "CC-4610 - Proof-of-Concept Exploit Released for CVE-2025-0411 in 7-Zip",
           "imageUrl": null
-        },
-        {
-          "id": "0ce121cf-983a-4295-85e0-b09042568225",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances \n Exploitation could lead to execution of arbitrary OS commands in SonicWall SMA1000 Series Appliances \n Updated: 23 Jan 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4609",
-          "publishedOn": "2025-01-23T14:27:00.000Z",
-          "wordCount": null,
-          "title": "CC-4609 - Exploitation of Critical Vulnerability CVE-2025-23006 in SonicWall SMA1000 Series Appliances",
-          "imageUrl": null
         }
       ]
     },
@@ -2734,16 +2724,6 @@
           "publishedOn": "2025-01-24T11:56:08.000Z",
           "wordCount": 1338,
           "title": "Independent report: CHM's report on proposed changes to the availability of puberty blockers",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-india-on-health-and-life-sciences",
-          "author": null,
-          "description": "MoU between the governments of India and the UK on a health and life sciences partnership.",
-          "link": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-india-on-health-and-life-sciences",
-          "publishedOn": "2025-01-23T15:12:24.000Z",
-          "wordCount": 960,
-          "title": "Policy paper: Memorandum of understanding between the UK and India on health and life sciences",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
