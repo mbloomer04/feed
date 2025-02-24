@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "aeaba771-83b9-4168-8391-3129690a92e7",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)\n Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)\n Updated: 24 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4625",
+          "publishedOn": "2025-02-24T15:20:00.000Z",
+          "wordCount": null,
+          "title": "CC-4625 - Medixant Releases Security Update for RadiAnt DICOM Viewer",
+          "imageUrl": null
+        },
+        {
           "id": "6653b931-9b6d-4b4f-a446-c2fff3e16cd9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n Updated: 19 Feb 2025",
@@ -162,6 +172,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159125",
+          "author": "Maya Dhillon",
+          "description": "Rebuild General Practice spokesperson Dr Carter Singh MBE on the concurrent unemployment and recruitment crises It is no secret that there is a crisis in general practice. For over a decade, GPs have been ringing the alarm bells that something must change. Successive governments decided that the solution was recruitment – bolstering the number of\nThe post ‘We are jeopardising the careers of a whole generation of new GPs’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/special-investigations/the-recruitment-unemployment-crisis/we-are-jeopardising-the-careers-of-a-whole-generation-of-new-gps/",
+          "publishedOn": "2025-02-24T15:30:53.000Z",
+          "wordCount": 2211,
+          "title": "‘We are jeopardising the careers of a whole generation of new GPs’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/08/recruitment_hiring_vacancy_staffing_1200-x-800.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=159140",
           "author": "Anna Colivicchi",

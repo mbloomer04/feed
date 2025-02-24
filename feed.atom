@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-24T15:13:01.883Z</updated>
+    <updated>2025-02-24T16:14:45.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘We are jeopardising the careers of a whole generation of new GPs’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=159125</id>
+        <link href="https://www.pulsetoday.co.uk/views/special-investigations/the-recruitment-unemployment-crisis/we-are-jeopardising-the-careers-of-a-whole-generation-of-new-gps/"/>
+        <updated>2025-02-24T15:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Rebuild General Practice spokesperson Dr Carter Singh MBE on the concurrent unemployment and recruitment crises It is no secret that there is a crisis in general practice. For over a decade, GPs have been ringing the alarm bells that something must change. Successive governments decided that the solution was recruitment – bolstering the number of
+The post ‘We are jeopardising the careers of a whole generation of new GPs’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4625 - Medixant Releases Security Update for RadiAnt DICOM Viewer]]></title>
+        <id>aeaba771-83b9-4168-8391-3129690a92e7</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4625"/>
+        <updated>2025-02-24T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)
+ Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)
+ Updated: 24 Feb 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does healthcare deliver?: results from the Patient Reported Indicator Surveys (PaRIS)]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/02/does-healthcare-deliver-results-from-the-patient-reported-indicator-surveys-paris.html</id>
