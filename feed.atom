@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-26T04:14:36.906Z</updated>
+    <updated>2025-02-26T05:11:38.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4390,30 +4390,6 @@ The post GPs should ask at-risk patients about gambling, says final NICE guideli
         <summary type="html"><![CDATA[GPs should consider asking patients about gambling during health checks and appointments, particularly during conversations about behaviours that can point to increased risk, the first-ever NICE guideline on the topic advises.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigation: The recruitment crisis continues while staffing numbers explode]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=158273</id>
-        <link href="https://www.pulsetoday.co.uk/analysis/workforce/investigation-the-recruitment-crisis-continues-while-staffing-numbers-explode/"/>
-        <updated>2025-01-27T17:09:37.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of Pulse’s major new series on general practice workforce, Jaimie Kaffash explains how the recruitment crisis remains despite GPs being out of work and overall staffing numbers exploding You’d be forgiven for thinking that, with GPs being out of work, it would at least signal the end of the recruitment crisis.
-The post Investigation: The recruitment crisis continues while staffing numbers explode appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4610 - Proof-of-Concept Exploit Released for CVE-2025-0411 in 7-Zip]]></title>
-        <id>aa8921e8-ba8d-4023-a9f3-32f248d7ee98</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4610"/>
-        <updated>2025-01-27T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploit author claims abuse of CVE-2025-0411 could allow attackers to bypass Windows Mark-of-the-Web (MotW) protections
- Exploit author claims abuse of CVE-2025-0411 could allow attackers to bypass Windows Mark-of-the-Web (MotW) protections
- Updated: 27 Jan 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>
