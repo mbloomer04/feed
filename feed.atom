@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-26T08:15:29.319Z</updated>
+    <updated>2025-02-26T09:12:49.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NCA’s Salford Royal Hospital rolls out Sectra PACS]]></title>
+        <id>https://www.digitalhealth.net/?p=219961</id>
+        <link href="https://www.digitalhealth.net/2025/02/ncas-salford-royal-hospital-rolls-out-sectra-pacs/"/>
+        <updated>2025-02-26T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[The latest Northern Care Alliance (NCA) site has rolled out the Sectra picture archiving and communication system (PACS Based Reporting).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hospices receive multi-million pound boost to improve facilities]]></title>
         <id>https://www.gov.uk/government/news/hospices-receive-multi-million-pound-boost-to-improve-facilities</id>
