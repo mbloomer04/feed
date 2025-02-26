@@ -2216,6 +2216,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-asc-workforce-and-work-related-quality-of-life",
+          "author": null,
+          "description": "Survey results on how working conditions, capacity, learning and development, and working relationships affect work-related quality of life in adult social care.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-asc-workforce-and-work-related-quality-of-life",
+          "publishedOn": "2025-02-26T14:00:01.000Z",
+          "wordCount": 1336,
+          "title": "Guidance: Adult social care (ASC) workforce and work-related quality of life",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/digital-inclusion-action-plan-first-steps",
           "author": null,
           "description": "The Digital Inclusion Action Plan aims to close the digital divide in the UK, ensuring that the benefits of technology can be felt by all.",
@@ -3616,6 +3626,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=220137",
+          "author": "Jordan Sollof",
+          "description": "This episode of Digital Health Unplugged sees Euan McComiskie and Eddie Olla delve into the risks of generative AI in healthcare.",
+          "link": "https://www.digitalhealth.net/2025/02/digitdigital-health-unplugged-exploring-the-risks-of-gen-ai-for-clinicians/",
+          "publishedOn": "2025-02-26T13:30:43.000Z",
+          "wordCount": 3112,
+          "title": "DigitDigital Health Unplugged: Exploring the risks of GenAI for clinicians",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Digital-Health-Podcast-Header-Ep-96.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=219993",
           "author": "Jordan Sollof",

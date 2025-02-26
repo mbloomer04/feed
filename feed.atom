@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-26T13:19:40.271Z</updated>
+    <updated>2025-02-26T14:11:23.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Adult social care (ASC) workforce and work-related quality of life]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-asc-workforce-and-work-related-quality-of-life</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-asc-workforce-and-work-related-quality-of-life"/>
+        <updated>2025-02-26T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Survey results on how working conditions, capacity, learning and development, and working relationships affect work-related quality of life in adult social care.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitDigital Health Unplugged: Exploring the risks of GenAI for clinicians]]></title>
+        <id>https://www.digitalhealth.net/?p=220137</id>
+        <link href="https://www.digitalhealth.net/2025/02/digitdigital-health-unplugged-exploring-the-risks-of-gen-ai-for-clinicians/"/>
+        <updated>2025-02-26T13:30:43.000Z</updated>
+        <summary type="html"><![CDATA[This episode of Digital Health Unplugged sees Euan McComiskie and Eddie Olla delve into the risks of generative AI in healthcare.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital inclusion action plan: first steps]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/02/digital-inclusion-action-plan-first-steps.html</id>
