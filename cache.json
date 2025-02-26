@@ -173,6 +173,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=159214",
+          "author": "Anna Colivicchi",
+          "description": "The Government has made ‘limited progress’ in achieving its vision of containing antimicrobial resistance (AMR), the public spending watchdog has warned. The National Audit Office (NAO) investigated AMR in light of it being a ‘serous public health threat’, after the Covid-19 pandemic showed that the UK was ‘not as resilient’ to such threats ‘as it expected to be’. In\nThe post Government progress on antimicrobial resistance ‘limited’, warns NAO appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/government-progress-on-antimicrobial-resistance-limited-warns-nao/",
+          "publishedOn": "2025-02-26T00:01:00.000Z",
+          "wordCount": 2413,
+          "title": "Government progress on antimicrobial resistance ‘limited’, warns NAO",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/NHS-England-asks-GPs-to-‘review-prescribing-of-antibiotics.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159173",
           "author": "Eliza Parr",
           "description": "A London MP has called on the health secretary to ‘reinstate’ a GP partner’s contracts after a Court of Appeal ruled their termination unlawful. In December, the Court of Appeal ruled in favour of a GP partner who in 2020 was issued with contract termination notices for refusing to cooperate with the local PCN. Following\nThe post MP appeals to health secretary over GP contract termination appeared first on Pulse Today.",
@@ -1331,16 +1341,6 @@
           "wordCount": 2084,
           "title": "UK researchers uncover ethnic differences in inflammatory bowel disease",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/01/south-asian-man-with-stomach-pain.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=158249",
-          "author": "Jaimie Kaffash",
-          "description": "Exclusive Around 6% of GP practices in England have been forced to make staff redundant, with a further 20% being unable to replace departing team members, a joint Pulse and Management in Practice survey has revealed. Respondents to the survey, carried out in September and answered by 744 practices in England, said they are having\nThe post Quarter of GP practices have had to shrink team size due to financial squeeze appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/special-investigations/the-recruitment-unemployment-crisis/quarter-of-gp-practices-have-had-to-shrink-team-size-due-to-financial-squeeze/",
-          "publishedOn": "2025-01-27T11:59:51.000Z",
-          "wordCount": 2566,
-          "title": "Quarter of GP practices have had to shrink team size due to financial squeeze",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Redundancies-Getty-RF-1200x800-1.jpg"
         }
       ]
     },
@@ -2033,18 +2033,7 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.\n\r\n\r\nFor the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis",
-          "publishedOn": "2025-01-27T11:39:56.000Z",
-          "wordCount": null,
-          "title": "What does good look like for APIs?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Inside Story Feed",
@@ -2256,6 +2245,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/hospices-receive-multi-million-pound-boost-to-improve-facilities",
+          "author": null,
+          "description": "The government has confirmed the release of £25 million for upgrades and refurbishments today for hospices across England,",
+          "link": "https://www.gov.uk/government/news/hospices-receive-multi-million-pound-boost-to-improve-facilities",
+          "publishedOn": "2025-02-26T00:15:05.000Z",
+          "wordCount": 4229,
+          "title": "Hospices receive multi-million pound boost to improve facilities",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/family-hubs-and-start-for-life-programme-local-authority-guide-2025-to-2026",
           "author": null,
@@ -3541,26 +3540,6 @@
           "publishedOn": "2025-01-27T14:47:19.000Z",
           "wordCount": null,
           "title": "Cogora general practice workforce white paper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/01/nhs-england-annual-accountability-statement-for-nhs-public-health-functions-agreements-2022-23-under.html",
-          "author": null,
-          "description": "Department of Health and Social Care - The NHS public health functions agreement requires NHS England to produce an annual report on its achievement against the outcomes set out in the agreement. This accountability statement assesses NHS England’s performance against the agreement Public health commissioning in the NHS: 2022 to 2023. Accounability statement More detail",
-          "link": "https://kingsfund.blogs.com/health_management/2025/01/nhs-england-annual-accountability-statement-for-nhs-public-health-functions-agreements-2022-23-under.html",
-          "publishedOn": "2025-01-27T11:45:01.000Z",
-          "wordCount": null,
-          "title": "NHS England annual accountability statement for NHS Public Health Functions Agreements 2022- 23 under Section 7A (s.7A)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/01/a-pain-to-complain-why-its-time-to-fix-the-nhs-complaints-process-.html",
-          "author": null,
-          "description": "Healthwatch England - Written complaints in the NHS reached a record high in 2024. This report finds that low public confidence is preventing people from taking any action after experiencing poor care, meaning that current complaints numbers could just be the tip of the iceberg. There is also little evidence that complaints are being systematically used to improve care. The...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/01/a-pain-to-complain-why-its-time-to-fix-the-nhs-complaints-process-.html",
-          "publishedOn": "2025-01-27T11:24:59.000Z",
-          "wordCount": null,
-          "title": "A pain to complain: why it’s time to fix the NHS complaints process",
           "imageUrl": null
         }
       ]
