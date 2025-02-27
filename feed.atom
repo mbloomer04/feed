@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-27T22:11:24.505Z</updated>
+    <updated>2025-02-27T23:11:20.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -973,6 +973,16 @@ The post Case of the month answers – what was causing this patient’s panic e
         <summary type="html"><![CDATA[Reform - The advent of robotic assisted surgery is now offering unprecedented precision and minimally invasive procedures, in turn reducing recovery time for patients and improving outcomes. It has emerged as one of the potential solutions to lower bed occupancy, faster procedures, improved patient flow, as well as enhanced accuracy, reduced blood loss, and less pain. This paper explores the...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2025-02-20T17:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -4385,26 +4395,6 @@ The post UKHSA widens list of first-option antibiotics GPs can prescribe appeare
         <link href="https://www.gponline.com/first-choice-antibiotic-options-widened-overhaul-uk-health-officials/article/1904218"/>
         <updated>2025-01-29T11:21:45.000Z</updated>
         <summary type="html"><![CDATA[UK health officials have expanded the range of antibiotics recommended as first- or second-choice options for most common infections in an overhaul of advice designed to improve antibiotic stewardship and reduce the risk of antimicrobial resistance.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project launched to improve regulation of AI healthcare devices]]></title>
-        <id>https://www.digitalhealth.net/?p=217163</id>
-        <link href="https://www.digitalhealth.net/2025/01/project-launched-to-improve-regulation-of-ai-healthcare-devices/"/>
-        <updated>2025-01-29T11:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Seven Centres of Excellence for Regulatory Science and Innovation are to accelerate pathways for innovative medicines and devices.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Special conference could push for industrial action or mass resignation threat]]></title>
-        <id>https://www.gponline.com/article/1903617</id>
-        <link href="https://www.gponline.com/special-conference-push-industrial-action-mass-resignation-threat/article/1903617"/>
-        <updated>2025-01-29T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[LMCs could call for a move towards full industrial action, a threat of mass resignation or stopping all non-core work at a March conference to debate potential escalation from current collective action by GP practices.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
