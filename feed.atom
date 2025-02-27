@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-27T10:12:30.679Z</updated>
+    <updated>2025-02-27T11:10:02.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Value of IBM’s NHS App contract increased to £78.6m]]></title>
+        <id>https://www.digitalhealth.net/?p=220275</id>
+        <link href="https://www.digitalhealth.net/2025/02/value-of-ibms-nhs-app-contract-increased-to-78-6m/"/>
+        <updated>2025-02-27T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has increased the value of a contract with IBM for additional work on the NHS App to support the government’s NHS App programme.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norovirus continues to grip NHS with cases up 150% on last year]]></title>
+        <id>https://www.england.nhs.uk/?p=262058</id>
+        <link href="https://www.england.nhs.uk/2025/02/norovirus-continues-to-grip-nhs-with-cases-up-150-per-cent-on-last-year/"/>
+        <updated>2025-02-27T09:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Norovirus continues to grip the NHS with the number of beds taken up by patients with the virus nearly 150% higher than last year, new figures reveal today. The total remains close to its record high, with an average of 1,134 patients a day in hospital with norovirus last week – down slightly on the […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HSE launches Health App for patients in Ireland]]></title>
         <id>https://www.digitalhealth.net/?p=220229</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[The Department of Health and Health Service Executive (HSE) has launched the first version of the HSE Health App for patients in Ireland.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP practices receive support after vandalism and 'racist hate crime']]></title>
+        <id>https://www.gponline.com/article/1907651</id>
+        <link href="https://www.gponline.com/gp-practices-receive-support-vandalism-racist-hate-crime/article/1907651"/>
+        <updated>2025-02-27T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Two GP practices are receiving ICB support after being victims of vandalism with one involving a 'racist hate crime' that has led to a police investigation.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
