@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-02-27T08:15:03.816Z</updated>
+    <updated>2025-02-27T09:12:43.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HSE launches Health App for patients in Ireland]]></title>
+        <id>https://www.digitalhealth.net/?p=220229</id>
+        <link href="https://www.digitalhealth.net/2025/02/hse-launches-health-app-for-patients-in-ireland/"/>
+        <updated>2025-02-27T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Health and Health Service Executive (HSE) has launched the first version of the HSE Health App for patients in Ireland.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4626 - Proof-of-Concept Exploits Released for RSync Vulnerabilities]]></title>
         <id>0d7d60e2-52c2-4a41-b51c-0dc7956218d4</id>
@@ -4320,18 +4330,6 @@ The post PAC tells Government it is time to start shifting NHS funding to genera
         <summary type="html"><![CDATA[Key government aims for the NHS - including plans to shift care from hospitals to the community - could be at risk because 'complacent' NHS and DHSC officials may not be ready to drive them through, MPs have warned in a report that also calls for a review of GP vaccination payments.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO statement on potential global threat to people living with HIV]]></title>
-        <id>urn:uuid:ffe91337-df79-4ab9-a801-084a7980d60c</id>
-        <link href="https://www.who.int/news/item/28-01-2025-who-statement-on-potential-global-threat-to-people-living-with-hiv"/>
-        <updated>2025-01-28T20:19:43.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) expresses deep concern about the implications of the immediate funding pause for HIV programmes in low- and middle-income countries. These programmes provide access to life-saving HIV therapy to more than 30 million people worldwide. Globally, 39.9 million people were living with HIV at the end of 2023. 
-A funding halt for HIV programmes can put people living with HIV at immediate increased risk of illness and death and undermine efforts to prevent transmission in communities and countries. Such measures, if prolonged, could lead to rises in new infections and deaths, reversing decades of progress and potentially taking the world back to the 1980s and 1990s when millions died of HIV every year globally, including many in the United States of America. 
-Fo…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
