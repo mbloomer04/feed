@@ -163,6 +163,36 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=159359",
+          "author": "Sofia Lind",
+          "description": "NHS England’s national director for primary care Dr Amanda Doyle hails the first negotiated – rather than imposed – GP contract deal in years. This is the first time in four years that the GP contract has been accepted as proposed and I hope it will be seen as positive for practices, primary care networks\nThe post Dr Amanda Doyle: ‘Extensive talks were held to find a fair GP contract deal’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/2025-26-contract/dr-amanda-doyle-extensive-talks-were-held-to-find-a-fair-gp-contract-deal/",
+          "publishedOn": "2025-02-28T11:43:14.000Z",
+          "wordCount": 2382,
+          "title": "Dr Amanda Doyle: ‘Extensive talks were held to find a fair GP contract deal’",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/06/Dr_Amanda_Doyle_330px-1.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159360",
+          "author": "Eliza Parr",
+          "description": "Funding for recruiting GPs via the additional roles reimbursement scheme (ARRS) will no longer be ringfenced while salaries will see a boost, under the 2025/26 GP contract. The contract offer, accepted by the BMA yesterday, will see NHS England ‘increase flexibility’ by combining funding for GPs, which is currently ringfenced, with the pot for all\nThe post New contract removes ARRS GP funding ringfence and increases salaries appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/2025-26-contract/new-contract-removes-arrs-gp-funding-ringfence-and-increases-salaries/",
+          "publishedOn": "2025-02-28T11:37:08.000Z",
+          "wordCount": 2140,
+          "title": "New contract removes ARRS GP funding ringfence and increases salaries",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/03/Two-new-ARRS-roles-added-under-GP-contract.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159357",
+          "author": "Anna Colivicchi",
+          "description": "GPs will be required to publish a ‘patient charter’ setting out the standard of care they are contracted to provide, and will see a new incentive to boost patient continuity. Practices will now be paid to identify those that ‘would benefit most from continuity of care’, via amendments to the Capacity and Access Improvement (CAIP)\nThe post GP practices to publish ‘patient charter’ and receive continuity of care incentive appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/2025-26-contract/gp-practices-to-publish-patient-charter-and-receive-continuity-of-care-incentive/",
+          "publishedOn": "2025-02-28T11:34:03.000Z",
+          "wordCount": 2188,
+          "title": "GP practices to publish ‘patient charter’ and receive continuity of care incentive",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/female_doctor_elderly_female_patient_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159234",
           "author": "Mollie Fraser-Andrews",
           "description": "GP trainer and palliative care lead Dr Nicolas Alexander advises on the key non-pain symptoms that patients experience during palliative and end-of-life care, and how they can be managed. Complete the full module on Pulse 365 today This module will enhance your knowledge of the management of palliative care in general practice, including: 1. What\nThe post CPD: Key questions on non-pain symptom control in palliative care appeared first on Pulse Today.",
@@ -1311,16 +1341,6 @@
           "wordCount": 2515,
           "title": "Four in 10 GPs see themselves leaving UK general practice within five years",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/Half-of-existing-GP-workforce-intend-to-retire-at-or-before-60.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=158373",
-          "author": "Sofia Lind",
-          "description": "A new treatment for severe dust mite allergy has been recommended by NICE, for patients whose symptoms have not been helped by other drugs. It is thoughts around 13,000 people could benefit from the therapy which exposes users to house dust mite allergen to reduce their sensitivity. NICE said Acarizax (also known as 12 SQ-HDM SLIT)\nThe post NICE approves house dust mite allergy therapy for those with severe symptoms appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/infectious-diseases-immunology-allergy/nice-approves-house-dust-mite-allergy-therapy-for-those-with-severe-symptoms/",
-          "publishedOn": "2025-01-30T00:01:00.000Z",
-          "wordCount": 2204,
-          "title": "NICE approves house dust mite allergy therapy for those with severe symptoms",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/01/cough-flu-covid-respiratory.jpg"
         }
       ]
     },
@@ -2682,6 +2702,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/02/state-of-the-state-2025.html",
+          "author": null,
+          "description": "Reform - This report, published in partnership with Deloitte, explores key issues facing the UK government and public services. It is based on an Ipsos public poll, and more than 80 interviews with public sector leaders. It aims to provide both an insider’s view of the challenges facing an incoming government, and a citizen’s view of what matters and how...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/02/state-of-the-state-2025.html",
+          "publishedOn": "2025-02-28T12:16:24.000Z",
+          "wordCount": null,
+          "title": "State of the state 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/02/quangocracy-the-future-of-public-bodies.html",
           "author": null,
