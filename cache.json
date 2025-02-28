@@ -3508,16 +3508,6 @@
           "wordCount": 2409,
           "title": "WHO verifies Niger as the first country in the African Region to eliminate onchocerciasis",
           "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/onchocerciasis/gettyimages-veronique-durruty--little-girl-of-diafarabe-in-niger.tmb-1200v.png?Culture=en&sfvrsn=9d8b427f_2"
-        },
-        {
-          "id": "urn:uuid:525c91ff-8891-4672-b806-340800180edc",
-          "author": null,
-          "description": "The World Health Organization (WHO) congratulates Guinea for eliminating the gambiense form of human African trypanosomiasis as a public health problem.",
-          "link": "https://www.who.int/news/item/29-01-2025-guinea-eliminates-human-african-trypanosomiasis-as-a-public-health-problem",
-          "publishedOn": "2025-01-29T20:26:42.000Z",
-          "wordCount": 2798,
-          "title": "Guinea eliminates human African trypanosomiasis as a public health problem",
-          "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/human-african-trypanosomiasis/a-man-and-young-girl-wait-at-health-center-in-faranah-guinea-patrick-adams.tmb-1200v.jpg?Culture=en&sfvrsn=cf42cc1c_1"
         }
       ]
     },
@@ -3526,6 +3516,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=220343",
+          "author": "Jordan Sollof",
+          "description": "The Universal Care Plan now includes new care planning sections for patients with dementia, frailty, learning disabilities, and autism.",
+          "link": "https://www.digitalhealth.net/2025/02/universal-care-plan-expands-to-dementia-frailty-and-autism/",
+          "publishedOn": "2025-02-28T08:30:34.000Z",
+          "wordCount": 3710,
+          "title": "Universal Care Plan expands to dementia, frailty and autism",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/shutterstock_2478629073-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=220303",
           "author": "Jordan Sollof",
