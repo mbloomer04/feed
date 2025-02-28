@@ -163,6 +163,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=159334",
+          "author": "Sofia Lind",
+          "description": "The BMA has agreed a deal ‘in principle’ for the 2025/26 GP contract that will see almost £800m invested into the global sum. The deal also includes other measures pushed for by the BMA’s GP committee, including: However, among concessions from the BMA, all GP practices will be subject to a new requirement from October\nThe post GP contract deal to see almost £800m invested into global sum appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/gp-contract-deal-to-see-almost-800m-invested-into-global-sum/",
+          "publishedOn": "2025-02-28T00:01:00.000Z",
+          "wordCount": 3122,
+          "title": "GP contract deal to see almost £800m invested into global sum",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159318",
           "author": "Sofia Lind",
           "description": "Health secretary Wes Streeting has said there must be a ‘new relationship’ between the Department of Health and Social Care (DHSC) and NHS England, following the resignation of chief executive of NHS England Amanda Pritchard. In his acceptance letter to Ms Pritchard, he said: ‘We will also require a new relationship between the DHSC and NHS\nThe post Streeting heralds ‘new relationship’ between NHS England and DHSC appeared first on Pulse Today.",
@@ -1340,6 +1350,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1908239",
+          "author": null,
+          "description": "GPonline outlines what's set to change under the GP contract in 2025/26.",
+          "link": "https://www.gponline.com/whats-gp-contract-2025-26/article/1908239",
+          "publishedOn": "2025-02-28T00:10:00.000Z",
+          "wordCount": 862,
+          "title": "What's in the GP contract for 2025/26?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-831767800(1).jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1908242",
+          "author": null,
+          "description": "GP leaders have backed a 2025/26 contract deal that brings a near £1bn funding uplift and unlocks additional roles cash to create more GP jobs - with the profession now set to pause collective action.",
+          "link": "https://www.gponline.com/bma-backs-1bn-gp-contract-deal-arrs-cash-unlocked-ease-jobs-crisis/article/1908242",
+          "publishedOn": "2025-02-28T00:01:00.000Z",
+          "wordCount": 934,
+          "title": "BMA backs £1bn GP contract deal as ARRS cash unlocked to ease jobs crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_28.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1908111",
           "author": null,
           "description": "General practice in England delivered more than 33m appointments in January this year - around 18% more than the total in the same month in 2019 - with a GP workforce that has shrunk slightly over that time, official data show.",
@@ -1928,26 +1958,6 @@
           "wordCount": 729,
           "title": "MPs 'exasperated' as officials unable to commit on NHS community funding shift",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Amanda_Pritchard_GettyImages-FrankAugsteinWPAPool_1.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1904071",
-          "author": null,
-          "description": "Just over a quarter of GP practices have stopped providing non-NHS services in the past 12 months because of rising workload, a survey suggests.",
-          "link": "https://www.gponline.com/swamped-gp-practices-forced-cut-private-services-help-boost-income/article/1904071",
-          "publishedOn": "2025-01-29T11:30:00.000Z",
-          "wordCount": 720,
-          "title": "Swamped GP practices forced to cut private services that help boost income",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2159075588.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1904218",
-          "author": null,
-          "description": "UK health officials have expanded the range of antibiotics recommended as first- or second-choice options for most common infections in an overhaul of advice designed to improve antibiotic stewardship and reduce the risk of antimicrobial resistance.",
-          "link": "https://www.gponline.com/first-choice-antibiotic-options-widened-overhaul-uk-health-officials/article/1904218",
-          "publishedOn": "2025-01-29T11:21:45.000Z",
-          "wordCount": 735,
-          "title": "First-choice antibiotic options widened in overhaul by UK health officials",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/antibiotic_GettyImages-ViktoriyaSkorikova_RF.jpg"
         }
       ]
     },
@@ -2195,6 +2205,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/new-deal-for-gps-will-fix-the-front-door-of-the-nhs",
+          "author": null,
+          "description": "GP contract reforms will fix the front door of the NHS and see the return of the family doctor, while helping end the 8am scramble for appointments",
+          "link": "https://www.gov.uk/government/news/new-deal-for-gps-will-fix-the-front-door-of-the-nhs",
+          "publishedOn": "2025-02-28T00:01:03.000Z",
+          "wordCount": 3434,
+          "title": "New deal for GPs will fix the front door of the NHS",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
           "author": null,
@@ -2683,16 +2703,6 @@
           "publishedOn": "2025-01-29T13:02:16.000Z",
           "wordCount": 977,
           "title": "Statutory guidance: The Primary Dental Services Statement of Financial Entitlements (Amendment) Directions 2025",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary",
-          "author": null,
-          "description": "Summary of the 2024 annual report on the agreement between the government and the Association of British Insurers (ABI) on the use of genetic test results in underwriting insurance policies.",
-          "link": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-annual-report-2024-government-summary",
-          "publishedOn": "2025-01-29T11:46:17.000Z",
-          "wordCount": 1034,
-          "title": "Corporate report: Code on Genetic Testing and Insurance annual report 2024: government summary",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
