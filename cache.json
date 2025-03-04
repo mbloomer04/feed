@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "07a226ef-e158-4388-8182-8334713f6d6d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Broadcom has addressed three exploited vulnerabilities that, when chained, can allow an attacker to access the hypervisor through a running virtual machine\n Broadcom has addressed three exploited vulnerabilities that, when chained, can allow an attacker to access the hypervisor through a running virtual machine\n Updated: 04 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4627",
+          "publishedOn": "2025-03-04T16:11:00.000Z",
+          "wordCount": null,
+          "title": "CC-4627 - Critical Zero-day Vulnerabilities in VMware ESXi, Workstation, and Fusion",
+          "imageUrl": null
+        },
+        {
           "id": "0d7d60e2-52c2-4a41-b51c-0dc7956218d4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Vulnerabilities in RSync could allow an attacker to execute arbitrary code or perform path traversal\n Vulnerabilities in RSync could allow an attacker to execute arbitrary code or perform path traversal\n Updated: 26 Feb 2025",
