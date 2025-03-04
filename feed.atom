@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-04T08:14:05.677Z</updated>
+    <updated>2025-03-04T09:12:45.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI predicts hospital stay lengths for people with learning disabilities]]></title>
+        <id>https://www.digitalhealth.net/?p=220391</id>
+        <link href="https://www.digitalhealth.net/2025/03/ai-predicts-hospital-stay-lengths-for-people-with-learning-disabilities/"/>
+        <updated>2025-03-04T08:30:20.000Z</updated>
+        <summary type="html"><![CDATA[An AI model has been developed to predict how long a person with a learning disability is likely to stay in hospital.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Staff leaving the NHS among lowest in over a decade]]></title>
         <id>https://www.england.nhs.uk/?p=262251</id>
