@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-04T13:20:04.056Z</updated>
+    <updated>2025-03-04T14:11:21.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[60% of NHS staff want more cyber security training, finds study]]></title>
+        <id>https://www.digitalhealth.net/?p=220701</id>
+        <link href="https://www.digitalhealth.net/2025/03/60-of-nhs-staff-want-more-cyber-security-training-finds-study/"/>
+        <updated>2025-03-04T13:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Research from BT found that only 36% of NHS staff surveyed believe that current cyber security measures are sufficient.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England attempts to allay GP concerns over new online consultation requirement]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159495</id>
