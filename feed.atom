@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-05T08:16:12.699Z</updated>
+    <updated>2025-03-05T09:12:43.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nationwide roll out of AI tool that predicts falls and viruses]]></title>
+        <id>https://www.digitalhealth.net/?p=220801</id>
+        <link href="https://www.digitalhealth.net/2025/03/nationwide-roll-out-of-ai-tool-that-predicts-falls-and-viruses/"/>
+        <updated>2025-03-05T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[An AI tool is being rolled out across the NHS that can predict a patient’s risk of falling with 97% accuracy.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nationwide roll out of artificial intelligence tool that predicts falls and viruses]]></title>
         <id>https://www.england.nhs.uk/?p=262397</id>
@@ -4155,18 +4165,6 @@ The post Government ‘acting on’ GPs being ‘unwilling’ to refer to Pharma
         <summary type="html"><![CDATA[Nearly 700,000 women across the country will take part in a world-leading trial to test how AI tools can be used to catch breast cancer cases earlier.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groundbreaking Ebola vaccination trial launches today in Uganda]]></title>
-        <id>urn:uuid:e9da87e5-359e-429e-b995-afcd3adada12</id>
-        <link href="https://www.who.int/news/item/03-02-2025-groundbreaking-ebola-vaccination-trial-launches-today-in-uganda"/>
-        <updated>2025-02-03T20:39:24.000Z</updated>
-        <summary type="html"><![CDATA[In a global first, Uganda’s Ministry of Health, the World Health Organization (WHO) and other partners today launched a first ever vaccine trial for Ebola from the Sudan species of the virus, and at an unprecedented speed for a randomized vaccine trial in an emergency. 
-The principal investigators from Makerere University and the Uganda Virus Research Institute (UVRI), with support from WHO and other partners, have worked tirelessly to get the trial ready in 4 days since the outbreak was confirmed on 30 January. It is the first trial to assess the clinical efficacy of a vaccine against Ebola disease due to Sudan virus. The speed was achieved through advanced research preparedness, while ensuring full compliance with national and international regulatory and ethical requirements. 
-The candi…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
