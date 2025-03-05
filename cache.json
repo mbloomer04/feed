@@ -1360,6 +1360,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1908897",
+          "author": null,
+          "description": "Nearly four in five GPs report feeling sleep deprived at work - with many warning tiredness has a direct impact on their ability to treat patients, a survey by a leading medico-legal organisation shows.",
+          "link": "https://www.gponline.com/sleep-deprived-gps-could-blamed-unfairly-errors-patient-care/article/1908897",
+          "publishedOn": "2025-03-05T11:05:33.000Z",
+          "wordCount": 929,
+          "title": "Sleep-deprived GPs 'could be blamed unfairly' for errors in patient care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_stress_GettyImages-SolStock_3.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1908813",
+          "author": null,
+          "description": "GP leaders have agreed to pause collective action in general practice following the £969m contract uplift for 2025/26 - but what does that mean in practice, and what is on the line at the special LMCs conference scheduled for later this month?",
+          "link": "https://www.gponline.com/does-pause-collective-action-really-mean-gps/article/1908813",
+          "publishedOn": "2025-03-05T09:00:00.000Z",
+          "wordCount": 944,
+          "title": "What does the pause in collective action really mean for GPs?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_64.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1908690",
           "author": null,
           "description": "Changes to the GP contract for 2025/26 that require practices to keep online consultation tools open throughout core hours will be a ‘nightmare’ and could put patients and doctors at risk, GPs have warned.",
@@ -2582,6 +2602,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/creating-connections-understanding-the-mental-health-needs-of-young-mums.html",
+          "author": null,
+          "description": "Maternal Mental Health Alliance - These resources aim to raise awareness of the specific barriers young mums face, the impact this has on their mental health, and highlight the importance of peer support in addition to statutory care. Resources Maternal Mental Health Alliance - news",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/creating-connections-understanding-the-mental-health-needs-of-young-mums.html",
+          "publishedOn": "2025-03-05T13:01:06.000Z",
+          "wordCount": null,
+          "title": "Creating connections: understanding the mental health needs of young mums",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/government-response-to-the-women-and-equalities-committees-first-report-of-session-2024-to-2025-wome.html",
           "author": null,
