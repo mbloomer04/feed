@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-05T10:12:47.849Z</updated>
+    <updated>2025-03-05T11:10:54.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brainwave reader developed for motor neurone disease patients]]></title>
+        <id>https://www.digitalhealth.net/?p=220833</id>
+        <link href="https://www.digitalhealth.net/2025/03/brainwave-reader-developed-for-motor-neurone-disease-patients/"/>
+        <updated>2025-03-05T11:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Nottingham Trent University (NTU) has developed a brainwave reader for people who can no longer communicate through speech or eye movement.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Government response to the Women and Equalities Committee report on women’s reproductive health conditions]]></title>
+        <id>https://www.gov.uk/government/publications/government-response-to-the-women-and-equalities-committee-report-on-womens-reproductive-health-conditions</id>
+        <link href="https://www.gov.uk/government/publications/government-response-to-the-women-and-equalities-committee-report-on-womens-reproductive-health-conditions"/>
+        <updated>2025-03-05T09:55:54.000Z</updated>
+        <summary type="html"><![CDATA[The government's response to recommendations made by the House of Commons Women and Equalities Committee's inquiry into women’s reproductive health conditions.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP multidisciplinary teams to be expanded in Northern Ireland]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159515</id>
