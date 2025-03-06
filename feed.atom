@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-06T14:11:16.789Z</updated>
+    <updated>2025-03-06T15:12:23.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4628 - Cisco Releases Security Advisory for Secure Client]]></title>
+        <id>92d1f3c5-69f7-4074-b05b-821d7790b855</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4628"/>
+        <updated>2025-03-06T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges
+ CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges
+ Updated: 06 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dilemmas in HRT: Beyond the basics]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159505</id>

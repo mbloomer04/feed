@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "92d1f3c5-69f7-4074-b05b-821d7790b855",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges\n CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges\n Updated: 06 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4628",
+          "publishedOn": "2025-03-06T14:11:00.000Z",
+          "wordCount": null,
+          "title": "CC-4628 - Cisco Releases Security Advisory for Secure Client",
+          "imageUrl": null
+        },
+        {
           "id": "07a226ef-e158-4388-8182-8334713f6d6d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Broadcom has addressed three exploited vulnerabilities that, when chained, can allow an attacker to access the hypervisor through a running virtual machine\n Broadcom has addressed three exploited vulnerabilities that, when chained, can allow an attacker to access the hypervisor through a running virtual machine\n Updated: 04 Mar 2025",
