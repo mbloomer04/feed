@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-06T08:15:10.214Z</updated>
+    <updated>2025-03-06T09:12:43.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS cyber security concerns raised about move to Windows 11]]></title>
+        <id>https://www.digitalhealth.net/?p=220747</id>
+        <link href="https://www.digitalhealth.net/2025/03/nhs-cyber-security-concerns-raised-about-move-to-windows-11/"/>
+        <updated>2025-03-06T08:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Fears have been raised that the NHS could be hit by cyber security issues because organisations are not prepared to migrate to Windows 11.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS patients receive first home-grown blood plasma treatments]]></title>
         <id>https://www.gov.uk/government/news/nhs-patients-receive-first-home-grown-blood-plasma-treatments</id>
