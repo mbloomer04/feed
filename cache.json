@@ -2246,6 +2246,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/pandemic-flu",
+          "author": null,
+          "description": "Pandemic flu planning information for England and the devolved administrations, including guidance for organisations and businesses.",
+          "link": "https://www.gov.uk/guidance/pandemic-flu",
+          "publishedOn": "2025-03-06T17:35:32.000Z",
+          "wordCount": 15279,
+          "title": "Pandemic flu",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-march-2025",
           "author": null,
           "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",

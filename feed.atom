@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-06T17:11:07.053Z</updated>
+    <updated>2025-03-06T18:15:43.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pandemic flu]]></title>
+        <id>https://www.gov.uk/guidance/pandemic-flu</id>
+        <link href="https://www.gov.uk/guidance/pandemic-flu"/>
+        <updated>2025-03-06T17:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Pandemic flu planning information for England and the devolved administrations, including guidance for organisations and businesses.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Treat male partners to tackle bacterial vaginosis in women, study suggests]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159593</id>
