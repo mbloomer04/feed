@@ -1380,6 +1380,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1909198",
+          "author": null,
+          "description": "There is 'no convincing evidence' that physician associates add value in UK primary care, researchers have warned.",
+          "link": "https://www.gponline.com/no-convincing-evidence-physician-associates-add-value-uk-primary-care/article/1909198",
+          "publishedOn": "2025-03-07T00:01:00.000Z",
+          "wordCount": 705,
+          "title": "'No convincing evidence' physician associates add value in UK primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP-201412220249265751-2018031206200658_73.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1909169",
           "author": null,
           "description": "The Scottish government should set up an 'umbrella body' to sponsor visas for international medical graduate (IMG) doctors who have completed UK GP training so that these doctors are not lost to the NHS, RCGP Scotland has said.",
@@ -2195,6 +2205,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/supervised-toothbrushing-for-children-to-prevent-tooth-decay",
+          "author": null,
+          "description": "Programme will reach up to 600,000 children in most deprived areas",
+          "link": "https://www.gov.uk/government/news/supervised-toothbrushing-for-children-to-prevent-tooth-decay",
+          "publishedOn": "2025-03-07T00:01:00.000Z",
+          "wordCount": 5155,
+          "title": "Supervised toothbrushing for children to prevent tooth decay",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/guidance/pandemic-flu",
           "author": null,
