@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-07T06:16:24.276Z</updated>
+    <updated>2025-03-07T07:11:39.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What does the 2025/26 GP contract mean for general practice?]]></title>
+        <id>https://www.gponline.com/article/1909072</id>
+        <link href="https://www.gponline.com/podcast-does-2025-26-gp-contract-mean-general-practice/article/1909072"/>
+        <updated>2025-03-07T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses what's in the GP contract for the coming year, what happens now with collective action, and the need for longer-term contract reform.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['No convincing evidence' physician associates add value in UK primary care]]></title>
         <id>https://www.gponline.com/article/1909198</id>
