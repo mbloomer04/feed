@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-07T14:11:04.244Z</updated>
+    <updated>2025-03-07T15:12:01.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brewing beer: rules and regulations for commercial brewing]]></title>
+        <id>https://www.gov.uk/guidance/brewing-beer-rules-and-regulations-for-commercial-brewing</id>
+        <link href="https://www.gov.uk/guidance/brewing-beer-rules-and-regulations-for-commercial-brewing"/>
+        <updated>2025-03-07T15:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Regulations that brewers and contract brewers must comply with when producing beer to sell.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
+        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
+        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
+        <updated>2025-03-07T14:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doncaster and Bassetlaw to go live with shared care record]]></title>
         <id>https://www.digitalhealth.net/?p=220961</id>
@@ -115,6 +135,16 @@ The post CPD: Managing patients with medically unexplained symptoms – beyond i
         <link href="https://www.gponline.com/government-should-develop-alternative-gp-models-amid-rapid-decline-partners/article/1909285"/>
         <updated>2025-03-07T10:33:44.000Z</updated>
         <summary type="html"><![CDATA[Alternatives to the traditional partnership model of general practice are desperately needed to stop practice closures and protect patient care as numbers of GP partners remain in freefall - but abolishing the model altogether would be the wrong approach, a think tank has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10-year NHS plan must deliver immediate boost to general practice]]></title>
+        <id>https://www.gponline.com/article/1909240</id>
+        <link href="https://www.gponline.com/10-year-nhs-plan-deliver-immediate-boost-general-practice/article/1909240"/>
+        <updated>2025-03-07T09:34:38.000Z</updated>
+        <summary type="html"><![CDATA[It is 'critical' for the government's forthcoming 10-year NHS plan to deliver immediate support for frontline GPs alongside longer-term proposals, GPs have warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
