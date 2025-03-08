@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-08T11:08:45.838Z</updated>
+    <updated>2025-03-08T12:15:47.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -149,6 +149,16 @@ The post Patients experiencing ‘deeply concerning’ levels of discrimination 
 The post Risk groups were less likely to have flu vaccination this year appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many pregnancy-related complications going undetected and untreated – WHO]]></title>
+        <id>urn:uuid:b321357c-636a-4e48-bf6d-bc757596a16e</id>
+        <link href="https://www.who.int/news/item/08-03-2025-many-pregnancy-related-complications-going-undetected-and-untreated--who"/>
+        <updated>2025-03-07T11:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Haemorrhage – severe heavy bleeding – and hypertensive disorders like preeclampsia are the leading causes of maternal deaths globally, according to a new study released today by the World Health Organization (WHO). These conditions were responsible for around 80 000 and 50 000 fatalities respectively in 2020 – the last year for which published estimates are available - highlighting that many women still lack access to lifesaving treatments and effective care during and after pregnancy and birth.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4161,16 +4171,6 @@ These numbe…]]></summary>
         <summary type="html"><![CDATA[The GPonline team discusses the key news stories from the past two weeks.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press release: Local public health services given £200 million boost]]></title>
-        <id>https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost</id>
-        <link href="https://www.gov.uk/government/news/local-public-health-services-given-200-million-boost"/>
-        <updated>2025-02-07T00:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Local communities to receive funding for family and school nurses, sexual health clinics and other public health services.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
