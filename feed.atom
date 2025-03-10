@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-10T08:13:45.956Z</updated>
+    <updated>2025-03-10T09:11:08.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data chiefs raise concerns about NHS federated data platform]]></title>
+        <id>https://www.digitalhealth.net/?p=220949</id>
+        <link href="https://www.digitalhealth.net/2025/03/data-chiefs-raise-concerns-about-nhs-federated-data-platform/"/>
+        <updated>2025-03-10T08:30:55.000Z</updated>
+        <summary type="html"><![CDATA[An open letter from AphA's Chief Data and Analytics Officers Network has questioned whether the NHS FDP can support local health systems.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Referrals to NHS sexual assault centres rise by 18% in 2 years]]></title>
         <id>https://www.england.nhs.uk/?p=262673</id>
