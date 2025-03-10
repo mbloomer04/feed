@@ -2106,6 +2106,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-amendments-for-april-2025",
+          "author": null,
+          "description": "The department is seeking views on proposed amendments to the NHS Pension Scheme for 1 April 2025.",
+          "link": "https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-amendments-for-april-2025",
+          "publishedOn": "2025-03-10T14:00:03.000Z",
+          "wordCount": 1241,
+          "title": "NHS Pension Scheme: proposed amendments for April 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/the-regulation-of-artificial-intelligence-as-a-medical-device-government-response-to-the-rhc",
           "author": null,
           "description": "Government response to the recommendations made by the Regulatory Horizons Council (RHC) on the regulation of AI as a medical device.",
@@ -3326,6 +3336,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=221299",
+          "author": "Jordan Sollof",
+          "description": "An AI model at Imperial College Healthcare can flag females who are at higher risk of heart disease based on an electrocardiogram (ECG).",
+          "link": "https://www.digitalhealth.net/2025/03/ai-model-uses-ecgs-to-detect-females-at-high-risk-of-heart-disease/",
+          "publishedOn": "2025-03-10T13:32:14.000Z",
+          "wordCount": 3856,
+          "title": "AI model uses ECGs to detect females at high risk of heart disease",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Electrocardiogram.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=221203",
           "author": "Jordan Sollof",

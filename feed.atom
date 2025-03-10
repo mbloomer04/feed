@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-10T13:21:38.388Z</updated>
+    <updated>2025-03-10T14:12:19.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Pension Scheme: proposed amendments for April 2025]]></title>
+        <id>https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-amendments-for-april-2025</id>
+        <link href="https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-amendments-for-april-2025"/>
+        <updated>2025-03-10T14:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The department is seeking views on proposed amendments to the NHS Pension Scheme for 1 April 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI model uses ECGs to detect females at high risk of heart disease]]></title>
+        <id>https://www.digitalhealth.net/?p=221299</id>
+        <link href="https://www.digitalhealth.net/2025/03/ai-model-uses-ecgs-to-detect-females-at-high-risk-of-heart-disease/"/>
+        <updated>2025-03-10T13:32:14.000Z</updated>
+        <summary type="html"><![CDATA[An AI model at Imperial College Healthcare can flag females who are at higher risk of heart disease based on an electrocardiogram (ECG).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Existential crisis 'enveloping British general practice', warn LMCs]]></title>
         <id>https://www.gponline.com/article/1909480</id>
