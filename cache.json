@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1907076",
+          "author": null,
+          "description": "'Devastated' practices in Lothian have been forced to make staff redundant after up to five-figure increases in premises fees - in a crisis GPs fear could spread across Scotland.",
+          "link": "https://www.gponline.com/devastated-practices-lay-off-staff-five-figure-premises-cost-hike/article/1907076",
+          "publishedOn": "2025-03-11T10:11:00.000Z",
+          "wordCount": 723,
+          "title": "'Devastated' practices lay off staff after five-figure premises cost hike",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-GettyImages-sturti_12.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1909536",
           "author": null,
           "description": "A shortage of capital funding for community services could make government plans to move care out of hospital unachievable, local NHS leaders have warned.",
@@ -2167,16 +2177,6 @@
           "wordCount": 1464,
           "title": "Frontline NHS staff in the North West to have their say on the future of the NHS",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=261154",
-          "author": "rwootton",
-          "description": "The NHS is urging around 1.3 million older people who have not yet had the respiratory syncytial virus vaccine to get jabbed, as health service chiefs warn it is “not just a winter illness”. Invites are being sent this week to people not yet vaccinated against RSV who are aged 75-79 or turned 80 after […]",
-          "link": "https://www.england.nhs.uk/2025/02/more-than-1-million-older-people-urged-to-get-respiratory-syncytial-virus-rsv-vaccine/",
-          "publishedOn": "2025-02-10T00:01:37.000Z",
-          "wordCount": 1210,
-          "title": "More than 1 million older people urged to get respiratory syncytial virus (RSV) vaccine",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2712,6 +2712,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/how-racism-affects-health-.html",
+          "author": null,
+          "description": "Health Foundation - This report, published jointly with the Runnymede Trust, examines the relationship between racism and health outcomes. The report shows how people of colour experience three building blocks of good health: employment, income and where people live, and finds large, unacceptable variations according to ethnicity. Going forward, a credible health prevention agenda needs to: take steps to embed...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/how-racism-affects-health-.html",
+          "publishedOn": "2025-03-11T11:41:31.000Z",
+          "wordCount": null,
+          "title": "How racism affects health",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/action-for-healthier-working-lives-final-report-of-the-commission-for-healthier-working-lives-.html",
+          "author": null,
+          "description": "Commission for Healthier Working Lives - The independent Commission for Healthier Working Lives was established by the Health Foundation to build a consensus for the action needed by government and employers to meet our working-age health challenge. The Commission’s final report sets out the need for a new approach to work and health, outlining seven key recommendations to lay the...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/action-for-healthier-working-lives-final-report-of-the-commission-for-healthier-working-lives-.html",
+          "publishedOn": "2025-03-11T11:29:24.000Z",
+          "wordCount": null,
+          "title": "Action for healthier working lives: final report of the Commission for Healthier Working Lives",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/invest-to-change-the-capital-needs-of-community-services.html",
           "author": null,
@@ -3526,6 +3546,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=220895",
+          "author": "Owen Hughes",
+          "description": "Today's roundup covers the launch of Pharmacy2U's integrated platform, Norfolk and Norwich's new CDC, and healthtech insights from Cavendish.",
+          "link": "https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-50/",
+          "publishedOn": "2025-03-11T11:30:07.000Z",
+          "wordCount": 3812,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=221325",
           "author": "Jordan Sollof",
