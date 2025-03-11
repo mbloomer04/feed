@@ -1310,6 +1310,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1909536",
+          "author": null,
+          "description": "A shortage of capital funding for community services could make government plans to move care out of hospital unachievable, local NHS leaders have warned.",
+          "link": "https://www.gponline.com/moving-care-community-wont-work-without-capital-funding-providers-warn/article/1909536",
+          "publishedOn": "2025-03-11T00:01:00.000Z",
+          "wordCount": 712,
+          "title": "Moving care to community won't work without more capital funding, providers warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_20.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1909560",
           "author": null,
           "description": "GPs have been asked to share information about their experience of working with physician associates (PAs) as part of an ongoing government-commissioned review.",
@@ -2156,6 +2166,76 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-december-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-december-2024",
+          "publishedOn": "2025-03-11T08:24:37.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information December 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-november-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-november-2024",
+          "publishedOn": "2025-03-11T08:24:18.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information November 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-october-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-october-2024",
+          "publishedOn": "2025-03-11T08:24:08.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information October 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2024",
+          "publishedOn": "2025-03-11T08:23:57.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-august-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-august-2024",
+          "publishedOn": "2025-03-11T08:23:46.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information August 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2024",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2024",
+          "publishedOn": "2025-03-11T08:23:37.000Z",
+          "wordCount": 777,
+          "title": "Transparency data: DHSC: workforce management information July 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/changes-to-member-contributions-in-the-nhs-pension-scheme-2025",
+          "author": null,
+          "description": "Report detailing the changes to member contribution rates calculations for members in receipt of reduced pay.",
+          "link": "https://www.gov.uk/government/publications/changes-to-member-contributions-in-the-nhs-pension-scheme-2025",
+          "publishedOn": "2025-03-10T14:00:03.000Z",
+          "wordCount": 865,
+          "title": "Policy paper: Changes to member contributions in the NHS Pension Scheme, 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-amendments-for-april-2025",
           "author": null,
           "description": "The department is seeking views on proposed amendments to the NHS Pension Scheme for 1 April 2025.",
@@ -2612,6 +2692,36 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/patient-experience-and-trust-in-nhs-primary-care.html",
+          "author": null,
+          "description": "NHS Race & Health Observatory - Despite primary care services often being the first point of contact with the NHS for patients, this report highlights a worrying lack of trust amongst certain ethnic minority groups of the service or care that they receive. A third of South Asian participants say they rarely or never trust primary care to meet their...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/patient-experience-and-trust-in-nhs-primary-care.html",
+          "publishedOn": "2025-03-11T10:02:15.000Z",
+          "wordCount": null,
+          "title": "Patient experience and trust in NHS primary care",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/report-on-changes-to-member-contribution-rates-calculations-for-nhs-pension-scheme-members-in-receip.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - This report sets out the changes to contribution rates calculations for NHS Pension Scheme members in receipt of reduced pay. This report is a statutory report and has been laid before Parliament. Report More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/report-on-changes-to-member-contribution-rates-calculations-for-nhs-pension-scheme-members-in-receip.html",
+          "publishedOn": "2025-03-11T09:48:51.000Z",
+          "wordCount": null,
+          "title": "Report on changes to member contribution rates calculations for NHS Pension Scheme members in receipt of reduced pay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/government-response-to-nhs-pension-scheme-proposed-amendments-for-april-2025.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - The DHSC consulted on proposed changes to the NHS Pension Scheme for April 2025. A total of 22 responses were received, which were broadly supportive of the changes proposed. The consultation response therefore confirms that the department will proceed to implement the changes, subject to 4 minor amendments. The amendments clarify deadlines,...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/government-response-to-nhs-pension-scheme-proposed-amendments-for-april-2025.html",
+          "publishedOn": "2025-03-11T09:43:24.000Z",
+          "wordCount": null,
+          "title": "Government response to NHS Pension Scheme: proposed amendments for April 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/factsheet-health-related-benefit-cuts.html",
           "author": null,
