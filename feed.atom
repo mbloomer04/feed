@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-11T13:21:14.759Z</updated>
+    <updated>2025-03-11T14:12:15.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medefer refutes claim that security flaw left patient data vulnerable]]></title>
+        <id>https://www.digitalhealth.net/?p=221193</id>
+        <link href="https://www.digitalhealth.net/2025/03/medefer-refutes-claims-that-security-flaw-left-patient-data-vulnerable/"/>
+        <updated>2025-03-11T13:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Online healthcare provider Medefer has denied claims that its application programming interface (API) left NHS patient data vulnerable.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How racism affects health]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/03/how-racism-affects-health-.html</id>
