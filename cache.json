@@ -3387,6 +3387,16 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=221325",
+          "author": "Jordan Sollof",
+          "description": "The first remote MRI scans have been conducted by Imperial College Healthcare to reduce waiting times and increase patient choice.",
+          "link": "https://www.digitalhealth.net/2025/03/first-mris-conducted-remotely-in-imperial-pilot-to-reduce-wait-times/",
+          "publishedOn": "2025-03-11T08:30:26.000Z",
+          "wordCount": 3703,
+          "title": "First MRIs conducted remotely in Imperial pilot to reduce wait times",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Wembley-CDC-MRI.png"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=221299",
           "author": "Jordan Sollof",
           "description": "An AI model at Imperial College Healthcare can flag females who are at higher risk of heart disease based on an electrocardiogram (ECG).",
