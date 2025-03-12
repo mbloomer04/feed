@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "e082d99f-1cfa-4186-b35c-d7cea647bb4f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 57 vulnerabilities, of which six are reported as exploited\n Scheduled updates for Microsoft products, including security updates for 57 vulnerabilities, of which six are reported as exploited\n Updated: 12 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4629",
+          "publishedOn": "2025-03-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4629 - Microsoft Releases March 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "92d1f3c5-69f7-4074-b05b-821d7790b855",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges\n CVE-2025-20206 could allow an attacker to execute arbitrary code with system privileges\n Updated: 06 Mar 2025",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=158902",
+          "author": "Sofia Lind",
+          "description": "UK research has uncovered clear differences in the development of hypertension between South Asian and East Asian adults. The findings from 3,400 adults enrolled in UK Biobank suggest South Asian and East Asian adults living in the country may have distinct trajectories to developing hypertension as well as outcomes. Data on patients with at least\nThe post South and East Asian people living in the UK have different hypertension risk appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/south-and-east-asian-people-living-in-the-uk-have-different-hypertension-risk/",
+          "publishedOn": "2025-03-12T15:09:01.000Z",
+          "wordCount": 2205,
+          "title": "South and East Asian people living in the UK have different hypertension risk",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/02/asian-cvd-cardiovascular-blood-pressure-hypertension.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=159728",
           "author": "Eliza Parr",
