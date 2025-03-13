@@ -163,6 +163,36 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=159889",
+          "author": "Anna Colivicchi",
+          "description": "Following the Government’s announcement that NHS England will be abolished, we look through the Pulse archives to trace NHSE’s history since it was established 2012 March: Following several amendments, the Health and Social Care Bill is passed, putting in motion a major reform of the NHS that would lead to the launch of NHS England\nThe post A timeline of NHS England: 2012 to 2025 appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/nhs-structures/a-timeline-of-nhs-england-2012-to-2025/",
+          "publishedOn": "2025-03-13T17:01:14.000Z",
+          "wordCount": 2780,
+          "title": "A timeline of NHS England: 2012 to 2025",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/03/calendar.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159917",
+          "author": "Sofia Lind",
+          "description": "Figures out today show some progress has been made on NHS waiting times, most notably around patients referred for tests. In January patients waited an average of 17 days for tests and checks – 43 days less than at the height of the pandemic in May 2020, NHS England said, and the lowest level seen\nThe post Some progress made on waiting lists and tests, NHS England announces appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/some-progress-made-on-waiting-lists-and-tests-nhs-england-announces/",
+          "publishedOn": "2025-03-13T16:33:22.000Z",
+          "wordCount": 2248,
+          "title": "Some progress made on waiting lists and tests, NHS England announces",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/q/o/b/GettyImages-836549036-e1607011908677.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159901",
+          "author": "Eliza Parr",
+          "description": "Today’s big news is the Government’s plan to abolish NHS England, 12 years after its inception, as part of the Prime Minister’s drive to cut bureaucracy. Here, Eliza Parr explores what this shake-up might mean for GPs Given recent news of NHS England board members stepping down and plans to cut staff by half, Prime\nThe post What does the abolition of NHS England mean for GPs? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/analysis/breaking-news/what-does-the-abolition-of-nhs-england-mean-for-gps/",
+          "publishedOn": "2025-03-13T16:23:10.000Z",
+          "wordCount": 3171,
+          "title": "What does the abolition of NHS England mean for GPs?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/09/MH-consultation-GettyImages-1306213764-1200-x-800.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159870",
           "author": "Maya Dhillon",
           "description": "The Government has announced that it is abolishing NHS England to ‘reduce duplication’ with the Department of Health and Social Care. We will be featuring all the reaction to this news from the BMA to grassroots GPs. This will be constantly updated. If you would like to send in your reaction, email editor@pulsetoday.co.uk Professor Azeem\nThe post ‘The end of an era for the NHS’: All the reaction to the Government scrapping NHS England appeared first on Pulse Today.",
@@ -2275,6 +2305,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-november-2024",
+          "author": null,
+          "description": "Information on how the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG) is controlling spend on branded medicines in the NHS.",
+          "link": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-november-2024",
+          "publishedOn": "2025-03-13T16:59:15.000Z",
+          "wordCount": 985,
+          "title": "Transparency data: Voluntary scheme aggregate net sales and payment information: November 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/worlds-largest-quango-scrapped-under-reforms-to-put-patients-first",
           "author": null,
