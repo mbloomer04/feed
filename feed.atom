@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-13T08:16:28.741Z</updated>
+    <updated>2025-03-13T09:12:34.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More than 5,000 vital NHS screenings missed due to IT oversight]]></title>
+        <id>https://www.digitalhealth.net/?p=221759</id>
+        <link href="https://www.digitalhealth.net/2025/03/more-than-5000-vital-nhs-screenings-missed-due-to-it-oversight/"/>
+        <updated>2025-03-13T08:30:36.000Z</updated>
+        <summary type="html"><![CDATA[An admin error meant more than 5,200 patients weren't invited to routine screening because their details didn't reach the right IT systems.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New rules to prioritise recruiting care workers in England]]></title>
         <id>https://www.gov.uk/government/news/new-rules-to-prioritise-recruiting-care-workers-in-england</id>
