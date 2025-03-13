@@ -153,6 +153,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=159870",
+          "author": "Maya Dhillon",
+          "description": "The Government has announced that it is abolishing NHS England to ‘reduce duplication’ with the Department of Health and Social Care. We will be featuring all the reaction to this news from the BMA to grassroots GPs. This will be constantly updated. If you would like to send in your reaction, email editor@pulsetoday.co.uk Professor Azeem\nThe post ‘The end of an era for the NHS’: All the reaction to the Government scrapping NHS England appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/breaking-news/the-end-of-an-era-for-the-nhs-all-the-reaction-to-the-government-scrapping-nhs-england/",
+          "publishedOn": "2025-03-13T13:08:11.000Z",
+          "wordCount": 2710,
+          "title": "‘The end of an era for the NHS’: All the reaction to the Government scrapping NHS England",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/NHS-England-looking-for-‘quick-wins-to-improve-GP-access.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159877",
+          "author": "Sofia Lind",
+          "description": "ICBs have been asked to cut their workforce by 50%, which equates to around 12,500 staff across the health system. The news was revealed by chief financial officer at NHS England Julian Kelly at a hearing with the House of Commons Public Accounts Committee (PAC) this morning, and reflects targets for cuts to NHSE staff\nThe post ICBs asked to cut their workforce by 50% appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/icbs-asked-to-cut-their-workforce-by-50/",
+          "publishedOn": "2025-03-13T12:59:15.000Z",
+          "wordCount": 2236,
+          "title": "ICBs asked to cut their workforce by 50%",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/04/PCNs-ICBs-system.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159851",
           "author": "Sofia Lind",
           "description": "A daily pill has been approved by NICE for treating some women with endometriosis after initially being rejected. It is estimated around 1,000 patients a year will be able to access the treatment called relugolix–estradiol–norethisterone (also known as relugolix combination therapy or Ryeqo). The turnaround from NICE came after the company provided new evidence on\nThe post NICE approves daily pill for endometriosis where other treatments have failed appeared first on Pulse Today.",
@@ -1330,6 +1350,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1910003",
+          "author": null,
+          "description": "The government has announced plans to scrap NHS England, with work to transfer its functions into the DHSC beginning immediately in a major acceleration of health service reform.",
+          "link": "https://www.gponline.com/starmer-scraps-nhs-england-bring-health-service-back-democratic-control/article/1910003",
+          "publishedOn": "2025-03-13T11:25:48.000Z",
+          "wordCount": 731,
+          "title": "Starmer scraps NHS England to bring health service 'back into democratic control'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Starmer_GettyImages-SamirHussein.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1909978",
           "author": null,
           "description": "The NHS pension scheme will change from April to clarify how GP and non-GP partners provide their annual certificate of pensionable earnings, the government has confirmed.",
@@ -1578,6 +1608,16 @@
           "wordCount": 922,
           "title": "Tight NHS finances make moving services into community harder, says Dash",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Penny_Dash_NHSE_optimised.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1908454",
+          "author": null,
+          "description": "GPs in part of Scotland are taking on private work, moving overseas and in one case working as an Uber driver because locum sessions have become 'non-existent' after a squeeze on practice finances that doctors' leaders fear will spread across the country.",
+          "link": "https://www.gponline.com/gp-working-uber-jobs-crisis-spreads-scotland/article/1908454",
+          "publishedOn": "2025-03-03T09:14:48.000Z",
+          "wordCount": 758,
+          "title": "Another GP working for Uber as jobs crisis spreads to Scotland",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/car-GettyImages_RF.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1908322",
@@ -2008,6 +2048,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=262861",
+          "author": "rwootton",
+          "description": "NHS staff have more than halved the average wait for tests and checks since the height of the pandemic as the waiting list continues to fall, new data shows today. Patients were waiting an average of 17 days for tests and checks in January – 43 days less than at the height of the pandemic […]",
+          "link": "https://www.england.nhs.uk/2025/03/nhs-slashes-tests-and-checks-waits-to-5-year-low/",
+          "publishedOn": "2025-03-13T10:46:19.000Z",
+          "wordCount": 1514,
+          "title": "NHS slashes tests and checks waits to 5-year low",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=262786",
           "author": "rwootton",
