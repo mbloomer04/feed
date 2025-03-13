@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-13T02:20:34.636Z</updated>
+    <updated>2025-03-13T03:23:26.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4210,42 +4210,6 @@ The post MHRA opens up for more medicines to become available without a GP presc
 The post Less of the paperchase, more of the appraisal appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4616 - MicroDicom Releases DICOM Viewer Software Update]]></title>
-        <id>ee0380c9-f952-46ac-8ebb-918dcab7464a</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4616"/>
-        <updated>2025-02-11T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle attack
- A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle (MitM) attack
- Updated: 11 Feb 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4615 - Proof-of-Concept Exploit for AnyDesk Vulnerability (CVE-2024-12754)]]></title>
-        <id>53696ba5-9c80-491f-a2c5-3714889a210e</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4615"/>
-        <updated>2025-02-11T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials
- Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials
- Updated: 11 Feb 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do the poor gain more? The impact on health inequality of changes in public expenditure on secondary care]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/02/do-the-poor-gain-more-the-impact-on-health-inequality-of-changes-in-public-expenditure-on-secondary-.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/02/do-the-poor-gain-more-the-impact-on-health-inequality-of-changes-in-public-expenditure-on-secondary-.html"/>
-        <updated>2025-02-11T14:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Centre for Health Economics - This study examining mortality rates in England in 2018 found that, contrary to some previous studies, more deprived populations don’t always benefit more from increases in public spending on secondary healthcare. The analysis showed that the middle deprivation group gained more from funding increases, and the poorest didn’t always experience the largest health benefits or...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>

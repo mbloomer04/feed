@@ -144,26 +144,6 @@
           "wordCount": null,
           "title": "CC-4617 - F5 Releases Quarterly Security Notification (February 2025) Affecting BIG-IP Products",
           "imageUrl": null
-        },
-        {
-          "id": "ee0380c9-f952-46ac-8ebb-918dcab7464a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle attack\n A privileged attacker could exploit CVE-2025-1002 to alter network traffic and perform a machine-in-the-middle (MitM) attack\n Updated: 11 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4616",
-          "publishedOn": "2025-02-11T15:21:00.000Z",
-          "wordCount": null,
-          "title": "CC-4616 - MicroDicom Releases DICOM Viewer Software Update",
-          "imageUrl": null
-        },
-        {
-          "id": "53696ba5-9c80-491f-a2c5-3714889a210e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials\n Exploitation of this vulnerability could allow an attacker to read arbitrary files, including stored credentials\n Updated: 11 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4615",
-          "publishedOn": "2025-02-11T15:21:00.000Z",
-          "wordCount": null,
-          "title": "CC-4615 - Proof-of-Concept Exploit for AnyDesk Vulnerability (CVE-2024-12754)",
-          "imageUrl": null
         }
       ]
     },
@@ -3340,16 +3320,6 @@
           "publishedOn": "2025-02-12T11:06:18.000Z",
           "wordCount": null,
           "title": "Telecare National Action Plan: protecting telecare users throughout the digital phone switchover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/do-the-poor-gain-more-the-impact-on-health-inequality-of-changes-in-public-expenditure-on-secondary-.html",
-          "author": null,
-          "description": "Centre for Health Economics - This study examining mortality rates in England in 2018 found that, contrary to some previous studies, more deprived populations don’t always benefit more from increases in public spending on secondary healthcare. The analysis showed that the middle deprivation group gained more from funding increases, and the poorest didn’t always experience the largest health benefits or...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/do-the-poor-gain-more-the-impact-on-health-inequality-of-changes-in-public-expenditure-on-secondary-.html",
-          "publishedOn": "2025-02-11T14:41:56.000Z",
-          "wordCount": null,
-          "title": "Do the poor gain more? The impact on health inequality of changes in public expenditure on secondary care",
           "imageUrl": null
         }
       ]
