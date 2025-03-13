@@ -66,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "93a667f7-2baf-4a7c-a735-71b23111fe70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n Updated: 24 Feb 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4617",
+          "publishedOn": "2025-02-24T13:31:00.000Z",
+          "wordCount": null,
+          "title": "CC-4617 - F5 Releases Quarterly Security Notification (February 2025) Affecting BIG-IP Products",
+          "imageUrl": null
+        },
+        {
           "id": "6653b931-9b6d-4b4f-a446-c2fff3e16cd9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n API authentication bypass vulnerability CVE-2025-21589 affects Session Smart Router, Conductor, and WAN Assurance Managed Routers\n Updated: 19 Feb 2025",
