@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-13T15:13:21.031Z</updated>
+    <updated>2025-03-13T16:14:56.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4631 - Cisco Releases Security Advisories for Cisco IOS XR Software]]></title>
+        <id>a7b976f1-fab8-49ae-b93c-14032c64c005</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4631"/>
+        <updated>2025-03-13T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ 10 security advisories address multiple vulnerabilities, including seven high and three medium severity advisories
+ 10 security advisories address multiple vulnerabilities, including seven high and three medium severity advisories
+ Updated: 13 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World’s largest quango scrapped under reforms to put patients first]]></title>
         <id>https://www.gov.uk/government/news/worlds-largest-quango-scrapped-under-reforms-to-put-patients-first</id>

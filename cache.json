@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a7b976f1-fab8-49ae-b93c-14032c64c005",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n 10 security advisories address multiple vulnerabilities, including seven high and three medium severity advisories\n 10 security advisories address multiple vulnerabilities, including seven high and three medium severity advisories\n Updated: 13 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4631",
+          "publishedOn": "2025-03-13T15:23:00.000Z",
+          "wordCount": null,
+          "title": "CC-4631 - Cisco Releases Security Advisories for Cisco IOS XR Software",
+          "imageUrl": null
+        },
+        {
           "id": "5abddf9e-2bce-4f72-b3c8-6ceaed675f2b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS \n Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS \n Updated: 12 Mar 2025",
