@@ -1310,6 +1310,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1909903",
+          "author": null,
+          "description": "Talking General Practice speaks to BMA Scotland GP committee chair Dr Iain Morrison about the critical challenges facing general practice in Scotland.",
+          "link": "https://www.gponline.com/podcast-dr-iain-morrison-securing-better-future-scotlands-gps/article/1909903",
+          "publishedOn": "2025-03-14T08:09:00.000Z",
+          "wordCount": 716,
+          "title": "Podcast: Dr Iain Morrison on securing a better future for Scotland's GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGPandIainMorrison.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1910003",
           "author": null,
           "description": "The government has announced plans to scrap NHS England, with work to transfer its functions into the DHSC beginning immediately in a major acceleration of health service reform.",
@@ -3436,6 +3446,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=221909",
+          "author": "Jordan Sollof",
+          "description": "This Movers and Shakers roundup focuses on departures at NHS England, following government announcements that it will lose half of its staff.",
+          "link": "https://www.digitalhealth.net/2025/03/movers-and-shakers-news-roundup-57/",
+          "publishedOn": "2025-03-14T08:30:40.000Z",
+          "wordCount": 3851,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Movers-and-Shakers.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=221853",
           "author": "Tammy Lovell",
