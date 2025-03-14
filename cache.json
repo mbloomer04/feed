@@ -133,6 +133,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=160000",
+          "author": "Anna Colivicchi",
+          "description": "The RCGP will move to a position of ‘neither supporting nor opposing’ assisted dying, after a vote of its council members. Elected representatives of the wider college membership voted to determine the RCGP’s stance in the controversial debate, with 61% in favour of a move to a position of ‘neither supporting nor opposing assisted dying\nThe post RCGP votes in favour of changing its position on assisted dying appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/rcgp-votes-in-favour-of-changing-its-position-on-assisted-dying/",
+          "publishedOn": "2025-03-14T12:43:26.000Z",
+          "wordCount": 2489,
+          "title": "RCGP votes in favour of changing its position on assisted dying",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159984",
           "author": "Anna Colivicchi",
           "description": "Exclusive GPs will vote on issuing patients ‘indefinite’ fit notes on first presentation, as part potential future collective action being debated at the special LMC conference next week. The proposal would see GPs passing all further fitness-for-work assessment to the Department for Work and Pensions (DWP). This is because of the ‘huge number’ of appointments\nThe post GP leaders to vote on writing ‘indefinite’ fit notes as part of collective action appeared first on Pulse Today.",
@@ -1995,7 +2005,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/fentanyl-safety-recommendations-for-first-responders",
+          "author": null,
+          "description": "Evidence-based recommendations to protect first responders from exposure to fentanyl.",
+          "link": "https://www.gov.uk/guidance/fentanyl-safety-recommendations-for-first-responders",
+          "publishedOn": "2025-03-14T12:56:35.000Z",
+          "wordCount": 2212,
+          "title": "[Withdrawn] Fentanyl: safety recommendations for first responders",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -2812,6 +2833,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/proposed-review-of-the-2025-scheme-to-control-the-cost-of-branded-health-service-medicines.html",
+          "author": null,
+          "description": "Department of Health and Social Care - The statutory scheme is set out in legislation in the Branded Health Service Medicines (Costs) Regulations 2018. It is one of two schemes, alongside the 2024 voluntary scheme for branded medicines pricing, access and growth, that control the costs of branded medicines to the NHS. This consultation seeks views on proposals to update...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/proposed-review-of-the-2025-scheme-to-control-the-cost-of-branded-health-service-medicines.html",
+          "publishedOn": "2025-03-14T12:41:52.000Z",
+          "wordCount": null,
+          "title": "Proposed review of the 2025 scheme to control the cost of branded health service medicines",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/monitoring-the-mental-health-act-in-202324.html",
           "author": null,
