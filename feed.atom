@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-14T10:12:35.527Z</updated>
+    <updated>2025-03-14T11:09:55.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Northumbria Healthcare acquires software provider Health Call]]></title>
+        <id>https://www.digitalhealth.net/?p=221715</id>
+        <link href="https://www.digitalhealth.net/2025/03/northumbria-healthcare-acquires-software-provider-health-call/"/>
+        <updated>2025-03-14T11:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Northumbria Healthcare NHS Foundation Trust has acquired Health Call Solutions Limited to increase its range of software products.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposed review of the statutory scheme for branded medicines pricing]]></title>
+        <id>https://www.gov.uk/government/consultations/proposed-review-of-the-statutory-scheme-for-branded-medicines-pricing</id>
+        <link href="https://www.gov.uk/government/consultations/proposed-review-of-the-statutory-scheme-for-branded-medicines-pricing"/>
+        <updated>2025-03-14T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[This consultation seeks views on proposals to update the statutory scheme to control the cost of branded health service medicines.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Primary care minister to address GPs at Pulse LIVE conference next week]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159847</id>
