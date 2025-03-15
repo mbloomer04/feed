@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-15T02:15:56.207Z</updated>
+    <updated>2025-03-15T03:19:39.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4287,19 +4287,6 @@ The post Myths and facts: Prostate cancer appeared first on Pulse Today.]]></sum
         <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4621 - Palo Alto Networks Releases Security Update for PAN-OS]]></title>
-        <id>a2cf455c-9546-4cf1-b5ab-f5f59e0ae23a</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4621"/>
-        <updated>2025-02-13T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Proof-of-concept released for authentication bypass vulnerability CVE-2025-0108
- Proof-of-concept released for authentication bypass vulnerability CVE-2025-0108
- Updated: 13 Feb 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>

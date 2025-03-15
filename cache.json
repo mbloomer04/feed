@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4623 - Active Exploitation of Critical Vulnerability Chain in SimpleHelp",
           "imageUrl": null
-        },
-        {
-          "id": "a2cf455c-9546-4cf1-b5ab-f5f59e0ae23a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Proof-of-concept released for authentication bypass vulnerability CVE-2025-0108\n Proof-of-concept released for authentication bypass vulnerability CVE-2025-0108\n Updated: 13 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4621",
-          "publishedOn": "2025-02-13T15:14:00.000Z",
-          "wordCount": null,
-          "title": "CC-4621 - Palo Alto Networks Releases Security Update for PAN-OS",
-          "imageUrl": null
         }
       ]
     },
