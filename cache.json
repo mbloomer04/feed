@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "CC-4622 - Security updates released for PostgreSQL",
           "imageUrl": null
-        },
-        {
-          "id": "0cdb0d92-e5cc-4035-805f-7d81d1bef14f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server\n CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728 can be exploited in a chain to allow full compromise of a SimpleHelp server\n Updated: 14 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4623",
-          "publishedOn": "2025-02-14T14:03:00.000Z",
-          "wordCount": null,
-          "title": "CC-4623 - Active Exploitation of Critical Vulnerability Chain in SimpleHelp",
-          "imageUrl": null
         }
       ]
     },
@@ -1261,16 +1251,6 @@
           "wordCount": 3011,
           "title": "‘Seven-month CQC results delay caused immense damage to our GP practice’",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/07/CQC-introduces-new-quality-statements-to-assessment-framework.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=158908",
-          "author": "Eliza Parr",
-          "description": "Doctors will not be allowed to discuss assisted dying with patients without first explaining available palliative care and other options, under an amendment tabled to the controversial bill. The draft legislation, which would allow terminally ill adults to end their lives, was backed by MPs in a vote in November and is currently going through\nThe post Assisted dying bill amendment compels doctors to discuss other options first appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/assisted-dying-bill-amendment-compels-doctors-to-discuss-other-options-first/",
-          "publishedOn": "2025-02-14T13:09:28.000Z",
-          "wordCount": 2442,
-          "title": "Assisted dying bill amendment compels doctors to discuss other options first",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/11/assisted-dying.jpg"
         }
       ]
     },
@@ -4046,16 +4026,6 @@
           "wordCount": 3521,
           "title": "Replacement of NHS Oracle finance system postponed again",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Postponed.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=218981",
-          "author": "Jordan Sollof",
-          "description": "A cancer diagnostic pathway management tool, is one of the new products which NHS England has announced will launch in 2025.",
-          "link": "https://www.digitalhealth.net/2025/02/cancer-diagnostic-pathway-tool-to-launch-on-fdp/",
-          "publishedOn": "2025-02-14T13:30:22.000Z",
-          "wordCount": 3697,
-          "title": "Cancer diagnostic pathway service to run on FDP",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Palantir.png"
         }
       ]
     }
