@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-17T08:17:04.220Z</updated>
+    <updated>2025-03-17T09:14:05.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Royal Wolverhampton NHS Trust trials AI transcription tool]]></title>
+        <id>https://www.digitalhealth.net/?p=221935</id>
+        <link href="https://www.digitalhealth.net/2025/03/royal-wolverhampton-nhs-trust-trials-ai-transcription-tool/"/>
+        <updated>2025-03-17T08:30:49.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Wolverhampton NHS Trust (RWT) is piloting an AI tool during clinical consultations to allow consultants more time with patients.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crack teams get patients off waiting lists at twice the speed]]></title>
         <id>https://www.gov.uk/government/news/crack-teams-get-patients-off-waiting-lists-at-twice-the-speed</id>
