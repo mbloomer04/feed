@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "80a6c17d-49cd-449d-b99a-59148cb54e2c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of CVE-2025-24813 could allow an attacker to achieve RCE, view security sensitive files, or inject content\n Exploitation of CVE-2025-24813 could allow an attacker to achieve RCE, view security sensitive files, or inject content\n Updated: 17 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4633",
+          "publishedOn": "2025-03-17T16:13:00.000Z",
+          "wordCount": null,
+          "title": "CC-4633 - Exploitation of Apache Tomcat Vulnerability CVE-2025-24813",
+          "imageUrl": null
+        },
+        {
           "id": "fa0e3933-8f37-4e90-bdca-d3aa621f65fa",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Projects using the vulnerable action are at risk of exposed CI/CD secrets\n Projects using the vulnerable action are at risk of exposed CI/CD secrets\n Updated: 17 Mar 2025",
@@ -112,6 +122,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160033",
+          "author": "Sofia Lind",
+          "description": "More than 2,200 GP practices had patients who had not been invited for screening due to an IT error related to incomplete registrations, a letter seen by Pulse has confirmed. A review by NHS England had found 5,261 people across the country had not been contacted to participate in one or more NHS screening programmes.\nThe post More than 2,200 GP practices affected by IT issue leading to missed cancer screenings appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cancer/more-than-2200-gp-practices-affected-by-it-issue-leading-to-missed-cancer-screenings/",
+          "publishedOn": "2025-03-17T16:08:07.000Z",
+          "wordCount": 2503,
+          "title": "More than 2,200 GP practices affected by IT issue leading to missed cancer screenings",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/06/Breast-Cancer-screening-RF.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160013",
           "author": "Maya Dhillon",
