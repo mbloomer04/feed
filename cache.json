@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1911026",
+          "author": null,
+          "description": "The GPonline team discusses the latest news affecting general practice.",
+          "link": "https://www.gponline.com/podcast-green-light-gp-contract-reform-farewell-nhs-england-alternatives-gp-partnership/article/1911026",
+          "publishedOn": "2025-03-21T08:30:00.000Z",
+          "wordCount": 698,
+          "title": "Podcast: Green light for GP contract reform, farewell NHS England, alternatives to GP partnership",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_993.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1910967",
           "author": null,
           "description": "Health and social care secretary Wes Streeting has hired former GP Sir John Oldham to advise the DHSC on plans to shift more care into the community and create a neighbourhood NHS.",
@@ -3587,6 +3597,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=222817",
+          "author": "Tammy Lovell",
+          "description": "Repeated failings in the way scans are read are leading to avoidable deaths, England’s health ombudsman has warned.",
+          "link": "https://www.digitalhealth.net/2025/03/patients-being-harmed-due-to-repeated-mistakes-in-reading-scans/",
+          "publishedOn": "2025-03-21T08:30:58.000Z",
+          "wordCount": 3735,
+          "title": "Patients being harmed owing to repeated mistakes in reading scans",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/12/Brain-ct-scan-on-laptop.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=222669",
           "author": "Jordan Sollof",
