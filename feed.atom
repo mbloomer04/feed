@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-20T23:11:31.556Z</updated>
+    <updated>2025-03-21T00:57:20.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Great British Energy to cut bills for hospitals and schools]]></title>
+        <id>https://www.gov.uk/government/news/great-british-energy-to-cut-bills-for-hospitals-and-schools</id>
+        <link href="https://www.gov.uk/government/news/great-british-energy-to-cut-bills-for-hospitals-and-schools"/>
+        <updated>2025-03-21T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Great British Energy's first project will put rooftop solar panels on 200 schools and 200 hospitals - cutting energy bills.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dr Victoria Tzortziou Brown: Patient records need to reflect who treated them]]></title>
         <id>https://www.pulsetoday.co.uk/?p=159455</id>
@@ -4442,16 +4452,6 @@ The post NHS England launches major review of postgraduate training including GP
  Updated: 19 Feb 2025]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restructuring social care services: the importance of risk management systems in care homes]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html"/>
-        <updated>2025-02-19T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Care England - This is the final report in a series exploring the root causes of care home failures and offers proactive strategies to ensure long-term sustainability. It offers practical tools, such as the Risk Matrix, Risk Management Framework, and Business Continuity Plan, to help care homes identify, assess, and mitigate risks effectively. Report Care England - publications]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>

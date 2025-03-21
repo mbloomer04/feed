@@ -2227,6 +2227,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/great-british-energy-to-cut-bills-for-hospitals-and-schools",
+          "author": null,
+          "description": "Great British Energy's first project will put rooftop solar panels on 200 schools and 200 hospitals - cutting energy bills.",
+          "link": "https://www.gov.uk/government/news/great-british-energy-to-cut-bills-for-hospitals-and-schools",
+          "publishedOn": "2025-03-21T00:01:00.000Z",
+          "wordCount": 7008,
+          "title": "Great British Energy to cut bills for hospitals and schools",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/67dc55f2931ea30d1b7ee3b7/s960_Great_British_Energy_solar.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/sir-john-oldham-appointed-to-help-make-nhs-fit-for-the-future",
           "author": null,
           "description": "Sir John Oldham is a GP by background and has very significant experience in the sphere of primary care, change management, and leading improvement programmes",
@@ -3451,16 +3461,6 @@
           "publishedOn": "2025-02-20T10:44:44.000Z",
           "wordCount": null,
           "title": "Identifying and supporting unpaid carers in England to improve integrated system working",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html",
-          "author": null,
-          "description": "Care England - This is the final report in a series exploring the root causes of care home failures and offers proactive strategies to ensure long-term sustainability. It offers practical tools, such as the Risk Matrix, Risk Management Framework, and Business Continuity Plan, to help care homes identify, assess, and mitigate risks effectively. Report Care England - publications",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/restructuring-social-care-services-the-importance-of-risk-management-systems-in-care-homes.html",
-          "publishedOn": "2025-02-19T12:32:02.000Z",
-          "wordCount": null,
-          "title": "Restructuring social care services: the importance of risk management systems in care homes",
           "imageUrl": null
         }
       ]
