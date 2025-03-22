@@ -2207,6 +2207,16 @@
           "imageUrl": "https://assets.publishing.service.gov.uk/media/67dc55f2931ea30d1b7ee3b7/s960_Great_British_Energy_solar.jpg"
         },
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2025-03-20T11:39:55.000Z",
+          "wordCount": 9877,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/sir-john-oldham-appointed-to-help-make-nhs-fit-for-the-future",
           "author": null,
           "description": "Sir John Oldham is a GP by background and has very significant experience in the sphere of primary care, change management, and leading improvement programmes",
@@ -3441,16 +3451,6 @@
           "publishedOn": "2025-02-24T09:56:20.000Z",
           "wordCount": null,
           "title": "Bytes and bandages: the role of tech in elective care recovery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/a-helping-hand-robotics-in-surgery.html",
-          "author": null,
-          "description": "Reform - The advent of robotic assisted surgery is now offering unprecedented precision and minimally invasive procedures, in turn reducing recovery time for patients and improving outcomes. It has emerged as one of the potential solutions to lower bed occupancy, faster procedures, improved patient flow, as well as enhanced accuracy, reduced blood loss, and less pain. This paper explores the...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/a-helping-hand-robotics-in-surgery.html",
-          "publishedOn": "2025-02-20T17:45:42.000Z",
-          "wordCount": null,
-          "title": "A helping hand: robotics in surgery",
           "imageUrl": null
         }
       ]

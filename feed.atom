@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-22T05:11:26.780Z</updated>
+    <updated>2025-03-22T06:15:15.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -300,6 +300,16 @@ Global efforts to combat TB have saved an estimated 79 million lives since 2000.
 The post BMA’s Leng review submission demands new name for physician associates appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2025-03-20T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -4418,16 +4428,6 @@ The post Case of the month answers – what was causing this patient’s panic e
         <summary type="html"><![CDATA[Government delivers on its manifesto commitment to roll out extra urgent appointments across the country]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A helping hand: robotics in surgery]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/02/a-helping-hand-robotics-in-surgery.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/02/a-helping-hand-robotics-in-surgery.html"/>
-        <updated>2025-02-20T17:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Reform - The advent of robotic assisted surgery is now offering unprecedented precision and minimally invasive procedures, in turn reducing recovery time for patients and improving outcomes. It has emerged as one of the potential solutions to lower bed occupancy, faster procedures, improved patient flow, as well as enhanced accuracy, reduced blood loss, and less pain. This paper explores the...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
         </author>
     </entry>
 </feed>
