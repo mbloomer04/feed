@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-24T15:13:12.849Z</updated>
+    <updated>2025-03-24T16:16:02.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICB withdraws GP contract termination after court ruling]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160296</id>
+        <link href="https://www.pulsetoday.co.uk/news/contract/icb-withdraws-gp-contract-termination-after-court-ruling/"/>
+        <updated>2025-03-24T16:13:58.000Z</updated>
+        <summary type="html"><![CDATA[An ICB has withdrawn its termination notices to a London GP who refused to cooperate with the local PCN, after a Court of Appeal ruled in his favour. Following a dispute lasting almost five years, North West London ICB wrote to Dr Sashi Shashikanth earlier this month revealing its decision to withdraw the contract termination
+The post ICB withdraws GP contract termination after court ruling appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4635 - Critical Vulnerability in Next.js React Framework]]></title>
+        <id>56e54626-5958-4ff1-a71e-a120c439a815</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4635"/>
+        <updated>2025-03-24T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Next.js releases security update to address critical improper authentication vulnerability 
+ Next.js releases security update to address critical authentication bypass vulnerability 
+ Updated: 24 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS figures show further drop in spending on dependency-forming medicines]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=159931</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/nhs-figures-show-further-drop-in-spending-on-dependency-forming-medicines/"/>
+        <updated>2025-03-24T15:25:28.000Z</updated>
+        <summary type="html"><![CDATA[NHS data has shown a further fall in prescribing costs for dependency-forming medicines. A quarterly update from the NHS Business Services Authority showed that while there had been little change in the numbers of items prescribed, costs of the drugs, which include opioid pain medicine, benzodiazepines and gabapentinoids, fell by £2m in October to December
+The post NHS figures show further drop in spending on dependency-forming medicines appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the state of cyber security in adult social care]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/03/understanding-the-state-of-cyber-security-in-adult-social-care-.html</id>

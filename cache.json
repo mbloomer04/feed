@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "56e54626-5958-4ff1-a71e-a120c439a815",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Next.js releases security update to address critical improper authentication vulnerability \n Next.js releases security update to address critical authentication bypass vulnerability \n Updated: 24 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4635",
+          "publishedOn": "2025-03-24T15:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4635 - Critical Vulnerability in Next.js React Framework",
+          "imageUrl": null
+        },
+        {
           "id": "8472602c-d932-4f36-a4db-c0a7308ced1e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2025-23120 could lead to remote code execution\n Successful exploitation of CVE-2025-23120 could lead to remote code execution\n Updated: 20 Mar 2025",
@@ -122,6 +132,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160296",
+          "author": "Eliza Parr",
+          "description": "An ICB has withdrawn its termination notices to a London GP who refused to cooperate with the local PCN, after a Court of Appeal ruled in his favour. Following a dispute lasting almost five years, North West London ICB wrote to Dr Sashi Shashikanth earlier this month revealing its decision to withdraw the contract termination\nThe post ICB withdraws GP contract termination after court ruling appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/contract/icb-withdraws-gp-contract-termination-after-court-ruling/",
+          "publishedOn": "2025-03-24T16:13:58.000Z",
+          "wordCount": 2344,
+          "title": "ICB withdraws GP contract termination after court ruling",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/contract-imposition.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=159931",
+          "author": "Sofia Lind",
+          "description": "NHS data has shown a further fall in prescribing costs for dependency-forming medicines. A quarterly update from the NHS Business Services Authority showed that while there had been little change in the numbers of items prescribed, costs of the drugs, which include opioid pain medicine, benzodiazepines and gabapentinoids, fell by £2m in October to December\nThe post NHS figures show further drop in spending on dependency-forming medicines appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/nhs-figures-show-further-drop-in-spending-on-dependency-forming-medicines/",
+          "publishedOn": "2025-03-24T15:25:28.000Z",
+          "wordCount": 2045,
+          "title": "NHS figures show further drop in spending on dependency-forming medicines",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/opioid.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160269",
           "author": "Maya Dhillon",
