@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-24T10:13:39.410Z</updated>
+    <updated>2025-03-24T11:10:24.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Macmillan Cancer Support invests in virtual cancer clinic]]></title>
+        <id>https://www.digitalhealth.net/?p=222865</id>
+        <link href="https://www.digitalhealth.net/2025/03/macmillan-cancer-support-invests-in-virtual-cancer-clinic/"/>
+        <updated>2025-03-24T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Perci Health, has received an investment from Macmillan Cancer Support to help more people with cancer get the personalised care they need.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research: The state of cyber security in adult social care]]></title>
         <id>https://www.gov.uk/government/publications/the-state-of-cyber-security-in-adult-social-care</id>
@@ -138,6 +148,16 @@ The post GP practices begin facing legal claims from physician associates appear
         <summary type="html"><![CDATA[The UK Health Security Agency is exploring how AI could be used to analyse online restaurant reviews and identify sources of food poisoning.]]></summary>
         <author>
             <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP practice closed for nearly two weeks after 'security risk']]></title>
+        <id>https://www.gponline.com/article/1911174</id>
+        <link href="https://www.gponline.com/gp-practice-closed-nearly-two-weeks-security-risk/article/1911174"/>
+        <updated>2025-03-21T12:23:47.000Z</updated>
+        <summary type="html"><![CDATA[A GP practice in Peterborough has been forced to close temporarily and move staff to another site, after a 'security risk' that led to a woman being charged by police.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
