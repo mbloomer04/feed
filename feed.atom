@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-24T08:16:54.737Z</updated>
+    <updated>2025-03-24T09:13:40.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS ‘missing opportunity to leverage AI’ says Morley]]></title>
+        <id>https://www.digitalhealth.net/?p=222611</id>
+        <link href="https://www.digitalhealth.net/2025/03/nhs-missing-opportunity-to-leverage-ai-says-morley/"/>
+        <updated>2025-03-24T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Dr Jessica Morley says the NHS is limiting the effectiveness of AI by focusing on how the technology can improve individual health.]]></summary>
+        <author>
+            <name>Thelma Agnew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millions of GP appointments lost to 'absurd' pension tax rules, warns BMA]]></title>
         <id>https://www.gponline.com/article/1911265</id>
