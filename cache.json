@@ -2197,6 +2197,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/nhs-optical-voucher-values-and-hospital-eye-service-charges-from-april-2025",
+          "author": null,
+          "description": "Letter setting out optical voucher values and hospital eye service charges from 1 April 2025.",
+          "link": "https://www.gov.uk/government/publications/nhs-optical-voucher-values-and-hospital-eye-service-charges-from-april-2025",
+          "publishedOn": "2025-03-24T15:58:12.000Z",
+          "wordCount": 921,
+          "title": "Guidance: NHS optical voucher values and hospital eye service charges from April 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/the-state-of-cyber-security-in-adult-social-care",
           "author": null,
           "description": "A report examining the knowledge and understanding of cyber security, and level of cyber resilience, in the adult social care sector.",
@@ -2813,6 +2823,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/achieving-car-t-cell-therapy-health-system-readiness-an-assessment-of-barriers-and-opportunities.html",
+          "author": null,
+          "description": "IQVIA Institute for Human Data Science - CAR T-cell therapies have shown substantial efficacy in several haematological conditions and hold the potential for transformative benefits in other difficult to treat diseases. In this report, the current health system capacity for delivering CAR T-cell therapies to patients was assessed in seven countries (Australia, Canada, France, Germany, Italy, Spain, the United Kingdom),...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/achieving-car-t-cell-therapy-health-system-readiness-an-assessment-of-barriers-and-opportunities.html",
+          "publishedOn": "2025-03-24T16:55:50.000Z",
+          "wordCount": null,
+          "title": "Achieving CAR T-cell therapy: health system readiness an assessment of barriers and opportunities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/a-strain-on-sight-waiting-for-nhs-specialist-eye-care-.html",
+          "author": null,
+          "description": "Healthwatch England - According to NHS statistics, of the nearly 59,000 people currently waiting for specialist eye care as of December 2024, only two thirds (66.8 per cent) have been waiting less than the 18-week target set by government, compared to a target of 92 per cent. This research reveals strong public support for greater use of staff in high...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/a-strain-on-sight-waiting-for-nhs-specialist-eye-care-.html",
+          "publishedOn": "2025-03-24T16:36:20.000Z",
+          "wordCount": null,
+          "title": "A strain on sight: waiting for NHS specialist eye care",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/understanding-the-state-of-cyber-security-in-adult-social-care-.html",
           "author": null,
