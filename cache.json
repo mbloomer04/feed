@@ -3601,6 +3601,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:301a6306-8585-420e-b26f-719f5b3cceae",
+          "author": null,
+          "description": "The WHO Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC) continues to closely monitor the genetic and antigenic evolution of SARS-CoV-2 variants, immune responses to SARS-CoV-2 infection and COVID-19 vaccination, and the performance of COVID-19 vaccines against circulating variants. Based on these evaluations, WHO advises vaccine manufacturers and regulatory authorities on the implications for future updates to COVID-19 vaccine antigen composition. The next decision-making meeting of the TAG-CO-VAC is scheduled for May 2025, after which a statement on COVID-19 vaccine antigen composition and an accompanying data annex will be published on the WHO website. These meetings are timed to balance the availability of the latest epidemiological, immunological, and virological …",
+          "link": "https://www.who.int/news/item/25-03-2025-types-of-data-requested-to-inform-may-2025-covid-19-vaccine-antigen-composition-deliberations",
+          "publishedOn": "2025-03-25T10:24:23.000Z",
+          "wordCount": 3785,
+          "title": "Types of data requested to inform May 2025 COVID-19 vaccine antigen composition deliberations",
+          "imageUrl": null
+        },
+        {
           "id": "urn:uuid:072bc048-997a-449a-a5c8-b3ac73aa20e1",
           "author": null,
           "description": "The number of children dying globally before their fifth birthday declined to 4.8 million in 2023, while stillbirths declined modestly, still remaining around 1.9 million, according to two new reports released today by the United Nations Inter-agency Group for Child Mortality Estimation (UN IGME).\nSince 2000, child deaths have dropped by more than half and stillbirths by over a third, fuelled by sustained investments in child survival worldwide. In 2022, the world reached a historic milestone when child deaths dropped slightly below 5 million for the first time. However, progress has slowed and too many children are still being lost to preventable causes.\n\n\"Millions of children are alive today because of the global commitment to proven interventions, such as vaccines, nutrition, and access…",
@@ -3767,6 +3777,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=223087",
+          "author": "Jordan Sollof",
+          "description": "NHS England is launching the 2025 Digital Maturity Assessment (DMA) over the next few weeks, Vin Diwakar announced at Rewired 2025 last week.",
+          "link": "https://www.digitalhealth.net/2025/03/nhse-to-launch-2025-dma-over-next-few-weeks-diwakar-confirms/",
+          "publishedOn": "2025-03-25T13:30:17.000Z",
+          "wordCount": 3779,
+          "title": "NHSE to launch 2025 DMA over next few weeks, Diwakar confirms",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Vin-Diwakar-Rewired-2025.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=221683",
           "author": "Owen Hughes",
