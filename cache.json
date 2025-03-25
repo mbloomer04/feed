@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "128fb24d-358c-40d3-8ffd-50aa39fb9fef",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster\n Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster\n Updated: 25 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4636",
+          "publishedOn": "2025-03-25T17:06:00.000Z",
+          "wordCount": null,
+          "title": "CC-4636 - Security Updates Released for Ingress NGINX Controller for Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "4b1382e0-8367-4352-8380-e39bc86f7dfe",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-22230 is an authentication bypass vulnerability in VMware Tools for Windows\n CVE-2025-22230 is an authentication bypass vulnerability in VMware Tools for Windows\n Updated: 25 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4637",
+          "publishedOn": "2025-03-25T16:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4637 - Broadcom Releases Security Advisory for VMware Tools for Windows",
+          "imageUrl": null
+        },
+        {
           "id": "56e54626-5958-4ff1-a71e-a120c439a815",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Next.js releases security update to address critical improper authentication vulnerability \n Next.js releases security update to address critical authentication bypass vulnerability \n Updated: 24 Mar 2025",
@@ -132,6 +152,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160246",
+          "author": "Sofia Lind",
+          "description": "Smoking appears to be on the rise once more in some parts of England, warn researchers who have been tracking trends over two decades. An analysis of the effectiveness of regional tobacco control strategies also found that a large North-South divide in smoking prevalence seems to have disappeared. But data from 2006 to 2024 shows\nThe post Smoking rates increasing in parts of England, experts warn appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/smoking-rates-increasing-in-parts-of-england-experts-warn/",
+          "publishedOn": "2025-03-25T16:24:00.000Z",
+          "wordCount": 2195,
+          "title": "Smoking rates increasing in parts of England, experts warn",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/pharmacies-stop-smoking-services.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160321",
+          "author": "Anna Colivicchi",
+          "description": "GP time equivalent to more than 400,000 hours was saved through the use of the NHS App last year, NHS England has claimed. NHSE chief executive Amanda Pritchard explained that the commissioner invested in ‘new tech and digital capabilities’ in ‘recent years’ – including the NHS App – with a view to improve productivity in\nThe post NHS App saved 400,000 hours of GP time last year, NHS England claims appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/nhs-app-saved-400000-hours-of-gp-time-last-year-nhs-england-claims/",
+          "publishedOn": "2025-03-25T16:15:50.000Z",
+          "wordCount": 2275,
+          "title": "NHS App saved 400,000 hours of GP time last year, NHS England claims",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/NHS-app-records-access-to-go-ahead-this-month-after-system-supplier-U-turn.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160277",
           "author": "Maya Dhillon",
@@ -2247,6 +2287,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/aligning-the-upper-age-for-nhs-prescription-charge-exemptions-with-the-state-pension-age",
+          "author": null,
+          "description": "This consultation is seeking views on changing the upper age of age exemptions on prescription charges.",
+          "link": "https://www.gov.uk/government/consultations/aligning-the-upper-age-for-nhs-prescription-charge-exemptions-with-the-state-pension-age",
+          "publishedOn": "2025-03-25T16:35:19.000Z",
+          "wordCount": 1708,
+          "title": "Aligning the upper age for NHS prescription charge exemptions with the State Pension age",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/health-and-care-act-2022-information-standards",
           "author": null,
           "description": "Assessment of the impact of making information standards mandatory for public and private health, and adult social care providers in England.",
@@ -2883,6 +2933,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/designing-a-neighbourhood-health-service-.html",
+          "author": null,
+          "description": "Reform - The government have been clear on the need to shift care decisively out of hospitals and into communities, facilitated by the creation of a new NHS – what they call a neighbourhood health service. Drawing on interviews with senior experts from the health and care sector, this report identifies examples of best practice from across the UK that...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/designing-a-neighbourhood-health-service-.html",
+          "publishedOn": "2025-03-25T16:49:08.000Z",
+          "wordCount": null,
+          "title": "Designing a neighbourhood health service",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/from-research-to-reality-research-and-innovation-in-the-nhs-as-key-to-enabling-the-10-year-plan.html",
           "author": null,

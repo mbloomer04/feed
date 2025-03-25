@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-25T16:13:23.847Z</updated>
+    <updated>2025-03-25T17:11:12.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4636 - Security Updates Released for Ingress NGINX Controller for Kubernetes]]></title>
+        <id>128fb24d-358c-40d3-8ffd-50aa39fb9fef</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4636"/>
+        <updated>2025-03-25T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster
+ Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster
+ Updated: 25 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4637 - Broadcom Releases Security Advisory for VMware Tools for Windows]]></title>
+        <id>4b1382e0-8367-4352-8380-e39bc86f7dfe</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4637"/>
+        <updated>2025-03-25T16:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2025-22230 is an authentication bypass vulnerability in VMware Tools for Windows
+ CVE-2025-22230 is an authentication bypass vulnerability in VMware Tools for Windows
+ Updated: 25 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing a neighbourhood health service]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/03/designing-a-neighbourhood-health-service-.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/03/designing-a-neighbourhood-health-service-.html"/>
+        <updated>2025-03-25T16:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Reform - The government have been clear on the need to shift care decisively out of hospitals and into communities, facilitated by the creation of a new NHS – what they call a neighbourhood health service. Drawing on interviews with senior experts from the health and care sector, this report identifies examples of best practice from across the UK that...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aligning the upper age for NHS prescription charge exemptions with the State Pension age]]></title>
+        <id>https://www.gov.uk/government/consultations/aligning-the-upper-age-for-nhs-prescription-charge-exemptions-with-the-state-pension-age</id>
+        <link href="https://www.gov.uk/government/consultations/aligning-the-upper-age-for-nhs-prescription-charge-exemptions-with-the-state-pension-age"/>
+        <updated>2025-03-25T16:35:19.000Z</updated>
+        <summary type="html"><![CDATA[This consultation is seeking views on changing the upper age of age exemptions on prescription charges.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoking rates increasing in parts of England, experts warn]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160246</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/smoking-rates-increasing-in-parts-of-england-experts-warn/"/>
+        <updated>2025-03-25T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Smoking appears to be on the rise once more in some parts of England, warn researchers who have been tracking trends over two decades. An analysis of the effectiveness of regional tobacco control strategies also found that a large North-South divide in smoking prevalence seems to have disappeared. But data from 2006 to 2024 shows
+The post Smoking rates increasing in parts of England, experts warn appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS App saved 400,000 hours of GP time last year, NHS England claims]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160321</id>
+        <link href="https://www.pulsetoday.co.uk/news/technology/nhs-app-saved-400000-hours-of-gp-time-last-year-nhs-england-claims/"/>
+        <updated>2025-03-25T16:15:50.000Z</updated>
+        <summary type="html"><![CDATA[GP time equivalent to more than 400,000 hours was saved through the use of the NHS App last year, NHS England has claimed. NHSE chief executive Amanda Pritchard explained that the commissioner invested in ‘new tech and digital capabilities’ in ‘recent years’ – including the NHS App – with a view to improve productivity in
+The post NHS App saved 400,000 hours of GP time last year, NHS England claims appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact assessment: Health and Care Act 2022: information standards]]></title>
         <id>https://www.gov.uk/government/publications/health-and-care-act-2022-information-standards</id>
