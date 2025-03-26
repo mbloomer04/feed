@@ -134,16 +134,6 @@
           "wordCount": null,
           "title": "CC-4625 - Medixant Releases Security Update for RadiAnt DICOM Viewer",
           "imageUrl": null
-        },
-        {
-          "id": "93a667f7-2baf-4a7c-a735-71b23111fe70",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n One of the 13 high impact advisories addresses the command injection vulnerability CVE-2025-20029, which could lead to arbitrary system command execution\n Updated: 24 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4617",
-          "publishedOn": "2025-02-24T13:31:00.000Z",
-          "wordCount": null,
-          "title": "CC-4617 - F5 Releases Quarterly Security Notification (February 2025) Affecting BIG-IP Products",
-          "imageUrl": null
         }
       ]
     },
@@ -3542,36 +3532,6 @@
           "wordCount": null,
           "title": "Does healthcare deliver?: results from the Patient Reported Indicator Surveys (PaRIS)",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/ics-respiratory-review-202425.html",
-          "author": null,
-          "description": "Asthma + Lung UK - This review provides a snapshot of respiratory services across England while shining a light on innovative work taking place across the country. It shows key metrics from publicly available data for all integrated care systems (ICSs). This data is combined with information received from a survey Asthma + Lung UK sent out in October 2024...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/ics-respiratory-review-202425.html",
-          "publishedOn": "2025-02-24T13:53:43.000Z",
-          "wordCount": null,
-          "title": "ICS respiratory review 2024/25",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/experience-of-care-improvement-framework-.html",
-          "author": null,
-          "description": "NHS England - This is guidance to support providers in their work to improve the patient experience of care. It is an update of the original 2018 version (Patient experience improvement framework) and includes links to relevant strategy, policy and good practice documents. Guidance More detail",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/experience-of-care-improvement-framework-.html",
-          "publishedOn": "2025-02-24T13:49:18.000Z",
-          "wordCount": null,
-          "title": "Experience of care improvement framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/guidance-on-neighbourhood-multidisciplinary-teams-for-children-and-young-people.html",
-          "author": null,
-          "description": "NHS England - This guidance outlines the principles and core components that underpin all neighbourhood multidisciplinary teams for children and young people. It should be read alongside the 2025/26 priorities and operational planning guidance and the Neighbourhood health guidelines 2025/26, which sets out the six core components of neighbourhood health models. One of these components is the neighbourhood multidisciplinary team...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/guidance-on-neighbourhood-multidisciplinary-teams-for-children-and-young-people.html",
-          "publishedOn": "2025-02-24T13:22:28.000Z",
-          "wordCount": null,
-          "title": "Guidance on neighbourhood multidisciplinary teams for children and young people",
-          "imageUrl": null
         }
       ]
     },
@@ -4496,16 +4456,6 @@
           "wordCount": 3723,
           "title": "Partnership will support patients to find pre-approval treatments",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Patients-Know-Best-in-use-1.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=219677",
-          "author": "Jordan Sollof",
-          "description": "The University Hospitals of Northamptonshire Group has confirmed a go-live date for System C’s BadgerNet maternity EPR system.",
-          "link": "https://www.digitalhealth.net/2025/02/go-live-date-set-for-northamptonshire-maternity-epr/",
-          "publishedOn": "2025-02-24T13:30:34.000Z",
-          "wordCount": 3698,
-          "title": "Go-live date set for Northamptonshire maternity EPR",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/System-C-ipad-maternity.png"
         }
       ]
     }
