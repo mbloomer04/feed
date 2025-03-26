@@ -133,6 +133,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=160337",
+          "author": "Eliza Parr",
+          "description": "The ability of GPs to issue fit notes and deal with work and health issues is ‘questionable’, according to a Government-commissioned review.  Sir Charlie Mayfield, a businessman and former chairman of John Lewis, is currently leading an independent review of what more the Government and employers need to do to tackle ‘economic inactivity due to\nThe post GP role in fit-note process ‘questionable’, suggests Government review appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workload/gp-role-in-fit-note-process-questionable-suggests-government-review/",
+          "publishedOn": "2025-03-26T12:08:08.000Z",
+          "wordCount": 2106,
+          "title": "GP role in fit-note process ‘questionable’, suggests Government review",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/10/Over-20-increase-of-fit-notes-issued-by-GPs-NHS-Digital-data-revealed.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=160246",
           "author": "Sofia Lind",
           "description": "Smoking appears to be on the rise once more in some parts of England, warn researchers who have been tracking trends over two decades. An analysis of the effectiveness of regional tobacco control strategies also found that a large North-South divide in smoking prevalence seems to have disappeared. But data from 2006 to 2024 shows\nThe post Smoking rates increasing in parts of England, experts warn appeared first on Pulse Today.",
@@ -1331,16 +1341,6 @@
           "wordCount": 2256,
           "title": "NHS England chief executive Amanda Pritchard resigns",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=159166",
-          "author": "Eliza Parr",
-          "description": "The Government’s emphasis on hospital waiting times is misaligned with the public, whose top priority for the NHS is GP access, new polling from a leading think tank has suggested.  For the first time in its polling series, the Health Foundation has found that ‘making it easier to get appointments at GP practices’ is now\nThe post GP access is public’s main priority for the NHS, finds leading think tank appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workload/gp-access-is-publics-main-priority-for-the-nhs-finds-leading-think-tank/",
-          "publishedOn": "2025-02-25T00:01:00.000Z",
-          "wordCount": 2352,
-          "title": "GP access is public’s main priority for the NHS, finds leading think tank",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/patient-registering-at-GP-practice.jpg"
         }
       ]
     },
@@ -1349,6 +1349,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1911557",
+          "author": null,
+          "description": "A programme to train GPs with extended roles (GPwERs) in gastroenterology is cost-effective and could help shift services from secondary care to the community, according to an evaluation of the scheme.",
+          "link": "https://www.gponline.com/gps-extended-roles-supercharge-shift-services-hospitals/article/1911557",
+          "publishedOn": "2025-03-26T11:45:00.000Z",
+          "wordCount": 1732,
+          "title": "More GPs with extended roles could supercharge shift of services out of hospitals",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPinscrubs_GettyImages-1561155362-Maskot.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1911621",
           "author": null,
@@ -1948,16 +1958,6 @@
           "wordCount": 893,
           "title": "Amanda Pritchard quits as NHS England chief executive",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Amanda_Pritchard_GettyImages-FrankAugsteinWPAPool_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1907627",
-          "author": null,
-          "description": "Easier access to appointments in general practice has topped a list of public priorities for the NHS despite the profession delivering more appointments than ever.",
-          "link": "https://www.gponline.com/gp-access-tops-patients-nhs-concerns-despite-record-appointments/article/1907627",
-          "publishedOn": "2025-02-25T00:01:00.000Z",
-          "wordCount": 708,
-          "title": "GP access tops patients' NHS concerns despite record appointments",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_appt_GettyImages-GrantSquibb_RF.jpg"
         }
       ]
     },
@@ -2177,16 +2177,6 @@
           "publishedOn": "2025-02-25T10:09:44.000Z",
           "wordCount": 2292,
           "title": "NHS Chief to stand down at end of March",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=261898",
-          "author": "Tom W",
-          "description": "Over 100 frontline NHS staff will be joined by NHS England directors in Reading today (25 Feb 2025) to have their say on what they want to see from the government’s 10 Year Health Plan. It is one of many events across the country where frontline NHS staff across the breadth of the NHS workforce […]",
-          "link": "https://www.england.nhs.uk/2025/02/frontline-nhs-staff-in-the-south-east-have-their-say-on-the-future-of-the-nhs/",
-          "publishedOn": "2025-02-25T00:01:32.000Z",
-          "wordCount": 1478,
-          "title": "Frontline NHS staff in the South East have their say on the future of the NHS",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2843,6 +2833,36 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/lessons-learned-private-finance-for-infrastructure.html",
+          "author": null,
+          "description": "National Audit Office - This report sets out a series of insights drawn from its back catalogue of reports and discussions with stakeholders across the public and private sectors, on the various models of private financing for public infrastructure projects. It contains twelve key considerations for decision-makers grouped under three headings: creating the right conditions to support investor and public...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/lessons-learned-private-finance-for-infrastructure.html",
+          "publishedOn": "2025-03-26T12:01:32.000Z",
+          "wordCount": null,
+          "title": "Lessons learned: private finance for infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/global-trends-in-rd-2025-activity-productivity-and-enablers.html",
+          "author": null,
+          "description": "IQVIA Institute for Human Data Science - This annual trend report assesses the trends in R&D funding, clinical trial activity, and new drug approvals and launches. It also examines the efficiency and productivity of clinical development, using a refreshed Clinical Project Productivity Index, while also providing insights on contributing factors and enablers. The continued significance of emerging biopharma companies and...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/global-trends-in-rd-2025-activity-productivity-and-enablers.html",
+          "publishedOn": "2025-03-26T11:52:17.000Z",
+          "wordCount": null,
+          "title": "Global trends in R&D 2025: activity, productivity, and enablers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/state-of-ageing-summary-2025.html",
+          "author": null,
+          "description": "Centre for Ageing Better - This report highlights the variations in the experiences of growing older across England with the difference in life expectancy for women in the richest and poorest areas now reaching an average of 3.7 years. It also reveals that older people living in local authority areas with the highest proportion of residents on low incomes are...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/state-of-ageing-summary-2025.html",
+          "publishedOn": "2025-03-26T11:36:27.000Z",
+          "wordCount": null,
+          "title": "State of ageing summary 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/designing-a-neighbourhood-health-service-.html",
           "author": null,
