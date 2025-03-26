@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "17437ba6-2082-4b5f-aad0-11261c7a889c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CrushFTP has released a security update addressing a server vulnerability\n CrushFTP has released a security update addressing a server vulnerability\n Updated: 26 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4638",
+          "publishedOn": "2025-03-26T14:46:00.000Z",
+          "wordCount": null,
+          "title": "CC-4638 - Security Update Released for CrushFTP",
+          "imageUrl": null
+        },
+        {
           "id": "128fb24d-358c-40d3-8ffd-50aa39fb9fef",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster\n Five vulnerabilities discovered in Ingress NGINX Controller for Kubernetes could allow for takeover of a Kubernetes cluster\n Updated: 25 Mar 2025",
@@ -132,6 +142,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160005",
+          "author": "Maya Dhillon",
+          "description": "Dr Katie Musgrave on the need to shift general practice away from MDTs and back towards GPs It strikes me as hugely self-evident that GPs are fundamental to the effective running of the NHS. And when I say GPs: I don’t mean ‘the general practice team’ or ‘the different practitioners seeing patients’. I mean GPs.\nThe post The vision for a ‘doctor-lite’ service is a mistake appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/katie-musgrave/the-vision-for-a-doctor-lite-service-is-a-mistake/",
+          "publishedOn": "2025-03-26T14:36:53.000Z",
+          "wordCount": 1519,
+          "title": "The vision for a ‘doctor-lite’ service is a mistake",
+          "imageUrl": null
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160346",
           "author": "Eliza Parr",
@@ -2843,6 +2863,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/a-step-towards-change-members-perspectives-on-government-policies-on-children-and-young-peoples-ment.html",
+          "author": null,
+          "description": "Children & Young People's Mental Health Coalition - The establishment of a new government brought a renewed commitment to babies, children and young people’s mental health. The new government have made a series of commitments in relation to children and young people’s mental health and have pledged to raise the healthiest generation of children and achieve parity of esteem between...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/a-step-towards-change-members-perspectives-on-government-policies-on-children-and-young-peoples-ment.html",
+          "publishedOn": "2025-03-26T14:57:49.000Z",
+          "wordCount": null,
+          "title": "A step towards change: members perspectives on government policies on children and young people’s mental health",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/report-for-the-thirlwall-inquiry-analysis-of-questionnaires-from-120-nhs-trusts.html",
           "author": null,
