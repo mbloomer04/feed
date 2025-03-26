@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4626 - Proof-of-Concept Exploits Released for RSync Vulnerabilities",
           "imageUrl": null
-        },
-        {
-          "id": "aeaba771-83b9-4168-8391-3129690a92e7",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)\n Successful exploitation of CVE-2025-1001 could allow an attacker to perform a machine-in-the-middle attack (MITM)\n Updated: 24 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4625",
-          "publishedOn": "2025-02-24T15:20:00.000Z",
-          "wordCount": null,
-          "title": "CC-4625 - Medixant Releases Security Update for RadiAnt DICOM Viewer",
-          "imageUrl": null
         }
       ]
     },
@@ -3521,16 +3511,6 @@
           "publishedOn": "2025-02-24T16:17:40.000Z",
           "wordCount": null,
           "title": "What does the NHS staff survey tell us about the changing behaviours and motivation of health care staff?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/02/does-healthcare-deliver-results-from-the-patient-reported-indicator-surveys-paris.html",
-          "author": null,
-          "description": "Organisation for Economic Co-operation and Development (OECD) - This report finds that there is an urgent need to adapt healthcare systems to better meet the needs of the growing number of people with chronic health conditions. The survey collected data from about 107,000 patients aged 45 years and older, and 1,800 primary care practices across 19 countries and aimed to...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/02/does-healthcare-deliver-results-from-the-patient-reported-indicator-surveys-paris.html",
-          "publishedOn": "2025-02-24T14:51:03.000Z",
-          "wordCount": null,
-          "title": "Does healthcare deliver?: results from the Patient Reported Indicator Surveys (PaRIS)",
           "imageUrl": null
         }
       ]
