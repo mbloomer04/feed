@@ -1350,6 +1350,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1911621",
+          "author": null,
+          "description": "National insurance costs that kick in from next week risk practice closures and staff redundancies despite the funding uplift for general practice under the 2025/26 GP contract, GP campaigners have warned ahead of the government's spring budget statement.",
+          "link": "https://www.gponline.com/ni-costs-force-practice-closures-gps-warn-ahead-spring-budget/article/1911621",
+          "publishedOn": "2025-03-26T09:59:00.000Z",
+          "wordCount": 746,
+          "title": "NI costs could force practice closures, GPs warn ahead of spring budget",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Treasury-GettyImages-PeterDazeley_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1911424",
           "author": null,
           "description": "General practice should prioritise offering more face-to-face appointments with GPs over rapid access to drive improvements in patient satisfaction, a study suggests.",
@@ -3460,6 +3470,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:fd2eb15b-8dd8-488d-b77a-6cef6d0ca13b",
+          "author": null,
+          "description": "The World Health Organization (WHO) today launched new guidance to help all countries reform and strengthen mental health policies and systems. Mental health services worldwide remain underfunded, with major gaps in access and quality. In some countries, up to 90% of people with severe mental health conditions receive no care at all, while many existing services rely on outdated institutional models that fail to meet international human rights standards.\nThe guidance provides a clear framework to transform mental health services in line with the latest evidence and international human rights standards, ensuring quality care is accessible to all.\n\"Despite rising demand, quality mental health services remain out of reach for many people,\" said Dr Tedros Adhanom Ghebreyesus, WHO Director-Gene…",
+          "link": "https://www.who.int/news/item/25-03-2025-new-who-guidance-calls-for-urgent-transformation-of-mental-health-policies",
+          "publishedOn": "2025-03-25T18:23:30.000Z",
+          "wordCount": 2290,
+          "title": "New WHO guidance calls for urgent transformation of mental health policies",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/friendship-bench-zimbabwe.tmb-1200v.jpg?sfvrsn=9ef0c31d_1"
+        },
         {
           "id": "urn:uuid:301a6306-8585-420e-b26f-719f5b3cceae",
           "author": null,
