@@ -2030,6 +2030,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=263795",
+          "author": "Tom W",
+          "description": "Norovirus cases in hospitals are the highest they’ve ever been at the start of spring, according to new NHS data. In the week ending 23 March, there were 903 hospital patients with norovirus – nearly two-thirds (62.3%) higher than the previous record for cases at this time of year. (Week ending 24 March 2024.) While […]",
+          "link": "https://www.england.nhs.uk/2025/03/winter-virus-levels-as-nhs-heads-into-spring/",
+          "publishedOn": "2025-03-27T09:42:40.000Z",
+          "wordCount": 1216,
+          "title": "Winter virus levels as NHS heads into spring",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=263478",
           "author": "nowen",
           "description": "The NHS national booking system has today opened for 7.5 million eligible people to book in their spring Covid-19 vaccination. The online booking system opens today (Tuesday 25 March), for people to get a date in their diary for appointments starting from Tuesday 1 April. Those eligible for this year’s spring Covid-19 vaccine include adults […]",
@@ -2186,6 +2196,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/vpag-dispute-resolution-panel-february-2025-dhsc-and-b-braun",
+          "author": null,
+          "description": "A decision from the VPAG dispute resolution panel that the sales of a branded medicine by B. Braun Medical Ltd did not meet the definition of an ECP.",
+          "link": "https://www.gov.uk/government/publications/vpag-dispute-resolution-panel-february-2025-dhsc-and-b-braun",
+          "publishedOn": "2025-03-27T11:00:03.000Z",
+          "wordCount": 1075,
+          "title": "Decision: VPAG dispute resolution panel, February 2025: DHSC and B. Braun",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/pre-entry-health-assessments-guidance-for-uk-refugees",
+          "author": null,
+          "description": "Protocol guidance on the aim, objectives and scope of pre-entry health assessment for refugees who are resettled in the United Kingdom.",
+          "link": "https://www.gov.uk/government/publications/pre-entry-health-assessments-guidance-for-uk-refugees",
+          "publishedOn": "2025-03-27T10:41:20.000Z",
+          "wordCount": 1669,
+          "title": "Guidance: Pre-entry health assessments guidance for UK refugees",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/aligning-the-upper-age-for-nhs-prescription-charge-exemptions-with-the-state-pension-age",
           "author": null,
