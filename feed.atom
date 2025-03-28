@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-27T23:12:04.771Z</updated>
+    <updated>2025-03-28T00:57:08.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs need larger share of NHS cash and fewer hoops to jump through, says think tank]]></title>
+        <id>https://www.gponline.com/article/1911946</id>
+        <link href="https://www.gponline.com/gps-need-larger-share-nhs-cash-fewer-hoops-jump-through-says-think-tank/article/1911946"/>
+        <updated>2025-03-28T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The government should set clear milestones for moving more NHS funding into primary care and simplify the GP contract to deliver plans for more healthcare outside hospitals, a think tank has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England sets out details of new advice and guidance enhanced service]]></title>
         <id>https://www.gponline.com/article/1912014</id>
@@ -4588,16 +4598,6 @@ The post Frankly, the patients can just fob off appeared first on Pulse Today.]]
         <summary type="html"><![CDATA[Department for Science, Innovation, and Technology - This plan aims to close the digital divide in the UK, ensuring that everyone has the access, skills, support and confidence to engage in our modern digital society and economy, whatever their circumstances. The first five actions look at local level support, skills, devices, accessible government services and evidence around health outcomes and...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government reveals 'basic' blunder that left hundreds of doctors with pension errors]]></title>
-        <id>https://www.gponline.com/article/1907943</id>
-        <link href="https://www.gponline.com/government-reveals-basic-blunder-left-hundreds-doctors-pension-errors/article/1907943"/>
-        <updated>2025-02-26T11:19:08.000Z</updated>
-        <summary type="html"><![CDATA[The government has revealed the calculation error that left hundreds of doctors with inaccurate pension statements for 2023/24 and unable to complete tax returns - but stopped short of promising a review of the organisation responsible.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
