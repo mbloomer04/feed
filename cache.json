@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4627 - Critical Zero-day Vulnerabilities in VMware ESXi, Workstation, and Fusion",
           "imageUrl": null
-        },
-        {
-          "id": "0d7d60e2-52c2-4a41-b51c-0dc7956218d4",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Vulnerabilities in RSync could allow an attacker to execute arbitrary code or perform path traversal\n Vulnerabilities in RSync could allow an attacker to execute arbitrary code or perform path traversal\n Updated: 26 Feb 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4626",
-          "publishedOn": "2025-02-26T17:35:00.000Z",
-          "wordCount": null,
-          "title": "CC-4626 - Proof-of-Concept Exploits Released for RSync Vulnerabilities",
-          "imageUrl": null
         }
       ]
     },
