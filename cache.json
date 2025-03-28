@@ -133,6 +133,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=160439",
+          "author": "Eliza Parr",
+          "description": "An NHS software provider has been fined over £3m by the ICO for failing to protect against a data hack which severely impacted GPs in 2022. As first revealed by Pulse, parts of the NHS 111 service suffered a ‘total system outage’ during the 2022 cyber attack, and GPs working in urgent care had to\nThe post NHS software provider to pay £3m ICO fine over patient data hack appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/nhs-software-provider-to-pay-3m-ico-fine-over-patient-data-hack/",
+          "publishedOn": "2025-03-28T11:39:38.000Z",
+          "wordCount": 2116,
+          "title": "NHS software provider to pay £3m ICO fine over patient data hack",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/111-outage-was-cyber-attack-NHS-confirms.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=159551",
           "author": "Mollie Fraser-Andrews",
           "description": "In the latest in our series, Dr Keith Hopcroft asked what was going on with a young male with recurrent urinary tract symptoms and a persistently elevated ALP. Answer revealed below… A 35-year-old man attends for review, having had some recent blood tests taken for general malaise and tiredness. He has a history of urinary\nThe post Case of the month – answers: What was causing this man’s persistently elevated ALP? appeared first on Pulse Today.",
@@ -2060,6 +2070,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=264009",
+          "author": "nowen",
+          "description": "Searches for NHS advice on norovirus topped one million this winter as NHS staff managed a quad-demic of viruses, according to new NHS data. There have been 1,021,436 visits to the norovirus advice in the past 16 weeks (2 December to 23 March) – making it the most visited condition on the NHS website this […]",
+          "link": "https://www.england.nhs.uk/2025/03/over-a-million-norovirus-web-hits-this-winter-amid-quad-demic/",
+          "publishedOn": "2025-03-28T11:05:36.000Z",
+          "wordCount": 1293,
+          "title": "Over a million norovirus web hits this winter amid quad-demic",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=263795",
           "author": "Tom W",
           "description": "Norovirus cases in hospitals are the highest they’ve ever been at the start of spring, according to new NHS data. In the week ending 23 March, there were 903 hospital patients with norovirus – nearly two-thirds (62.3%) higher than the previous record for cases at this time of year. (Week ending 24 March 2024.) While […]",
@@ -2216,6 +2236,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-supplier-code-of-conduct",
+          "author": null,
+          "description": "This code of conduct sets out the standards and behaviours we expect of suppliers contracted to support the work of the Department of Health and Social Care (DHSC).",
+          "link": "https://www.gov.uk/government/publications/dhsc-supplier-code-of-conduct",
+          "publishedOn": "2025-03-28T12:32:31.000Z",
+          "wordCount": 894,
+          "title": "Guidance: DHSC supplier code of conduct",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
+          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "publishedOn": "2025-03-28T11:57:12.000Z",
+          "wordCount": 1145,
+          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions-no-longer-in-force",
+          "author": null,
+          "description": "These no longer in force directions, published for public reference, were for the NHS from the Secretary of State for Health and Social Care governing the provision of Directed Enhanced Services in general practice.",
+          "link": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions-no-longer-in-force",
+          "publishedOn": "2025-03-28T11:57:08.000Z",
+          "wordCount": 1130,
+          "title": "Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions: no longer in force",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care governing the provision of Directed Enhanced Services (DESs) in general practice.",
+          "link": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "publishedOn": "2025-03-28T11:57:04.000Z",
+          "wordCount": 1017,
+          "title": "Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/code-of-practice-for-the-international-recruitment-of-health-and-social-care-personnel",
           "author": null,
@@ -2893,6 +2953,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/03/what-should-national-policy-makers-do-to-make-care-closer-to-home-a-reality.html",
+          "author": null,
+          "description": "The King's Fund - As part of its 10 Year Health Plan, the government plans to shift care from hospital to community and integrate neighbourhood health services. This long read examines the policy levers available to any government wishing to reform health and care services. Long read",
+          "link": "https://kingsfund.blogs.com/health_management/2025/03/what-should-national-policy-makers-do-to-make-care-closer-to-home-a-reality.html",
+          "publishedOn": "2025-03-28T13:13:41.000Z",
+          "wordCount": null,
+          "title": "What should national policy-makers do to make care closer to home a reality?",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/03/is-the-left-shift-mission-impossible.html",
           "author": null,
