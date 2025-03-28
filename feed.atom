@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-28T14:11:45.321Z</updated>
+    <updated>2025-03-28T15:12:09.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4640 - Mozilla Releases Security Updates for Firefox]]></title>
+        <id>5c8ef4ee-24bf-48a7-be19-3dfc8e113b87</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4640"/>
+        <updated>2025-03-28T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Critical advisory addresses one exploited vulnerability that affects Firefox on Windows
+ Critical advisory addresses one exploited vulnerability that affects Firefox on Windows
+ Updated: 28 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4639 - Google Releases Security Updates for Chrome]]></title>
+        <id>a83badd8-3838-4bc7-af1a-fe96ddcc9a98</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4639"/>
+        <updated>2025-03-28T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update addresses an exploited high severity vulnerability in Google Chrome for Windows
+ Security update addresses an exploited high severity vulnerability in Google Chrome
+ Updated: 28 Mar 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP wellbeing’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160444</id>
+        <link href="https://www.pulsetoday.co.uk/views/guest-opinion/chaand-nagpaul-the-governments-nhs-plans-depend-on-supporting-gp-wellbeing/"/>
+        <updated>2025-03-28T14:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of his keynote speech at Pulse LIVE Leeds, former chair of both the BMA and its GP Committee Dr Chaand Nagpaul discusses how the Government needs to focus on GPs’ wellbeing if it is to deliver the future of the NHS. For more information on Pulse LIVE Leeds visit our dedicated site I fought
+The post Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP wellbeing’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Performance of the health service in England: Secretary of State for Health and Social Care annual report 2022 to 2023]]></title>
         <id>https://kingsfund.blogs.com/health_management/2025/03/performance-of-the-health-service-in-england-secretary-of-state-for-health-and-social-care-annual-re.html</id>

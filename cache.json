@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5c8ef4ee-24bf-48a7-be19-3dfc8e113b87",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Critical advisory addresses one exploited vulnerability that affects Firefox on Windows\n Critical advisory addresses one exploited vulnerability that affects Firefox on Windows\n Updated: 28 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4640",
+          "publishedOn": "2025-03-28T15:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4640 - Mozilla Releases Security Updates for Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "a83badd8-3838-4bc7-af1a-fe96ddcc9a98",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome for Windows\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 28 Mar 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4639",
+          "publishedOn": "2025-03-28T15:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4639 - Google Releases Security Updates for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "17437ba6-2082-4b5f-aad0-11261c7a889c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CrushFTP has released a security update addressing a server vulnerability\n CrushFTP has released a security update addressing a server vulnerability\n Updated: 26 Mar 2025",
@@ -132,6 +152,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160444",
+          "author": "Maya Dhillon",
+          "description": "Ahead of his keynote speech at Pulse LIVE Leeds, former chair of both the BMA and its GP Committee Dr Chaand Nagpaul discusses how the Government needs to focus on GPs’ wellbeing if it is to deliver the future of the NHS. For more information on Pulse LIVE Leeds visit our dedicated site I fought\nThe post Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP wellbeing’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/chaand-nagpaul-the-governments-nhs-plans-depend-on-supporting-gp-wellbeing/",
+          "publishedOn": "2025-03-28T14:51:06.000Z",
+          "wordCount": 2586,
+          "title": "Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP wellbeing’",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/06/GP-stands-to-succeed-Nagpaul-as-BMA-council-chair-.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160439",
           "author": "Eliza Parr",
