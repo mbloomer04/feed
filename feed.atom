@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-31T09:13:48.581Z</updated>
+    <updated>2025-03-31T10:13:33.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Lanarkshire to launch eTriage to improve patient safety]]></title>
+        <id>https://www.digitalhealth.net/?p=223731</id>
+        <link href="https://www.digitalhealth.net/2025/03/nhs-lanarkshire-to-launch-etriage-to-improve-patient-safety/"/>
+        <updated>2025-03-31T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[NHS Lanarkshire is set to introduce eTriage, a digital check-in and triage system designed to improve patient safety.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Drug and alcohol treatment and recovery funding: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026</id>
@@ -140,6 +150,16 @@ The post Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP
         <link href="https://www.gponline.com/government-unveils-detail-2025-26-gp-contract-funding/article/1912120"/>
         <updated>2025-03-28T12:47:52.000Z</updated>
         <summary type="html"><![CDATA[An updated 'statement of financial entitlements' (SFE) for general practice in 2025/26 confirms that global sum funding per patient will rise to £121.79 - and sets out for the first time details of uplifts to locum reimbursements.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Landmark for GPs as 2,000th practice joins parkrun scheme]]></title>
+        <id>https://www.gponline.com/article/1912112</id>
+        <link href="https://www.gponline.com/landmark-gps-2000th-practice-joins-parkrun-scheme/article/1912112"/>
+        <updated>2025-03-28T12:34:20.000Z</updated>
+        <summary type="html"><![CDATA[A GP practice has promised its staff will 'lead by example' and join in 5km weekend runs after it became the 2,000th to link up with its local 'parkrun' event as part of an RCGP scheme.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
