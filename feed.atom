@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-03-31T23:11:27.323Z</updated>
+    <updated>2025-04-01T01:04:53.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS spring Covid-19 vaccine rollout kicks off with more than half a million appointments already booked]]></title>
+        <id>https://www.england.nhs.uk/?p=264068</id>
+        <link href="https://www.england.nhs.uk/2025/04/nhs-spring-covid-19-vaccine-rollout-kicks-off/"/>
+        <updated>2025-03-31T23:01:01.000Z</updated>
+        <summary type="html"><![CDATA[The first spring Covid-19 vaccines are being delivered by NHS staff from today (Tuesday 1 April) with more than half a million appointments booked in the last week. Since last Tuesday (25 March), 563,154 Covid-19 spring booster jabs have been booked since the national booking system opened, with the NHS’s top doctor encouraging the most […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Framework agreement between DHSC and the Health Research Authority]]></title>
         <id>https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-the-health-research-authority</id>
