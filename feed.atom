@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-01T21:11:21.601Z</updated>
+    <updated>2025-04-01T22:11:41.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -67,6 +67,18 @@ The post RCGP chair: ‘General practice needs resources to standardise green pr
         <summary type="html"><![CDATA[An appointment system piloted at NHS Mid and South Essex is enabling NHS 111 to book out-of-hours dental appointments for patients.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening public health across Lebanon with EIB Global]]></title>
+        <id>urn:uuid:be1c0779-728a-42b3-a2fa-7ced06e1a7b5</id>
+        <link href="https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global"/>
+        <updated>2025-04-01T11:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public health across Lebanon. 
+
+The initiative will re-establish Lebanon's Central Public Health Laboratory and prioritize medication provision and healthcare support to over 50 000 people with chronic diseases like diabetes, cardiovascular issues, and cancer]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -199,6 +211,16 @@ The post CQC spent £99m on ‘failed’ transformation programme appeared first
         <summary type="html"><![CDATA[Describes the working relationship between the Department of Health and Social Care and the Health Research Authority.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO issues its first-ever reports on tests and treatments for fungal infections]]></title>
+        <id>urn:uuid:9328fae1-fd6f-4fdb-807a-d66f31502902</id>
+        <link href="https://www.who.int/news/item/01-04-2025-who-issues-its-first-ever-reports-on-tests-and-treatments-for-fungal-infections"/>
+        <updated>2025-03-31T15:33:13.000Z</updated>
+        <summary type="html"><![CDATA[WHO's reports addressing the critical lack of medicines and diagnostic tools for invasive fungal diseases, shows urgent need for innovative research and development (R&D) to close the gaps. Fungal diseases are an increasing public health concern, with common infections growing increasingly resistant to treatment.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4618,36 +4640,6 @@ The post Gastroenterology and paediatrics experts to speak at free Pulse virtual
         <link href="https://www.gponline.com/nhs-england-create-new-gp-patient-charter-part-2025-26-contract/article/1908479"/>
         <updated>2025-03-03T10:15:44.000Z</updated>
         <summary type="html"><![CDATA[GP practices will be required to publish a new patient charter on their websites under the 2025/26 GP contract, which sets out what people can expect from their practice.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social care 360]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/03/social-care-360-.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/03/social-care-360-.html"/>
-        <updated>2025-03-03T09:52:16.000Z</updated>
-        <summary type="html"><![CDATA[The King's Fund - Explore the key trends in adult social care in England — including the money spent on social care, access to services and the makeup of the workforce — in The King's Fund's latest 360-degree review. Long read]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight NHS finances make moving services into community harder, says Dash]]></title>
-        <id>https://www.gponline.com/article/1908137</id>
-        <link href="https://www.gponline.com/tight-nhs-finances-moving-services-community-harder-says-dash/article/1908137"/>
-        <updated>2025-03-03T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Tight NHS finances will complicate the transfer of services from hospital to community settings, a senior doctor likely to become the next chair of NHS England has warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another GP working for Uber as jobs crisis spreads to Scotland]]></title>
-        <id>https://www.gponline.com/article/1908454</id>
-        <link href="https://www.gponline.com/gp-working-uber-jobs-crisis-spreads-scotland/article/1908454"/>
-        <updated>2025-03-03T09:14:48.000Z</updated>
-        <summary type="html"><![CDATA[GPs in part of Scotland are taking on private work, moving overseas and in one case working as an Uber driver because locum sessions have become 'non-existent' after a squeeze on practice finances that doctors' leaders fear will spread across the country.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
