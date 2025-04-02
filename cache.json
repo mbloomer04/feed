@@ -2158,16 +2158,6 @@
           "wordCount": 1787,
           "title": "Nationwide roll out of artificial intelligence tool that predicts falls and viruses",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=262251",
-          "author": "Tom W",
-          "description": "NHS staff retention schemes have helped cut the number of workers leaving the health service to one of its lowest levels in over a decade, according to new analysis. 1 in 10 (10.1%) hospital and community healthcare workers left the NHS in the 12 months up to September 2024 – nearly 21,300 fewer than in […]",
-          "link": "https://www.england.nhs.uk/2025/03/staff-leaving-the-nhs-among-lowest-in-over-a-decade/",
-          "publishedOn": "2025-03-04T00:01:09.000Z",
-          "wordCount": 1882,
-          "title": "Staff leaving the NHS among lowest in over a decade",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2176,6 +2166,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2024-to-march-2025",
+          "publishedOn": "2025-04-02T11:42:12.000Z",
+          "wordCount": 1028,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2024 to March 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/change-nhs-survey-tell-us-what-you-think-easy-read",
           "author": null,
@@ -2933,6 +2933,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/04/economic-analysis-of-nhs-pharmaceutical-services-in-england.html",
+          "author": null,
+          "description": "Frontier Economics - This review was commissioned by NHS England in October 2022. The report looks at the full economic costs of delivering NHS pharmaceutical services, and how these costs vary across and within: different types of pharmacy; different mix of dispensing activity and services; and different locations. It also evaluates the current funding model and outlines which clinical services...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/04/economic-analysis-of-nhs-pharmaceutical-services-in-england.html",
+          "publishedOn": "2025-04-02T12:15:36.000Z",
+          "wordCount": null,
+          "title": "Economic analysis of NHS pharmaceutical services in England",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/04/achieving-equity-elevating-the-experience-of-wound-care.html",
+          "author": null,
+          "description": "Public Policy Projects - This report highlights the disparities in wound care provision across the UK, and calls for stronger collaboration between the NHS and strategic partners to drive innovation and improve wound care outcomes. It finds that regional disparities in NHS funding, inconsistent implementation of standardised care pathways, and workforce shortages have resulted in fragmented care, leaving many patients...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/04/achieving-equity-elevating-the-experience-of-wound-care.html",
+          "publishedOn": "2025-04-02T11:29:40.000Z",
+          "wordCount": null,
+          "title": "Achieving equity: elevating the experience of wound care",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/04/public-satisfaction-with-the-nhs-and-social-care-in-2024-results-from-the-british-social-attitudes-s.html",
           "author": null,
