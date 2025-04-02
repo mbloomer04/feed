@@ -1330,6 +1330,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1912589",
+          "author": null,
+          "description": "Public satisfaction with the NHS as a whole and with general practice are at a new low, according to the latest British Social Attitudes (BSA) survey - but GPs have questioned the findings, warning they are not borne out in more recent evidence.",
+          "link": "https://www.gponline.com/gps-question-major-poll-showing-patient-satisfaction-new-low/article/1912589",
+          "publishedOn": "2025-04-01T23:01:00.000Z",
+          "wordCount": 926,
+          "title": "GPs question major poll showing patient satisfaction at new low",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_10.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1912446",
           "author": null,
           "description": "ICBs have been told to set up 'interface groups' with representation from primary and secondary care to oversee the expansion of advice and guidance over the coming financial year as a £20-per-request directed enhanced service (DES) for GPs kicks in from this month.",
@@ -3637,6 +3647,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=224019",
+          "author": "Jordan Sollof",
+          "description": "CardMedic, 2022 Pitchfest champion, has been awarded almost £500k in funding from SBRI Healthcare to develop an AI-enabled language portal.",
+          "link": "https://www.digitalhealth.net/2025/04/former-pitchfest-winner-cardmedic-secures-500k-funding/",
+          "publishedOn": "2025-04-02T07:30:13.000Z",
+          "wordCount": 3723,
+          "title": "Former Pitchfest winner CardMedic secures £500k funding",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Rachael-Grimaldi-CardMedic.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=223835",
           "author": "Jordan Sollof",
