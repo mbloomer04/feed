@@ -1340,6 +1340,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1912762",
+          "author": null,
+          "description": "The BMA has published a dossier cataloguing hundreds of safety concerns raised by doctors and medical students around the use of physician associates (PAs) and anaesthesia associates (AAs) - as the GMC revealed more than 1,400 of these staff are now on its register.",
+          "link": "https://www.gponline.com/bma-flags-major-safety-fears-gmc-reveals-scale-physician-associate-registration/article/1912762",
+          "publishedOn": "2025-04-03T09:51:00.000Z",
+          "wordCount": 961,
+          "title": "BMA flags major safety fears as GMC reveals scale of physician associate registration",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_46.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1912734",
           "author": null,
           "description": "ICBs have been given until the end of May to set out how they intend to reduce their running costs by 50%.",
@@ -1968,7 +1978,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "429c5390-c8c3-4152-9ff2-13cab0ad7aab",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "As we prepare to bring new products and suppliers into the GP IT market, Dan Wintercross discusses the Tech Innovation Framework. \n\r\n\r\nThe demand for primary care is increasing, with GP practices currently delivering more than 27 million appointments every month. It’s more important than ever to make sure they have the best digital tools to support them to do their job.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/new-choices-for-gp-it",
+          "publishedOn": "2025-04-03T11:41:50.000Z",
+          "wordCount": null,
+          "title": "New choices for GP IT",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -2137,16 +2158,6 @@
           "publishedOn": "2025-03-06T09:38:35.000Z",
           "wordCount": 1907,
           "title": "England’s top doctor to stand down after over seven years",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=262397",
-          "author": "rwootton",
-          "description": "A new artificial intelligence (AI) tool is being rolled out across the NHS that can predict a patient’s risk of falling with 97% accuracy, preventing as many as 2,000 falls and hospital admissions each day. The predictive tool, developed by health tech provider Cera, is now being used in more than 2 million patient home […]",
-          "link": "https://www.england.nhs.uk/2025/03/nationwide-roll-out-of-artificial-intelligence-tool-that-predicts-falls-and-viruses/",
-          "publishedOn": "2025-03-05T00:01:08.000Z",
-          "wordCount": 1787,
-          "title": "Nationwide roll out of artificial intelligence tool that predicts falls and viruses",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2943,6 +2954,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/04/quality-and-outcomes-framework-guidance-for-202526.html",
+          "author": null,
+          "description": "NHS England - This document provides additional guidance on the interpretation and verification of the QOF indicators for 2025/26 in England. It is effective from 1 April 2025 and replaces versions issued in previous years. Guidance NHS England - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2025/04/quality-and-outcomes-framework-guidance-for-202526.html",
+          "publishedOn": "2025-04-03T12:16:15.000Z",
+          "wordCount": null,
+          "title": "Quality and Outcomes Framework guidance for 2025/26",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/04/bma-reporting-portal-submissions-physician-associates-and-anaesthesia-associates.html",
+          "author": null,
+          "description": "British Medical Association - This document contains over 600 reports of serious concerns submitted to the BMA by doctors and medical students who have witnessed blurring of lines between the role of physician associates and anaesthesia associates, and doctors. This testimony, collected via an online reporting portal between November 2023 and February 2025, has been submitted to the ongoing government-commissioned...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/04/bma-reporting-portal-submissions-physician-associates-and-anaesthesia-associates.html",
+          "publishedOn": "2025-04-03T11:50:28.000Z",
+          "wordCount": null,
+          "title": "BMA reporting portal submissions: physician associates and anaesthesia associates",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/04/recognising-and-responding-to-early-warning-signs-in-public-sector-bodies.html",
           "author": null,

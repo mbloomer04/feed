@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-03T11:11:38.056Z</updated>
+    <updated>2025-04-03T12:23:13.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quality and Outcomes Framework guidance for 2025/26]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/04/quality-and-outcomes-framework-guidance-for-202526.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/04/quality-and-outcomes-framework-guidance-for-202526.html"/>
+        <updated>2025-04-03T12:16:15.000Z</updated>
+        <summary type="html"><![CDATA[NHS England - This document provides additional guidance on the interpretation and verification of the QOF indicators for 2025/26 in England. It is effective from 1 April 2025 and replaces versions issued in previous years. Guidance NHS England - publications]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA reporting portal submissions: physician associates and anaesthesia associates]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/04/bma-reporting-portal-submissions-physician-associates-and-anaesthesia-associates.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/04/bma-reporting-portal-submissions-physician-associates-and-anaesthesia-associates.html"/>
+        <updated>2025-04-03T11:50:28.000Z</updated>
+        <summary type="html"><![CDATA[British Medical Association - This document contains over 600 reports of serious concerns submitted to the BMA by doctors and medical students who have witnessed blurring of lines between the role of physician associates and anaesthesia associates, and doctors. This testimony, collected via an online reporting portal between November 2023 and February 2025, has been submitted to the ongoing government-commissioned...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New choices for GP IT]]></title>
+        <id>429c5390-c8c3-4152-9ff2-13cab0ad7aab</id>
+        <link href="https://digital.nhs.uk/blog/transformation-blog/2023/new-choices-for-gp-it"/>
+        <updated>2025-04-03T11:41:50.000Z</updated>
+        <summary type="html"><![CDATA[As we prepare to bring new products and suppliers into the GP IT market, Dan Wintercross discusses the Tech Innovation Framework. 
+
+
+The demand for primary care is increasing, with GP practices currently delivering more than 27 million appointments every month. It’s more important than ever to make sure they have the best digital tools to support them to do their job.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not all physician associate courses are meeting standards, GMC tells safety review]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160587</id>
@@ -56,6 +89,16 @@ The post A third more cases of atrial fibrillation identified in GP than hospita
         <summary type="html"><![CDATA[Ending doctor strikes saved 500,000 appointments and operations, and cut waiting lists by 193,000]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA flags major safety fears as GMC reveals scale of physician associate registration]]></title>
+        <id>https://www.gponline.com/article/1912762</id>
+        <link href="https://www.gponline.com/bma-flags-major-safety-fears-gmc-reveals-scale-physician-associate-registration/article/1912762"/>
+        <updated>2025-04-03T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has published a dossier cataloguing hundreds of safety concerns raised by doctors and medical students around the use of physician associates (PAs) and anaesthesia associates (AAs) - as the GMC revealed more than 1,400 of these staff are now on its register.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4547,16 +4590,6 @@ The post GP multidisciplinary teams to be expanded in Northern Ireland appeared 
         <summary type="html"><![CDATA[An AI tool is being rolled out across the NHS that can predict a patient’s risk of falling with 97% accuracy.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nationwide roll out of artificial intelligence tool that predicts falls and viruses]]></title>
-        <id>https://www.england.nhs.uk/?p=262397</id>
-        <link href="https://www.england.nhs.uk/2025/03/nationwide-roll-out-of-artificial-intelligence-tool-that-predicts-falls-and-viruses/"/>
-        <updated>2025-03-05T00:01:08.000Z</updated>
-        <summary type="html"><![CDATA[A new artificial intelligence (AI) tool is being rolled out across the NHS that can predict a patient’s risk of falling with 97% accuracy, preventing as many as 2,000 falls and hospital admissions each day. The predictive tool, developed by health tech provider Cera, is now being used in more than 2 million patient home […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
 </feed>
