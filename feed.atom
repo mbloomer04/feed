@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-04T06:17:16.677Z</updated>
+    <updated>2025-04-04T07:12:10.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How this year’s contract affects practices’ bottom line, local funding win, NHS satisfaction]]></title>
+        <id>https://www.gponline.com/article/1912875</id>
+        <link href="https://www.gponline.com/podcast-years-contract-affects-practices-bottom-line-local-funding-win-nhs-satisfaction/article/1912875"/>
+        <updated>2025-04-04T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the latest news stories affectinge general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40% of patients wait ‘too long’ for community mental health services, warns CQC]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160619</id>
