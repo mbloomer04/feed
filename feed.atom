@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-04T12:22:33.367Z</updated>
+    <updated>2025-04-04T13:21:40.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project launched to develop adaptive 4D health tech devices]]></title>
+        <id>https://www.digitalhealth.net/?p=224297</id>
+        <link href="https://www.digitalhealth.net/2025/04/project-launched-to-develop-adaptive-4d-health-tech-devices/"/>
+        <updated>2025-04-04T12:30:53.000Z</updated>
+        <summary type="html"><![CDATA[UK researchers have launched a project to improve how medical devices respond to changes in the body over time.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4641 - Exploited Vulnerability in Ivanti Connect Secure, Pulse Connect Secure, Policy Secure, and ZTA Gateway]]></title>
         <id>d15c7696-2774-4b01-890e-0db90e15eb66</id>
