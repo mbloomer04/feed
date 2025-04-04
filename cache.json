@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d15c7696-2774-4b01-890e-0db90e15eb66",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n Updated: 04 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4641",
+          "publishedOn": "2025-04-04T11:56:00.000Z",
+          "wordCount": null,
+          "title": "CC-4641 - Exploited Vulnerability in Ivanti Connect Secure, Pulse Connect Secure, Policy Secure, and ZTA Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "5c8ef4ee-24bf-48a7-be19-3dfc8e113b87",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Critical advisory addresses one exploited vulnerability that affects Firefox on Windows\n Critical advisory addresses one exploited vulnerability that affects Firefox on Windows\n Updated: 28 Mar 2025",
@@ -1948,16 +1958,6 @@
           "wordCount": 749,
           "title": "Scottish GPs call for national fix to help IMG doctors secure visas",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Dr_Turki_Alhusaini_RCGPScotland.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1909034",
-          "author": null,
-          "description": "Female doctors now outnumber their male counterparts for the first time in UK history - with general practice among the top three specialties with the highest proportion of women, the GMC has revealed.",
-          "link": "https://www.gponline.com/majority-uk-doctors-women-gps-among-specialties-leading/article/1909034",
-          "publishedOn": "2025-03-06T00:01:00.000Z",
-          "wordCount": 928,
-          "title": "Majority of UK doctors are women - with GPs among specialties leading the way",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_14.jpg"
         }
       ]
     },
@@ -2187,6 +2187,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2024-to-2025",
+          "author": null,
+          "description": "The public health allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2024-to-2025",
+          "publishedOn": "2025-04-04T11:08:29.000Z",
+          "wordCount": 1083,
+          "title": "Guidance: Public health grants to local authorities: 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026",
+          "author": null,
+          "description": "The public health allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026",
+          "publishedOn": "2025-04-04T11:08:23.000Z",
+          "wordCount": 1077,
+          "title": "Guidance: Public health grants to local authorities: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-information-asset-register",
           "author": null,
@@ -2946,26 +2966,6 @@
           "wordCount": 1074,
           "title": "Official Statistics: Adult social care in England, monthly statistics: March 2025",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nhs-patients-receive-first-home-grown-blood-plasma-treatments",
-          "author": null,
-          "description": "The first NHS patients in a generation have started to receive life saving plasma from the blood of UK donors.",
-          "link": "https://www.gov.uk/government/news/nhs-patients-receive-first-home-grown-blood-plasma-treatments",
-          "publishedOn": "2025-03-06T00:15:04.000Z",
-          "wordCount": 3196,
-          "title": "NHS patients receive first home-grown blood plasma treatments",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/departmental-minute-on-the-covid-19-spring-2025-vaccination-programme",
-          "author": null,
-          "description": "Departmental minute from the Department of Health and Social Care on the notification of contingent liability for the COVID-19 spring 2025 vaccination programme.",
-          "link": "https://www.gov.uk/government/publications/departmental-minute-on-the-covid-19-spring-2025-vaccination-programme",
-          "publishedOn": "2025-03-06T00:00:00.000Z",
-          "wordCount": 985,
-          "title": "Policy paper: Departmental minute on the COVID-19 spring 2025 vaccination programme",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -2974,6 +2974,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/04/the-safety-gap-safety-and-accessibility-of-medicines-and-medical-devices-for-people-with-sensory-imp.html",
+          "author": null,
+          "description": "Patient Safety Commissioner - This report presents the results of a short-term study to explore the challenges experienced by patients with sensory impairment in relation to their safe and effective access to and use of medicines and medical devices. It explores the barriers to patient safety that exist for patients with sensory impairment, particularly those patients who have diabetes and...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/04/the-safety-gap-safety-and-accessibility-of-medicines-and-medical-devices-for-people-with-sensory-imp.html",
+          "publishedOn": "2025-04-04T11:17:58.000Z",
+          "wordCount": null,
+          "title": "The safety gap: safety and accessibility of medicines and medical devices for people with sensory impairment",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/04/quality-and-outcomes-framework-guidance-for-202526.html",
           "author": null,
