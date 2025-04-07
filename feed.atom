@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-07T07:12:48.100Z</updated>
+    <updated>2025-04-07T08:17:10.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Project ADDER]]></title>
+        <id>https://www.gov.uk/government/publications/project-adder</id>
+        <link href="https://www.gov.uk/government/publications/project-adder"/>
+        <updated>2025-04-07T08:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Information on Project ADDER (Addiction, Diversion, Disruption, Enforcement and Recovery), the government’s programme to stop drugs misuse.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneAdvanced launches private LLM for healthcare businesses]]></title>
+        <id>https://www.digitalhealth.net/?p=224385</id>
+        <link href="https://www.digitalhealth.net/2025/04/oneadvanced-launches-private-llm-for-healthcare-businesses/"/>
+        <updated>2025-04-07T07:30:02.000Z</updated>
+        <summary type="html"><![CDATA[OneAdvanced has launched a large language model (LLM) for healthcare businesses, which delivers AI for sector-specific work.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wait times slashed for 80,000 thanks to boost in cancer detection]]></title>
         <id>https://www.gov.uk/government/news/wait-times-slashed-for-80000-thanks-to-boost-in-cancer-detection</id>
