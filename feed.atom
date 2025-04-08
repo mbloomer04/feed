@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-07T23:11:23.565Z</updated>
+    <updated>2025-04-08T00:57:56.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[New figures show an extra 1,503 GPs have been recruited since 1 October thanks to government action.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three quarters of GPs have stayed in work despite struggling with mental health]]></title>
+        <id>https://www.gponline.com/article/1913305</id>
+        <link href="https://www.gponline.com/three-quarters-gps-stayed-work-despite-struggling-mental-health/article/1913305"/>
+        <updated>2025-04-07T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Three in four GPs have kept working despite struggling with mental health because of factors including staff shortages, guilt about heaping pressure on colleagues and a sense of duty to patients, a poll shows.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
