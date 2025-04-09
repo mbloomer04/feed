@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-09T10:15:00.500Z</updated>
+    <updated>2025-04-09T11:10:46.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4642 - Microsoft Releases April 2025 Security Updates]]></title>
+        <id>89be4937-ede5-4d13-a515-d8145a2ffc00</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4642"/>
+        <updated>2025-04-09T11:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.
+ Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.
+ Updated: 09 Apr 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICB invests £2m into general practice following collective action]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160709</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/cancer/icb-invests-2m-into-general-practice-following-collective-action/"/>
+        <updated>2025-04-09T11:01:52.000Z</updated>
+        <summary type="html"><![CDATA[GP collective action in Somerset has highlighted several gaps in services, leading to an additional £2m investment from the local ICB, the LMC has said. Somerset LMC told GP practices in its area that it has finalised a funding agreement for 2025/26 with the ICB, with new arrangements around GPs providing funded services for ADHD,
+The post ICB invests £2m into general practice following collective action appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One million NHS staff to benefit from new support measures]]></title>
+        <id>https://www.gov.uk/government/news/one-million-nhs-staff-to-benefit-from-new-support-measures</id>
+        <link href="https://www.gov.uk/government/news/one-million-nhs-staff-to-benefit-from-new-support-measures"/>
+        <updated>2025-04-09T10:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Government delivers on promise to support frontline staff with new action to tackle violence, improve working lives and enhance career progression]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routine asthma test reliability varies according to time and season, study finds]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160753</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/routine-asthma-test-reliability-varies-according-to-time-and-season-study-finds/"/>
+        <updated>2025-04-09T10:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The results of a lung function test commonly used to help diagnose asthma can vary according to the time of day and season of the year, researchers have found. A study from the University of Cambridge showed that positive bronchodilator response (BDR) was more likely to occur in the morning and gradually decreased throughout the
+The post Routine asthma test reliability varies according to time and season, study finds appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surrey and Sussex Healthcare goes live with imaging solution]]></title>
         <id>https://www.digitalhealth.net/?p=224693</id>

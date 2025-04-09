@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "89be4937-ede5-4d13-a515-d8145a2ffc00",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.\n Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.\n Updated: 09 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4642",
+          "publishedOn": "2025-04-09T11:09:00.000Z",
+          "wordCount": null,
+          "title": "CC-4642 - Microsoft Releases April 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "d15c7696-2774-4b01-890e-0db90e15eb66",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n Updated: 04 Apr 2025",
@@ -142,6 +152,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160709",
+          "author": "Anna Colivicchi",
+          "description": "GP collective action in Somerset has highlighted several gaps in services, leading to an additional £2m investment from the local ICB, the LMC has said. Somerset LMC told GP practices in its area that it has finalised a funding agreement for 2025/26 with the ICB, with new arrangements around GPs providing funded services for ADHD,\nThe post ICB invests £2m into general practice following collective action appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cancer/icb-invests-2m-into-general-practice-following-collective-action/",
+          "publishedOn": "2025-04-09T11:01:52.000Z",
+          "wordCount": 2419,
+          "title": "ICB invests £2m into general practice following collective action",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/GP-practices-set-to-lose-tens-of-thousands-of-childhood-immunisation-QOF-money.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=160753",
+          "author": "Anna Colivicchi",
+          "description": "The results of a lung function test commonly used to help diagnose asthma can vary according to the time of day and season of the year, researchers have found. A study from the University of Cambridge showed that positive bronchodilator response (BDR) was more likely to occur in the morning and gradually decreased throughout the\nThe post Routine asthma test reliability varies according to time and season, study finds appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/routine-asthma-test-reliability-varies-according-to-time-and-season-study-finds/",
+          "publishedOn": "2025-04-09T10:54:36.000Z",
+          "wordCount": 2254,
+          "title": "Routine asthma test reliability varies according to time and season, study finds",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/04/asthma.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=160824",
           "author": "Anna Colivicchi",
@@ -2097,6 +2127,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/one-million-nhs-staff-to-benefit-from-new-support-measures",
+          "author": null,
+          "description": "Government delivers on promise to support frontline staff with new action to tackle violence, improve working lives and enhance career progression",
+          "link": "https://www.gov.uk/government/news/one-million-nhs-staff-to-benefit-from-new-support-measures",
+          "publishedOn": "2025-04-09T10:56:32.000Z",
+          "wordCount": 1995,
+          "title": "One million NHS staff to benefit from new support measures",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/international-recruitment-regional-fund-for-the-adult-social-care-sector-2025-to-2026",
           "author": null,
