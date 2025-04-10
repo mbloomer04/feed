@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-10T11:10:25.105Z</updated>
+    <updated>2025-04-10T12:23:35.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unheard voices: understanding the challenges faced by Black people living with HIV in primary care]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/04/unheard-voices-understanding-the-challenges-faced-by-black-people-living-with-hiv-in-primary-care.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/04/unheard-voices-understanding-the-challenges-faced-by-black-people-living-with-hiv-in-primary-care.html"/>
+        <updated>2025-04-10T11:49:42.000Z</updated>
+        <summary type="html"><![CDATA[National AIDS Trust - This report, which surveyed 142 Black-heritage people living with HIV in London, identified distinct barriers to receiving adequate care. It finds that these communities have lower levels of engagement in HIV care, poorer health outcomes and higher rates of HIV-related morbidity and mortality. Report National AIDS Trust - publications]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten actions the government can take to improve children’s health]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/04/ten-actions-the-government-can-take-to-improve-childrens-health.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/04/ten-actions-the-government-can-take-to-improve-childrens-health.html"/>
+        <updated>2025-04-10T11:33:25.000Z</updated>
+        <summary type="html"><![CDATA[The King's Fund - Children in the UK experience some of the worst health outcomes in Europe. What steps should the government take to address this? Read the briefing]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA wants wholesale new GP contract to be agreed ‘by end of 2026’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160871</id>
+        <link href="https://www.pulsetoday.co.uk/news/contract/bma-wants-wholesale-new-gp-contract-to-be-agreed-by-end-of-2026/"/>
+        <updated>2025-04-10T11:21:58.000Z</updated>
+        <summary type="html"><![CDATA[The BMA is aiming to agree a totally new contract for general practice by the end of next year, its GP committee for England has revealed.  During a webinar on the 2025/26 contract changes yesterday night, the committee laid out their future plans for negotiations with the Government, with a ‘target date’ to agree the
+The post BMA wants wholesale new GP contract to be agreed ‘by end of 2026’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shaping the national cancer plan]]></title>
         <id>https://www.gov.uk/government/calls-for-evidence/shaping-the-national-cancer-plan</id>
@@ -38,6 +69,16 @@ The post Children and babies with pneumonia should have antibiotics for three da
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Owner of hundreds of GP premises to be sold for £1.6bn to US investors]]></title>
+        <id>https://www.gponline.com/article/1913756</id>
+        <link href="https://www.gponline.com/owner-hundreds-gp-premises-sold-16bn-us-investors/article/1913756"/>
+        <updated>2025-04-10T10:15:30.000Z</updated>
+        <summary type="html"><![CDATA[A company that owns hundreds of GP practice premises across the UK looks set be sold to US private equity investors in a deal worth more than £1.6bn, after its directors confirmed agreement with the buyers.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NHS must move EPR use beyond digitising paper, warns report]]></title>
         <id>https://www.digitalhealth.net/?p=225035</id>
         <link href="https://www.digitalhealth.net/2025/04/nhs-must-move-epr-use-beyond-digitising-paper-warns-report/"/>
@@ -65,6 +106,17 @@ The post Children and babies with pneumonia should have antibiotics for three da
         <summary type="html"><![CDATA[Statistics from survey responses collected from almost 5,000 adult social care settings in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO launches first-ever guidelines on meningitis diagnosis, treatment and care]]></title>
+        <id>urn:uuid:4b2f987d-db33-4ab0-ae65-0387279e4b9f</id>
+        <link href="https://www.who.int/news/item/10-04-2025-who-launches-first-ever-guidelines-on-meningitis-diagnosis--treatment-and-care"/>
+        <updated>2025-04-10T08:02:56.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has today published its first-ever global guidelines for meningitis diagnosis, treatment and care, aiming to speed up detection, ensure timely treatment, and improve long-term care for those affected. By bringing together the latest evidence-based recommendations, the guidelines provide a critical tool for reducing deaths and disability caused by the disease.
+Despite effective treatments and vaccines against some forms of meningitis, the disease remains a significant global health threat. Bacterial meningitis is the most dangerous form and can become fatal within 24 hours. Many pathogens can cause meningitis with an estimated 2.5 million cases reported globally in 2019. This includes 1.6 million cases of bacterial meningitis which resulted in approximate…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4493,16 +4545,6 @@ The post Thousands of patients not invited to cancer screenings due to ‘incomp
         <summary type="html"><![CDATA[A digital platform designed to help people at risk of falling is in the third phase of its trial and closer to rollout in Scotland.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of NHS patients to benefit from ‘take at home’ multiple sclerosis tablet in European first]]></title>
-        <id>https://www.england.nhs.uk/?p=262786</id>
-        <link href="https://www.england.nhs.uk/2025/03/thousands-of-nhs-patients-to-benefit-from-take-at-home-multiple-sclerosis-tablet-in-european-first/"/>
-        <updated>2025-03-12T00:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of NHS patients in England with multiple sclerosis (MS) are set to benefit from a life-changing ‘take at home’ tablet, as the NHS becomes the first healthcare system in Europe to roll it out widely to patients with active disease. The tablet, cladribine, requires just 20 days of treatment spread over four years, providing […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
 </feed>
