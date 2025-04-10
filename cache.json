@@ -1330,6 +1330,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1913679",
+          "author": null,
+          "description": "Two in five PCNs across England did not recruit a single GP through the additional roles reimbursement scheme (ARRS) in 2024/25, analysis by GPonline suggests.",
+          "link": "https://www.gponline.com/hundreds-pcns-yet-hire-single-arrs-gp/article/1913679",
+          "publishedOn": "2025-04-10T08:00:00.000Z",
+          "wordCount": 713,
+          "title": "Hundreds of PCNs yet to hire a single ARRS GP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-sturti3_RF_2.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1913412",
+          "author": null,
+          "description": "Plans to cut ICB costs by 50% could slow down the transition to NHS neighbourhood models, the NHS Confederation has warned.",
+          "link": "https://www.gponline.com/icb-cuts-could-slow-down-move-neighbourhood-nhs/article/1913412",
+          "publishedOn": "2025-04-10T07:17:00.000Z",
+          "wordCount": 699,
+          "title": "ICB cuts 'could slow down move to neighbourhood NHS'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick2_9.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1913616",
           "author": null,
           "description": "The additional roles reimbursement scheme (ARRS) was expanded by £82m from last October to create jobs for newly-qualified GPs. GPonline looks at which ICB areas have hired the most GPs through the scheme.",
@@ -3618,6 +3638,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=225035",
+          "author": "Owen Hughes",
+          "description": "The NHS risks missing out on the full benefits of EPRs unless a national strategy is put in place, warns think tank.",
+          "link": "https://www.digitalhealth.net/2025/04/nhs-must-move-epr-use-beyond-digitising-paper-warns-report/",
+          "publishedOn": "2025-04-10T10:00:26.000Z",
+          "wordCount": 3760,
+          "title": "NHS must move EPR use beyond digitising paper, warns report",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/EPR-digital-health-records-tablet.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225021",
           "author": "Tammy Lovell",
