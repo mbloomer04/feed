@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-11T04:14:51.995Z</updated>
+    <updated>2025-04-11T05:13:37.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -4476,29 +4476,6 @@ The post Government announces plan to abolish NHS England appeared first on Puls
         <summary type="html"><![CDATA[The Health and Social Care Secretary made a statement to the House of Commons on plans to abolish NHS England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New rules to prioritise recruiting care workers in England]]></title>
-        <id>https://www.gov.uk/government/news/new-rules-to-prioritise-recruiting-care-workers-in-england</id>
-        <link href="https://www.gov.uk/government/news/new-rules-to-prioritise-recruiting-care-workers-in-england"/>
-        <updated>2025-03-12T16:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Employers will be required to prioritise recruiting international care workers already in England before recruiting from overseas.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4630 - Apple Releases Security Updates for Multiple Products]]></title>
-        <id>5abddf9e-2bce-4f72-b3c8-6ceaed675f2b</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4630"/>
-        <updated>2025-03-12T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS 
- Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS 
- Updated: 12 Mar 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
 </feed>

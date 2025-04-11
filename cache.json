@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4631 - Cisco Releases Security Advisories for Cisco IOS XR Software",
           "imageUrl": null
-        },
-        {
-          "id": "5abddf9e-2bce-4f72-b3c8-6ceaed675f2b",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS \n Security updates include remediation for exploited vulnerability CVE-2025-24201, which affects iOS, iPadOS, and macOS \n Updated: 12 Mar 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4630",
-          "publishedOn": "2025-03-12T16:34:00.000Z",
-          "wordCount": null,
-          "title": "CC-4630 - Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
         }
       ]
     },
@@ -2846,16 +2836,6 @@
           "wordCount": 3907,
           "title": "NHS England: Health and Social Care Secretary's statement",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/6688152fd9d35187868f454f/wes-streeting.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/new-rules-to-prioritise-recruiting-care-workers-in-england",
-          "author": null,
-          "description": "Employers will be required to prioritise recruiting international care workers already in England before recruiting from overseas.",
-          "link": "https://www.gov.uk/government/news/new-rules-to-prioritise-recruiting-care-workers-in-england",
-          "publishedOn": "2025-03-12T16:53:10.000Z",
-          "wordCount": 2142,
-          "title": "New rules to prioritise recruiting care workers in England",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/67d1babb74ec357ef25c3324/s960_Healthcare.jpg"
         }
       ]
     },
