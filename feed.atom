@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-10T23:11:46.836Z</updated>
+    <updated>2025-04-11T00:58:26.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Targeted breast cancer treatment approved for routine NHS use]]></title>
+        <id>https://www.england.nhs.uk/?p=265025</id>
+        <link href="https://www.england.nhs.uk/2025/04/targeted-breast-cancer-treatment-approved-for-routine-nhs-use/"/>
+        <updated>2025-04-10T23:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Women with advanced breast cancer could soon have access to a new targeted treatment on the NHS, following a decision by the National Institute for Health and Care Excellence (NICE). The tablet capivasertib, used alongside fulvestrant, has been approved for patients with hormone receptor-positive, HER2-negative breast cancer that has progressed after earlier endocrine treatment. It […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UKHSA warns of worrying rises in infectious diseases since Covid pandemic]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160390</id>
@@ -4545,27 +4555,6 @@ The post South and East Asian people living in the UK have different hypertensio
         <summary type="html"><![CDATA[A West Midlands adult social care programme that uses digital tech to help citizens live safely at home for longer has been extended.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The role of changing health in rising health-related benefit claims]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/03/the-role-of-changing-health-in-rising-health-related-benefit-claims.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/03/the-role-of-changing-health-in-rising-health-related-benefit-claims.html"/>
-        <updated>2025-03-12T12:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Institute for Fiscal Studies - Since the Covid-19 pandemic, there has been a significant rise in the number of people getting health-related benefits. In England and Wales, 4 million 16- to 64-year-olds (1 in 10) now claim either disability or incapacity benefits, up from 2.8 million in 2019 (1 in 13). One potential contributor to these trends is worsening health....]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four in 10 GPs do not take up practice roles after qualifying, NHS data suggests]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=159728</id>
-        <link href="https://www.pulsetoday.co.uk/news/workforce/four-in-10-gps-do-not-take-up-practice-roles-after-qualifying-nhs-data-suggests/"/>
-        <updated>2025-03-12T11:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Just over 40% of GP registrars who qualified in 2022 and 2023 have not yet taken up substantive roles in UK general practice, NHS data analysis has suggested. NHS Digital recently published a new analysis of the number of GPs in training who transition into the fully-qualified workforce, and how long it takes them to
-The post Four in 10 GPs do not take up practice roles after qualifying, NHS data suggests appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Eliza Parr</name>
         </author>
     </entry>
 </feed>
