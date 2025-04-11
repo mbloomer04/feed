@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-11T11:10:21.387Z</updated>
+    <updated>2025-04-11T12:23:24.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs need better tools to target antibiotic prescribing, say researchers]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=160843</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/gps-need-better-tools-to-target-antibiotic-prescribing-say-researchers/"/>
+        <updated>2025-04-11T11:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Researchers found no association between the use of antibiotics in primary care and hospital admission risk, and warned that better tools are needed to help GPs target antibiotic prescribing. An analysis of 15.7 million GP patient records of common infections by the University of Manchester suggested there is scope to prescribe far fewer antibiotics to
+The post GPs need better tools to target antibiotic prescribing, say researchers appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4643 - Fortinet Releases Security Updates for FortiOS and FortiGate]]></title>
         <id>304f1db9-deb0-4e48-b507-4033f9f137d4</id>
@@ -59,6 +70,16 @@ The post GMC spent over £55,000 so far on legal action resulting from PA regula
 The post Case of the month: What is causing this patient’s ongoing heartburn? appeared first on Pulse Today.]]></summary>
         <author>
             <name>Caroline Price</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of GPs face 'permanent financial loss' from pension statement delays]]></title>
+        <id>https://www.gponline.com/article/1913933</id>
+        <link href="https://www.gponline.com/thousands-gps-face-permanent-financial-loss-pension-statement-delays/article/1913933"/>
+        <updated>2025-04-11T09:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of GPs are facing permanent financial losses from delays to two types of pension statement - leaving some facing extra tax charges, missing out on opportunities to make tax-efficient pension contributions or unable to make use of pension savings without potential penalties, financial experts have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4563,16 +4584,6 @@ The post Government announces plan to abolish NHS England appeared first on Puls
         <summary type="html"><![CDATA[An admin error meant more than 5,200 patients weren't invited to routine screening because their details didn't reach the right IT systems.]]></summary>
         <author>
             <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS England: Health and Social Care Secretary's statement]]></title>
-        <id>https://www.gov.uk/government/speeches/nhs-england-health-and-social-care-secretarys-statement</id>
-        <link href="https://www.gov.uk/government/speeches/nhs-england-health-and-social-care-secretarys-statement"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Health and Social Care Secretary made a statement to the House of Commons on plans to abolish NHS England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
