@@ -2138,6 +2138,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "author": null,
+          "description": "Proportion of payments made within 5 and 30 working days.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "publishedOn": "2025-04-11T12:40:49.000Z",
+          "wordCount": 1799,
+          "title": "Transparency data: Department of Health and Social Care prompt payment of suppliers",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/calls-for-evidence/shaping-the-national-cancer-plan",
           "author": null,
           "description": "Call for evidence seeking views from individuals, professionals and organisations to inform the development of the government’s national cancer plan for England.",
@@ -3748,6 +3758,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=224827",
+          "author": "Jordan Sollof",
+          "description": "Peninsula Pathology Network has partnered with Exponential-e to implement a secure private cloud environment.",
+          "link": "https://www.digitalhealth.net/2025/04/peninsula-pathology-network-implements-cloud-environment/",
+          "publishedOn": "2025-04-11T12:30:00.000Z",
+          "wordCount": 3682,
+          "title": "Peninsula Pathology Network implements cloud environment",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/Cloud-technology.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225005",
           "author": "Tammy Lovell",

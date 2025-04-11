@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-11T12:23:24.646Z</updated>
+    <updated>2025-04-11T13:22:01.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Department of Health and Social Care prompt payment of suppliers]]></title>
+        <id>https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data</id>
+        <link href="https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data"/>
+        <updated>2025-04-11T12:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Proportion of payments made within 5 and 30 working days.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peninsula Pathology Network implements cloud environment]]></title>
+        <id>https://www.digitalhealth.net/?p=224827</id>
+        <link href="https://www.digitalhealth.net/2025/04/peninsula-pathology-network-implements-cloud-environment/"/>
+        <updated>2025-04-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Peninsula Pathology Network has partnered with Exponential-e to implement a secure private cloud environment.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs need better tools to target antibiotic prescribing, say researchers]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160843</id>
