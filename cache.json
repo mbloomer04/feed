@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "304f1db9-deb0-4e48-b507-4033f9f137d4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Fortinet has patched a novel persistence technique used by an attacker to maintain read-only access to FortiGate devices after exploiting historical vulnerabilities\n Fortinet has patched a novel persistence technique used by an attacker to maintain read-only access to FortiGate devices after exploiting historical vulnerabilities\n Updated: 11 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4643",
+          "publishedOn": "2025-04-11T11:06:00.000Z",
+          "wordCount": null,
+          "title": "CC-4643 - Fortinet Releases Security Updates for FortiOS and FortiGate",
+          "imageUrl": null
+        },
+        {
           "id": "89be4937-ede5-4d13-a515-d8145a2ffc00",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.\n Scheduled updates for Microsoft products, including security updates for 126 vulnerabilities, of which one is reported as exploited.\n Updated: 09 Apr 2025",
