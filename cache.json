@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1913844",
+          "author": null,
+          "description": "Hospitals across England are subcontracting work to general practice via GP federations in six-figure contracts that could provide a blueprint to shift services to the community.",
+          "link": "https://www.gponline.com/gps-hospital-work-six-figure-subcontracts-offer-blueprint-nhs-reform/article/1913844",
+          "publishedOn": "2025-04-14T08:35:00.000Z",
+          "wordCount": 735,
+          "title": "GPs take on hospital work under six-figure subcontracts that offer blueprint for NHS reform",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1204686275_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1913951",
           "author": null,
           "description": "A GP practice has been forced to raise £1.25m to build a new car park after nearby development plans that threatened to drive it out of business.",
@@ -3467,6 +3477,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=225251",
+          "author": "Jordan Sollof",
+          "description": "The FDP Referral to Treatment clinical letters validation tool is live for testing at Chelsea and Westminster Hospital NHS FT.",
+          "link": "https://www.digitalhealth.net/2025/04/chelsea-and-westminster-pilots-clinical-letters-tool-on-fdp/",
+          "publishedOn": "2025-04-14T10:00:36.000Z",
+          "wordCount": 3736,
+          "title": "Chelsea and Westminster pilots clinical letters tool on FDP",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Chelsea-and-Westminster-Hospital.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225323",
           "author": "Jordan Sollof",
