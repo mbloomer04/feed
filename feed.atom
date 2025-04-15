@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-15T07:12:51.947Z</updated>
+    <updated>2025-04-15T08:17:24.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[West Middlesex hospital launches prescribing tool for paediatrics]]></title>
+        <id>https://www.digitalhealth.net/?p=225243</id>
+        <link href="https://www.digitalhealth.net/2025/04/west-middlesex-hospital-launches-prescribing-tool-for-paediatrics/"/>
+        <updated>2025-04-15T07:30:49.000Z</updated>
+        <summary type="html"><![CDATA[West Middlesex University Hospital has gone live with a clinical decision support tool to help reduce prescribing errors for children.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS-specific barcode to ensure prompt delivery of appointment letters]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160944</id>
