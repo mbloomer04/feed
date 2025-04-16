@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-16T03:32:15.606Z</updated>
+    <updated>2025-04-16T04:14:41.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHO Member States conclude negotiations and make significant progress on draft pandemic agreement]]></title>
+        <id>urn:uuid:8d5402e4-0fa8-4346-907d-db24c262d1bd</id>
+        <link href="https://www.who.int/news/item/16-04-2025-who-member-states-conclude-negotiations-and-make-significant-progress-on-draft-pandemic-agreement"/>
+        <updated>2025-04-16T01:00:26.000Z</updated>
+        <summary type="html"><![CDATA[After more than three years of intensive negotiations, WHO Member States took a major step forward in efforts to make the world safer from pandemics, by forging a draft agreement for consideration at the upcoming World Health Assembly in May. The proposal aims to strengthen global collaboration on prevention, preparedness and response to future pandemic threats.
+In December 2021, at the height of the COVID-19 pandemic, WHO Member States established the Intergovernmental Negotiating Body (INB)to draft and negotiate a convention, agreement or other international instrument, under the WHO Constitution, to strengthen pandemic prevention, preparedness and response. 
+Following 13 formal rounds of meetings, nine of which were extended, and many informal and intersessional negotiations on various …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saliva test for prostate cancer risk is more accurate for screening, study suggests]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160950</id>
@@ -4417,30 +4429,6 @@ The post People with long-term conditions should have BMI check every year, says
         <summary type="html"><![CDATA[NHS England has today announced the incoming team who will help lead the organisation’s transition into the Department of Health and Social Care. The team – called the NHS Transformation Executive Team – will replace the current NHS England Executive Group and will support ongoing business priorities, statutory functions and day to day delivery. Except […]]]></summary>
         <author>
             <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4633 - Exploitation of Apache Tomcat Vulnerability CVE-2025-24813]]></title>
-        <id>80a6c17d-49cd-449d-b99a-59148cb54e2c</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4633"/>
-        <updated>2025-03-17T16:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation of CVE-2025-24813 could allow an attacker to achieve RCE, view security sensitive files, or inject content
- Exploitation of CVE-2025-24813 could allow an attacker to achieve RCE, view security sensitive files, or inject content
- Updated: 17 Mar 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More than 2,200 GP practices affected by IT issue leading to missed cancer screenings]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=160033</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/cancer/more-than-2200-gp-practices-affected-by-it-issue-leading-to-missed-cancer-screenings/"/>
-        <updated>2025-03-17T16:08:07.000Z</updated>
-        <summary type="html"><![CDATA[More than 2,200 GP practices had patients who had not been invited for screening due to an IT error related to incomplete registrations, a letter seen by Pulse has confirmed. A review by NHS England had found 5,261 people across the country had not been contacted to participate in one or more NHS screening programmes.
-The post More than 2,200 GP practices affected by IT issue leading to missed cancer screenings appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
