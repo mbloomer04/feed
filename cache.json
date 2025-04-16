@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4633 - Exploitation of Apache Tomcat Vulnerability CVE-2025-24813",
           "imageUrl": null
-        },
-        {
-          "id": "fa0e3933-8f37-4e90-bdca-d3aa621f65fa",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Projects using the vulnerable action are at risk of exposed CI/CD secrets\n Projects using the vulnerable action are at risk of exposed CI/CD secrets\n Updated: 17 Mar 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4632",
-          "publishedOn": "2025-03-17T14:39:00.000Z",
-          "wordCount": null,
-          "title": "CC-4632 - Critical Security Incident involving GitHub Action tj-action/changed-files",
-          "imageUrl": null
         }
       ]
     },
@@ -1271,16 +1261,6 @@
           "wordCount": 2503,
           "title": "More than 2,200 GP practices affected by IT issue leading to missed cancer screenings",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/06/Breast-Cancer-screening-RF.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=160013",
-          "author": "Maya Dhillon",
-          "description": "Dr David Turner welcomes the reduction of QOF as the end of tick-box culture in general practice As we count down to QOF year-end, we are once again reminded how the law of diminishing returns works. Repeated phone calls to the reluctant attenders to ‘please book in for your annual BP check/foot check/mental health annual\nThe post Is this the beginning of the end for the tick-box culture? appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/views/david-turner/is-this-the-beginning-of-the-end-for-the-tick-box-culture/",
-          "publishedOn": "2025-03-17T15:01:10.000Z",
-          "wordCount": 2089,
-          "title": "Is this the beginning of the end for the tick-box culture?",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/12/Dr_David_Turner_1200x800px.jpg"
         }
       ]
     },
