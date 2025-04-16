@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1914538",
+          "author": null,
+          "description": "GPs in Northern Ireland will vote in a referendum on the contract offer for 2025/26 after talks between the BMA and the government stalled - as doctors' leaders warned practices will close without more funding.",
+          "link": "https://www.gponline.com/gps-northern-ireland-vote-contract-referendum/article/1914538",
+          "publishedOn": "2025-04-16T11:39:35.000Z",
+          "wordCount": 742,
+          "title": "GPs in Northern Ireland to vote in contract referendum",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/DrFrancesO'HaganBMANIGPC_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1914494",
           "author": null,
           "description": "Plans to integrate GP and dentistry services in areas piloting new operating models for general practice could benefit patients - but could also risk driving up GP workload, an LMC has warned.",
@@ -3637,6 +3647,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=225075",
+          "author": "Owen Hughes",
+          "description": "The Association of British HealthTech Industries (ABHI) has announced the eighth cohort of its flagship US accelerator programme.",
+          "link": "https://www.digitalhealth.net/2025/04/abhi-selects-21-uk-healthtech-companies-for-us-accelerator/",
+          "publishedOn": "2025-04-16T12:30:41.000Z",
+          "wordCount": 3645,
+          "title": "ABHI selects 21 UK healthtech companies for US accelerator",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/ABHI-US-Accelerator-Group-Photo-2.jpeg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225369",
           "author": "Tammy Lovell",
