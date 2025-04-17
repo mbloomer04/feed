@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a96d54ab-507e-4d5b-855c-da273d6c2941",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates include remediation for two exploited zero-day vulnerabilities\n Security updates include remediation for two exploited zero-day vulnerabilities\n Updated: 17 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4645",
+          "publishedOn": "2025-04-17T12:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4645 - Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "c386b807-6efb-4a39-a0ba-6158a3acf3ed",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-20236 could allow an attacker to achieve remote code execution\n CVE-2025-20236 could allow an attacker to achieve remote code execution\n Updated: 17 Apr 2025",
@@ -3587,6 +3597,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=225573",
+          "author": "Jordan Sollof",
+          "description": "Peninsula Imaging Network (PenRAD) has gone live with Qure.ai’s AI for chest CT (qCT) to help detect lung cancer quicker.",
+          "link": "https://www.digitalhealth.net/2025/04/ai-solution-to-detect-lung-cancer-launches-in-south-west-england/",
+          "publishedOn": "2025-04-17T12:30:24.000Z",
+          "wordCount": 3756,
+          "title": "AI solution to detect lung cancer launches in south west England",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/AI-lung-cancer-X-ray.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225615",
           "author": "Owen Hughes",
