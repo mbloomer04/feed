@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c386b807-6efb-4a39-a0ba-6158a3acf3ed",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-20236 could allow an attacker to achieve remote code execution\n CVE-2025-20236 could allow an attacker to achieve remote code execution\n Updated: 17 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4644",
+          "publishedOn": "2025-04-17T10:57:00.000Z",
+          "wordCount": null,
+          "title": "CC-4644 - Cisco Releases Security Advisory for Webex App",
+          "imageUrl": null
+        },
+        {
           "id": "304f1db9-deb0-4e48-b507-4033f9f137d4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Fortinet has patched a novel persistence technique used by an attacker to maintain read-only access to FortiGate devices after exploiting historical vulnerabilities\n Fortinet has patched a novel persistence technique used by an attacker to maintain read-only access to FortiGate devices after exploiting historical vulnerabilities\n Updated: 11 Apr 2025",
@@ -3587,6 +3597,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=225615",
+          "author": "Owen Hughes",
+          "description": "Our coffee briefing covers AI diagnostics, \"needle-free\" blood testing and NHS Digital Academy's new cyber security apprenticeship.",
+          "link": "https://www.digitalhealth.net/2025/04/digital-health-coffee-time-briefing-%e2%98%95-61/",
+          "publishedOn": "2025-04-17T10:30:47.000Z",
+          "wordCount": 3834,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=225675",
           "author": "Jordan Sollof",

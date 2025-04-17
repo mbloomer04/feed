@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-17T10:13:30.856Z</updated>
+    <updated>2025-04-17T11:10:08.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4644 - Cisco Releases Security Advisory for Webex App]]></title>
+        <id>c386b807-6efb-4a39-a0ba-6158a3acf3ed</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4644"/>
+        <updated>2025-04-17T10:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2025-20236 could allow an attacker to achieve remote code execution
+ CVE-2025-20236 could allow an attacker to achieve remote code execution
+ Updated: 17 Apr 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=225615</id>
+        <link href="https://www.digitalhealth.net/2025/04/digital-health-coffee-time-briefing-%e2%98%95-61/"/>
+        <updated>2025-04-17T10:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Our coffee briefing covers AI diagnostics, "needle-free" blood testing and NHS Digital Academy's new cyber security apprenticeship.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Troponin measure needed to accurately predict cardiovascular risk, say researchers]]></title>
         <id>https://www.pulsetoday.co.uk/?p=160952</id>
