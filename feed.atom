@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-16T23:11:19.475Z</updated>
+    <updated>2025-04-17T00:58:44.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Government confirms expansion of Advice and Guidance scheme, with more patients now receiving their care closer to home]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huge ICB variation revealed as advice and guidance DES backed to save 2m referrals a year]]></title>
+        <id>https://www.gponline.com/article/1914612</id>
+        <link href="https://www.gponline.com/huge-icb-variation-revealed-advice-guidance-des-backed-save-2m-referrals-year/article/1914612"/>
+        <updated>2025-04-16T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The government has reiterated plans to prevent 2m hospital referrals a year through advice and guidance as the £20-per-request DES rolls out for general practice this month - but official data show huge variation between ICBs in use of the scheme.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4451,27 +4461,6 @@ The post Not your average practice: The youngest patient population in England a
         <summary type="html"><![CDATA[NHS Confederation - A virtual roundtable of integrated care board (ICB) and integrated care partnership (ICP) leaders shared work on their role in alleviating the impact on child poverty in their local system, highlighted the system levers available to deliver this work and proposed ways these levers could be strengthened by government. This briefing summarises that discussion and highlights the...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICB agrees to fund new locally-commissioned services following GP collective action]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=159830</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/icb-agrees-to-fund-new-locally-commissioned-services-following-gp-collective-action/"/>
-        <updated>2025-03-18T11:41:26.000Z</updated>
-        <summary type="html"><![CDATA[GP collective action in Kent has led to an agreement from the ICB to fund new locally-commissioned services, including for CVD and ADHD. Kent and Medway ICB agreed to work with the LMC to develop the services after GP practices served notice on unfunded work as part of collective action. Practices were encouraged by Kent
-The post ICB agrees to fund new locally-commissioned services following GP collective action appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=221003</id>
-        <link href="https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-52/"/>
-        <updated>2025-03-18T11:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Today's news briefing covers a VR pilot study at East Kent Hospitals and the factors most likely to prompt negative reviews by UK patients.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
         </author>
     </entry>
 </feed>

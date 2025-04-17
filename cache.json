@@ -1261,16 +1261,6 @@
           "wordCount": 2959,
           "title": "Not your average practice: The youngest patient population in England",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/Not-your-average-practice-rsz.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=159830",
-          "author": "Anna Colivicchi",
-          "description": "GP collective action in Kent has led to an agreement from the ICB to fund new locally-commissioned services, including for CVD and ADHD. Kent and Medway ICB agreed to work with the LMC to develop the services after GP practices served notice on unfunded work as part of collective action. Practices were encouraged by Kent\nThe post ICB agrees to fund new locally-commissioned services following GP collective action appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cardiovascular/icb-agrees-to-fund-new-locally-commissioned-services-following-gp-collective-action/",
-          "publishedOn": "2025-03-18T11:41:26.000Z",
-          "wordCount": 2412,
-          "title": "ICB agrees to fund new locally-commissioned services following GP collective action",
-          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/11/GP-ARRS-role-sets-new-‘yardstick-for-pay-CDs-warn-1.jpg"
         }
       ]
     },
@@ -1279,6 +1269,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1914612",
+          "author": null,
+          "description": "The government has reiterated plans to prevent 2m hospital referrals a year through advice and guidance as the £20-per-request DES rolls out for general practice this month - but official data show huge variation between ICBs in use of the scheme.",
+          "link": "https://www.gponline.com/huge-icb-variation-revealed-advice-guidance-des-backed-save-2m-referrals-year/article/1914612",
+          "publishedOn": "2025-04-16T23:01:00.000Z",
+          "wordCount": 769,
+          "title": "Huge ICB variation revealed as advice and guidance DES backed to save 2m referrals a year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_9.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1914538",
           "author": null,
@@ -4386,16 +4386,6 @@
           "wordCount": 3584,
           "title": "Government must get ‘militant’ about interoperability, says Bracken",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Rewired-Mike-Bracken-session.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=221003",
-          "author": "Owen Hughes",
-          "description": "Today's news briefing covers a VR pilot study at East Kent Hospitals and the factors most likely to prompt negative reviews by UK patients.",
-          "link": "https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-52/",
-          "publishedOn": "2025-03-18T11:30:21.000Z",
-          "wordCount": 3897,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     }
