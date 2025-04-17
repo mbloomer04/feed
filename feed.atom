@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-17T07:12:58.077Z</updated>
+    <updated>2025-04-17T08:17:08.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Worcestershire Acute finds sepsis screening issues related to EPR]]></title>
+        <id>https://www.digitalhealth.net/?p=225363</id>
+        <link href="https://www.digitalhealth.net/2025/04/worcestershire-acute-finds-sepsis-screening-issues-related-to-epr/"/>
+        <updated>2025-04-17T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Worcestershire Acute Hospitals has identified issues in the way recording of observations from sepsis patients are captured on its EPR.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patients get care closer to home as GP scheme expanded]]></title>
         <id>https://www.gov.uk/government/news/patients-get-care-closer-to-home-as-gp-scheme-expanded</id>
