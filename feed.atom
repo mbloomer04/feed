@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-19T00:56:18.010Z</updated>
+    <updated>2025-04-19T02:19:39.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -885,6 +885,16 @@ The post Case of the month: What is causing this patient’s ongoing heartburn? 
         <summary type="html"><![CDATA[Maternity Action - Maternity Action and the Royal College of Obstetricians and Gyneacologists have published a clinician’s guide on NHS charging for obstetricians who treat women who may be chargeable for their maternity care under the NHS (Overseas Visitors Charging) Regulations 2015. It sets out the charging rules in relation to maternity care, the charging exemptions and how clinicians can...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2025-04-11T08:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -4160,27 +4170,6 @@ The post Government monitoring CQC improvements ‘very closely’ appeared firs
         <summary type="html"><![CDATA[NHS Confederation - This briefing estimates that 145,000 people a year leave work due to their health condition. It provides an overview of the key government work, health and skills funding available to the NHS and local government to support local areas to integrate and build on existing work, health and skills support. Future funding will be agreed through the...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stephen Powis: ‘We must involve patients in digital transformation’]]></title>
-        <id>https://www.digitalhealth.net/?p=222669</id>
-        <link href="https://www.digitalhealth.net/2025/03/stephen-powis-we-must-involve-patients-in-digital-transformation/"/>
-        <updated>2025-03-20T13:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Sir Professor Stephen Powis, national medical director at NHS England, has said that the best ideas for the NHS often come from patients.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masterclass: Smoking and smoking cessation]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=159769</id>
-        <link href="https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/respiratory/masterclass-smoking-and-smoking-cessation/"/>
-        <updated>2025-03-20T13:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Continuing our Masterclass series, GP and smoking cessation expert Dr Alex Bobak explains the adverse effects of smoking and how to support smoking cessation in general practice. This series showcases content from our Pulse Reference site, which supports GPs in their consultations. We are expanding this service to include advice on managing and treating conditions. Epidemiology Smoking
-The post Masterclass: Smoking and smoking cessation appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Caroline Price</name>
         </author>
     </entry>
 </feed>
