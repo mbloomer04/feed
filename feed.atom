@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-18T23:11:46.180Z</updated>
+    <updated>2025-04-19T00:56:18.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Millions more patients can register with a GP at ‘touch of a button’]]></title>
+        <id>https://www.england.nhs.uk/?p=265405</id>
+        <link href="https://www.england.nhs.uk/2025/04/millions-more-patients-can-register-with-a-gp-at-touch-of-a-button/"/>
+        <updated>2025-04-18T23:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Millions of patients can now register with a new GP at the touch of a button via the NHS App and online as part of a major health service drive to make care more convenient and free up staff time. New figures show the number of practices where patients can join online has more than doubled in the […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Is the ARRS GP scheme a success, how ICB cuts affect general practice]]></title>
         <id>https://www.gponline.com/article/1914374</id>
@@ -4171,71 +4181,6 @@ The post Government monitoring CQC improvements ‘very closely’ appeared firs
 The post Masterclass: Smoking and smoking cessation appeared first on Pulse Today.]]></summary>
         <author>
             <name>Caroline Price</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO calls for urgent action to address worldwide disruptions in tuberculosis services putting millions of lives at risk]]></title>
-        <id>urn:uuid:2c39796d-a5cc-4f94-925d-c218aa3b70f1</id>
-        <link href="https://www.who.int/news/item/20-03-2025-who-calls-for-urgent-action-to-address-worldwide-disruptions-in-tuberculosis-services-putting-millions-of-lives-at-risk"/>
-        <updated>2025-03-20T12:32:24.000Z</updated>
-        <summary type="html"><![CDATA[On the occasion on World Tuberculosis (TB) Day, marked on 24 March, the World Health Organization (WHO) is calling for an urgent investment of resources to protect and maintain tuberculosis (TB) care and support services for people in need across regions and countries. TB remains the world’s deadliest infectious disease, responsible for over 1 million people annually bringing devastating impacts on families and communities. 
-Global efforts to combat TB have saved an estimated 79 million lives since 2000. However, the drastic and abrupt cuts in global health funding happening now are threatening to reverse these gains. Rising drug resistance especially across Europe and the ongoing conflicts across the Middle-East, Africa and Eastern Europe, are further exacerbating the situation for the mo…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can the government achieve its 18-week elective waiting time target?]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/03/can-the-government-achieve-its-18-week-elective-waiting-time-target.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/03/can-the-government-achieve-its-18-week-elective-waiting-time-target.html"/>
-        <updated>2025-03-20T12:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Institute for Fiscal Studies - Modelling used in this report that shows meeting the NHS 18-week target by the end of this parliament will likely require historically large increases in activity alongside reductions in demand and greater prioritisation of those waiting a long time. It concludes that the government will more likely than not miss this 18-week waiting time target....]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4634 - Proof-of-Concept Released for Veeam Backup & Replication Vulnerability]]></title>
-        <id>8472602c-d932-4f36-a4db-c0a7308ced1e</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4634"/>
-        <updated>2025-03-20T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation of CVE-2025-23120 could lead to remote code execution
- Successful exploitation of CVE-2025-23120 could lead to remote code execution
- Updated: 20 Mar 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA’s Leng review submission demands new name for physician associates]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=160198</id>
-        <link href="https://www.pulsetoday.co.uk/news/workforce/bmas-leng-review-submission-demands-new-name-for-physician-associates/"/>
-        <updated>2025-03-20T12:04:44.000Z</updated>
-        <summary type="html"><![CDATA[The BMA has urged the Government-commissioned review of physician associates to rename the role and set a national scope of practice. In its official evidence to be submitted this week, the doctors’ union will make more than 30 recommendations to Professor Gillian Leng’s national review of PAs and anaesthesia associates. The submission will also include
-The post BMA’s Leng review submission demands new name for physician associates appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
-        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
-        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
-        <updated>2025-03-20T11:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=221627</id>
-        <link href="https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-53/"/>
-        <updated>2025-03-20T11:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Our Coffee Time Briefing covers Birch Hill Hospital's new digital hub, the opening of Royal Free's virtual fractures clinic and more.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
         </author>
     </entry>
 </feed>

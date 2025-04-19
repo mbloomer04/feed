@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4635 - Critical Vulnerability in Next.js React Framework",
           "imageUrl": null
-        },
-        {
-          "id": "8472602c-d932-4f36-a4db-c0a7308ced1e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2025-23120 could lead to remote code execution\n Successful exploitation of CVE-2025-23120 could lead to remote code execution\n Updated: 20 Mar 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4634",
-          "publishedOn": "2025-03-20T12:12:00.000Z",
-          "wordCount": null,
-          "title": "CC-4634 - Proof-of-Concept Released for Veeam Backup & Replication Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -1231,16 +1221,6 @@
           "wordCount": 3285,
           "title": "Masterclass: Smoking and smoking cessation",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/03/Masterclass-smoking-and-smoking-cessation-.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=160198",
-          "author": "Eliza Parr",
-          "description": "The BMA has urged the Government-commissioned review of physician associates to rename the role and set a national scope of practice. In its official evidence to be submitted this week, the doctors’ union will make more than 30 recommendations to Professor Gillian Leng’s national review of PAs and anaesthesia associates. The submission will also include\nThe post BMA’s Leng review submission demands new name for physician associates appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workforce/bmas-leng-review-submission-demands-new-name-for-physician-associates/",
-          "publishedOn": "2025-03-20T12:04:44.000Z",
-          "wordCount": 2286,
-          "title": "BMA’s Leng review submission demands new name for physician associates",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/09/BMAs-UK-GPC-elects-Dr-Alan-Stout-and-Dr-Andrew-Buist-as-co-chairs.jpg"
         }
       ]
     },
@@ -1869,6 +1849,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=265405",
+          "author": "nowen",
+          "description": "Millions of patients can now register with a new GP at the touch of a button via the NHS App and online as part of a major health service drive to make care more convenient and free up staff time. New figures show the number of practices where patients can join online has more than doubled in the […]",
+          "link": "https://www.england.nhs.uk/2025/04/millions-more-patients-can-register-with-a-gp-at-touch-of-a-button/",
+          "publishedOn": "2025-04-18T23:01:42.000Z",
+          "wordCount": 1873,
+          "title": "Millions more patients can register with a GP at ‘touch of a button’",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=265390",
           "author": "Tom W",
@@ -2655,16 +2645,6 @@
           "wordCount": 7008,
           "title": "Great British Energy to cut bills for hospitals and schools",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/67dc55f2931ea30d1b7ee3b7/s960_Great_British_Energy_solar.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
-          "author": null,
-          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
-          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
-          "publishedOn": "2025-03-20T11:39:55.000Z",
-          "wordCount": 9877,
-          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3322,16 +3302,6 @@
           "wordCount": null,
           "title": "An overview of NHS and local government funding for work, health and skills",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/03/can-the-government-achieve-its-18-week-elective-waiting-time-target.html",
-          "author": null,
-          "description": "Institute for Fiscal Studies - Modelling used in this report that shows meeting the NHS 18-week target by the end of this parliament will likely require historically large increases in activity alongside reductions in demand and greater prioritisation of those waiting a long time. It concludes that the government will more likely than not miss this 18-week waiting time target....",
-          "link": "https://kingsfund.blogs.com/health_management/2025/03/can-the-government-achieve-its-18-week-elective-waiting-time-target.html",
-          "publishedOn": "2025-03-20T12:28:56.000Z",
-          "wordCount": null,
-          "title": "Can the government achieve its 18-week elective waiting time target?",
-          "imageUrl": null
         }
       ]
     },
@@ -3469,16 +3439,6 @@
           "wordCount": 3283,
           "title": "Decades of progress in reducing child deaths and stillbirths under threat, warns the United Nations",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/newborn-health/health-worker-with-mother-and-baby-in-india.tmb-1200v.jpg?sfvrsn=17d5a69b_3"
-        },
-        {
-          "id": "urn:uuid:2c39796d-a5cc-4f94-925d-c218aa3b70f1",
-          "author": null,
-          "description": "On the occasion on World Tuberculosis (TB) Day, marked on 24 March, the World Health Organization (WHO) is calling for an urgent investment of resources to protect and maintain tuberculosis (TB) care and support services for people in need across regions and countries. TB remains the world’s deadliest infectious disease, responsible for over 1 million people annually bringing devastating impacts on families and communities. \nGlobal efforts to combat TB have saved an estimated 79 million lives since 2000. However, the drastic and abrupt cuts in global health funding happening now are threatening to reverse these gains. Rising drug resistance especially across Europe and the ongoing conflicts across the Middle-East, Africa and Eastern Europe, are further exacerbating the situation for the mo…",
-          "link": "https://www.who.int/news/item/20-03-2025-who-calls-for-urgent-action-to-address-worldwide-disruptions-in-tuberculosis-services-putting-millions-of-lives-at-risk",
-          "publishedOn": "2025-03-20T12:32:24.000Z",
-          "wordCount": 2913,
-          "title": "WHO calls for urgent action to address worldwide disruptions in tuberculosis services putting millions of lives at risk",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc---communicable-noncommunicable-diseases-(ucn)/global-tuberculosis-programme-(gtb)/office-of-the-director-gtb-(odt)/tbmyanmar.tmb-1200v.jpeg?sfvrsn=f35a9e1e_1"
         }
       ]
     },
@@ -4146,16 +4106,6 @@
           "wordCount": 3628,
           "title": "Stephen Powis: ‘We must involve patients in digital transformation’",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Stephen-Powis-Rewired-2025.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=221627",
-          "author": "Owen Hughes",
-          "description": "Our Coffee Time Briefing covers Birch Hill Hospital's new digital hub, the opening of Royal Free's virtual fractures clinic and more.",
-          "link": "https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-53/",
-          "publishedOn": "2025-03-20T11:30:49.000Z",
-          "wordCount": 3821,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     }
