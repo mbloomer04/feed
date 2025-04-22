@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-22T11:10:49.064Z</updated>
+    <updated>2025-04-22T12:23:24.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -66,6 +66,16 @@ The post Liver disease deaths surge while other illnesses decline, finds analysi
         <summary type="html"><![CDATA[NHS England - Following the changes agreed to the General Medical Services (GMS) contract for 2025/26, this document sets out the approach to the funding changes that NHS England will apply to Personal Medical Services (PMS) and Alternative Provider Medical Services (APMS) contracts. Guidance More detail]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP partners linked to more appointments and higher patient satisfaction]]></title>
+        <id>https://www.gponline.com/article/1914876</id>
+        <link href="https://www.gponline.com/gp-partners-linked-appointments-higher-patient-satisfaction/article/1914876"/>
+        <updated>2025-04-22T09:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Practices with more GP partners have higher patient satisfaction, according to a report that calls on the government to take rapid action to tackle factors driving the sharp decline in partner numbers over recent years.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4012,16 +4022,6 @@ The post One in four GPs reduced sessions due to pension tax rules, BMA finds ap
         <summary type="html"><![CDATA[Dr Jessica Morley says the NHS is limiting the effectiveness of AI by focusing on how the technology can improve individual health.]]></summary>
         <author>
             <name>Thelma Agnew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions of GP appointments lost to 'absurd' pension tax rules, warns BMA]]></title>
-        <id>https://www.gponline.com/article/1911265</id>
-        <link href="https://www.gponline.com/millions-gp-appointments-lost-absurd-pension-tax-rules-warns-bma/article/1911265"/>
-        <updated>2025-03-24T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[One in four GP partners have cut their working hours to avoid 'absurd' pension tax penalties - denying the NHS around 4m GP appointments so far this year, the BMA has warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
