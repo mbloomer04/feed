@@ -1917,6 +1917,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/breakthrough-in-bowel-cancer-research-will-speed-up-diagnosis",
+          "author": null,
+          "description": "Government backs world-leading trial of cutting-edge technology to diagnose bowel cancer earlier, harnessing the power of technology to treat patients.",
+          "link": "https://www.gov.uk/government/news/breakthrough-in-bowel-cancer-research-will-speed-up-diagnosis",
+          "publishedOn": "2025-04-22T23:01:04.000Z",
+          "wordCount": 3188,
+          "title": "Breakthrough in bowel cancer research will speed up diagnosis",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/lampard-inquiry-terms-of-reference",
           "author": null,
           "description": "The Lampard Inquiry (formerly known as the Essex Mental Health Independent Inquiry) will examine deaths of mental health inpatients in Essex between 2000 and 2023.",
@@ -3232,16 +3242,6 @@
           "wordCount": null,
           "title": "Pay in the adult social care sector as at December 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/03/nhs-englands-management-of-elective-care-transformation-programmes.html",
-          "author": null,
-          "description": "National Audit Office - In February 2022, NHS England (NHSE) published a plan to recover elective and cancer care over the three years up to March 2025. This plan included changes to how care is provided through three transformation programmes: diagnostic transformation; surgical transformation; and outpatients transformation. This report looks at NHSE’s management of these three transformation programmes, what they...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/03/nhs-englands-management-of-elective-care-transformation-programmes.html",
-          "publishedOn": "2025-03-24T11:10:27.000Z",
-          "wordCount": null,
-          "title": "NHS England’s management of elective care transformation programmes",
-          "imageUrl": null
         }
       ]
     },
@@ -4026,16 +4026,6 @@
           "wordCount": 3571,
           "title": "Website aims to boost online access to GP services in SW England",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Spindogs-NHS-England-project.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=222865",
-          "author": "Tammy Lovell",
-          "description": "Perci Health, has received an investment from Macmillan Cancer Support to help more people with cancer get the personalised care they need.",
-          "link": "https://www.digitalhealth.net/2025/03/macmillan-cancer-support-invests-in-virtual-cancer-clinic/",
-          "publishedOn": "2025-03-24T11:00:29.000Z",
-          "wordCount": 3582,
-          "title": "Macmillan Cancer Support invests in virtual cancer clinic",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Kelly-Morgan-Perci-Health-1-1.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-22T22:11:30.963Z</updated>
+    <updated>2025-04-22T23:11:16.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Breakthrough in bowel cancer research will speed up diagnosis]]></title>
+        <id>https://www.gov.uk/government/news/breakthrough-in-bowel-cancer-research-will-speed-up-diagnosis</id>
+        <link href="https://www.gov.uk/government/news/breakthrough-in-bowel-cancer-research-will-speed-up-diagnosis"/>
+        <updated>2025-04-22T23:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Government backs world-leading trial of cutting-edge technology to diagnose bowel cancer earlier, harnessing the power of technology to treat patients.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHSC appoints former Operose CEO as top civil servant]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161175</id>
@@ -4089,26 +4099,6 @@ The post UK downgrades mpox from ‘high consequence infectious disease’ statu
 The post One in four GPs reduced sessions due to pension tax rules, BMA finds appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS England’s management of elective care transformation programmes]]></title>
-        <id>https://kingsfund.blogs.com/health_management/2025/03/nhs-englands-management-of-elective-care-transformation-programmes.html</id>
-        <link href="https://kingsfund.blogs.com/health_management/2025/03/nhs-englands-management-of-elective-care-transformation-programmes.html"/>
-        <updated>2025-03-24T11:10:27.000Z</updated>
-        <summary type="html"><![CDATA[National Audit Office - In February 2022, NHS England (NHSE) published a plan to recover elective and cancer care over the three years up to March 2025. This plan included changes to how care is provided through three transformation programmes: diagnostic transformation; surgical transformation; and outpatients transformation. This report looks at NHSE’s management of these three transformation programmes, what they...]]></summary>
-        <author>
-            <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macmillan Cancer Support invests in virtual cancer clinic]]></title>
-        <id>https://www.digitalhealth.net/?p=222865</id>
-        <link href="https://www.digitalhealth.net/2025/03/macmillan-cancer-support-invests-in-virtual-cancer-clinic/"/>
-        <updated>2025-03-24T11:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Perci Health, has received an investment from Macmillan Cancer Support to help more people with cancer get the personalised care they need.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
         </author>
     </entry>
 </feed>
