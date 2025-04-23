@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-23T07:15:53.119Z</updated>
+    <updated>2025-04-23T08:17:01.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS trust’s ‘end-of-life’ network infrastructure risks clinical systems]]></title>
+        <id>https://www.digitalhealth.net/?p=225623</id>
+        <link href="https://www.digitalhealth.net/2025/04/nhs-trusts-end-of-life-network-infrastructure-risks-clinical-systems/"/>
+        <updated>2025-04-23T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Dartford and Gravesham NHS Trust has revealed that its network infrastructure is ‘end of life’, risking the use of clinical digital systems.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dr Steve Taylor: Has the ARRS really brought in an extra 1,500 GPs?]]></title>
         <id>https://www.gponline.com/article/1914897</id>
