@@ -123,6 +123,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161218",
+          "author": "Eliza Parr",
+          "description": "The rules around ARRS funding should be changed to allow for paid GP supervision time, a think tank has argued. In a new report on the supervision of additional roles in general practice, the Nuffield Trust found that there is ‘huge variability’ in the level and quality of support offered to clinical staff such as\nThe post GPs should be paid for ARRS staff supervision, says think tank appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/gps-should-be-paid-for-arrs-staff-supervision-says-think-tank/",
+          "publishedOn": "2025-04-23T23:01:00.000Z",
+          "wordCount": 2229,
+          "title": "GPs should be paid for ARRS staff supervision, says think tank",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/06/NHS-England-to-‘extend-success-of-ARRS-with-20000-new-staff.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161190",
           "author": "Anna Colivicchi",
           "description": "Exclusive GP practices in South Gloucestershire have been told to limit the number of NHS Health Checks that they provide, Pulse can reveal. GPs have warned that this means that practices can usually offer checks to only 62% of eligible patients, with deprived practices further penalised. It comes after Pulse revealed last month that GP\nThe post GP practices in one more area told to limit NHS Health Checks appeared first on Pulse Today.",
@@ -3329,16 +3339,6 @@
           "wordCount": 2290,
           "title": "New WHO guidance calls for urgent transformation of mental health policies",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/friendship-bench-zimbabwe.tmb-1200v.jpg?sfvrsn=9ef0c31d_1"
-        },
-        {
-          "id": "urn:uuid:301a6306-8585-420e-b26f-719f5b3cceae",
-          "author": null,
-          "description": "The WHO Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC) continues to closely monitor the genetic and antigenic evolution of SARS-CoV-2 variants, immune responses to SARS-CoV-2 infection and COVID-19 vaccination, and the performance of COVID-19 vaccines against circulating variants. Based on these evaluations, WHO advises vaccine manufacturers and regulatory authorities on the implications for future updates to COVID-19 vaccine antigen composition. The next decision-making meeting of the TAG-CO-VAC is scheduled for May 2025, after which a statement on COVID-19 vaccine antigen composition and an accompanying data annex will be published on the WHO website. These meetings are timed to balance the availability of the latest epidemiological, immunological, and virological …",
-          "link": "https://www.who.int/news/item/25-03-2025-types-of-data-requested-to-inform-may-2025-covid-19-vaccine-antigen-composition-deliberations",
-          "publishedOn": "2025-03-25T10:24:23.000Z",
-          "wordCount": 3785,
-          "title": "Types of data requested to inform May 2025 COVID-19 vaccine antigen composition deliberations",
-          "imageUrl": null
         }
       ]
     },
@@ -3986,16 +3986,6 @@
           "wordCount": 3754,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=222805",
-          "author": "Claire Read",
-          "description": "Technology is central to realising the NHS’s ambition to provide more care closer to home, delegates at Digital Health Rewired 2025 heard.",
-          "link": "https://www.digitalhealth.net/2025/03/technology-must-be-part-of-move-to-more-community-care/",
-          "publishedOn": "2025-03-25T11:00:54.000Z",
-          "wordCount": 3688,
-          "title": "‘Technology must be part of move to more community care’",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/tech-and-community-1-1.jpg"
         }
       ]
     }
