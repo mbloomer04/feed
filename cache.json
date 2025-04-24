@@ -1120,6 +1120,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1915140",
+          "author": null,
+          "description": "GPs need a clear definition of 'core' services to prevent unfunded work being dumped on practices as the government moves healthcare out of hospitals, GP leaders will warn next month.",
+          "link": "https://www.gponline.com/define-gp-core-services-risk-unfunded-work-transfer-hospitals-lmcs-warn/article/1915140",
+          "publishedOn": "2025-04-24T07:00:00.000Z",
+          "wordCount": 754,
+          "title": "Define GP core services or risk unfunded work transfer from hospitals, LMCs to warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/LMCvote_12.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1915144",
           "author": null,
           "description": "GPs should be able to claim a proportion of additional roles reimbursement scheme (ARRS) cash to cover the cost of supervising staff hired through the scheme, according to a think tank.",
@@ -3249,16 +3259,6 @@
           "wordCount": 2622,
           "title": "WHO issues its first-ever reports on tests and treatments for fungal infections",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/emergency-care/trauma-care-in-khartoum.tmb-1200v.jpg?sfvrsn=929993b6_1"
-        },
-        {
-          "id": "urn:uuid:fd2eb15b-8dd8-488d-b77a-6cef6d0ca13b",
-          "author": null,
-          "description": "The World Health Organization (WHO) today launched new guidance to help all countries reform and strengthen mental health policies and systems. Mental health services worldwide remain underfunded, with major gaps in access and quality. In some countries, up to 90% of people with severe mental health conditions receive no care at all, while many existing services rely on outdated institutional models that fail to meet international human rights standards.\nThe guidance provides a clear framework to transform mental health services in line with the latest evidence and international human rights standards, ensuring quality care is accessible to all.\n\"Despite rising demand, quality mental health services remain out of reach for many people,\" said Dr Tedros Adhanom Ghebreyesus, WHO Director-Gene…",
-          "link": "https://www.who.int/news/item/25-03-2025-new-who-guidance-calls-for-urgent-transformation-of-mental-health-policies",
-          "publishedOn": "2025-03-25T18:23:30.000Z",
-          "wordCount": 2290,
-          "title": "New WHO guidance calls for urgent transformation of mental health policies",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/friendship-bench-zimbabwe.tmb-1200v.jpg?sfvrsn=9ef0c31d_1"
         }
       ]
     },

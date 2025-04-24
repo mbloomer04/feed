@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-24T06:18:13.000Z</updated>
+    <updated>2025-04-24T07:13:05.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Define GP core services or risk unfunded work transfer from hospitals, LMCs to warn]]></title>
+        <id>https://www.gponline.com/article/1915140</id>
+        <link href="https://www.gponline.com/define-gp-core-services-risk-unfunded-work-transfer-hospitals-lmcs-warn/article/1915140"/>
+        <updated>2025-04-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPs need a clear definition of 'core' services to prevent unfunded work being dumped on practices as the government moves healthcare out of hospitals, GP leaders will warn next month.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government launches call for evidence on men’s health]]></title>
         <id>https://www.gov.uk/government/news/government-launches-call-for-evidence-on-mens-health</id>
@@ -3933,18 +3943,6 @@ The post GP role in fit-note process ‘questionable’, suggests Government rev
         <summary type="html"><![CDATA[The Equity Charter was formally launched at Rewired 2025 last week, sharing 10 principles to tackle discrimination in the sector.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New WHO guidance calls for urgent transformation of mental health policies]]></title>
-        <id>urn:uuid:fd2eb15b-8dd8-488d-b77a-6cef6d0ca13b</id>
-        <link href="https://www.who.int/news/item/25-03-2025-new-who-guidance-calls-for-urgent-transformation-of-mental-health-policies"/>
-        <updated>2025-03-25T18:23:30.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) today launched new guidance to help all countries reform and strengthen mental health policies and systems. Mental health services worldwide remain underfunded, with major gaps in access and quality. In some countries, up to 90% of people with severe mental health conditions receive no care at all, while many existing services rely on outdated institutional models that fail to meet international human rights standards.
-The guidance provides a clear framework to transform mental health services in line with the latest evidence and international human rights standards, ensuring quality care is accessible to all.
-"Despite rising demand, quality mental health services remain out of reach for many people," said Dr Tedros Adhanom Ghebreyesus, WHO Director-Gene…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
