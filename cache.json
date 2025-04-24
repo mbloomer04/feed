@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b9ef9c58-24cb-46a0-a1e1-187c630bd7da",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address a critical path traversal vulnerability leading to remote code execution\n Updates address a critical path traversal vulnerability leading to remote code execution\n Updated: 24 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4647",
+          "publishedOn": "2025-04-24T14:12:00.000Z",
+          "wordCount": null,
+          "title": "CC-4647 - Commvault Releases Security Updates for Command Center",
+          "imageUrl": null
+        },
+        {
           "id": "0d9ac918-9956-4c05-b5e6-4ddb4e847cff",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-32433 could lead to an attacker gaining full control of a device\n CVE-2025-32433 could lead to an attacker gaining full control of a device\n Updated: 22 Apr 2025",
@@ -1149,6 +1159,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1915300",
+          "author": null,
+          "description": "A GP practice in Northern Ireland has handed its contract back due to a lack of funding and rising costs, with the BMA warning others will follow without adequate funding for general practice.",
+          "link": "https://www.gponline.com/gps-hand-contract-back-bma-ni-warns-will-follow/article/1915300",
+          "publishedOn": "2025-04-24T13:02:27.000Z",
+          "wordCount": 748,
+          "title": "GPs hand contract back as BMA NI warns more will follow",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing_GettyImages_RF.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1915140",
           "author": null,
