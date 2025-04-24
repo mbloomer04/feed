@@ -1170,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1915144",
+          "author": null,
+          "description": "GPs should be able to claim a proportion of additional roles reimbursement scheme (ARRS) cash to cover the cost of supervising staff hired through the scheme, according to a think tank.",
+          "link": "https://www.gponline.com/arrs-fund-gp-supervision-additional-roles-staff-says-think-tank/article/1915144",
+          "publishedOn": "2025-04-23T23:01:00.000Z",
+          "wordCount": 743,
+          "title": "ARRS should fund GP supervision of additional roles staff, says think tank",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-sturti_17.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1914852",
           "author": null,
           "description": "Exclusive: Registrars and newly-qualified GPs are re-training to work outside medicine - including as life coaches, medical coders or bus drivers - to pay their bills amid the ongoing job shortage in general practice, the BMA has warned.",
@@ -1886,6 +1896,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-launches-call-for-evidence-on-mens-health",
+          "author": null,
+          "description": "It will inform England’s first ever men’s health strategy to tackle the life expectancy gap.",
+          "link": "https://www.gov.uk/government/news/government-launches-call-for-evidence-on-mens-health",
+          "publishedOn": "2025-04-23T23:15:00.000Z",
+          "wordCount": 2412,
+          "title": "Government launches call for evidence on men’s health",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/guidance/supplying-take-home-naloxone-without-a-prescription",
           "author": null,
@@ -3192,26 +3212,6 @@
           "wordCount": null,
           "title": "Designing a neighbourhood health service",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/03/from-research-to-reality-research-and-innovation-in-the-nhs-as-key-to-enabling-the-10-year-plan.html",
-          "author": null,
-          "description": "RAND Europe - This report shares the findings of a study commissioned by Wellcome and delivered by RAND Europe to help inform a vision for research and innovation in the health system, with a particular emphasis on the National Health Service (NHS). It discusses research and innovation as the fourth big shift needed to transform the NHS and help support...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/03/from-research-to-reality-research-and-innovation-in-the-nhs-as-key-to-enabling-the-10-year-plan.html",
-          "publishedOn": "2025-03-25T12:33:10.000Z",
-          "wordCount": null,
-          "title": "From research to reality: research and innovation in the NHS as key to enabling the 10-Year Plan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/03/pioneers-of-reform-realising-a-new-vision-of-icb-strategic-commissioning.html",
-          "author": null,
-          "description": "NHS Confederation - This report outlines a new vision for strategic commissioning that will enable integrated care boards (ICBs) to be pioneers of reform, and the skills and capabilities needed to fulfil their statutory duties and their wider role in driving and sustaining transformation in health and care. This report also sets out recommendations for a phased implementation process. Report...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/03/pioneers-of-reform-realising-a-new-vision-of-icb-strategic-commissioning.html",
-          "publishedOn": "2025-03-25T12:31:14.000Z",
-          "wordCount": null,
-          "title": "Pioneers of reform: realising a new vision of ICB strategic commissioning",
-          "imageUrl": null
         }
       ]
     },
@@ -3976,16 +3976,6 @@
           "wordCount": 3779,
           "title": "NHSE to launch 2025 DMA over next few weeks, Diwakar confirms",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Vin-Diwakar-Rewired-2025.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=221683",
-          "author": "Owen Hughes",
-          "description": "Our Coffee Briefing covers tech funding for Alder Hey, 3D bio-printing at Newcastle University and new research into AI bias by KCL.",
-          "link": "https://www.digitalhealth.net/2025/03/digital-health-coffee-time-briefing-%e2%98%95-54/",
-          "publishedOn": "2025-03-25T11:30:36.000Z",
-          "wordCount": 3754,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     }
