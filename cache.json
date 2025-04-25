@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "4cb4f11e-9ba0-4bf7-896a-9b050a4ad394",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address a flaw in ASP.NET Web Forms which could lead to RCE\n Updates address a flaw in ASP.NET Web Forms which could lead to RCE\n Updated: 25 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4648",
+          "publishedOn": "2025-04-25T12:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4648 - ConnectWise Releases Security Update for ScreenConnect",
+          "imageUrl": null
+        },
+        {
           "id": "b9ef9c58-24cb-46a0-a1e1-187c630bd7da",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address a critical path traversal vulnerability leading to remote code execution\n Updates address a critical path traversal vulnerability leading to remote code execution\n Updated: 24 Apr 2025",
@@ -102,6 +112,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161262",
+          "author": "Maya Dhillon",
+          "description": "The Health Foundation policy fellow Jake Beech analyses official figures and asks how many ‘new’ GPs have been hired via ARRS In early April, the Department for Health and Social Care announced that over ‘1,500 extra GPs’ had been recruited since last October ‘thanks to Government action’. As a headline, this sounds impressive. Successive governments\nThe post Expert analysis: How many new GPs have really been hired under ARRS? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/guest-opinion/expert-analysis-how-many-new-gps-have-really-been-hired-under-arrs/",
+          "publishedOn": "2025-04-25T14:52:57.000Z",
+          "wordCount": 1521,
+          "title": "Expert analysis: How many new GPs have really been hired under ARRS?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=161274",
           "author": "Sofia Lind",

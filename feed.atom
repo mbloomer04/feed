@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-25T14:11:58.318Z</updated>
+    <updated>2025-04-25T15:12:32.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expert analysis: How many new GPs have really been hired under ARRS?]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161262</id>
+        <link href="https://www.pulsetoday.co.uk/views/guest-opinion/expert-analysis-how-many-new-gps-have-really-been-hired-under-arrs/"/>
+        <updated>2025-04-25T14:52:57.000Z</updated>
+        <summary type="html"><![CDATA[The Health Foundation policy fellow Jake Beech analyses official figures and asks how many ‘new’ GPs have been hired via ARRS In early April, the Department for Health and Social Care announced that over ‘1,500 extra GPs’ had been recruited since last October ‘thanks to Government action’. As a headline, this sounds impressive. Successive governments
+The post Expert analysis: How many new GPs have really been hired under ARRS? appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
         <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
@@ -24,6 +35,19 @@
         <summary type="html"><![CDATA[The University of Edinburgh has opened applications for its 2025 AI Accelerator programme.]]></summary>
         <author>
             <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4648 - ConnectWise Releases Security Update for ScreenConnect]]></title>
+        <id>4cb4f11e-9ba0-4bf7-896a-9b050a4ad394</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4648"/>
+        <updated>2025-04-25T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates address a flaw in ASP.NET Web Forms which could lead to RCE
+ Updates address a flaw in ASP.NET Web Forms which could lead to RCE
+ Updated: 25 Apr 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
