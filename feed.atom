@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-26T22:10:49.829Z</updated>
+    <updated>2025-04-26T23:11:06.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI doctors’ assistant to speed up appointments a ‘gamechanger’]]></title>
+        <id>https://www.gov.uk/government/news/ai-doctors-assistant-to-speed-up-appointments-a-gamechanger</id>
+        <link href="https://www.gov.uk/government/news/ai-doctors-assistant-to-speed-up-appointments-a-gamechanger"/>
+        <updated>2025-04-26T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Interim trial data shows that the revolutionary tech has dramatically reduced admin]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Expert analysis: How many new GPs have really been hired under ARRS?]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161262</id>
@@ -3829,37 +3839,6 @@ The post Chaand Nagpaul: ‘The Government’s NHS plans depend on supporting GP
 The post NHS software provider to pay £3m ICO fine over patient data hack appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over a million norovirus web hits this winter amid quad-demic]]></title>
-        <id>https://www.england.nhs.uk/?p=264009</id>
-        <link href="https://www.england.nhs.uk/2025/03/over-a-million-norovirus-web-hits-this-winter-amid-quad-demic/"/>
-        <updated>2025-03-28T11:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Searches for NHS advice on norovirus topped one million this winter as NHS staff managed a quad-demic of viruses, according to new NHS data. There have been 1,021,436 visits to the norovirus advice in the past 16 weeks (2 December to 23 March) – making it the most visited condition on the NHS website this […]]]></summary>
-        <author>
-            <name>nowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneLondon’s UCP reaches 74% of capital’s sickle cell patients]]></title>
-        <id>https://www.digitalhealth.net/?p=223409</id>
-        <link href="https://www.digitalhealth.net/2025/03/onelondons-ucp-reaches-74-of-capitals-sickle-cell-patients/"/>
-        <updated>2025-03-28T11:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Almost three-quarters of sickle cell patients who receive care in London now have a Universal Care Plan, according to OneLondon.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case of the month – answers: What was causing this man’s persistently elevated ALP?]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=159551</id>
-        <link href="https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/mental-health-pain-and-addiction/case-of-the-month-answers-what-was-causing-this-mans-persistently-elevated-alp/"/>
-        <updated>2025-03-28T10:14:52.000Z</updated>
-        <summary type="html"><![CDATA[In the latest in our series, Dr Keith Hopcroft asked what was going on with a young male with recurrent urinary tract symptoms and a persistently elevated ALP. Answer revealed below… A 35-year-old man attends for review, having had some recent blood tests taken for general malaise and tiredness. He has a history of urinary
-The post Case of the month – answers: What was causing this man’s persistently elevated ALP? appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Mollie Fraser-Andrews</name>
         </author>
     </entry>
 </feed>
