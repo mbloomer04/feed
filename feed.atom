@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-27T22:11:09.946Z</updated>
+    <updated>2025-04-27T23:11:20.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Major NHS App expansion cuts waiting times]]></title>
+        <id>https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times</id>
+        <link href="https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times"/>
+        <updated>2025-04-27T23:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Reform of NHS App stops 1.5 million hospital appointments being missed, with 87% of hospitals now offering services through NHS App.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest health data reveals thousands of patients now seen quicker]]></title>
         <id>https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker</id>

@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times",
+          "author": null,
+          "description": "Reform of NHS App stops 1.5 million hospital appointments being missed, with 87% of hospitals now offering services through NHS App.",
+          "link": "https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times",
+          "publishedOn": "2025-04-27T23:01:09.000Z",
+          "wordCount": 3715,
+          "title": "Major NHS App expansion cuts waiting times",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker",
           "author": null,
           "description": "Thousands of patients are securing appointments quicker every day as part of the government's drive to build an NHS fit for the future.",
