@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9f592afc-2ed0-4e22-b10b-3151e5a39d85",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-31324 could allow unauthenticated file uploads, potentially leading to RCE\n CVE-2025-31324 could allow unauthenticated file uploads, potentially leading to RCE\n Updated: 28 Apr 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4649",
+          "publishedOn": "2025-04-28T13:21:00.000Z",
+          "wordCount": null,
+          "title": "CC-4649 - Critical Zero-Day Vulnerability in SAP NetWeaver",
+          "imageUrl": null
+        },
+        {
           "id": "4cb4f11e-9ba0-4bf7-896a-9b050a4ad394",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address a flaw in ASP.NET Web Forms which could lead to RCE\n Updates address a flaw in ASP.NET Web Forms which could lead to RCE\n Updated: 25 Apr 2025",
@@ -1768,6 +1778,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/cost-of-living-boost-for-millions-as-prescription-charges-frozen",
+          "author": null,
+          "description": "Millions of patients are getting a cost of living boost as the government freezes prescription charges for the first time in three years.",
+          "link": "https://www.gov.uk/government/news/cost-of-living-boost-for-millions-as-prescription-charges-frozen",
+          "publishedOn": "2025-04-28T12:21:46.000Z",
+          "wordCount": 2548,
+          "title": "Cost of living boost for millions as prescription charges frozen",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times",
           "author": null,
           "description": "Reform of NHS App stops 1.5 million hospital appointments being missed, with 87% of hospitals now offering services through NHS App.",
@@ -3128,6 +3148,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=226341",
+          "author": "Jordan Sollof",
+          "description": "A research project from the University of Exeter is using AI to personalise stroke care for patients in a bid to reduce future disability.",
+          "link": "https://www.digitalhealth.net/2025/04/ai-project-aims-to-reduce-disability-caused-by-strokes/",
+          "publishedOn": "2025-04-28T12:30:36.000Z",
+          "wordCount": 3791,
+          "title": "AI project aims to reduce disability caused by strokes",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/imaging-scanning-mri-ct-xray.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=226525",
+          "author": "Jordan Sollof",
+          "description": "The government’s accelerated rollout of the NHS App has saved 1.5 million appointments and helped cut waiting times for patients.",
+          "link": "https://www.digitalhealth.net/2025/04/nhs-app-saves-1-5-million-appointments-and-cuts-waiting-times/",
+          "publishedOn": "2025-04-28T12:30:00.000Z",
+          "wordCount": 3795,
+          "title": "NHS App expansion saves 1.5 million appointments",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/shutterstock_2186669317-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226447",
           "author": "Tammy Lovell",
