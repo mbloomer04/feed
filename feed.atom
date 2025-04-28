@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-28T13:35:24.750Z</updated>
+    <updated>2025-04-28T14:13:14.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: New Hospital Programme: SRO appointment letter]]></title>
+        <id>https://www.gov.uk/government/publications/new-hospital-programme-sro-appointment-letter</id>
+        <link href="https://www.gov.uk/government/publications/new-hospital-programme-sro-appointment-letter"/>
+        <updated>2025-04-28T13:59:22.000Z</updated>
+        <summary type="html"><![CDATA[Appointment letter from DHSC confirming appointment of the senior responsible owners (SROs) of the New Hospital Programme.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS Future Workforce Solution Programme: SRO appointment letter]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-future-workforce-solution-programme-sro-appointment-letter</id>
+        <link href="https://www.gov.uk/government/publications/nhs-future-workforce-solution-programme-sro-appointment-letter"/>
+        <updated>2025-04-28T13:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Appointment letter from DHSC confirming appointment of the senior responsible owner (SRO) of the NHS Future Workforce Solution Programme.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4649 - Critical Zero-Day Vulnerability in SAP NetWeaver]]></title>
         <id>9f592afc-2ed0-4e22-b10b-3151e5a39d85</id>

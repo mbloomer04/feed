@@ -1778,6 +1778,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/new-hospital-programme-sro-appointment-letter",
+          "author": null,
+          "description": "Appointment letter from DHSC confirming appointment of the senior responsible owners (SROs) of the New Hospital Programme.",
+          "link": "https://www.gov.uk/government/publications/new-hospital-programme-sro-appointment-letter",
+          "publishedOn": "2025-04-28T13:59:22.000Z",
+          "wordCount": 897,
+          "title": "Transparency data: New Hospital Programme: SRO appointment letter",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-future-workforce-solution-programme-sro-appointment-letter",
+          "author": null,
+          "description": "Appointment letter from DHSC confirming appointment of the senior responsible owner (SRO) of the NHS Future Workforce Solution Programme.",
+          "link": "https://www.gov.uk/government/publications/nhs-future-workforce-solution-programme-sro-appointment-letter",
+          "publishedOn": "2025-04-28T13:58:58.000Z",
+          "wordCount": 912,
+          "title": "Transparency data: NHS Future Workforce Solution Programme: SRO appointment letter",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/cost-of-living-boost-for-millions-as-prescription-charges-frozen",
           "author": null,
           "description": "Millions of patients are getting a cost of living boost as the government freezes prescription charges for the first time in three years.",
