@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-04-29T07:13:20.437Z</updated>
+    <updated>2025-04-29T08:18:01.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government encourages clinicians to use AI scribing technology]]></title>
+        <id>https://www.digitalhealth.net/?p=226561</id>
+        <link href="https://www.digitalhealth.net/2025/04/government-encourages-clinicians-to-use-ai-scribing-technology/"/>
+        <updated>2025-04-29T07:30:14.000Z</updated>
+        <summary type="html"><![CDATA[New government guidance encourages NHS clinicians to use AI tools to transcribe consultations and turn them into medical notes and letters.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs win £14m funding boost after LES boycott threat]]></title>
+        <id>https://www.gponline.com/article/1915675</id>
+        <link href="https://www.gponline.com/gps-win-14m-funding-boost-les-boycott-threat/article/1915675"/>
+        <updated>2025-04-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive: GPs in Lancashire and South Cumbria have won a £14m funding uplift after threatening to halt local enhanced services (LESs).]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA threatens Scottish Government with ‘formal dispute’ over GP underfunding]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161348</id>

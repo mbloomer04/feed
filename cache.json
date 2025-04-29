@@ -1110,6 +1110,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1915675",
+          "author": null,
+          "description": "Exclusive: GPs in Lancashire and South Cumbria have won a £14m funding uplift after threatening to halt local enhanced services (LESs).",
+          "link": "https://www.gponline.com/gps-win-14m-funding-boost-les-boycott-threat/article/1915675",
+          "publishedOn": "2025-04-29T07:00:00.000Z",
+          "wordCount": 707,
+          "title": "GPs win £14m funding boost after LES boycott threat",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_22.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1915682",
           "author": null,
           "description": "Primary care minister Stephen Kinnock has warned that pay uplifts for NHS and other public sector workers will have to work within 'fiscal constraints' and urged unions to 'recognise the reality' of the government's financial position as it considers advice from pay review bodies - as leaked reports suggested NHS staff could be in line for a 3% rise.",
@@ -3218,6 +3228,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=226561",
+          "author": "Tammy Lovell",
+          "description": "New government guidance encourages NHS clinicians to use AI tools to transcribe consultations and turn them into medical notes and letters.",
+          "link": "https://www.digitalhealth.net/2025/04/government-encourages-clinicians-to-use-ai-scribing-technology/",
+          "publishedOn": "2025-04-29T07:30:14.000Z",
+          "wordCount": 3697,
+          "title": "Government encourages clinicians to use AI scribing technology",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Patient-doctor-consultation.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226341",
           "author": "Jordan Sollof",
