@@ -1140,6 +1140,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1915994",
+          "author": null,
+          "description": "Historic underinvestment has left GP practices and community services in outdated premises ill-suited to taking on more care from hospitals, NHS leaders have warned.",
+          "link": "https://www.gponline.com/nhs-leaders-demand-capital-funding-boost-primary-care/article/1915994",
+          "publishedOn": "2025-04-29T23:01:00.000Z",
+          "wordCount": 701,
+          "title": "NHS leaders demand capital funding boost for primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/building_work_GettyImages-SimonKR_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1915935",
           "author": null,
           "description": "GPs in Scotland have launched a campaign urging the government to plug a £290m funding gap - warning that the 'current direction of travel' is driving the profession towards a formal industrial dispute.",
@@ -2485,26 +2495,6 @@
           "publishedOn": "2025-03-31T14:00:02.000Z",
           "wordCount": 1806,
           "title": "Guidance: DHSC public appointments: 2024 to 2025",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/national-health-service-expenditure-on-service-integration-directions",
-          "author": null,
-          "description": "Directions to NHS England for the financial years 2023 to 2024, 2024 to 2025 and 2025 to 2026 relating to expenditure on service integration.",
-          "link": "https://www.gov.uk/government/publications/national-health-service-expenditure-on-service-integration-directions",
-          "publishedOn": "2025-03-31T11:26:04.000Z",
-          "wordCount": 1121,
-          "title": "Statutory guidance: National Health Service (Expenditure on Service Integration) Directions",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/help-for-nhs-to-recover-costs-of-care-from-visitors-and-migrants",
-          "author": null,
-          "description": "Information and resources for NHS trusts to help with the management and charging of overseas visitors and migrants.",
-          "link": "https://www.gov.uk/government/publications/help-for-nhs-to-recover-costs-of-care-from-visitors-and-migrants",
-          "publishedOn": "2025-03-31T11:19:54.000Z",
-          "wordCount": 1355,
-          "title": "Guidance: Managing overseas visitors and migrant health charging: NHS trusts",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -3957,16 +3947,6 @@
           "wordCount": 3713,
           "title": "Ming Tang appointed interim CDIO at NHS England",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/Ming-Tang-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=223757",
-          "author": "Jordan Sollof",
-          "description": "An digital model of care is transforming health management in care homes and could save the NHS £114m per ICB annually, a report shows.",
-          "link": "https://www.digitalhealth.net/2025/03/digital-care-model-may-save-nhs-14m-per-icb-annually-report-shows/",
-          "publishedOn": "2025-03-31T12:30:01.000Z",
-          "wordCount": 3803,
-          "title": "Digital care model may save NHS £14m a year per ICB, says report",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Feebris-in-care-home.png"
         }
       ]
     }
