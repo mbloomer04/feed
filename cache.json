@@ -103,6 +103,36 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161434",
+          "author": "Sofia Lind",
+          "description": "An AI-powered system for detecting potential skin cancer has been approved by NICE for use on the NHS for three years while further evidence on its effectiveness is collected. The technology can be used as part of the triage process within the urgent referral pathway and could ‘significantly reduce’ waiting times, NICE said. Deep Ensemble\nThe post AI skin cancer triage given conditional green light by NICE appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/dermatology-and-wound-care/ai-skin-cancer-triage-given-conditional-green-light-by-nice/",
+          "publishedOn": "2025-05-01T11:04:55.000Z",
+          "wordCount": 2069,
+          "title": "AI skin cancer triage given conditional green light by NICE",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/06/digital-dermatoscope-skin-cancer.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161430",
+          "author": "Maya Dhillon",
+          "description": "Almost a quarter of patients have reported finding errors in their NHS records, with the RCGP suggesting that these may be down to inadequate IT and workload pressures in general practice. A survey of 1,800 adults, published by Healthwatch England today, found that 23% of respondents noticed inaccuracies or missing details in their records.  When\nThe post RCGP defends GPs as survey shows quarter of patients found ‘errors’ in their record appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/technology/rcgp-defends-gps-as-survey-shows-quarter-of-patients-found-errors-in-their-record/",
+          "publishedOn": "2025-05-01T10:47:32.000Z",
+          "wordCount": 1518,
+          "title": "RCGP defends GPs as survey shows quarter of patients found ‘errors’ in their record",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161428",
+          "author": "Sofia Lind",
+          "description": "The Government has announced a raft of ‘significant’ changes to the childhood vaccination schedule, including a new routine appointment at 18 months. Recommended shifts in a number of vaccination timings, the first of which will come into force in July, have been triggered by the discontinuation of the Mentorix Hib/Men C vaccine that until now\nThe post ‘Significant’ changes to childhood vaccination schedule announced appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/paediatrics/significant-changes-to-childhood-vaccination-schedule-announced/",
+          "publishedOn": "2025-05-01T10:21:56.000Z",
+          "wordCount": 2309,
+          "title": "‘Significant’ changes to childhood vaccination schedule announced",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/04/Practices-to-assess-‘viability-of-offering-childhood-jabs-amid-funding-squeeze.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161412",
           "author": "Eliza Parr",
           "description": "Over one in five deaths in 2023 in England could have been avoided with ‘timely and effective’ healthcare or public health interventions, new data has suggested.  This week, the Office for National Statistics (ONS) published its analysis of ‘avoidable mortality’, revealing that in England 21.6% of deaths were considered preventable or treatable, while in Wales\nThe post ONS data suggests one in five deaths in 2023 were ‘avoidable’ appeared first on Pulse Today.",
@@ -1081,16 +1111,6 @@
           "wordCount": 2301,
           "title": "New asthma QOF targets reconciled with NICE guidance",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/12/Implementing-the-new-joint-NICE-asthma-guidelines.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=160542",
-          "author": "Anna Colivicchi",
-          "description": "Public satisfaction with general practice has continued to fall over the past year, with just under one in three people saying they are ‘satisfied with GP services’. The latest British Social Attitudes Survey (BSA) found that just one in five people (21%) said they were ‘satisfied with the way the NHS runs’. It found that\nThe post Satisfaction with GP services falls again to 31%, national survey finds appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/politics/satisfaction-with-gp-services-falls-again-to-31-national-survey-finds/",
-          "publishedOn": "2025-04-01T23:01:00.000Z",
-          "wordCount": 2968,
-          "title": "Satisfaction with GP services falls again to 31%, national survey finds",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/Average-wait-for-in-person-routine-GP-appointment-is-10-days-finds-survey.jpg"
         }
       ]
     },
@@ -1658,16 +1678,6 @@
           "wordCount": 949,
           "title": "GP contract threatens ‘vast gaps’ between practices and ARRS shortfall, expert warns",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-DarrenRobb_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1912589",
-          "author": null,
-          "description": "Public satisfaction with the NHS as a whole and with general practice are at a new low, according to the latest British Social Attitudes (BSA) survey - but GPs have questioned the findings, warning they are not borne out in more recent evidence.",
-          "link": "https://www.gponline.com/gps-question-major-poll-showing-patient-satisfaction-new-low/article/1912589",
-          "publishedOn": "2025-04-01T23:01:00.000Z",
-          "wordCount": 926,
-          "title": "GPs question major poll showing patient satisfaction at new low",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_10.jpg"
         }
       ]
     },
@@ -3158,6 +3168,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=226247",
+          "author": "Owen Hughes",
+          "description": "Our coffee time briefing covers a two-year contract extension for Hitachi and a pilot of Decently's Melo app in Leeds.",
+          "link": "https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-65/",
+          "publishedOn": "2025-05-01T10:30:25.000Z",
+          "wordCount": 3872,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226799",
           "author": "Jordan Sollof",

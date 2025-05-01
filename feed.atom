@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-01T10:13:12.222Z</updated>
+    <updated>2025-05-01T11:10:31.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI skin cancer triage given conditional green light by NICE]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161434</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/dermatology-and-wound-care/ai-skin-cancer-triage-given-conditional-green-light-by-nice/"/>
+        <updated>2025-05-01T11:04:55.000Z</updated>
+        <summary type="html"><![CDATA[An AI-powered system for detecting potential skin cancer has been approved by NICE for use on the NHS for three years while further evidence on its effectiveness is collected. The technology can be used as part of the triage process within the urgent referral pathway and could ‘significantly reduce’ waiting times, NICE said. Deep Ensemble
+The post AI skin cancer triage given conditional green light by NICE appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCGP defends GPs as survey shows quarter of patients found ‘errors’ in their record]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161430</id>
+        <link href="https://www.pulsetoday.co.uk/news/technology/rcgp-defends-gps-as-survey-shows-quarter-of-patients-found-errors-in-their-record/"/>
+        <updated>2025-05-01T10:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Almost a quarter of patients have reported finding errors in their NHS records, with the RCGP suggesting that these may be down to inadequate IT and workload pressures in general practice. A survey of 1,800 adults, published by Healthwatch England today, found that 23% of respondents noticed inaccuracies or missing details in their records.  When
+The post RCGP defends GPs as survey shows quarter of patients found ‘errors’ in their record appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=226247</id>
+        <link href="https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-65/"/>
+        <updated>2025-05-01T10:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Our coffee time briefing covers a two-year contract extension for Hitachi and a pilot of Decently's Melo app in Leeds.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Significant’ changes to childhood vaccination schedule announced]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161428</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/paediatrics/significant-changes-to-childhood-vaccination-schedule-announced/"/>
+        <updated>2025-05-01T10:21:56.000Z</updated>
+        <summary type="html"><![CDATA[The Government has announced a raft of ‘significant’ changes to the childhood vaccination schedule, including a new routine appointment at 18 months. Recommended shifts in a number of vaccination timings, the first of which will come into force in July, have been triggered by the discontinuation of the Mentorix Hib/Men C vaccine that until now
+The post ‘Significant’ changes to childhood vaccination schedule announced appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS Trust raises concerns over digital workforce shortage]]></title>
         <id>https://www.digitalhealth.net/?p=226799</id>
@@ -3855,27 +3898,6 @@ The post New asthma QOF targets reconciled with NICE guidance appeared first on 
         <summary type="html"><![CDATA[CardMedic, 2022 Pitchfest champion, has been awarded almost £500k in funding from SBRI Healthcare to develop an AI-enabled language portal.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfaction with GP services falls again to 31%, national survey finds]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=160542</id>
-        <link href="https://www.pulsetoday.co.uk/news/politics/satisfaction-with-gp-services-falls-again-to-31-national-survey-finds/"/>
-        <updated>2025-04-01T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Public satisfaction with general practice has continued to fall over the past year, with just under one in three people saying they are ‘satisfied with GP services’. The latest British Social Attitudes Survey (BSA) found that just one in five people (21%) said they were ‘satisfied with the way the NHS runs’. It found that
-The post Satisfaction with GP services falls again to 31%, national survey finds appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs question major poll showing patient satisfaction at new low]]></title>
-        <id>https://www.gponline.com/article/1912589</id>
-        <link href="https://www.gponline.com/gps-question-major-poll-showing-patient-satisfaction-new-low/article/1912589"/>
-        <updated>2025-04-01T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Public satisfaction with the NHS as a whole and with general practice are at a new low, according to the latest British Social Attitudes (BSA) survey - but GPs have questioned the findings, warning they are not borne out in more recent evidence.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
