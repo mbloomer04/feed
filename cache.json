@@ -1120,6 +1120,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1916344",
+          "author": null,
+          "description": "Primary care has not featured enough at recent meetings between senior health service executives, the NHS Confederation chief executive has revealed.",
+          "link": "https://www.gponline.com/primary-care-not-prominent-enough-senior-nhs-meetings-health-leader-warns/article/1916344",
+          "publishedOn": "2025-05-01T10:45:39.000Z",
+          "wordCount": 898,
+          "title": "Primary care not prominent enough at senior NHS meetings, health leader warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_16.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1916341",
+          "author": null,
+          "description": "Nearly one in four people say they have noticed missing information or inaccuracies in their medical records, according to polling by a patients' watchdog.",
+          "link": "https://www.gponline.com/gps-blame-workload-poor-report-flags-patient-record-errors/article/1916341",
+          "publishedOn": "2025-05-01T10:10:33.000Z",
+          "wordCount": 903,
+          "title": "GPs blame workload and poor IT as report flags patient record errors",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_computer_GettyImages-MarkoGeber_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1916170",
           "author": null,
           "description": "ICB cuts could ‘be the wrong way to go’ if they prevent collaboration within the healthcare sector, a former health secretary has warned.",
@@ -1751,6 +1771,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=265833",
+          "author": "jboshell",
+          "description": "Visits to the hay fever advice on the NHS website have more than doubled in the past week as the country is set for the hottest day of the year ahead of the bank holiday weekend. There have been 19,562 visits to the hay fever page on nhs.uk in the past 72 hours (Monday to Wednesday), […]",
+          "link": "https://www.england.nhs.uk/2025/05/searches-for-nhs-hay-fever-advice-double-as-temperatures-rise/",
+          "publishedOn": "2025-05-01T10:36:19.000Z",
+          "wordCount": 1294,
+          "title": "Searches for NHS hay fever advice double as temperatures rise",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=265797",
           "author": "nowen",
           "description": "A new daily pill for endometriosis has been approved for use on the NHS and could help over a thousand women in England every year manage the symptoms of the debilitating condition. The once-a-day pill, linzagolix, will soon be available for NHS patients in England who have had previous treatment for endometriosis, following approval by the National […]",
@@ -1857,6 +1887,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
+          "author": null,
+          "description": "Funding to local councils to help them improve their drug and alcohol treatment and recovery systems, from 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
+          "publishedOn": "2025-05-01T11:18:11.000Z",
+          "wordCount": 990,
+          "title": "Guidance: Drug and alcohol treatment and recovery funding: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-may-2025",
           "author": null,
