@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-01T09:13:14.015Z</updated>
+    <updated>2025-05-01T10:13:12.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Trust raises concerns over digital workforce shortage]]></title>
+        <id>https://www.digitalhealth.net/?p=226799</id>
+        <link href="https://www.digitalhealth.net/2025/05/nhs-trust-raises-concerns-over-digital-workforce-shortage/"/>
+        <updated>2025-05-01T10:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Barking, Havering and Redbridge University Hospitals has raised concerns that its digital team is “poorly resourced" with over 18 vacancies.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Adult social care in England, monthly statistics: May 2025]]></title>
         <id>https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-may-2025</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New endometriosis pill on the NHS could benefit more than 1,000 women a year]]></title>
+        <id>https://www.england.nhs.uk/?p=265797</id>
+        <link href="https://www.england.nhs.uk/2025/05/new-endometriosis-pill-on-the-nhs-could-benefit-more-than-1000-women-a-year/"/>
+        <updated>2025-05-01T08:11:14.000Z</updated>
+        <summary type="html"><![CDATA[A new daily pill for endometriosis has been approved for use on the NHS and could help over a thousand women in England every year manage the symptoms of the debilitating condition. The once-a-day pill, linzagolix, will soon be available for NHS patients in England who have had previous treatment for endometriosis, following approval by the National […]]]></summary>
+        <author>
+            <name>nowen</name>
         </author>
     </entry>
     <entry>
