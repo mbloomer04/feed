@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-02T12:23:36.436Z</updated>
+    <updated>2025-05-02T13:22:48.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=226929</id>
+        <link href="https://www.digitalhealth.net/2025/05/digital-healths-monthly-roundup-of-contracts-and-go-lives-52/"/>
+        <updated>2025-05-02T12:30:50.000Z</updated>
+        <summary type="html"><![CDATA[This contracts and go lives roundup features Cambridge University Hospitals NHS Foundation Trust integrating a video service with its EPR.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP who recorded ‘untrue’ QOF information suspended for three months]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161341</id>
@@ -67,6 +77,16 @@ The post First UKHSA report on health inequalities highlights large NHS bill fro
         <summary type="html"><![CDATA[More than half of the British public (54%) have not heard of AI being used in healthcare, according to a survey of over 1,000 adults.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government yet to receive DDRB advice on doctors' pay]]></title>
+        <id>https://www.gponline.com/article/1916567</id>
+        <link href="https://www.gponline.com/government-yet-receive-ddrb-advice-doctors-pay/article/1916567"/>
+        <updated>2025-05-02T09:50:59.000Z</updated>
+        <summary type="html"><![CDATA[The government has not yet received pay recommendations for 2025/26 from the Doctors and Dentists Review Body (DDRB), GPonline understands.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
