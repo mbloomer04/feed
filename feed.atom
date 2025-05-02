@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-02T07:12:30.443Z</updated>
+    <updated>2025-05-02T08:16:36.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patient record errors caused by ‘lack of integration’, finds report]]></title>
+        <id>https://www.digitalhealth.net/?p=227193</id>
+        <link href="https://www.digitalhealth.net/2025/05/patient-record-errors-caused-by-lack-of-integration-finds-report/"/>
+        <updated>2025-05-02T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Lack of integration between the NHS App and other health data sources has contributed to patient record errors, according to Healthwatch.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Advice and guidance hotspots, GP pay recommendations, funding GP premises]]></title>
+        <id>https://www.gponline.com/article/1916384</id>
+        <link href="https://www.gponline.com/podcast-advice-guidance-hotspots-gp-pay-recommendations-funding-gp-premises/article/1916384"/>
+        <updated>2025-05-02T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Independent commission into adult social care: terms of reference]]></title>
         <id>https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference</id>

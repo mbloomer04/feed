@@ -1120,6 +1120,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1916384",
+          "author": null,
+          "description": "The GPonline team discusses the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-advice-guidance-hotspots-gp-pay-recommendations-funding-gp-premises/article/1916384",
+          "publishedOn": "2025-05-02T06:26:00.000Z",
+          "wordCount": 872,
+          "title": "Podcast: Advice and guidance hotspots, GP pay recommendations, funding GP premises",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_996.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1916344",
           "author": null,
           "description": "Primary care has not featured enough at recent meetings between senior health service executives, the NHS Confederation chief executive has revealed.",
@@ -3128,6 +3138,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227193",
+          "author": "Tammy Lovell",
+          "description": "Lack of integration between the NHS App and other health data sources has contributed to patient record errors, according to Healthwatch.",
+          "link": "https://www.digitalhealth.net/2025/05/patient-record-errors-caused-by-lack-of-integration-finds-report/",
+          "publishedOn": "2025-05-02T07:30:35.000Z",
+          "wordCount": 3770,
+          "title": "Patient record errors caused by ‘lack of integration’, finds report",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/shutterstock_1720780150-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226341",
           "author": "Jordan Sollof",
