@@ -3152,6 +3152,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:7fcc8ff1-5beb-4a59-8fd5-91bb60cbd538",
+          "author": null,
+          "description": "\"WHO is committed to working with the IPU to inform and support parliaments on global health priorities. We encourage all of you to join your national delegation at WHA78 to make your voice heard and to translate global health decisions into national-level actions,\" affirmed Dr Tedros in his remarks to the delegates.",
+          "link": "https://www.who.int/news/item/10-04-2025-who-at-150th-ipu-assembly--elevating-health-equity-and-global-solidarity",
+          "publishedOn": "2025-05-02T12:32:36.000Z",
+          "wordCount": 2895,
+          "title": "WHO at 150th IPU Assembly: elevating health equity and global solidarity",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/funding/ipu--who-and-uzbekistan-moh-site-visit.tmb-1200v.jpg?sfvrsn=64300985_1"
+        },
+        {
           "id": "urn:uuid:789c3e42-140e-4a8b-b1b8-14b606baa750",
           "author": null,
           "description": "The Global Outbreak Alert and Response Network (GOARN), an initiative coordinated by the World Health Organization (WHO), marks its 25th anniversary today. Since its inception in April 2000, the network has been at the forefront of the global fight against health emergencies. By leveraging the expertise of global partners – facilitating alerts, deploying rapid support capacities, and strengthening capacities – it has significantly enhanced country-level operations and strengthened regional development, playing a critical role in health preparedness and response.\n“GOARN is a vital part of the global health architecture,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Through the network, countries get the expert support they need to respond to health emergencies, and to enhance …",
@@ -3957,16 +3967,6 @@
           "wordCount": 4024,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=224225",
-          "author": "Jordan Sollof",
-          "description": "An AI chronic obstructive pulmonary disease (COPD) diagnostic tool is planned for rollout across the NHS in April 2025.",
-          "link": "https://www.digitalhealth.net/2025/04/ai-copd-diagnostic-test-to-be-rolled-out-across-the-nhs/",
-          "publishedOn": "2025-04-03T07:30:06.000Z",
-          "wordCount": 3740,
-          "title": "AI COPD diagnostic test to be rolled out across the NHS",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/AI-COPD.png"
         }
       ]
     }

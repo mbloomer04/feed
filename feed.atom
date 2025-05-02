@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-02T19:10:08.657Z</updated>
+    <updated>2025-05-02T20:13:42.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -76,6 +76,16 @@ The post MP guest blog: ‘GPs should take back control of out-of-hours services
         <summary type="html"><![CDATA[Sets out the guidance to support local authorities in administering the Market Sustainability and Improvement Fund in 2025 to 2026.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO at 150th IPU Assembly: elevating health equity and global solidarity]]></title>
+        <id>urn:uuid:7fcc8ff1-5beb-4a59-8fd5-91bb60cbd538</id>
+        <link href="https://www.who.int/news/item/10-04-2025-who-at-150th-ipu-assembly--elevating-health-equity-and-global-solidarity"/>
+        <updated>2025-05-02T12:32:36.000Z</updated>
+        <summary type="html"><![CDATA["WHO is committed to working with the IPU to inform and support parliaments on global health priorities. We encourage all of you to join your national delegation at WHA78 to make your voice heard and to translate global health decisions into national-level actions," affirmed Dr Tedros in his remarks to the delegates.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4023,16 +4033,6 @@ The post BMA submits 600 serious PA incidents to safety review appeared first on
         <summary type="html"><![CDATA[This report details the findings of an evaluation of the 2022 fit note reforms.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI COPD diagnostic test to be rolled out across the NHS]]></title>
-        <id>https://www.digitalhealth.net/?p=224225</id>
-        <link href="https://www.digitalhealth.net/2025/04/ai-copd-diagnostic-test-to-be-rolled-out-across-the-nhs/"/>
-        <updated>2025-04-03T07:30:06.000Z</updated>
-        <summary type="html"><![CDATA[An AI chronic obstructive pulmonary disease (COPD) diagnostic tool is planned for rollout across the NHS in April 2025.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>
