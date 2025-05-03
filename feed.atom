@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-03T22:11:13.870Z</updated>
+    <updated>2025-05-03T23:11:09.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government’s tech reform to transform cancer diagnosis]]></title>
+        <id>https://www.gov.uk/government/news/governments-tech-reform-to-transform-cancer-diagnosis</id>
+        <link href="https://www.gov.uk/government/news/governments-tech-reform-to-transform-cancer-diagnosis"/>
+        <updated>2025-05-03T23:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Cancer 360 brings patient data into one central system, so clinicians can prioritise those most in need and see patients quicker]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill: impact assessment]]></title>
         <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-impact-assessment</id>
@@ -3728,47 +3738,6 @@ The post What can GPs expect from the physician associate safety review? appeare
         <summary type="html"><![CDATA[Patient Safety Commissioner - This report presents the results of a short-term study to explore the challenges experienced by patients with sensory impairment in relation to their safe and effective access to and use of medicines and medical devices. It explores the barriers to patient safety that exist for patients with sensory impairment, particularly those patients who have diabetes and...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Public health grants to local authorities: 2024 to 2025]]></title>
-        <id>https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2024-to-2025</id>
-        <link href="https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2024-to-2025"/>
-        <updated>2025-04-04T11:08:29.000Z</updated>
-        <summary type="html"><![CDATA[The public health allocations and monetary conditions for local authorities to improve health in local populations.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Public health grants to local authorities: 2025 to 2026]]></title>
-        <id>https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026</id>
-        <link href="https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026"/>
-        <updated>2025-04-04T11:08:23.000Z</updated>
-        <summary type="html"><![CDATA[The public health allocations and monetary conditions for local authorities to improve health in local populations.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS SBS launches £1.5bn framework to upgrade NHS hardware]]></title>
-        <id>https://www.digitalhealth.net/?p=224533</id>
-        <link href="https://www.digitalhealth.net/2025/04/nhs-sbs-launches-1-5bn-framework-for-nhs-it/"/>
-        <updated>2025-04-04T10:20:36.000Z</updated>
-        <summary type="html"><![CDATA[NHS Shared Business Services has launched a framework agreement worth £1.5bn to upgrade outdated IT systems in the NHS.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs to identify patients for Government’s back-to-work scheme]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=160628</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/diabetes-endocrinology/gps-identifying-patients-for-governments-back-to-work-scheme/"/>
-        <updated>2025-04-04T10:17:13.000Z</updated>
-        <summary type="html"><![CDATA[The first of nine trailblazer programmes to get people back into work has begun in South Yorkshire, with GPs helping to identify those who may benefit. Backed by £18m funding, the South Yorkshire scheme aims to work with 7,800 people in a year with the goal of getting 3,000 of them into jobs. Designed locally
-The post GPs to identify patients for Government’s back-to-work scheme appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
