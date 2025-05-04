@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "CC-4642 - Microsoft Releases April 2025 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "d15c7696-2774-4b01-890e-0db90e15eb66",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n CVE-2025-22457 could lead to remote code execution and has been exploited in the wild\n Updated: 04 Apr 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4641",
-          "publishedOn": "2025-04-04T11:56:00.000Z",
-          "wordCount": null,
-          "title": "CC-4641 - Exploited Vulnerability in Ivanti Connect Secure, Pulse Connect Secure, Policy Secure, and ZTA Gateway",
-          "imageUrl": null
         }
       ]
     },
@@ -2902,16 +2892,6 @@
           "wordCount": null,
           "title": "Fixing NHS dentistry",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/04/the-safety-gap-safety-and-accessibility-of-medicines-and-medical-devices-for-people-with-sensory-imp.html",
-          "author": null,
-          "description": "Patient Safety Commissioner - This report presents the results of a short-term study to explore the challenges experienced by patients with sensory impairment in relation to their safe and effective access to and use of medicines and medical devices. It explores the barriers to patient safety that exist for patients with sensory impairment, particularly those patients who have diabetes and...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/04/the-safety-gap-safety-and-accessibility-of-medicines-and-medical-devices-for-people-with-sensory-imp.html",
-          "publishedOn": "2025-04-04T11:17:58.000Z",
-          "wordCount": null,
-          "title": "The safety gap: safety and accessibility of medicines and medical devices for people with sensory impairment",
-          "imageUrl": null
         }
       ]
     },
@@ -3676,16 +3656,6 @@
           "wordCount": 3629,
           "title": "OneAdvanced launches private LLM for healthcare businesses",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Amanda-Grant-1-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=224297",
-          "author": "Owen Hughes",
-          "description": "UK researchers have launched a project to improve how medical devices respond to changes in the body over time.",
-          "link": "https://www.digitalhealth.net/2025/04/project-launched-to-develop-adaptive-4d-health-tech-devices/",
-          "publishedOn": "2025-04-04T12:30:53.000Z",
-          "wordCount": 3644,
-          "title": "Project launched to develop adaptive 4D health tech devices",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/older-woman-medical-device-home-monitoring-virtual-care.jpg"
         }
       ]
     }
