@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-05T09:14:00.095Z</updated>
+    <updated>2025-05-05T10:13:52.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -303,6 +303,16 @@ The post Complicated contraception: Prescribing in women over 40 appeared first 
         <summary type="html"><![CDATA[A research project from the University of Exeter is using AI to personalise stroke care for patients in a bid to reduce future disability.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gloves do not replace hand hygiene – reminder from WHO]]></title>
+        <id>urn:uuid:9a2cfe26-0316-4190-be8c-d2fbb8d0382a</id>
+        <link href="https://www.who.int/news/item/05-05-2025-gloves-do-not-replace-hand-hygiene---reminder-from-who"/>
+        <updated>2025-05-01T11:51:05.000Z</updated>
+        <summary type="html"><![CDATA[On World Hand Hygiene Day, the WHO emphasizes the critical role of hand hygiene in preventing infections, stating that gloves are not a substitute for proper handwashing.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
