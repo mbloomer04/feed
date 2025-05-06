@@ -1797,6 +1797,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
+          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "publishedOn": "2025-05-06T12:56:01.000Z",
+          "wordCount": 1239,
+          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/primary-care-utilisation-and-modernisation-fund-2025-to-2026",
           "author": null,
           "description": "A full list of schemes included in the Primary Care Utilisation and Modernisation Fund.",
@@ -2373,6 +2383,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/national-service-specification-urgent-unscheduled-and-non-urgent-unscheduled-dental-care.html",
+          "author": null,
+          "description": "NHS England - This service specification outlines the requirements and evidence-based protocols for the delivery of urgent and non-urgent unscheduled dental care in England. It will support the local commissioning of unscheduled dental care services, including those to support the government’s manifesto commitment to deliver 700,000 additional urgent dental care appointments in 2025/26. Specification",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/national-service-specification-urgent-unscheduled-and-non-urgent-unscheduled-dental-care.html",
+          "publishedOn": "2025-05-06T13:18:49.000Z",
+          "wordCount": null,
+          "title": "National service specification: urgent unscheduled and non-urgent unscheduled dental care",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/clinical-guidance-unscheduled-urgent-and-non-urgent-dental-care.html",
+          "author": null,
+          "description": "NHS England - This clinical guidance supports the effective delivery of unscheduled dental care services in England, both during and outside normal working hours. It aims to support equitable access to timely, safe and effective care that is tailored to individual’s needs. It covers both in-person treatment and remote advice during initial triage. Guidance More detail",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/clinical-guidance-unscheduled-urgent-and-non-urgent-dental-care.html",
+          "publishedOn": "2025-05-06T13:13:02.000Z",
+          "wordCount": null,
+          "title": "Clinical guidance: unscheduled urgent and non-urgent dental care",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/adult-social-care-reform-the-cost-of-inaction-.html",
           "author": null,
@@ -3077,6 +3107,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227011",
+          "author": "Owen Hughes",
+          "description": "The Digital Poverty Alliance (DPA) has launched an inquiry into digital inclusion in the healthcare sector.",
+          "link": "https://www.digitalhealth.net/2025/05/charity-to-investigate-digital-access-gaps-in-nhs-care/",
+          "publishedOn": "2025-05-06T12:30:37.000Z",
+          "wordCount": 3662,
+          "title": "Charity to investigate digital access gaps in NHS care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Virtual-ward.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226869",
           "author": "Owen Hughes",
