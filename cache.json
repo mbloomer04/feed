@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161507",
+          "author": "Eliza Parr",
+          "description": "Over 1,000 GP surgeries across England will now receive premises funding from the Government for ‘quick fix’ upgrades this year, instead of 200 as initially announced. The Department of Health and Social Care (DHSC) announced today that a capital fund of £102m – first announced in the Budget last year – will ‘create additional space’\nThe post Government decides to stretch premises upgrades fund across 1,000 GP practices appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/premises/government-decides-to-stretch-premises-upgrades-fund-across-1000-practices/",
+          "publishedOn": "2025-05-06T11:23:46.000Z",
+          "wordCount": 2528,
+          "title": "Government decides to stretch premises upgrades fund across 1,000 GP practices",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/BMA-calls-for-9.2bn-GP-premises-upgrade-in-spring-budget.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161281",
+          "author": "Sofia Lind",
+          "description": "There are two-thirds more people in England with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) than previously thought, researchers have reported. A revised estimate predicts there are around 404,000 people affected by ME/CFS – 62% higher than the previously accepted figure of 250,000. The team at the University of Edinburgh used NHS data from more than 62\nThe post Researchers find many more ME/CFS patients in England than previously reported appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/neurology/researchers-find-many-more-me-cfs-patients-in-england-than-previously-reported/",
+          "publishedOn": "2025-05-06T11:13:54.000Z",
+          "wordCount": 2141,
+          "title": "Researchers find many more ME/CFS patients in England than previously reported",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/05/fatigue-ME-CFE-fibromyalgia-womenshealth.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161465",
           "author": "Eliza Parr",
           "description": "Former Liberal Democrats leader Tim Farron has criticised his ICB’s decision to cut a minor injury service following a review of all local enhanced services.  Pulse reported this week that Lancashire and South Cumrbia (LSC) ICB’s LES review had resulted in a £14m boost to funding across the area, which local GP leaders celebrated as\nThe post Former Lib Dem leader calls out ICB decision to cut minor injury LES appeared first on Pulse Today.",
@@ -2354,6 +2374,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/adult-social-care-reform-the-cost-of-inaction-.html",
+          "author": null,
+          "description": "Health and Social Care Committee - This report sets out the high cost of the continuing failure to tackle the crisis in adult social care. Time and again, governments have stepped back from reform when faced with the cost. Too much emphasis is put on the cost of change and not enough consideration is given to the human and financial...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/adult-social-care-reform-the-cost-of-inaction-.html",
+          "publishedOn": "2025-05-06T12:23:20.000Z",
+          "wordCount": null,
+          "title": "Adult social care reform: the cost of inaction",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/unlocking-the-power-of-proactive-and-preventative-care-services-.html",
           "author": null,
           "description": "TEC Services Association (TSA) - A new national commission – led by the Association of Directors of Adult Social Services (ADASS) and the TSA – is calling for greater support for councils to invest in proactive and preventative digital care services. After engaging more than 50 social care leaders from local authorities across the UK, the commission found that a...",
@@ -2900,6 +2930,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:37e9ce6d-19ff-45b4-afa3-566e7f12fc75",
+          "author": null,
+          "description": "A global report published by the World Health Organization (WHO) highlights that the underlying causes of ill health often stem from factors beyond the health sector, such as lack of quality housing, education and job opportunities.",
+          "link": "https://www.who.int/news/item/06-05-2025-health-inequities-are-shortening-lives-by-decades",
+          "publishedOn": "2025-05-05T16:01:08.000Z",
+          "wordCount": 2868,
+          "title": "Health inequities are shortening lives by decades",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/cover-images/decorative-images/favelas-in-rio-de-janeiro.tmb-1200v.jpg?sfvrsn=c00dde1d_1"
+        },
         {
           "id": "urn:uuid:7fcc8ff1-5beb-4a59-8fd5-91bb60cbd538",
           "author": null,
