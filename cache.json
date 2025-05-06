@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "43d4fbfc-47b6-422c-80c8-311a0c9171fa",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two vulnerabilities could allow an attacker to corrupt the memory of the application or execute arbitrary code\n Two vulnerabilities could allow an attacker to corrupt the memory of the application or execute arbitrary code\n Updated: 06 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4650",
+          "publishedOn": "2025-05-06T13:45:00.000Z",
+          "wordCount": null,
+          "title": "CC-4650 - MicroDicom Releases DICOM Viewer Software Update",
+          "imageUrl": null
+        },
+        {
           "id": "9f592afc-2ed0-4e22-b10b-3151e5a39d85",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-31324 could allow unauthenticated file uploads, potentially leading to RCE\n CVE-2025-31324 could allow unauthenticated file uploads, potentially leading to RCE\n Updated: 28 Apr 2025",
@@ -92,6 +102,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161492",
+          "author": "Maya Dhillon",
+          "description": "Dr David Turner lambasts an article lauding A&G as the way to keep people out of hospital, arguing that increased investment in general practice would actually do the trick Come on, own up. Who are all these GPs admitting patients to hospital with earache and IBS? Because, according to BBC News, a ‘new’ scheme called\nThe post A&G is not the way to keep ‘millions out of hospital’ appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/david-turner/ag-is-not-the-way-to-keep-millions-out-of-hospital/",
+          "publishedOn": "2025-05-06T13:45:15.000Z",
+          "wordCount": 1553,
+          "title": "A&G is not the way to keep ‘millions out of hospital’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=161507",
           "author": "Eliza Parr",
