@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-06T08:18:08.438Z</updated>
+    <updated>2025-05-06T09:13:38.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Patients to access over 8.3 million new appointments this year, helping deliver the government’s Plan for Change]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-driven heart scans speed up diagnosis and save millions]]></title>
+        <id>https://www.digitalhealth.net/?p=227345</id>
+        <link href="https://www.digitalhealth.net/2025/05/ai-driven-heart-scans-speed-up-diagnosis-and-save-millions/"/>
+        <updated>2025-05-06T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[AI-driven heart scans which cut the need for invasive tests have saved millions of pounds for the NHS, according to a new analysis.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
         </author>
     </entry>
     <entry>
