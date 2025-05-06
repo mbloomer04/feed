@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-05T23:11:35.827Z</updated>
+    <updated>2025-05-06T01:00:41.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Futuristic 3D heart scans on NHS speed up diagnosis and save millions]]></title>
+        <id>https://www.england.nhs.uk/?p=265947</id>
+        <link href="https://www.england.nhs.uk/2025/05/futuristic-3d-heart-scans-speed-up-diagnosis-and-save-millions/"/>
+        <updated>2025-05-05T23:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Revolutionary AI-driven 3D heart scans cut the need for invasive tests and have already saved millions of pounds, according to new analysis. Now rolled out across 56 NHS hospitals in England, the clever tech enables doctors to diagnose and treat patients with suspected heart disease much faster by turning a CT scan of their heart […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHSC announces launch of FDP tool to improve cancer diagnosis]]></title>
         <id>https://www.digitalhealth.net/?p=227315</id>
