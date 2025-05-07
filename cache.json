@@ -1080,6 +1080,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1916745",
+          "author": null,
+          "description": "Unspent additional roles reimbursement scheme (ARRS) funding should be ringfenced for general practice after confirmation that the money will no longer be clawed back by the Treasury, leading GPs have said.",
+          "link": "https://www.gponline.com/keep-arrs-underspends-general-practice-treasury-clawback-ends-say-gps/article/1916745",
+          "publishedOn": "2025-05-06T10:26:07.000Z",
+          "wordCount": 932,
+          "title": "Keep ARRS underspends in general practice as Treasury clawback ends, say GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Zoe_Norris_BMA_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1916733",
           "author": null,
           "description": "A £102m fund for GP premises upgrades unveiled last October by the government will be split across 'over 1,000 surgeries' - spreading a sum the BMA says falls far short of what is needed far thinner than originally planned, the government has said.",
@@ -1588,16 +1598,6 @@
           "wordCount": 767,
           "title": "ARRS jobs 'good news' - but GP unemployment needs a long-term fix",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_66.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1913305",
-          "author": null,
-          "description": "Three in four GPs have kept working despite struggling with mental health because of factors including staff shortages, guilt about heaping pressure on colleagues and a sense of duty to patients, a poll shows.",
-          "link": "https://www.gponline.com/three-quarters-gps-stayed-work-despite-struggling-mental-health/article/1913305",
-          "publishedOn": "2025-04-07T23:01:00.000Z",
-          "wordCount": 927,
-          "title": "Three quarters of GPs have stayed in work despite struggling with mental health",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP2_GettyImages-SolStock_RF_1.jpg"
         }
       ]
     },
@@ -2305,26 +2305,6 @@
           "wordCount": 1107,
           "title": "Guidance: Medical certificate of cause of death (MCCD): guidance for medical practitioners",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/more-than-100000-baby-loss-certificates-have-now-been-issued",
-          "author": null,
-          "description": "More than 100,000 baby loss certificates have now been issued to parents who have lost a pregnancy, allowing them to formally recognise their loss.",
-          "link": "https://www.gov.uk/government/news/more-than-100000-baby-loss-certificates-have-now-been-issued",
-          "publishedOn": "2025-04-07T23:01:09.000Z",
-          "wordCount": 2961,
-          "title": "More than 100,000 Baby Loss Certificates have now been issued",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/over-1500-extra-gps-recruited-to-fix-front-door-of-the-nhs",
-          "author": null,
-          "description": "New figures show an extra 1,503 GPs have been recruited since 1 October thanks to government action.",
-          "link": "https://www.gov.uk/government/news/over-1500-extra-gps-recruited-to-fix-front-door-of-the-nhs",
-          "publishedOn": "2025-04-07T23:01:09.000Z",
-          "wordCount": 2538,
-          "title": "Over 1,500 extra GPs recruited to fix front door of the NHS",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },

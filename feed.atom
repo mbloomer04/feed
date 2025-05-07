@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-07T10:13:57.410Z</updated>
+    <updated>2025-05-07T11:11:10.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -196,6 +196,16 @@ The post Researchers find many more ME/CFS patients in England than previously r
         <summary type="html"><![CDATA[Our coffee briefing covers an AI agent for cataracts patients at Maidstone and Tunbridge Wells, plus a new milestone for Patients Know Best.]]></summary>
         <author>
             <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep ARRS underspends in general practice as Treasury clawback ends, say GPs]]></title>
+        <id>https://www.gponline.com/article/1916745</id>
+        <link href="https://www.gponline.com/keep-arrs-underspends-general-practice-treasury-clawback-ends-say-gps/article/1916745"/>
+        <updated>2025-05-06T10:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Unspent additional roles reimbursement scheme (ARRS) funding should be ringfenced for general practice after confirmation that the money will no longer be clawed back by the Treasury, leading GPs have said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -3698,36 +3708,6 @@ The post Three quarters of GPs continue to work despite not feeling mentally wel
         <summary type="html"><![CDATA[The government and the Wellcome Trust are investing up to £600 million to create a new Health Data Research Service.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More than 100,000 Baby Loss Certificates have now been issued]]></title>
-        <id>https://www.gov.uk/government/news/more-than-100000-baby-loss-certificates-have-now-been-issued</id>
-        <link href="https://www.gov.uk/government/news/more-than-100000-baby-loss-certificates-have-now-been-issued"/>
-        <updated>2025-04-07T23:01:09.000Z</updated>
-        <summary type="html"><![CDATA[More than 100,000 baby loss certificates have now been issued to parents who have lost a pregnancy, allowing them to formally recognise their loss.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 1,500 extra GPs recruited to fix front door of the NHS]]></title>
-        <id>https://www.gov.uk/government/news/over-1500-extra-gps-recruited-to-fix-front-door-of-the-nhs</id>
-        <link href="https://www.gov.uk/government/news/over-1500-extra-gps-recruited-to-fix-front-door-of-the-nhs"/>
-        <updated>2025-04-07T23:01:09.000Z</updated>
-        <summary type="html"><![CDATA[New figures show an extra 1,503 GPs have been recruited since 1 October thanks to government action.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three quarters of GPs have stayed in work despite struggling with mental health]]></title>
-        <id>https://www.gponline.com/article/1913305</id>
-        <link href="https://www.gponline.com/three-quarters-gps-stayed-work-despite-struggling-mental-health/article/1913305"/>
-        <updated>2025-04-07T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Three in four GPs have kept working despite struggling with mental health because of factors including staff shortages, guilt about heaping pressure on colleagues and a sense of duty to patients, a poll shows.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
