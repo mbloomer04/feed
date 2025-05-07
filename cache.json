@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0b40ea3a-a508-4348-9765-9e75e16cb4bb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution\n Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution\n Updated: 07 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4651",
+          "publishedOn": "2025-05-07T09:57:00.000Z",
+          "wordCount": null,
+          "title": "CC-4651 - Proof-of-Concept Released for SysAid On-Premise",
+          "imageUrl": null
+        },
+        {
           "id": "43d4fbfc-47b6-422c-80c8-311a0c9171fa",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Two vulnerabilities could allow an attacker to corrupt the memory of the application or execute arbitrary code\n Two vulnerabilities could allow an attacker to corrupt the memory of the application or execute arbitrary code\n Updated: 06 May 2025",
@@ -102,6 +112,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161540",
+          "author": "Eliza Parr",
+          "description": "The requirement for GP practices to keep online consultation tools open all day will likely cause a ‘temporary spike’ rather than a ‘sustained increase’ in demand, the BMA has suggested. As part of the 2025/26 GP contract, practices will be obliged from 1 October to keep their e-consult software open to patients ‘for the duration\nThe post All-day online consultations will only cause ‘temporary’ GP demand spike, says BMA appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/2025-26-contract/all-day-online-consultations-will-only-cause-temporary-gp-demand-spike-says-bma/",
+          "publishedOn": "2025-05-07T09:43:00.000Z",
+          "wordCount": 2225,
+          "title": "All-day online consultations will only cause ‘temporary’ GP demand spike, says BMA",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/06/social-media-mobile-phone-online-records.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=161531",
           "author": "Eliza Parr",
@@ -2997,6 +3017,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227499",
+          "author": "Jordan Sollof",
+          "description": "Professor Andy Hardy, chief executive of University Hospitals Coventry and Warwickshire NHS Trust, will speak at Summer Schools 2025.",
+          "link": "https://www.digitalhealth.net/2025/05/nhs-trust-chief-andy-hardy-confirmed-for-summer-schools-2025/",
+          "publishedOn": "2025-05-07T10:00:17.000Z",
+          "wordCount": 3713,
+          "title": "NHS trust chief Andy Hardy confirmed for Summer Schools 2025",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Andy-Hardy.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=227157",
           "author": "Tammy Lovell",

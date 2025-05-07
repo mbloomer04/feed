@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-07T09:13:58.388Z</updated>
+    <updated>2025-05-07T10:13:57.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS trust chief Andy Hardy confirmed for Summer Schools 2025]]></title>
+        <id>https://www.digitalhealth.net/?p=227499</id>
+        <link href="https://www.digitalhealth.net/2025/05/nhs-trust-chief-andy-hardy-confirmed-for-summer-schools-2025/"/>
+        <updated>2025-05-07T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Professor Andy Hardy, chief executive of University Hospitals Coventry and Warwickshire NHS Trust, will speak at Summer Schools 2025.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4651 - Proof-of-Concept Released for SysAid On-Premise]]></title>
+        <id>0b40ea3a-a508-4348-9765-9e75e16cb4bb</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4651"/>
+        <updated>2025-05-07T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution
+ Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution
+ Updated: 07 May 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All-day online consultations will only cause ‘temporary’ GP demand spike, says BMA]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161540</id>
+        <link href="https://www.pulsetoday.co.uk/news/2025-26-contract/all-day-online-consultations-will-only-cause-temporary-gp-demand-spike-says-bma/"/>
+        <updated>2025-05-07T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The requirement for GP practices to keep online consultation tools open all day will likely cause a ‘temporary spike’ rather than a ‘sustained increase’ in demand, the BMA has suggested. As part of the 2025/26 GP contract, practices will be obliged from 1 October to keep their e-consult software open to patients ‘for the duration
+The post All-day online consultations will only cause ‘temporary’ GP demand spike, says BMA appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Councils ‘struggling to make case for preventative digital care’]]></title>
         <id>https://www.digitalhealth.net/?p=227157</id>
