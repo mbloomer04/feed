@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-08T09:13:24.336Z</updated>
+    <updated>2025-05-08T10:14:11.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers pilot AI model to predict future health outcomes]]></title>
+        <id>https://www.digitalhealth.net/?p=227645</id>
+        <link href="https://www.digitalhealth.net/2025/05/researchers-pilot-ai-model-to-predict-future-health-outcomes/"/>
+        <updated>2025-05-08T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[De-identified NHS data from 57 million people is being used to train an AI model capable of predicting future health outcomes.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitising the NHS and adult social care: what could it cost?]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/05/digitising-the-nhs-and-adult-social-care-what-could-it-cost.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/05/digitising-the-nhs-and-adult-social-care-what-could-it-cost.html"/>
+        <updated>2025-05-08T09:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Health Foundation - A shift from analogue to digital is at the heart of the government’s ambitions for NHS reform in England. The forthcoming NHS 10-year plan and the 2025 Spending Review, as well as the Casey Commission into social care, offer an opportunity to achieve a step-change in digitisation, improving productivity, patient experience and outcomes, and staff experience. This...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS top doctor issues call for Spring COVID-19 vaccinations]]></title>
+        <id>https://www.england.nhs.uk/?p=266195</id>
+        <link href="https://www.england.nhs.uk/2025/05/nhs-top-doctor-issues-call-for-spring-covid-19-vaccinations/"/>
+        <updated>2025-05-08T09:13:13.000Z</updated>
+        <summary type="html"><![CDATA[England’s top doctor has urged those eligible for a Spring COVID-19 vaccine to come forward, as figures published today show almost four in ten eligible people have received their jabs (38.8%). The weekly vaccination data, also published today, shows NHS teams have now delivered over 3 million (3,049,506) jabs since the rollout kicked off on […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delivering our Plan for Change for workers]]></title>
         <id>https://www.gov.uk/government/speeches/delivering-our-plan-for-change-for-workers</id>
