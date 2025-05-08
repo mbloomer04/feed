@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-08T10:14:11.654Z</updated>
+    <updated>2025-05-08T11:10:52.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=226917</id>
+        <link href="https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-67/"/>
+        <updated>2025-05-08T10:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Our latest coffee briefing covers to go-live of the WIVS across GP practices in Wales and PocDoc partnering with Superdrug.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers pilot AI model to predict future health outcomes]]></title>
         <id>https://www.digitalhealth.net/?p=227645</id>
