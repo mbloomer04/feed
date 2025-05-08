@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7042212e-fd56-4095-8785-febd2474c022",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Bundled publication contains 20 security advisories, including one critical vulnerability\n Bundled publication contains 20 security advisories, including one critical vulnerability\n Updated: 08 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4652",
+          "publishedOn": "2025-05-08T12:56:00.000Z",
+          "wordCount": null,
+          "title": "CC-4652 - Cisco Releases May 2025 IOS XE Software Security Advisory Bundled Publication",
+          "imageUrl": null
+        },
+        {
           "id": "0b40ea3a-a508-4348-9765-9e75e16cb4bb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution\n Four vulnerabilities could allow an attacker to perform unauthenticated remote command execution\n Updated: 07 May 2025",
@@ -1090,6 +1100,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1917199",
+          "author": null,
+          "description": "General practice across the UK is now 'on the verge of total collapse', according to a BMA report that demands decisive action from policymakers to value and invest in the profession before it disappears.",
+          "link": "https://www.gponline.com/bma-calls-urgent-investment-avoid-total-collapse-uk-general-practice/article/1917199",
+          "publishedOn": "2025-05-08T11:24:40.000Z",
+          "wordCount": 950,
+          "title": "BMA calls for urgent investment to avoid 'total collapse' of UK general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_16.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1917085",
           "author": null,
           "description": "The BMA and RCGP have warned GP practices of risks around the use of AI technology, at a time when new tools are being rolled out rapidly and regulation is evolving to catch up.",
@@ -1806,6 +1826,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/viral-haemorrhagic-fever-algorithm-and-guidance-on-management-of-patients",
+          "author": null,
+          "description": "Specialist guidance on the management (including infection control) of patients with viral haemorrhagic fever (VHF).",
+          "link": "https://www.gov.uk/government/publications/viral-haemorrhagic-fever-algorithm-and-guidance-on-management-of-patients",
+          "publishedOn": "2025-05-08T12:50:14.000Z",
+          "wordCount": 1558,
+          "title": "Guidance: Viral haemorrhagic fever: ACDP algorithm and guidance on management of patients",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/speeches/delivering-our-plan-for-change-for-workers",
           "author": null,
@@ -3017,6 +3047,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227773",
+          "author": "Jordan Sollof",
+          "description": "All health and social care trusts in Northern Ireland have now gone live with the encompass patient record system.",
+          "link": "https://www.digitalhealth.net/2025/05/encompass-patient-record-system-now-live-in-all-ni-trusts/",
+          "publishedOn": "2025-05-08T12:38:57.000Z",
+          "wordCount": 3787,
+          "title": "Patient record system goes live across Northern Ireland",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/My-Care-portal-Northern-Ireland.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226917",
           "author": "Owen Hughes",
