@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-07T23:12:11.691Z</updated>
+    <updated>2025-05-08T01:01:18.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VE Day boost for veterans’ healthcare]]></title>
+        <id>https://www.gov.uk/government/news/ve-day-boost-for-veterans-healthcare</id>
+        <link href="https://www.gov.uk/government/news/ve-day-boost-for-veterans-healthcare"/>
+        <updated>2025-05-07T23:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Government announces £1.8 million investment to transform NHS care for veterans, serving personnel and their families.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All GP practices to be trained in supporting veterans, Government announces]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161555</id>
@@ -3711,26 +3721,6 @@ The post What is the future of the sick note for GPs? appeared first on Pulse To
 The post Physician associate review chair to speak at Pulse LIVE Birmingham appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital tools introduced to help improve elective recovery in Kent]]></title>
-        <id>https://www.digitalhealth.net/?p=224613</id>
-        <link href="https://www.digitalhealth.net/2025/04/digital-tools-introduced-in-kent-to-improve-elective-recovery/"/>
-        <updated>2025-04-08T12:30:25.000Z</updated>
-        <summary type="html"><![CDATA[A patient optimisation eForm and a hospice data feed in Kent is now live to help improve prehabilitation and elective recovery for patients.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Medical certificate of cause of death (MCCD): guidance for medical practitioners]]></title>
-        <id>https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners</id>
-        <link href="https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners"/>
-        <updated>2025-04-08T11:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Guidance for medical practitioners completing a medical certificate of cause of death in England and Wales.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>

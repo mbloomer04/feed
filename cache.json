@@ -1827,6 +1827,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/ve-day-boost-for-veterans-healthcare",
+          "author": null,
+          "description": "Government announces £1.8 million investment to transform NHS care for veterans, serving personnel and their families.",
+          "link": "https://www.gov.uk/government/news/ve-day-boost-for-veterans-healthcare",
+          "publishedOn": "2025-05-07T23:15:03.000Z",
+          "wordCount": 2368,
+          "title": "VE Day boost for veterans’ healthcare",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-dhsc",
           "author": null,
           "description": "Information on the Department of Health and Social Care's (DHSC) approach to the use of administrative sources for statistical purposes.",
@@ -2344,16 +2354,6 @@
           "publishedOn": "2025-04-09T08:01:35.000Z",
           "wordCount": 833,
           "title": "Correspondence: Government response to the separate pay spine for nursing call for evidence",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners",
-          "author": null,
-          "description": "Guidance for medical practitioners completing a medical certificate of cause of death in England and Wales.",
-          "link": "https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners",
-          "publishedOn": "2025-04-08T11:25:46.000Z",
-          "wordCount": 1107,
-          "title": "Guidance: Medical certificate of cause of death (MCCD): guidance for medical practitioners",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -3666,16 +3666,6 @@
           "wordCount": 3779,
           "title": "Wes Streeting pledges to retain digital workforce amid NHS reforms",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Wes-Streeting.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=224613",
-          "author": "Jordan Sollof",
-          "description": "A patient optimisation eForm and a hospice data feed in Kent is now live to help improve prehabilitation and elective recovery for patients.",
-          "link": "https://www.digitalhealth.net/2025/04/digital-tools-introduced-in-kent-to-improve-elective-recovery/",
-          "publishedOn": "2025-04-08T12:30:25.000Z",
-          "wordCount": 3671,
-          "title": "Digital tools introduced to help improve elective recovery in Kent",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/Doctor-and-patient.jpg"
         }
       ]
     }
