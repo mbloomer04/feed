@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-09T07:12:41.301Z</updated>
+    <updated>2025-05-09T08:16:53.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=227443</id>
+        <link href="https://www.digitalhealth.net/2025/05/movers-and-shakers-news-roundup-59/"/>
+        <updated>2025-05-09T07:30:09.000Z</updated>
+        <summary type="html"><![CDATA[This Movers and Shakes roundup includes the appointment of a permanent secretary at the Department of Health and Social Care (DHSC).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Professor Dame Helen Stokes Lampard on her move to New Zealand]]></title>
+        <id>https://www.gponline.com/article/1917211</id>
+        <link href="https://www.gponline.com/podcast-professor-dame-helen-stokes-lampard-move-new-zealand/article/1917211"/>
+        <updated>2025-05-09T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Dame Helen Stokes Lampard talks about her new role as chief medical officer in New Zealand, how the health system differs from the UK, and the challenges of moving to a new country, along with offering advice to aspiring healthcare leaders.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA reveals ‘heartbreaking’ stories of GP unemployment]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161595</id>
