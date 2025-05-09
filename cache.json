@@ -1110,6 +1110,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1917380",
+          "author": null,
+          "description": "The GP jobs crisis has left newly-qualified GPs and registrars facing a ‘terrifying’ situation, with some considering claiming benefits, the BMA has warned.",
+          "link": "https://www.gponline.com/newly-qualified-gps-unable-find-work-consider-claiming-unemployment-benefits-bma-says/article/1917380",
+          "publishedOn": "2025-05-09T10:42:55.000Z",
+          "wordCount": 913,
+          "title": "Newly-qualified GPs unable to find work consider claiming unemployment benefits, BMA says",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/9F1A2497.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1917362",
           "author": null,
           "description": "Midlands GP and health inequalities expert Professor Bola Owolabi has been appointed CQC chief inspector of primary care and community services.",
@@ -1877,6 +1887,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/calls-for-evidence/kingdon-review-of-childrens-hearing-services",
+          "author": null,
+          "description": "Call for evidence seeking views from individuals, professionals and organisations about children’s hearing services (paediatric audiology) in England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/kingdon-review-of-childrens-hearing-services",
+          "publishedOn": "2025-05-09T14:45:08.000Z",
+          "wordCount": 1162,
+          "title": "Kingdon review of children's hearing services",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/dhsc-appoints-business-leaders-to-manage-strategic-suppliers",
           "author": null,
           "description": "Four experienced executive business leaders have been appointed to strengthen partnerships with strategic suppliers to health.",
@@ -2373,6 +2393,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/can-the-ten-year-health-plan-deliver-on-its-promise.html",
+          "author": null,
+          "description": "NHS Confederation - For over a decade, levels of NS funding and staff have struggled to keep up with demand. Delivering effective care looks very different when an increasing number of us are living with multiple complex conditions. These challenges have contributed to poor operational performance and eroded public trust. This long read examines whether the ten-year health plan can...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/can-the-ten-year-health-plan-deliver-on-its-promise.html",
+          "publishedOn": "2025-05-09T14:47:17.000Z",
+          "wordCount": null,
+          "title": "Can the ten-year health plan deliver on its promise?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/diverging-paths-how-other-countries-have-designed-and-implemented-assisted-dying.html",
+          "author": null,
+          "description": "Nuffield Trust - As the assisted dying Bill returns to the House of Commons next week, this analysis offers evidence from a wide range of contexts to further inform the debate. What can the UK learn from other countries that have legalised assisted dying? This long read explores assisted dying policies across 15 jurisdictions in 9 countries, highlighting practical and...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/diverging-paths-how-other-countries-have-designed-and-implemented-assisted-dying.html",
+          "publishedOn": "2025-05-09T14:13:58.000Z",
+          "wordCount": null,
+          "title": "Diverging paths: how other countries have designed and implemented assisted dying",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/survey-of-nhs-trust-leaders-on-the-financial-reset.html",
           "author": null,
