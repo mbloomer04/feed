@@ -1797,6 +1797,16 @@
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         },
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2025-05-08T13:25:13.000Z",
+          "wordCount": 10471,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/viral-haemorrhagic-fever-algorithm-and-guidance-on-management-of-patients",
           "author": null,
           "description": "Specialist guidance on the management (including infection control) of patients with viral haemorrhagic fever (VHF).",
@@ -2722,16 +2732,6 @@
           "wordCount": null,
           "title": "Turning the tide: progress and actions to support targets of sexual misconduct in surgery",
           "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/04/draft-nhs-standard-contract-202526-a-further-consultation-proposed-changes-to-the-nhs-standard-contr.html",
-          "author": null,
-          "description": "NHS England - This consultation paper describes the main, material changes NHS England are proposing in the contracts. The closing date for comments is 28 April 2025. Consultation paper NHS England - publications",
-          "link": "https://kingsfund.blogs.com/health_management/2025/04/draft-nhs-standard-contract-202526-a-further-consultation-proposed-changes-to-the-nhs-standard-contr.html",
-          "publishedOn": "2025-04-11T10:03:02.000Z",
-          "wordCount": null,
-          "title": "Draft NHS Standard Contract 2025/26: a further consultation – proposed changes to the NHS Standard Contract for 2025/26",
-          "imageUrl": null
         }
       ]
     },
@@ -3486,16 +3486,6 @@
           "wordCount": 3682,
           "title": "Peninsula Pathology Network implements cloud environment",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/Cloud-technology.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=225005",
-          "author": "Tammy Lovell",
-          "description": "The Royal Borough of Greenwich has launched a digital health and care technology service to help residents stay safe and independent at home.",
-          "link": "https://www.digitalhealth.net/2025/04/royal-greenwich-introduces-care-technology-service-for-residents/",
-          "publishedOn": "2025-04-11T10:00:28.000Z",
-          "wordCount": 3789,
-          "title": "Royal Greenwich introduces care technology service for residents",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/12/Person-using-tablet.jpg"
         }
       ]
     }
