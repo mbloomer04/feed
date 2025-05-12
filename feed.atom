@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-12T07:13:25.198Z</updated>
+    <updated>2025-05-12T08:18:09.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Wales app relaunched with new functionality to be added]]></title>
+        <id>https://www.digitalhealth.net/?p=227879</id>
+        <link href="https://www.digitalhealth.net/2025/05/nhs-wales-app-relaunched-with-new-functionality-to-be-added/"/>
+        <updated>2025-05-12T07:30:57.000Z</updated>
+        <summary type="html"><![CDATA[The NHS Wales app has been relaunched, with the Welsh government urging patients to download it to access a range of services digitally.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake nurse crackdown to boost public safety]]></title>
         <id>https://www.gov.uk/government/news/fake-nurse-crackdown-to-boost-public-safety</id>
