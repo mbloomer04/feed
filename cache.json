@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "de73974d-61af-4038-8448-9f5bcf5b018d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Mitel releases security advisory addressing two vulnerabilities in Mitel SIP Phones\n Mitel releases security advisory addressing two vulnerabilities in Mitel SIP Phones\n Updated: 12 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4653",
+          "publishedOn": "2025-05-12T12:57:00.000Z",
+          "wordCount": null,
+          "title": "CC-4653 - Mitel Releases Security Advisory for Mitel SIP Phones",
+          "imageUrl": null
+        },
+        {
           "id": "7042212e-fd56-4095-8785-febd2474c022",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Bundled publication contains 20 security advisories, including one critical vulnerability\n Bundled publication contains 20 security advisories, including one critical vulnerability\n Updated: 08 May 2025",
@@ -1020,6 +1030,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1917586",
+          "author": null,
+          "description": "Capita has won a three-year extension to its contract for running Primary Care Support England (PCSE) services, the company has announced.",
+          "link": "https://www.gponline.com/capita-wins-three-year-extension-deliver-primary-care-support-services/article/1917586",
+          "publishedOn": "2025-05-12T11:24:19.000Z",
+          "wordCount": 897,
+          "title": "Capita wins three-year extension to deliver primary care support services",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-934679414_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1917523",
           "author": null,
           "description": "GPs have called for increased support for international medical graduates (IMGs) GP registrars, and warned the BMA against introducing policies that could put IMG doctors at a disadvantage when applying for jobs and training posts.",
@@ -1736,6 +1756,86 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-september-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-september-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, September 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-november-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-november-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, November 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, July 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-august-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-august-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, August 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-january-2025",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-january-2025",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, January 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-december-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-december-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, December 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-october-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-october-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, October 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-june-2024",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-june-2024",
+          "publishedOn": "2025-05-12T13:00:02.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, June 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/fake-nurse-crackdown-to-boost-public-safety",
           "author": null,
@@ -2877,6 +2977,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227125",
+          "author": "Jordan Sollof",
+          "description": "Inhealthcare has partnered with Leeds Children’s Hospital to launch virtual wards for paediatric oncology patients.",
+          "link": "https://www.digitalhealth.net/2025/05/virtual-wards-for-children-with-cancer-launch-in-leeds/",
+          "publishedOn": "2025-05-12T12:30:29.000Z",
+          "wordCount": 3665,
+          "title": "Virtual wards for children with cancer launch in Leeds",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Lily-Soanes-Inhealthcare-Leeds-virtual-ward.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226835",
           "author": "Tammy Lovell",
