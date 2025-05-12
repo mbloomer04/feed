@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-12T09:14:39.766Z</updated>
+    <updated>2025-05-12T10:14:43.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C2-Ai and Netcall announce data partnership]]></title>
+        <id>https://www.digitalhealth.net/?p=226835</id>
+        <link href="https://www.digitalhealth.net/2025/05/c2-ai-and-netcall-announce-data-partnership/"/>
+        <updated>2025-05-12T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA[A tech partnership could help NHS, local government, and housing organisations collaborate to understand the needs of people in their care.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs warn BMA against supporting policies that prioritise UK doctors over IMGs]]></title>
+        <id>https://www.gponline.com/article/1917523</id>
+        <link href="https://www.gponline.com/gps-warn-bma-against-supporting-policies-prioritise-uk-doctors-imgs/article/1917523"/>
+        <updated>2025-05-12T08:33:20.000Z</updated>
+        <summary type="html"><![CDATA[GPs have called for increased support for international medical graduates (IMGs) GP registrars, and warned the BMA against introducing policies that could put IMG doctors at a disadvantage when applying for jobs and training posts.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS Wales app relaunched with new functionality to be added]]></title>
         <id>https://www.digitalhealth.net/?p=227879</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[The NHS Wales app has been relaunched, with the Welsh government urging patients to download it to access a range of services digitally.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In charts: How the loss of GP partners is accelerating]]></title>
+        <id>https://www.gponline.com/article/1917309</id>
+        <link href="https://www.gponline.com/charts-loss-gp-partners-accelerating/article/1917309"/>
+        <updated>2025-05-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[General practice in England lost more than 500 full-time equivalent GP partners in the 2024/25 financial year - the largest decline in partner numbers since the start of the decade, analysis by GPonline reveals.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

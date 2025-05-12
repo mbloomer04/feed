@@ -1000,6 +1000,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1917523",
+          "author": null,
+          "description": "GPs have called for increased support for international medical graduates (IMGs) GP registrars, and warned the BMA against introducing policies that could put IMG doctors at a disadvantage when applying for jobs and training posts.",
+          "link": "https://www.gponline.com/gps-warn-bma-against-supporting-policies-prioritise-uk-doctors-imgs/article/1917523",
+          "publishedOn": "2025-05-12T08:33:20.000Z",
+          "wordCount": 934,
+          "title": "GPs warn BMA against supporting policies that prioritise UK doctors over IMGs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1173059455_crop.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1917309",
+          "author": null,
+          "description": "General practice in England lost more than 500 full-time equivalent GP partners in the 2024/25 financial year - the largest decline in partner numbers since the start of the decade, analysis by GPonline reveals.",
+          "link": "https://www.gponline.com/charts-loss-gp-partners-accelerating/article/1917309",
+          "publishedOn": "2025-05-12T07:00:00.000Z",
+          "wordCount": 923,
+          "title": "In charts: How the loss of GP partners is accelerating",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation1_GettyImages-GrantSquibb_RF_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1917442",
           "author": null,
           "description": "The BMA will set up a working group to define core general practice services to help prevent unfunded work from being dumped on practices after LMCs voted in favour of the move.",
@@ -2817,6 +2837,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=226835",
+          "author": "Tammy Lovell",
+          "description": "A tech partnership could help NHS, local government, and housing organisations collaborate to understand the needs of people in their care.",
+          "link": "https://www.digitalhealth.net/2025/05/c2-ai-and-netcall-announce-data-partnership/",
+          "publishedOn": "2025-05-12T10:00:46.000Z",
+          "wordCount": 3687,
+          "title": "C2-Ai and Netcall announce data partnership",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Dr-Mark-Ratnarajah_UK_MD_C2-Ai-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=227879",
           "author": "Jordan Sollof",
