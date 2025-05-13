@@ -113,6 +113,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161445",
+          "author": "Eliza Parr",
+          "description": "Exclusive A quarter of GPs are ‘strongly supportive’ of the NHS introducing prostate cancer screening, but many highlight issues with current PSA testing, a Pulse survey has found. The survey of over 730 GPs across the UK suggested that overall, 60% of GPs are either fairly or strongly supportive of a central screening programme, while\nThe post Quarter of GPs would strongly support NHS prostate cancer screening appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/renal-medicine-urology-mens-health/quarter-of-gps-would-strongly-support-nhs-prostate-cancer-screening/",
+          "publishedOn": "2025-05-13T10:42:22.000Z",
+          "wordCount": 3013,
+          "title": "Quarter of GPs would strongly support NHS prostate cancer screening",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/10/Five-things-PCNs-should-know-about-Prostate-Cancer-when-delivering-the-DES.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161720",
           "author": "Eliza Parr",
           "description": "Capita will continue to run Primary Care Support England (PCSE) for another three years after agreeing an extension to its contract.  PCSE, which handles back-office functions for GPs such as administration of pensions and transfer of medical records, has been provided by the company Capita since 2015.  Today the provider of business process services announced\nThe post Capita to run GP support services for another three years appeared first on Pulse Today.",
@@ -1060,6 +1070,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1917655",
+          "author": null,
+          "description": "GP practices are being encouraged to promote a video that has been launched to highlight the ‘constant abuse’ receptionists are facing on a daily basis.",
+          "link": "https://www.gponline.com/gp-practices-asked-share-video-aiming-cut-abuse-receptionists/article/1917655",
+          "publishedOn": "2025-05-13T09:50:00.000Z",
+          "wordCount": 912,
+          "title": "GP practices asked to share video aiming to cut abuse of receptionists",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759614516_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1917702",
           "author": null,
           "description": "While the number of GP partners is falling the vast majority of practices are still run by GP partnerships. Dr Huw Miles argues that the evidence suggests the model is evolving and that increased funding and additional training for GPs will be vital to ensure GP partnerships can thrive in the future.",
@@ -1208,6 +1228,16 @@
           "wordCount": 958,
           "title": "Practices will need to set clear rules around online consultations from October, says BMA",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1257664666.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1917068",
+          "author": null,
+          "description": "Exclusive: Locum GPs have been forced to drop their rates by a further 2% in the past four months as the shortage of GP jobs continues to hit pay, a sessional GP organisation has warned.",
+          "link": "https://www.gponline.com/locum-gps-forced-cut-rates-again-due-work-shortage/article/1917068",
+          "publishedOn": "2025-05-07T15:33:08.000Z",
+          "wordCount": 928,
+          "title": "Locum GPs forced to cut rates again due to work shortage",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896426-ezgif.com-optijpeg_2.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1916989",
@@ -1788,16 +1818,6 @@
           "wordCount": 2204,
           "title": "Public twice as likely to check bank balance regularly than for signs of cancer",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=265093",
-          "author": "Tom W",
-          "description": "Patients with advanced skin cancer in England are set to be fast-tracked into trials of a new cancer vaccine, following the expansion of a world-leading NHS programme. The needle-free injection, which is given for up to 2 years, works by boosting the immune system’s response and helping it recognise, attack and ‘remember’ cancer cells, to […]",
-          "link": "https://www.england.nhs.uk/2025/04/skin-cancer-patients-fast-tracked-access-revolutionary-nhs-cancer-vaccine-trial/",
-          "publishedOn": "2025-04-13T23:01:51.000Z",
-          "wordCount": 2328,
-          "title": "Skin cancer patients given fast-tracked access to ‘revolutionary’ cancer vaccine trial on NHS",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1806,6 +1826,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/find-a-telecare-provider",
+          "author": null,
+          "description": "Information on telecare monitoring systems and personal alarms that can help you stay safe and independent at home.",
+          "link": "https://www.gov.uk/guidance/find-a-telecare-provider",
+          "publishedOn": "2025-05-13T10:20:39.000Z",
+          "wordCount": 1269,
+          "title": "Find a telecare provider",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-local-guidance-to-tackle-synthetic-opioid-threat",
           "author": null,
@@ -2413,6 +2443,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/model-icb-blueprint-.html",
+          "author": null,
+          "description": "NHS Providers - NHS England has shared the first version of the Model ICB Blueprint with integrated care board leaders. The document is intended to help ICBs produce plans by the end of May to reduce their running costs by 50%. It sets out an initial vision for ICBs as strategic commissioners, and the role they will play in realising...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/model-icb-blueprint-.html",
+          "publishedOn": "2025-05-13T10:45:37.000Z",
+          "wordCount": null,
+          "title": "Model ICB Blueprint",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/productivity-of-the-english-national-health-service-202223-update.html",
           "author": null,
@@ -3067,6 +3107,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227555",
+          "author": "Owen Hughes",
+          "description": "Today's coffee briefing covers a new round of DSIT fellowships and the first real-time 3D \"digital twin\" of a hospital room in Denmark.",
+          "link": "https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-68/",
+          "publishedOn": "2025-05-13T10:30:26.000Z",
+          "wordCount": 3779,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=228069",
           "author": "Jordan Sollof",
