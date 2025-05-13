@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a6454c79-4963-45d8-92ad-a25c61869542",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates include multiple vulnerabilities that could lead to memory corruption or privilege escalation\n Security updates include multiple vulnerabilities that could lead to memory corruption or privilege escalation\n Updated: 13 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4654",
+          "publishedOn": "2025-05-13T12:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4654 - Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "de73974d-61af-4038-8448-9f5bcf5b018d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Mitel releases security advisory addressing two vulnerabilities in Mitel SIP Phones\n Mitel releases security advisory addressing two vulnerabilities in Mitel SIP Phones\n Updated: 12 May 2025",
@@ -3137,6 +3147,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228003",
+          "author": "Jordan Sollof",
+          "description": "NHS England has launched a market engagement on a new framework for the supply of digital solutions for primary care.",
+          "link": "https://www.digitalhealth.net/2025/05/nhse-seeks-market-engagement-on-digital-primary-care/",
+          "publishedOn": "2025-05-13T12:30:09.000Z",
+          "wordCount": 3650,
+          "title": "NHSE seeks market engagement on digital primary care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/shutterstock_1720780150-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=227555",
           "author": "Owen Hughes",
