@@ -1091,16 +1091,6 @@
           "wordCount": 2603,
           "title": "NHSE issues warning to GPs about transgender children shared care prescribing",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2024/07/puberty-teenagers-camhs-mental-health.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=160946",
-          "author": "Anna Colivicchi",
-          "description": "NHS England said it is providing growing numbers of diagnostic tests, outpatient appointments and operations, which has led to further falls in the waiting list. The latest figures show the backlog is now 7.4 million – 26,000 less than the previous month. Data from February also shows the faster diagnostic cancer standard was met with\nThe post NHS England hails progress on referral waiting times appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cancer/nhs-england-hails-progress-on-referral-waiting-times/",
-          "publishedOn": "2025-04-14T10:39:52.000Z",
-          "wordCount": 2141,
-          "title": "NHS England hails progress on referral waiting times",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/GPs-write-more-cancer-referrals-than-ever-before-NHS-England-said.jpg"
         }
       ]
     },
@@ -1856,6 +1846,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/tens-of-thousands-more-patients-receiving-crucial-scans-quicker",
+          "author": null,
+          "description": "More people were seen faster for scans including endoscopies, ultrasounds, and MRIs",
+          "link": "https://www.gov.uk/government/news/tens-of-thousands-more-patients-receiving-crucial-scans-quicker",
+          "publishedOn": "2025-05-13T23:01:07.000Z",
+          "wordCount": 1891,
+          "title": "Tens of thousands more patients receiving crucial scans quicker",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/how-dhsc-processes-special-category-data",
           "author": null,
