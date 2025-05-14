@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a946aa52-c8e8-4f34-bad6-2033c8a59e46",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The security advisories address two critical vulnerabilities, of which one is reported as exploited\n The security advisories address two critical vulnerabilities, of which one is reported as exploited\n Updated: 14 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4657",
+          "publishedOn": "2025-05-14T14:45:00.000Z",
+          "wordCount": null,
+          "title": "CC-4657 - Fortinet Releases Multiple Security Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "322fdf20-5686-494e-8e88-99133af9c8a4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 72 vulnerabilities, of which five have been reported as being actively exploited.\n Scheduled updates for Microsoft products, including security updates for 72 vulnerabilities, of which five have been reported as being actively exploited.\n Updated: 14 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4656",
+          "publishedOn": "2025-05-14T14:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4656 - Microsoft Releases May 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "81132d0e-ef1a-4370-93b3-d25649fbf871",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Ivanti has addressed two exploited vulnerabilities that, when chained, could lead to unauthenticated remote code execution\n Ivanti has addressed two exploited vulnerabilities that, when chained, could lead to unauthenticated remote code execution\n Updated: 14 May 2025",
@@ -132,6 +152,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161796",
+          "author": "Eliza Parr",
+          "description": "The Government has revealed that £88m of Additional Roles Reimbursement Scheme (ARRS) funding went unspent by PCNs in 2023/24. This equates to around 6% of the total £1.41bn available to PCNs that year, and NHS England does not guarantee that this underspent money stays in general practice. NHS England told Pulse that where underspends occur\nThe post GP networks underspent on ARRS by £88m, new data shows appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/gp-networks-underspent-on-arrs-by-88m-new-data-shows/",
+          "publishedOn": "2025-05-14T14:49:54.000Z",
+          "wordCount": 1920,
+          "title": "GP networks underspent on ARRS by £88m, new data shows",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=161782",
           "author": "Caroline Price",

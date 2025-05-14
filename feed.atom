@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-14T14:13:08.110Z</updated>
+    <updated>2025-05-14T15:13:14.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP networks underspent on ARRS by £88m, new data shows]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161796</id>
+        <link href="https://www.pulsetoday.co.uk/news/breaking-news/gp-networks-underspent-on-arrs-by-88m-new-data-shows/"/>
+        <updated>2025-05-14T14:49:54.000Z</updated>
+        <summary type="html"><![CDATA[The Government has revealed that £88m of Additional Roles Reimbursement Scheme (ARRS) funding went unspent by PCNs in 2023/24. This equates to around 6% of the total £1.41bn available to PCNs that year, and NHS England does not guarantee that this underspent money stays in general practice. NHS England told Pulse that where underspends occur
+The post GP networks underspent on ARRS by £88m, new data shows appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4657 - Fortinet Releases Multiple Security Advisories]]></title>
+        <id>a946aa52-c8e8-4f34-bad6-2033c8a59e46</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4657"/>
+        <updated>2025-05-14T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ The security advisories address two critical vulnerabilities, of which one is reported as exploited
+ The security advisories address two critical vulnerabilities, of which one is reported as exploited
+ Updated: 14 May 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4656 - Microsoft Releases May 2025 Security Updates]]></title>
+        <id>322fdf20-5686-494e-8e88-99133af9c8a4</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4656"/>
+        <updated>2025-05-14T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products, including security updates for 72 vulnerabilities, of which five have been reported as being actively exploited.
+ Scheduled updates for Microsoft products, including security updates for 72 vulnerabilities, of which five have been reported as being actively exploited.
+ Updated: 14 May 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Myths and Facts: Depression]]></title>
         <id>https://www.pulsetoday.co.uk/?p=161782</id>
