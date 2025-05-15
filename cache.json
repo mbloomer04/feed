@@ -1121,16 +1121,6 @@
           "wordCount": 1531,
           "title": "The not-so-feckless-and-idle scroungers on welfare",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=161001",
-          "author": "Eliza Parr",
-          "description": "An ICB has denied that its decision to replace a GP-led out-of-hours (OOH) provider with a private company was a ‘cost-cutting exercise’, despite its financial reports suggesting otherwise. Shropshire, Telford and Wrekin (STW) ICB sought to address claims from local campaigners that it had awarded the private provider – Medvivo – a contract worth far\nThe post ICB replacing GP-led OOH provider with private company denies ‘cost-cutting’ claims appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/urgent-care/icb-replacing-gp-led-ooh-provider-with-private-company-denies-cost-cutting-claims/",
-          "publishedOn": "2025-04-15T11:21:44.000Z",
-          "wordCount": 1527,
-          "title": "ICB replacing GP-led OOH provider with private company denies ‘cost-cutting’ claims",
-          "imageUrl": null
         }
       ]
     },
@@ -1907,6 +1897,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/nhs-leaders-face-both-carrot-and-stick-in-new-performance-drive",
+          "author": null,
+          "description": "NHS leaders will face new performance-based pay system with bonuses for improved patient care and penalties for failing trust executives.",
+          "link": "https://www.gov.uk/government/news/nhs-leaders-face-both-carrot-and-stick-in-new-performance-drive",
+          "publishedOn": "2025-05-14T23:01:03.000Z",
+          "wordCount": 2342,
+          "title": "NHS leaders face both ‘carrot and stick’ in new performance drive",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/care-workforce-pathway-for-adult-social-care",
           "author": null,
           "description": "The care workforce pathway outlines the knowledge, skills, values and behaviours people need to work in adult social care.",
@@ -2514,26 +2514,6 @@
           "publishedOn": "2025-04-15T13:48:11.000Z",
           "wordCount": 1288,
           "title": "Separate pay spine for nursing",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
-          "author": null,
-          "description": "Guidance for adult social care providers to comply with information provisions under Section 277A of the Health and Social Care Act 2012.",
-          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-data-collection",
-          "publishedOn": "2025-04-15T12:10:36.000Z",
-          "wordCount": 1236,
-          "title": "Statutory guidance: Adult social care provider information provisions: data collection",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-formal-notice",
-          "author": null,
-          "description": "Formal notice for adult social care providers, setting out the information required by the Secretary of State under section 277A of the Health and Social Care Act 2012.",
-          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-information-provisions-formal-notice",
-          "publishedOn": "2025-04-15T12:10:13.000Z",
-          "wordCount": 1174,
-          "title": "Statutory guidance: Adult social care provider information provisions: formal notice",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -3846,16 +3826,6 @@
           "wordCount": 3808,
           "title": "NHS trust flags cyber security risks owing to funding cuts",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/cyber-security.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=225517",
-          "author": "Jordan Sollof",
-          "description": "NHS England has launched a ‘ping and book’ pilot project using the NHS App to invite participants to their breast screening appointments.",
-          "link": "https://www.digitalhealth.net/2025/04/nhs-app-ping-and-book-breast-screening-pilot-launches/",
-          "publishedOn": "2025-04-15T12:30:37.000Z",
-          "wordCount": 3737,
-          "title": "NHS App ‘ping and book’ breast screening pilot launches",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/shutterstock_2267376741-1.jpg"
         }
       ]
     }
