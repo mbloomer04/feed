@@ -153,6 +153,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161841",
+          "author": "Eliza Parr",
+          "description": "The BMA has raised serious concerns about the ‘dilution’ of GP training quality via new methods where more learning takes place online.  At the UK LMCs conference last week, the GP registrars committee warned of the rollout of a new training approach where a ‘significant portion of what was direct patient contact time is now\nThe post BMA raises concern about GP trainees spending less time with patients appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/education-and-training/bma-raises-concern-about-gp-trainees-spending-less-time-with-patients/",
+          "publishedOn": "2025-05-15T15:07:02.000Z",
+          "wordCount": 1552,
+          "title": "BMA raises concern about GP trainees spending less time with patients",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161823",
           "author": "Eliza Parr",
           "description": "Councils and acute trusts in London could provide extra support to struggling GP practices in order to avoid the risk of new neighbourhood teams failing. In a new ‘target operating model’ published by NHS England this week, London’s ICB chiefs and local authorities have set out a plan for the future of a neighbourhood health\nThe post Neighbourhood teams could see hospitals bolster struggling GP practices appeared first on Pulse Today.",
@@ -1784,6 +1794,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6054a127-f5d3-408d-b4d1-5e3276363261",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Thasmim Ali describes the changes we’ve made to our digital service catalogue to make it easier for our stakeholders to find out and understand what national digital services are available for NHS staff and organisations to use.\n\r\n\r\nNHS England provides more than 100 national digital services for the NHS. They’re listed in the service catalogue on the NHS England Digital website.\n\r\n\r\nHowever, after speaking with digital leaders across the system, our ‘Who Does What’ programme team identified two important problems.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/how-were-transforming-our-digital-service-catalogue",
+          "publishedOn": "2025-05-15T14:58:16.000Z",
+          "wordCount": null,
+          "title": "How we’re transforming our digital service catalogue",
+          "imageUrl": null
+        },
+        {
           "id": "d0e53abb-58f6-428b-b469-50f605be541e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Simon Davis explains how the NHS App team puts users at the heart of digital delivery design by considering accessibility needs at every stage of the user research process.\n\r\n\r\nAs the lead user researcher for the NHS App, my role is to ensure users remain at the centre of everything we do. I work with a talented team of researchers across different departments, engaging with both the public and frontline NHS staff to understand their experiences with our services.",
@@ -1799,7 +1819,48 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "84fdab31-88a6-4d23-be21-6396b13b2d8f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Clinical informatics manager Chris Day says full implementation of multi-factor authentication is critical to local organisations’ cyber security.\n\r\n\r\nCyber security is about risk reduction and that can make it a difficult sell in the NHS.\n\r\n\r\nHard-pressed boards often want to know how much something is going to save them, but the cost of not implementing cyber security measures can only be calculated when their network or system is compromised.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/multi-factor-authentication-a-silver-cyber-bullet",
+          "publishedOn": "2025-05-15T15:10:42.000Z",
+          "wordCount": null,
+          "title": "Multi-factor authentication: a silver cyber bullet?",
+          "imageUrl": null
+        },
+        {
+          "id": "06c6e51a-a080-4517-9100-9b54a66ba9f4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "James Higgott, Lead Product Manager for the NHS website, talks about how his team is using a comprehensive roadmap to help them focus on outcomes, not outputs.\n\r\n\r\nWe recently published an update to the roadmap for the NHS website (nhs.uk). This describes what we will (and won’t) do to meet user needs and organisational goals on the UK’s biggest health website.\n\r\n\r\nPreviously, the roadmap we used internally was more like a Gantt chart than a true roadmap. Each item had a start and an end date and a description of the output, not the outcome.\n\r\n\r\nIn March 2023, we made significant changes to how we created and presented the roadmap. This is how we did it.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/how-we-created-a-roadmap-for-the-nhs-website",
+          "publishedOn": "2025-05-15T15:09:46.000Z",
+          "wordCount": null,
+          "title": "How we created a roadmap for the NHS website",
+          "imageUrl": null
+        },
+        {
+          "id": "ad18503f-fc6d-401f-b214-1a95a574953b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Dr Shanker Vijay, GP and Digital First Lead for London, explains why he is championing the national ‘Register with a GP surgery’ service and talks about improvements to the service.\n\r\n\r\nIt should be quick and simple for a patient to register with a GP surgery, but often it isn’t. Having worked in many GP surgeries, I’ve seen both patients and practice staff struggle with the process, leading to a poor experience for all. This can vary from patients being daunted when faced with dated, confusing and lengthy paper registration forms to busy practice staff having to find the time to deal with new registrations amongst all their other tasks.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/an-easy-way-to-register-with-a-gp-surgery",
+          "publishedOn": "2025-05-15T15:09:00.000Z",
+          "wordCount": null,
+          "title": "An easy way to register with a GP surgery",
+          "imageUrl": null
+        },
+        {
+          "id": "6054a127-f5d3-408d-b4d1-5e3276363261",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Thasmim Ali describes the changes we’ve made to our digital service catalogue to make it easier for our stakeholders to find out and understand what national digital services are available for NHS staff and organisations to use.\n\r\n\r\nNHS England provides more than 100 national digital services for the NHS. They’re listed in the service catalogue on the NHS England Digital website.\n\r\n\r\nHowever, after speaking with digital leaders across the system, our ‘Who Does What’ programme team identified two important problems.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2024/how-were-transforming-our-digital-service-catalogue",
+          "publishedOn": "2025-05-15T14:58:16.000Z",
+          "wordCount": null,
+          "title": "How we’re transforming our digital service catalogue",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
