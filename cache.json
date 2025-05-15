@@ -1732,7 +1732,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "d0e53abb-58f6-428b-b469-50f605be541e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Simon Davis explains how the NHS App team puts users at the heart of digital delivery design by considering accessibility needs at every stage of the user research process.\n\r\n\r\nAs the lead user researcher for the NHS App, my role is to ensure users remain at the centre of everything we do. I work with a talented team of researchers across different departments, engaging with both the public and frontline NHS staff to understand their experiences with our services.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/making-sure-the-nhs-app-works-for-everyone",
+          "publishedOn": "2025-05-14T12:31:18.000Z",
+          "wordCount": null,
+          "title": "Making sure the NHS App works for everyone",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -1762,7 +1773,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "d0e53abb-58f6-428b-b469-50f605be541e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Simon Davis explains how the NHS App team puts users at the heart of digital delivery design by considering accessibility needs at every stage of the user research process.\n\r\n\r\nAs the lead user researcher for the NHS App, my role is to ensure users remain at the centre of everything we do. I work with a talented team of researchers across different departments, engaging with both the public and frontline NHS staff to understand their experiences with our services.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/making-sure-the-nhs-app-works-for-everyone",
+          "publishedOn": "2025-05-14T12:31:18.000Z",
+          "wordCount": null,
+          "title": "Making sure the NHS App works for everyone",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHS England",
