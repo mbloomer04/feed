@@ -153,6 +153,36 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=161869",
+          "author": "Sofia Lind",
+          "description": "Nirmatrelvir plus ritonavir is no longer recommended for some risk groups including the over-70s, NICE has said in updated guidance. The antiviral, also known as Paxlovid, is no longer cost effective in the over-70s as well as people with diabetes, obesity and heart failure, the new recommendations said. It follows a partial review in March\nThe post Paxlovid eligibility withdrawn by NICE for over-70s, diabetes and obesity appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/paxlovid-eligibility-withdrawn-by-nice-for-over-70s-diabetes-and-obesity/",
+          "publishedOn": "2025-05-15T15:51:57.000Z",
+          "wordCount": 1970,
+          "title": "Paxlovid eligibility withdrawn by NICE for over-70s, diabetes and obesity",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/05/GPs-urged-to-chase-immunosuppressed-and-housebound-Covid-boosters-amid-low-take-up.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161847",
+          "author": "Caroline Price",
+          "description": "Hepatologists Dr Ahmed Elsharkawy and Dr Laurence Hopkins discuss changes to the name, diagnosis and management of the condition MASLD, formerly known as non-alcoholic fatty liver disease (NAFLD). Read the full module on Pulse 365 today. Learning objectives This module will support your knowledge of MASLD diagnosis and management, in particular: 1. What does MASLD\nThe post CPD: Key questions on metabolic dysfunction-associated steatotic liver disease (MASLD) appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/gastroenterology-obesity/cpd-key-questions-on-metabolic-dysfunction-associated-steatotic-liver-disease-masld/",
+          "publishedOn": "2025-05-15T15:27:04.000Z",
+          "wordCount": 2828,
+          "title": "CPD: Key questions on metabolic dysfunction-associated steatotic liver disease (MASLD)",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/05/Key-questions-on-metabolic-dysfunction-associated-steatotic-liver-disease-MASLD.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=161838",
+          "author": "Maya Dhillon",
+          "description": "With the assisted dying bill going to another vote this week, editor Sofia Lind reflects on the passing of her mother and the role GPs will need to play in this national conversation In October 2017, I watched my mother die in a way I wouldn’t wish on anyone. She had survived open heart surgery\nThe post Facing death: the courage GPs may need on assisted dying appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/facing-death-the-courage-gps-may-need-on-assisted-dying/",
+          "publishedOn": "2025-05-15T15:13:55.000Z",
+          "wordCount": 2345,
+          "title": "Facing death: the courage GPs may need on assisted dying",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/01/Sofia_Lind_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=161841",
           "author": "Eliza Parr",
           "description": "The BMA has raised serious concerns about the ‘dilution’ of GP training quality via new methods where more learning takes place online.  At the UK LMCs conference last week, the GP registrars committee warned of the rollout of a new training approach where a ‘significant portion of what was direct patient contact time is now\nThe post BMA raises concern about GP trainees spending less time with patients appeared first on Pulse Today.",
@@ -1821,6 +1851,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "429c5390-c8c3-4152-9ff2-13cab0ad7aab",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "As we prepare to bring new products and suppliers into the GP IT market, Dan Wintercross discusses the Tech Innovation Framework. \n\r\n\r\nThe demand for primary care is increasing, with GP practices currently delivering more than 27 million appointments every month. It’s more important than ever to make sure they have the best digital tools to support them to do their job.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/new-choices-for-gp-it",
+          "publishedOn": "2025-05-15T15:11:10.000Z",
+          "wordCount": null,
+          "title": "New choices for GP IT",
+          "imageUrl": null
+        },
+        {
           "id": "84fdab31-88a6-4d23-be21-6396b13b2d8f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Clinical informatics manager Chris Day says full implementation of multi-factor authentication is critical to local organisations’ cyber security.\n\r\n\r\nCyber security is about risk reduction and that can make it a difficult sell in the NHS.\n\r\n\r\nHard-pressed boards often want to know how much something is going to save them, but the cost of not implementing cyber security measures can only be calculated when their network or system is compromised.",
@@ -1838,6 +1878,26 @@
           "publishedOn": "2025-05-15T15:09:46.000Z",
           "wordCount": null,
           "title": "How we created a roadmap for the NHS website",
+          "imageUrl": null
+        },
+        {
+          "id": "e1a8f60e-a136-47af-87f2-816581178f62",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.\n\r\n\r\nNHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.\n\r\n\r\nIn the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic",
+          "publishedOn": "2025-05-15T15:09:32.000Z",
+          "wordCount": null,
+          "title": "The NHS App after the pandemic",
+          "imageUrl": null
+        },
+        {
+          "id": "79ac2291-8ff2-4315-af91-44545b706ca9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Locum pharmacist Faraaz Hussain describes his experience of using the new National Care Records Service.\n\r\n\r\nI spend part of my week in a hospital setting and part as a locum in community pharmacies. The Summary Care Record application (SCRa) has always been an indispensable tool in this work, allowing quick and secure access to clinical information, but it can be tricky to access when moving between sites for locum clinicians like me.\n\r\n\r\nIn December 2022, I was approached by the Summary Care Record application team at NHS England to test out the National Care Records Services (NCRS), the successor to the SCRa. This is some of what I have found out.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/whats-so-great-about-the-new-national-care-records-service",
+          "publishedOn": "2025-05-15T15:09:18.000Z",
+          "wordCount": null,
+          "title": "What's so great about the new National Care Records Service?",
           "imageUrl": null
         },
         {
@@ -1866,7 +1926,108 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "3208609c-d040-40d0-808a-4235a41af0d7",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Business analyst Matthew Firth talks about the expansion of NHS Digital’s application programming interface (API) and integration catalogue which, for the first time, will now include external APIs.  \n\r\n\r\nHistorically, we have only represented NHS Digital APIs in our API and integration catalogue. The reason is that the Developer hub was set up as a space where API consumers can learn about the NHS Digital onboarding journey and identify the APIs which they’d like to onboard with. It made sense to only represent our NHS Digital APIs in there and aimed to avoid confusion or dilute our onboarding journey for external suppliers and partners.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/why-were-opening-up-our-api-catalogue",
+          "publishedOn": "2025-05-15T15:45:06.000Z",
+          "wordCount": null,
+          "title": "Why we're opening up our API and integration catalogue",
+          "imageUrl": null
+        },
+        {
+          "id": "789c6a5e-10f9-42e8-b5dd-63efa5564938",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Alex Lord, Lead Product Owner for the Digital Onboarding Service at NHS Digital, explains why we are investing in digitalising the onboarding journey for developers of healthcare software. \n\r\n\r\nIf there is anything that many leave until it is too late, it is thinking about getting approval to use NHS APIs and digital services in production. We often call this onboarding.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/onboarding-shouldnt-be-an-afterthought",
+          "publishedOn": "2025-05-15T15:43:46.000Z",
+          "wordCount": null,
+          "title": "Onboarding shouldn't be an afterthought",
+          "imageUrl": null
+        },
+        {
+          "id": "0a86795b-fbf3-4492-9e15-a43786d1ab6c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Making it easier to get help and support is a guiding principle for our API Management (APIM) team. Ernest Kissiedu, a business analyst in the team, explains the new approach to supporting software developers working in health and care.\n\r\n\r\nEnsuring that the API platform is as self-serve as possible, with simple and reliable support provided when needed, is top of the list for our team. If our developers have a positive experience, they are more likely to use our APIs to develop cost-effective, digital services designed around the needs of our health and care professionals, patients, and the public.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/how-were-supporting-product-teams",
+          "publishedOn": "2025-05-15T15:42:08.000Z",
+          "wordCount": null,
+          "title": "How we're supporting product teams",
+          "imageUrl": null
+        },
+        {
+          "id": "eb00fd28-2c90-4b88-a85e-13844eee2e30",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Bharat Sharma, Senior Product Manager in the Standards and Interoperability team at NHS England, explains what they are doing to improve access to standards across the NHS.\n\r\n\r\nIt’s a bit like the old philosophical question ‘If a tree falls in a forest and no one is around to hear it, does it make a sound?’:\n\r\n\r\nIf a standard is published but people don’t know about it, is it a standard?",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/discovering-data-standards-together",
+          "publishedOn": "2025-05-15T15:41:08.000Z",
+          "wordCount": null,
+          "title": "Discovering data standards together",
+          "imageUrl": null
+        },
+        {
+          "id": "06e851d7-3e29-493b-a43c-837535483967",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Throughout the coronavirus pandemic, the home testing service enabled millions to order PCR tests and rapid lateral flow tests to their homes. Richard Taylforth, a Delivery Manager who worked on the service, explains how we did it.\n\r\n\r\nThe home testing service played a critical role in the national pandemic response, enabling people to test themselves quickly and accurately.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/6-things-we-learned-from-the-covid-19-home-testing-rollout",
+          "publishedOn": "2025-05-15T15:40:48.000Z",
+          "wordCount": null,
+          "title": "6 things we learned from the COVID-19 home testing rollout",
+          "imageUrl": null
+        },
+        {
+          "id": "13f419d4-1d3b-4957-b1c9-14ddae00dacc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. \n\r\n\r\nLast year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-we-have-learned-about-retiring-apis",
+          "publishedOn": "2025-05-15T15:39:21.000Z",
+          "wordCount": null,
+          "title": "What we have learned about retiring APIs",
+          "imageUrl": null
+        },
+        {
+          "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.\n\r\n\r\nFor the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis",
+          "publishedOn": "2025-05-15T15:38:54.000Z",
+          "wordCount": null,
+          "title": "What does good look like for APIs?",
+          "imageUrl": null
+        },
+        {
+          "id": "42feb7fa-e5ff-46f4-87e1-67ccbf8efae1",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Mark Burton, Lead Delivery Manager for the Spine Futures programme, explains why we’re accelerating the migration of Spine services into the cloud and why we need NHS organisations and healthcare suppliers to support the move.\n\r\n\r\nIn the decade since the NHS Spine was launched, digital health and care services have become significantly larger, much more complex and more central to NHS provision. The Spine platform provides critical healthcare infrastructure and we must modernise to keep up with the demands being placed on it.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/our-new-approach-to-migrating-spine-to-the-cloud",
+          "publishedOn": "2025-05-15T15:38:18.000Z",
+          "wordCount": null,
+          "title": "Our new approach to migrating Spine to the cloud",
+          "imageUrl": null
+        },
+        {
+          "id": "d652154a-ea88-4648-9506-1410dc1fba85",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Thasmim Ali, Product Owner of our API Developer Community, talks about how we’ve improved support for teams integrating with our products and services – and outlines our next steps.\n\r\n\r\nThe Developer Community  provides an open and transparent forum for members to share knowledge, learn, and collaborate on problems related to API management. We launched the community in alpha phase in November 2022, and we’ve seen membership grow to more than 450 users since then.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/our-api-developer-community-is-growing",
+          "publishedOn": "2025-05-15T15:37:46.000Z",
+          "wordCount": null,
+          "title": "Our API Developer Community is growing",
+          "imageUrl": null
+        },
+        {
+          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
+          "publishedOn": "2025-05-15T15:37:16.000Z",
+          "wordCount": null,
+          "title": "How we’re modernising electronic prescribing",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inside Story Feed",
