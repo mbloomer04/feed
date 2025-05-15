@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-15T07:13:00.705Z</updated>
+    <updated>2025-05-15T08:17:35.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Most of public think that NHS ‘single patient record’ already exists]]></title>
+        <id>https://www.digitalhealth.net/?p=228401</id>
+        <link href="https://www.digitalhealth.net/2025/05/most-of-public-think-that-nhs-single-patient-record-already-exists/"/>
+        <updated>2025-05-15T07:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Most of the public think that a single patient record (SPR) already exists, according to research by Understanding Patient Data.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS leaders face both ‘carrot and stick’ in new performance drive]]></title>
         <id>https://www.gov.uk/government/news/nhs-leaders-face-both-carrot-and-stick-in-new-performance-drive</id>
