@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-16T10:13:34.037Z</updated>
+    <updated>2025-05-16T11:10:49.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two GPs in running to become next RCGP chair]]></title>
+        <id>https://www.gponline.com/article/1918296</id>
+        <link href="https://www.gponline.com/two-gps-running-become-next-rcgp-chair/article/1918296"/>
+        <updated>2025-05-16T10:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Two GPs are standing in the election to take over as RCGP chair, with voting set to open in late June.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs to be given say on their priorities for wholesale new GMS contract]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=161871</id>
+        <link href="https://www.pulsetoday.co.uk/news/contract/gps-to-be-given-say-on-their-priorities-for-wholesale-new-gms-contract/"/>
+        <updated>2025-05-16T10:33:08.000Z</updated>
+        <summary type="html"><![CDATA[The BMA will survey GPs this summer on their priorities for a new wholesale GMS contract, its GP committee chair has revealed. Dr Katie Bramall-Stainer told LMC representatives at their national conference in Glasgow last week that the union is planning to ‘go out to the profession’ via a survey to gather views on what
+The post GPs to be given say on their priorities for wholesale new GMS contract appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adult social care funding pressures: 2023–35]]></title>
+        <id>https://kingsfund.blogs.com/health_management/2025/05/adult-social-care-funding-pressures-202335.html</id>
+        <link href="https://kingsfund.blogs.com/health_management/2025/05/adult-social-care-funding-pressures-202335.html"/>
+        <updated>2025-05-16T10:18:51.000Z</updated>
+        <summary type="html"><![CDATA[The Health Foundation - This analysis projects the costs of meeting growing demand for adult social care in England and making some improvements to people’s care up to 2034/35. It estimates the additional funding needed for social care under three scenarios: to meet growing demand for social care and cover rising costs to employers; to meet demand, cover rising costs...]]></summary>
+        <author>
+            <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Unplugged: Optum’s acquisition of EMIS]]></title>
         <id>https://www.digitalhealth.net/?p=227989</id>
@@ -24,6 +55,16 @@
         <summary type="html"><![CDATA[NHS England - This framework sets out five key principles to reduce patient safety health care inequalities across the NHS. It outlines opportunities that local teams and integrated care boards can implement, as well as the work NHS England is taking nationally to support and enable this. These principles align with the aims of NHS England’s Patient safety strategy and...]]></summary>
         <author>
             <name>Health Management and Policy Alert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCN pilots new approach to preventing falls in older people]]></title>
+        <id>https://www.gponline.com/article/1918179</id>
+        <link href="https://www.gponline.com/pcn-pilots-new-approach-preventing-falls-older-people/elderly-care/rehabilitation-falls/article/1918179"/>
+        <updated>2025-05-16T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[A pilot scheme that makes use of new technology to analyse GP records to help identify older patients most at risk of falls has been launched in a PCN in Greater Manchester.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4701,26 +4742,6 @@ The post ICBs told to mine new GP practice dataset for ‘unwarranted variation�
         <summary type="html"><![CDATA[Worcestershire Acute Hospitals has identified issues in the way recording of observations from sepsis patients are captured on its EPR.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patients get care closer to home as GP scheme expanded]]></title>
-        <id>https://www.gov.uk/government/news/patients-get-care-closer-to-home-as-gp-scheme-expanded</id>
-        <link href="https://www.gov.uk/government/news/patients-get-care-closer-to-home-as-gp-scheme-expanded"/>
-        <updated>2025-04-16T23:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Government confirms expansion of Advice and Guidance scheme, with more patients now receiving their care closer to home]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge ICB variation revealed as advice and guidance DES backed to save 2m referrals a year]]></title>
-        <id>https://www.gponline.com/article/1914612</id>
-        <link href="https://www.gponline.com/huge-icb-variation-revealed-advice-guidance-des-backed-save-2m-referrals-year/article/1914612"/>
-        <updated>2025-04-16T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The government has reiterated plans to prevent 2m hospital referrals a year through advice and guidance as the £20-per-request DES rolls out for general practice this month - but official data show huge variation between ICBs in use of the scheme.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
