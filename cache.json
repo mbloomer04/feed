@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cff85097-6738-4359-9921-25bfb0faedb1",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n Updated: 16 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4658",
+          "publishedOn": "2025-05-16T12:40:00.000Z",
+          "wordCount": null,
+          "title": "CC-4658 - Proof-of-Concept Released Oracle VM VirtualBox",
+          "imageUrl": null
+        },
+        {
           "id": "a946aa52-c8e8-4f34-bad6-2033c8a59e46",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The security advisories address two critical vulnerabilities, of which one is reported as exploited\n The security advisories address two critical vulnerabilities, of which one is reported as exploited\n Updated: 14 May 2025",
@@ -3751,6 +3761,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228839",
+          "author": "Jordan Sollof",
+          "description": "Suppliers to the NHS have been urged by NHSE and the DHSC in an open letter to sign a charter of cyber security best practice.",
+          "link": "https://www.digitalhealth.net/2025/05/nhs-suppliers-urged-to-sign-cyber-security-best-practice-charter/",
+          "publishedOn": "2025-05-16T12:30:42.000Z",
+          "wordCount": 3866,
+          "title": "NHS suppliers urged to sign cyber security best practice charter",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/shutterstock_2476569139-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=227989",
           "author": "Jordan Sollof",
