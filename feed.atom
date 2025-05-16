@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-16T07:12:43.697Z</updated>
+    <updated>2025-05-16T08:17:09.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital dentistry tech integrated with Epic EHR]]></title>
+        <id>https://www.digitalhealth.net/?p=227807</id>
+        <link href="https://www.digitalhealth.net/2025/05/digital-dentistry-tech-integrates-with-epic-ehr-at-uclh/"/>
+        <updated>2025-05-16T07:30:52.000Z</updated>
+        <summary type="html"><![CDATA[University College London Hospitals NHS Foundation Trust (UCLH) has integrated intra-oral scanners into its Epic electronic health record.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: The value of a GP, blueprint for ICB reforms, fall in GP partners accelerating]]></title>
+        <id>https://www.gponline.com/article/1918119</id>
+        <link href="https://www.gponline.com/podcast-value-gp-blueprint-icb-reforms-fall-gp-partners-accelerating/article/1918119"/>
+        <updated>2025-05-16T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t reinvent the wheel: What we’ve learnt from 2 years of research operations]]></title>
         <id>9a5527a6-95b0-452c-89c8-a839d63ae02b</id>

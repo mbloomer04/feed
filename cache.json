@@ -1140,6 +1140,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1918119",
+          "author": null,
+          "description": "The GPonline team discusses the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-value-gp-blueprint-icb-reforms-fall-gp-partners-accelerating/article/1918119",
+          "publishedOn": "2025-05-16T07:18:00.000Z",
+          "wordCount": 893,
+          "title": "Podcast: The value of a GP, blueprint for ICB reforms, fall in GP partners accelerating",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_997.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1918100",
           "author": null,
           "description": "Additional roles reimbursement scheme (ARRS) funding totalling £88m was unspent by PCNs in 2023/24, the government has revealed.",
@@ -3551,6 +3561,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=227807",
+          "author": "Jordan Sollof",
+          "description": "University College London Hospitals NHS Foundation Trust (UCLH) has integrated intra-oral scanners into its Epic electronic health record.",
+          "link": "https://www.digitalhealth.net/2025/05/digital-dentistry-tech-integrates-with-epic-ehr-at-uclh/",
+          "publishedOn": "2025-05-16T07:30:52.000Z",
+          "wordCount": 3801,
+          "title": "Digital dentistry tech integrated with Epic EHR",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/DigiDentistry-at-UCLH.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=226947",
           "author": "Owen Hughes",
