@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5a5e2769-659b-4f98-83c0-13b99e2ef9e8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Updated: 19 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4659",
+          "publishedOn": "2025-05-19T12:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4659 - Mozilla Releases Security Updates for Firefox and Firefox ESR",
+          "imageUrl": null
+        },
+        {
           "id": "cff85097-6738-4359-9921-25bfb0faedb1",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n Updated: 16 May 2025",
@@ -3731,6 +3741,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228905",
+          "author": "Jordan Sollof",
+          "description": "Global healthcare AI firm Huma Therapeutics has partnered with Eckuity Capital and acquired remote monitoring company Aluna.",
+          "link": "https://www.digitalhealth.net/2025/05/huma-partners-with-eckuity-capital-and-acquires-aluna/",
+          "publishedOn": "2025-05-19T12:30:05.000Z",
+          "wordCount": 3731,
+          "title": "Huma partners with Eckuity Capital and acquires Aluna",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Huma-Aluna-acquisition.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=228761",
           "author": "Tammy Lovell",
