@@ -1804,6 +1804,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "57b25184-dfae-420f-9328-2d4181ec77a2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Professor Matt Sydes, Head of Data-Driven Clinical Trials at NHS England, describes how his personal and professional lives collided when a family member was affected by a rare cancer.\n\r\n\r\nAs a statistician and a trialist, I've been involved with researching many different diseases and conditions over the years. I’ve planned and run studies, analysed data, and interpreted and disseminated findings from clinical trials to support the development of new treatments and interventions, all to help doctors and patients make the best healthcare decisions that improve and extend lives.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/clinical-trials-changing-lives-one-researchers-story",
+          "publishedOn": "2025-05-19T10:14:35.000Z",
+          "wordCount": null,
+          "title": "Clinical trials changing lives: one researcher's story",
+          "imageUrl": null
+        },
+        {
           "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
@@ -2029,7 +2039,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "57b25184-dfae-420f-9328-2d4181ec77a2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Professor Matt Sydes, Head of Data-Driven Clinical Trials at NHS England, describes how his personal and professional lives collided when a family member was affected by a rare cancer.\n\r\n\r\nAs a statistician and a trialist, I've been involved with researching many different diseases and conditions over the years. I’ve planned and run studies, analysed data, and interpreted and disseminated findings from clinical trials to support the development of new treatments and interventions, all to help doctors and patients make the best healthcare decisions that improve and extend lives.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/clinical-trials-changing-lives-one-researchers-story",
+          "publishedOn": "2025-05-19T10:14:35.000Z",
+          "wordCount": null,
+          "title": "Clinical trials changing lives: one researcher's story",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
