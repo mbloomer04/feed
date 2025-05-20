@@ -2582,6 +2582,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/uk-adopts-historic-pandemic-agreement",
+          "author": null,
+          "description": "Better protections for British public and NHS thanks to deal adopted at the World Health Assembly in Geneva.",
+          "link": "https://www.gov.uk/government/news/uk-adopts-historic-pandemic-agreement",
+          "publishedOn": "2025-05-20T14:35:31.000Z",
+          "wordCount": 2668,
+          "title": "UK adopts historic Pandemic Agreement",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-counter-fraud-policy-summary",
+          "author": null,
+          "description": "The Department of Health and Social Care's approach to preventing and detecting fraud, bribery and corruption.",
+          "link": "https://www.gov.uk/government/publications/dhsc-counter-fraud-policy-summary",
+          "publishedOn": "2025-05-20T14:13:08.000Z",
+          "wordCount": 833,
+          "title": "Policy paper: DHSC counter-fraud policy: summary",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/learning-support-fund-9th-edition-2025-to-2026",
           "author": null,
           "description": "Information for academic authorities and students on pre-registration healthcare programmes in the 2025 to 2026 academic year.",
@@ -3218,6 +3238,16 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/10-years-of-childrens-public-health-in-local-government-a-series-of-interviews.html",
+          "author": null,
+          "description": "Local Government Association - To mark ten years of children's public health being back within in local government the Local Government Association have commissioned a series of interviews with thought leaders from across the sector on their thoughts on the impact made and what more can be done to support children. Read the interviews View the timeline",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/10-years-of-childrens-public-health-in-local-government-a-series-of-interviews.html",
+          "publishedOn": "2025-05-20T15:03:52.000Z",
+          "wordCount": null,
+          "title": "10 years of children's public health in local government: A series of interviews",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/health-and-social-care-support-for-people-with-dementia-.html",
           "author": null,
