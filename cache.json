@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1918691",
+          "author": null,
+          "description": "Up to 1,000 newly-qualified GPs could be left unemployed this summer unless emergency funding is given directly to general practices to hire more doctors, the BMA has warned Wes Streeting.",
+          "link": "https://www.gponline.com/1000-newly-qualified-gps-face-unemployment-summer-bma-warns-streeting/article/1918691",
+          "publishedOn": "2025-05-20T12:01:42.000Z",
+          "wordCount": 923,
+          "title": "Up to 1,000 newly-qualified GPs face unemployment this summer, BMA warns Streeting",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_51.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1917403",
           "author": null,
           "description": "Three in five GPs say swingeing cuts to ICB budgets will make it harder to develop neighbourhood NHS models, polling reveals.",
@@ -3932,6 +3942,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228565",
+          "author": "Jordan Sollof",
+          "description": "Powys Teaching Health Board in Wales has selected Better to deliver an electronic prescribing and medicines administration (ePMA) system.",
+          "link": "https://www.digitalhealth.net/2025/05/powys-teaching-health-board-to-implement-better-epma/",
+          "publishedOn": "2025-05-20T12:30:19.000Z",
+          "wordCount": 3646,
+          "title": "Powys Teaching Health Board to implement Better ePMA",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Electronic-prescribing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=227709",
           "author": "Owen Hughes",
