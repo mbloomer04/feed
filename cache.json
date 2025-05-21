@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1918678",
+          "author": null,
+          "description": "A 'world-first' vaccine programme for gonorrhoea will be launched in England from August.",
+          "link": "https://www.gponline.com/england-launch-world-first-gonorrhoea-vaccination-programme/travel-health/vaccinations/article/1918678",
+          "publishedOn": "2025-05-21T00:00:00.000Z",
+          "wordCount": 876,
+          "title": "England to launch 'world-first' gonorrhoea vaccination programme",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1354226818-ezgif.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1918691",
           "author": null,
           "description": "Up to 1,000 newly-qualified GPs could be left unemployed this summer unless emergency funding is given directly to general practices to hire more doctors, the BMA has warned Wes Streeting.",
@@ -1884,6 +1894,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b9a16fc9-44d1-47d1-a85c-290ca253594a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Emma Swift and Zuzanna Lito explain how we've updated the NHS service standard to make sure teams building online services are more aware and responsive to the risks of domestic abuse and coercive control.\n\r\n\r\nThe NHS service standard helps teams build and run digital services that meet users’ needs. It's designed to improve patients’ care and experience when engaging with the NHS online.\n\r\n\r\nThe service standard has recently undergone some small but significant updates. The new updates are designed to make sure that teams building online services are more aware of and responsive to the risks of domestic abuse and coercive control.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/mitigating-the-risks-of-domestic-abuse",
+          "publishedOn": "2025-05-21T07:17:46.000Z",
+          "wordCount": null,
+          "title": "Mitigating the risks of domestic abuse",
+          "imageUrl": null
+        },
+        {
           "id": "57b25184-dfae-420f-9328-2d4181ec77a2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Professor Matt Sydes, Head of Data-Driven Clinical Trials at NHS England, describes how his personal and professional lives collided when a family member was affected by a rare cancer.\n\r\n\r\nAs a statistician and a trialist, I've been involved with researching many different diseases and conditions over the years. I’ve planned and run studies, analysed data, and interpreted and disseminated findings from clinical trials to support the development of new treatments and interventions, all to help doctors and patients make the best healthcare decisions that improve and extend lives.",
@@ -2137,6 +2157,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "b9a16fc9-44d1-47d1-a85c-290ca253594a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Emma Swift and Zuzanna Lito explain how we've updated the NHS service standard to make sure teams building online services are more aware and responsive to the risks of domestic abuse and coercive control.\n\r\n\r\nThe NHS service standard helps teams build and run digital services that meet users’ needs. It's designed to improve patients’ care and experience when engaging with the NHS online.\n\r\n\r\nThe service standard has recently undergone some small but significant updates. The new updates are designed to make sure that teams building online services are more aware of and responsive to the risks of domestic abuse and coercive control.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/mitigating-the-risks-of-domestic-abuse",
+          "publishedOn": "2025-05-21T07:17:46.000Z",
+          "wordCount": null,
+          "title": "Mitigating the risks of domestic abuse",
+          "imageUrl": null
+        },
         {
           "id": "bc08421d-8da8-4724-8a78-b162f5e37f33",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
@@ -4052,6 +4082,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228311",
+          "author": "Jordan Sollof",
+          "description": "Birmingham Community Healthcare NHS Foundation Trust is rolling out an electronic prescribing and medicines administration system (ePMA).",
+          "link": "https://www.digitalhealth.net/2025/05/birmingham-community-healthcare-begins-rollout-of-epma-system/",
+          "publishedOn": "2025-05-21T07:30:10.000Z",
+          "wordCount": 3677,
+          "title": "Birmingham Community Healthcare begins rollout of ePMA system",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Birmingham-Community-Healthcare-Ward-8-ePMA.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=228565",
           "author": "Jordan Sollof",
