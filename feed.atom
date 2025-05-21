@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-21T11:10:56.034Z</updated>
+    <updated>2025-05-21T12:25:11.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[78th World Health Assembly: UK National Statement]]></title>
+        <id>https://www.gov.uk/government/speeches/78th-world-health-assembly-uk-national-statement</id>
+        <link href="https://www.gov.uk/government/speeches/78th-world-health-assembly-uk-national-statement"/>
+        <updated>2025-05-21T11:44:31.000Z</updated>
+        <summary type="html"><![CDATA[The UK's National Statement for the WHO's World Health Assembly. Delivered by the UK's Permanent Representative to the WTO and UN, Simon Manley.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4660 - Broadcom Releases Security Updates for VMware vCenter Server and Cloud Foundation Vulnerabilities]]></title>
+        <id>cccf7f75-0b86-465c-99ba-9d9aa8f34676</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4660"/>
+        <updated>2025-05-21T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services
+ Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services
+ Updated: 21 May 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICB abandons controversial plans to cut GP out-of-hours following criticism]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162007</id>

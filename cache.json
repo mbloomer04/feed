@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cccf7f75-0b86-465c-99ba-9d9aa8f34676",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services\n Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services\n Updated: 21 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4660",
+          "publishedOn": "2025-05-21T11:35:00.000Z",
+          "wordCount": null,
+          "title": "CC-4660 - Broadcom Releases Security Updates for VMware vCenter Server and Cloud Foundation Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "5a5e2769-659b-4f98-83c0-13b99e2ef9e8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Updated: 19 May 2025",
@@ -2661,6 +2671,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/78th-world-health-assembly-uk-national-statement",
+          "author": null,
+          "description": "The UK's National Statement for the WHO's World Health Assembly. Delivered by the UK's Permanent Representative to the WTO and UN, Simon Manley.",
+          "link": "https://www.gov.uk/government/speeches/78th-world-health-assembly-uk-national-statement",
+          "publishedOn": "2025-05-21T11:44:31.000Z",
+          "wordCount": 1368,
+          "title": "78th World Health Assembly: UK National Statement",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/60829860d3bf7f013a9a5486/Simon_in_landscape.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/uk-adopts-historic-pandemic-agreement",
           "author": null,
