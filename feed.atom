@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-22T23:12:05.427Z</updated>
+    <updated>2025-05-23T01:01:33.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Amazon-style’ prescription tracking goes live in NHS App for millions of patients]]></title>
+        <id>https://www.england.nhs.uk/?p=266853</id>
+        <link href="https://www.england.nhs.uk/2025/05/amazon-style-prescription-tracking-goes-live-in-nhs-app-for-millions-of-patients/"/>
+        <updated>2025-05-22T23:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Millions of patients can now track their prescriptions thanks to the rollout of a new feature in the NHS App helping to reduce unnecessary calls and visits to pharmacies. NHS England today announced that nearly 1,500 high street chemists – including every Boots in England – are now offering the service, which enables patients to […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correspondence: NHS pay awards 2025 to 2026: doctors and dentists]]></title>
         <id>https://www.gov.uk/government/publications/nhs-pay-awards-2025-to-2026-doctors-and-dentists</id>
@@ -5210,37 +5220,6 @@ The post GP practices in one more area told to limit NHS Health Checks appeared 
 The post AI is not the write stuff appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ming Tang to headline Summer Schools 2025 as national keynote]]></title>
-        <id>https://www.digitalhealth.net/?p=225701</id>
-        <link href="https://www.digitalhealth.net/2025/04/ming-tang-to-headline-summer-schools-2025-as-national-keynote/"/>
-        <updated>2025-04-23T12:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Ming Tang, interim CDIO at NHS England, will headline this year’s Digital Health Summer Schools as national keynote.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coroner concerns over large GP provider’s use of ‘call centres’]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=161201</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/coroner-concerns-over-large-gp-providers-use-of-call-centres/"/>
-        <updated>2025-04-23T12:00:38.000Z</updated>
-        <summary type="html"><![CDATA[A coroner has raised concerns about GP patient queries being dealt with at remote ‘call centres’ and about the lack of clear triage guidance for care navigators, following the death of a toddler. Assistant Coroner for Manchester West Michael Permberton published his ‘prevention of future deaths report’ after an inquest for Hailey Thompson, a 22-month-old
-The post Coroner concerns over large GP provider’s use of ‘call centres’ appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New contract must deliver enough GPs to bring back continuity, says BMA GP chair]]></title>
-        <id>https://www.gponline.com/article/1915063</id>
-        <link href="https://www.gponline.com/new-contract-deliver-enough-gps-bring-back-continuity-says-bma-gp-chair/article/1915063"/>
-        <updated>2025-04-23T11:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Continuity of care and bringing down the number of patients per GP will underpin negotiations for a completely new GP contract, the chair of the BMA GP committee for England has said.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
