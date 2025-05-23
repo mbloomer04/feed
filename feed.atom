@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-23T12:24:10.127Z</updated>
+    <updated>2025-05-23T13:24:18.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Amazon-style’ prescription tracking goes live on NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=229315</id>
+        <link href="https://www.digitalhealth.net/2025/05/amazon-style-prescription-tracking-goes-live-on-nhs-app/"/>
+        <updated>2025-05-23T12:30:17.000Z</updated>
+        <summary type="html"><![CDATA[An “Amazon-style” prescription tracking feature has been rolled out in the NHS App to reduce unnecessary calls and visits to pharmacies.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICB imposes GP call response targets as part of £6.6m access funding]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162101</id>
