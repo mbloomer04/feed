@@ -153,6 +153,36 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=162101",
+          "author": "Eliza Parr",
+          "description": "New ICB plans to improve primary care access in London will require GP practices to respond to calls within 10 minutes and online consultations within one day. North West London ICB has set out the 2025/26 specification for its access enhanced service, worth £6.6m, after it was forced to scrap a controversial proposal for same-day\nThe post ICB imposes GP call response targets as part of £6.6m access funding appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/icb-imposes-gp-call-response-targets-as-part-of-6-6m-access-funding/",
+          "publishedOn": "2025-05-23T10:57:11.000Z",
+          "wordCount": 2576,
+          "title": "ICB imposes GP call response targets as part of £6.6m access funding",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/09/ICB-funds-170000-tourist-phone-line-instead-of-local-GP-services-e1663144446396.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162093",
+          "author": "Sofia Lind",
+          "description": "A feature allowing patients to track the status of their prescription has gone live for nearly 1,500 pharmacies, NHS England has announced. All Boots stores are among the pharmacies offering the service, with 5,000 more expected to join in the next year, covering 60% of England, the commissioner said. The feature enables patients to check\nThe post NHS App prescription tracking goes live for 1,500 pharmacies appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/long-term-conditions-prescribing/nhs-app-prescription-tracking-goes-live-for-1500-pharmacies/",
+          "publishedOn": "2025-05-23T10:51:22.000Z",
+          "wordCount": 2267,
+          "title": "NHS App prescription tracking goes live for 1,500 pharmacies",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/09/Mobile-phone.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162066",
+          "author": "Sofia Lind",
+          "description": "Health officials in Northern Ireland have given the go ahead for the first regional obesity management service to support the roll out of weight-loss medication in the community. The service will involve GPs alongside nurses, dieticians, psychologists, pharmacists, social prescribers and occupational therapy. However, the BMA warned that with much of the work likely to\nThe post NI to get first obesity management service to support weight-loss medication roll out appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/ni-to-get-first-obesity-management-service-to-support-weight-loss-medication-roll-out/",
+          "publishedOn": "2025-05-23T10:24:38.000Z",
+          "wordCount": 2259,
+          "title": "NI to get first obesity management service to support weight-loss medication roll out",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2024/10/man-weight-management-obesity-consultation-doctor.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=162079",
           "author": "Anna Colivicchi",
           "description": "Welsh GPs will receive a 4% pay uplift for 2025/26, after the Welsh Government accepted recommendations made by the doctors’ pay review body. The Review Body on Doctors’ and Dentists’ Remuneration (DDRB) recommended a headline 4% increase to salary scales, pay ranges and the pay elements of contracts from 1 April, which applies to all the nations\nThe post Welsh Government accepts DDRB recommendation on GP pay uplift appeared first on Pulse Today.",
@@ -1201,16 +1231,6 @@
           "wordCount": 2360,
           "title": "Government seeks GP views to underpin first-ever men’s health strategy",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/r/c/r/GettyImages-516542796-scaled-e1643202302750.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=161218",
-          "author": "Eliza Parr",
-          "description": "The rules around ARRS funding should be changed to allow for paid GP supervision time, a think tank has argued. In a new report on the supervision of additional roles in general practice, the Nuffield Trust found that there is ‘huge variability’ in the level and quality of support offered to clinical staff such as\nThe post GPs should be paid for ARRS staff supervision, says think tank appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/workforce/gps-should-be-paid-for-arrs-staff-supervision-says-think-tank/",
-          "publishedOn": "2025-04-23T23:01:00.000Z",
-          "wordCount": 2229,
-          "title": "GPs should be paid for ARRS staff supervision, says think tank",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/06/NHS-England-to-‘extend-success-of-ARRS-with-20000-new-staff.jpg"
         }
       ]
     },
@@ -1219,6 +1239,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1919097",
+          "author": null,
+          "description": "UK governments should work with the BMA to develop an 'index of general practice costs' that could be used to help determine uplifts to the expense element of GP contracts in future, the Doctors and Dentists Pay Review Body (DDRB) has said.",
+          "link": "https://www.gponline.com/ddrb-recommends-new-gp-cost-index-help-shape-contract-uplifts/article/1919097",
+          "publishedOn": "2025-05-23T10:00:00.000Z",
+          "wordCount": 948,
+          "title": "DDRB recommends new GP 'cost index' to help shape contract uplifts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-498534575-ezgif.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1919084",
           "author": null,
@@ -1868,16 +1898,6 @@
           "wordCount": 754,
           "title": "Define GP core services or risk unfunded work transfer from hospitals, LMCs to warn",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/LMCvote_12.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1915144",
-          "author": null,
-          "description": "GPs should be able to claim a proportion of additional roles reimbursement scheme (ARRS) cash to cover the cost of supervising staff hired through the scheme, according to a think tank.",
-          "link": "https://www.gponline.com/arrs-fund-gp-supervision-additional-roles-staff-says-think-tank/article/1915144",
-          "publishedOn": "2025-04-23T23:01:00.000Z",
-          "wordCount": 743,
-          "title": "ARRS should fund GP supervision of additional roles staff, says think tank",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-sturti_17.jpg"
         }
       ]
     },
@@ -3388,6 +3408,26 @@
       "feedUrl": "http://kingsfund.blogs.com/health_management/atom.xml",
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/forty-seventh-annual-report-on-senior-salaries.html",
+          "author": null,
+          "description": "Senior Salaries Review Body - This report sets out the Senior Salaries Review Body’s analysis of evidence. It makes recommendations on the remuneration of senior civil servants, senior officers in the Armed Forces, members of the judiciary, and senior leaders in the NHS in England. Report Senior Salaries Review Body - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/forty-seventh-annual-report-on-senior-salaries.html",
+          "publishedOn": "2025-05-23T10:55:59.000Z",
+          "wordCount": null,
+          "title": "Forty-seventh annual report on senior salaries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/review-body-on-doctors-and-dentists-remuneration-fifty-third-report-2025.html",
+          "author": null,
+          "description": "Review Body on Doctors' and Dentists' Remuneration - This report contains recommendations and observations from the Review Body on Doctors’ and Dentists’ Remuneration on doctors’ and dentists’ pay in England, Scotland, Wales, and Northern Ireland. Report Review Body on Doctors' and Dentists' Remuneration - publications",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/review-body-on-doctors-and-dentists-remuneration-fifty-third-report-2025.html",
+          "publishedOn": "2025-05-23T10:22:59.000Z",
+          "wordCount": null,
+          "title": "Review Body on Doctors’ and Dentists’ Remuneration: fifty third report – 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/nhs-pay-review-body-thirty-eighth-report-2025.html",
           "author": null,
