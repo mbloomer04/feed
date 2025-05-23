@@ -1220,6 +1220,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1919084",
+          "author": null,
+          "description": "Writing exclusively for GPonline, health and social care secretary Wes Streeting says this year's pay deal shows the government is committed to working in partnership with the medical profession to rebuild the NHS.",
+          "link": "https://www.gponline.com/wes-streeting-years-pay-deal-investment-improve-nhs/article/1919084",
+          "publishedOn": "2025-05-23T08:00:00.000Z",
+          "wordCount": 1812,
+          "title": "Wes Streeting: This year's pay deal is an investment to improve the NHS",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/WesStreeting_1.jpeg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1919059",
+          "author": null,
+          "description": "Talking General Practice speaks to Dr Caroline Watson, chair of the RCGP Secure Environments Group, about working as a GP in prisons and other secure environments.",
+          "link": "https://www.gponline.com/podcast-challenges-rewards-working-prison-gp/article/1919059",
+          "publishedOn": "2025-05-23T07:09:00.000Z",
+          "wordCount": 917,
+          "title": "Podcast: The challenges and rewards of working as a prison GP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_998.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1919043",
           "author": null,
           "description": "The government has backed a 4% uplift to GP pay in 2025/26 after accepting the recommendations of the Doctors and Dentists Review Body (DDRB).",
@@ -2631,6 +2651,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2017",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2017.",
+          "link": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2017",
+          "publishedOn": "2025-05-23T08:09:59.000Z",
+          "wordCount": 1446,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2017",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-pay-awards-2025-to-2026-doctors-and-dentists",
           "author": null,
@@ -4092,6 +4122,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=228405",
+          "author": "Owen Hughes",
+          "description": "Nine 'high-potential' digital health companies have been selected to participate in a new, Midlands-focused accelerator programme.",
+          "link": "https://www.digitalhealth.net/2025/05/grow-digital-health-midlands-announces-first-accelerator-cohort/",
+          "publishedOn": "2025-05-23T07:30:04.000Z",
+          "wordCount": 3706,
+          "title": "Grow Digital Health Midlands announces first accelerator cohort",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/shutterstock_2284170427-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=228413",
           "author": "Jordan Sollof",
