@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-26T23:11:54.348Z</updated>
+    <updated>2025-05-27T01:00:52.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS initiative helps thousands more tackle their diabetes risk]]></title>
+        <id>https://www.england.nhs.uk/?p=266923</id>
+        <link href="https://www.england.nhs.uk/2025/05/nhs-initiative-helps-thousands-more-tackle-their-diabetes-risk/"/>
+        <updated>2025-05-26T23:01:38.000Z</updated>
+        <summary type="html"><![CDATA[A record 166,360 more adults in England began receiving support last year from a world-leading NHS public health initiative, which helps people lose weight and make lifestyles changes to stop or delay them developing Type 2 diabetes, according to new data. The analysis also shows that more than 900,000 adults at high risk of developing […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faster cancer treatment thanks to new radiotherapy machines]]></title>
         <id>https://www.gov.uk/government/news/faster-cancer-treatment-thanks-to-new-radiotherapy-machines</id>
@@ -4982,16 +4992,6 @@ The post GP liability warning as health secretary pushes use of AI in NHS appear
         <link href="https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times"/>
         <updated>2025-04-27T23:01:09.000Z</updated>
         <summary type="html"><![CDATA[Reform of NHS App stops 1.5 million hospital appointments being missed, with 87% of hospitals now offering services through NHS App.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest health data reveals thousands of patients now seen quicker]]></title>
-        <id>https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker</id>
-        <link href="https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker"/>
-        <updated>2025-04-27T12:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of patients are securing appointments quicker every day as part of the government's drive to build an NHS fit for the future.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>

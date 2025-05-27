@@ -2405,6 +2405,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=266923",
+          "author": "Tom W",
+          "description": "A record 166,360 more adults in England began receiving support last year from a world-leading NHS public health initiative, which helps people lose weight and make lifestyles changes to stop or delay them developing Type 2 diabetes, according to new data. The analysis also shows that more than 900,000 adults at high risk of developing […]",
+          "link": "https://www.england.nhs.uk/2025/05/nhs-initiative-helps-thousands-more-tackle-their-diabetes-risk/",
+          "publishedOn": "2025-05-26T23:01:38.000Z",
+          "wordCount": 2128,
+          "title": "NHS initiative helps thousands more tackle their diabetes risk",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=266853",
           "author": "jboshell",
           "description": "Millions of patients can now track their prescriptions thanks to the rollout of a new feature in the NHS App helping to reduce unnecessary calls and visits to pharmacies. NHS England today announced that nearly 1,500 high street chemists – including every Boots in England – are now offering the service, which enables patients to […]",
@@ -3219,16 +3229,6 @@
           "publishedOn": "2025-04-27T23:01:09.000Z",
           "wordCount": 3715,
           "title": "Major NHS App expansion cuts waiting times",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker",
-          "author": null,
-          "description": "Thousands of patients are securing appointments quicker every day as part of the government's drive to build an NHS fit for the future.",
-          "link": "https://www.gov.uk/government/news/latest-health-data-reveals-thousands-of-patients-now-seen-quicker",
-          "publishedOn": "2025-04-27T12:06:06.000Z",
-          "wordCount": 2943,
-          "title": "Latest health data reveals thousands of patients now seen quicker",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
