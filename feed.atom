@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-27T10:14:14.719Z</updated>
+    <updated>2025-05-27T11:11:18.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICBs across the country plan mergers to cut running costs]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=162133</id>
+        <link href="https://www.pulsetoday.co.uk/news/nhs-structures/icbs-across-the-country-plan-mergers-to-cut-running-costs/"/>
+        <updated>2025-05-27T11:04:31.000Z</updated>
+        <summary type="html"><![CDATA[A number of ICBs across the country are planning to merge or create new ‘clusters’ in a bid to reduce running costs.  In the East of England, there are plans to reduce the number of ICBs from six to three, although the exact configuration is yet to be confirmed.  Meanwhile, in the South West region,
+The post ICBs across the country plan mergers to cut running costs appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=228343</id>
+        <link href="https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-72/"/>
+        <updated>2025-05-27T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Today's coffee briefing covers £13m in green funding for Newham Hospital, plus insights from the Philips Future Health Index 2025.]]></summary>
+        <author>
+            <name>Owen Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nottingham University Hospitals introduces bedside fit notes]]></title>
         <id>https://www.digitalhealth.net/?p=229075</id>
@@ -43,6 +64,16 @@ The post More than half of GPs want to see staff costs ringfenced in new GMS con
         <link href="https://www.gponline.com/unemployed-locum-gps-consider-childminding-school-teaching-roles/article/1918908"/>
         <updated>2025-05-27T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Exclusive: Locum GPs struggling to find employment are considering leaving the NHS to work in childcare or as teachers, a sessional GP organisation has revealed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP registrars to vote on strike action as resident doctor ballot opens]]></title>
+        <id>https://www.gponline.com/article/1919373</id>
+        <link href="https://www.gponline.com/gp-registrars-vote-strike-action-resident-doctor-ballot-opens/article/1919373"/>
+        <updated>2025-05-27T08:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Resident doctors including GP registrars have begun to receive ballots from the BMA over industrial action on pay.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
@@ -848,6 +879,17 @@ The service standard has recently undergone some small but significant updates. 
 The post UK to launch ‘world-first’ gonorrhoea vaccine programme appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global leaders reaffirm commitment to WHO with at least US$ 210 million raised at World Health Assembly 2025 pledging event]]></title>
+        <id>urn:uuid:1aaba9d6-202d-4f11-9f6c-60f1a5977aae</id>
+        <link href="https://www.who.int/news/item/20-05-2025-global-leaders-reaffirm-commitment-to-who-with-at-least-us-210-million-raised-at-world-health-assembly-2025-pledging-event"/>
+        <updated>2025-05-20T18:50:22.000Z</updated>
+        <summary type="html"><![CDATA[World leaders pledged at least an additional US$ 210 million to the World Health Organization (WHO) at a high-level pledging event Tuesday at the Seventy-eighth World Health Assembly in Geneva. Amid rising global health challenges, leaders reaffirmed their support for multilateral cooperation through these contributions to WHO’s Investment Round (IR). Earlier in the day, Member States approved an increase in Assessed Contributions, adding a separate US$ 90 million a year of income, and marking another important step on WHO’s journey towards sustainable financing.
+The IR is raising funds for WHO’s strategy for global health, the  Fourteenth General Programme of Work, which can save an additional 40 million lives over the next four years. The pledges made today represent significant contribu…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -5077,16 +5119,6 @@ The post GP liability warning as health secretary pushes use of AI in NHS appear
         <summary type="html"><![CDATA[Children’s Health Ireland (CHI) has signed a five-year contract with medical imaging and cyber security company Sectra.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major NHS App expansion cuts waiting times]]></title>
-        <id>https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times</id>
-        <link href="https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times"/>
-        <updated>2025-04-27T23:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Reform of NHS App stops 1.5 million hospital appointments being missed, with 87% of hospitals now offering services through NHS App.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
 </feed>
