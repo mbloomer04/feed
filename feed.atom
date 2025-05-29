@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-05-29T08:17:38.802Z</updated>
+    <updated>2025-05-29T09:13:48.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[NHSE is investigating a cyber incident at two NHS trusts after hackers exploited a vulnerability in software used to manage mobile phones.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO, Africa CDC and RKI expand unique partnership to strengthen collaborative surveillance in Africa]]></title>
+        <id>urn:uuid:e49990d7-1975-4b68-9081-527f708f2380</id>
+        <link href="https://www.who.int/news/item/29-05-2025-who--africa-cdc-and-rki-expand-unique-partnership-to-strengthen-collaborative-surveillance-in-africa"/>
+        <updated>2025-05-29T07:14:53.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO), Africa Centres for Disease Control and Prevention (Africa CDC) and the Robert Koch Institute (RKI) announced today the expansion of the successful Health Security Partnership to Strengthen Disease Surveillance in Africa (HSPA) to seven countries on the continent. 
+Africa experiences more disease outbreaks than any other part of the world. While significant progress has been made in strengthening disease surveillance over the past decade, no country can tackle today’s complex health threats alone.
+The Health Security Partnership strengthens disease surveillance and epidemic intelligence across the African continent, enabling countries to better detect and respond to public health threats - whether they are natural, accidental or deliberate.  Launched in …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
