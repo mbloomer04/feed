@@ -1150,6 +1150,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1919101",
+          "author": null,
+          "description": "Dr Matt Harris and London GP Dr Connie Junghans Minton explain how an initiative involving community health and wellbeing workers, which is based on a long-running scheme from Brazil, is helping to tackle health inequalities.",
+          "link": "https://www.gponline.com/podcast-community-worker-scheme-brazil-part-10-year-health-plan/article/1919101",
+          "publishedOn": "2025-05-30T07:54:00.000Z",
+          "wordCount": 750,
+          "title": "Podcast: The community worker scheme from Brazil that could be part of the 10-Year Health Plan",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_999.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1919725",
           "author": null,
           "description": "GPs have missed out on tax compensation worth millions of pounds because of complex rules around a scheme designed to protect NHS staff from charges linked to the annual allowance on pensions, experts say.",
@@ -3961,6 +3971,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=229429",
+          "author": "Jordan Sollof",
+          "description": "This contracts and go lives roundup includes an electronic patient record (EPR) go-live across St George’s, Epsom and St Helier Hospitals.",
+          "link": "https://www.digitalhealth.net/2025/05/digital-healths-monthly-roundup-of-contracts-and-go-lives-53/",
+          "publishedOn": "2025-05-30T07:30:58.000Z",
+          "wordCount": 3858,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Contract-Sign.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=229663",
           "author": "Jordan Sollof",
