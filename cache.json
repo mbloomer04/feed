@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "be3399d2-b2a5-4504-8a1d-513e9e6a0f93",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-5307 could allow a local attacker to disclose sensitive information or execute arbitrary code\n CVE-2025-5307 could allow a local attacker to disclose sensitive information or execute arbitrary code\n Updated: 30 May 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4661",
+          "publishedOn": "2025-05-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4661 - Santesoft Releases Security Update for Sante DICOM Viewer Pro",
+          "imageUrl": null
+        },
+        {
           "id": "cccf7f75-0b86-465c-99ba-9d9aa8f34676",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services\n Advisory addresses two critical vulnerabilities that could lead to arbitrary code execution and allow unauthorised access to internal VMware Cloud Foundation services\n Updated: 21 May 2025",
@@ -3208,6 +3218,16 @@
       "siteUrl": "https://kingsfund.blogs.com/health_management/",
       "articles": [
         {
+          "id": "https://kingsfund.blogs.com/health_management/2025/05/evaluation-of-the-better-care-fund-support-programme-2023-to-2025.html",
+          "author": null,
+          "description": "Department of Health and Social Care (DHSC) - The Department of Health and Social Care commissioned Ipsos UK, in partnership with the Institute of Public Care at Oxford Brookes University, to conduct an evaluation of the Better Care Fund (BCF) Support Programme. The evaluation explores local authorities' perceptions of the design and delivery of the BCF support programme; the enablers...",
+          "link": "https://kingsfund.blogs.com/health_management/2025/05/evaluation-of-the-better-care-fund-support-programme-2023-to-2025.html",
+          "publishedOn": "2025-05-30T09:56:34.000Z",
+          "wordCount": null,
+          "title": "Evaluation of the Better Care Fund Support Programme 2023 to 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://kingsfund.blogs.com/health_management/2025/05/the-care-expectation-gap.html",
           "author": null,
           "description": "Joseph Rowntree Foundation - This briefing suggests that people are unaware of the challenges of the social care system and thus are likely not preparing for a future in which they may have to meet significant care costs or care themselves. It found that only 19% of the general public correctly guessed that the cost of professional home care services...",
@@ -3971,6 +3991,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=229527",
+          "author": "Jordan Sollof",
+          "description": "Leeds Teaching Hospitals NHS Trust (LTHT) has deployed Annalise.ai’s AI chest X-ray solution to speed up diagnosis and improve patient care.",
+          "link": "https://www.digitalhealth.net/2025/05/ai-chest-x-ray-software-rolled-out-at-leeds-teaching-hospitals/",
+          "publishedOn": "2025-05-30T10:00:23.000Z",
+          "wordCount": 3780,
+          "title": "AI chest X-ray software rolled out at Leeds Teaching Hospitals",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Annalise.ai-LTHT.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=229429",
           "author": "Jordan Sollof",
