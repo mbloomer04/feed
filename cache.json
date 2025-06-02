@@ -3792,6 +3792,16 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=229589",
+          "author": "Owen Hughes",
+          "description": "Barts Health NHS Trust has implemented Sectra’s Anonymise and Export functionality, which de-identifies medical images for research purposes.",
+          "link": "https://www.digitalhealth.net/2025/06/barts-health-deploys-imaging-de-identification-tool/",
+          "publishedOn": "2025-06-02T07:30:27.000Z",
+          "wordCount": 3557,
+          "title": "Barts Health deploys imaging de-identification tool",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/imaging-scanning-mri-ct-xray.jpg"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=228373",
           "author": "Owen Hughes",
           "description": "At-home and domicilliary provider Trinity Homecare has completed a successful pilot of CareBrain's AI-driven support app.",
