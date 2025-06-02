@@ -1110,6 +1110,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1919947",
+          "author": null,
+          "description": "GPs make up more than half of health professionals receiving support from a confidential specialist NHS mental health service.",
+          "link": "https://www.gponline.com/thousands-gps-seeking-support-specialist-nhs-mental-health-service/article/1919947",
+          "publishedOn": "2025-06-02T09:35:00.000Z",
+          "wordCount": 901,
+          "title": "Thousands of GPs seeking support from specialist NHS mental health service",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_RF_9.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1919603",
           "author": null,
           "description": "A GP who resigned from an additional roles reimbursement scheme (ARRS) job after just six months - despite a long struggle to find work - has revealed why leaving was the only option.",
@@ -2430,6 +2440,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/nearly-1-billion-for-nhs-frontline-after-agency-spend-crackdown",
+          "author": null,
+          "description": "Government crack-down on rip-off temporary staffing agencies delivers unprecedented savings, as NHS trusts are urged to eradicate agency spending altogether",
+          "link": "https://www.gov.uk/government/news/nearly-1-billion-for-nhs-frontline-after-agency-spend-crackdown",
+          "publishedOn": "2025-06-02T11:41:18.000Z",
+          "wordCount": 2422,
+          "title": "Nearly £1 billion for NHS frontline after agency spend crackdown",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/telecare-users-and-their-loved-ones-across-the-uk-urged-to-speak-to-telecoms-providers-ahead-of-switch-to-digital-landlines",
           "author": null,
