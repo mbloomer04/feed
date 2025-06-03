@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "26bf6432-f21e-472b-b6e5-230cc1f87952",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome for Windows\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 03 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4662",
+          "publishedOn": "2025-06-03T13:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4662 - Google Releases Security Updates for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "be3399d2-b2a5-4504-8a1d-513e9e6a0f93",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-5307 could allow a local attacker to disclose sensitive information or execute arbitrary code\n CVE-2025-5307 could allow a local attacker to disclose sensitive information or execute arbitrary code\n Updated: 30 May 2025",
