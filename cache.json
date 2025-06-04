@@ -143,6 +143,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=162393",
+          "author": "Eliza Parr",
+          "description": "The Government-commissioned safety review of physician associates will reportedly conclude that their title should be changed to avoid patient confusion. This morning, the Guardian reported that the Government is likely to accept Professor Gillian Leng’s review findings on a title change, which could lead to PAs being renamed ‘physician assistants’ – their original title in\nThe post Physician associates ‘likely to be renamed’ after safety review appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/physician-associates-likely-to-be-renamed-after-safety-review/",
+          "publishedOn": "2025-06-04T10:24:33.000Z",
+          "wordCount": 2366,
+          "title": "Physician associates ‘likely to be renamed’ after safety review",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/PA-physicianassociate-GP-patientnotes-records.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162391",
+          "author": "Anna Colivicchi",
+          "description": "Pulse’s features assistant Maya Dhillon has won a prestigious award for her ‘important’ journalism, shining a light on the negative impact of misleading GP headlines. At the British Society of Magazine Editors Talent Awards yesterday evening, Maya took home the Unsung Hero award, celebrating the ‘secret powerhouses’ of magazine and digital media brands. The judges\nThe post Pulse journalist wins award for delving behind  misleading GP headlines appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/practice-personal-finance/pulse-journalist-wins-award-for-delving-behind-misleading-gp-headlines/",
+          "publishedOn": "2025-06-04T10:21:36.000Z",
+          "wordCount": 2112,
+          "title": "Pulse journalist wins award for delving behind  misleading GP headlines",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/06/maya-award-resized.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=162369",
           "author": "Maya Dhillon",
           "description": "Maya Dhillon takes on May’s talking points – how involved will GPs be in tirzepatide prescribing, and how do we approach conversations about ‘prioritising’ domestic medical graduates over international ones? What role will GPs really play in weight-loss drugs? The rollout of tirzepatide (Mounjaro) in primary care begins this month, a year since the initial NICE\nThe post Big questions: GP tirzepatide prescribing and international medical graduates appeared first on Pulse Today.",
@@ -2572,16 +2592,6 @@
           "wordCount": 1428,
           "title": "NHS top doctor issues call for Spring COVID-19 vaccinations",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=265947",
-          "author": "jboshell",
-          "description": "Revolutionary AI-driven 3D heart scans cut the need for invasive tests and have already saved millions of pounds, according to new analysis. Now rolled out across 56 NHS hospitals in England, the clever tech enables doctors to diagnose and treat patients with suspected heart disease much faster by turning a CT scan of their heart […]",
-          "link": "https://www.england.nhs.uk/2025/05/futuristic-3d-heart-scans-speed-up-diagnosis-and-save-millions/",
-          "publishedOn": "2025-05-05T23:01:03.000Z",
-          "wordCount": 1882,
-          "title": "Futuristic 3D heart scans on NHS speed up diagnosis and save millions",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2590,6 +2600,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2025",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2025",
+          "publishedOn": "2025-06-04T10:40:41.000Z",
+          "wordCount": 788,
+          "title": "Transparency data: DHSC: workforce management information March 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-jcvi-chair-appointed",
           "author": null,
@@ -3734,6 +3754,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:5757e0c3-1684-4801-9ed0-d7fc163f2566",
+          "author": null,
+          "description": "This week marks one year since dozens of personnel from the United Nations, nongovernmental and civil society organizations, and diplomatic missions were arbitrarily detained by the Houthi de facto authorities in northern Yemen. Others have been detained since as far back as 2021. Today, we reiterate our urgent demand for their immediate and unconditional release.\nAs of today, 23 UN and five international nongovernmental organizations (INGOs) personnel remain arbitrarily detained. Tragically, one UN staff member and another from Save the Children have died in detention. Others have lost loved ones while being held, denied the chance to attend their funerals or say goodbye.   Our arbitrarily detained colleagues have spent at least 365 days – and for some, over 1000 days – isolated from thei…",
+          "link": "https://www.who.int/news/item/03-06-2025-one-year-in-detention--heads-of-united-nations-agencies-and-ingos-renew-demand-for-release-of-staff-detained-in-northern-yemen",
+          "publishedOn": "2025-06-04T09:35:38.000Z",
+          "wordCount": 2122,
+          "title": "One year in detention: heads of United Nations agencies and INGOs renew demand for release of staff detained in northern Yemen",
+          "imageUrl": null
+        },
         {
           "id": "urn:uuid:815e534c-538b-4e45-a7e4-1c623f746b29",
           "author": null,
