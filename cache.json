@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "102d9437-a48d-4672-a1f8-75c365186285",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address a vulnerability that could lead to authenticated remote code execution\n Security update addresses a critical severity security vulnerability in Roundcube Webmail\n Updated: 04 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4663",
+          "publishedOn": "2025-06-04T13:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4663 - Roundcube Releases Security Updates for Webmail",
+          "imageUrl": null
+        },
+        {
           "id": "26bf6432-f21e-472b-b6e5-230cc1f87952",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome for Windows\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 03 Jun 2025",

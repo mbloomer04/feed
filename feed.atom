@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-04T13:29:08.311Z</updated>
+    <updated>2025-06-04T14:10:55.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4663 - Roundcube Releases Security Updates for Webmail]]></title>
+        <id>102d9437-a48d-4672-a1f8-75c365186285</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4663"/>
+        <updated>2025-06-04T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates address a vulnerability that could lead to authenticated remote code execution
+ Security update addresses a critical severity security vulnerability in Roundcube Webmail
+ Updated: 04 Jun 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Older people have increased risk of postural hypotension in first month of antidepressants]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162062</id>
