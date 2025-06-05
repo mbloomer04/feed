@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1920796",
+          "author": null,
+          "description": "GPs have questioned a £450m government plan to expand urgent and emergency care - warning the proposals are a missed opportunity to boost capacity in general practice by creating jobs for thousands of out-of-work GPs.",
+          "link": "https://www.gponline.com/450m-urgent-care-plan-wrong-solution-amid-gp-jobs-crisis/article/1920796",
+          "publishedOn": "2025-06-05T23:01:00.000Z",
+          "wordCount": 924,
+          "title": "£450m urgent care plan 'wrong solution' amid GP jobs crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Hospital_sign_GettyImages-GeorgeClerk_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1920682",
           "author": null,
           "description": "Unemployed GPs are working sessions for free to avoid losing their licence to practise and to try to prevent long gaps on their CVs, doctors' leaders have warned.",
@@ -1838,16 +1848,6 @@
           "wordCount": 928,
           "title": "Locum GPs forced to cut rates again due to work shortage",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896426-ezgif.com-optijpeg_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1916989",
-          "author": null,
-          "description": "An NHS blueprint outlining changes to the 'focus, role and functions' of ICBs as they aim to slash running costs by 50% could drive a significant shift in management of primary care.",
-          "link": "https://www.gponline.com/icbs-told-merge-functions-blueprint-outlines-primary-care-shift/article/1916989",
-          "publishedOn": "2025-05-07T10:16:10.000Z",
-          "wordCount": 924,
-          "title": "ICBs told to 'merge functions' as blueprint outlines primary care shift",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_GettyImages-MikeKemp_7.jpg"
         }
       ]
     },
@@ -2640,6 +2640,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/new-ambulances-and-faster-emergency-care-for-patients-next-winter",
+          "author": null,
+          "description": "Patients will receive better, faster and more appropriate emergency care as the government sets out reforms to shorten waiting times in A&E.",
+          "link": "https://www.gov.uk/government/news/new-ambulances-and-faster-emergency-care-for-patients-next-winter",
+          "publishedOn": "2025-06-05T23:01:01.000Z",
+          "wordCount": 4175,
+          "title": "New ambulances and faster emergency care for patients next winter",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
           "author": null,
@@ -3765,16 +3775,6 @@
           "publishedOn": "2025-05-08T09:32:18.000Z",
           "wordCount": null,
           "title": "Digitising the NHS and adult social care: what could it cost?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kingsfund.blogs.com/health_management/2025/05/investment-priorities-for-mental-health-2025.html",
-          "author": null,
-          "description": "Centre for Mental Health - At a time of rising demand for mental health care and years of declining mental wellbeing in society, mental health services in England are under enormous pressure. The upcoming ten-year health plan and Spending Review is an opportunity for the government to ensure public money is spent wisely, on services that will meet people’s needs...",
-          "link": "https://kingsfund.blogs.com/health_management/2025/05/investment-priorities-for-mental-health-2025.html",
-          "publishedOn": "2025-05-07T11:11:29.000Z",
-          "wordCount": null,
-          "title": "Investment priorities for mental health 2025",
           "imageUrl": null
         }
       ]
