@@ -2581,6 +2581,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "author": null,
+          "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "publishedOn": "2025-06-05T07:28:10.000Z",
+          "wordCount": 1051,
+          "title": "Notice: Life Sciences Healthcare Goals",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2025-to-2026",
           "author": null,
           "description": "Information about NHS England's objectives and funding arrangements as it commissions public health services.",
@@ -4031,6 +4041,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=230117",
+          "author": "Jordan Sollof",
+          "description": "NHS England has cancelled a £69m electronic bed capacity management systems (eBCMS) programme to fund more electronic patient records (EPRs).",
+          "link": "https://www.digitalhealth.net/2025/06/nhse-cancels-69m-ebcms-programme-to-fund-more-eprs/",
+          "publishedOn": "2025-06-05T07:30:48.000Z",
+          "wordCount": 3842,
+          "title": "NHSE cancels £69m eBCMS programme to fund more EPRs",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/Patient-and-doctor.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230091",
           "author": "Tammy Lovell",
