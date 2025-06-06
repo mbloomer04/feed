@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-05T23:14:02.086Z</updated>
+    <updated>2025-06-06T01:02:19.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New ambulances and faster emergency care for patients next winter]]></title>
+        <id>https://www.england.nhs.uk/?p=267657</id>
+        <link href="https://www.england.nhs.uk/2025/06/new-ambulances-and-faster-emergency-care-for-patients-next-winter/"/>
+        <updated>2025-06-05T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Patients will receive better, faster and more appropriate emergency care as the government sets out reforms to shorten waiting times and tackle persistently failing trusts. The new package of investment and reforms will improve patients’ experiences this year, including by caring for more patients in the community, rather than in hospital which is often worse […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ambulances and faster emergency care for patients next winter]]></title>
         <id>https://www.gov.uk/government/news/new-ambulances-and-faster-emergency-care-for-patients-next-winter</id>
@@ -5246,27 +5256,6 @@ The post Consultants should face-to-face up to post-Covid consulting appeared fi
         <summary type="html"><![CDATA[Information on the Department of Health and Social Care's (DHSC) approach to the use of administrative sources for statistical purposes.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital leadership earmarked for transfer from ICBs to providers]]></title>
-        <id>https://www.digitalhealth.net/?p=227589</id>
-        <link href="https://www.digitalhealth.net/2025/05/digital-leadership-earmarked-for-transfer-from-icbs-to-providers/"/>
-        <updated>2025-05-07T12:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Digital leadership and transformation are being reviewed for transfer from ICBs  to providers, according to a blueprint from NHS England.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linzagolix approved as second at-home treatment option for endometriosis]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=161552</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/womens-health-gynaecology-obstetrics/linzagolix-approved-as-second-at-home-treatment-option-for-endometriosis/"/>
-        <updated>2025-05-07T11:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Up to 1,000 women a year could benefit from a second at-home treatment option for endometriosis, as linzagolix has been approved by NICE. A daily dose of linzagolix should be made available for patients whose previous medical or surgical treatments for endometriosis have been unsuccessful, NICE has recommended in draft guidance. It will need to
-The post Linzagolix approved as second at-home treatment option for endometriosis appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
         </author>
     </entry>
 </feed>
