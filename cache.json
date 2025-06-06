@@ -2641,6 +2641,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app",
+          "author": null,
+          "description": "Millions more patients will receive appointments, screening invitations and other important information via the NHS App, as part of £50million upgrade.",
+          "link": "https://www.gov.uk/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app",
+          "publishedOn": "2025-06-06T23:01:01.000Z",
+          "wordCount": 2230,
+          "title": "Patients to receive reminders and test results via the NHS App",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/new-ambulances-and-faster-emergency-care-for-patients-next-winter",
           "author": null,
           "description": "Patients will receive better, faster and more appropriate emergency care as the government sets out reforms to shorten waiting times in A&E.",
@@ -4810,16 +4820,6 @@
           "wordCount": 3787,
           "title": "Patient record system goes live across Northern Ireland",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/My-Care-portal-Northern-Ireland.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=226917",
-          "author": "Owen Hughes",
-          "description": "Our latest coffee briefing covers to go-live of the WIVS across GP practices in Wales and PocDoc partnering with Superdrug.",
-          "link": "https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-67/",
-          "publishedOn": "2025-05-08T10:30:23.000Z",
-          "wordCount": 3849,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-06T22:12:11.075Z</updated>
+    <updated>2025-06-06T23:12:12.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patients to receive reminders and test results via the NHS App]]></title>
+        <id>https://www.gov.uk/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app</id>
+        <link href="https://www.gov.uk/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app"/>
+        <updated>2025-06-06T23:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Millions more patients will receive appointments, screening invitations and other important information via the NHS App, as part of £50million upgrade.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCGP calls on Government to ‘break down barriers’ to GP partnership]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162513</id>
@@ -5229,16 +5239,6 @@ The post Top ten advice and guidance requests in gastroenterology appeared first
 The post BMA launches ‘value of a GP’ campaign to make case for investment appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=226917</id>
-        <link href="https://www.digitalhealth.net/2025/05/digital-health-coffee-time-briefing-%e2%98%95-67/"/>
-        <updated>2025-05-08T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Our latest coffee briefing covers to go-live of the WIVS across GP practices in Wales and PocDoc partnering with Superdrug.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
         </author>
     </entry>
 </feed>
