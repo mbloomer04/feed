@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-09T09:14:47.287Z</updated>
+    <updated>2025-06-09T10:14:29.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Northampton General Hospital to launch Nervecentre EPR]]></title>
+        <id>https://www.digitalhealth.net/?p=230313</id>
+        <link href="https://www.digitalhealth.net/2025/06/northampton-general-hospital-to-launch-nervecentre-epr/"/>
+        <updated>2025-06-09T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Northampton General Hospital (NGH) NHS Trust has announced the go live date for its Nervecentre electronic patient record (EPR) system.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mounjaro primary care plans not yet finalised despite looming deadline]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=162439</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/mounjaro-primary-care-plans-not-yet-finalised-despite-looming-deadline/"/>
+        <updated>2025-06-09T09:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive Many areas in England have not yet finalised plans for tirzepatide (Mounjaro) delivery in primary care, despite the NICE deadline being less than three weeks away. In response to a Pulse request to all 42 ICBs, only eight areas could confirm which model they will use to implement the NICE recommendation for tirzepatide prescribing
+The post Mounjaro primary care plans not yet finalised despite looming deadline appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Eliza Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flo Health adopts Databricks platform to power analytics and AI]]></title>
         <id>https://www.digitalhealth.net/?p=230209</id>
