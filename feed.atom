@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-09T07:14:15.784Z</updated>
+    <updated>2025-06-09T08:19:19.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flo Health adopts Databricks platform to power analytics and AI]]></title>
+        <id>https://www.digitalhealth.net/?p=230209</id>
+        <link href="https://www.digitalhealth.net/2025/06/flo-health-adopts-databricks-platform-to-power-analytics-and-ai/"/>
+        <updated>2025-06-09T07:30:23.000Z</updated>
+        <summary type="html"><![CDATA[FemTech firm Flo Health  has adopted a data intelligence platform from Databricks to power its analytics and AI initiatives.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patients to receive reminders and test results via the NHS App]]></title>
         <id>https://www.gov.uk/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app</id>
