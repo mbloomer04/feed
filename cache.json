@@ -2494,6 +2494,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=267797",
+          "author": "rwootton",
+          "description": "More accurate human papillomavirus (HPV) testing will enable millions of women and people with a cervix in England to benefit from more personalised cervical screening from next month, the NHS has announced today. From July, younger women (aged 25 to 49) who test negative for HPV, meaning they are at very low risk of cervical […]",
+          "link": "https://www.england.nhs.uk/2025/06/nhs-rolls-out-more-personalised-cervical-screening-for-millions/",
+          "publishedOn": "2025-06-10T14:10:38.000Z",
+          "wordCount": 1956,
+          "title": "NHS rolls out more personalised cervical screening for millions",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=267738",
           "author": "jboshell",
           "description": "Thousands of people affected and infected by the contaminated blood scandal in England will be able to self-refer from today for psychological treatment from a bespoke new NHS service. The nationwide service, which began treating its first patients last September, will include access to talking therapies, peer support and psychosocial support, as well as other […]",
@@ -2630,6 +2640,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/our-plan-to-improve-the-lives-of-people-with-mecfs-easy-read",
+          "author": null,
+          "description": "The government has written a plan to support people who live with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).",
+          "link": "https://www.gov.uk/government/consultations/our-plan-to-improve-the-lives-of-people-with-mecfs-easy-read",
+          "publishedOn": "2025-06-10T16:02:33.000Z",
+          "wordCount": 1308,
+          "title": "Our plan to improve the lives of people with ME/CFS (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/proposed-review-of-the-statutory-scheme-for-branded-medicines-pricing",
+          "author": null,
+          "description": "This consultation seeks views on proposals to update the statutory scheme to control the cost of branded health service medicines.",
+          "link": "https://www.gov.uk/government/consultations/proposed-review-of-the-statutory-scheme-for-branded-medicines-pricing",
+          "publishedOn": "2025-06-10T15:55:01.000Z",
+          "wordCount": 1731,
+          "title": "Proposed review of the statutory scheme for branded medicines pricing",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/nhs-red-tape-blitz-delivers-game-changing-new-cancer-treatment",
           "author": null,
