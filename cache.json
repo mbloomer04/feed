@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1921209",
+          "author": null,
+          "description": "GPs could prescribe a wider range of treatments for chronic heart failure under draft NICE guidance on diagnosis and management of the disease.",
+          "link": "https://www.gponline.com/gp-prescribing-chronic-heart-failure-expand-draft-nice-guidance/article/1921209",
+          "publishedOn": "2025-06-10T09:05:12.000Z",
+          "wordCount": 912,
+          "title": "GP prescribing for chronic heart failure to expand under draft NICE guidance",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_11.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1921057",
           "author": null,
           "description": "GP roles are being advertised with salaries ‘drastically’ lower than they were a decade ago, leading GPs have warned.",
@@ -3189,16 +3199,6 @@
           "wordCount": 2472,
           "title": "More scanners across the country for better care of brittle bones",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/overseas-recruitment-for-care-workers-to-end",
-          "author": null,
-          "description": "International recruitment for care workers will end under plans announced by Home Secretary Yvette Cooper.",
-          "link": "https://www.gov.uk/government/news/overseas-recruitment-for-care-workers-to-end",
-          "publishedOn": "2025-05-11T21:30:03.000Z",
-          "wordCount": 1439,
-          "title": "Overseas recruitment for care workers to end",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/669fa7f5ce1fd0da7b592afc/s960_2MS_Home_Office_sign_-_landscape.jpg"
         }
       ]
     },
@@ -3933,26 +3933,6 @@
           "wordCount": 3067,
           "title": "WHO Results Report 2024 shows health progress across regions overcoming critical challenges",
           "imageUrl": "https://cdn.who.int/media/images/default-source/products/results-report/2025/1m5a7334.tmb-1200v.jpg?sfvrsn=c5aedb46_1"
-        },
-        {
-          "id": "urn:uuid:5aec9c4d-e5ce-48d0-bca2-5d4b8487bd91",
-          "author": null,
-          "description": "The global nursing workforce has grown from 27.9 million in 2018 to 29.8 million in 2023, but wide disparities in the availability of nurses remain across regions and countries, according to the State of the World’s Nursing 2025 report, published by the World Health Organization (WHO), International Council of Nurses (ICN) and partners. Inequities in the global nursing workforce leave many of the world’s population without access to essential health services, which could threaten progress towards universal health coverage (UHC), global health security and the health-related development goals.  \nThe new report released on International Nurses Day provides a comprehensive and up-to-date analysis of the nursing workforce at global, regional and country levels. Consolidating information from W…",
-          "link": "https://www.who.int/news/item/11-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals",
-          "publishedOn": "2025-05-11T21:57:49.000Z",
-          "wordCount": 3311,
-          "title": "Nursing workforce grows, but inequities threaten global health goals",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/nursing-and-midwifery/blood-clinic-cape-town.tmb-1200v.jpg?sfvrsn=2d31bbb9_3"
-        },
-        {
-          "id": "urn:uuid:5aec9c4d-e5ce-48d0-bca2-5d4b8487bd91",
-          "author": null,
-          "description": "The global nursing workforce has grown from 27.9 million in 2018 to 29.8 million in 2023, but wide disparities in the availability of nurses remain across regions and countries, according to the State of the World’s Nursing 2025 report, published by the World Health Organization (WHO), International Council of Nurses (ICN) and partners. Inequities in the global nursing workforce leave many of the world’s population without access to essential health services, which could threaten progress towards universal health coverage (UHC), global health security and the health-related development goals.  \nThe new report released on International Nurses Day provides a comprehensive and up-to-date analysis of the nursing workforce at global, regional and country levels. Consolidating information from W…",
-          "link": "https://www.who.int/news/item/12-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals",
-          "publishedOn": "2025-05-11T21:57:49.000Z",
-          "wordCount": 3311,
-          "title": "Nursing workforce grows, but inequities threaten global health goals",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/nursing-and-midwifery/blood-clinic-cape-town.tmb-1200v.jpg?sfvrsn=2d31bbb9_2"
         }
       ]
     },
@@ -3961,6 +3941,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=230421",
+          "author": "Jordan Sollof",
+          "description": "The NHS Confederation and Beamtree have partnered to roll out an AI and machine learning analytics platform.",
+          "link": "https://www.digitalhealth.net/2025/06/nhs-confederation-and-beamtree-partner-to-launch-ai-data-tool/",
+          "publishedOn": "2025-06-10T10:00:03.000Z",
+          "wordCount": 3735,
+          "title": "NHS Confederation and Beamtree partner to launch AI data tool",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/shutterstock_2284170427-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230445",
           "author": "Jordan Sollof",
