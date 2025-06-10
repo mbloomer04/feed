@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-10T08:18:26.933Z</updated>
+    <updated>2025-06-10T09:14:31.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Commercial procurement pipeline for DHSC]]></title>
+        <id>https://www.gov.uk/government/publications/commercial-procurement-pipeline-for-dhsc</id>
+        <link href="https://www.gov.uk/government/publications/commercial-procurement-pipeline-for-dhsc"/>
+        <updated>2025-06-10T08:14:40.000Z</updated>
+        <summary type="html"><![CDATA[A forecast of potential commercial activity over the next 48 months where spend is over £2 million.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Irish startup to deploy clinical decision support tool in NHS]]></title>
         <id>https://www.digitalhealth.net/?p=230445</id>
