@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1921233",
+          "author": null,
+          "description": "UK taxpayers' money is training a generation of GPs to work overseas - because a shortage of jobs and low pay means there is no place for them in the NHS, the BMA has warned.",
+          "link": "https://www.gponline.com/uk-taxpayer-cash-training-gps-jobs-australia-warns-bma/article/1921233",
+          "publishedOn": "2025-06-10T11:00:00.000Z",
+          "wordCount": 934,
+          "title": "UK taxpayer cash 'training GPs for jobs in Australia', warns BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign1-20160302054633365_35.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1921209",
           "author": null,
           "description": "GPs could prescribe a wider range of treatments for chronic heart failure under draft NICE guidance on diagnosis and management of the disease.",
@@ -1218,6 +1228,16 @@
           "wordCount": 912,
           "title": "GP prescribing for chronic heart failure to expand under draft NICE guidance",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_11.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1921159",
+          "author": null,
+          "description": "GP leaders have urged the profession to 'wait for the evidence' after surgeons said digital rectal exams are 'no longer a useful test for prostate cancer' and should be discontinued.",
+          "link": "https://www.gponline.com/gps-urged-wait-evidence-urologists-back-scrapping-digital-rectal-exams/article/1921159",
+          "publishedOn": "2025-06-10T08:11:00.000Z",
+          "wordCount": 931,
+          "title": "GPs urged to 'wait for evidence' as urologists back scrapping digital rectal exams",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP-201412220249265751-2018031206200658_78.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1921057",
@@ -3199,16 +3219,6 @@
           "wordCount": 825,
           "title": "Transparency data: DHSC: spending over £500, June 2024",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/fake-nurse-crackdown-to-boost-public-safety",
-          "author": null,
-          "description": "New measures to make it a criminal offence for people who are not qualified as a nurse to use the title and mislead the public",
-          "link": "https://www.gov.uk/government/news/fake-nurse-crackdown-to-boost-public-safety",
-          "publishedOn": "2025-05-11T23:15:06.000Z",
-          "wordCount": 3593,
-          "title": "Fake nurse crackdown to boost public safety",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
