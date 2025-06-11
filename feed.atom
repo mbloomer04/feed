@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-11T07:12:59.344Z</updated>
+    <updated>2025-06-11T08:17:45.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UPMC Ireland to implement MEDITECH Expanse EPR]]></title>
+        <id>https://www.digitalhealth.net/?p=230581</id>
+        <link href="https://www.digitalhealth.net/2025/06/upmc-ireland-to-implement-meditech-expanse-epr/"/>
+        <updated>2025-06-11T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Global healthcare provider UPMC Ireland has confirmed it will implement the MEDITECH Expanse electronic patient record (EPR).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs in the dark as promised 4% pay rise yet to materialise]]></title>
+        <id>https://www.gponline.com/article/1921263</id>
+        <link href="https://www.gponline.com/gps-dark-promised-4-pay-rise-yet-materialise/article/1921263"/>
+        <updated>2025-06-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders have yet to receive confirmation from the government on how or when a promised 4% pay increase for general practice in 2025/26 will be delivered, amid fears the uplift will fall short.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millions to benefit from NHS robot drive]]></title>
         <id>https://www.england.nhs.uk/?p=267837</id>

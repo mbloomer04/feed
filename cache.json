@@ -1170,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1921263",
+          "author": null,
+          "description": "GP leaders have yet to receive confirmation from the government on how or when a promised 4% pay increase for general practice in 2025/26 will be delivered, amid fears the uplift will fall short.",
+          "link": "https://www.gponline.com/gps-dark-promised-4-pay-rise-yet-materialise/article/1921263",
+          "publishedOn": "2025-06-11T07:00:00.000Z",
+          "wordCount": 936,
+          "title": "GPs in the dark as promised 4% pay rise yet to materialise",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_31.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1921233",
           "author": null,
           "description": "UK taxpayers' money is training a generation of GPs to work overseas - because a shortage of jobs and low pay means there is no place for them in the NHS, the BMA has warned.",
@@ -3821,6 +3831,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=230581",
+          "author": "Jordan Sollof",
+          "description": "Global healthcare provider UPMC Ireland has confirmed it will implement the MEDITECH Expanse electronic patient record (EPR).",
+          "link": "https://www.digitalhealth.net/2025/06/upmc-ireland-to-implement-meditech-expanse-epr/",
+          "publishedOn": "2025-06-11T07:30:58.000Z",
+          "wordCount": 3722,
+          "title": "UPMC Ireland to implement MEDITECH Expanse EPR",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Navigating-the-EPR-landscape.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230565",
           "author": "Tammy Lovell",
