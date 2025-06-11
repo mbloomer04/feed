@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-11T10:14:12.882Z</updated>
+    <updated>2025-06-11T11:11:49.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4665 - ConnectWise Releases Update to Rotate Code Signing Certificates for ScreenConnect, Automate and RMM]]></title>
+        <id>49253ea7-c506-475a-a6a5-520d088fb078</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4665"/>
+        <updated>2025-06-11T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ ConnectWise has advised users of ScreenConnect or Automate "must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience."
+ ConnectWise has advised users of ScreenConnect or Automate "must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience."
+ Updated: 11 Jun 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Meds and BD partner to advance medication management]]></title>
         <id>https://www.digitalhealth.net/?p=230703</id>
@@ -4995,16 +5008,6 @@ The post Quarter of GPs would strongly support NHS prostate cancer screening app
         <summary type="html"><![CDATA[While the number of GP partners is falling the vast majority of practices are still run by GP partnerships. Dr Huw Miles argues that the evidence suggests the model is evolving and that increased funding and additional training for GPs will be vital to ensure GP partnerships can thrive in the future.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specialist NHS clinics and technology help thousands of obese children to lose weight]]></title>
-        <id>https://www.england.nhs.uk/?p=266364</id>
-        <link href="https://www.england.nhs.uk/2025/05/specialist-nhs-clinics-and-technology-help-thousands-of-obese-children-to-lose-weight/"/>
-        <updated>2025-05-12T23:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of severely obese children are being supported to lose weight and live healthier lifestyles thanks to the roll-out of specialist NHS clinics and new digital ‘smart scale’ technology to deliver expert care at home. In a first-of-its-kind initiative, new technology is now being piloted at 15 Complications from Excess Weight clinics, which enables NHS […]]]></summary>
-        <author>
-            <name>nowen</name>
         </author>
     </entry>
 </feed>

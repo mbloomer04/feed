@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "49253ea7-c506-475a-a6a5-520d088fb078",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n ConnectWise has advised users of ScreenConnect or Automate \"must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience.\"\n ConnectWise has advised users of ScreenConnect or Automate \"must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience.\"\n Updated: 11 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4665",
+          "publishedOn": "2025-06-11T10:25:00.000Z",
+          "wordCount": null,
+          "title": "CC-4665 - ConnectWise Releases Update to Rotate Code Signing Certificates for ScreenConnect, Automate and RMM",
+          "imageUrl": null
+        },
+        {
           "id": "a31fe87b-965a-410d-abae-535543ce5bae",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses a critical severity vulnerability in Cisco Identity Service Engine which could be exploited to allow a remote attacker to achieve high-level access\n Advisory addresses a critical severity vulnerability in Cisco Identity Service Engine\n Updated: 05 Jun 2025",
@@ -2571,16 +2581,6 @@
           "publishedOn": "2025-05-15T10:54:56.000Z",
           "wordCount": 1657,
           "title": "NHS delivers over 100,000 more treatments for patients in March, despite rise in demand",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=266364",
-          "author": "nowen",
-          "description": "Thousands of severely obese children are being supported to lose weight and live healthier lifestyles thanks to the roll-out of specialist NHS clinics and new digital ‘smart scale’ technology to deliver expert care at home. In a first-of-its-kind initiative, new technology is now being piloted at 15 Complications from Excess Weight clinics, which enables NHS […]",
-          "link": "https://www.england.nhs.uk/2025/05/specialist-nhs-clinics-and-technology-help-thousands-of-obese-children-to-lose-weight/",
-          "publishedOn": "2025-05-12T23:01:08.000Z",
-          "wordCount": 2134,
-          "title": "Specialist NHS clinics and technology help thousands of obese children to lose weight",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
