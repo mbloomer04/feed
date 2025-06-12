@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1dac23da-abc7-4af7-a408-82275eccd554",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Critical path traversal vulnerability could allow a remote unauthenticated attacker to perform unauthorised administrative actions\n Critical path traversal vulnerability could allow a remote unauthenticated attacker to perform unauthorised administrative actions\n Updated: 12 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4668",
+          "publishedOn": "2025-06-12T10:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4668 - Mitel Releases Security Advisory for MiCollab",
+          "imageUrl": null
+        },
+        {
           "id": "c5db2af3-0ed2-4bfe-be1c-5227a414aed1",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-5943 could allow a remote unauthenticated attacker to execute arbitrary code on affected installations of DICOM Viewer\n CVE-2025-5943 could allow a remote unauthenticated attacker to execute arbitrary code on affected installations of DICOM Viewer\n Updated: 11 Jun 2025",
@@ -142,6 +152,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162182",
+          "author": "Maya Dhillon",
+          "description": "A London coroner has criticised GPs for ‘not understanding’ the medical examiner process and for making unnecessary death referrals. At a pre-inquest hearing for the death of a 94-year-old woman, senior coroner for east London Graeme Irvine said that the frequency with which doctors offer a cause of death ‘has declined considerably’ and that communications\nThe post GPs criticised by coroner for ‘not understanding’ medical examiner process appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/gastroenterology-obesity/gps-criticised-by-coroner-for-not-understanding-medical-examiner-process/",
+          "publishedOn": "2025-06-12T10:46:06.000Z",
+          "wordCount": 3056,
+          "title": "GPs criticised by coroner for ‘not understanding’ medical examiner process",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/GPs-who-sign-death-certification-must-have-seen-the-patient-says-NHS-England.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=162609",
           "author": "Anna Colivicchi",
@@ -1189,6 +1209,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1921528",
+          "author": null,
+          "description": "A senior government health advisor has blasted the EMIS and SystmOne 'duopoly' in GP IT system provision as a 'barrier to change' and warned that he is actively pushing for more competition.",
+          "link": "https://www.gponline.com/emis-systmone-dominance-gp-barrier-change-says-government-advisor/article/1921528",
+          "publishedOn": "2025-06-12T08:18:00.000Z",
+          "wordCount": 748,
+          "title": "EMIS and SystmOne dominance of GP IT a 'barrier to change', says government advisor",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_computer_GettyImages-MarkoGeber_8.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1921502",
           "author": null,
@@ -3129,16 +3159,6 @@
           "wordCount": 3610,
           "title": "Health and Social Care Secretary's speech on men's health",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/6688152fd9d35187868f454f/wes-streeting.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/tens-of-thousands-more-patients-receiving-crucial-scans-quicker",
-          "author": null,
-          "description": "More people were seen faster for scans including endoscopies, ultrasounds, and MRIs",
-          "link": "https://www.gov.uk/government/news/tens-of-thousands-more-patients-receiving-crucial-scans-quicker",
-          "publishedOn": "2025-05-13T23:01:07.000Z",
-          "wordCount": 1891,
-          "title": "Tens of thousands more patients receiving crucial scans quicker",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3821,6 +3841,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=229509",
+          "author": "Owen Hughes",
+          "description": "Today's news roundup covers new interpreting systems in Walsall and pioneering virtual mental healthcare in Cambridgeshire and Peterborough.",
+          "link": "https://www.digitalhealth.net/2025/06/digital-health-coffee-time-briefing-%e2%98%95-76/",
+          "publishedOn": "2025-06-12T10:30:17.000Z",
+          "wordCount": 4000,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230867",
           "author": "Tammy Lovell",
