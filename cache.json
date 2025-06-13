@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5cd2fb60-7bf6-45d6-8598-18b3ac9b7af6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-24016 could allow a remote, authenticated attacker to execute arbitrary Python code on the Wazuh server\n CVE-2025-24016 could allow a remote, authenticated attacker to execute arbitrary Python code on the Wazuh server\n Updated: 13 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4669",
+          "publishedOn": "2025-06-13T11:23:00.000Z",
+          "wordCount": null,
+          "title": "CC-4669 - Active Exploitation of Critical RCE Vulnerability in Wazuh",
+          "imageUrl": null
+        },
+        {
           "id": "1dac23da-abc7-4af7-a408-82275eccd554",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Critical path traversal vulnerability could allow a remote unauthenticated attacker to perform unauthorised administrative actions\n Critical path traversal vulnerability could allow a remote unauthenticated attacker to perform unauthorised administrative actions\n Updated: 12 Jun 2025",
@@ -122,6 +132,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162662",
+          "author": "Jaimie Kaffash",
+          "description": "NHS England’s clinical director of primary care has spoken out in support of a proposed ‘three strikes and escalate’ law, which would generate an automatic patient review after the third contact with their GP surgery about a specific symptom or condition. Speaking at the NHS Confederation conference in Manchester this week, Dr Claire Fuller said\nThe post NHS primary care lead supportive of GP ‘three strikes and refer’ rule appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/nhs-primary-care-lead-supportive-of-gp-three-strikes-and-refer-rule/",
+          "publishedOn": "2025-06-13T11:26:18.000Z",
+          "wordCount": 2472,
+          "title": "NHS primary care lead supportive of GP ‘three strikes and refer’ rule",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/08/IMAGE_220308_Claire_Fuller2.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=162647",
           "author": "Sofia Lind",
