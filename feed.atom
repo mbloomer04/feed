@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-13T06:19:10.051Z</updated>
+    <updated>2025-06-13T07:12:51.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How does general practice fit into a neighbourhood NHS?]]></title>
+        <id>https://www.gponline.com/article/1921582</id>
+        <link href="https://www.gponline.com/podcast-does-general-practice-fit-neighbourhood-nhs/article/1921582"/>
+        <updated>2025-06-13T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Dr Caroline Taylor, chair of the National Association of Primary Care and a GP in Calderdale, West Yorkshire, about how neighbourhood working benefits patients, GPs and practices - and how it could help the NHS shift its focus towards prevention.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS first in world to roll out new ‘trojan horse’ therapy for blood cancer patients]]></title>
         <id>https://www.england.nhs.uk/?p=267982</id>
