@@ -1800,6 +1800,16 @@
           "imageUrl": null
         },
         {
+          "id": "84fdab31-88a6-4d23-be21-6396b13b2d8f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Clinical lead Chris Day says full implementation of multi-factor authentication is critical to local organisations’ cyber security.\n\r\n\r\nCyber security is about risk reduction and that can make it a difficult sell in the NHS.\n\r\n\r\nHard-pressed boards often want to know how much something is going to save them, but the cost of not implementing cyber security measures can only be calculated when their network or system is compromised.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/multi-factor-authentication-a-silver-cyber-bullet",
+          "publishedOn": "2025-05-29T13:31:29.000Z",
+          "wordCount": null,
+          "title": "Multi-factor authentication: a silver cyber bullet?",
+          "imageUrl": null
+        },
+        {
           "id": "c9c5ba95-3113-4555-83d8-6f46c95b82e0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Karol Kuczera and Max Marulli De Barletta reflect on their visit to Google’s Accessibility Discovery Centre and how inclusive technology can enable more equitable access to health, education and broader social participation.\n\r\n\r\nIn today’s NHS, digital tools are central to how we deliver care, share information, and empower people to manage their health. But for those facing barriers to access – whether through disability, language or low digital confidence – these tools can just as easily widen inequalities as reduce them.",
@@ -1815,7 +1825,28 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "13f419d4-1d3b-4957-b1c9-14ddae00dacc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. \n\r\n\r\nLast year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-we-have-learned-about-retiring-apis",
+          "publishedOn": "2025-06-12T15:55:17.000Z",
+          "wordCount": null,
+          "title": "What we have learned about retiring APIs",
+          "imageUrl": null
+        },
+        {
+          "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.\n\r\n\r\nFor the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis",
+          "publishedOn": "2025-06-12T15:54:14.000Z",
+          "wordCount": null,
+          "title": "What does good look like for APIs?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inside Story Feed",
