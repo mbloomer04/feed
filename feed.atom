@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-14T19:09:13.633Z</updated>
+    <updated>2025-06-14T20:12:47.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1884,6 +1884,25 @@ The post People with adult-onset type 1 diabetes face increased risk of CVD, stu
 The post Are local enhanced services unfunded charity work? appeared first on Pulse Today.]]></summary>
         <author>
             <name>Eliza Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to be less "demanding on the brain"]]></title>
+        <id>6af7703b-803f-4bfb-a271-8377ec592702</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2022/trying-to-be-less-demanding-on-the-brain"/>
+        <updated>2025-05-30T15:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Tosin Balogun, Associate Interaction Designer for the NHS website, looks at how we design and how we try to make a difference.
+
+
+It is pretty obvious to say that design changes people’s lives. If it didn’t, we wouldn’t spend so much of our time trying to get it right.
+
+
+But the reality beneath that unoriginal claim struck home for me recently as I worked on a report tool, part of the replacement system for national cervical screening.
+
+
+It’s not the most dramatic or heart-rending example of our impact – but is perhaps no less meaningful for that. It’s a small piece of work that speaks to the everyday reality we try to grapple with as interaction designers in the NHS.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
@@ -4196,71 +4215,6 @@ As part of the Digital Transformation of Screening Programme we are currently re
 Many GP surgeries across the country offer patients the ability to book their appointments in the NHS App. Online appointment booking enables patients to access primary care digitally, which eases pressure on GP surgery staff, who are facing the extreme clinical challenges of the coronavirus pandemic during the already difficult winter months.]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joining forces to champion user-centred design]]></title>
-        <id>64ee7bd9-b708-42ea-a24f-f1ddd1ff8dc8</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2021/joining-forces-to-champion-user-centred-design"/>
-        <updated>2025-05-16T08:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Matt Edgar, Victoria Betton and Simon Dixon introduce a new industry working group set up to bring the NHS and tech sector together to advance the cause of user-centred design in health and care.
-
-
-Right across the NHS and the tech sector there’s a growing movement of people with a passion for understanding patient and clinicians needs, and involving them in the design of services.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to place users at the heart of multimedia storytelling]]></title>
-        <id>cea31d02-f3a8-4ac0-8c68-d361565fb424</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2021/how-to-put-users-at-the-heart-of-multimedia-storytelling"/>
-        <updated>2025-05-16T08:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Adriano Gazza, Multimedia team lead for the NHS website, explains how the principles of user-centred design can help create engaging video, animation and infographic content for the public that is clinically accurate.
-
-
-It was only when I came to NHS Digital that I was exposed to the concept of user-centred design.
-
-
-One of the frequent challenges in my previous creative roles was explaining why we needed to bear in mind specific considerations for the audience that a commissioner had not always recognised.
-
-
-Often, clients submitted a request for a video without a strategic purpose. We would rely on brand guidelines where they existed, but this still didn’t answer the central question of why we should create things a certain way. This all started to change when I began to learn the principles of user-centred design.]]></summary>
-        <author>
-            <name>adriano.gazza@nhs.net ()</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going remote: How we adapted our accessibility research]]></title>
-        <id>b0414a57-9aca-467d-91ad-c7c176ee4f5e</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2021/going-remote-how-we-adapted-our-accessibility-research"/>
-        <updated>2025-05-16T08:11:40.000Z</updated>
-        <summary type="html"><![CDATA[As we enter another national coronavirus lockdown, Mitchell Wakefield, one of our user researchers for NHS login, reflects on what he learned doing remote research with blind and low-vision users during the first lockdown and shares his tips on how to get it right.
-
-
-Going fully remote since the outbreak of coronavirus (COVID-19) has been a challenging transition for many technology-focused research teams, and it certainly has been no exception for the user research community at NHS Digital. But with unforeseen challenges come opportunities to adapt and seek different methods and techniques.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital dentistry tech integrated with Epic EHR]]></title>
-        <id>https://www.digitalhealth.net/?p=227807</id>
-        <link href="https://www.digitalhealth.net/2025/05/digital-dentistry-tech-integrates-with-epic-ehr-at-uclh/"/>
-        <updated>2025-05-16T07:30:52.000Z</updated>
-        <summary type="html"><![CDATA[University College London Hospitals NHS Foundation Trust (UCLH) has integrated intra-oral scanners into its Epic electronic health record.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: The value of a GP, blueprint for ICB reforms, fall in GP partners accelerating]]></title>
-        <id>https://www.gponline.com/article/1918119</id>
-        <link href="https://www.gponline.com/podcast-value-gp-blueprint-icb-reforms-fall-gp-partners-accelerating/article/1918119"/>
-        <updated>2025-05-16T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
