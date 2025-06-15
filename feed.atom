@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-14T23:11:41.385Z</updated>
+    <updated>2025-06-15T01:10:07.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -3962,29 +3962,6 @@ The post Community nurses call for more ‘GP back-up’ in palliative care deci
         <summary type="html"><![CDATA[Easy read of the final findings and recommendations of the review into the operational effectiveness of the Care Quality Commission.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4658 - Proof-of-Concept Released Oracle VM VirtualBox]]></title>
-        <id>cff85097-6738-4359-9921-25bfb0faedb1</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4658"/>
-        <updated>2025-05-16T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data
- CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data
- Updated: 16 May 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS suppliers urged to sign cyber security best practice charter]]></title>
-        <id>https://www.digitalhealth.net/?p=228839</id>
-        <link href="https://www.digitalhealth.net/2025/05/nhs-suppliers-urged-to-sign-cyber-security-best-practice-charter/"/>
-        <updated>2025-05-16T12:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Suppliers to the NHS have been urged by NHSE and the DHSC in an open letter to sign a charter of cyber security best practice.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
 </feed>

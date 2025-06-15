@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4659 - Mozilla Releases Security Updates for Firefox and Firefox ESR",
           "imageUrl": null
-        },
-        {
-          "id": "cff85097-6738-4359-9921-25bfb0faedb1",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n CVE-2025-30712 could allow an attacker to escape the virtual machine and gain unauthorised access to Oracle VM VirtualBox accessible data\n Updated: 16 May 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4658",
-          "publishedOn": "2025-05-16T12:40:00.000Z",
-          "wordCount": null,
-          "title": "CC-4658 - Proof-of-Concept Released Oracle VM VirtualBox",
-          "imageUrl": null
         }
       ]
     },
@@ -3790,16 +3780,6 @@
           "wordCount": 3714,
           "title": "NHSE quizzed on the link between single patient record and FDP",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Palantir.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=228839",
-          "author": "Jordan Sollof",
-          "description": "Suppliers to the NHS have been urged by NHSE and the DHSC in an open letter to sign a charter of cyber security best practice.",
-          "link": "https://www.digitalhealth.net/2025/05/nhs-suppliers-urged-to-sign-cyber-security-best-practice-charter/",
-          "publishedOn": "2025-05-16T12:30:42.000Z",
-          "wordCount": 3866,
-          "title": "NHS suppliers urged to sign cyber security best practice charter",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/shutterstock_2476569139-1.jpg"
         }
       ]
     }
