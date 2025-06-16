@@ -1961,6 +1961,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/reciprocal-healthcare-privacy-notice",
+          "author": null,
+          "description": "Sets out how DHSC and NHSBSA collect and use personal information as part of the process of providing reciprocal healthcare.",
+          "link": "https://www.gov.uk/government/publications/reciprocal-healthcare-privacy-notice",
+          "publishedOn": "2025-06-16T07:57:34.000Z",
+          "wordCount": 1087,
+          "title": "Guidance: Reciprocal healthcare privacy notice",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/unprecedented-boost-for-clinical-trials-under-10-year-health-plan",
           "author": null,
           "description": "Millions will take part in clinical trials under the 10 Year Health Plan which will speed up clinical research.",
@@ -3091,6 +3101,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=231101",
+          "author": "Jordan Sollof",
+          "description": "The Medicines and Healthcare products Regulatory Agency’s (MHRA) has announced a major overhaul of how medical devices are regulated.",
+          "link": "https://www.digitalhealth.net/2025/06/overhaul-of-medical-device-regulations-in-uk-takes-effect/",
+          "publishedOn": "2025-06-16T07:30:23.000Z",
+          "wordCount": 3740,
+          "title": "Overhaul of medical device regulations in UK takes effect",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/Regulation-compliance.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230471",
           "author": "Jordan Sollof",
