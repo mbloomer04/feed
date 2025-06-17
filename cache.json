@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9d8eab47-cf8e-4dfc-8227-92dc9356cf96",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Updated: 17 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4670",
+          "publishedOn": "2025-06-17T15:13:00.000Z",
+          "wordCount": null,
+          "title": "CC-4670 - Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "5cd2fb60-7bf6-45d6-8598-18b3ac9b7af6",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2025-24016 could allow a remote, authenticated attacker to execute arbitrary Python code on the Wazuh server\n CVE-2025-24016 could allow a remote, authenticated attacker to execute arbitrary Python code on the Wazuh server\n Updated: 13 Jun 2025",
