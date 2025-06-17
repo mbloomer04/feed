@@ -133,6 +133,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=162803",
+          "author": "Maya Dhillon",
+          "description": "The NHS has launched a pilot scheme which will see GP practices asked to help identify patients most at risk of pancreatic cancer.  GPs will be asked to go through patient records to flag people over the age of 60 who have the early warning signs of pancreatic cancer. This includes being recently diagnosed with\nThe post GPs asked to case find pancreatic cancer via patient records appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cancer/gps-asked-to-case-find-pancreatic-cancer-via-patient-records/",
+          "publishedOn": "2025-06-17T23:01:00.000Z",
+          "wordCount": 2432,
+          "title": "GPs asked to case find pancreatic cancer via patient records",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/GP-practices-to-share-deceased-patients-records-with-medical-examiners-by-April-2023.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=162780",
           "author": "Maya Dhillon",
           "description": "In a relaunch of Pulse’s ‘Big Interview’ series, editor Sofia Lind speaks to Professor Gillian Leng, leader of the Government’s review into physician associates (PAs). Commissioned by the health secretary in November, Professor Leng’s review has seen her engage with over 1,000 people to look into the safety and effectiveness of PAs in the workforce.\nThe post Professor Gillian Leng: ‘There’s nothing that says PAs are 100% safe in primary care’ appeared first on Pulse Today.",
@@ -1181,16 +1191,6 @@
           "wordCount": 2418,
           "title": "GP contract imposed by health minister for the first time in Northern Ireland",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=161873",
-          "author": "Eliza Parr",
-          "description": "GPs could be liable for ‘abnormal or erroneous’ information entered by a third party into patient records following this year’s contract changes, the BMA has warned. The union has raised GP liability concerns about third-party information being entered into the patient record once enabling the GP Connect Update Record function becomes mandatory in October. As\nThe post GPs could be liable for third-party errors in patient records, BMA warns appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/2025-26-contract/gps-could-be-liable-for-third-party-errors-in-patient-records-bma-warns/",
-          "publishedOn": "2025-05-19T11:08:54.000Z",
-          "wordCount": 2588,
-          "title": "GPs could be liable for third-party errors in patient records, BMA warns",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/m/b/s/GettyImages-163751742-scaled-e1603722059694.jpg"
         }
       ]
     },
@@ -1708,26 +1708,6 @@
           "wordCount": 905,
           "title": "GPs 'shocked and angry' as Northern Ireland government imposes contract",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-639787760.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1918463",
-          "author": null,
-          "description": "The BMA has raised 'serious concerns' about government proposals that could require doctors to report every case of underage sexual activity where one partner is aged over 18.",
-          "link": "https://www.gponline.com/bma-raises-concerns-gps-forced-report-underage-sexual-activity/article/1918463",
-          "publishedOn": "2025-05-19T10:46:30.000Z",
-          "wordCount": 914,
-          "title": "BMA raises concerns that GPs could be forced to report underage sexual activity",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-580699803_1.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1918463",
-          "author": null,
-          "description": "The BMA has raised 'serious concerns' about government proposals that could require doctors to report every case of underage sexual activity where one partner is aged over 18.",
-          "link": "https://www.gponline.com/bma-raises-concerns-change-require-gps-report-underage-sexual-activity/article/1918463",
-          "publishedOn": "2025-05-19T10:46:30.000Z",
-          "wordCount": 926,
-          "title": "BMA raises concerns about change that could require GPs to report underage sexual activity",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-580699803_1.jpg"
         }
       ]
     },
@@ -1780,16 +1760,6 @@
           "publishedOn": "2025-05-21T07:17:46.000Z",
           "wordCount": null,
           "title": "Mitigating the risks of domestic abuse",
-          "imageUrl": null
-        },
-        {
-          "id": "57b25184-dfae-420f-9328-2d4181ec77a2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Professor Matt Sydes, Head of Data-Driven Clinical Trials at NHS England, describes how his personal and professional lives collided when a family member was affected by a rare cancer.\n\r\n\r\nAs a statistician and a trialist, I've been involved with researching many different diseases and conditions over the years. I’ve planned and run studies, analysed data, and interpreted and disseminated findings from clinical trials to support the development of new treatments and interventions, all to help doctors and patients make the best healthcare decisions that improve and extend lives.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/clinical-trials-changing-lives-one-researchers-story",
-          "publishedOn": "2025-05-19T10:14:35.000Z",
-          "wordCount": null,
-          "title": "Clinical trials changing lives: one researcher's story",
           "imageUrl": null
         }
       ]
@@ -1878,18 +1848,7 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "57b25184-dfae-420f-9328-2d4181ec77a2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Professor Matt Sydes, Head of Data-Driven Clinical Trials at NHS England, describes how his personal and professional lives collided when a family member was affected by a rare cancer.\n\r\n\r\nAs a statistician and a trialist, I've been involved with researching many different diseases and conditions over the years. I’ve planned and run studies, analysed data, and interpreted and disseminated findings from clinical trials to support the development of new treatments and interventions, all to help doctors and patients make the best healthcare decisions that improve and extend lives.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/clinical-trials-changing-lives-one-researchers-story",
-          "publishedOn": "2025-05-19T10:14:35.000Z",
-          "wordCount": null,
-          "title": "Clinical trials changing lives: one researcher's story",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Design Matters Blog Feed",
