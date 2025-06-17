@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-17T16:16:43.422Z</updated>
+    <updated>2025-06-17T17:12:22.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -111,6 +111,16 @@ The post Partners must ensure career progression for younger GP colleagues, says
         <summary type="html"><![CDATA[Autonomous ground delivery robots are planned to join the drone delivery network in London to deliver NHS supplies.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The WHO Hub in Berlin: driving innovation to make the world safer from health threats]]></title>
+        <id>urn:uuid:0e359b28-f5f3-4192-bdf6-02da28df08ff</id>
+        <link href="https://www.who.int/news/item/17-06-2025-the-who-hub-in-berlin-driving-innovation-to-make-the-world-safer-from-health-threats"/>
+        <updated>2025-06-16T15:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Building on lessons learned from the COVID-19 pandemic, the WHO Hub for Pandemic and Epidemic Intelligence in Berlin leverages innovative tools and collaborations for more effective disease surveillance worldwide. Just over three years after its inauguration, the Hub now supports over 150 countries in detecting health threats more effectively and rapidly. The Hub’s latest annual report highlights the growing impact of this work and provides key insights into progress made in 2024.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
