@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4660 - Broadcom Releases Security Updates for VMware vCenter Server and Cloud Foundation Vulnerabilities",
           "imageUrl": null
-        },
-        {
-          "id": "5a5e2769-659b-4f98-83c0-13b99e2ef9e8",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object\n Updated: 19 May 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4659",
-          "publishedOn": "2025-05-19T12:36:00.000Z",
-          "wordCount": null,
-          "title": "CC-4659 - Mozilla Releases Security Updates for Firefox and Firefox ESR",
-          "imageUrl": null
         }
       ]
     },
@@ -1200,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1922173",
+          "author": null,
+          "description": "More than 300 GP practices have joined a scheme to boost early detection of pancreatic cancer by checking patient records for warning signs.",
+          "link": "https://www.gponline.com/hundreds-gp-practices-join-pancreatic-cancer-early-detection-plan/article/1922173",
+          "publishedOn": "2025-06-17T23:01:00.000Z",
+          "wordCount": 701,
+          "title": "Hundreds of GP practices join pancreatic cancer early detection plan",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/blood-test_GettyImages-AndrewBrookes_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1922151",
           "author": null,
           "description": "GPs should pause use of AI scribing tools unless they have carried out data protection and safety checks and sought assurances that products meet NHS standards, the BMA has warned.",
@@ -1882,6 +1882,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=268215",
+          "author": "Tom W",
+          "description": "Hundreds of GP practices will comb patient records to offer urgent tests to people most at risk of pancreatic cancer, one of the deadliest forms of the disease. GP teams will scour online patients records to identify people over 60 who have the key early warning signs of pancreatic cancer including being recently diagnosed with […]",
+          "link": "https://www.england.nhs.uk/2025/06/nhs-launches-drive-to-catch-one-of-the-most-lethal-cancers/",
+          "publishedOn": "2025-06-17T23:01:51.000Z",
+          "wordCount": 1876,
+          "title": "NHS launches drive to catch one of the most lethal cancers",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=268077",
           "author": "rwootton",
@@ -3152,16 +3162,6 @@
           "wordCount": 2864,
           "title": "WHO validates Mauritania for eliminating trachoma as a public health problem",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha78---2025-(19-27-may)/mauritania-trachoma-elimination-certificate-at-wha78.tmb-1200v.jpg?sfvrsn=87a5dff7_4"
-        },
-        {
-          "id": "urn:uuid:d26c278d-8346-4df0-bfe3-2f8047d9772c",
-          "author": null,
-          "description": "Philanthropic support plays a vital role in enabling countries to build stronger health systems and advance towards health equity. From vaccine equity and pandemic preparedness to primary health care, the contributions of philanthropic partners help drive progress across WHO’s key priorities.\nThe importance of philanthropic support was underscored by Dr Tedros Adhanom Ghebreyesus, WHO Director-General, in his recent remarks to the Philanthropy Asia Summit, held in Singapore on 5–7 May 2025. In his remarks, he expressed his appreciation to the Temasek Foundation and the Philanthropy Asia Alliance for organizing the Summit while highlighting the importance of philanthropy in strengthening global health, supporting country self-reliance, and partnering with WHO to address health challenges in…",
-          "link": "https://www.who.int/news/item/19-05-2025-who-s-strategic-engagement-with-philanthropies-advancing-global-health-and-resilient-health-systems",
-          "publishedOn": "2025-05-19T11:53:23.000Z",
-          "wordCount": 2024,
-          "title": "WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/external-relations-governance-(ext)/resource-mobilization-(crm)/engagement-funds-banks-multilaterals-(fbm)/dg-during-philanthropy-asia-summit-may-2025.tmb-1200v.jpg?sfvrsn=59360970_2"
         }
       ]
     },
@@ -3879,16 +3879,6 @@
           "wordCount": 3807,
           "title": "Robert Jones and Agnes Hunt Orthopaedic Hospital rolls out EPR",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Apollo-EPR-Robert-Jones-Agnes-Hunt-NHS.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=228905",
-          "author": "Jordan Sollof",
-          "description": "Global healthcare AI firm Huma Therapeutics has partnered with Eckuity Capital and acquired remote monitoring company Aluna.",
-          "link": "https://www.digitalhealth.net/2025/05/huma-partners-with-eckuity-capital-and-acquires-aluna/",
-          "publishedOn": "2025-05-19T12:30:05.000Z",
-          "wordCount": 3731,
-          "title": "Huma partners with Eckuity Capital and acquires Aluna",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Huma-Aluna-acquisition.png"
         }
       ]
     }

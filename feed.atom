@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-17T23:12:15.186Z</updated>
+    <updated>2025-06-18T01:03:21.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS launches drive to catch one of the most lethal cancers]]></title>
+        <id>https://www.england.nhs.uk/?p=268215</id>
+        <link href="https://www.england.nhs.uk/2025/06/nhs-launches-drive-to-catch-one-of-the-most-lethal-cancers/"/>
+        <updated>2025-06-17T23:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of GP practices will comb patient records to offer urgent tests to people most at risk of pancreatic cancer, one of the deadliest forms of the disease. GP teams will scour online patients records to identify people over 60 who have the key early warning signs of pancreatic cancer including being recently diagnosed with […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs asked to case find pancreatic cancer via patient records]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162803</id>
@@ -15,6 +25,16 @@
 The post GPs asked to case find pancreatic cancer via patient records appeared first on Pulse Today.]]></summary>
         <author>
             <name>Maya Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of GP practices join pancreatic cancer early detection plan]]></title>
+        <id>https://www.gponline.com/article/1922173</id>
+        <link href="https://www.gponline.com/hundreds-gp-practices-join-pancreatic-cancer-early-detection-plan/article/1922173"/>
+        <updated>2025-06-17T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 300 GP practices have joined a scheme to boost early detection of pancreatic cancer by checking patient records for warning signs.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4042,40 +4062,6 @@ The post GP contract imposed by health minister for the first time in Northern I
         <summary type="html"><![CDATA[GP leaders in Northern Ireland have said they are 'shocked and angry' after the Department of Health confirmed it would impose the 2025/26 GMS contract on the profession.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4659 - Mozilla Releases Security Updates for Firefox and Firefox ESR]]></title>
-        <id>5a5e2769-659b-4f98-83c0-13b99e2ef9e8</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4659"/>
-        <updated>2025-05-19T12:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object
- Mozilla releases security updates addressing two critical vulnerabilities that could lead to an out-of-bounds read or write on a JavaScript object
- Updated: 19 May 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huma partners with Eckuity Capital and acquires Aluna]]></title>
-        <id>https://www.digitalhealth.net/?p=228905</id>
-        <link href="https://www.digitalhealth.net/2025/05/huma-partners-with-eckuity-capital-and-acquires-aluna/"/>
-        <updated>2025-05-19T12:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Global healthcare AI firm Huma Therapeutics has partnered with Eckuity Capital and acquired remote monitoring company Aluna.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems]]></title>
-        <id>urn:uuid:d26c278d-8346-4df0-bfe3-2f8047d9772c</id>
-        <link href="https://www.who.int/news/item/19-05-2025-who-s-strategic-engagement-with-philanthropies-advancing-global-health-and-resilient-health-systems"/>
-        <updated>2025-05-19T11:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Philanthropic support plays a vital role in enabling countries to build stronger health systems and advance towards health equity. From vaccine equity and pandemic preparedness to primary health care, the contributions of philanthropic partners help drive progress across WHO’s key priorities.
-The importance of philanthropic support was underscored by Dr Tedros Adhanom Ghebreyesus, WHO Director-General, in his recent remarks to the Philanthropy Asia Summit, held in Singapore on 5–7 May 2025. In his remarks, he expressed his appreciation to the Temasek Foundation and the Philanthropy Asia Alliance for organizing the Summit while highlighting the importance of philanthropy in strengthening global health, supporting country self-reliance, and partnering with WHO to address health challenges in…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
