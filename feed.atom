@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-18T07:13:24.511Z</updated>
+    <updated>2025-06-18T08:18:06.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public favours tiered system of access for single patient record]]></title>
+        <id>https://www.digitalhealth.net/?p=230987</id>
+        <link href="https://www.digitalhealth.net/2025/06/public-favours-tiered-system-of-access-for-single-patient-record/"/>
+        <updated>2025-06-18T07:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The public believe that not all health professionals should have full access to a single patient record, according to research by NHSE.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS launches drive to catch one of the most lethal cancers]]></title>
         <id>https://www.england.nhs.uk/?p=268215</id>
@@ -3955,17 +3965,6 @@ Member States of the World Health Organization (WHO) today formally adopted by c
         <summary type="html"><![CDATA[A groupwide electronic patient record (EPR) system has gone live across St George’s, Epsom and St Helier Hospitals.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Member States approve WHO Pandemic Agreement in World Health Assembly Committee, paving way for its formal adoption]]></title>
-        <id>urn:uuid:fd0e7769-92af-443b-bfe5-669f321b6191</id>
-        <link href="https://www.who.int/news/item/19-05-2025-member-states-approve-who-pandemic-agreement-in-world-health-assembly-committee--paving-way-for-its-formal-adoption"/>
-        <updated>2025-05-19T20:02:15.000Z</updated>
-        <summary type="html"><![CDATA[World Health Organization Member States, meeting today in Committee A of the World Health Assembly, approved a resolution that calls for the adoption of an historic global compact to make the world safer from future pandemics. The WHO Pandemic Agreement will next be considered for final adoption by the Assembly on Tuesday during the plenary session.
-Monday’s approval of the Pandemic Agreement resolution follows a more than three-year process, launched by governments during the COVID-19 pandemic, to negotiate the world’s first such accord to address the gaps and inequities in preventing, preparing for and responding to pandemics. This watershed agreement was adopted under Article 19 of the WHO Constitution. It aims to foster stronger collaboration and cooperation among countries, internatio…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
