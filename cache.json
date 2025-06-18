@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "751f97b8-6d15-46c7-9e31-dfb808de4e56",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security researchers have released a technical writeup which, with minimal modification, serves as a proof-of-concept exploit that could allow unauthenticated remote attackers to execute arbitrary code \n Security researchers have released a technical writeup which, with minimal modification, serves as a proof-of-concept exploit that could allow unauthenticated remote attackers to execute arbitrary code \n Updated: 18 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4672",
+          "publishedOn": "2025-06-18T15:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4762 - Proof-of-Concept Exploit Released for Pre-Auth RCE Chain in Sitecore Experience Platform",
+          "imageUrl": null
+        },
+        {
           "id": "6d3619b8-976d-418e-88fc-7acd49c862fc",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 18 Jun 2025",
@@ -132,6 +142,26 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162825",
+          "author": "Maya Dhillon",
+          "description": "The RCGP and BMA have welcomed the ‘long overdue’ changes of abortion laws in England and Wales following a vote in Parliament yesterday. MPs voted to ‘decriminalise’ abortion in an amendment to the Government’s Crime and Policing Bill, ensuring that women who have an abortion outside of the legal framework no longer face the threat\nThe post GP leaders welcome ‘long overdue’ change in abortion law appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/womens-health-gynaecology-obstetrics/gp-leaders-welcome-long-overdue-change-in-abortion-law/",
+          "publishedOn": "2025-06-18T16:13:58.000Z",
+          "wordCount": 2388,
+          "title": "GP leaders welcome ‘long overdue’ change in abortion law",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/early-abortions-woman-pill.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=162812",
+          "author": "Maya Dhillon",
+          "description": "Copperfield reflects on the impact of eponymous laws from grieving families on GPs, after NHS England’s primary care director spoke in favour of ‘Jess’s Law’ Another day, another eponymous law. This time, it’s Jess’s Law, the primary care version of Martha’s Rule. And that, in case you’ve forgotten, is NHSE’s guarantee that patients under hospital\nThe post GPs need more than three strikes before we’re out appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/copperfield/gps-need-more-than-three-strikes-before-were-out/",
+          "publishedOn": "2025-06-18T15:24:48.000Z",
+          "wordCount": 1616,
+          "title": "GPs need more than three strikes before we’re out",
+          "imageUrl": null
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=162817",
           "author": "Anna Colivicchi",
@@ -2069,6 +2099,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/child-death-reviews-forms-for-reporting-child-deaths",
+          "author": null,
+          "description": "Forms to help child death overview panels (CDOPs) assess the causes of a child’s death as part of the child death review process.",
+          "link": "https://www.gov.uk/government/publications/child-death-reviews-forms-for-reporting-child-deaths",
+          "publishedOn": "2025-06-18T15:37:13.000Z",
+          "wordCount": 4074,
+          "title": "Form: Child death reviews: forms for reporting child deaths",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/pressure-ulcers-how-to-safeguard-adults",
           "author": null,
