@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-18T10:13:59.753Z</updated>
+    <updated>2025-06-18T11:11:38.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4671 - Veeam Releases Security Updates for Backup & Replication and Windows Agent]]></title>
+        <id>6d3619b8-976d-418e-88fc-7acd49c862fc</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4671"/>
+        <updated>2025-06-18T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation
+ Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation
+ Updated: 18 Jun 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pitchfest 2022 winner CardMedic secures £411k Innovate UK grant]]></title>
         <id>https://www.digitalhealth.net/?p=231135</id>
@@ -14,6 +27,16 @@
         <summary type="html"><![CDATA[Digital Health Pitchfest winner CardMedic has secured £411,000 from Innovate UK’s SMART grant programme for its healthcare language app.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICB boosts GP funding as NHS reforms take shape]]></title>
+        <id>https://www.gponline.com/article/1922365</id>
+        <link href="https://www.gponline.com/icb-boosts-gp-funding-nhs-reforms-shape/article/1922365"/>
+        <updated>2025-06-18T09:14:23.000Z</updated>
+        <summary type="html"><![CDATA[NHS leaders in Nottinghamshire have increased local enhanced services (LES) funding for GP practices and set out plans for a large-scale 'GP provider collaborative' to take on services moved out of hospital, as health service reforms begin to take shape.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

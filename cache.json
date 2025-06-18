@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6d3619b8-976d-418e-88fc-7acd49c862fc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 18 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4671",
+          "publishedOn": "2025-06-18T10:44:00.000Z",
+          "wordCount": null,
+          "title": "CC-4671 - Veeam Releases Security Updates for Backup & Replication and Windows Agent",
+          "imageUrl": null
+        },
+        {
           "id": "9d8eab47-cf8e-4dfc-8227-92dc9356cf96",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Updated: 17 Jun 2025",
@@ -1169,6 +1179,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1922365",
+          "author": null,
+          "description": "NHS leaders in Nottinghamshire have increased local enhanced services (LES) funding for GP practices and set out plans for a large-scale 'GP provider collaborative' to take on services moved out of hospital, as health service reforms begin to take shape.",
+          "link": "https://www.gponline.com/icb-boosts-gp-funding-nhs-reforms-shape/article/1922365",
+          "publishedOn": "2025-06-18T09:14:23.000Z",
+          "wordCount": 734,
+          "title": "ICB boosts GP funding as NHS reforms take shape",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_RF_10.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1922173",
           "author": null,
