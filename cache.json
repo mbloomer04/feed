@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1922507",
+          "author": null,
+          "description": "NHS England has published a 'patient charter' outlining standards patients can expect from their GP practice.",
+          "link": "https://www.gponline.com/nhs-england-unveils-gp-patient-charter/article/1922507",
+          "publishedOn": "2025-06-19T08:47:56.000Z",
+          "wordCount": 682,
+          "title": "NHS England unveils GP patient charter",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_67.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1922387",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -1308,6 +1318,16 @@
           "wordCount": 941,
           "title": "Spending review promises 3% annual funding rise for NHS and 'thousands more GPs'",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2219021781-ezgif.com.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1921451",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-including-10-year-health-plan-gp-jobs-crisis-rcgp-partnership-warning/article/1921451",
+          "publishedOn": "2025-06-11T12:46:24.000Z",
+          "wordCount": 710,
+          "title": "GP News Update: Including 10-year health plan, GP jobs crisis, RCGP partnership warning",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_4.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1921423",
@@ -3000,6 +3020,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=231385",
+          "author": "Jordan Sollof",
+          "description": "Over 9,000 robotic surgeries have been completed to date at North Bristol NHS Trust, as the use of the technology across the NHS increases.",
+          "link": "https://www.digitalhealth.net/2025/06/over-9000-robotic-surgeries-completed-at-north-bristol-nhs-trust/",
+          "publishedOn": "2025-06-19T10:00:02.000Z",
+          "wordCount": 3934,
+          "title": "Over 9,000 robotic surgeries completed at North Bristol NHS Trust",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Robot-North-Bristol-NHS.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230945",
           "author": "Jordan Sollof",
