@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-19T11:11:49.262Z</updated>
+    <updated>2025-06-19T12:25:52.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England publishes contractual GP ‘patient charter’]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=162861</id>
+        <link href="https://www.pulsetoday.co.uk/news/breaking-news/nhs-england-publishes-contractual-gp-patient-charter/"/>
+        <updated>2025-06-19T11:23:34.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has published the ‘patient charter’ which GP practices will need to display on their website, setting out the standard of care they are contracted to provide. As part of the GP contract changes for 2025/26, practices will be required to publish a ‘publicly accessible document’, which sets out ‘in black and white’ what
+The post NHS England publishes contractual GP ‘patient charter’ appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clinical conundrum: Patient with treatment-resistant depression]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162852</id>
@@ -3967,26 +3978,6 @@ The NHS service standard helps teams build and run digital services that meet u
 The service standard has recently undergone some small but significant updates. The new updates are designed to make sure that teams building online services are more aware of and responsive to the risks of domestic abuse and coercive control.]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[England launches 'world-first' gonorrhoea vaccination programme]]></title>
-        <id>https://www.gponline.com/article/1918678</id>
-        <link href="https://www.gponline.com/england-launches-world-first-gonorrhoea-vaccination-programme/travel-health/vaccinations/article/1918678"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A 'world-first' vaccine programme for gonorrhoea will be launched in England from August.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[England to launch 'world-first' gonorrhoea vaccination programme]]></title>
-        <id>https://www.gponline.com/article/1918678</id>
-        <link href="https://www.gponline.com/england-launch-world-first-gonorrhoea-vaccination-programme/travel-health/vaccinations/article/1918678"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A 'world-first' vaccine programme for gonorrhoea will be launched in England from August.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
