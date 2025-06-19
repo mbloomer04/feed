@@ -2070,6 +2070,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence-easy-read",
+          "author": null,
+          "description": "We want to hear your views and ideas about men's health issues. Your ideas will help the government to make a Men's Health Strategy for England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence-easy-read",
+          "publishedOn": "2025-06-19T13:00:01.000Z",
+          "wordCount": 1260,
+          "title": "Men's Health Strategy for England: call for evidence (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/new-data-laws-will-make-life-easier-for-british-people-cutting-life-admin-easing-traffic-and-speeding-up-roadworks",
+          "author": null,
+          "description": "British people will benefit from new laws which will make their day-to-day lives easier – from slashing grocery bills and cutting traffic jams to speeding up NHS diagnoses – as the government delivers on manifesto commitments.",
+          "link": "https://www.gov.uk/government/news/new-data-laws-will-make-life-easier-for-british-people-cutting-life-admin-easing-traffic-and-speeding-up-roadworks",
+          "publishedOn": "2025-06-19T12:34:26.000Z",
+          "wordCount": 2693,
+          "title": "New data laws will make life easier for British people, cutting life admin, easing traffic and speeding up roadworks",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/6854019af812712f84581514/s960_DataBill_govuk.png"
+        },
+        {
           "id": "https://www.gov.uk/government/consultations/oliver-mcgowan-draft-code-of-practice-easy-read",
           "author": null,
           "description": "We want to know if you think the guidance for training on learning disability and autism is good enough. This guidance is called a code of practice.",
@@ -3090,6 +3110,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=231563",
+          "author": "Jordan Sollof",
+          "description": "Two national keynotes have been added to the Digital Health Summer Schools 2025 conference programme, which has been published in full today.",
+          "link": "https://www.digitalhealth.net/2025/06/two-national-keynotes-complete-summer-schools-2025-line-up/",
+          "publishedOn": "2025-06-19T12:30:28.000Z",
+          "wordCount": 3764,
+          "title": "Two national keynotes complete Summer Schools 2025 line-up",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Dermot-Ryan.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=230337",
           "author": "Cora Lydon",
