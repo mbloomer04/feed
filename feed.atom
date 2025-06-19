@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-19T13:26:52.245Z</updated>
+    <updated>2025-06-19T14:12:34.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4673 - BeyondTrust Releases Security Advisory for Remote Support & Privileged Remote Access]]></title>
+        <id>f723a117-4242-40fb-b12a-7e8f916edf65</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4673"/>
+        <updated>2025-06-19T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ A critical vulnerability in BeyondTrust remote access tools could lead to code injection
+ A critical vulnerability in BeyondTrust remote access tools could lead to code injection
+ Updated: 19 Jun 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Care for those with learning disabilities or autistic people]]></title>
+        <id>https://www.gov.uk/government/news/care-for-those-with-learning-disabilities-or-autistic-people</id>
+        <link href="https://www.gov.uk/government/news/care-for-those-with-learning-disabilities-or-autistic-people"/>
+        <updated>2025-06-19T13:40:05.000Z</updated>
+        <summary type="html"><![CDATA[New guidance published today will provide a boost in the quality of care for people with a learning disability or autistic people]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Men's Health Strategy for England: call for evidence (easy read)]]></title>
         <id>https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence-easy-read</id>

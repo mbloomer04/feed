@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f723a117-4242-40fb-b12a-7e8f916edf65",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical vulnerability in BeyondTrust remote access tools could lead to code injection\n A critical vulnerability in BeyondTrust remote access tools could lead to code injection\n Updated: 19 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4673",
+          "publishedOn": "2025-06-19T13:51:00.000Z",
+          "wordCount": null,
+          "title": "CC-4673 - BeyondTrust Releases Security Advisory for Remote Support & Privileged Remote Access",
+          "imageUrl": null
+        },
+        {
           "id": "751f97b8-6d15-46c7-9e31-dfb808de4e56",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security researchers have released a technical writeup which, with minimal modification, serves as a proof-of-concept exploit that could allow unauthenticated remote attackers to execute arbitrary code \n Security researchers have released a technical writeup which, with minimal modification, serves as a proof-of-concept exploit that could allow unauthenticated remote attackers to execute arbitrary code \n Updated: 18 Jun 2025",
@@ -2069,6 +2079,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/care-for-those-with-learning-disabilities-or-autistic-people",
+          "author": null,
+          "description": "New guidance published today will provide a boost in the quality of care for people with a learning disability or autistic people",
+          "link": "https://www.gov.uk/government/news/care-for-those-with-learning-disabilities-or-autistic-people",
+          "publishedOn": "2025-06-19T13:40:05.000Z",
+          "wordCount": 2890,
+          "title": "Care for those with learning disabilities or autistic people",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence-easy-read",
           "author": null,
