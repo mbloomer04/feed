@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1922605",
+          "author": null,
+          "description": "The GPonline team discusses the spending review and looks at what the government's 10-year health plan might say about general practice.",
+          "link": "https://www.gponline.com/podcast-know-10-year-nhs-plan/article/1922605",
+          "publishedOn": "2025-06-20T06:48:00.000Z",
+          "wordCount": 698,
+          "title": "Podcast: What do we know about the 10-year NHS plan?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_1001.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1922533",
           "author": null,
           "description": "GPs have backed a crackdown on unregulated aesthetic procedures after polling by a medico-legal organisation found nearly half have treated patients injured by procedures such as botox, liposuction or dermal fillers.",
@@ -3002,16 +3012,6 @@
           "wordCount": 4375,
           "title": "Seventy-eighth World Health Assembly – Daily update: 22 May 2025",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha78---2025-(19-27-may)/wha78-committee-b.tmb-1200v.jpg?sfvrsn=91d0f9db_1"
-        },
-        {
-          "id": "urn:uuid:6b9f8f2d-2253-4547-9848-988e5a2f29bb",
-          "author": null,
-          "description": "A “health financing emergency” must drive country-led, data-driven solutions\n\nMinisters from multiple countries hit by the abrupt cuts in external funding for health agreed on the urgent need for country-owned and implemented strategies – and a laser-sharp focus on health data – at a ministerial dialogue co-hosted by WHO and the Susan Thompson Buffett Foundation at the Seventy-eighth World Health Assembly.\n\nOpening remarks by Professor Senait Fisseha, Vice President of Global Programs at the Susan Thompson Buffett Foundation, and Dr Tedros Adhanom Ghebreyesus, WHO Director-General, set the tone by noting that the crisis presents an opportunity for a turnaround in how health financing policies and health data systems are built and operated. \n\nSpecifically, this is a time for countries to re…",
-          "link": "https://www.who.int/news/item/21-05-2025-seventy-eighth-world-health-assembly---daily-update--21-may-2025",
-          "publishedOn": "2025-05-21T19:13:47.000Z",
-          "wordCount": 2728,
-          "title": "Seventy-eighth World Health Assembly – Daily update: 21 May 2025",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha78---2025-(19-27-may)/wha78-strategic-roundtable-on-data-and-sustainable-financing.tmb-1200v.jpg?sfvrsn=c300bafd_2"
         }
       ]
     },
@@ -3020,6 +3020,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=230973",
+          "author": "Cora Lydon",
+          "description": "Bradford Teaching Hospitals, in partnership with AccessAble, has launched virtual access guides for visitors to Bradford Royal Infirmary.",
+          "link": "https://www.digitalhealth.net/2025/06/bradford-teaching-hospitals-launches-virtual-access-guides/",
+          "publishedOn": "2025-06-20T07:30:50.000Z",
+          "wordCount": 3605,
+          "title": "Bradford Teaching Hospitals launches virtual access guides",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Bradford-Royal-Infirmary-virtual-access-guide.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=231563",
           "author": "Jordan Sollof",

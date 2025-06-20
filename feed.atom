@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-20T07:12:48.810Z</updated>
+    <updated>2025-06-20T08:17:50.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bradford Teaching Hospitals launches virtual access guides]]></title>
+        <id>https://www.digitalhealth.net/?p=230973</id>
+        <link href="https://www.digitalhealth.net/2025/06/bradford-teaching-hospitals-launches-virtual-access-guides/"/>
+        <updated>2025-06-20T07:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Bradford Teaching Hospitals, in partnership with AccessAble, has launched virtual access guides for visitors to Bradford Royal Infirmary.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What do we know about the 10-year NHS plan?]]></title>
+        <id>https://www.gponline.com/article/1922605</id>
+        <link href="https://www.gponline.com/podcast-know-10-year-nhs-plan/article/1922605"/>
+        <updated>2025-06-20T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the spending review and looks at what the government's 10-year health plan might say about general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA sets out GP advice on Mounjaro prescribing due to launch next week]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162898</id>
@@ -3858,22 +3878,6 @@ The post GP concern over EMIS maintenance on day after bank holiday appeared fir
         <summary type="html"><![CDATA[Greater Manchester is piloting technology which helps GPs identify adults who are at risk of falling, so that they can receive early support.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seventy-eighth World Health Assembly – Daily update: 21 May 2025]]></title>
-        <id>urn:uuid:6b9f8f2d-2253-4547-9848-988e5a2f29bb</id>
-        <link href="https://www.who.int/news/item/21-05-2025-seventy-eighth-world-health-assembly---daily-update--21-may-2025"/>
-        <updated>2025-05-21T19:13:47.000Z</updated>
-        <summary type="html"><![CDATA[A “health financing emergency” must drive country-led, data-driven solutions
-
-Ministers from multiple countries hit by the abrupt cuts in external funding for health agreed on the urgent need for country-owned and implemented strategies – and a laser-sharp focus on health data – at a ministerial dialogue co-hosted by WHO and the Susan Thompson Buffett Foundation at the Seventy-eighth World Health Assembly.
-
-Opening remarks by Professor Senait Fisseha, Vice President of Global Programs at the Susan Thompson Buffett Foundation, and Dr Tedros Adhanom Ghebreyesus, WHO Director-General, set the tone by noting that the crisis presents an opportunity for a turnaround in how health financing policies and health data systems are built and operated. 
-
-Specifically, this is a time for countries to re…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
