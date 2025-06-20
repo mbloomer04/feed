@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-20T09:13:38.942Z</updated>
+    <updated>2025-06-20T10:13:45.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BMA warns GPs on the ‘substantial’ risks of AI scribing tools]]></title>
+        <id>https://www.digitalhealth.net/?p=231437</id>
+        <link href="https://www.digitalhealth.net/2025/06/bma-warns-gps-on-the-substantial-risks-of-ai-scribing-tools/"/>
+        <updated>2025-06-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The British Medical Association has advised that GPs should pause the use of AI scribing tools unless they have carried out safety checks.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bradford Teaching Hospitals launches virtual access guides]]></title>
         <id>https://www.digitalhealth.net/?p=230973</id>
@@ -232,6 +242,16 @@ The post NICE says another no to Alzheimer’s drugs in final draft guidance app
         <link href="https://www.gponline.com/crackdown-urged-half-gps-patients-injured-aesthetic-procedures/article/1922533"/>
         <updated>2025-06-19T09:38:40.000Z</updated>
         <summary type="html"><![CDATA[GPs have backed a crackdown on unregulated aesthetic procedures after polling by a medico-legal organisation found nearly half have treated patients injured by procedures such as botox, liposuction or dermal fillers.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS England unveils GP contract patient charter]]></title>
+        <id>https://www.gponline.com/article/1922507</id>
+        <link href="https://www.gponline.com/nhs-england-unveils-gp-contract-patient-charter/article/1922507"/>
+        <updated>2025-06-19T08:47:56.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has published a 'patient charter' outlining standards patients can expect from their GP practice, which practices will be required to publish on their website as part of this year's GP contract.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
