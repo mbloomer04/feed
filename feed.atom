@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-20T21:11:24.474Z</updated>
+    <updated>2025-06-20T22:12:04.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS web visits to heat exhaustion advice surge by nearly 200 per cent]]></title>
+        <id>https://www.england.nhs.uk/?p=268424</id>
+        <link href="https://www.england.nhs.uk/2025/06/nhs-web-visits-to-heat-exhaustion-advice-surge-by-nearly-200/"/>
+        <updated>2025-06-20T20:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Visits to the heat exhaustion advice on the NHS website have increased by 198 pre cent as temperatures rise across England.  There have been 31,524 visits to the heat exhaustion and heatstroke web page in the 48 hours since a heat-health alert was introduced across most of England at midday on Wednesday, compared to 10,578 visits […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doctors warn assisted dying must not become 'core GP work' after Commons vote]]></title>
         <id>https://www.gponline.com/article/1922798</id>
@@ -3984,37 +3994,6 @@ The post Women with dense breasts ‘should have additional cancer screening tes
         <summary type="html"><![CDATA[Today's coffee briefing covers 13 new DEXA scanners for NHS trusts and a new financial milestone for health tech firm Cera.]]></summary>
         <author>
             <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Lessons can be learned’ from DHSC cyber progress, says PAC]]></title>
-        <id>https://www.digitalhealth.net/?p=228463</id>
-        <link href="https://www.digitalhealth.net/2025/05/lessons-can-be-learned-from-dhsc-cyber-progress-says-pac/"/>
-        <updated>2025-05-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Public Accounts Committee has said “lessons can be learned” from DHSC’s efforts to improve cyber resilience in public services.]]></summary>
-        <author>
-            <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP concern over EMIS maintenance on day after bank holiday]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=162031</id>
-        <link href="https://www.pulsetoday.co.uk/news/technology/gp-concern-over-emis-maintenance-on-day-after-bank-holiday/"/>
-        <updated>2025-05-22T09:52:33.000Z</updated>
-        <summary type="html"><![CDATA[GPs have raised concerns about EMIS IT system maintenance planned for the day after the bank holiday, which is typically the ‘busiest day’ for practice workload. Optum, the company that acquired EMIS in 2023, warned GP practices today that it will perform ‘essential maintenance’ impacting EMIS Web and EMIS-X over lunchtime on Tuesday 27 May. 
-The post GP concern over EMIS maintenance on day after bank holiday appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Eliza Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase in GP workforce in past year with number employed under ARRS rising]]></title>
-        <id>https://www.gponline.com/article/1918978</id>
-        <link href="https://www.gponline.com/increase-gp-workforce-past-year-number-employed-arrs-rising/article/1918978"/>
-        <updated>2025-05-22T09:27:11.000Z</updated>
-        <summary type="html"><![CDATA[The full-time equivalent (FTE) fully-qualified GP workforce in England rose during the past year, and latest data show the number of GPs employed under the additional roles reimbursement scheme (ARRS) is also rising.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
 </feed>
