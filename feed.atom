@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-23T12:27:16.333Z</updated>
+    <updated>2025-06-23T13:29:19.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patients Know Best launches nationwide GP data integration]]></title>
+        <id>https://www.digitalhealth.net/?p=231731</id>
+        <link href="https://www.digitalhealth.net/2025/06/patients-know-best-launches-nation-wide-gp-data-integration/"/>
+        <updated>2025-06-23T12:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Patients Know Best (PKB) has launched GP data integration across England within its single patient record platform.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK warning over high levels of typhoid and malaria linked to travel]]></title>
         <id>https://www.pulsetoday.co.uk/?p=162637</id>
