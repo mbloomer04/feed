@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-25T16:16:48.149Z</updated>
+    <updated>2025-06-25T17:12:57.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS App overhaul will break down barriers to healthcare and reduce inequalities]]></title>
+        <id>https://www.gov.uk/government/news/nhs-app-overhaul-will-break-down-barriers-to-healthcare-and-reduce-inequalities</id>
+        <link href="https://www.gov.uk/government/news/nhs-app-overhaul-will-break-down-barriers-to-healthcare-and-reduce-inequalities"/>
+        <updated>2025-06-25T17:03:35.000Z</updated>
+        <summary type="html"><![CDATA[The NHS App will be transformed so it gives every patient information, choice and control of their own healthcare.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs caught in the middle of a muddled tirzepatide rollout]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163085</id>
