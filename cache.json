@@ -143,6 +143,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=162651",
+          "author": "Sofia Lind",
+          "description": "Patients with both chronic kidney disease (CKD) and type 2 diabetes may benefit from initial therapy with finerenone and empagliflozin together, US researchers have concluded. The combination of the non-steroidal mineralocorticoid receptor antagonist (MRA) and the sodium–glucose cotransporter-2 inhibitor (SLGT2) led to a greater reduction in the urinary albumin-to-creatinine ratio than either treatment alone. An\nThe post Combination finerenone and empagliflozin superior in CKD with diabetes appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/renal-medicine-urology-mens-health/combination-finerenone-and-empagliflozin-superior-in-ckd-with-diabetes/",
+          "publishedOn": "2025-06-25T10:29:23.000Z",
+          "wordCount": 2318,
+          "title": "Combination finerenone and empagliflozin superior in CKD with diabetes",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/11/Getty-1373092043.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163090",
           "author": "Anna Colivicchi",
           "description": "GP in many parts of England are having explain to eligible patients that tirzepatide (Mounjaro) cannot be prescribed in primary care yet, despite the NICE deadline having now passed. Commissioning guidance stated that tirzepatide for weight loss must be implemented in primary care by Monday this week (23 June), but several ICBs have told practices that\nThe post GPs told they cannot prescribe Mounjaro as several ICBs fail to finalise service in time appeared first on Pulse Today.",
@@ -2081,16 +2091,6 @@
           "wordCount": 1675,
           "title": "Millions receive help from NHS high street pharmacies",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=266923",
-          "author": "Tom W",
-          "description": "A record 166,360 more adults in England began receiving support last year from a world-leading NHS public health initiative, which helps people lose weight and make lifestyles changes to stop or delay them developing Type 2 diabetes, according to new data. The analysis also shows that more than 900,000 adults at high risk of developing […]",
-          "link": "https://www.england.nhs.uk/2025/05/nhs-initiative-helps-thousands-more-tackle-their-diabetes-risk/",
-          "publishedOn": "2025-05-26T23:01:38.000Z",
-          "wordCount": 2128,
-          "title": "NHS initiative helps thousands more tackle their diabetes risk",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2099,6 +2099,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/landmark-plan-to-rebuild-nhs-in-working-class-communities",
+          "author": null,
+          "description": "The 10 Year Health Plan will set out how the government plans to tackle inequalities in people’s health through fundamental reforms to our health system",
+          "link": "https://www.gov.uk/government/news/landmark-plan-to-rebuild-nhs-in-working-class-communities",
+          "publishedOn": "2025-06-25T10:10:45.000Z",
+          "wordCount": 3423,
+          "title": "Landmark plan to rebuild NHS in working class communities",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2024-to-2025",
           "author": null,
