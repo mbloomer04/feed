@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-25T07:14:22.367Z</updated>
+    <updated>2025-06-25T08:18:37.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Soliton IT and xWave partner to improve NHS radiology workflow]]></title>
+        <id>https://www.digitalhealth.net/?p=231741</id>
+        <link href="https://www.digitalhealth.net/2025/06/soliton-it-and-xwave-partner-to-improve-nhs-radiology-workflow/"/>
+        <updated>2025-06-25T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Soliton IT and xWave Technologies have joined forces to integrate their solutions and improve NHS radiology workflow.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10-year NHS plan will promise 'major changes' to GP funding formula]]></title>
         <id>https://www.gponline.com/article/1923195</id>
@@ -3829,22 +3839,6 @@ The post More than half of GPs want to see staff costs ringfenced in new GMS con
         <summary type="html"><![CDATA[A record 166,360 more adults in England began receiving support last year from a world-leading NHS public health initiative, which helps people lose weight and make lifestyles changes to stop or delay them developing Type 2 diabetes, according to new data. The analysis also shows that more than 900,000 adults at high risk of developing […]]]></summary>
         <author>
             <name>Tom W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seventy-eighth World Health Assembly – Daily update: 26 May 2025]]></title>
-        <id>urn:uuid:c00c4dd2-29c9-472e-ab7d-bf74b1a127fb</id>
-        <link href="https://www.who.int/news/item/26-05-2025-seventy-eighth-world-health-assembly---daily-update--26-may-2025"/>
-        <updated>2025-05-26T20:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Countries overwhelmingly agree on a new voluntary target for air pollution and health  
-
-Member States at the Seventy-eighth World Health Assembly strongly approved an updated road map for an enhanced global response to the adverse health effects of air pollution, reaffirming their commitment to protect populations from the world’s largest environmental health risk. The decision updates the 2016 strategy endorsed under WHA69/18 and builds on the landmark resolution WHA68.8 adopted in 2015. 
-
-Today, 99% of the world’s population breathes air that does not meet WHO air quality guidelines. The health burden from air pollution falls disproportionately on vulnerable and marginalized populations, particularly in low-resource settings where fragile health systems face compound challenges. 
-
-Air p…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
 </feed>
