@@ -1280,6 +1280,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1923366",
+          "author": null,
+          "description": "The first of a 'new generation' of GP IT systems has been approved for rollout to practices - with more expected to become available over the coming months, NHS England has announced.",
+          "link": "https://www.gponline.com/new-generation-system-approved-rollout-gp-practices/article/1923366",
+          "publishedOn": "2025-06-25T23:05:00.000Z",
+          "wordCount": 743,
+          "title": "'New generation' IT system approved for rollout to GP practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_10.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1923268",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -1932,6 +1942,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=268599",
+          "author": "nowen",
+          "description": "GP practices across England can now access new technology with the introduction of the first new core IT system for 25 years. As part of reforms to increase competition and innovation in the market, NHS England has approved the first of a new generation of electronic patient record systems for GPs – with more suppliers […]",
+          "link": "https://www.england.nhs.uk/2025/06/nhs-approves-new-it-system-for-gps-to-help-transform-care/",
+          "publishedOn": "2025-06-25T23:01:49.000Z",
+          "wordCount": 1439,
+          "title": "NHS approves new IT system for GPs to help transform care",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=268577",
           "author": "nowen",
@@ -2834,6 +2854,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:e8d6912a-b3e8-477e-ac64-b2a70692f3e3",
+          "author": null,
+          "description": "Tracking SDG 7: The Energy Progress Report 2025 finds that almost 92% of the world’s population now has basic access to electricity. Although this is an improvement since 2022, which saw the number of people without basic access decrease for the first time in a decade, over 666 million people remain without access, indicating that the current rate is insufficient to reach universal access by 2030. Clean cooking access is progressing but below the rates of progress seen in the 2010s, as efforts remain hobbled by setbacks during the Covid-19 pandemic, following energy price shocks, and debt crises.\nReleased today, the latest edition of the annual report that tracks progress towards Sustainable Development Goal (SDG) 7 highlights the role of distributed renewable energy (a combination of mini…",
+          "link": "https://www.who.int/news/item/25-06-2025-energy-access-has-improved--yet-international-financial-support-still-needed-to-boost-progress-and-address-disparities",
+          "publishedOn": "2025-06-25T12:04:42.000Z",
+          "wordCount": 4404,
+          "title": "Energy access has improved, yet international financial support still needed to boost progress and address disparities",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/environment-climate-change-and-health-(ech)/air-quality-energy-and-health-(aqh)/bboxx_drc_bboxx-cook-customer-cropped-1920px.tmb-1200v.jpg?sfvrsn=2748edf3_4"
+        },
+        {
           "id": "urn:uuid:ed95873b-68f2-4cb9-b4c1-ebce9f8edfab",
           "author": null,
           "description": "The World Health Organization (WHO) today released its report on the Global Tobacco Epidemic 2025 at the World Conference on Tobacco Control in Dublin, warning that action is needed to maintain and accelerate progress in tobacco control as rising industry interference challenges tobacco policies and control efforts.\nThe report focuses on the six proven WHO MPOWER tobacco control measures to reduce tobacco use, which claims over 7 million lives a year:\n\nMonitoring tobacco use and prevention policies;\nProtecting people from tobacco smoke with smoke-free air legislation;\nOffering help to quit tobacco use;\nWarning about the dangers of tobacco with pack labels and mass media;\nEnforcing bans on tobacco advertising, promotion and sponsorship; and\nRaising taxes on tobacco.\n\nSince 2007, 155 countri…",
@@ -3699,16 +3729,6 @@
           "wordCount": 3615,
           "title": "Imperial researchers create AI model to generate heart animations",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/shutterstock_758531029-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=229223",
-          "author": "Tammy Lovell",
-          "description": "University Hospitals of Northamptonshire has launched a Data Academy to provide training for patient and non-patient facing staff.",
-          "link": "https://www.digitalhealth.net/2025/05/university-hospitals-of-northamptonshire-launches-data-academy/",
-          "publishedOn": "2025-05-27T12:30:43.000Z",
-          "wordCount": 3632,
-          "title": "University Hospitals of Northamptonshire launches Data Academy",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/Multiverse-Imagery.-1-1.jpg"
         }
       ]
     }
