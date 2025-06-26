@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-26T15:13:55.523Z</updated>
+    <updated>2025-06-26T16:16:21.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4675 - Cisco Releases Security Advisory Affecting Cisco Identity Service Engine]]></title>
+        <id>2d13d5c1-a001-45c8-be6c-edb17a7c7ba5</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4675"/>
+        <updated>2025-06-26T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses two critical severity vulnerabilities in Cisco Identity Service Engine which could lead to remote code execution
+ Advisory addresses two critical severity vulnerabilities in Cisco Identity Service Engine which could lead to remote code execution
+ Updated: 26 Jun 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill: equality impact assessment]]></title>
+        <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-equality-impact-assessment</id>
+        <link href="https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-equality-impact-assessment"/>
+        <updated>2025-06-26T15:24:50.000Z</updated>
+        <summary type="html"><![CDATA[The equality impact assessment presents the impacts of the Terminally Ill Adults (End of Life) Bill.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill: ECHR memorandum]]></title>
+        <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-echr-memorandum</id>
+        <link href="https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-echr-memorandum"/>
+        <updated>2025-06-26T15:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Memorandum on the European Convention on Human Rights (ECHR) relating to the Terminally Ill Adults (End of Life) Bill.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland GPs enter ‘formal dispute’ with Government over underfunding]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163166</id>

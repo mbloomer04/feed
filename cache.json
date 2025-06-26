@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2d13d5c1-a001-45c8-be6c-edb17a7c7ba5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses two critical severity vulnerabilities in Cisco Identity Service Engine which could lead to remote code execution\n Advisory addresses two critical severity vulnerabilities in Cisco Identity Service Engine which could lead to remote code execution\n Updated: 26 Jun 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4675",
+          "publishedOn": "2025-06-26T15:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4675 - Cisco Releases Security Advisory Affecting Cisco Identity Service Engine",
+          "imageUrl": null
+        },
+        {
           "id": "9b5e9142-dfb9-4fe5-b749-f8aa4fadedf7",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Citrix has released a security advisory to address exploited vulnerability CVE-2025-6543 that could lead to unintended control flow or a denial-of-service condition.\n Citrix has released a security advisory to address exploited vulnerability CVE-2025-6543 that could lead to unintended control flow or a denial-of-service condition.\n Updated: 26 Jun 2025",
@@ -2189,6 +2199,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-equality-impact-assessment",
+          "author": null,
+          "description": "The equality impact assessment presents the impacts of the Terminally Ill Adults (End of Life) Bill.",
+          "link": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-equality-impact-assessment",
+          "publishedOn": "2025-06-26T15:24:50.000Z",
+          "wordCount": 1174,
+          "title": "Impact assessment: Terminally Ill Adults (End of Life) Bill: equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-echr-memorandum",
+          "author": null,
+          "description": "Memorandum on the European Convention on Human Rights (ECHR) relating to the Terminally Ill Adults (End of Life) Bill.",
+          "link": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-echr-memorandum",
+          "publishedOn": "2025-06-26T15:24:42.000Z",
+          "wordCount": 1061,
+          "title": "Impact assessment: Terminally Ill Adults (End of Life) Bill: ECHR memorandum",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-january-to-march-2025",
           "author": null,
