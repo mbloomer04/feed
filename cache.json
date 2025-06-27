@@ -1290,6 +1290,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1923524",
+          "author": null,
+          "description": "Talking General Practice speaks to Dr Lisa Harrod-Rothwell, chief executive of Londonwide LMCs, about the key challenges facing practices in the capital and how the move to neighbourhood working could affect them.",
+          "link": "https://www.gponline.com/podcast-shaping-future-gps-london/article/1923524",
+          "publishedOn": "2025-06-27T06:53:00.000Z",
+          "wordCount": 714,
+          "title": "Podcast: Shaping the future for GPs in London",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_withLIsaHarrodRothwell.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1923422",
           "author": null,
           "description": "Anaesthetic consultant Dr Tom Dolphin has been elected chair of the BMA - and promised to end 'exploitation and erosion' of the medical profession.",
@@ -3090,6 +3100,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=232137",
+          "author": "Jordan Sollof",
+          "description": "The UK has become the first country to join a new global network of health regulators focused on the safe use of AI in healthcare.",
+          "link": "https://www.digitalhealth.net/2025/06/uk-joins-global-network-for-the-safe-use-of-ai-in-healthcare/",
+          "publishedOn": "2025-06-27T07:30:44.000Z",
+          "wordCount": 3912,
+          "title": "UK joins global network for the safe use of AI in healthcare",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/MHRA-and-HealthAI-ceremonial-signing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=232357",
           "author": "Jordan Sollof",
