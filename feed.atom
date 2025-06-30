@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-30T04:27:56.929Z</updated>
+    <updated>2025-06-30T05:16:00.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World-first AI system to warn of NHS patient safety concerns]]></title>
+        <id>https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns</id>
+        <link href="https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns"/>
+        <updated>2025-06-30T04:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Pioneering AI technology will be developed to scan NHS systems to flag safety issues in real time and trigger crucial inspections earlier]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Healthy food revolution to tackle obesity epidemic]]></title>
         <id>https://www.gov.uk/government/news/healthy-food-revolution-to-tackle-obesity-epidemic</id>
