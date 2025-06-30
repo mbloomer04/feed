@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-06-30T12:26:26.677Z</updated>
+    <updated>2025-06-30T13:28:15.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI system to identify unsafe care ‘before it becomes a tragedy’]]></title>
+        <id>https://www.digitalhealth.net/?p=233069</id>
+        <link href="https://www.digitalhealth.net/2025/06/ai-system-to-identify-unsafe-care-before-it-becomes-a-tragedy/"/>
+        <updated>2025-06-30T12:40:32.000Z</updated>
+        <summary type="html"><![CDATA[An AI early warning system is being developed, as part of the 10 year health plan, to automatically identify safety concerns across the NHS.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond sleepless nights: managing chronic insomnia in adults in primary care]]></title>
         <id>https://www.gponline.com/article/1921118</id>
