@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-01T10:14:41.752Z</updated>
+    <updated>2025-07-01T11:11:50.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=231599</id>
+        <link href="https://www.digitalhealth.net/2025/07/digital-health-coffee-time-briefing-%e2%98%95-81/"/>
+        <updated>2025-07-01T10:30:38.000Z</updated>
+        <summary type="html"><![CDATA[This edition includes a closer look at concerns on the UK's approach to regulating AI in healthcare and digital support for unpaid carers.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4678 - Google Releases Security Updates for Chrome]]></title>
         <id>cd978396-23ca-466d-a154-2031ecd232cb</id>
@@ -3809,26 +3819,6 @@ The post GPs to vote on options for collective action in Northern Ireland appear
         <summary type="html"><![CDATA[Barts Health NHS Trust has implemented Sectra’s Anonymise and Export functionality, which de-identifies medical images for research purposes.]]></summary>
         <author>
             <name>Owen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteers support the NHS for 6 million hours this year]]></title>
-        <id>https://www.england.nhs.uk/?p=267307</id>
-        <link href="https://www.england.nhs.uk/2025/06/volunteers-support-the-nhs-for-6-million-hours-this-year/"/>
-        <updated>2025-06-01T23:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Tens of thousands of people have volunteered to help the NHS over the last year, according to new figures. From people in their late teens to those in their late eights volunteers have helped with tasks such as directing loved ones around hospitals, collecting medication or basic admin tasks. Around 70,000 people volunteer with the […]]]></summary>
-        <author>
-            <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telecare users and their loved ones across the UK urged to speak to telecoms providers ahead of switch to digital landlines]]></title>
-        <id>https://www.gov.uk/government/news/telecare-users-and-their-loved-ones-across-the-uk-urged-to-speak-to-telecoms-providers-ahead-of-switch-to-digital-landlines</id>
-        <link href="https://www.gov.uk/government/news/telecare-users-and-their-loved-ones-across-the-uk-urged-to-speak-to-telecoms-providers-ahead-of-switch-to-digital-landlines"/>
-        <updated>2025-06-01T23:01:06.000Z</updated>
-        <summary type="html"><![CDATA[The 2 million vulnerable people who rely on lifesaving telecare alarms to call for help have today been urged to get in touch with their landline providers so companies can provide additional support for them during the switch to digital landlines.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
