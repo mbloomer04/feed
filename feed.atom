@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-01T08:19:11.685Z</updated>
+    <updated>2025-07-01T09:16:47.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cost of NI patient record system rises to £360m]]></title>
+        <id>https://www.digitalhealth.net/?p=231901</id>
+        <link href="https://www.digitalhealth.net/2025/07/expected-cost-of-ni-patient-record-system-rises-to-360m/"/>
+        <updated>2025-07-01T07:30:59.000Z</updated>
+        <summary type="html"><![CDATA[The cost of the encompass digital records system for Northern Irish health trusts is now expected to reach £360m.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government to ‘rapidly’ explore private investment in GP infrastructure]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163241</id>
