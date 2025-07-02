@@ -2109,6 +2109,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/innovator-passports-set-to-accelerate-cutting-edge-nhs-care",
+          "author": null,
+          "description": "New 'innovator passport' will slash red tape so cutting-edge tech can be rolled out across the NHS quicker under the 10 Year Health Plan.",
+          "link": "https://www.gov.uk/government/news/innovator-passports-set-to-accelerate-cutting-edge-nhs-care",
+          "publishedOn": "2025-07-01T23:15:05.000Z",
+          "wordCount": 2311,
+          "title": "'Innovator passports’ set to accelerate cutting-edge NHS care",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2025-to-2026",
           "author": null,
           "description": "This consultation seeks views on the DHSC group accounting manual that applies to DHSC bodies for their annual reports and accounts.",
@@ -2707,16 +2717,6 @@
           "wordCount": 3478,
           "title": "Minister Smyth address to Medicine 2025",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/668bbefc7541f54efe51bb3f/Karin_Smyth.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nearly-1-billion-for-nhs-frontline-after-agency-spend-crackdown",
-          "author": null,
-          "description": "Government crack-down on rip-off temporary staffing agencies delivers unprecedented savings, as NHS trusts are urged to eradicate agency spending altogether",
-          "link": "https://www.gov.uk/government/news/nearly-1-billion-for-nhs-frontline-after-agency-spend-crackdown",
-          "publishedOn": "2025-06-02T11:41:18.000Z",
-          "wordCount": 2422,
-          "title": "Nearly £1 billion for NHS frontline after agency spend crackdown",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3778,16 +3778,6 @@
           "wordCount": 3755,
           "title": "NHSE warns that AI translation apps could impact patient safety",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Pocketalk-Header.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=229921",
-          "author": "Tammy Lovell",
-          "description": "The newly elected members for the Digital Health Networks Advisory Panel 2025–2027 term have been announced.",
-          "link": "https://www.digitalhealth.net/2025/06/digital-health-networks-advisory-panels-new-members-announced/",
-          "publishedOn": "2025-06-02T12:30:03.000Z",
-          "wordCount": 3766,
-          "title": "Digital Health Networks advisory panels’ new members announced",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Digital-Health-Networks.png"
         }
       ]
     }
