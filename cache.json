@@ -1270,6 +1270,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1924329",
+          "author": null,
+          "description": "Talking General Practice speaks to Lizzy Lloyd, chair of AISMA, the Association of Independent Specialist Medical Accountants, and a partner at the accountancy firm Larking Gowen, about GP practice finance and NHS pensions.",
+          "link": "https://www.gponline.com/podcast-understanding-financial-pressures-facing-general-practice/article/1924329",
+          "publishedOn": "2025-07-04T07:10:00.000Z",
+          "wordCount": 913,
+          "title": "Podcast: Understanding the financial pressures facing general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_LizzyLlloyd.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1924310",
           "author": null,
           "description": "The government will introduce a new legal duty that will require GP practices and other NHS providers to make patient data available in a new ‘single patient record’, the 10-year plan has revealed.",
@@ -3059,6 +3069,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=233779",
+          "author": "Jordan Sollof",
+          "description": "Digital Health takes a look at the government’s 10 year health plan for the NHS, which includes new tools for the NHS App, such as My Health.",
+          "link": "https://www.digitalhealth.net/2025/07/what-does-the-10-year-plan-mean-for-digital/",
+          "publishedOn": "2025-07-04T07:30:30.000Z",
+          "wordCount": 4344,
+          "title": "What does the 10 year plan mean for digital?",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Wes-Streeting.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=233733",
           "author": "Jordan Sollof",
