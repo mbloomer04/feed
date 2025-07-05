@@ -2319,6 +2319,16 @@
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         },
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2025-06-27T12:54:46.000Z",
+          "wordCount": 12399,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/boost-to-mental-health-services-from-thousands-of-extra-staff",
           "author": null,
           "description": "Latest data shows 6,700 more mental health workers have been recruited towards government’s 8,500 target.",
@@ -2776,16 +2786,6 @@
           "publishedOn": "2025-06-05T16:25:21.000Z",
           "wordCount": 923,
           "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/tackling-modern-slavery-in-nhs-procurement-proposed-regulations-and-guidance",
-          "author": null,
-          "description": "Government is inviting views on the draft National Health Service (Procurement, Slavery and Human Trafficking) Regulations 2024 and accompanying guidance.",
-          "link": "https://www.gov.uk/government/consultations/tackling-modern-slavery-in-nhs-procurement-proposed-regulations-and-guidance",
-          "publishedOn": "2025-06-05T12:48:10.000Z",
-          "wordCount": 1440,
-          "title": "Tackling modern slavery in NHS procurement: proposed regulations and guidance",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
@@ -3848,16 +3848,6 @@
           "wordCount": 3794,
           "title": "Movers and Shakers news roundup",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Movers-and-Shakers.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=230189",
-          "author": "Jordan Sollof",
-          "description": "Greater Manchester Mental Health NHS Foundation Trust (GMMH) has awarded a patient engagement portal contract worth £572,000 to DrDoctor.",
-          "link": "https://www.digitalhealth.net/2025/06/mental-health-trust-awards-drdoctor-572k-patient-portal-contract/",
-          "publishedOn": "2025-06-05T12:30:22.000Z",
-          "wordCount": 3843,
-          "title": "Mental health trust awards DrDoctor £572k patient portal contract",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Nick-Barlow.png"
         }
       ]
     }
