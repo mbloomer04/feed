@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-07T11:12:18.842Z</updated>
+    <updated>2025-07-07T12:26:28.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onboarding shouldn't be an afterthought]]></title>
+        <id>789c6a5e-10f9-42e8-b5dd-63efa5564938</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2022/onboarding-shouldnt-be-an-afterthought"/>
+        <updated>2025-07-07T11:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Alex Lord, Lead Product Owner for the Digital Onboarding Service at NHS Digital, explains why we are investing in digitalising the onboarding journey for developers of healthcare software. 
+
+
+If there is anything that many leave until it is too late, it is thinking about getting approval to use NHS APIs and digital services in production. We often call this onboarding.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Alex Lord)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP efforts in 7/7 rescue remembered on 20th anniversary of bombings]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163501</id>

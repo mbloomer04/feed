@@ -1917,6 +1917,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "789c6a5e-10f9-42e8-b5dd-63efa5564938",
+          "author": "enquiries@nhsdigital.nhs.uk (Alex Lord)",
+          "description": "Alex Lord, Lead Product Owner for the Digital Onboarding Service at NHS Digital, explains why we are investing in digitalising the onboarding journey for developers of healthcare software. \n\r\n\r\nIf there is anything that many leave until it is too late, it is thinking about getting approval to use NHS APIs and digital services in production. We often call this onboarding.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/onboarding-shouldnt-be-an-afterthought",
+          "publishedOn": "2025-07-07T11:17:43.000Z",
+          "wordCount": null,
+          "title": "Onboarding shouldn't be an afterthought",
+          "imageUrl": null
+        },
+        {
           "id": "13f419d4-1d3b-4957-b1c9-14ddae00dacc",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. \n\r\n\r\nLast year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.",
