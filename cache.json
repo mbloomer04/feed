@@ -133,6 +133,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=163501",
+          "author": "Maya Dhillon",
+          "description": "The BMA has paid tribute to the victims, survivors, and doctors who cared for the injured from the 7/7 London bombings, on the 20th anniversary of the attacks. One of the four bombs that exploded on 7 July 2005 detonated on a bus outside the BMA’s London headquarters in Tavistock Square at 9:47am. In all,\nThe post GP efforts in 7/7 rescue remembered on 20th anniversary of bombings appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/gp-efforts-in-7-7-rescue-remembered-on-20th-anniversary-of-bombings/",
+          "publishedOn": "2025-07-07T11:02:32.000Z",
+          "wordCount": 2498,
+          "title": "GP efforts in 7/7 rescue remembered on 20th anniversary of bombings",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/bma_house.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=163373",
+          "author": "Anna Colivicchi",
+          "description": "The Government has renewed its pledge to cut NHS bureaucracy as part of its long-awaited 10-year plan, including for GPs. The document, published last week, said that the Government has already begun to cut ‘excessive’ bureaucracy through the abolition of NHS England and ‘the Red Tape challenge’. It revealed that the first step in the\nThe post Bureaucratic burden on GPs to be reduced, pledges 10-year plan appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/nhs-structures/bureaucratic-burden-on-gps-to-be-reduced-pledges-10-year-plan/",
+          "publishedOn": "2025-07-07T10:18:05.000Z",
+          "wordCount": 2328,
+          "title": "Bureaucratic burden on GPs to be reduced, pledges 10-year plan",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/08/Capita-restarting-GP-list-cleansing-amid-concerns-it-is-a-bureaucratic-burden.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163400",
           "author": "Sofia Lind",
           "description": "Weight-loss jabs will be made available to the poorest who have the highest need, the Government has said in the NHS 10-year plan. The NHS will partner with industry to deliver GLP-1 medications like tirzepatide and semaglutide through a range of innovative models under an ‘ambitious moonshot’ approach. Patients may be able to access them\nThe post Weight-loss jabs to be made available to poorest patients appeared first on Pulse Today.",
@@ -1928,7 +1948,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "cf707da7-17f2-43b5-9708-e928df57aba7",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Our data-driven clinical trials service, NHS DigiTrials, is changing what is possible for researchers but there’s more to do, says our Head of Clinical Trials.\n\r\n\r\nWe’re seeing numbers coming out of the NHS DigiTrials’ recruitment service that would not have seemed possible 2 years ago.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/recruitment-success-puts-spotlight-on-what-we-can-do-better",
+          "publishedOn": "2025-07-07T10:56:58.000Z",
+          "wordCount": null,
+          "title": "Recruitment success puts spotlight on what we can do better",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
@@ -2068,6 +2099,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "publishedOn": "2025-07-07T10:40:59.000Z",
+          "wordCount": 954,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/list-of-family-hub-sites",
           "author": null,
