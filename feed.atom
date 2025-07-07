@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-07T13:28:34.955Z</updated>
+    <updated>2025-07-07T14:13:20.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why creating an online service is more than just digitising a form]]></title>
+        <id>126f5e72-44f6-47f8-9287-401715bdeef1</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2022/why-creating-an-online-service-is-more-than-just-digitising-a-form"/>
+        <updated>2025-07-07T13:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Kerrie Hughes, Lead Service Designer for the new ‘Register with a GP Surgery’ service, says registration is more than just paperwork – it’s about giving more people access to healthcare and helping GP practices to provide great care.
+
+
+Good services don’t happen by accident. They are the result of a deep understanding of the people that will use the service. They are carefully crafted to help those people do what they want to do.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Kerrie Hughes)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a testing service that works for everyone]]></title>
+        <id>b315e529-4d8e-46ba-bd80-b9ba9afcc6be</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2021/building-a-testing-service-that-works-for-everyone"/>
+        <updated>2025-07-07T13:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Kate Every, Service Designer for the NHS Test and Trace programme, looks at how using data and research helped the team meet the challenge of ensuring anyone within the UK population could carry out a lateral flow test for COVID-19.
+
+
+COVID-19 has impacted every one of us. Our challenge was to build and iterate a nationwide testing service that had to work for people from all walks of life, who were testing for very different reasons.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Kate Every)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: NHS England annual accountability statement: 2023 to 2024]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024</id>
+        <link href="https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024"/>
+        <updated>2025-07-07T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[NHS England's performance measured against the NHS public health functions agreement for 2023 to 2024.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving the Data Access Request Service]]></title>
+        <id>7df12088-531f-4ffb-b7c3-2bb40782fccb</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2023/improving-the-data-access-request-service"/>
+        <updated>2025-07-07T13:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Senior content designer Jessamine Marie explains how her team used user-centred design principles to put people at the heart of redesigning our Data Access Request Service.
+
+
+Clinicians, researchers and commissioners can apply to access healthcare data through the Data Access Request Service (DARS). The main objective of any DARS service user is to request data quickly and easily.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Jessamine Marie)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting people and partnership at the centre of clinical research]]></title>
+        <id>43193d17-c8c4-4b14-a0d7-1c61be17c5f2</id>
+        <link href="https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research"/>
+        <updated>2025-07-07T13:32:45.000Z</updated>
+        <summary type="html"><![CDATA[In March 2024, the Westminster Health Forum policy conference on "Next steps for clinical research in the UK" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.
+
+
+I was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Heather Pinches)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do you put a digital service on paper?]]></title>
         <id>b83ceb8d-99f5-4b38-99ff-ade03fe1df5d</id>

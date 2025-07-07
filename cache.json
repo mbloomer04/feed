@@ -1970,6 +1970,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "43193d17-c8c4-4b14-a0d7-1c61be17c5f2",
+          "author": "enquiries@nhsdigital.nhs.uk (Heather Pinches)",
+          "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research",
+          "publishedOn": "2025-07-07T13:32:45.000Z",
+          "wordCount": null,
+          "title": "Putting people and partnership at the centre of clinical research",
+          "imageUrl": null
+        },
+        {
           "id": "cf707da7-17f2-43b5-9708-e928df57aba7",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Our data-driven clinical trials service, NHS DigiTrials, is changing what is possible for researchers but there’s more to do, says our Head of Clinical Trials.\n\r\n\r\nWe’re seeing numbers coming out of the NHS DigiTrials’ recruitment service that would not have seemed possible 2 years ago.",
@@ -1986,6 +1996,36 @@
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "126f5e72-44f6-47f8-9287-401715bdeef1",
+          "author": "enquiries@nhsdigital.nhs.uk (Kerrie Hughes)",
+          "description": "Kerrie Hughes, Lead Service Designer for the new ‘Register with a GP Surgery’ service, says registration is more than just paperwork – it’s about giving more people access to healthcare and helping GP practices to provide great care.\n\r\n\r\nGood services don’t happen by accident. They are the result of a deep understanding of the people that will use the service. They are carefully crafted to help those people do what they want to do.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2022/why-creating-an-online-service-is-more-than-just-digitising-a-form",
+          "publishedOn": "2025-07-07T13:54:44.000Z",
+          "wordCount": null,
+          "title": "Why creating an online service is more than just digitising a form",
+          "imageUrl": null
+        },
+        {
+          "id": "b315e529-4d8e-46ba-bd80-b9ba9afcc6be",
+          "author": "enquiries@nhsdigital.nhs.uk (Kate Every)",
+          "description": "Kate Every, Service Designer for the NHS Test and Trace programme, looks at how using data and research helped the team meet the challenge of ensuring anyone within the UK population could carry out a lateral flow test for COVID-19.\n\r\n\r\nCOVID-19 has impacted every one of us. Our challenge was to build and iterate a nationwide testing service that had to work for people from all walks of life, who were testing for very different reasons.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2021/building-a-testing-service-that-works-for-everyone",
+          "publishedOn": "2025-07-07T13:52:43.000Z",
+          "wordCount": null,
+          "title": "Building a testing service that works for everyone",
+          "imageUrl": null
+        },
+        {
+          "id": "7df12088-531f-4ffb-b7c3-2bb40782fccb",
+          "author": "enquiries@nhsdigital.nhs.uk (Jessamine Marie)",
+          "description": "Senior content designer Jessamine Marie explains how her team used user-centred design principles to put people at the heart of redesigning our Data Access Request Service.\n\r\n\r\nClinicians, researchers and commissioners can apply to access healthcare data through the Data Access Request Service (DARS). The main objective of any DARS service user is to request data quickly and easily.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2023/improving-the-data-access-request-service",
+          "publishedOn": "2025-07-07T13:45:18.000Z",
+          "wordCount": null,
+          "title": "Improving the Data Access Request Service",
+          "imageUrl": null
+        },
         {
           "id": "b83ceb8d-99f5-4b38-99ff-ade03fe1df5d",
           "author": "enquiries@nhsdigital.nhs.uk (Fern Williams)",
@@ -2150,6 +2190,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024",
+          "author": null,
+          "description": "NHS England's performance measured against the NHS public health functions agreement for 2023 to 2024.",
+          "link": "https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024",
+          "publishedOn": "2025-07-07T13:49:00.000Z",
+          "wordCount": 862,
+          "title": "Corporate report: NHS England annual accountability statement: 2023 to 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/review-of-patient-safety-across-the-health-and-care-landscape",
           "author": null,
