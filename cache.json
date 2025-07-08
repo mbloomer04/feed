@@ -2020,6 +2020,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c1feab89-da88-4e79-a854-dd767a561274",
+          "author": "enquiries@nhsdigital.nhs.uk (Nicola Byrne)",
+          "description": "Dr Nicola Byrne, the National Data Guardian, outlines new guidance to support better public benefit evaluations. \n\r\n\r\nMany of us share a ‘big picture’ vision: better health and care outcomes for everyone through the safe, appropriate and ethical use of data. The NHS can’t accomplish this vision without outside help, however.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/what-is-public-benefit",
+          "publishedOn": "2025-07-08T08:24:58.000Z",
+          "wordCount": null,
+          "title": "What is public benefit?",
+          "imageUrl": null
+        },
+        {
           "id": "43193d17-c8c4-4b14-a0d7-1c61be17c5f2",
           "author": "enquiries@nhsdigital.nhs.uk (Heather Pinches)",
           "description": "In March 2024, the Westminster Health Forum policy conference on \"Next steps for clinical research in the UK\" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.\n\r\n\r\nI was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.",
@@ -2046,6 +2056,26 @@
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "ba442a56-247f-426b-a284-a8ae5d02e5b8",
+          "author": "enquiries@nhsdigital.nhs.uk (Paul Pod)",
+          "description": "Paul Pod, Interaction Designer in the NHS 111 online team, explains how they have improved information about meningitis symptoms by adding multimedia content to triage questions.\n\r\n\r\nWhen people use NHS 111 online, they usually have an urgent medical problem and they want to know what to do and where to go to get it sorted as quickly as possible. As designers, we spend all our time developing our understanding of users and thinking about how to make our service as accessible as possible.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2023/using-meningitis-pictures-and-video-on-111-online",
+          "publishedOn": "2025-07-08T08:32:18.000Z",
+          "wordCount": null,
+          "title": "Using meningitis pictures and video on 111 online",
+          "imageUrl": null
+        },
+        {
+          "id": "b0414a57-9aca-467d-91ad-c7c176ee4f5e",
+          "author": "enquiries@nhsdigital.nhs.uk (Mitchell Wakefield)",
+          "description": "As we enter another national coronavirus lockdown, Mitchell Wakefield, one of our user researchers for NHS login, reflects on what he learned doing remote research with blind and low-vision users during the first lockdown and shares his tips on how to get it right.\n\r\n\r\nGoing fully remote since the outbreak of coronavirus (COVID-19) has been a challenging transition for many technology-focused research teams, and it certainly has been no exception for the user research community at NHS Digital. But with unforeseen challenges come opportunities to adapt and seek different methods and techniques.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2021/going-remote-how-we-adapted-our-accessibility-research",
+          "publishedOn": "2025-07-08T08:22:10.000Z",
+          "wordCount": null,
+          "title": "Going remote: How we adapted our accessibility research",
+          "imageUrl": null
+        },
         {
           "id": "7ec74886-2e0f-48e3-a709-1e275939331f",
           "author": "enquiries@nhsdigital.nhs.uk (Matthew Lund)",
