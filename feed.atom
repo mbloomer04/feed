@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-09T13:28:46.399Z</updated>
+    <updated>2025-07-09T14:12:51.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meeting user needs in the face of winter]]></title>
+        <id>66ac90f8-24b7-442a-9388-f37f0e4c8e5e</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2021/meeting-user-needs-in-the-face-of-winter"/>
+        <updated>2025-07-09T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Brie Whyatt, Interaction Design Graduate, explains how the NHS App team improved the appointment booking process in the app by creating user stories, using the NHS digital service manual and doing usability tests to help patients and GP surgeries during this exceptionally challenging winter.
+
+
+Many GP surgeries across the country offer patients the ability to book their appointments in the NHS App. Online appointment booking enables patients to access primary care digitally, which eases pressure on GP surgery staff, who are facing the extreme clinical challenges of the coronavirus pandemic during the already difficult winter months.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Brie Whyatt)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The NHS App after the pandemic]]></title>
+        <id>e1a8f60e-a136-47af-87f2-816581178f62</id>
+        <link href="https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic"/>
+        <updated>2025-07-09T13:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.
+
+
+NHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.
+
+
+In the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Susie Day)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discovering data standards together]]></title>
         <id>eb00fd28-2c90-4b88-a85e-13844eee2e30</id>

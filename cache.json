@@ -2017,7 +2017,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "e1a8f60e-a136-47af-87f2-816581178f62",
+          "author": "enquiries@nhsdigital.nhs.uk (Susie Day)",
+          "description": "Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.\n\r\n\r\nNHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.\n\r\n\r\nIn the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic",
+          "publishedOn": "2025-07-09T13:53:19.000Z",
+          "wordCount": null,
+          "title": "The NHS App after the pandemic",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -2134,6 +2145,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "66ac90f8-24b7-442a-9388-f37f0e4c8e5e",
+          "author": "enquiries@nhsdigital.nhs.uk (Brie Whyatt)",
+          "description": "Brie Whyatt, Interaction Design Graduate, explains how the NHS App team improved the appointment booking process in the app by creating user stories, using the NHS digital service manual and doing usability tests to help patients and GP surgeries during this exceptionally challenging winter.\n\r\n\r\nMany GP surgeries across the country offer patients the ability to book their appointments in the NHS App. Online appointment booking enables patients to access primary care digitally, which eases pressure on GP surgery staff, who are facing the extreme clinical challenges of the coronavirus pandemic during the already difficult winter months.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2021/meeting-user-needs-in-the-face-of-winter",
+          "publishedOn": "2025-07-09T13:55:54.000Z",
+          "wordCount": null,
+          "title": "Meeting user needs in the face of winter",
+          "imageUrl": null
+        },
         {
           "id": "067986ca-bb9e-47c9-85f4-59945e2c5391",
           "author": "enquiries@nhsdigital.nhs.uk (Adrian Smith)",
