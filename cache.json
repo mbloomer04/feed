@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0805f04f-6702-4b23-8b37-3b23a16e98c0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 130 vulnerabilities, of which one has been reported as publicly disclosed\n Scheduled updates for Microsoft products, including security updates for 130 vulnerabilities, of which one has been reported as publicly disclosed\n Updated: 09 Jul 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4679",
+          "publishedOn": "2025-07-09T12:57:00.000Z",
+          "wordCount": null,
+          "title": "CC-4679 - Microsoft Releases July 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "cd978396-23ca-466d-a154-2031ecd232cb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome where an attacker could perform perform arbitrary read/write\n Security update addresses an exploited high severity vulnerability in Google Chrome where an attacker could perform perform arbitrary read/write\n Updated: 01 Jul 2025",
@@ -1300,6 +1310,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1924913",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-10-year-plan-threatens-gp-model-arrs-gp-recruitment-ni-collective-action/article/1924913",
+          "publishedOn": "2025-07-09T13:19:16.000Z",
+          "wordCount": 905,
+          "title": "GP News Update: 10-year plan 'threatens GP model', ARRS GP recruitment, NI collective action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_8.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1924880",
+          "author": null,
+          "description": "Resident doctors will go on strike for five days at the end of this month, the BMA has said.",
+          "link": "https://www.gponline.com/resident-doctors-announce-five-day-strike-july/article/1924880",
+          "publishedOn": "2025-07-09T11:07:10.000Z",
+          "wordCount": 882,
+          "title": "Resident doctors announce five-day strike in July",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2032550683.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1924841",
           "author": null,
           "description": "The government's 10-year health plan could 'seriously undermine' the current model of general practice and continuity of care, the BMA England GP committee has warned.",
@@ -1994,6 +2024,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "eb00fd28-2c90-4b88-a85e-13844eee2e30",
+          "author": "enquiries@nhsdigital.nhs.uk (Bharat Sharma)",
+          "description": "Bharat Sharma, Senior Product Manager in the Standards and Interoperability team at NHS England, explains what they are doing to improve access to standards across the NHS.\n\r\n\r\nIt’s a bit like the old philosophical question ‘If a tree falls in a forest and no one is around to hear it, does it make a sound?’:\n\r\n\r\nIf a standard is published but people don’t know about it, is it a standard?",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/discovering-data-standards-together",
+          "publishedOn": "2025-07-09T13:21:01.000Z",
+          "wordCount": null,
+          "title": "Discovering data standards together",
+          "imageUrl": null
+        },
         {
           "id": "0a86795b-fbf3-4492-9e15-a43786d1ab6c",
           "author": "enquiries@nhsdigital.nhs.uk (Ernest Kissiedu)",
@@ -3329,6 +3369,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=231883",
+          "author": "Tammy Lovell",
+          "description": "Somerset has launched a feature which enables patients to record their care preferences within the region's shared care record.",
+          "link": "https://www.digitalhealth.net/2025/07/somerset-launches-electronic-treatment-escalation-plans/",
+          "publishedOn": "2025-07-09T12:30:37.000Z",
+          "wordCount": 5920,
+          "title": "Somerset launches electronic treatment escalation plans",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/shutterstock_1336116635-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=234177",
           "author": "Cora Lydon",
