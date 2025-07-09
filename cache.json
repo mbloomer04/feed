@@ -133,6 +133,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=163592",
+          "author": "Anna Colivicchi",
+          "description": "The BMA has raised concerns that the 10-year plan could ‘seriously undermine’ the current GP practice model, revealing that its GP committee had not been allowed to see the plan ahead of publication. GPC England chair Dr Katie Bramall said that committee members are currently ‘working through the plan’ but that they were not given\nThe post 10-year plan could ‘seriously undermine’ current GP model, BMA warns appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/special-investigations/10-year-health-plan/10-year-plan-could-seriously-undermine-current-gp-model-bma-warns/",
+          "publishedOn": "2025-07-09T11:18:46.000Z",
+          "wordCount": 2800,
+          "title": "10-year plan could ‘seriously undermine’ current GP model, BMA warns",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/12/katie-bramall-stainer-gesturing.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163156",
           "author": "Sofia Lind",
           "description": "More than a million children are living in unsafe homes that are making them sick, paediatricians have warned. A report from the Royal College of Paediatrics and Child Health (RCPCH) found 1.5 million children were living in homes that were causing or contributing to asthma, respiratory infections, and chronic illness. Yet air pollution, housing insecurity\nThe post Over one million children living in homes causing asthma and chronic illness appeared first on Pulse Today.",
@@ -1985,6 +1995,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0a86795b-fbf3-4492-9e15-a43786d1ab6c",
+          "author": "enquiries@nhsdigital.nhs.uk (Ernest Kissiedu)",
+          "description": "Making it easier to get help and support is a guiding principle for our API Management (APIM) team. Ernest Kissiedu, a business analyst in the team, explains the new approach to supporting software developers working in health and care.\n\r\n\r\nEnsuring that the API platform is as self-serve as possible, with simple and reliable support provided when needed, is top of the list for our team. If our developers have a positive experience, they are more likely to use our APIs to develop cost-effective, digital services designed around the needs of our health and care professionals, patients, and the public.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/how-were-supporting-product-teams",
+          "publishedOn": "2025-07-09T11:29:39.000Z",
+          "wordCount": null,
+          "title": "How we're supporting product teams",
+          "imageUrl": null
+        },
+        {
           "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
           "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
           "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
@@ -2074,6 +2094,36 @@
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "067986ca-bb9e-47c9-85f4-59945e2c5391",
+          "author": "enquiries@nhsdigital.nhs.uk (Adrian Smith)",
+          "description": "If you want to build easy-to-use digital health services that put people first, Adrian Smith explains why the NHS digital service manual is a great place to start.\n\r\n\r\nThis blog post will take just 5 minutes of your time, but it could well save you hours of unnecessary work (and head-scratching).",
+          "link": "https://digital.nhs.uk/blog/design-matters/2020/10-ways-the-nhs-digital-service-manual-can-help-you",
+          "publishedOn": "2025-07-09T11:56:46.000Z",
+          "wordCount": null,
+          "title": "10 ways the NHS digital service manual can help you",
+          "imageUrl": null
+        },
+        {
+          "id": "6af7703b-803f-4bfb-a271-8377ec592702",
+          "author": "enquiries@nhsdigital.nhs.uk (Tosin Balogun)",
+          "description": "Tosin Balogun, Associate Interaction Designer for the NHS website, looks at how we design and how we try to make a difference.\n\r\n\r\nIt is pretty obvious to say that design changes people’s lives. If it didn’t, we wouldn’t spend so much of our time trying to get it right.\n\r\n\r\nBut the reality beneath that unoriginal claim struck home for me recently as I worked on a report tool, part of the replacement system for national cervical screening.\n\r\n\r\nIt’s not the most dramatic or heart-rending example of our impact – but is perhaps no less meaningful for that. It’s a small piece of work that speaks to the everyday reality we try to grapple with as interaction designers in the NHS.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2022/trying-to-be-less-demanding-on-the-brain",
+          "publishedOn": "2025-07-09T11:47:21.000Z",
+          "wordCount": null,
+          "title": "Trying to be less \"demanding on the brain\"",
+          "imageUrl": null
+        },
+        {
+          "id": "c337bf5a-0298-43d4-b43f-6ea73b7123b6",
+          "author": "enquiries@nhsdigital.nhs.uk (Josh Healey)",
+          "description": "Josh Healey, User-Centred Design Lead for the Register with a GP surgery service, explains how redesigning the first page of the service made it more accessible for everyone – and how they created a framework to measure impact.\n\r\n\r\nGeneral practitioners (GPs) play an important role in our communities. GPs treat common medical conditions, refer patients to hospitals and act as the first place many go to for health and wellbeing advice. This is why it is so important that everyone can register with and see a GP when they need to.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2023/why-accessible-design-is-good-design",
+          "publishedOn": "2025-07-09T11:35:03.000Z",
+          "wordCount": null,
+          "title": "Why accessible design is good design",
+          "imageUrl": null
+        },
         {
           "id": "ba442a56-247f-426b-a284-a8ae5d02e5b8",
           "author": "enquiries@nhsdigital.nhs.uk (Paul Pod)",
