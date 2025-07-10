@@ -2263,6 +2263,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=269380",
+          "author": "rwootton",
+          "description": "Hardworking NHS staff delivered record numbers of treatments as the waiting list fell in May for the first time in 17 years*, new figures reveal today. Monthly NHS data shows the overall waiting list dropped by nearly 30,000 in May to 7.36 million – the lowest total since March 2023 – with 60.9% waiting 18 […]",
+          "link": "https://www.england.nhs.uk/2025/07/nhs-delivers-record-numbers-of-treatments-as-waiting-list-drops-to-26-month-low/",
+          "publishedOn": "2025-07-10T08:30:05.000Z",
+          "wordCount": 2105,
+          "title": "NHS delivers record numbers of treatments as waiting list drops to 26-month low",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=269378",
           "author": "fraja",
           "description": "Responding to the BMA announcement that resident doctors will undertake strike action, Meghana Pandit, NHS England Co-National Medical Director (Secondary Care), said: “It is disappointing the BMA have announced strike action, particularly so close to the 10 Year Health Plan that provides a clear vision for recovery and making the NHS fit for the future […]",
@@ -2379,6 +2389,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026",
+          "author": null,
+          "description": "The public health allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2025-to-2026",
+          "publishedOn": "2025-07-10T08:30:05.000Z",
+          "wordCount": 1149,
+          "title": "Guidance: Public health grants to local authorities: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/commercial-procurement-pipeline-for-dhsc",
           "author": null,
