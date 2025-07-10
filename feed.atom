@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-10T12:26:45.162Z</updated>
+    <updated>2025-07-10T13:29:20.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS SE London uses data to plan women’s and girls’ health hubs]]></title>
+        <id>https://www.digitalhealth.net/?p=231933</id>
+        <link href="https://www.digitalhealth.net/2025/07/nhs-se-london-uses-data-to-plan-womens-and-girls-health-hubs/"/>
+        <updated>2025-07-10T12:30:54.000Z</updated>
+        <summary type="html"><![CDATA[NHS South East London has identified the best sites for its first two women’s and girls’ health hubs using spatial analysis.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hospital failures to send patient documents to GPs harmed patients, finds safety review]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163636</id>
