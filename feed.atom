@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-10T16:16:37.098Z</updated>
+    <updated>2025-07-10T17:14:20.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overcoming barriers to GP registration]]></title>
+        <id>4ce59580-b2f3-41b5-bc71-42b15237de2f</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2022/overcoming-barriers-to-gp-registration"/>
+        <updated>2025-07-10T16:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Everyone should be able to register with a GP surgery. Senior User Researcher Tamara Farrar worked with seldom heard groups to ensure their needs were considered when designing a new registration service.
+
+
+Anyone in England can register with a GP surgery. It’s free. You do not need proof of address. You do not need to give details of your immigration status and it’s not necessary to have an NHS number to hand.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Tamara Farrar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why we're opening up our API and integration catalogue]]></title>
         <id>3208609c-d040-40d0-808a-4235a41af0d7</id>
