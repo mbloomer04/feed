@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-10T07:14:45.505Z</updated>
+    <updated>2025-07-10T08:18:38.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Commercial procurement pipeline for DHSC]]></title>
+        <id>https://www.gov.uk/government/publications/commercial-procurement-pipeline-for-dhsc</id>
+        <link href="https://www.gov.uk/government/publications/commercial-procurement-pipeline-for-dhsc"/>
+        <updated>2025-07-10T08:13:19.000Z</updated>
+        <summary type="html"><![CDATA[A forecast of potential commercial activity over the next 48 months where spend is over £2 million.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two technologies tackling brain injury awarded £3m NIHR funding]]></title>
+        <id>https://www.digitalhealth.net/?p=232687</id>
+        <link href="https://www.digitalhealth.net/2025/07/two-technologies-tackling-brain-injury-awarded-3m-nihr-funding/"/>
+        <updated>2025-07-10T07:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Two medical technologies tackling brain injury have received a share of £3m from the National Institute for Health and Care Research (NIHR).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responding to the BMA announcement that resident doctors will undertake strike action]]></title>
         <id>https://www.england.nhs.uk/?p=269378</id>
