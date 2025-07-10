@@ -2086,6 +2086,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "3208609c-d040-40d0-808a-4235a41af0d7",
+          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
+          "description": "Business analyst Matthew Firth talks about the expansion of NHS Digital’s application programming interface (API) and integration catalogue which, for the first time, will now include external APIs.  \n\r\n\r\nHistorically, we have only represented NHS Digital APIs in our API and integration catalogue. The reason is that the Developer hub was set up as a space where API consumers can learn about the NHS Digital onboarding journey and identify the APIs which they’d like to onboard with. It made sense to only represent our NHS Digital APIs in there and aimed to avoid confusion or dilute our onboarding journey for external suppliers and partners.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2022/why-were-opening-up-our-api-catalogue",
+          "publishedOn": "2025-07-10T16:04:32.000Z",
+          "wordCount": null,
+          "title": "Why we're opening up our API and integration catalogue",
+          "imageUrl": null
+        },
+        {
           "id": "42feb7fa-e5ff-46f4-87e1-67ccbf8efae1",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Mark Burton, Lead Delivery Manager for the Spine Futures programme, explains why we’re accelerating the migration of Spine services into the cloud and why we need NHS organisations and healthcare suppliers to support the move.\n\r\n\r\nIn the decade since the NHS Spine was launched, digital health and care services have become significantly larger, much more complex and more central to NHS provision. The Spine platform provides critical healthcare infrastructure and we must modernise to keep up with the demands being placed on it.",
@@ -2469,6 +2479,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds",
+          "author": null,
+          "description": "Report on the uplifts to the member contribution tier thresholds in the NHS Pension Scheme from 1 April 2025.",
+          "link": "https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds",
+          "publishedOn": "2025-07-10T15:49:53.000Z",
+          "wordCount": 833,
+          "title": "Policy paper: NHS Pension Scheme: changes to contribution tier thresholds",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-prevent-training-and-competencies-framework",
           "author": null,

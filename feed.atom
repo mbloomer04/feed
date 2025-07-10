@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-10T15:14:23.073Z</updated>
+    <updated>2025-07-10T16:16:37.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why we're opening up our API and integration catalogue]]></title>
+        <id>3208609c-d040-40d0-808a-4235a41af0d7</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2022/why-were-opening-up-our-api-catalogue"/>
+        <updated>2025-07-10T16:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Business analyst Matthew Firth talks about the expansion of NHS Digital’s application programming interface (API) and integration catalogue which, for the first time, will now include external APIs.  
+
+
+Historically, we have only represented NHS Digital APIs in our API and integration catalogue. The reason is that the Developer hub was set up as a space where API consumers can learn about the NHS Digital onboarding journey and identify the APIs which they’d like to onboard with. It made sense to only represent our NHS Digital APIs in there and aimed to avoid confusion or dilute our onboarding journey for external suppliers and partners.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Matthew Firth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: NHS Pension Scheme: changes to contribution tier thresholds]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds</id>
+        <link href="https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds"/>
+        <updated>2025-07-10T15:49:53.000Z</updated>
+        <summary type="html"><![CDATA[Report on the uplifts to the member contribution tier thresholds in the NHS Pension Scheme from 1 April 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Case of the month: What is the diagnosis in this case of treatment-resistant hypothyroidism?]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163656</id>
