@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4666 - Microsoft Releases June 2025 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "49253ea7-c506-475a-a6a5-520d088fb078",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n ConnectWise has advised users of ScreenConnect or Automate \"must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience.\"\n ConnectWise has advised users of ScreenConnect or Automate \"must update to the latest build and validate that all agents are updated before 13 June at 8:00pm ET [14 June at midnight UTC] to avoid disruptions or degraded experience.\"\n Updated: 11 Jun 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4665",
-          "publishedOn": "2025-06-11T10:25:00.000Z",
-          "wordCount": null,
-          "title": "CC-4665 - ConnectWise Releases Update to Rotate Code Signing Certificates for ScreenConnect, Automate and RMM",
-          "imageUrl": null
         }
       ]
     },
