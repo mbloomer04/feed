@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-11T03:22:35.542Z</updated>
+    <updated>2025-07-11T04:31:00.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -40,6 +40,16 @@ Historically, we have only represented NHS Digital APIs in our API and integrati
         <summary type="html"><![CDATA[Report on the uplifts to the member contribution tier thresholds in the NHS Pension Scheme from 1 April 2025.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourth meeting of the International Health Regulations (2005) Emergency Committee regarding the upsurge of mpox 2024]]></title>
+        <id>urn:uuid:d02d9492-de75-40ae-8c6c-6ff06b016a42</id>
+        <link href="https://www.who.int/news/item/10-07-2025-fourth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-upsurge-of-mpox-2024"/>
+        <updated>2025-07-10T15:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Concurring with the advice unanimously expressed by the Committee during the meeting, the WHO Director-General determined that the upsurge of mpox 2024 continues to meet the criteria of a public health emergency of international concern (PHEIC) and, accordingly, on 9 June 2025, issued temporary recommendations to States Parties.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -4065,17 +4075,6 @@ The post GPs criticised by coroner for ‘not understanding’ medical examiner 
         <summary type="html"><![CDATA[The digital health sector has reacted to the government's Spending Review, which included up to £10bn of investment in tech for the NHS.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘GP-centric’ 10-year plan ‘won’t come with big bag of money’, says NHS England]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=162609</id>
-        <link href="https://www.pulsetoday.co.uk/news/practice-personal-finance/gp-centric-10-year-plan-wont-come-with-big-bag-of-money-says-nhs-england/"/>
-        <updated>2025-06-11T15:53:26.000Z</updated>
-        <summary type="html"><![CDATA[The Government’s upcoming 10-year plan for health will be ‘GP-centric’, but will not include huge shifts of funding from secondary to primary care immediately, NHS England’s director for primary care and community services has said. Speaking at the NHS Confederation conference in Manchester today, Dr Amanda Doyle said that she believes that the future for
-The post ‘GP-centric’ 10-year plan ‘won’t come with big bag of money’, says NHS England appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
         </author>
     </entry>
     <entry>
