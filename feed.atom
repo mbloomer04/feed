@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-11T10:14:23.870Z</updated>
+    <updated>2025-07-11T11:12:11.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4680 - Active Exploitation of Critical Vulnerability in Wing FTP Server]]></title>
+        <id>2d685a07-f162-4450-83eb-ee76fa2fcfd1</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4680"/>
+        <updated>2025-07-11T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2025-47812 could lead to unauthenticated remote code execution
+ CVE-2025-47812 could lead to unauthenticated remote code execution
+ Updated: 11 Jul 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital housing care project highlights benefits of smart tech]]></title>
+        <id>https://www.digitalhealth.net/?p=232737</id>
+        <link href="https://www.digitalhealth.net/2025/07/digital-housing-care-project-highlights-benefits-of-smart-tech/"/>
+        <updated>2025-07-11T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[A six-month housing project involving the use of smart sensors has demonstrated benefits for both tenants and housing providers.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP to prescribe in line with single national formulary within two years]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=163625</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/long-term-conditions-prescribing/gp-to-prescribe-in-line-with-single-national-formulary-within-two-years/"/>
+        <updated>2025-07-11T10:14:58.000Z</updated>
+        <summary type="html"><![CDATA[England will have a single national formulary (SNF) for prescribing within the next two years under proposals outlined in the NHS 10-Year Plan. Backed by NICE, the SNF will reduce duplication and the ‘postcode lottery’ that has arisen out of locally derived formularies, the Government said. A new formulary oversight board will be set up
+The post GP to prescribe in line with single national formulary within two years appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Sofia Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MHRA urges GP vigilance to small Guillain-Barré risk with adult RSV jab]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163610</id>
