@@ -104,26 +104,6 @@
           "wordCount": null,
           "title": "CC-4668 - Mitel Releases Security Advisory for MiCollab",
           "imageUrl": null
-        },
-        {
-          "id": "c5db2af3-0ed2-4bfe-be1c-5227a414aed1",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2025-5943 could allow a remote unauthenticated attacker to execute arbitrary code on affected installations of DICOM Viewer\n CVE-2025-5943 could allow a remote unauthenticated attacker to execute arbitrary code on affected installations of DICOM Viewer\n Updated: 11 Jun 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4667",
-          "publishedOn": "2025-06-11T12:52:00.000Z",
-          "wordCount": null,
-          "title": "CC-4667 - MicroDicom Releases Security Update for DICOM Viewer",
-          "imageUrl": null
-        },
-        {
-          "id": "36ea869b-558f-4dbc-a66c-132937e31e98",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 66 vulnerabilities, of which 1 has been reported as actively exploited.\n Scheduled updates for Microsoft products, including security updates for 66 vulnerabilities, of which 1 has been reported as actively exploited.\n Updated: 11 Jun 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4666",
-          "publishedOn": "2025-06-11T12:29:00.000Z",
-          "wordCount": null,
-          "title": "CC-4666 - Microsoft Releases June 2025 Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -1301,16 +1281,6 @@
           "wordCount": 2421,
           "title": "‘GP-centric’ 10-year plan ‘won’t come with big bag of money’, says NHS England",
           "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/08/Amanda-Doyle©Neil-OConnor_1200x800.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=162590",
-          "author": "Anna Colivicchi",
-          "description": "The chancellor has specified GP training as a priority investment area while announcing a £29bn funding boost for the NHS in today’s long-term spending review. According to the Treasury announcement, ‘thousands more GPs’ will be ‘trained’ with the money which will see real terms day-to-day spending on NHS services increase by 3% on average. Reporting\nThe post ‘Thousands more GPs’ to be trained with spending review NHS funding boost appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/breaking-news/thousands-more-gps-to-be-trained-with-spending-review-nhs-funding-boost/",
-          "publishedOn": "2025-06-11T12:53:46.000Z",
-          "wordCount": 2193,
-          "title": "‘Thousands more GPs’ to be trained with spending review NHS funding boost",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2020/10/Pulse_BreakingNews_logo_1200x800px.png"
         }
       ]
     },
@@ -1988,16 +1958,6 @@
           "wordCount": 941,
           "title": "Spending review promises 3% annual funding rise for NHS and 'thousands more GPs'",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2219021781-ezgif.com.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1921451",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-including-10-year-health-plan-gp-jobs-crisis-rcgp-partnership-warning/article/1921451",
-          "publishedOn": "2025-06-11T12:46:24.000Z",
-          "wordCount": 710,
-          "title": "GP News Update: Including 10-year health plan, GP jobs crisis, RCGP partnership warning",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_4.jpg"
         }
       ]
     },
