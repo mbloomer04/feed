@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-11T17:13:00.869Z</updated>
+    <updated>2025-07-11T18:18:27.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -172,6 +172,16 @@ The post Persistent medicines shortages affecting health outcomes, MPs warn appe
         <summary type="html"><![CDATA[Patient satisfaction with general practice has risen over the past year - but how does the picture vary across England, and which areas have seen the fastest improvement? Explore the map and table below to find out.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burundi eliminates trachoma as a public health problem]]></title>
+        <id>urn:uuid:9da7c111-8012-43a4-bbd6-7eea84a912eb</id>
+        <link href="https://www.who.int/news/item/11-07-2025-burundi-eliminates-trachoma-as-a-public-health-problem"/>
+        <updated>2025-07-11T08:29:51.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has validated Burundi as having eliminated trachoma as a public health problem, making it the eighth country in WHO’s African Region to reach this important milestone. Trachoma is also the first neglected tropical disease (NTD) to be eliminated in the country.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
