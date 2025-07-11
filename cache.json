@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925217",
+          "author": null,
+          "description": "Patient satisfaction with general practice has risen over the past year - but how does the picture vary across England, and which areas have seen the fastest improvement? Explore the map and table below to find out.",
+          "link": "https://www.gponline.com/charts-areas-highest-patient-satisfaction-general-practice/article/1925217",
+          "publishedOn": "2025-07-11T09:08:45.000Z",
+          "wordCount": 939,
+          "title": "In charts: Which areas have the highest patient satisfaction with general practice?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/map-GettyImages-mattjeacock_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1925060",
           "author": null,
           "description": "The GPonline team looks in detail at the government’s 10-year health plan and what it means for general practice.",
@@ -2439,6 +2449,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference",
+          "author": null,
+          "description": "Terms of reference for Baroness Casey's independent commission into adult social care.",
+          "link": "https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference",
+          "publishedOn": "2025-07-11T11:35:30.000Z",
+          "wordCount": 1093,
+          "title": "Guidance: Independent commission into adult social care: terms of reference",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference-easy-read",
+          "author": null,
+          "description": "Easy read about a new team of people looking at how to change support for adults in England and make it better.",
+          "link": "https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference-easy-read",
+          "publishedOn": "2025-07-11T11:35:21.000Z",
+          "wordCount": 894,
+          "title": "Guidance: Independent commission into adult social care: terms of reference (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2025",
           "author": null,
