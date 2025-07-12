@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-12T04:25:23.007Z</updated>
+    <updated>2025-07-12T05:14:28.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -288,6 +288,32 @@ Ambassador Tovar da Silva Nunes of Brazil, co-chair of the IGWG Bureau guiding t
 Anyone in England can register with a GP surgery. It’s free. You do not need proof of address. You do not need to give details of your immigration status and it’s not necessary to have an NHS number to hand.]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (Tamara Farrar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does good look like for APIs?]]></title>
+        <id>7c853843-4b2d-4150-b4b4-dcbbcc648efb</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis"/>
+        <updated>2025-07-10T16:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.
+
+
+For the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Matthew Firth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we have learned about retiring APIs]]></title>
+        <id>13f419d4-1d3b-4957-b1c9-14ddae00dacc</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2023/what-we-have-learned-about-retiring-apis"/>
+        <updated>2025-07-10T16:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. 
+
+
+Last year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Matthew Firth)</name>
         </author>
     </entry>
     <entry>

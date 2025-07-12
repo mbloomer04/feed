@@ -1966,6 +1966,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
+          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
+          "description": "Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.\n\r\n\r\nFor the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis",
+          "publishedOn": "2025-07-10T16:07:04.000Z",
+          "wordCount": null,
+          "title": "What does good look like for APIs?",
+          "imageUrl": null
+        },
+        {
+          "id": "13f419d4-1d3b-4957-b1c9-14ddae00dacc",
+          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
+          "description": "Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. \n\r\n\r\nLast year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-we-have-learned-about-retiring-apis",
+          "publishedOn": "2025-07-10T16:05:45.000Z",
+          "wordCount": null,
+          "title": "What we have learned about retiring APIs",
+          "imageUrl": null
+        },
+        {
           "id": "3208609c-d040-40d0-808a-4235a41af0d7",
           "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
           "description": "Business analyst Matthew Firth talks about the expansion of NHS Digital’s application programming interface (API) and integration catalogue which, for the first time, will now include external APIs.  \n\r\n\r\nHistorically, we have only represented NHS Digital APIs in our API and integration catalogue. The reason is that the Developer hub was set up as a space where API consumers can learn about the NHS Digital onboarding journey and identify the APIs which they’d like to onboard with. It made sense to only represent our NHS Digital APIs in there and aimed to avoid confusion or dilute our onboarding journey for external suppliers and partners.",
