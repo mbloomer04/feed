@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-13T09:14:09.443Z</updated>
+    <updated>2025-07-13T10:13:11.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joint statement by OCHA, UNDP, UNFPA, UNOPS, UNRWA, WFP and WHO on fuel shortage in Gaza]]></title>
+        <id>urn:uuid:97e70655-264b-4bd4-bba4-5de0a3b556d6</id>
+        <link href="https://www.who.int/news/item/12-07-2025-joint-statement-by-ocha--undp--unfpa--unops--unrwa--wfp-and-who-on-fuel-shortage-in-gaza"/>
+        <updated>2025-07-12T14:26:53.000Z</updated>
+        <summary type="html"><![CDATA[The United Nations warns that the fuel shortage in Gaza has reached critical levels.  
+Fuel is the backbone of survival in Gaza. It powers hospitals, water systems, sanitation networks, ambulances, and every aspect of humanitarian operations. Fuel supplies are needed to move the fleet used for transporting essential goods across the Strip and to operate a network of bakeries producing fresh bread for the affected population. Without fuel, these lifelines will vanish for 2.1 million people.  
+After almost two years of war, people in Gaza are facing extreme hardships, including widespread food insecurity. When fuel runs out, it places an unbearable new burden on a population teetering on the edge of starvation.  
+Without adequate fuel, UN agencies responding to this crisis will likely be for…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World leaders recognized for championing the WHO Pandemic Agreement]]></title>
         <id>urn:uuid:8564eaa6-1f1a-425c-a793-fd0d4b04e2a7</id>
@@ -4012,26 +4025,6 @@ The post NHS image bank of how conditions appear on different skin tones launche
         <link href="https://www.gov.uk/government/news/unprecedented-boost-for-clinical-trials-under-10-year-health-plan"/>
         <updated>2025-06-15T23:15:00.000Z</updated>
         <summary type="html"><![CDATA[Millions will take part in clinical trials under the 10 Year Health Plan which will speed up clinical research.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responders to Southport attack among NHS staff receiving King’s Birthday Honours]]></title>
-        <id>https://www.england.nhs.uk/?p=268077</id>
-        <link href="https://www.england.nhs.uk/2025/06/responders-to-southport-attack-among-nhs-staff-receiving-kings-birthday-honours/"/>
-        <updated>2025-06-13T21:30:46.000Z</updated>
-        <summary type="html"><![CDATA[NHS staff involved in the response to the Southport knife attack are among those being recognised in the 2025 King’s Birthday Honours list, released today (Friday 13 June). Sir Jim Mackey, Chief Executive at NHS England, said the awards highlight the “incredible dedication and commitment” of those who responded to the attack in July 2024. Paul […]]]></summary>
-        <author>
-            <name>rwootton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparency data: Birthday Honours 2025: Ambulance Service list]]></title>
-        <id>https://www.gov.uk/government/publications/birthday-honours-2025-ambulance-service-list</id>
-        <link href="https://www.gov.uk/government/publications/birthday-honours-2025-ambulance-service-list"/>
-        <updated>2025-06-13T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Recipients of the King's Ambulance Service Medal 2025.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>

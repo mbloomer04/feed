@@ -2271,16 +2271,6 @@
           "wordCount": 1876,
           "title": "NHS launches drive to catch one of the most lethal cancers",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=268077",
-          "author": "rwootton",
-          "description": "NHS staff involved in the response to the Southport knife attack are among those being recognised in the 2025 King’s Birthday Honours list, released today (Friday 13 June). Sir Jim Mackey, Chief Executive at NHS England, said the awards highlight the “incredible dedication and commitment” of those who responded to the attack in July 2024. Paul […]",
-          "link": "https://www.england.nhs.uk/2025/06/responders-to-southport-attack-among-nhs-staff-receiving-kings-birthday-honours/",
-          "publishedOn": "2025-06-13T21:30:46.000Z",
-          "wordCount": 2551,
-          "title": "Responders to Southport attack among NHS staff receiving King’s Birthday Honours",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2988,16 +2978,6 @@
           "wordCount": 3631,
           "title": "Unprecedented boost for clinical trials under 10 Year Health Plan",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/birthday-honours-2025-ambulance-service-list",
-          "author": null,
-          "description": "Recipients of the King's Ambulance Service Medal 2025.",
-          "link": "https://www.gov.uk/government/publications/birthday-honours-2025-ambulance-service-list",
-          "publishedOn": "2025-06-13T21:30:05.000Z",
-          "wordCount": 751,
-          "title": "Transparency data: Birthday Honours 2025: Ambulance Service list",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
         }
       ]
     },
@@ -3193,6 +3173,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:97e70655-264b-4bd4-bba4-5de0a3b556d6",
+          "author": null,
+          "description": "The United Nations warns that the fuel shortage in Gaza has reached critical levels.  \nFuel is the backbone of survival in Gaza. It powers hospitals, water systems, sanitation networks, ambulances, and every aspect of humanitarian operations. Fuel supplies are needed to move the fleet used for transporting essential goods across the Strip and to operate a network of bakeries producing fresh bread for the affected population. Without fuel, these lifelines will vanish for 2.1 million people.  \nAfter almost two years of war, people in Gaza are facing extreme hardships, including widespread food insecurity. When fuel runs out, it places an unbearable new burden on a population teetering on the edge of starvation.  \nWithout adequate fuel, UN agencies responding to this crisis will likely be for…",
+          "link": "https://www.who.int/news/item/12-07-2025-joint-statement-by-ocha--undp--unfpa--unops--unrwa--wfp-and-who-on-fuel-shortage-in-gaza",
+          "publishedOn": "2025-07-12T14:26:53.000Z",
+          "wordCount": 1974,
+          "title": "Joint statement by OCHA, UNDP, UNFPA, UNOPS, UNRWA, WFP and WHO on fuel shortage in Gaza",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---conflict-in-israel-and-the-occupied-palestinian-territory/arrival-of-aid-in-gaza.tmb-1200v.jpg?sfvrsn=ed10dab0_1"
+        },
         {
           "id": "urn:uuid:8564eaa6-1f1a-425c-a793-fd0d4b04e2a7",
           "author": null,
