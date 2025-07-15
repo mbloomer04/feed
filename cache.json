@@ -2490,6 +2490,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/government-launches-good-food-cycle-to-transform-britains-food-system",
+          "author": null,
+          "description": "New \"Good Food Cycle\" framework serves up healthier eating, stronger food security and greener supply chains",
+          "link": "https://www.gov.uk/government/news/government-launches-good-food-cycle-to-transform-britains-food-system",
+          "publishedOn": "2025-07-15T11:53:43.000Z",
+          "wordCount": 5090,
+          "title": "Government launches \"Good Food Cycle\" to transform Britain's food system",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/68763c6bcfc3756455bb6a42/s960_Food.jpeg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/david-fuller-inquiry-phase-2-report",
+          "author": null,
+          "description": "The independent inquiry’s concluding report on whether procedures and practices in hospitals and other settings safeguard the security and dignity of deceased people.",
+          "link": "https://www.gov.uk/government/publications/david-fuller-inquiry-phase-2-report",
+          "publishedOn": "2025-07-15T11:44:59.000Z",
+          "wordCount": 1179,
+          "title": "Independent report: David Fuller inquiry: phase 2 report",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/joe-wicks-and-government-join-forces-to-get-children-moving",
           "author": null,
           "description": "New animated series for kids, known as Activate, will get more children across the country moving more and encouraging a healthier lifestyle.",
@@ -3188,16 +3208,6 @@
           "wordCount": 1087,
           "title": "Guidance: Reciprocal healthcare privacy notice",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/unprecedented-boost-for-clinical-trials-under-10-year-health-plan",
-          "author": null,
-          "description": "Millions will take part in clinical trials under the 10 Year Health Plan which will speed up clinical research.",
-          "link": "https://www.gov.uk/government/news/unprecedented-boost-for-clinical-trials-under-10-year-health-plan",
-          "publishedOn": "2025-06-15T23:15:00.000Z",
-          "wordCount": 3631,
-          "title": "Unprecedented boost for clinical trials under 10 Year Health Plan",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3393,6 +3403,26 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:2f8b3ad6-37fa-4b77-9b8b-cbfbe610e81d",
+          "author": null,
+          "description": "WHO has validated Senegal as having eliminated trachoma as a public health problem. Senegal becomes the ninth country in WHO’s African Region to have achieved this feat.",
+          "link": "https://www.who.int/news/item/15-07-2025-senegal-joins-growing-list-of-countries-that-have-eliminated-trachoma",
+          "publishedOn": "2025-07-14T15:30:55.000Z",
+          "wordCount": 3117,
+          "title": "Senegal joins growing list of countries that have eliminated trachoma",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/trachoma-post-surgery-checkup-senegal.tmb-1200v.jpg?sfvrsn=a93513fd_2"
+        },
+        {
+          "id": "urn:uuid:430f9a46-0620-4023-aaae-bb848e28b7f0",
+          "author": null,
+          "description": "In 2024, 89% of infants globally received at least one dose of the diphtheria, tetanus and pertussis (DTP)-containing vaccine, and 85% completed all three doses, according to new data released today by WHO and UNICEF. Despite the progress, the latest estimates highlight a concerning trajectory.",
+          "link": "https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef",
+          "publishedOn": "2025-07-14T12:54:19.000Z",
+          "wordCount": 3904,
+          "title": "Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cholera/cholera-vaccination-cards-yemen.tmb-1200v.jpg?sfvrsn=ba90e797_1"
+        },
         {
           "id": "urn:uuid:02192810-d306-4e0f-8dac-52b7154aa68a",
           "author": null,
