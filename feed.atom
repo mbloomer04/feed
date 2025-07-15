@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-14T23:13:19.693Z</updated>
+    <updated>2025-07-15T01:08:44.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[New animated series for kids, known as Activate, will get more children across the country moving more and encouraging a healthier lifestyle.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS to roll-out new ‘triple combination’ therapy for hundreds of children and adults with cystic fibrosis]]></title>
+        <id>https://www.england.nhs.uk/?p=269573</id>
+        <link href="https://www.england.nhs.uk/2025/07/nhs-to-roll-out-new-triple-combination-therapy-for-hundreds-of-children-and-adults-with-cystic-fibrosis/"/>
+        <updated>2025-07-14T23:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of children and adults with rare forms of cystic fibrosis in England will be able to access “life-changing” new ‘triple-combination’ therapy for the very first time, the NHS has announced. Vanzacaftor–tezacaftor–deutivacaftor (Alyftrek®), is the latest in a new generation of therapies to be made available on the NHS that help treat the underlying cause […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>
