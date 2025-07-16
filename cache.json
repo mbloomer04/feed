@@ -1300,6 +1300,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925628",
+          "author": null,
+          "description": "Physician associates should be renamed 'physician assistants' and should not see undifferentiated patients except within 'clearly defined national clinical protocols', a major review commissioned by the government has concluded.",
+          "link": "https://www.gponline.com/pas-renamed-no-longer-undifferentiated-patients-says-leng-review/article/1925628",
+          "publishedOn": "2025-07-15T23:05:00.000Z",
+          "wordCount": 923,
+          "title": "PAs should be renamed and no longer see undifferentiated patients, says Leng review",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign_GettyImages-TkKurikawa_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1925211",
           "author": null,
           "description": "Exclusive: Almost £84m in unclaimed additional roles reimbursement scheme (ARRS) cash - enough to hire hundreds more GPs - was retained by NHS England in 2024/25 and lost to general practice, GPonline can reveal.",
@@ -4309,16 +4319,6 @@
           "wordCount": 3808,
           "title": "Ground robots to join London’s NHS drone delivery network",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Apian-expansion-2025_4-2.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=230915",
-          "author": "Cora Lydon",
-          "description": "Perci Health has raised £3m in its latest funding round supporting it to scale its AI-powered, multidisciplinary cancer care care clinic.",
-          "link": "https://www.digitalhealth.net/2025/06/perci-health-raises-3m-to-scale-ai-powered-virtual-cancer-clinic/",
-          "publishedOn": "2025-06-16T12:30:27.000Z",
-          "wordCount": 3723,
-          "title": "Perci Health raises £3m to scale AI-powered virtual cancer clinic",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/05/shutterstock_1971115256-1.jpg"
         }
       ]
     }
