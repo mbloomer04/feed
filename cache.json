@@ -1320,6 +1320,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925718",
+          "author": null,
+          "description": "Legitimate patient safety concerns were 'ignored for too long', the government has said - as it accepted recommendations from the Leng review into physician associate (PA) roles.",
+          "link": "https://www.gponline.com/government-backs-leng-review-warns-pas-never-replace-doctors/article/1925718",
+          "publishedOn": "2025-07-16T13:24:27.000Z",
+          "wordCount": 917,
+          "title": "Government backs Leng review and warns PAs should 'never replace doctors'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/WesStreetingRCGP2024-13_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1925667",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -2539,6 +2549,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/patient-safety-boost-as-pa-review-recommendations-accepted",
+          "author": null,
+          "description": "The review looked into the safety of the roles of physician associates (PAs) and anaesthesia associates (AAs) and how they support wider health teams",
+          "link": "https://www.gov.uk/government/news/patient-safety-boost-as-pa-review-recommendations-accepted",
+          "publishedOn": "2025-07-16T14:12:38.000Z",
+          "wordCount": 2376,
+          "title": "Patient safety boost as PA review recommendations accepted",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/brand-advertising-exemption-from-advertising-restrictions-for-less-healthy-food-or-drink",
           "author": null,
