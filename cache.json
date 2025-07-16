@@ -2530,6 +2530,46 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025",
+          "author": null,
+          "description": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the use of chikungunya vaccines in UK travellers.",
+          "link": "https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025",
+          "publishedOn": "2025-07-16T12:30:01.000Z",
+          "wordCount": 827,
+          "title": "Independent report: Chikungunya vaccine for UK travellers: JCVI advice, 16 July 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/rsv-immunisation-programme-jcvi-advice-16-july-2025",
+          "author": null,
+          "description": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the extension of the respiratory syncytial virus (RSV) immunisation programme for older adults.",
+          "link": "https://www.gov.uk/government/publications/rsv-immunisation-programme-jcvi-advice-16-july-2025",
+          "publishedOn": "2025-07-16T12:30:01.000Z",
+          "wordCount": 874,
+          "title": "Independent report: RSV immunisation programme: JCVI advice, 16 July 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/covid-19-vaccination-in-autumn-2026-and-spring-2027-jcvi-advice-16-july-2025",
+          "author": null,
+          "description": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the COVID-19 vaccination programmes for autumn 2026 and spring 2027.",
+          "link": "https://www.gov.uk/government/publications/covid-19-vaccination-in-autumn-2026-and-spring-2027-jcvi-advice-16-july-2025",
+          "publishedOn": "2025-07-16T12:30:01.000Z",
+          "wordCount": 869,
+          "title": "Independent report: COVID-19 vaccination in autumn 2026 and spring 2027: JCVI advice, 16 July 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/flu-vaccines-2026-to-2027-jcvi-advice-16-july-2025",
+          "author": null,
+          "description": "Statement from the Joint Committee on Vaccination and Immunisation (JCVI) about vaccines for the 2026 to 2027 influenza season.",
+          "link": "https://www.gov.uk/government/publications/flu-vaccines-2026-to-2027-jcvi-advice-16-july-2025",
+          "publishedOn": "2025-07-16T12:30:01.000Z",
+          "wordCount": 872,
+          "title": "Independent report: Flu vaccines 2026 to 2027: JCVI advice, 16 July 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/departmental-minute-on-the-covid-19-autumn-2025-vaccination-programme",
           "author": null,
           "description": "Departmental minute from the Department of Health and Social Care on the COVID-19 autumn 2025 vaccination programme.",
@@ -3700,6 +3740,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=234613",
+          "author": "Cora Lydon",
+          "description": "The government's Life Sciences Sector Plan aims to harness scientific innovation for economic growth and support a prevention-focused NHS.",
+          "link": "https://www.digitalhealth.net/2025/07/life-sciences-plan-aims-to-support-a-prevention-focused-nhs/",
+          "publishedOn": "2025-07-16T12:52:49.000Z",
+          "wordCount": 5984,
+          "title": "Life sciences plan aims to support a prevention-focused NHS",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/shutterstock_1922200343-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=232479",
           "author": "Jordan Sollof",
