@@ -103,6 +103,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=163818",
+          "author": "Anna Colivicchi",
+          "description": "London GP Dr Victoria Tzortziou Brown has been elected as the next chair of the RCGP, the college has announced today. Dr Tzortziou Brown will succeed current chair Professor Kamila Hawthorne and take up office for a three-year term in November. She trained as a GP in London and becomes the first international medical graduate\nThe post Dr Victoria Tzortziou Brown elected as next RCGP chair appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/breaking-news/dr-victoria-tzortziou-brown-elected-as-next-rcgp-chair/",
+          "publishedOn": "2025-07-16T09:15:14.000Z",
+          "wordCount": 2111,
+          "title": "Dr Victoria Tzortziou Brown elected as next RCGP chair",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/07/NEW-RCGP-Chair-Election-photo-VTB.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=163810",
+          "author": "Maya Dhillon",
+          "description": "Professor Gillian Leng’s long-awaited review into physician associate safety has been published, with all her recommendations. We will be featuring all the reaction to this news from the BMA to grassroots GPs. This will be constantly updated. If you would like to send in your reaction, email editor@pulsetoday.co.uk Dr Tom Dolphin, chair of BMA council: ‘Today, Professor\nThe post ‘Fails to meet the urgency’ – Doctors and PAs react to Leng review appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/regulation/fails-to-meet-the-urgency-doctors-and-pas-react-to-leng-review/",
+          "publishedOn": "2025-07-16T08:28:29.000Z",
+          "wordCount": 3404,
+          "title": "‘Fails to meet the urgency’ – Doctors and PAs react to Leng review",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/07/Comment-reaction-1200-x-800.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163800",
           "author": "Sofia Lind",
           "description": "The Leng Review gives a detailed proposed job description for physician associates, which it also says should be renamed as physician assistants. This severely limits the scope of practice for what a PA can do upon joining general practice. Example job description for a new physician assistant in primary care Overview of the role As\nThe post In full: Proposed scope of practice for PAs appeared first on Pulse Today.",
@@ -1269,6 +1289,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1925642",
+          "author": null,
+          "description": "London GP Dr Victoria Tzortiou Brown has been elected as the next chair of the RCGP and will become the first international medical graduate (IMG) in the role, the college has announced.",
+          "link": "https://www.gponline.com/rcgp-announces-new-chair/article/1925642",
+          "publishedOn": "2025-07-16T08:38:20.000Z",
+          "wordCount": 901,
+          "title": "RCGP announces new chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/VictoriaTzortiouRCGP.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1925628",
           "author": null,
@@ -2449,6 +2479,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/independent-review-of-physician-associates-and-anaesthesia-associates-survey-of-healthcare-professionals",
+          "author": null,
+          "description": "The Leng review is seeking views from healthcare professionals to understand the day-to-day practice of AAs and PAs, and the development of these roles.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/independent-review-of-physician-associates-and-anaesthesia-associates-survey-of-healthcare-professionals",
+          "publishedOn": "2025-07-16T08:36:59.000Z",
+          "wordCount": 1537,
+          "title": "Independent review of physician associates and anaesthesia associates: survey of healthcare professionals",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/independent-review-of-the-physician-associate-and-anaesthesia-associate-roles-final-report",
+          "author": null,
+          "description": "Independent report by Professor Gillian Leng CBE looking at the safety and effectiveness of physician associates and anaesthesia associates.",
+          "link": "https://www.gov.uk/government/publications/independent-review-of-the-physician-associate-and-anaesthesia-associate-roles-final-report",
+          "publishedOn": "2025-07-16T08:34:13.000Z",
+          "wordCount": 1185,
+          "title": "Independent report: Independent review of the physician associate and anaesthesia associate roles: final report",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
           "author": null,
