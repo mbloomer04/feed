@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-17T14:12:46.976Z</updated>
+    <updated>2025-07-17T15:14:41.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs to check 57,000 patient records for vaccination errors following IT issue]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=163918</id>
+        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/vaccinations-prevention-screening/gps-to-check-57000-patient-records-for-vaccination-errors-following-it-failure/"/>
+        <updated>2025-07-17T14:12:35.000Z</updated>
+        <summary type="html"><![CDATA[GP practices have been asked to review and correct 57,000 patient records containing vaccination coding errors caused by an IT issue. NHS England told Pulse that GP practices using the Accurx Batch Messaging system, which allows practices to send the same message to a group of patients via email, SMS or the NHS App, have
+The post GPs to check 57,000 patient records for vaccination errors following IT issue appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs forced to review thousands of patient records after coding error]]></title>
+        <id>https://www.gponline.com/article/1925898</id>
+        <link href="https://www.gponline.com/gps-forced-review-thousands-patient-records-coding-error/article/1925898"/>
+        <updated>2025-07-17T13:12:57.000Z</updated>
+        <summary type="html"><![CDATA[GPs have been told to review thousands of records for patients whose vaccination status was recorded incorrectly after a coding error.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS publishes waiting list breakdowns to tackle health inequalities]]></title>
+        <id>https://www.england.nhs.uk/?p=269761</id>
+        <link href="https://www.england.nhs.uk/2025/07/nhs-publishes-waiting-list-breakdowns-to-tackle-health-inequalities/"/>
+        <updated>2025-07-17T13:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Hospitals will be able to address unfair elective waits for working class and minority patients as new data published today shows those from deprived communities are more likely to wait longer. Data published for the first time ever by the NHS show patients in the poorest communities and those from an Asian or Asian British […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Health Tech Alliance issues call to reform NHS procurement]]></title>
         <id>https://www.digitalhealth.net/?p=234809</id>
