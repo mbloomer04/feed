@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "CC-4671 - Veeam Releases Security Updates for Backup & Replication and Windows Agent",
           "imageUrl": null
-        },
-        {
-          "id": "9d8eab47-cf8e-4dfc-8227-92dc9356cf96",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Advisory addresses two vulnerabilities that could lead to unauthorised access and memory overload\n Updated: 17 Jun 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4670",
-          "publishedOn": "2025-06-17T15:13:00.000Z",
-          "wordCount": null,
-          "title": "CC-4670 - Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway",
-          "imageUrl": null
         }
       ]
     },
