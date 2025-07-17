@@ -103,6 +103,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=163835",
+          "author": "Caroline Price",
+          "description": "Former GP Dr Simon Lowe explains how to manage this acute case of Bell’s palsy in a pregnant woman, including how to do a proper examination, the importance of prompt treatment and when referral might be required. A 34-year-old female patient attends your emergency surgery in some distress. She is 32 weeks pregnant, is usually\nThe post Clinical conundrum: Managing a patient with Bell’s palsy appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/clinical-feature/clinical-areas/neurology/clinical-conundrum-managing-a-patient-with-bells-palsy/",
+          "publishedOn": "2025-07-17T15:20:18.000Z",
+          "wordCount": 3735,
+          "title": "Clinical conundrum: Managing a patient with Bell’s palsy",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/07/Clinical-conundrum-managing-a-patient-with-Bells-palsy.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163918",
           "author": "Anna Colivicchi",
           "description": "GP practices have been asked to review and correct 57,000 patient records containing vaccination coding errors caused by an IT issue. NHS England told Pulse that GP practices using the Accurx Batch Messaging system, which allows practices to send the same message to a group of patients via email, SMS or the NHS App, have\nThe post GPs to check 57,000 patient records for vaccination errors following IT issue appeared first on Pulse Today.",
@@ -2539,6 +2549,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "author": null,
+          "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
+          "link": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "publishedOn": "2025-07-17T16:03:50.000Z",
+          "wordCount": 3658,
+          "title": "Guidance: Medicines that you cannot export from the UK or hoard",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/pharmacy-supervision",
+          "author": null,
+          "description": "DHSC is seeking views on proposals to modernise legislation governing the supervision of activities by a pharmacist in a pharmacy.",
+          "link": "https://www.gov.uk/government/consultations/pharmacy-supervision",
+          "publishedOn": "2025-07-17T15:40:08.000Z",
+          "wordCount": 1267,
+          "title": "Pharmacy supervision",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/huge-biosecurity-centre-investment-to-boost-pandemic-protection",
           "author": null,
