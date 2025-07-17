@@ -2520,6 +2520,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to Alternative Provider Medical Services (APMS) contracts in general practice.",
+          "link": "https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions",
+          "publishedOn": "2025-07-17T07:24:54.000Z",
+          "wordCount": 950,
+          "title": "Statutory guidance: Alternative Provider Medical Services (APMS) Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/patient-safety-boost-as-pa-review-recommendations-accepted",
           "author": null,
           "description": "The review looked into the safety of the roles of physician associates (PAs) and anaesthesia associates (AAs) and how they support wider health teams",
@@ -3740,6 +3750,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=233505",
+          "author": "Jordan Sollof",
+          "description": "Wilmslow Health Centre has gone live with the Medicus Health electronic patient record (EPR) over the space of one weekend.",
+          "link": "https://www.digitalhealth.net/2025/07/medicus-epr-solution-goes-live-at-wilmslow-health-centre/",
+          "publishedOn": "2025-07-17T07:30:55.000Z",
+          "wordCount": 5867,
+          "title": "Medicus EPR solution goes live at Wilmslow Health Centre",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/Wilmslow-Health-Centre.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=234613",
           "author": "Cora Lydon",

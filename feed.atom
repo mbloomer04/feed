@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-17T07:16:17.779Z</updated>
+    <updated>2025-07-17T08:18:56.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medicus EPR solution goes live at Wilmslow Health Centre]]></title>
+        <id>https://www.digitalhealth.net/?p=233505</id>
+        <link href="https://www.digitalhealth.net/2025/07/medicus-epr-solution-goes-live-at-wilmslow-health-centre/"/>
+        <updated>2025-07-17T07:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Wilmslow Health Centre has gone live with the Medicus Health electronic patient record (EPR) over the space of one weekend.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statutory guidance: Alternative Provider Medical Services (APMS) Directions]]></title>
+        <id>https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions</id>
+        <link href="https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions"/>
+        <updated>2025-07-17T07:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Directions for the NHS from the Secretary of State for Health and Social Care relating to Alternative Provider Medical Services (APMS) contracts in general practice.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First NHS round-the-clock mental health unit opens under 10 Year Health Plan]]></title>
         <id>https://www.england.nhs.uk/?p=269686</id>
