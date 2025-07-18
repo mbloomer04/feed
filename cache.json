@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "34b181f8-b950-4a11-b629-65683db5617e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 18 Jul 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4682",
+          "publishedOn": "2025-07-18T12:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4682 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "fb158f6a-08a3-4da8-aa0f-077d6d6558ef",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Critical advisory addresses four security vulnerabilities that could result in code execution or information disclosure\n Critical advisory addresses four security vulnerabilities that could result in code execution or information disclosure\n Updated: 16 Jul 2025",
