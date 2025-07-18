@@ -1300,6 +1300,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925701",
+          "author": null,
+          "description": "GPs working in a neighbourhood model highlighted in the 10-year health plan say work pressure has eased and patient care has sped up after 11 months with multiple services working under one roof.",
+          "link": "https://www.gponline.com/gps-pioneering-neighbourhood-model-say-eased-workload/article/1925701",
+          "publishedOn": "2025-07-18T14:30:00.000Z",
+          "wordCount": 737,
+          "title": "GPs pioneering neighbourhood model say it has eased workload",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JonathanLevy.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1925902",
           "author": null,
           "description": "It will be impossible to build a neighbourhood NHS unless general practice is properly resourced and supported, a leading GP has said.",
@@ -2529,6 +2539,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/healthcare-education-and-training-tariff-2025-to-2026",
+          "author": null,
+          "description": "Information about what the tariffs cover, how to use the tariffs and in what circumstances the national tariffs may be varied.",
+          "link": "https://www.gov.uk/government/publications/healthcare-education-and-training-tariff-2025-to-2026",
+          "publishedOn": "2025-07-18T14:49:11.000Z",
+          "wordCount": 1063,
+          "title": "Guidance: Healthcare education and training tariff: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
           "author": null,
