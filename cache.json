@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "e640b7c0-d766-4cfc-8c27-f6aff963b177",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n Updated: 21 Jul 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4683",
+          "publishedOn": "2025-07-21T12:12:00.000Z",
+          "wordCount": null,
+          "title": "CC-4683 - Critical vulnerabilities in Microsoft SharePoint Server under zero-day exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "34b181f8-b950-4a11-b629-65683db5617e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 18 Jul 2025",
