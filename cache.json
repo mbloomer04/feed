@@ -83,6 +83,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=164003",
+          "author": "Anna Colivicchi",
+          "description": "The trade union for physician associates is taking legal advice on how to dispute recommendations laid out by the independent review into the safety and effectiveness of the roles. Professor Gillian Leng’s review, which was published last week did not set out a ‘scope’ of practice but suggested a severely limited job description for newly-qualified PAs, alongside a\nThe post PA trade union taking legal advice on ‘how to dispute’ Leng recommendations appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/pa-trade-union-taking-legal-advice-on-how-to-dispute-leng-recommendations/",
+          "publishedOn": "2025-07-21T11:10:09.000Z",
+          "wordCount": 2881,
+          "title": "PA trade union taking legal advice on ‘how to dispute’ Leng recommendations",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/01/physician-associate-PA-employment-negligence.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=164006",
+          "author": "Sofia Lind",
+          "description": "NHS England has confirmed that this year’s national immunisation catch-up campaign will focus on increasing uptake of the human papillomavirus (HPV) vaccine, with GP practices expected to deliver targeted recall and opportunistic offers as part of their contractual responsibilities. The campaign, which runs from 1 September 2025 to 31 March 2026, forms part of the\nThe post GPs told to focus on HPV in annual vaccination catch-up campaign appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/cancer/gps-told-to-focus-on-hpv-in-annual-vaccination-catch-up-campaign/",
+          "publishedOn": "2025-07-21T11:01:06.000Z",
+          "wordCount": 2298,
+          "title": "GPs told to focus on HPV in annual vaccination catch-up campaign",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/02/one-dose-hpv-vaccine.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=163991",
           "author": "Anna Colivicchi",
           "description": "Exclusive The Government is ‘still committed’ to working with the BMA on GMS ‘contract reforms’, the Department of Health and Social Care has said today. Yesterday Pulse revealed that GP leaders had raised concerns over a lack ‘any meaningful progress’ from the Government to deliver the promise of a new GMS contract, and were considering\nThe post Government ‘still committed’ to working with BMA on ‘GMS contract reforms’ appeared first on Pulse Today.",
@@ -1180,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1926143",
+          "author": null,
+          "description": "GP practices will begin a catch-up HPV vaccination campaign this summer, offering jabs to hundreds of thousands of unvaccinated people aged 16-24.",
+          "link": "https://www.gponline.com/gps-tasked-major-hpv-catch-up-campaign/article/1926143",
+          "publishedOn": "2025-07-21T09:45:05.000Z",
+          "wordCount": 700,
+          "title": "GPs tasked with major HPV catch-up campaign",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/HPV-jab-GettyImages-Elva_Etienne_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1925701",
           "author": null,
           "description": "GPs working in a neighbourhood model highlighted in the 10-year health plan say work pressure has eased and patient care has sped up after 11 months with multiple services working under one roof.",
@@ -2274,6 +2304,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=269869",
+          "author": "jboshell",
+          "description": "The NHS is urging hundreds of thousands of people yet to have the lifesaving human papillomavirus (HPV) vaccine to get protected against cervical and other cancers. GP practices across England will send invites via letters, emails, texts and the NHS App to patients aged 16-25 whose records show they did not get their HPV vaccination […]",
+          "link": "https://www.england.nhs.uk/2025/07/hundreds-of-thousands-of-people-urged-to-get-lifesaving-cancer-vaccine/",
+          "publishedOn": "2025-07-21T09:14:06.000Z",
+          "wordCount": 1693,
+          "title": "Hundreds of thousands of people urged to get lifesaving cancer vaccine",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=269796",
           "author": "nowen",
           "description": "Thousands of premature babies at risk of life-threatening infection can now be protected against the common respiratory syncytial virus (RSV) this winter, with a single long-lasting injection available on the NHS for the first time. The NHS in England is rolling out drug nirsevimab from late September to provide protection against RSV to around 7,000 […]",
@@ -2370,6 +2410,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/health-bosses-wont-be-rewarded-for-failure-under-new-regulations",
+          "author": null,
+          "description": "NHS managers who commit serious misconduct won’t be able to take up other senior NHS roles, under plans to boost patient safety.",
+          "link": "https://www.gov.uk/government/news/health-bosses-wont-be-rewarded-for-failure-under-new-regulations",
+          "publishedOn": "2025-07-21T10:23:33.000Z",
+          "wordCount": 2565,
+          "title": "Health bosses won't be rewarded for failure under new regulations",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
           "author": null,
