@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-21T09:21:49.354Z</updated>
+    <updated>2025-07-21T10:15:48.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thousands of patient records reviewed after GP coding errors]]></title>
+        <id>https://www.digitalhealth.net/?p=235067</id>
+        <link href="https://www.digitalhealth.net/2025/07/thousands-of-patient-records-reviewed-after-gp-coding-errors/"/>
+        <updated>2025-07-21T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of patient records are being reviewed after incorrect vaccination status codes were mistakenly logged in GP IT systems.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: British Sign Language 5-year plan: Department of Health and Social Care]]></title>
+        <id>https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care</id>
+        <link href="https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care"/>
+        <updated>2025-07-21T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[This plan sets out how the Department of Health and Social Care (DHSC) plans to improve the use of British Sign Language (BSL) in its communications in the next 5 years.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electronic communication failures lead to patient harm, finds report]]></title>
         <id>https://www.digitalhealth.net/?p=234757</id>

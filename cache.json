@@ -2371,6 +2371,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "author": null,
+          "description": "This plan sets out how the Department of Health and Social Care (DHSC) plans to improve the use of British Sign Language (BSL) in its communications in the next 5 years.",
+          "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "publishedOn": "2025-07-21T09:33:31.000Z",
+          "wordCount": 1062,
+          "title": "Policy paper: British Sign Language 5-year plan: Department of Health and Social Care",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/75-million-boost-for-hospices-to-transform-end-of-life-care",
           "author": null,
           "description": "£75 million to modernise facilities and deliver upgrades to hospices across England including specially adapted beds, rooms, and technology.",
@@ -3571,6 +3581,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=235067",
+          "author": "Tammy Lovell",
+          "description": "Thousands of patient records are being reviewed after incorrect vaccination status codes were mistakenly logged in GP IT systems.",
+          "link": "https://www.digitalhealth.net/2025/07/thousands-of-patient-records-reviewed-after-gp-coding-errors/",
+          "publishedOn": "2025-07-21T10:00:26.000Z",
+          "wordCount": 5732,
+          "title": "Thousands of patient records reviewed after GP coding errors",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/shutterstock_317573678-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=234757",
           "author": "Cora Lydon",
