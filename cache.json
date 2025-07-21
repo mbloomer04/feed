@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925703",
+          "author": null,
+          "description": "Exclusive: Patient satisfaction with general practice is highest in smaller practices - and falls steadily as list sizes increase, GPonline analysis shows. Could plans for more at-scale GP services derail rising satisfaction?",
+          "link": "https://www.gponline.com/10-year-health-plan-derail-rising-gp-patient-satisfaction/article/1925703",
+          "publishedOn": "2025-07-21T16:30:00.000Z",
+          "wordCount": 737,
+          "title": "Could the 10-year health plan derail rising GP patient satisfaction?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP2_GettyImages-SolStock_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1926143",
           "author": null,
           "description": "GP practices will begin a catch-up HPV vaccination campaign this summer, offering jabs to hundreds of thousands of unvaccinated people aged 16-24.",
@@ -2460,6 +2470,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/leading-the-nhs-proposals-to-regulate-nhs-managers",
+          "author": null,
+          "description": "A consultation seeking your views on options for regulating NHS managers, and on the possibility of introducing a professional duty of candour for NHS managers.",
+          "link": "https://www.gov.uk/government/consultations/leading-the-nhs-proposals-to-regulate-nhs-managers",
+          "publishedOn": "2025-07-21T16:32:31.000Z",
+          "wordCount": 1535,
+          "title": "Leading the NHS: proposals to regulate NHS managers",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/health-bosses-wont-be-rewarded-for-failure-under-new-regulations",
           "author": null,
