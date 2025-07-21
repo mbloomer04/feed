@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "08a96cc9-985a-451e-8f69-b46284f36058",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of this critical vulnerability could allow a remote attacker to obtain admin access via HTTPS\n Exploitation of this critical vulnerability could allow a remote attacker to obtain admin access via HTTPS\n Updated: 21 Jul 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4684",
+          "publishedOn": "2025-07-21T14:47:00.000Z",
+          "wordCount": null,
+          "title": "CC-4684 - Exploitation of CrushFTP Vulnerability CVE-2025-54309",
+          "imageUrl": null
+        },
+        {
           "id": "e640b7c0-d766-4cfc-8c27-f6aff963b177",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n Updated: 21 Jul 2025",
