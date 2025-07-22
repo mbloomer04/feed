@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-22T08:20:26.036Z</updated>
+    <updated>2025-07-22T09:18:46.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE conditionally recommends AI tech to detect spinal fractures]]></title>
+        <id>https://www.digitalhealth.net/?p=234899</id>
+        <link href="https://www.digitalhealth.net/2025/07/nice-conditionally-recommends-ai-tech-to-detect-spinal-fractures/"/>
+        <updated>2025-07-22T07:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Four AI technologies to help spot spinal fractures in patients undergoing routine CT scans have been conditionally recommended by NICE.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
         </author>
     </entry>
     <entry>
