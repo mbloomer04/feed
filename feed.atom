@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-22T09:18:46.531Z</updated>
+    <updated>2025-07-22T10:14:54.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Radiology images now accessible through GM Care Record]]></title>
+        <id>https://www.digitalhealth.net/?p=234859</id>
+        <link href="https://www.digitalhealth.net/2025/07/radiology-images-now-accessible-through-gm-care-record/"/>
+        <updated>2025-07-22T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[In a boost for joined-up care in Greater Manchester, the GM Care Record now supports radiology imaging for healthcare professionals.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)]]></title>
         <id>https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit</id>
