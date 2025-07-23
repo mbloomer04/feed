@@ -1270,6 +1270,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1925402",
+          "author": null,
+          "description": "Last chance to join us for a webinar focusing on chronic insomnia, initiated and funded by Idorsia Pharmaceuticals UK Ltd and intended for UK healthcare professionals only.",
+          "link": "https://www.gponline.com/dont-miss-free-mims-learning-webinar-%E2%80%93-understanding-chronic-insomnia-adults-its-management/article/1925402",
+          "publishedOn": "2025-07-23T09:30:00.000Z",
+          "wordCount": 1070,
+          "title": "Don't miss this free MIMS Learning webinar – Understanding chronic insomnia in adults and its management",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/beyond-858x575_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1926483",
           "author": null,
           "description": "Health and social care secretary Wes Streeting has written to the Doctors and Dentists Review Body (DDRB) to kickstart the pay review process for doctors two months earlier than last year.",
@@ -1318,6 +1328,16 @@
           "wordCount": 737,
           "title": "GPs pioneering neighbourhood model say it has eased workload",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JonathanLevy.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1925975",
+          "author": null,
+          "description": "Government plans to reform the NHS are a ‘missed opportunity' to tackle the climate crisis and in turn improve people’s health, GPs have warned.",
+          "link": "https://www.gponline.com/gps-question-10-year-plans-green-credentials/article/1925975",
+          "publishedOn": "2025-07-18T08:43:17.000Z",
+          "wordCount": 706,
+          "title": "GPs question 10-year plan's green credentials",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign1_GettyImages-Marbury_RF.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1925902",
@@ -3771,6 +3791,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=234961",
+          "author": "Cora Lydon",
+          "description": "Four NHS trusts plan to introduce an AI-powered dictation tool which automatically transcribes clinicians' notes during consultations.",
+          "link": "https://www.digitalhealth.net/2025/07/smart-notes-ai-dictation-tool-to-be-introduced-in-four-nhs-trusts/",
+          "publishedOn": "2025-07-23T10:00:13.000Z",
+          "wordCount": 5977,
+          "title": "Smart Notes AI dictation tool introduced in four NHS trusts",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Patient-doctor-consultation.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=234929",
           "author": "Cora Lydon",
