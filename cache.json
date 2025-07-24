@@ -103,6 +103,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=164146",
+          "author": "Sofia Lind",
+          "description": "A study of 30 self-test health kits available on the high street has raised concerns over regulation after many were found to be ‘unfit for purpose’. The analysis showed a range of issues with test kits bought from supermarkets or pharmacies including poor or no information on when and why to do the tests as\nThe post Commercial self-test kits ‘unfit for purpose’ and increase GP workload, finds study appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/womens-health-gynaecology-obstetrics/commercial-self-test-kits-unfit-for-purpose-and-increase-gp-workload-finds-study/",
+          "publishedOn": "2025-07-24T10:47:08.000Z",
+          "wordCount": 2631,
+          "title": "Commercial self-test kits ‘unfit for purpose’ and increase GP workload, finds study",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/04/Government-considering-‘mandatory-vitamin-D-fortification-to-reduce-deficiencies.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=164138",
           "author": "Anna Colivicchi",
           "description": "The RCGP has opposed Government plans for acute and community trusts to run general practice, it has told its members. In a summary of the Government’s 10-year plan, the college said that while collaboration between providers is ‘important’, the RCGP ‘does not support trusts running general practice’. It added that any new models of neighbourhood\nThe post RCGP opposes Government plans for trusts to run general practice appeared first on Pulse Today.",
@@ -1231,16 +1241,6 @@
           "wordCount": 3004,
           "title": "GPs told they cannot prescribe Mounjaro as several ICBs fail to finalise service in time",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/06/glp1-tirzepatide-semaglutide-weightloss-diabetes.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=163072",
-          "author": "Anna Colivicchi",
-          "description": "The upcoming 10-year plan for health will include a review of the Carr-Hill formula for GP funding, so that ‘working-class areas’ receive their ‘fair share of resources’, the Government has said. Health secretary Wes Streeting will announce ‘major changes’ to how GP funding is distributed to ‘help working class communities and coastal areas’ during a\nThe post Carr-Hill GP funding formula review announced as part of 10-year NHS plan appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/breaking-news/carr-hill-gp-funding-formula-review-announced-as-part-of-10-year-nhs-plan/",
-          "publishedOn": "2025-06-24T23:01:00.000Z",
-          "wordCount": 2667,
-          "title": "Carr-Hill GP funding formula review announced as part of 10-year NHS plan",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/03/GP-practices-set-to-lose-tens-of-thousands-of-childhood-immunisation-QOF-money.jpg"
         }
       ]
     },
@@ -1928,16 +1928,6 @@
           "wordCount": 1461,
           "title": "GP News Update: GP funding overhaul, tirzepatide complaint fears, GP premises investment",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_6.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1923195",
-          "author": null,
-          "description": "The government will promise 'major changes to how GP funding is distributed' as part of its imminent 10-year health plan, with reforms targeting underfunding and GP shortages in deprived areas.",
-          "link": "https://www.gponline.com/10-year-nhs-plan-will-promise-major-changes-gp-funding-formula/article/1923195",
-          "publishedOn": "2025-06-24T23:05:00.000Z",
-          "wordCount": 738,
-          "title": "10-year NHS plan will promise 'major changes' to GP funding formula",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_RCGP_4.jpg"
         }
       ]
     },
@@ -3781,6 +3771,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=234271",
+          "author": "Cora Lydon",
+          "description": "This Coffee Time Briefing covers an extension of a trial of drones to transport blood samples and funding for Digital Lifelines initiative.",
+          "link": "https://www.digitalhealth.net/2025/07/digital-health-coffee-time-briefing-%e2%98%95-88/",
+          "publishedOn": "2025-07-24T10:30:00.000Z",
+          "wordCount": 6199,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=234829",
+          "author": "Tammy Lovell",
+          "description": "The Better Meds electronic prescribing and medicine management solution  will be rolled out at across 55 mental health sites in the UK.",
+          "link": "https://www.digitalhealth.net/2025/07/electronic-prescribing-to-be-rolled-out-at-55-mental-health-sites/",
+          "publishedOn": "2025-07-24T10:00:06.000Z",
+          "wordCount": 5931,
+          "title": "Electronic prescribing to be rolled out at 55 mental health sites",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Electronic-prescribing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=235301",
           "author": "Tammy Lovell",
