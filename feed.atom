@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-24T12:28:28.787Z</updated>
+    <updated>2025-07-24T13:33:12.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two NHS hospitals suffer major IT incident ahead of doctors’ strikes]]></title>
+        <id>https://www.digitalhealth.net/?p=235539</id>
+        <link href="https://www.digitalhealth.net/2025/07/two-nhs-hospitals-suffer-major-it-incident-ahead-of-doctors-strikes/"/>
+        <updated>2025-07-24T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Two NHS hospitals have resorted to paper after an IT incident brought systems down in the days before the planned resident doctors’ strikes.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Healthcare for visitors to the UK from the EU]]></title>
         <id>https://www.gov.uk/guidance/healthcare-for-eu-and-efta-citizens-visiting-the-uk</id>
