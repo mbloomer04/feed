@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "22019baa-d5cc-4611-bbb5-ae7ffc051528",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n Updated: 24 Jul 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4685",
+          "publishedOn": "2025-07-24T13:40:00.000Z",
+          "wordCount": null,
+          "title": "CC-4685 - Mitel Releases Security Advisories for MiVoice MX-One and MiCollab",
+          "imageUrl": null
+        },
+        {
           "id": "08a96cc9-985a-451e-8f69-b46284f36058",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Exploitation of this critical vulnerability could allow a remote attacker to obtain admin access via HTTPS\n Exploitation of this critical vulnerability could allow a remote attacker to obtain admin access via HTTPS\n Updated: 21 Jul 2025",
@@ -2520,6 +2530,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/millions-more-appointments-as-more-than-2000-extra-gps-recruited",
+          "author": null,
+          "description": "Boost is part of Plan for Change to rebuild the NHS by shifting healthcare from hospitals into the community and ending the 8am scramble",
+          "link": "https://www.gov.uk/government/news/millions-more-appointments-as-more-than-2000-extra-gps-recruited",
+          "publishedOn": "2025-07-24T14:12:34.000Z",
+          "wordCount": 2100,
+          "title": "Millions more appointments as more than 2,000 extra GPs recruited",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/guidance/healthcare-for-eu-and-efta-citizens-visiting-the-uk",
           "author": null,
