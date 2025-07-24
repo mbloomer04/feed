@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-24T08:19:17.529Z</updated>
+    <updated>2025-07-24T09:18:19.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: How DHSC processes special category data]]></title>
+        <id>https://www.gov.uk/government/publications/how-dhsc-processes-special-category-data</id>
+        <link href="https://www.gov.uk/government/publications/how-dhsc-processes-special-category-data"/>
+        <updated>2025-07-24T09:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Find out how DHSC processes special category and criminal offences personal data in line with GDPR requirements.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scotland’s Hospital at Home service to expand to 2,000 beds]]></title>
         <id>https://www.digitalhealth.net/?p=235301</id>
