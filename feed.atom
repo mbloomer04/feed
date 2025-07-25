@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-25T09:17:21.527Z</updated>
+    <updated>2025-07-25T10:15:04.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=232265</id>
+        <link href="https://www.digitalhealth.net/2025/07/movers-and-shakers-news-roundup-61/"/>
+        <updated>2025-07-25T10:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Our latest Movers and Shakers roundup features Dr Paul Rice joining Northern Ireland’s Department of Health (DoH).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Interministerial Group for Health and Social Care: communiqués]]></title>
+        <id>https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques</id>
+        <link href="https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques"/>
+        <updated>2025-07-25T09:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Details of the meetings held by the Interministerial Group (IMG) for Health and Social Care.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS digital plans risk worsening health inequalities, say academics]]></title>
         <id>https://www.digitalhealth.net/?p=235563</id>

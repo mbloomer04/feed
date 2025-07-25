@@ -2541,6 +2541,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
+          "author": null,
+          "description": "Details of the meetings held by the Interministerial Group (IMG) for Health and Social Care.",
+          "link": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
+          "publishedOn": "2025-07-25T09:54:35.000Z",
+          "wordCount": 973,
+          "title": "Policy paper: Interministerial Group for Health and Social Care: communiqués",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/cervical-screening-hpv-self-sampling-equality-impact-assessment",
           "author": null,
           "description": "Equality impact assessment of the use of human papillomavirus (HPV) self-sampling for under-screened populations within the NHS Cervical Screening Programme.",
@@ -3821,6 +3831,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=232265",
+          "author": "Jordan Sollof",
+          "description": "Our latest Movers and Shakers roundup features Dr Paul Rice joining Northern Ireland’s Department of Health (DoH).",
+          "link": "https://www.digitalhealth.net/2025/07/movers-and-shakers-news-roundup-61/",
+          "publishedOn": "2025-07-25T10:00:18.000Z",
+          "wordCount": 5896,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Movers-and-Shakers.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=235563",
           "author": "Jordan Sollof",
