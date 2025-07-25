@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-25T06:21:10.627Z</updated>
+    <updated>2025-07-25T07:17:21.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Do PAs have a role in the NHS, patient satisfaction, next steps for neighbourhood health]]></title>
+        <id>https://www.gponline.com/article/1926680</id>
+        <link href="https://www.gponline.com/podcast-pas-role-nhs-patient-satisfaction-next-steps-neighbourhood-health/article/1926680"/>
+        <updated>2025-07-25T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP access warning as resident doctor strikes begin across England]]></title>
         <id>https://www.gponline.com/article/1926809</id>
