@@ -1280,6 +1280,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1926809",
+          "author": null,
+          "description": "GP practices have warned patients of reduced capacity for routine appointments as registrars join a five-day strike by resident doctors.",
+          "link": "https://www.gponline.com/gp-access-warning-resident-doctor-strikes-begin-across-england/article/1926809",
+          "publishedOn": "2025-07-24T23:30:00.000Z",
+          "wordCount": 710,
+          "title": "GP access warning as resident doctor strikes begin across England",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/strike_GettyImages-Wiktor-Szymanowicz_Future-Publishing.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1926709",
           "author": null,
           "description": "GP leaders have raised concerns over payment mechanisms proposed in the 10-year health plan that could allow patients to withhold funding from providers.",
@@ -1948,26 +1958,6 @@
           "wordCount": 743,
           "title": "'New generation' IT system approved for rollout to GP practices",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_10.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1923321",
-          "author": null,
-          "description": "UK medical graduates should be prioritised ahead of overseas recruits for GP training posts, doctors' leaders have said.",
-          "link": "https://www.gponline.com/uk-medical-graduates-prioritised-gp-training-posts-bma-says/article/1923321",
-          "publishedOn": "2025-06-25T12:56:49.000Z",
-          "wordCount": 711,
-          "title": "UK medical graduates should be prioritised for GP training posts, BMA says",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_53.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1923268",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-gp-funding-overhaul-tirzepatide-complaint-fears-gp-premises-investment/article/1923268",
-          "publishedOn": "2025-06-25T12:37:18.000Z",
-          "wordCount": 1461,
-          "title": "GP News Update: GP funding overhaul, tirzepatide complaint fears, GP premises investment",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_6.jpg"
         }
       ]
     },
@@ -2521,16 +2511,6 @@
           "publishedOn": "2025-06-25T23:01:49.000Z",
           "wordCount": 1439,
           "title": "NHS approves new IT system for GPs to help transform care",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=268577",
-          "author": "nowen",
-          "description": "One in eight senior managers in the NHS are from black and minority ethnic (BME) backgrounds, according to new figures published today. The 2024 NHS Workforce Race Equality Standard (WRES) report showed that 12.7% of staff at very senior manager level are from these backgrounds – up from one in nine (11.2%) in 2023. Overall, this marks […]",
-          "link": "https://www.england.nhs.uk/2025/06/one-in-eight-in-senior-nhs-staff-from-black-and-minority-ethnic-backgrounds/",
-          "publishedOn": "2025-06-25T11:23:29.000Z",
-          "wordCount": 1282,
-          "title": "One in eight in senior NHS staff from black and minority ethnic backgrounds",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -3823,16 +3803,6 @@
           "wordCount": 2250,
           "title": "WHO Scientific advisory group issues report on origins of COVID-19",
           "imageUrl": "https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1200v.jpg?sfvrsn=4dba955c_19"
-        },
-        {
-          "id": "urn:uuid:e8d6912a-b3e8-477e-ac64-b2a70692f3e3",
-          "author": null,
-          "description": "Tracking SDG 7: The Energy Progress Report 2025 finds that almost 92% of the world’s population now has basic access to electricity. Although this is an improvement since 2022, which saw the number of people without basic access decrease for the first time in a decade, over 666 million people remain without access, indicating that the current rate is insufficient to reach universal access by 2030. Clean cooking access is progressing but below the rates of progress seen in the 2010s, as efforts remain hobbled by setbacks during the Covid-19 pandemic, following energy price shocks, and debt crises.\nReleased today, the latest edition of the annual report that tracks progress towards Sustainable Development Goal (SDG) 7 highlights the role of distributed renewable energy (a combination of mini…",
-          "link": "https://www.who.int/news/item/25-06-2025-energy-access-has-improved--yet-international-financial-support-still-needed-to-boost-progress-and-address-disparities",
-          "publishedOn": "2025-06-25T12:04:42.000Z",
-          "wordCount": 4404,
-          "title": "Energy access has improved, yet international financial support still needed to boost progress and address disparities",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/environment-climate-change-and-health-(ech)/air-quality-energy-and-health-(aqh)/bboxx_drc_bboxx-cook-customer-cropped-1920px.tmb-1200v.jpg?sfvrsn=2748edf3_4"
         }
       ]
     },
@@ -4530,16 +4500,6 @@
           "wordCount": 3758,
           "title": "NHSE approves Medicus Health EPR system for primary care",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/shutterstock_317573678-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=231725",
-          "author": "Tammy Lovell",
-          "description": "Guy's and St Thomas' NHS Foundation Trust has announced plans to implement a new intranet system in partnership with Torchbox Public.",
-          "link": "https://www.digitalhealth.net/2025/06/guys-and-st-thomas-to-launch-open-source-intranet-platform/",
-          "publishedOn": "2025-06-25T12:30:03.000Z",
-          "wordCount": 3604,
-          "title": "Guy’s and St Thomas’ to launch open source intranet platform",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/Guys-and-St-Thomas.png"
         }
       ]
     }
