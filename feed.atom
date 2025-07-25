@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-25T12:27:20.140Z</updated>
+    <updated>2025-07-25T13:31:35.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK Biobank confirms 100,000 MRI scan milestone reached]]></title>
+        <id>https://www.digitalhealth.net/?p=235203</id>
+        <link href="https://www.digitalhealth.net/2025/07/uk-biobank-confirms-100000-mri-scan-milestone-reached/"/>
+        <updated>2025-07-25T12:30:25.000Z</updated>
+        <summary type="html"><![CDATA[UK Biobank has revealed that over 100,000 participants have now undergone whole-body MRI scans as part of a large imaging project.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP contract uplift tops £1bn as fresh nine-figure cash injection revealed]]></title>
+        <id>https://www.gponline.com/article/1926886</id>
+        <link href="https://www.gponline.com/gp-contract-uplift-tops-1bn-fresh-nine-figure-cash-injection-revealed/article/1926886"/>
+        <updated>2025-07-25T11:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive: GP contract funding will rise by a further £123m in 2025/26 on top of the near-£1bn investment announced earlier this year, GPonline can reveal.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICB appoints hospital trusts – not GPs – to lead neighbourhood teams]]></title>
         <id>https://www.pulsetoday.co.uk/?p=164256</id>

@@ -1300,6 +1300,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1926886",
+          "author": null,
+          "description": "Exclusive: GP contract funding will rise by a further £123m in 2025/26 on top of the near-£1bn investment announced earlier this year, GPonline can reveal.",
+          "link": "https://www.gponline.com/gp-contract-uplift-tops-1bn-fresh-nine-figure-cash-injection-revealed/article/1926886",
+          "publishedOn": "2025-07-25T11:53:20.000Z",
+          "wordCount": 725,
+          "title": "GP contract uplift tops £1bn as fresh nine-figure cash injection revealed",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_34.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1926814",
           "author": null,
           "description": "Writing for GPonline, health minister Karin Smyth says GPs will be at the heart of plans for a neighbourhood NHS - and hails additional roles reimbursement scheme (ARRS) recruits as a step towards easing pressure and boosting access to general practice.",
@@ -3841,6 +3851,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=235203",
+          "author": "Jordan Sollof",
+          "description": "UK Biobank has revealed that over 100,000 participants have now undergone whole-body MRI scans as part of a large imaging project.",
+          "link": "https://www.digitalhealth.net/2025/07/uk-biobank-confirms-100000-mri-scan-milestone-reached/",
+          "publishedOn": "2025-07-25T12:30:25.000Z",
+          "wordCount": 5827,
+          "title": "UK Biobank confirms 100,000 MRI scan milestone reached",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/MRI-scan-UK-Biobank-Siemens.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=232265",
           "author": "Jordan Sollof",
