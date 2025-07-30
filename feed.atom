@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-07-30T09:20:49.573Z</updated>
+    <updated>2025-07-30T10:15:46.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Unplugged: Mobile technology in healthcare]]></title>
+        <id>https://www.digitalhealth.net/?p=236349</id>
+        <link href="https://www.digitalhealth.net/2025/07/digital-health-unplugged-mobile-technology-in-healthcare/"/>
+        <updated>2025-07-30T10:00:45.000Z</updated>
+        <summary type="html"><![CDATA[This episode, in partnership with Digital Health Networks sponsor Imprivata, focuses on all things mobile technology in healthcare.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs instructed to make anonymised patient data available for research]]></title>
+        <id>https://www.pulsetoday.co.uk/?p=164395</id>
+        <link href="https://www.pulsetoday.co.uk/news/technology/gps-instructed-to-make-anonymised-patient-data-available-for-research/"/>
+        <updated>2025-07-30T09:27:43.000Z</updated>
+        <summary type="html"><![CDATA[The Government has instructed GP practices to make anonymous patient data available to a data sharing platform to further medical research.  A letter from NHS England to GPs said health secretary Wes Streeting has issued NHSE with ‘directions’ – a legal instrument – for practices to join the OpenSAFELY data analytics service by instructing their
+The post GPs instructed to make anonymised patient data available for research appeared first on Pulse Today.]]></summary>
+        <author>
+            <name>Harry Hetherington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government eyes partnership overhaul in talks on new GP contract]]></title>
+        <id>https://www.gponline.com/article/1926868</id>
+        <link href="https://www.gponline.com/government-eyes-partnership-overhaul-talks-new-gp-contract/article/1926868"/>
+        <updated>2025-07-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Talks on a substantive new contract for general practice will consider 'updates to the partnership model', the government's primary care minister has said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: DHSC: spending over £500, June 2025]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-spending-over-500-june-2025</id>
