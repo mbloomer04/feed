@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1927522",
+          "author": null,
+          "description": "Core practice funding will rise by an extra £1.55 per registered patient to cover the 4% GP pay rise agreed for 2025/26, NHS England has confirmed.",
+          "link": "https://www.gponline.com/gp-contract-updated-nhs-confirms-uplift-deliver-4-pay-rise/article/1927522",
+          "publishedOn": "2025-07-31T13:51:21.000Z",
+          "wordCount": 730,
+          "title": "GP contract updated as NHS confirms uplift to deliver 4% pay rise",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_26.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1927468",
           "author": null,
           "description": "Government plans to expand multidisciplinary teams fall far short of solving chronic underfunding of general practice in Northern Ireland, GP leaders have warned.",
@@ -2560,6 +2570,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care governing the provision of Directed Enhanced Services (DESs) in general practice.",
+          "link": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "publishedOn": "2025-07-31T14:34:59.000Z",
+          "wordCount": 1105,
+          "title": "Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
+          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "publishedOn": "2025-07-31T14:34:56.000Z",
+          "wordCount": 1333,
+          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/pharmaceutical-needs-assessments-information-pack",
           "author": null,
