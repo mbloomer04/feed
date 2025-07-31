@@ -2561,6 +2561,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/pharmaceutical-needs-assessments-information-pack",
+          "author": null,
+          "description": "This publication supports local authority health and wellbeing boards to develop and update pharmaceutical needs assessments (PNAs).",
+          "link": "https://www.gov.uk/government/publications/pharmaceutical-needs-assessments-information-pack",
+          "publishedOn": "2025-07-31T13:02:39.000Z",
+          "wordCount": 1250,
+          "title": "Guidance: Pharmaceutical needs assessments: information pack",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-privacy-notice",
+          "author": null,
+          "description": "Find out about DHSC's data protection policy and procedures.",
+          "link": "https://www.gov.uk/government/publications/dhsc-privacy-notice",
+          "publishedOn": "2025-07-31T12:56:34.000Z",
+          "wordCount": 948,
+          "title": "Guidance: DHSC privacy notice",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
           "author": null,
           "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
@@ -3881,6 +3901,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=236563",
+          "author": "Tammy Lovell",
+          "description": "Siloes in the NHS and a lack of standardised data are barriers to the government's digital health plans, according to a panel of experts.",
+          "link": "https://www.digitalhealth.net/2025/07/lack-of-standardised-health-data-is-a-barrier-to-nhs-app-plans/",
+          "publishedOn": "2025-07-31T12:30:23.000Z",
+          "wordCount": 6026,
+          "title": "Lack of standardised health data is a barrier to NHS App plans",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/NHS-App-webinar-screenshot.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=235477",
           "author": "Cora Lydon",
