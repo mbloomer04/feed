@@ -2501,6 +2501,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "author": null,
+          "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "publishedOn": "2025-07-31T08:11:58.000Z",
+          "wordCount": 1122,
+          "title": "Notice: Life Sciences Healthcare Goals",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/bma-resident-doctor-industrial-action",
           "author": null,
           "description": "The Secretary of State for Health and Social Care writes to the co-chairs of the BMA Resident Doctors Committee.",
@@ -3821,6 +3831,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=236417",
+          "author": "Jordan Sollof",
+          "description": "Access Health, Support and Care has partnered with BearingPoint to help integrated care systems deliver more sustainable virtual wards.",
+          "link": "https://www.digitalhealth.net/2025/07/access-hsc-and-bearingpoint-to-tackle-virtual-ward-integration/",
+          "publishedOn": "2025-07-31T07:30:10.000Z",
+          "wordCount": 4065,
+          "title": "Access HSC and BearingPoint to tackle virtual ward integration",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/Dan_Roulstone-Bearing-Point-Director-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=236405",
           "author": "Jordan Sollof",
