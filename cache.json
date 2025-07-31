@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1927444",
+          "author": null,
+          "description": "General practice is making 'important progress' on improving access, NHS England has said - as appointments data showed practices delivered a record 383m appointments over the past 12 months.",
+          "link": "https://www.gponline.com/nhs-hails-important-progress-gp-access-appointments-hit-new-record/article/1927444",
+          "publishedOn": "2025-07-31T08:41:11.000Z",
+          "wordCount": 728,
+          "title": "NHS hails 'important progress' on GP access as appointments hit new record",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_16.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1927237",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -3831,6 +3841,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=236489",
+          "author": "Jordan Sollof",
+          "description": "Doctors at University College London Hospitals (UCLH) have developed MENO.pause, an app that helps clinicians to manage menopause symptoms.",
+          "link": "https://www.digitalhealth.net/2025/07/uclh-launches-app-to-help-staff-manage-menopause-symptoms/",
+          "publishedOn": "2025-07-31T10:00:12.000Z",
+          "wordCount": 4117,
+          "title": "UCLH launches app to help staff manage menopause symptoms",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/Dr-Shibani-Nicum-UCLH.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=236417",
           "author": "Jordan Sollof",
