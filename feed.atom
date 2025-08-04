@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-04T06:27:17.270Z</updated>
+    <updated>2025-08-04T07:22:38.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS begins rollout of world-first gonorrhoea vaccine programme]]></title>
+        <id>https://www.gov.uk/government/news/nhs-begins-rollout-of-world-first-gonorrhoea-vaccine-programme</id>
+        <link href="https://www.gov.uk/government/news/nhs-begins-rollout-of-world-first-gonorrhoea-vaccine-programme"/>
+        <updated>2025-08-04T06:32:50.000Z</updated>
+        <summary type="html"><![CDATA[NHS and local authorities begin rollout of world-first gonorrhoea vaccination programme across the country.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS Protected Thousands More Appointments During Doctors Strike]]></title>
         <id>https://www.england.nhs.uk/?p=270662</id>
