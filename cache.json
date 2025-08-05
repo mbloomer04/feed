@@ -93,6 +93,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=162903",
+          "author": "Sofia Lind",
+          "description": "The threat to health caused by air pollution is far greater than previously understood and requires urgent and ambitious action, the Royal College of Physicians has warned. Affecting almost every organ in the body, air pollution is a serious and avoidable health risk that could contribute to 30,000 deaths in 2025 alone, a report from\nThe post Air pollution is ‘public health crisis’, doctors warn appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/air-pollution-is-public-health-crisis-doctors-warn/",
+          "publishedOn": "2025-08-05T14:37:11.000Z",
+          "wordCount": 2495,
+          "title": "Air pollution is ‘public health crisis’, doctors warn",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/03/pregnant-pregnancy.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=164723",
+          "author": "Anna Colivicchi",
+          "description": "Exclusive GPs across a large area in England are calling on the BMA to re-enter formal dispute with the Government over the 10-year plan, Pulse can reveal. Berkshire, Buckinghamshire and Oxfordshire (BBO) LMCs said that 87% of GPs in their area believe the union’s GP committee should ‘urgently return to formal dispute with the Government’\nThe post LMCs call for BMA to re-enter GP collective action over 10-year plan appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/politics/lmcs-call-for-bma-to-re-enter-gp-collective-action-over-10-year-plan/",
+          "publishedOn": "2025-08-05T14:27:18.000Z",
+          "wordCount": 1493,
+          "title": "LMCs call for BMA to re-enter GP collective action over 10-year plan",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=164650",
           "author": "Harry Hetherington",
           "description": "NHS England has not changed physician associate (PA) role descriptions in line with Leng review recommendations in the PCN enhanced service specification. According to the PA trade union, this is due to the pending legal case it is bringing to challenge the recommendations, although NHS England did not confirm or deny this. The PCN DES\nThe post NHS England fails to update physician associate job description amid legal case appeared first on Pulse Today.",
@@ -1229,6 +1249,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1927854",
+          "author": null,
+          "description": "GPs and other providers should monitor patients regularly for at least a year after treatment with obesity medication to help them maintain weight loss, updated NICE advice says.",
+          "link": "https://www.gponline.com/monitor-patients-year-weight-loss-drugs-says-nice/article/1927854",
+          "publishedOn": "2025-08-05T00:00:00.000Z",
+          "wordCount": 910,
+          "title": "Monitor patients for a year after weight-loss drugs, says NICE",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_12.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1927849",
           "author": null,
@@ -2450,6 +2480,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/survey-of-adult-carers-in-england-2025-to-2026",
+          "author": null,
+          "description": "Guidance and materials for the survey of adult carers in England (SACE) 2025 to 2026 survey year.",
+          "link": "https://www.gov.uk/government/publications/survey-of-adult-carers-in-england-2025-to-2026",
+          "publishedOn": "2025-08-05T15:02:06.000Z",
+          "wordCount": 1340,
+          "title": "Guidance: Survey of adult carers in England 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/extend-medicines-responsibilities-for-allied-health-professions",
           "author": null,
