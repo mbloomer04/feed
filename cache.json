@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9211ce74-4eb8-465a-9cb9-0b9906c0530d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n SonicWall has released a security notice regarding recent reported cyber incidents involving SonicWall Gen 7 Firewalls\n SonicWall has released a security notice regarding recent reported cyber incidents involving SonicWall Gen 7 Firewalls\n Updated: 05 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4686",
+          "publishedOn": "2025-08-05T10:52:00.000Z",
+          "wordCount": null,
+          "title": "CC-4686 - Active Exploitation of Gen 7 SonicWall Firewalls with SSL VPN Enabled",
+          "imageUrl": null
+        },
+        {
           "id": "22019baa-d5cc-4611-bbb5-ae7ffc051528",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n Updated: 24 Jul 2025",
@@ -3731,6 +3741,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=235609",
+          "author": "Cora Lydon",
+          "description": "Today's coffee time includes a new biosecurity centre, a study on the benefits of AI scribes and Nuffield Health's new mammography tech.",
+          "link": "https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-91/",
+          "publishedOn": "2025-08-05T10:30:57.000Z",
+          "wordCount": 6104,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=236829",
           "author": "Tammy Lovell",
