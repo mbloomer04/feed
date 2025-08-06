@@ -2311,6 +2311,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "author": null,
+          "description": "Proportion of payments made within 5 and 30 working days.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data",
+          "publishedOn": "2025-08-06T07:59:25.000Z",
+          "wordCount": 1827,
+          "title": "Transparency data: Department of Health and Social Care prompt payment of suppliers",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/survey-of-adult-carers-in-england-2025-to-2026",
           "author": null,
           "description": "Guidance and materials for the survey of adult carers in England (SACE) 2025 to 2026 survey year.",
@@ -3611,6 +3621,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=236789",
+          "author": "Jordan Sollof",
+          "description": "The Scottish government has launched a tender to provide a new version of its online digital maturity assessment tool, including AI questions.",
+          "link": "https://www.digitalhealth.net/2025/08/scottish-gov-to-assess-ai-digital-maturity-for-health-and-social-care/",
+          "publishedOn": "2025-08-06T07:30:35.000Z",
+          "wordCount": 6031,
+          "title": "Scottish gov to assess AI digital maturity for health and social care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/FM-Portrait-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=236875",
           "author": "Tammy Lovell",
