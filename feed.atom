@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-06T13:37:16.077Z</updated>
+    <updated>2025-08-06T14:17:51.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: ministerial gifts, hospitality, travel and meetings, July to September 2024]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-july-to-september-2024</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-ministerial-gifts-hospitality-travel-and-meetings-july-to-september-2024"/>
+        <updated>2025-08-06T14:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Data on gifts that ministers gave and received, their external meetings and any overseas travel.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4687 - Critical RCE Vulnerabilities in Trend Micro Apex One]]></title>
         <id>a68daf5e-e36e-46d3-bb1e-14884af77c5e</id>
