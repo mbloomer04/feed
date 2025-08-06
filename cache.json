@@ -1975,26 +1975,6 @@
           "wordCount": null,
           "title": "How we're supporting product teams",
           "imageUrl": null
-        },
-        {
-          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
-          "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
-          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
-          "publishedOn": "2025-07-07T12:59:26.000Z",
-          "wordCount": null,
-          "title": "How we’re modernising electronic prescribing",
-          "imageUrl": null
-        },
-        {
-          "id": "789c6a5e-10f9-42e8-b5dd-63efa5564938",
-          "author": "enquiries@nhsdigital.nhs.uk (Alex Lord)",
-          "description": "Alex Lord, Lead Product Owner for the Digital Onboarding Service at NHS Digital, explains why we are investing in digitalising the onboarding journey for developers of healthcare software. \n\r\n\r\nIf there is anything that many leave until it is too late, it is thinking about getting approval to use NHS APIs and digital services in production. We often call this onboarding.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2022/onboarding-shouldnt-be-an-afterthought",
-          "publishedOn": "2025-07-07T11:17:43.000Z",
-          "wordCount": null,
-          "title": "Onboarding shouldn't be an afterthought",
-          "imageUrl": null
         }
       ]
     },
@@ -2027,6 +2007,16 @@
           "publishedOn": "2025-07-08T08:24:58.000Z",
           "wordCount": null,
           "title": "What is public benefit?",
+          "imageUrl": null
+        },
+        {
+          "id": "cf707da7-17f2-43b5-9708-e928df57aba7",
+          "author": "enquiries@nhsdigital.nhs.uk (Heather Pinches)",
+          "description": "Our data-driven clinical trials service, NHS DigiTrials, is changing what is possible for researchers but there’s more to do, says our Head of Clinical Trials.\n\r\n\r\nWe’re seeing numbers coming out of the NHS DigiTrials’ recruitment service that would not have seemed possible 2 years ago.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/recruitment-success-puts-spotlight-on-what-we-can-do-better",
+          "publishedOn": "2025-07-07T13:34:12.000Z",
+          "wordCount": null,
+          "title": "Recruitment success puts spotlight on what we can do better",
           "imageUrl": null
         },
         {
@@ -2265,26 +2255,6 @@
           "wordCount": null,
           "title": "How do you put a digital service on paper?",
           "imageUrl": null
-        },
-        {
-          "id": "a96bdbf2-24c5-42c6-9a5e-f90b0df14a44",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Chiara Garattini and Kate Burn explain how working in our Data and Analytics sub-directorate has challenged the assumptions of our user-centred design team.\n\r\n\r\nA big part of early work on projects typically involves helping our colleagues to focus a bit less on the characteristics of their products and the requirements of their internal processes, and to instead start by involving users to understand their needs.\n\r\n\r\nTherefore, it's been interesting to work on projects that required our team to get deep into the weeds of the process in order to, ultimately, put the focus back on users.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2024/we-had-to-follow-the-data-not-our-users",
-          "publishedOn": "2025-07-07T13:08:47.000Z",
-          "wordCount": null,
-          "title": "We had to follow the data, not our users",
-          "imageUrl": null
-        },
-        {
-          "id": "424b4944-6570-4381-ba88-68653d7e5c21",
-          "author": "enquiries@nhsdigital.nhs.uk (Brigit O’Sullivan)",
-          "description": "Conducting user research remotely is challenging but can yield unexpected benefits. Brigit O’Sullivan, User Researcher at NHS Digital, describes what she learned working as a user researcher for the NHS App during lockdown.\n\r\n\r\nI joined the NHS App team on 23 March 2020, the day the UK entered full lockdown. This was my fourth and final placement as a user research graduate trainee and I was looking forward to taking on new challenges and gaining independence as a user researcher. I was not, however, expecting to do my entire placement from my bedroom.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2020/nhs-app-conducting-user-research-in-lockdown",
-          "publishedOn": "2025-07-07T13:02:27.000Z",
-          "wordCount": null,
-          "title": "NHS App: Conducting user research in lockdown",
-          "imageUrl": null
         }
       ]
     },
@@ -2458,6 +2428,16 @@
           "publishedOn": "2025-08-05T13:00:09.000Z",
           "wordCount": 1182,
           "title": "Extend medicines responsibilities for allied health professions",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "publishedOn": "2025-08-05T07:58:19.000Z",
+          "wordCount": 962,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
@@ -3378,16 +3358,6 @@
           "publishedOn": "2025-07-07T13:49:00.000Z",
           "wordCount": 862,
           "title": "Corporate report: NHS England annual accountability statement: 2023 to 2024",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/review-of-patient-safety-across-the-health-and-care-landscape",
-          "author": null,
-          "description": "Dr Penny Dash's review of patient safety across the health and care landscape in England, which was commissioned by the Department of Health and Social Care.",
-          "link": "https://www.gov.uk/government/publications/review-of-patient-safety-across-the-health-and-care-landscape",
-          "publishedOn": "2025-07-07T12:48:58.000Z",
-          "wordCount": 946,
-          "title": "Independent report: Review of patient safety across the health and care landscape",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
@@ -4440,16 +4410,6 @@
           "wordCount": 5777,
           "title": "NHS spending £230m annually on paper patient records",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/Navigating-the-EPR-landscape-v2.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=232065",
-          "author": "Jordan Sollof",
-          "description": "Barnsley Hospital NHS Foundation Trust has signed a long-term contract with TeleTracking UK to implement a care coordination centre.",
-          "link": "https://www.digitalhealth.net/2025/07/barnsley-hospital-to-implement-care-coordination-centre/",
-          "publishedOn": "2025-07-07T12:30:58.000Z",
-          "wordCount": 5781,
-          "title": "Barnsley Hospital to implement care coordination centre",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Barnsley-Hospital-NHS-FT.png"
         }
       ]
     }
