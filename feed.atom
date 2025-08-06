@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-06T01:09:11.785Z</updated>
+    <updated>2025-08-06T03:38:52.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2355,6 +2355,19 @@ The post Clinical conundrum: Managing a patient with Bell’s palsy appeared fir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How we’re modernising electronic prescribing]]></title>
+        <id>68e89b19-a38b-41cd-8399-83978d93ea77</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing"/>
+        <updated>2025-07-17T14:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.
+
+
+The little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Andy Harrison)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPs to check 57,000 patient records for vaccination errors following IT issue]]></title>
         <id>https://www.pulsetoday.co.uk/?p=163918</id>
         <link href="https://www.pulsetoday.co.uk/news/clinical-areas/vaccinations-prevention-screening/gps-to-check-57000-patient-records-for-vaccination-errors-following-it-failure/"/>
@@ -4312,136 +4325,6 @@ The COVID-19 testing programme is by far the biggest research project I’ve eve
 The post Review recommends customised regulation for small GP practices appeared first on Pulse Today.]]></summary>
         <author>
             <name>Sofia Lind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social care MOTs for over-65s proposed to curb rising costs]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=163180</id>
-        <link href="https://www.pulsetoday.co.uk/news/clinical-areas/elderly-care/social-care-mots-for-over-65s-proposed-to-curb-rising-costs/"/>
-        <updated>2025-07-07T15:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Older adults should receive adult social care ‘MOTs’ on reaching 65 to keep more people out of care homes in the long run, a think tank has proposed. The Institute for Public Policy Research said the Japanese style approach to provide assessments for people on reaching pension age would reduce the need for expensive care
-The post Social care MOTs for over-65s proposed to curb rising costs appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Sofia Lind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landmark strategy to improve early years and family services]]></title>
-        <id>https://www.gov.uk/government/news/landmark-strategy-to-improve-early-years-and-family-services</id>
-        <link href="https://www.gov.uk/government/news/landmark-strategy-to-improve-early-years-and-family-services"/>
-        <updated>2025-07-07T15:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Parents across the country to benefit from new plan to drive up the quality and accessibility of early years education and boost children’s life chances]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the ARRS widening GP workforce inequality?]]></title>
-        <id>https://www.gponline.com/article/1923879</id>
-        <link href="https://www.gponline.com/arrs-widening-gp-workforce-inequality/article/1923879"/>
-        <updated>2025-07-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Exclusive: GP recruitment through the additional roles reimbursement scheme (ARRS) has widened the gap between England's most and least underdoctored areas, GPonline analysis suggests.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refreshed NHS workforce plan to include ‘fewer staff than projected’]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=163491</id>
-        <link href="https://www.pulsetoday.co.uk/news/workforce/refreshed-nhs-workforce-plan-to-include-fewer-staff-than-projected/"/>
-        <updated>2025-07-07T14:58:51.000Z</updated>
-        <summary type="html"><![CDATA[A ‘refreshed’ workforce plan for the NHS will include ‘fewer staff than projected’ by 2035, the Government has said. In 10 years there will be fewer NHS staff than projected in the 2023 long-term workforce plan but those staff will be ‘more motivated’ and receive ‘better training’, it added. The 10-year plan for the NHS
-The post Refreshed NHS workforce plan to include ‘fewer staff than projected’ appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Harry Hetherington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why creating an online service is more than just digitising a form]]></title>
-        <id>126f5e72-44f6-47f8-9287-401715bdeef1</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2022/why-creating-an-online-service-is-more-than-just-digitising-a-form"/>
-        <updated>2025-07-07T13:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Kerrie Hughes, Lead Service Designer for the new ‘Register with a GP Surgery’ service, says registration is more than just paperwork – it’s about giving more people access to healthcare and helping GP practices to provide great care.
-
-
-Good services don’t happen by accident. They are the result of a deep understanding of the people that will use the service. They are carefully crafted to help those people do what they want to do.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Kerrie Hughes)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a testing service that works for everyone]]></title>
-        <id>b315e529-4d8e-46ba-bd80-b9ba9afcc6be</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2021/building-a-testing-service-that-works-for-everyone"/>
-        <updated>2025-07-07T13:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Kate Every, Service Designer for the NHS Test and Trace programme, looks at how using data and research helped the team meet the challenge of ensuring anyone within the UK population could carry out a lateral flow test for COVID-19.
-
-
-COVID-19 has impacted every one of us. Our challenge was to build and iterate a nationwide testing service that had to work for people from all walks of life, who were testing for very different reasons.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Kate Every)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corporate report: NHS England annual accountability statement: 2023 to 2024]]></title>
-        <id>https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024</id>
-        <link href="https://www.gov.uk/government/publications/nhs-england-annual-accountability-statement-2023-to-2024"/>
-        <updated>2025-07-07T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[NHS England's performance measured against the NHS public health functions agreement for 2023 to 2024.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the Data Access Request Service]]></title>
-        <id>7df12088-531f-4ffb-b7c3-2bb40782fccb</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2023/improving-the-data-access-request-service"/>
-        <updated>2025-07-07T13:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Senior content designer Jessamine Marie explains how her team used user-centred design principles to put people at the heart of redesigning our Data Access Request Service.
-
-
-Clinicians, researchers and commissioners can apply to access healthcare data through the Data Access Request Service (DARS). The main objective of any DARS service user is to request data quickly and easily.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Jessamine Marie)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recruitment success puts spotlight on what we can do better]]></title>
-        <id>cf707da7-17f2-43b5-9708-e928df57aba7</id>
-        <link href="https://digital.nhs.uk/blog/data-points-blog/2023/recruitment-success-puts-spotlight-on-what-we-can-do-better"/>
-        <updated>2025-07-07T13:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Our data-driven clinical trials service, NHS DigiTrials, is changing what is possible for researchers but there’s more to do, says our Head of Clinical Trials.
-
-
-We’re seeing numbers coming out of the NHS DigiTrials’ recruitment service that would not have seemed possible 2 years ago.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Heather Pinches)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putting people and partnership at the centre of clinical research]]></title>
-        <id>43193d17-c8c4-4b14-a0d7-1c61be17c5f2</id>
-        <link href="https://digital.nhs.uk/blog/data-points-blog/2024/putting-people-and-partnership-at-the-centre-of-clinical-research"/>
-        <updated>2025-07-07T13:32:45.000Z</updated>
-        <summary type="html"><![CDATA[In March 2024, the Westminster Health Forum policy conference on "Next steps for clinical research in the UK" brought together stakeholders from across the research industry. Heather Pinches shares her insights from the event.
-
-
-I was delighted to be invited to represent NHS DigiTrials at the Westminster Health Forum policy conference. The event was chaired by The Rt Hon Baroness Neville-Jones DCMG, setting the stage for discussions on priorities for diversity, trust, transparency and public involvement in clinical trials.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Heather Pinches)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you put a digital service on paper?]]></title>
-        <id>b83ceb8d-99f5-4b38-99ff-ade03fe1df5d</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2023/how-do-you-put-a-digital-service-on-paper"/>
-        <updated>2025-07-07T13:25:54.000Z</updated>
-        <summary type="html"><![CDATA[User researcher Fern Williams describes how we created a new paper patient registration form to complement the online ‘Register with a GP surgery’ service, allowing everyone to have a consistent user experience and leaving no one digitally excluded.
-
-
-One of the guiding principles of the ‘Register with a GP surgery’ service is to be accessible and inclusive to all. Though there is a shift towards digital to make registering with a GP surgery easier and more convenient for both patients and practice staff, we haven’t forgotten the importance of developing a paper registration form for those who prefer not to or can’t use a digital service.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Fern Williams)</name>
         </author>
     </entry>
     <entry>
