@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a68daf5e-e36e-46d3-bb1e-14884af77c5e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Updated: 06 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4687",
+          "publishedOn": "2025-08-06T12:46:00.000Z",
+          "wordCount": null,
+          "title": "CC-4687 - Critical RCE Vulnerabilities in Trend Micro Apex One",
+          "imageUrl": null
+        },
+        {
           "id": "9211ce74-4eb8-465a-9cb9-0b9906c0530d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n SonicWall has released a security notice regarding recent reported cyber incidents involving SonicWall Gen 7 Firewalls\n SonicWall has released a security notice regarding recent reported cyber incidents involving SonicWall Gen 7 Firewalls\n Updated: 05 Aug 2025",
@@ -3671,6 +3681,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=236903",
+          "author": "Tammy Lovell",
+          "description": "Manufacturers will be able to supply innovative medical devices to the NHS before obtaining full regulatory approval, under a new MHRA scheme.",
+          "link": "https://www.digitalhealth.net/2025/08/nhs-to-get-early-access-to-medtech-ahead-of-regulatory-approval/",
+          "publishedOn": "2025-08-06T12:30:34.000Z",
+          "wordCount": 5988,
+          "title": "NHS to get early access to MedTech ahead of regulatory approval",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/Lawrence-Tallon-1.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=236787",
           "author": "Tammy Lovell",
