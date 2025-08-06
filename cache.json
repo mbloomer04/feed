@@ -103,6 +103,16 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=164805",
+          "author": "Maya Dhillon",
+          "description": "Pulse editor-in-chief Jaimie Kaffash ponders the silence surrounding the future of newly-qualified GPs amid the ongoing unemployment crisis Remember the GP unemployment crisis? It seems so long ago now – that crazy situation where GP practices were short of GPs, but there were huge numbers of GPs out of work. Then the Government announced the GP ARRS\nThe post Why has it all gone quiet about the next cohort of qualified GPs? appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/pulse-careers/why-has-it-all-gone-quiet-about-the-next-cohort-of-qualified-gps/",
+          "publishedOn": "2025-08-06T16:18:37.000Z",
+          "wordCount": 2481,
+          "title": "Why has it all gone quiet about the next cohort of qualified GPs?",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2021/04/Jaimie_Kaffash_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=164785",
           "author": "Harry Hetherington",
           "description": "The UK medicines regulator has urged GP practices to report all ‘adverse incidents’ and ‘inaccuracies’ with artificial intelligence (AI) tools used in clinical practice to its Yellow Card Scheme. The Medicines and Healthcare products Regulatory Agency (MHRA)’s Yellow Card scheme, established for patients to report adverse reactions to medicines, has a specific reporting service for\nThe post MHRA asks GPs to report ‘all AI inaccuracies’ to Yellow Card scheme appeared first on Pulse Today.",
@@ -1259,6 +1269,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1928093",
+          "author": null,
+          "description": "Exclusive: More than half of the £82m additional roles reimbursement scheme (ARRS) cash for GP jobs in 2024/25 went unclaimed, GPonline can reveal.",
+          "link": "https://www.gponline.com/half-82m-arrs-gp-cash-unclaimed-pcns-last-year/article/1928093",
+          "publishedOn": "2025-08-06T16:00:00.000Z",
+          "wordCount": 919,
+          "title": "More than half of £82m ARRS GP cash unclaimed by PCNs last year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_82.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1928148",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-nhs-ignores-own-advice-pas-neighbourhood-funding-threat-gp-appointments-record/article/1928148",
+          "publishedOn": "2025-08-06T15:17:51.000Z",
+          "wordCount": 902,
+          "title": "GP News Update: NHS ignores own advice on PAs, neighbourhood funding threat, GP appointments record",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_861.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1927988",
           "author": null,
