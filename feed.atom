@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-06T08:19:22.013Z</updated>
+    <updated>2025-08-06T09:21:10.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IT failure leaves GP practices facing seven-figure clean-up bill]]></title>
+        <id>https://www.gponline.com/article/1928022</id>
+        <link href="https://www.gponline.com/failure-leaves-gp-practices-facing-seven-figure-clean-up-bill/article/1928022"/>
+        <updated>2025-08-06T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[GP practices in west Yorkshire face a seven-figure bill for extra staff to help with a digital clean-up after nine days of IT disruption across the area.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: Department of Health and Social Care prompt payment of suppliers]]></title>
         <id>https://www.gov.uk/government/publications/department-of-health-prompt-payment-of-suppliers-data</id>
