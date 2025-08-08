@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-08T13:33:49.092Z</updated>
+    <updated>2025-08-08T14:16:22.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4688 - Microsoft Releases Security Advisory for Vulnerability CVE-2025-53786 in Exchange Hybrid Deployments]]></title>
+        <id>5943617f-0746-424b-b374-70e0b5ea4148</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4688"/>
+        <updated>2025-08-08T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment
+ Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment
+ Updated: 08 Aug 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ambulance software developed in Rwanda to enable faster care]]></title>
         <id>https://www.digitalhealth.net/?p=237071</id>
@@ -422,6 +435,16 @@ The post CQC primary care chief inspector to address GPs at Pulse LIVE Newcastle
 The post Parents urged to book vaccine appointments for children in summer holidays appeared first on Pulse Today.]]></summary>
         <author>
             <name>Anna Colivicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenya achieves elimination of human African trypanosomiasis or sleeping sickness as a public health problem]]></title>
+        <id>urn:uuid:64faea05-3e9c-4d1e-abf0-7e554ad7d2be</id>
+        <link href="https://www.who.int/news/item/08-08-2025-kenya-achieves-elimination-of-human-african-trypanosomiasis-or-sleeping-sickness"/>
+        <updated>2025-08-06T09:47:17.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has validated Kenya as having eliminated human African trypanosomiasis (HAT) or sleeping sickness as a public health problem, making it the tenth country to reach this important milestone. HAT is the second neglected tropical disease (NTD) to be eliminated in Kenya: the country was certified free of Guinea worm disease in 2018.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5943617f-0746-424b-b374-70e0b5ea4148",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Updated: 08 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4688",
+          "publishedOn": "2025-08-08T13:38:00.000Z",
+          "wordCount": null,
+          "title": "CC-4688 - Microsoft Releases Security Advisory for Vulnerability CVE-2025-53786 in Exchange Hybrid Deployments",
+          "imageUrl": null
+        },
+        {
           "id": "a68daf5e-e36e-46d3-bb1e-14884af77c5e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Updated: 06 Aug 2025",
@@ -3422,6 +3432,16 @@
           "wordCount": 2387,
           "title": "WHO designates new WHO-Listed Authorities, strengthening global access to quality-assured medical products",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/access-to-medicines-and-health-products-(mhp)/regulation-and-prequalification-(rpq)/local-production-and-assistance-(lpa)/medicine-bottles.tmb-1200v.jpg?sfvrsn=396d2007_1"
+        },
+        {
+          "id": "urn:uuid:64faea05-3e9c-4d1e-abf0-7e554ad7d2be",
+          "author": null,
+          "description": "The World Health Organization (WHO) has validated Kenya as having eliminated human African trypanosomiasis (HAT) or sleeping sickness as a public health problem, making it the tenth country to reach this important milestone. HAT is the second neglected tropical disease (NTD) to be eliminated in Kenya: the country was certified free of Guinea worm disease in 2018.",
+          "link": "https://www.who.int/news/item/08-08-2025-kenya-achieves-elimination-of-human-african-trypanosomiasis-or-sleeping-sickness",
+          "publishedOn": "2025-08-06T09:47:17.000Z",
+          "wordCount": 2703,
+          "title": "Kenya achieves elimination of human African trypanosomiasis or sleeping sickness as a public health problem",
+          "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/human-african-trypanosomiasis/kenya-hat-community-screening--monitoring.tmb-1200v.jpeg?Culture=en&sfvrsn=9d4ab401_1"
         },
         {
           "id": "urn:uuid:43d78172-b10a-47f9-84ef-ae5a6c24c0d7",
