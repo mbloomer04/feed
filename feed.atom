@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-07T23:13:59.952Z</updated>
+    <updated>2025-08-08T01:09:31.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS to fast-track patients with head and neck cancer into cancer vaccine trial]]></title>
+        <id>https://www.england.nhs.uk/?p=270845</id>
+        <link href="https://www.england.nhs.uk/2025/08/nhs-to-fast-track-patients-with-head-and-neck-cancer-into-cancer-vaccine-trial/"/>
+        <updated>2025-08-07T23:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Patients with advanced head and neck cancers in England will be fast-tracked into a trial of a new cancer vaccine, as the NHS expands its world-leading trial ‘match-making’ service. The investigational cancer vaccine uses mRNA technology to help the immune system recognise and kill cancer cells containing human papillomavirus proteins. More than 100 patients with […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New chief executive appointed at UKHSA]]></title>
         <id>https://www.gov.uk/government/news/new-chief-executive-appointed-at-ukhsa</id>
@@ -4289,98 +4299,6 @@ If a standard is published but people don’t know about it, is it a standard?]]
         <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4679 - Microsoft Releases July 2025 Security Updates]]></title>
-        <id>0805f04f-6702-4b23-8b37-3b23a16e98c0</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4679"/>
-        <updated>2025-07-09T12:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Scheduled updates for Microsoft products, including security updates for 130 vulnerabilities, of which one has been reported as publicly disclosed
- Scheduled updates for Microsoft products, including security updates for 130 vulnerabilities, of which one has been reported as publicly disclosed
- Updated: 09 Jul 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somerset launches electronic treatment escalation plans]]></title>
-        <id>https://www.digitalhealth.net/?p=231883</id>
-        <link href="https://www.digitalhealth.net/2025/07/somerset-launches-electronic-treatment-escalation-plans/"/>
-        <updated>2025-07-09T12:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Somerset has launched a feature which enables patients to record their care preferences within the region's shared care record.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 ways the NHS digital service manual can help you]]></title>
-        <id>067986ca-bb9e-47c9-85f4-59945e2c5391</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2020/10-ways-the-nhs-digital-service-manual-can-help-you"/>
-        <updated>2025-07-09T11:56:46.000Z</updated>
-        <summary type="html"><![CDATA[If you want to build easy-to-use digital health services that put people first, Adrian Smith explains why the NHS digital service manual is a great place to start.
-
-
-This blog post will take just 5 minutes of your time, but it could well save you hours of unnecessary work (and head-scratching).]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Adrian Smith)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to be less "demanding on the brain"]]></title>
-        <id>6af7703b-803f-4bfb-a271-8377ec592702</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2022/trying-to-be-less-demanding-on-the-brain"/>
-        <updated>2025-07-09T11:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Tosin Balogun, Associate Interaction Designer for the NHS website, looks at how we design and how we try to make a difference.
-
-
-It is pretty obvious to say that design changes people’s lives. If it didn’t, we wouldn’t spend so much of our time trying to get it right.
-
-
-But the reality beneath that unoriginal claim struck home for me recently as I worked on a report tool, part of the replacement system for national cervical screening.
-
-
-It’s not the most dramatic or heart-rending example of our impact – but is perhaps no less meaningful for that. It’s a small piece of work that speaks to the everyday reality we try to grapple with as interaction designers in the NHS.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Tosin Balogun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why accessible design is good design]]></title>
-        <id>c337bf5a-0298-43d4-b43f-6ea73b7123b6</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2023/why-accessible-design-is-good-design"/>
-        <updated>2025-07-09T11:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Josh Healey, User-Centred Design Lead for the Register with a GP surgery service, explains how redesigning the first page of the service made it more accessible for everyone – and how they created a framework to measure impact.
-
-
-General practitioners (GPs) play an important role in our communities. GPs treat common medical conditions, refer patients to hospitals and act as the first place many go to for health and wellbeing advice. This is why it is so important that everyone can register with and see a GP when they need to.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Josh Healey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we're supporting product teams]]></title>
-        <id>0a86795b-fbf3-4492-9e15-a43786d1ab6c</id>
-        <link href="https://digital.nhs.uk/blog/tech-talk/2022/how-were-supporting-product-teams"/>
-        <updated>2025-07-09T11:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Making it easier to get help and support is a guiding principle for our API Management (APIM) team. Ernest Kissiedu, a business analyst in the team, explains the new approach to supporting software developers working in health and care.
-
-
-Ensuring that the API platform is as self-serve as possible, with simple and reliable support provided when needed, is top of the list for our team. If our developers have a positive experience, they are more likely to use our APIs to develop cost-effective, digital services designed around the needs of our health and care professionals, patients, and the public.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Ernest Kissiedu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10-year plan could ‘seriously undermine’ current GP model, BMA warns]]></title>
-        <id>https://www.pulsetoday.co.uk/?p=163592</id>
-        <link href="https://www.pulsetoday.co.uk/news/special-investigations/10-year-health-plan/10-year-plan-could-seriously-undermine-current-gp-model-bma-warns/"/>
-        <updated>2025-07-09T11:18:46.000Z</updated>
-        <summary type="html"><![CDATA[The BMA has raised concerns that the 10-year plan could ‘seriously undermine’ the current GP practice model, revealing that its GP committee had not been allowed to see the plan ahead of publication. GPC England chair Dr Katie Bramall said that committee members are currently ‘working through the plan’ but that they were not given
-The post 10-year plan could ‘seriously undermine’ current GP model, BMA warns appeared first on Pulse Today.]]></summary>
-        <author>
-            <name>Anna Colivicchi</name>
         </author>
     </entry>
     <entry>
