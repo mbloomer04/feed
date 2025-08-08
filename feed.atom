@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-08T07:19:48.342Z</updated>
+    <updated>2025-08-08T08:19:06.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Over-the-counter health test results accessible via the NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=236947</id>
+        <link href="https://www.digitalhealth.net/2025/08/over-the-counter-health-test-results-accessible-via-the-nhs-app/"/>
+        <updated>2025-08-08T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Customers can now view the results of at-home blood and DNA tests from MyHealthChecked on the NHS App, through an integration with PKB.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS to fast-track patients with head and neck cancer into cancer vaccine trial]]></title>
         <id>https://www.england.nhs.uk/?p=270845</id>
