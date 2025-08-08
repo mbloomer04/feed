@@ -1828,36 +1828,6 @@
           "wordCount": 891,
           "title": "Patient satisfaction with general practice continuing to rise, survey shows",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-appt_GettyImages-SolStock_5.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1924737",
-          "author": null,
-          "description": "PCNs and GP federations are in active discussions about taking on neighbourhood GP contracts being rolled out as part of the government's 10-year health plan.",
-          "link": "https://www.gponline.com/pcns-talks-taking-neighbourhood-gp-contracts/article/1924737",
-          "publishedOn": "2025-07-09T15:00:00.000Z",
-          "wordCount": 905,
-          "title": "PCNs in talks over taking on neighbourhood GP contracts",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign-GettyImages-OllieMillingtonGettyImages.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1924920",
-          "author": null,
-          "description": "The key points relating to general practice from the government’s 10-year health plan.",
-          "link": "https://www.gponline.com/10-year-health-plan-glance/article/1924920",
-          "publishedOn": "2025-07-09T13:37:48.000Z",
-          "wordCount": 871,
-          "title": "The 10-year health plan at a glance",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/10yearplan.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1924913",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-10-year-plan-threatens-gp-model-arrs-gp-recruitment-ni-collective-action/article/1924913",
-          "publishedOn": "2025-07-09T13:19:16.000Z",
-          "wordCount": 905,
-          "title": "GP News Update: 10-year plan 'threatens GP model', ARRS GP recruitment, NI collective action",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_8.jpg"
         }
       ]
     },
@@ -1888,18 +1858,7 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "e1a8f60e-a136-47af-87f2-816581178f62",
-          "author": "enquiries@nhsdigital.nhs.uk (Susie Day)",
-          "description": "Susie Day, Programme Director for the NHS App, looks at what’s changed since the app’s launch in January 2019 and how its services are evolving post-COVID.\n\r\n\r\nNHS 75 is an incredibly proud moment for me and, I hope, for all the people who work so hard across the NHS and its wider ecosystem to provide care for patients up and down the country.\n\r\n\r\nIn the lead up to the NHS 75 celebrations, I have reflected on what has changed since NHS 70 and, particularly, about the evolution of the NHS App since its launch at the beginning of 2019.",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2023/the-nhs-app-after-the-pandemic",
-          "publishedOn": "2025-07-09T13:53:19.000Z",
-          "wordCount": null,
-          "title": "The NHS App after the pandemic",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tech Talk Feed",
@@ -1964,16 +1923,6 @@
           "publishedOn": "2025-07-10T09:35:57.000Z",
           "wordCount": null,
           "title": "Our new approach to migrating Spine to the cloud",
-          "imageUrl": null
-        },
-        {
-          "id": "eb00fd28-2c90-4b88-a85e-13844eee2e30",
-          "author": "enquiries@nhsdigital.nhs.uk (Bharat Sharma)",
-          "description": "Bharat Sharma, Senior Product Manager in the Standards and Interoperability team at NHS England, explains what they are doing to improve access to standards across the NHS.\n\r\n\r\nIt’s a bit like the old philosophical question ‘If a tree falls in a forest and no one is around to hear it, does it make a sound?’:\n\r\n\r\nIf a standard is published but people don’t know about it, is it a standard?",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2022/discovering-data-standards-together",
-          "publishedOn": "2025-07-09T13:21:01.000Z",
-          "wordCount": null,
-          "title": "Discovering data standards together",
           "imageUrl": null
         }
       ]
@@ -2104,26 +2053,6 @@
           "publishedOn": "2025-07-10T16:18:26.000Z",
           "wordCount": null,
           "title": "Overcoming barriers to GP registration",
-          "imageUrl": null
-        },
-        {
-          "id": "a89c9880-1224-4104-b027-4d1828b9bf2c",
-          "author": "enquiries@nhsdigital.nhs.uk (Rhiannon Smith)",
-          "description": "Rhiannon Smith, Content Designer for NHS.UK, explains how the NHS website team are making content about skin symptoms more inclusive.\n\r\n\r\nNHS Digital design principles say: “Be inclusive: NHS services are for everyone. Make sure people with different physical, mental health, social, cultural or learning needs can use your design.”\n\r\n\r\nHowever, on the NHS website, skin symptoms are mostly described in terms of how they appear on white skin. There are very few examples of what skin problems and conditions look like on various skin tones.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2021/making-content-about-skin-symptoms-more-inclusive",
-          "publishedOn": "2025-07-09T15:19:46.000Z",
-          "wordCount": null,
-          "title": "Making content about skin symptoms more inclusive",
-          "imageUrl": null
-        },
-        {
-          "id": "66ac90f8-24b7-442a-9388-f37f0e4c8e5e",
-          "author": "enquiries@nhsdigital.nhs.uk (Brie Whyatt)",
-          "description": "Brie Whyatt, Interaction Design Graduate, explains how the NHS App team improved the appointment booking process in the app by creating user stories, using the NHS digital service manual and doing usability tests to help patients and GP surgeries during this exceptionally challenging winter.\n\r\n\r\nMany GP surgeries across the country offer patients the ability to book their appointments in the NHS App. Online appointment booking enables patients to access primary care digitally, which eases pressure on GP surgery staff, who are facing the extreme clinical challenges of the coronavirus pandemic during the already difficult winter months.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2021/meeting-user-needs-in-the-face-of-winter",
-          "publishedOn": "2025-07-09T13:55:54.000Z",
-          "wordCount": null,
-          "title": "Meeting user needs in the face of winter",
           "imageUrl": null
         }
       ]
