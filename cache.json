@@ -1854,36 +1854,6 @@
           "wordCount": null,
           "title": "6 things we learned from the COVID-19 home testing rollout",
           "imageUrl": null
-        },
-        {
-          "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
-          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
-          "description": "Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.\n\r\n\r\nFor the past 3 years, we have been on a mission to make integration easier within the NHS for people building healthcare technology.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-does-good-look-like-for-apis",
-          "publishedOn": "2025-07-10T16:07:04.000Z",
-          "wordCount": null,
-          "title": "What does good look like for APIs?",
-          "imageUrl": null
-        },
-        {
-          "id": "13f419d4-1d3b-4957-b1c9-14ddae00dacc",
-          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
-          "description": "Business analyst Matthew Firth gives an update on what NHS Digital has been doing to progress the API ‘sunsetting’ strategy to retire some of our APIs over the last year. \n\r\n\r\nLast year we published our blog ‘What happens when we ‘sunset’ our APIs?’ in which Munish Jokhani explained how we actively deprecate (where we advise of our intention to retire the API while retaining all existing service levels) and retire our APIs, and the effect this had on developers. By working with our suppliers and engaging them early in the process, we found that we were able to agree and align the retirement dates so that we met our suppliers’ requirements.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/what-we-have-learned-about-retiring-apis",
-          "publishedOn": "2025-07-10T16:05:45.000Z",
-          "wordCount": null,
-          "title": "What we have learned about retiring APIs",
-          "imageUrl": null
-        },
-        {
-          "id": "3208609c-d040-40d0-808a-4235a41af0d7",
-          "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
-          "description": "Business analyst Matthew Firth talks about the expansion of NHS Digital’s application programming interface (API) and integration catalogue which, for the first time, will now include external APIs.  \n\r\n\r\nHistorically, we have only represented NHS Digital APIs in our API and integration catalogue. The reason is that the Developer hub was set up as a space where API consumers can learn about the NHS Digital onboarding journey and identify the APIs which they’d like to onboard with. It made sense to only represent our NHS Digital APIs in there and aimed to avoid confusion or dilute our onboarding journey for external suppliers and partners.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2022/why-were-opening-up-our-api-catalogue",
-          "publishedOn": "2025-07-10T16:04:32.000Z",
-          "wordCount": null,
-          "title": "Why we're opening up our API and integration catalogue",
-          "imageUrl": null
         }
       ]
     },
@@ -2003,16 +1973,6 @@
           "publishedOn": "2025-07-11T08:15:11.000Z",
           "wordCount": null,
           "title": "How to place users at the heart of multimedia storytelling",
-          "imageUrl": null
-        },
-        {
-          "id": "4ce59580-b2f3-41b5-bc71-42b15237de2f",
-          "author": "enquiries@nhsdigital.nhs.uk (Tamara Farrar)",
-          "description": "Everyone should be able to register with a GP surgery. Senior User Researcher Tamara Farrar worked with seldom heard groups to ensure their needs were considered when designing a new registration service.\n\r\n\r\nAnyone in England can register with a GP surgery. It’s free. You do not need proof of address. You do not need to give details of your immigration status and it’s not necessary to have an NHS number to hand.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2022/overcoming-barriers-to-gp-registration",
-          "publishedOn": "2025-07-10T16:18:26.000Z",
-          "wordCount": null,
-          "title": "Overcoming barriers to GP registration",
           "imageUrl": null
         }
       ]
@@ -3108,16 +3068,6 @@
           "wordCount": 3131,
           "title": "Boost for GP practices to help people back to work",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds",
-          "author": null,
-          "description": "Report on the uplifts to the member contribution tier thresholds in the NHS Pension Scheme from 1 April 2025.",
-          "link": "https://www.gov.uk/government/publications/nhs-pension-scheme-changes-to-contribution-tier-thresholds",
-          "publishedOn": "2025-07-10T15:49:53.000Z",
-          "wordCount": 833,
-          "title": "Policy paper: NHS Pension Scheme: changes to contribution tier thresholds",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3492,16 +3442,6 @@
           "wordCount": 2169,
           "title": "WHO Member States hold first meeting, agree on next steps to take forward key elements of the WHO Pandemic Agreement",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/groups/intergovernmental-working-group-(igwg)/igwg-co-chairs.tmb-1200v.jpeg?sfvrsn=4e69a761_2"
-        },
-        {
-          "id": "urn:uuid:d02d9492-de75-40ae-8c6c-6ff06b016a42",
-          "author": null,
-          "description": "Concurring with the advice unanimously expressed by the Committee during the meeting, the WHO Director-General determined that the upsurge of mpox 2024 continues to meet the criteria of a public health emergency of international concern (PHEIC) and, accordingly, on 9 June 2025, issued temporary recommendations to States Parties.",
-          "link": "https://www.who.int/news/item/10-07-2025-fourth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-upsurge-of-mpox-2024",
-          "publishedOn": "2025-07-10T15:40:06.000Z",
-          "wordCount": 9430,
-          "title": "Fourth meeting of the International Health Regulations (2005) Emergency Committee regarding the upsurge of mpox 2024",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/mpox/mpox_laboratory_drc_2024.tmb-1200v.jpg?sfvrsn=2721a10d_6"
         }
       ]
     },
