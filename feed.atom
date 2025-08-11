@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-11T12:28:36.653Z</updated>
+    <updated>2025-08-11T13:32:55.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Managing a robust and resilient supply of medicines]]></title>
+        <id>https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines</id>
+        <link href="https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines"/>
+        <updated>2025-08-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DHSC and NHS England’s ongoing work and future plans to improve shortage management and strengthen medicines supply chain resilience.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Managing a robust and resilient supply of medicines: data pack]]></title>
+        <id>https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines-data-pack</id>
+        <link href="https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines-data-pack"/>
+        <updated>2025-08-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data supporting DHSC and NHS England’s ongoing work and future plans to improve shortage management and strengthen medicines supply chain resilience.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4689 - Exploitation of WinRAR Vulnerability CVE-2025-8088]]></title>
+        <id>17b8da15-60a5-4a4f-9f40-89e3cf45e04c</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4689"/>
+        <updated>2025-08-11T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Exploitation of vulnerability in RARLab's WinRAR could allow an attacker to execute arbitrary code
+ Exploitation of vulnerability in RARLab's WinRAR could allow an attacker to execute arbitrary code
+ Updated: 11 Aug 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 400k use NHS App prescription tracker since launch]]></title>
+        <id>https://www.digitalhealth.net/?p=237151</id>
+        <link href="https://www.digitalhealth.net/2025/08/nearly-400k-use-nhs-app-prescription-tracker-since-launch/"/>
+        <updated>2025-08-11T12:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 400,000 people have used a prescription tracking feature in the NHS App in the first 10 weeks since its launch,  said NHS England.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Virginity testing and hymenoplasty multi-agency guidance]]></title>
         <id>https://www.gov.uk/government/publications/virginity-testing-and-hymenoplasty-multi-agency-guidance</id>

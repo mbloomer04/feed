@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "17b8da15-60a5-4a4f-9f40-89e3cf45e04c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of vulnerability in RARLab's WinRAR could allow an attacker to execute arbitrary code\n Exploitation of vulnerability in RARLab's WinRAR could allow an attacker to execute arbitrary code\n Updated: 11 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4689",
+          "publishedOn": "2025-08-11T12:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4689 - Exploitation of WinRAR Vulnerability CVE-2025-8088",
+          "imageUrl": null
+        },
+        {
           "id": "5943617f-0746-424b-b374-70e0b5ea4148",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Updated: 08 Aug 2025",
@@ -2040,6 +2050,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines",
+          "author": null,
+          "description": "DHSC and NHS England’s ongoing work and future plans to improve shortage management and strengthen medicines supply chain resilience.",
+          "link": "https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines",
+          "publishedOn": "2025-08-11T13:00:00.000Z",
+          "wordCount": 1077,
+          "title": "Policy paper: Managing a robust and resilient supply of medicines",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines-data-pack",
+          "author": null,
+          "description": "Data supporting DHSC and NHS England’s ongoing work and future plans to improve shortage management and strengthen medicines supply chain resilience.",
+          "link": "https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines-data-pack",
+          "publishedOn": "2025-08-11T13:00:00.000Z",
+          "wordCount": 973,
+          "title": "Research: Managing a robust and resilient supply of medicines: data pack",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/virginity-testing-and-hymenoplasty-multi-agency-guidance",
           "author": null,
           "description": "Guidance for organisations and anyone who may come in to contact with women and girls affected by virginity testing and hymenoplasty.",
@@ -3290,6 +3320,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=237151",
+          "author": "Jordan Sollof",
+          "description": "Nearly 400,000 people have used a prescription tracking feature in the NHS App in the first 10 weeks since its launch,  said NHS England.",
+          "link": "https://www.digitalhealth.net/2025/08/nearly-400k-use-nhs-app-prescription-tracker-since-launch/",
+          "publishedOn": "2025-08-11T12:30:48.000Z",
+          "wordCount": 5818,
+          "title": "Nearly 400k use NHS App prescription tracker since launch",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/shutterstock_2285254059-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=237171",
           "author": "Jordan Sollof",
