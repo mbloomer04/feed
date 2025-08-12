@@ -1231,26 +1231,6 @@
           "wordCount": 2313,
           "title": "Podcast: What does the NHS 10-year plan hold in store for GPs? And are digital rectal exams a thing of the past?",
           "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/04/7226-Pulse-in-focus-podcast-logo-assets-v1_1200x800px.png"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=163408",
-          "author": "Sofia Lind",
-          "description": "The RCGP has warned more needs to be done to reduce air pollution after its figures showed a large rise in asthma exacerbations. Already this year, GPs in England have dealt with 45,458 patients with chronic asthma exacerbations – 45% higher than for the same period last year, the RCGP said. Data from the RCGP-Oxford\nThe post RCGP issues alert on pollution after rising asthma consultations appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/clinical-areas/respiratory/rcgp-issues-alert-on-pollution-after-rising-asthma-consultations/",
-          "publishedOn": "2025-07-14T11:04:24.000Z",
-          "wordCount": 2397,
-          "title": "RCGP issues alert on pollution after rising asthma consultations",
-          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/04/asthma.jpg"
-        },
-        {
-          "id": "https://www.pulsetoday.co.uk/?p=163708",
-          "author": "Anna Colivicchi",
-          "description": "Exclusive NHS England will allow a GP working exclusively for an ambulance trust to remain on the medical performers list. A Performers List Decision Panel (PLDP) has backed Dr Phil Brown’s argument for staying on the performers list, saying that his work for North East Ambulance Service (NEAS) does amount to providing primary care services.\nThe post Ambulance trust GP to be allowed to remain on performers list appeared first on Pulse Today.",
-          "link": "https://www.pulsetoday.co.uk/news/urgent-care/ambulance-trust-gp-to-be-allowed-to-remain-on-performers-list/",
-          "publishedOn": "2025-07-14T10:40:17.000Z",
-          "wordCount": 2341,
-          "title": "Ambulance trust GP to be allowed to remain on performers list",
-          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2022/09/WMAS-apologise-for-EPR-blaming-GPs-for-ambulance-delay.png"
         }
       ]
     },
@@ -1864,16 +1844,6 @@
           "wordCount": null,
           "title": "How we’re modernising electronic prescribing",
           "imageUrl": null
-        },
-        {
-          "id": "06e851d7-3e29-493b-a43c-837535483967",
-          "author": "enquiries@nhsdigital.nhs.uk (Richard Taylforth)",
-          "description": "Throughout the coronavirus pandemic, the home testing service enabled millions to order PCR tests and rapid lateral flow tests to their homes. Richard Taylforth, a Delivery Manager who worked on the service, explains how we did it.\n\r\n\r\nThe home testing service played a critical role in the national pandemic response, enabling people to test themselves quickly and accurately.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2022/6-things-we-learned-from-the-covid-19-home-testing-rollout",
-          "publishedOn": "2025-07-14T10:59:46.000Z",
-          "wordCount": null,
-          "title": "6 things we learned from the COVID-19 home testing rollout",
-          "imageUrl": null
         }
       ]
     },
@@ -1887,18 +1857,7 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
-          "author": "enquiries@nhsdigital.nhs.uk (Darren Hickling)",
-          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
-          "publishedOn": "2025-07-14T10:53:30.000Z",
-          "wordCount": null,
-          "title": "A new way to find patients",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Design Matters Blog Feed",
@@ -1933,46 +1892,6 @@
           "publishedOn": "2025-07-14T12:47:09.000Z",
           "wordCount": null,
           "title": "Joining forces to champion user-centred design",
-          "imageUrl": null
-        },
-        {
-          "id": "60319f0e-d5e5-4e03-a37e-d5a4df210cc0",
-          "author": "enquiries@nhsdigital.nhs.uk (Laura Hajba)",
-          "description": "The team developing the COVID-19 vaccine booking service changed questions about gender to improve the service for transgender and non-binary people, says Senior Content Designer Laura Hajba.\n\r\n\r\nAs we developed the COVID-19 national booking service in Autumn 2020, we became aware that a question that asked users for their gender might be a barrier for some people wanting to book a vaccine.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2022/making-booking-a-vaccine-more-inclusive",
-          "publishedOn": "2025-07-14T11:10:03.000Z",
-          "wordCount": null,
-          "title": "Making booking a vaccine more inclusive",
-          "imageUrl": null
-        },
-        {
-          "id": "08257b1c-4eab-4044-9c04-fb11f4d5377c",
-          "author": "enquiries@nhsdigital.nhs.uk (Rich Kelly)",
-          "description": "Rich Kelly from the NHS website’s multimedia team explains how they provide video that is accessible, relatable and sometimes life-saving for their audiences.\n\r\n\r\nThe NHS is available to all so it's really crucial that the content on the NHS website must be available to all.\n\r\n\r\nIt is the UK’s biggest health website with more than 50 million visits every month and the NHS videos on the website and You Tube Channel  attracted over 28 million views in 2020. This indicates just how vital the video content is to our audience who need to absorb important information quickly and easily.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2021/creating-content-that-saves-lives",
-          "publishedOn": "2025-07-14T10:37:26.000Z",
-          "wordCount": null,
-          "title": "Creating content that saves lives",
-          "imageUrl": null
-        },
-        {
-          "id": "f2f93663-feed-48b7-863f-3263b3eff2e9",
-          "author": "enquiries@nhsdigital.nhs.uk (Caroline Finucane)",
-          "description": "Caroline Finucane, who leads the content team for the COVID-19 testing service, shares some principles that will be useful for anyone working on a fast-paced, complex government project.\n\r\n\r\nOver the last 16 months of managing the digital content for the COVID-19 testing programme I have learnt much about how complex, high-priority UK-wide projects are run.\n\r\n\r\nI’m sharing what I’ve taken away as these principles will be helpful for anyone working on a UK-wide government digital service, even if COVID-19 has brought unprecedented challenges.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2021/covid-19-testing-5-things-ive-learnt-as-content-lead",
-          "publishedOn": "2025-07-14T10:27:27.000Z",
-          "wordCount": null,
-          "title": "COVID-19 testing: 5 things I’ve learnt as content lead",
-          "imageUrl": null
-        },
-        {
-          "id": "7fc46058-df40-41d4-855a-4cd9e27dc06b",
-          "author": "enquiries@nhsdigital.nhs.uk (Caroline Finucane)",
-          "description": "Caroline Finucane, Lead Content Manager in the COVID-19 testing programme, explains her team’s challenges when ensuring only eligible users could order a free COVID-19 test.\n\r\n\r\nAt the start of the COVID-19 pandemic, free coronavirus tests were only for key workers so they could continue their critical work. But eligibility for tests would soon change as infection rates started to spike.\n\r\n\r\nWe were ready for the first surge, which came in October 2020. The government swiftly kickstarted the expansion of testing with rapid lateral flow tests. We wanted everyone to ‘Get a free NHS COVID-19 test’.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2022/covid-19-testing-tackling-eligibility",
-          "publishedOn": "2025-07-14T10:26:35.000Z",
-          "wordCount": null,
-          "title": "COVID-19 testing: Tackling eligibility",
           "imageUrl": null
         }
       ]
@@ -4099,16 +4018,6 @@
           "wordCount": 5797,
           "title": "North Bristol opens medical centre for 3D scanning and printing",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Bristol-3D-Medical-Centre.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=234363",
-          "author": "Cora Lydon",
-          "description": "An AI tool which can support early detection for prostate cancer diagnoses, is to be trialled over a two years at seven NHS hospitals.",
-          "link": "https://www.digitalhealth.net/2025/07/ai-tool-for-cancer-detection-to-be-trialled-at-seven-nhs-hospitals/",
-          "publishedOn": "2025-07-14T11:00:59.000Z",
-          "wordCount": 3922,
-          "title": "AI tool for cancer detection to be trialled at seven NHS hospitals",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/QUIBIM_PLATFORM37-1.jpg"
         }
       ]
     }
