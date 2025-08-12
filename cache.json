@@ -2110,6 +2110,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/new-help-for-patients-battling-obesity-through-pharmacies-and-community-access",
+          "author": null,
+          "description": "Tens of thousands of NHS patients living with obesity could get cutting-edge help to improve their health, thanks to a new health innovation programme",
+          "link": "https://www.gov.uk/government/news/new-help-for-patients-battling-obesity-through-pharmacies-and-community-access",
+          "publishedOn": "2025-08-12T08:00:05.000Z",
+          "wordCount": 3255,
+          "title": "New help for patients battling obesity through pharmacies and community access",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/689a0088ad0cbc0e27643242/s960_EliLillyAnnouncement1_govuk.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/managing-a-robust-and-resilient-supply-of-medicines",
           "author": null,
           "description": "DHSC and NHS England’s ongoing work and future plans to improve shortage management and strengthen medicines supply chain resilience.",
@@ -3380,6 +3390,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=237253",
+          "author": "Jordan Sollof",
+          "description": "A partnership in the East of England has enabled frontline ambulance crews to consult stroke specialists via video.",
+          "link": "https://www.digitalhealth.net/2025/08/east-of-england-partnership-enables-stroke-triage-via-live-video/",
+          "publishedOn": "2025-08-12T07:30:33.000Z",
+          "wordCount": 3916,
+          "title": "East of England partnership enables stroke triage via live video",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/EEAST-ambulance.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=237151",
           "author": "Jordan Sollof",
