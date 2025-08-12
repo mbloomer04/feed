@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-12T10:14:39.609Z</updated>
+    <updated>2025-08-12T11:11:44.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=235659</id>
+        <link href="https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-93/"/>
+        <updated>2025-08-12T10:30:36.000Z</updated>
+        <summary type="html"><![CDATA[This edition of coffee time includes news from the NHS Ambulance Radio Programme and a DIY heart monitor from Phillips for NHS patients.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Unplugged: Mobile technology in healthcare]]></title>
         <id>https://www.digitalhealth.net/?p=236349</id>
