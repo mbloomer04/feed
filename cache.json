@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1928536",
+          "author": null,
+          "description": "Up to 30,000 GP appointments could be saved a year by supporting more pregnant women to self-refer to maternity services, NHS England has said.",
+          "link": "https://www.gponline.com/maternity-self-referrals-free-30000-gp-appointments-year/article/1928536",
+          "publishedOn": "2025-08-11T23:05:00.000Z",
+          "wordCount": 734,
+          "title": "Maternity self-referrals could free up 30,000 GP appointments a year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPvisit-GettyImages-sturti_7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1928552",
           "author": null,
           "description": "The government is 'committed to the partnership model' and will start talks on 'retaining and reforming the practice-based contract for general practice' in September, health and social care secretary Wes Streeting has said.",
@@ -1952,6 +1962,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=270959",
+          "author": "jboshell",
+          "description": "Hundreds of thousands of newly pregnant women across England can now self-refer online to get their “all-important” first midwife appointments quicker, ensuring the best and most personalised care for their baby. By completing a simple online form on NHS.uk, mums-to-be can now refer themselves directly to their local maternity services without seeing a GP first. […]",
+          "link": "https://www.england.nhs.uk/2025/08/mums-to-be-to-skip-the-gp-to-get-faster-first-nhs-midwife-appointments/",
+          "publishedOn": "2025-08-11T23:01:15.000Z",
+          "wordCount": 1723,
+          "title": "Mums-to-be to skip the GP to get faster first NHS midwife appointments",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=270924",
           "author": "nowen",
