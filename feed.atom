@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-13T14:14:23.053Z</updated>
+    <updated>2025-08-13T15:12:00.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Job crisis 'fragmenting' working lives of newly-qualified GPs]]></title>
+        <id>https://www.gponline.com/article/1928748</id>
+        <link href="https://www.gponline.com/job-crisis-fragmenting-working-lives-newly-qualified-gps/article/1928748"/>
+        <updated>2025-08-13T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Newly-qualified GPs are being forced into 'patchwork careers' - taking on multiple part-time jobs to earn a living, a GP trainer has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4691 - Fortinet Releases Security Advisory for Authentication Bypass Vulnerability]]></title>
         <id>6eaa34b3-f47d-4e75-921b-bdde4d0033c4</id>
