@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6ab2dd7a-dca1-469e-9c57-28c494fa448a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updated: 14 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4692",
+          "publishedOn": "2025-08-14T12:52:00.000Z",
+          "wordCount": null,
+          "title": "CC-4692 - N-able Releases Critical Security Update for N-central",
+          "imageUrl": null
+        },
+        {
           "id": "6eaa34b3-f47d-4e75-921b-bdde4d0033c4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise\n CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise\n Updated: 13 Aug 2025",
@@ -2079,6 +2089,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/baroness-amos-to-spearhead-maternity-and-neonatal-investigation",
+          "author": null,
+          "description": "Baroness Amos has been selected to lead the independent investigation into NHS maternity and neonatal care to drive urgent improvements to care and safety.",
+          "link": "https://www.gov.uk/government/news/baroness-amos-to-spearhead-maternity-and-neonatal-investigation",
+          "publishedOn": "2025-08-14T13:25:59.000Z",
+          "wordCount": 1987,
+          "title": "Baroness Amos to spearhead maternity and neonatal Investigation",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/calls-for-evidence/private-non-nhs-prescribing",
           "author": null,
           "description": "This call for evidence seeks views on how the current system operates in relation to patient access to medicines through private (non-NHS) routes.",
@@ -3279,6 +3299,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=237799",
+          "author": "Cora Lydon",
+          "description": "HealthTech firm Sanome has gained regulatory approval for its AI warning system which predicts and prevents healthcare-associated infections.",
+          "link": "https://www.digitalhealth.net/2025/08/sanome-pproves-ai-tool-to-detect-healthcare-associated-infections/",
+          "publishedOn": "2025-08-14T12:30:09.000Z",
+          "wordCount": null,
+          "title": "MHRA approves AI tool to detect healthcare-associated infections",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=237735",
           "author": "Tammy Lovell",
