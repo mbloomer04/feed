@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-14T09:16:31.392Z</updated>
+    <updated>2025-08-14T10:14:45.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish accelerator invests £1m in female-led HealthTech startups]]></title>
+        <id>https://www.digitalhealth.net/?p=237423</id>
+        <link href="https://www.digitalhealth.net/2025/08/scottish-accelerator-invests-1m-in-female-led-healthtech-startups/"/>
+        <updated>2025-08-14T10:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Three female cofounded HealthTech firms have secured over £1m investment from STAC, Scotland’s industry-led accelerator for tech start-ups.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS publishes strike impact data following a record June for treatments]]></title>
+        <id>https://www.england.nhs.uk/?p=271201</id>
+        <link href="https://www.england.nhs.uk/2025/08/nhs-publishes-strike-impact-data-following-a-record-june-for-treatments/"/>
+        <updated>2025-08-14T09:13:19.000Z</updated>
+        <summary type="html"><![CDATA[The NHS performed a record number of checks for treatments, cancer checks and other tests for June, as 18-week performance hit its best level in 3 years. NHS staff pulled out all the stops to treat a record number of patients in any June, with 103,563 – or 2% – more treatments delivered than the […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI assistance may lead to loss of skills in health professionals]]></title>
         <id>https://www.digitalhealth.net/?p=237729</id>
