@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1927163",
+          "author": null,
+          "description": "Talking General Practice speaks to chair of the Dispensing Doctors Association Dr Richard West about the crucial role dispensing practices play and the immense pressure they are under.",
+          "link": "https://www.gponline.com/podcast-address-challenges-facing-dispensing-gp-practices/article/1927163",
+          "publishedOn": "2025-08-15T07:05:00.000Z",
+          "wordCount": 719,
+          "title": "Podcast: How to address the challenges facing dispensing GP practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_RichardWest.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1928881",
           "author": null,
           "description": "A union representing physician associates is seeking a legal injunction to prevent NHS England changing their name to 'physician assistants' (PAs) and altering rules on the scope of the role following the Leng review.",
@@ -3089,6 +3099,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=237739",
+          "author": "Jordan Sollof",
+          "description": "This contracts and go lives roundup includes new electronic patient records for Luton Sexual Health and Northampton General Hospital.",
+          "link": "https://www.digitalhealth.net/2025/08/digital-healths-monthly-roundup-of-contracts-and-go-lives-55/",
+          "publishedOn": "2025-08-15T07:30:02.000Z",
+          "wordCount": null,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=237799",
           "author": "Cora Lydon",
