@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929060",
+          "author": null,
+          "description": "The RCGP has appointed a new chief executive who has promised to 'grow and develop' the college at a crucial time for general practice.",
+          "link": "https://www.gponline.com/rcgp-appoints-new-chief-executive/article/1929060",
+          "publishedOn": "2025-08-15T11:38:58.000Z",
+          "wordCount": 691,
+          "title": "RCGP appoints new chief executive",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP_chief_exec.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1929011",
           "author": null,
           "description": "GPs behind a county-wide provider board in the Midlands say the organisation is working to keep general practice front and centre as plans to roll out a neighbourhood NHS take shape.",
@@ -3139,6 +3149,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=237503",
+          "author": "Jordan Sollof",
+          "description": "The Dorset Care Record was accessed by over 175,000 health and social care professionals in July 2025, as a result of ongoing staff training.",
+          "link": "https://www.digitalhealth.net/2025/08/dorset-care-record-accessed-by-record-175k-staff-in-july-2025/",
+          "publishedOn": "2025-08-15T12:30:49.000Z",
+          "wordCount": null,
+          "title": "Dorset Care Record accessed by record 175k staff in July 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=237581",
           "author": "Jordan Sollof",
