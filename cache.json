@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2c22807b-cb2c-46c3-b066-0010a8b2d61f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n 21 advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n 21 advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n Updated: 15 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4693",
+          "publishedOn": "2025-08-15T11:12:00.000Z",
+          "wordCount": null,
+          "title": "CC-4693 - Cisco Releases August 2025 ASA, FMC, and FTD Software Security Advisory Bundled Publication",
+          "imageUrl": null
+        },
+        {
           "id": "6ab2dd7a-dca1-469e-9c57-28c494fa448a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updated: 14 Aug 2025",
@@ -122,6 +132,16 @@
       "feedUrl": "https://www.pulsetoday.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=77",
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=165054",
+          "author": "Harry Hetherington",
+          "description": "Exclusive The BMA has demanded urgent Government intervention over ‘unaffordable’ GP premises service charges, which have caused deep financial instability and forced some practices to hand back their contracts. The union’s GP committee pointed out ‘ongoing and unresolved issues’ faced by practices over service charges levied by NHS Property Services (NHSPS) and Community Health Partnerships\nThe post BMA demands Government intervention over ‘unaffordable’ GP premises charges  appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/premises/bma-demands-government-intervention-over-unaffordable-gp-premises-charges/",
+          "publishedOn": "2025-08-15T11:36:08.000Z",
+          "wordCount": 2554,
+          "title": "BMA demands Government intervention over ‘unaffordable’ GP premises charges",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/c_files/web/h/g/e/GettyImages-532334798-scaled-e1600958841875.jpg"
+        },
         {
           "id": "https://www.pulsetoday.co.uk/?p=165039",
           "author": "Caroline Price",
@@ -1219,6 +1239,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1929011",
+          "author": null,
+          "description": "GPs behind a county-wide provider board in the Midlands say the organisation is working to keep general practice front and centre as plans to roll out a neighbourhood NHS take shape.",
+          "link": "https://www.gponline.com/innovative-provider-board-positioning-gps-lead-neighbourhood-nhs/article/1929011",
+          "publishedOn": "2025-08-15T08:52:50.000Z",
+          "wordCount": 734,
+          "title": "How an innovative provider board is positioning GPs to lead a neighbourhood NHS",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign1_GettyImages-Marbury_RF_3.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1929015",
           "author": null,
