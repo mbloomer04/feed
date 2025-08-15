@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929015",
+          "author": null,
+          "description": "Nearly 1,000 dispensing practices across England that provide a lifeline for rural patients are finding it 'increasingly difficult' to survive cost pressures on multiple fronts, the Dispensing Doctors Association (DDA) has warned.",
+          "link": "https://www.gponline.com/survival-increasingly-difficult-dispensing-practices/article/1929015",
+          "publishedOn": "2025-08-15T08:27:19.000Z",
+          "wordCount": 719,
+          "title": "Survival 'increasingly difficult' for dispensing practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Richard_West_DDA.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1927163",
           "author": null,
           "description": "Talking General Practice speaks to chair of the Dispensing Doctors Association Dr Richard West about the crucial role dispensing practices play and the immense pressure they are under.",
@@ -1999,16 +2009,6 @@
           "publishedOn": "2025-07-17T13:06:13.000Z",
           "wordCount": 2376,
           "title": "NHS publishes waiting list breakdowns to tackle health inequalities",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=269686",
-          "author": "Tom W",
-          "description": "Hundreds of patients in East London are set to benefit as the NHS opened its first 24/7 neighbourhood mental health centre today – a key commitment under the 10 Year Health Plan – offering walk-in support for people with mental illness. Tower Hamlets in East London is the first community to benefit as the NHS […]",
-          "link": "https://www.england.nhs.uk/2025/07/first-nhs-round-the-clock-mental-health-unit-opens-under-10-year-health-plan/",
-          "publishedOn": "2025-07-16T23:01:08.000Z",
-          "wordCount": 1836,
-          "title": "First NHS round-the-clock mental health unit opens under 10 Year Health Plan",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2807,16 +2807,6 @@
           "wordCount": 950,
           "title": "Statutory guidance: Alternative Provider Medical Services (APMS) Directions",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/patients-with-long-term-conditions-to-receive-help-from-charities",
-          "author": null,
-          "description": "Hundreds of thousands of patients with long-term conditions will be automatically referred to specialist charities at the point of diagnosis.",
-          "link": "https://www.gov.uk/government/news/patients-with-long-term-conditions-to-receive-help-from-charities",
-          "publishedOn": "2025-07-16T23:00:00.000Z",
-          "wordCount": 5169,
-          "title": "Patients with long-term conditions to receive help from charities",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
