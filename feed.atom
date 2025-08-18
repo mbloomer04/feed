@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-18T12:27:43.361Z</updated>
+    <updated>2025-08-18T13:30:49.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-assisted tool on FDP will help write hospital discharge letters]]></title>
+        <id>https://www.digitalhealth.net/?p=238123</id>
+        <link href="https://www.digitalhealth.net/2025/08/ai-assisted-tool-on-fdp-will-help-write-hospital-discharge-letters/"/>
+        <updated>2025-08-18T12:30:50.000Z</updated>
+        <summary type="html"><![CDATA[The NHS federated data platform will host a new AI-assisted discharge summaries tool, the government has announced.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Adult Social Care Learning and Development Support Scheme]]></title>
         <id>https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme</id>
