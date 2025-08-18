@@ -1170,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929172",
+          "author": null,
+          "description": "Nearly 2,000 GPs and registrars have signed a petition asking the RCGP to call for an immediate ceasefire in Gaza.",
+          "link": "https://www.gponline.com/2000-gps-ask-rcgp-call-immediate-gaza-ceasefire/article/1929172",
+          "publishedOn": "2025-08-18T10:13:10.000Z",
+          "wordCount": 701,
+          "title": "2,000 GPs ask RCGP to call for immediate Gaza ceasefire",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Gaza_GettyImages-MahmoudIssaAnadolu.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1929168",
           "author": null,
           "description": "A union representing physician associates has lost a legal bid for an injunction to prevent changes to the role following the Leng review.",
@@ -1917,6 +1927,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "author": null,
+          "description": "Information for adult social care employers in England on learning and development support.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "publishedOn": "2025-08-18T12:22:18.000Z",
+          "wordCount": 1427,
+          "title": "Guidance: Adult Social Care Learning and Development Support Scheme",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/thousands-more-checks-tests-and-scans-available-out-of-hours",
           "author": null,
