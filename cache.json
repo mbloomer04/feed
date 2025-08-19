@@ -1783,6 +1783,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ea1c2aea-dcaf-4aa4-81dd-9de7a7d969a3",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Helen Pitts shares a video walk-though of the new Manage vaccinations in schools (Mavis) service, which helps those involved in school vaccinations handle the challenging logistics of vaccinating hundreds of children in a single day.\n\r\n\r\nManage vaccinations in schools (shortened to Mavis) is a digital service we're building to support vaccination providers around the country, so that they’re easier to manage and more effective.\n\r\n\r\nVaccination providers visit schools to deliver vaccinations to hundreds of children in a single day. This can require a great deal of planning, preparing, and coordination.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/an-easier-way-to-manage-vaccinations-in-schools",
+          "publishedOn": "2025-08-13T14:58:14.000Z",
+          "wordCount": null,
+          "title": "An easier way to manage vaccinations in schools",
+          "imageUrl": null
+        },
+        {
           "id": "7ef7fe29-9f0e-47f5-94ea-9f68fdd461ca",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Frankie and Mike explain why we revived the NHS prototype kit, the benefits of prototyping in code and how digital teams in the NHS can get started using it.\n\r\n\r\nThe NHS prototype kit was first developed in 2019 to make it easier for digital teams to rapidly design and test new digital services. It was inspired by the GOV.UK Prototype Kit and builds on the legacy of open-source public-sector design tools in the UK.",
@@ -1798,7 +1808,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "ea1c2aea-dcaf-4aa4-81dd-9de7a7d969a3",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Helen Pitts shares a video walk-though of the new Manage vaccinations in schools (Mavis) service, which helps those involved in school vaccinations handle the challenging logistics of vaccinating hundreds of children in a single day.\n\r\n\r\nManage vaccinations in schools (shortened to Mavis) is a digital service we're building to support vaccination providers around the country, so that they’re easier to manage and more effective.\n\r\n\r\nVaccination providers visit schools to deliver vaccinations to hundreds of children in a single day. This can require a great deal of planning, preparing, and coordination.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/an-easier-way-to-manage-vaccinations-in-schools",
+          "publishedOn": "2025-08-13T14:58:14.000Z",
+          "wordCount": null,
+          "title": "An easier way to manage vaccinations in schools",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
