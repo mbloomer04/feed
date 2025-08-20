@@ -1200,6 +1200,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929499",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-pa-union-loses-legal-bid-bma-contract-demands-nice-diabetes-guidance/article/1929499",
+          "publishedOn": "2025-08-20T13:40:50.000Z",
+          "wordCount": 711,
+          "title": "GP News Update: PA union loses legal bid, BMA contract demands, NICE diabetes guidance",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_12.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1929526",
+          "author": null,
+          "description": "Join a free case-based MIMS Learning webinar on Tuesday 2 September at 7-8pm.",
+          "link": "https://www.gponline.com/gps-need-know-immunotherapy-%E2%80%93-free-mims-learning-webinar/article/1929526",
+          "publishedOn": "2025-08-20T13:10:30.000Z",
+          "wordCount": 1065,
+          "title": "What GPs need to know about immunotherapy – free MIMS Learning webinar",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/ML-Singh-Leonard-858x575LIVE.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1929485",
           "author": null,
           "description": "Dual therapy with metformin and SGLT2 inhibitors should be offered to all people newly diagnosed with type 2 diabetes, draft NICE guidance says.",
