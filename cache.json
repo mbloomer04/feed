@@ -103,6 +103,26 @@
       "siteUrl": "https://www.pulsetoday.co.uk/",
       "articles": [
         {
+          "id": "https://www.pulsetoday.co.uk/?p=165180",
+          "author": "Harry Hetherington",
+          "description": "A new NHS England FAQ document appeared to water down ‘immediate actions’ which were issued to GP practices immediately following the publication of the Leng review into physician associates (PAs). NHS England wrote to organisations last week (15 August) to address ‘short-term uncertainty for affected staff groups’ and ‘provide clarity for staff, patients, and employers’\nThe post NHSE FAQ waters down physician associate review actions for GP practices appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/news/workforce/nhse-faq-waters-down-physician-associate-review-actions-for-gp-practices/",
+          "publishedOn": "2025-08-20T15:55:47.000Z",
+          "wordCount": 2566,
+          "title": "NHSE FAQ waters down physician associate review actions for GP practices",
+          "imageUrl": "https://s3-eu-west-2.amazonaws.com/images.pulsetoday.co.uk/wp-media-folder-pulse-today/wp-content/uploads/2025/01/physician-associate-PA-employment-negligence.jpg"
+        },
+        {
+          "id": "https://www.pulsetoday.co.uk/?p=165173",
+          "author": "Maya Dhillon",
+          "description": "Pulse editor Sofia Lind warns against using artificial intelligence as a substitute for GPs Artificial intelligence has just outscored GPs in MRCGP-style exams. Four large language models answered 100 AKT-style questions with scores of 95% to 99%, compared with the average GP mark of 73%. It is a striking result, but one to be cautious\nThe post NHS must resist the urge to replace GPs with AI appeared first on Pulse Today.",
+          "link": "https://www.pulsetoday.co.uk/views/editors-blog/nhs-must-resist-the-urge-to-replace-gps-with-ai/",
+          "publishedOn": "2025-08-20T15:45:45.000Z",
+          "wordCount": 2253,
+          "title": "NHS must resist the urge to replace GPs with AI",
+          "imageUrl": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/01/Sofia_Lind_1200x800px.jpg"
+        },
+        {
           "id": "https://www.pulsetoday.co.uk/?p=165123",
           "author": "Sofia Lind",
           "description": "Artificial intelligence (AI) tools have outscored GPs in clinical exams based on the MRCGP, which researchers argued strengthens the case for their role in supporting general practice. Researchers from University College London, King’s College London and Stanford University tested four large language models (LLMs) on 100 multiple-choice questions designed to mirror the Applied Knowledge Test\nThe post AI models outperform GPs in MRCGP-style exams appeared first on Pulse Today.",
@@ -1199,6 +1219,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1929451",
+          "author": null,
+          "description": "Employment of additional roles reimbursement scheme (ARRS) GPs could accelerate in 2025/26, GP leaders have suggested.",
+          "link": "https://www.gponline.com/arrs-gp-recruitment-could-accelerate-year/article/1929451",
+          "publishedOn": "2025-08-20T15:30:00.000Z",
+          "wordCount": 698,
+          "title": "ARRS GP recruitment 'could accelerate this year'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_17.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1929499",
           "author": null,
