@@ -1821,16 +1821,6 @@
           "wordCount": null,
           "title": "An easier way to manage vaccinations in schools",
           "imageUrl": null
-        },
-        {
-          "id": "7ef7fe29-9f0e-47f5-94ea-9f68fdd461ca",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Frankie and Mike explain why we revived the NHS prototype kit, the benefits of prototyping in code and how digital teams in the NHS can get started using it.\n\r\n\r\nThe NHS prototype kit was first developed in 2019 to make it easier for digital teams to rapidly design and test new digital services. It was inspired by the GOV.UK Prototype Kit and builds on the legacy of open-source public-sector design tools in the UK.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2025/why-we-are-reinvesting-in-the-nhs-prototype-kit",
-          "publishedOn": "2025-07-21T13:38:08.000Z",
-          "wordCount": null,
-          "title": "Why we are reinvesting in the NHS prototype kit",
-          "imageUrl": null
         }
       ]
     },
@@ -1873,18 +1863,7 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "7ef7fe29-9f0e-47f5-94ea-9f68fdd461ca",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Frankie and Mike explain why we revived the NHS prototype kit, the benefits of prototyping in code and how digital teams in the NHS can get started using it.\n\r\n\r\nThe NHS prototype kit was first developed in 2019 to make it easier for digital teams to rapidly design and test new digital services. It was inspired by the GOV.UK Prototype Kit and builds on the legacy of open-source public-sector design tools in the UK.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2025/why-we-are-reinvesting-in-the-nhs-prototype-kit",
-          "publishedOn": "2025-07-21T13:38:08.000Z",
-          "wordCount": null,
-          "title": "Why we are reinvesting in the NHS prototype kit",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NHS England",
