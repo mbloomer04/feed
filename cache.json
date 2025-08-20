@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "CC-4684 - Exploitation of CrushFTP Vulnerability CVE-2025-54309",
           "imageUrl": null
-        },
-        {
-          "id": "e640b7c0-d766-4cfc-8c27-f6aff963b177",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n CVE-2025-53770 and CVE-2025-53771 could allow a remote unauthenticated attacker to execute arbitrary code and disclose sensitive information\n Updated: 21 Jul 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4683",
-          "publishedOn": "2025-07-21T12:12:00.000Z",
-          "wordCount": null,
-          "title": "CC-4683 - Critical vulnerabilities in Microsoft SharePoint Server under zero-day exploitation",
-          "imageUrl": null
         }
       ]
     },
@@ -1901,6 +1891,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=271648",
+          "author": "nowen",
+          "description": "More than 100,000 people in England have now been tested for hepatitis C through the NHS’s confidential home testing service, in a major milestone towards eliminating the virus as a public health threat. England is one of the few countries in the world on track to eliminate hepatitis C well before the World Health Organization’s […]",
+          "link": "https://www.england.nhs.uk/2025/08/nhs-marks-major-milestone-with-100000-people-home-tested-for-hepatitis-c/",
+          "publishedOn": "2025-08-19T23:01:21.000Z",
+          "wordCount": 1936,
+          "title": "NHS marks major milestone with 100,000 people home tested for hepatitis C",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=271201",
           "author": "Tom W",
@@ -3728,16 +3728,6 @@
           "wordCount": 5879,
           "title": "NICE conditionally recommends AI tech to detect spinal fractures",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/07/shutterstock_2145845331-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=235097",
-          "author": "Tammy Lovell",
-          "description": "The UK’s compute infrastructure will be increased to deliver the processing power needed for AI to help develop new medical cures.",
-          "link": "https://www.digitalhealth.net/2025/07/uks-compute-roadmap-will-harness-ai-to-develop-medical-cures/",
-          "publishedOn": "2025-07-21T12:30:14.000Z",
-          "wordCount": 5875,
-          "title": "UK’s Compute Roadmap will harness AI to develop medical cures",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Peter-Kyle-.jpg"
         }
       ]
     }
