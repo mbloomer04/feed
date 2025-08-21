@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "996811d9-7e7b-471b-908b-4b776d339baa",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Updated: 21 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4694",
+          "publishedOn": "2025-08-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4694 - Commvault Releases Security Updates to Address Multiple Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "2c22807b-cb2c-46c3-b066-0010a8b2d61f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n 21 advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n 21 advisories are included in the semi-annual Cisco Adaptive Security Appliance Software (ASA), Firepower Management Center (FMC) Software, and Firepower Threat Defense (FTD) Software Security Advisory bundled publication\n Updated: 15 Aug 2025",
