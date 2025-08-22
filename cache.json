@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929735",
+          "author": null,
+          "description": "The GPonline team discusses the latest news affecting general practice.",
+          "link": "https://www.gponline.com/podcast-wes-streetings-letter-gps-pa-legal-fight-solving-gp-workforce-crisis/article/1929735",
+          "publishedOn": "2025-08-22T07:41:00.000Z",
+          "wordCount": 703,
+          "title": "Podcast: Wes Streeting’s letter to GPs, PA legal fight, solving the GP workforce crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_1005.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1928973",
           "author": null,
           "description": "The government has hailed 'considerable' improvements in general practice and said patients are now 'getting a better service' than a year ago. GPonline looks at what the data show.",
@@ -2842,6 +2852,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:ff49749b-eefa-4efc-bec8-6a24d01cadad",
+          "author": null,
+          "description": "The WHO and WMO have released a comprehensive technical report and guidance addressing the escalating global health and economic risks posed by extreme heat, particularly in the workplace. This guidance builds on five decades of research and responds to the record-breaking temperatures of recent years, with 2023 being the hottest year on record.",
+          "link": "https://www.who.int/news/item/22-08-2025-who-wmo-issue-new-report-and-guidance-to-protect-workers-from-increasing-heat-stress",
+          "publishedOn": "2025-08-15T12:33:53.000Z",
+          "wordCount": 2978,
+          "title": "WHO, WMO issue new report and guidance to protect workers from increasing heat stress",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/environment-climate-change-and-health-(ech)/dreamstime_xxl_80182040-cropped.tmb-1200v.jpg?sfvrsn=d1a80ad6_6"
+        },
+        {
           "id": "urn:uuid:973b1345-3db7-43eb-8a48-22b0e7d06dfa",
           "author": null,
           "description": "The World Health Organization (WHO) has officially designated Health Canada, the Ministry of Health, Labour and Welfare/Pharmaceuticals and Medical Devices Agency (MHLW/PMDA) of Japan, and the Medicines and Healthcare products Regulatory Agency (MHRA) of the United Kingdom as WHO-Listed Authorities (WLAs), a status granted to national authorities that meet the highest international regulatory standards for medical products.",
@@ -2928,6 +2948,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=238607",
+          "author": "Jordan Sollof",
+          "description": "This roundup includes the planned departures of both the chief executive and deputy chief executive at Leeds Teaching Hospitals NHS Trust.",
+          "link": "https://www.digitalhealth.net/2025/08/movers-and-shakers-news-roundup-62/",
+          "publishedOn": "2025-08-22T07:30:30.000Z",
+          "wordCount": null,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=238729",
           "author": "Tammy Lovell",
