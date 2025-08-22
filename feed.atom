@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-22T16:14:52.154Z</updated>
+    <updated>2025-08-22T17:11:26.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[Torbay Council has extended its partnership with System C to implement its adult social care case management and finance system.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Famine confirmed for first time in Gaza]]></title>
+        <id>urn:uuid:8ee931af-d8f8-4488-a021-a02cc9d8324a</id>
+        <link href="https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"/>
+        <updated>2025-08-22T09:09:25.000Z</updated>
+        <summary type="html"><![CDATA[More than half a million people in Gaza are trapped in famine, marked by widespread starvation, destitution and preventable deaths, according to a new Integrated Food Security Phase Classification (IPC) analysis released today. FAO, UNICEF, WFP and WHO reiterate call for immediate ceasefire and unhindered humanitarian access to curb deaths from hunger and malnutrition.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
