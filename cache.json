@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929777",
+          "author": null,
+          "description": "GP leaders have called for 'decisive government intervention' to settle long-standing service charge disputes that threaten the future of practices in NHS-owned premises.",
+          "link": "https://www.gponline.com/bma-demands-government-intervention-gp-service-charge-crisis/article/1929777",
+          "publishedOn": "2025-08-22T08:22:21.000Z",
+          "wordCount": 713,
+          "title": "BMA demands 'government intervention' over GP service charge crisis",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_premises_entrance-GettyImages-NickBeer_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1929735",
           "author": null,
           "description": "The GPonline team discusses the latest news affecting general practice.",
@@ -2958,6 +2968,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=238563",
+          "author": "Jordan Sollof",
+          "description": "Torbay Council has extended its partnership with System C to implement its adult social care case management and finance system.",
+          "link": "https://www.digitalhealth.net/2025/08/torbay-council-to-roll-out-system-c-software-for-adult-social-care/",
+          "publishedOn": "2025-08-22T10:00:10.000Z",
+          "wordCount": null,
+          "title": "Torbay Council to roll out System C software for adult social care",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=238607",
           "author": "Jordan Sollof",
