@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "CC-4686 - Active Exploitation of Gen 7 SonicWall Firewalls with SSL VPN Enabled",
           "imageUrl": null
-        },
-        {
-          "id": "22019baa-d5cc-4611-bbb5-ae7ffc051528",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n A critical authentication bypass vulnerability could allow a remote unauthenticated attacker to gain unauthorised access to user or admin accounts\n Updated: 24 Jul 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4685",
-          "publishedOn": "2025-07-24T13:40:00.000Z",
-          "wordCount": null,
-          "title": "CC-4685 - Mitel Releases Security Advisories for MiVoice MX-One and MiCollab",
-          "imageUrl": null
         }
       ]
     },
@@ -2626,16 +2616,6 @@
           "wordCount": 962,
           "title": "Impact assessment: Cervical screening: HPV self-sampling equality impact assessment",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/millions-more-appointments-as-more-than-2000-extra-gps-recruited",
-          "author": null,
-          "description": "Boost is part of Plan for Change to rebuild the NHS by shifting healthcare from hospitals into the community and ending the 8am scramble",
-          "link": "https://www.gov.uk/government/news/millions-more-appointments-as-more-than-2000-extra-gps-recruited",
-          "publishedOn": "2025-07-24T14:12:34.000Z",
-          "wordCount": 2100,
-          "title": "Millions more appointments as more than 2,000 extra GPs recruited",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
