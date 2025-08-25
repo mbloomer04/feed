@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-25T08:19:08.889Z</updated>
+    <updated>2025-08-25T09:15:16.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How tirzepatide has accelerated rising NHS diabetes costs]]></title>
+        <id>https://www.gponline.com/article/1929840</id>
+        <link href="https://www.gponline.com/tirzepatide-accelerated-rising-nhs-diabetes-costs/article/1929840"/>
+        <updated>2025-08-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[NHS prescribing costs for diabetes have doubled over the past decade - with a 15% rise over the past 12 months alone driven significantly by the weight-loss drug tirzepatide.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS scanning trucks help thousands get potentially life-saving liver cancer checks]]></title>
         <id>https://www.england.nhs.uk/?p=271938</id>
