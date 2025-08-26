@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-26T15:13:09.247Z</updated>
+    <updated>2025-08-26T16:15:16.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £500, July 2025]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2025</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2025"/>
+        <updated>2025-08-26T15:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4695 - Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway Under Active Exploitation]]></title>
         <id>2afa58c9-9879-4ae2-9895-7ff42dda1144</id>
