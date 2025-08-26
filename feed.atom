@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-26T09:14:09.637Z</updated>
+    <updated>2025-08-26T11:11:48.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=238333</id>
+        <link href="https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-97/"/>
+        <updated>2025-08-26T10:30:41.000Z</updated>
+        <summary type="html"><![CDATA[This Coffee Time includes AI guidance from NHSE's Digitising Social Care programme and a report on the cost of poor digital infrastructure.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish GP workforce reaches six-year high]]></title>
+        <id>https://www.gponline.com/article/1929961</id>
+        <link href="https://www.gponline.com/scottish-gp-workforce-reaches-six-year-high/article/1929961"/>
+        <updated>2025-08-26T10:02:37.000Z</updated>
+        <summary type="html"><![CDATA[The full-time equivalent (FTE) GP workforce in Scotland increased by 4% in the year to March 2025, official statistics show - reaching its highest level since before the pandemic.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Unplugged: What does the 10 year plan mean for HealthTech?]]></title>
+        <id>https://www.digitalhealth.net/?p=238859</id>
+        <link href="https://www.digitalhealth.net/2025/08/digital-health-unplugged-what-does-the-10-year-plan-mean-for-healthtech/"/>
+        <updated>2025-08-26T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Sollof is joined by Dame Barbara Hakin, chair of the Health Tech Alliance, to reflect on the government’s NHS 10 year health plan.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Croydon Sexual Health goes live with Inform Health EPR and PHR]]></title>
         <id>https://www.digitalhealth.net/?p=238733</id>

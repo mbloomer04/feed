@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1929961",
+          "author": null,
+          "description": "The full-time equivalent (FTE) GP workforce in Scotland increased by 4% in the year to March 2025, official statistics show - reaching its highest level since before the pandemic.",
+          "link": "https://www.gponline.com/scottish-gp-workforce-reaches-six-year-high/article/1929961",
+          "publishedOn": "2025-08-26T10:02:37.000Z",
+          "wordCount": 714,
+          "title": "Scottish GP workforce reaches six-year high",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/DrChrisProvanRCGPScotlandChair-ezgif.com-optijpeg_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1929840",
           "author": null,
           "description": "NHS prescribing costs for diabetes have doubled over the past decade - with a 15% rise over the past 12 months alone driven significantly by the weight-loss drug tirzepatide.",
@@ -2868,6 +2878,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=238333",
+          "author": "Cora Lydon",
+          "description": "This Coffee Time includes AI guidance from NHSE's Digitising Social Care programme and a report on the cost of poor digital infrastructure.",
+          "link": "https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-97/",
+          "publishedOn": "2025-08-26T10:30:41.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=238859",
+          "author": "Jordan Sollof",
+          "description": "Jordan Sollof is joined by Dame Barbara Hakin, chair of the Health Tech Alliance, to reflect on the government’s NHS 10 year health plan.",
+          "link": "https://www.digitalhealth.net/2025/08/digital-health-unplugged-what-does-the-10-year-plan-mean-for-healthtech/",
+          "publishedOn": "2025-08-26T10:00:52.000Z",
+          "wordCount": null,
+          "title": "Digital Health Unplugged: What does the 10 year plan mean for HealthTech?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=238733",
           "author": "Jordan Sollof",
