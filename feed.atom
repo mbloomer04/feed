@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-26T11:11:48.018Z</updated>
+    <updated>2025-08-26T12:27:04.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[This Coffee Time includes AI guidance from NHSE's Digitising Social Care programme and a report on the cost of poor digital infrastructure.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMCs raise alarm over unexpected GP contract variation]]></title>
+        <id>https://www.gponline.com/article/1929973</id>
+        <link href="https://www.gponline.com/lmcs-raise-alarm-unexpected-gp-contract-variation/article/1929973"/>
+        <updated>2025-08-26T10:17:37.000Z</updated>
+        <summary type="html"><![CDATA[LMCs have raised the alarm over an unexpected GP contract change requiring practices to make sure patients can contact them throughout core hours in person, by telephone and via online consultation tools.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
