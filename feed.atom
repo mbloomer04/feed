@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-26T14:12:04.462Z</updated>
+    <updated>2025-08-26T15:13:09.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4695 - Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway Under Active Exploitation]]></title>
+        <id>2afa58c9-9879-4ae2-9895-7ff42dda1144</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4695"/>
+        <updated>2025-08-26T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.
+ Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.
+ Updated: 26 Aug 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last chance to register for PrimaryCareLearnings 2025 face-to-face event]]></title>
+        <id>https://www.gponline.com/article/1925520</id>
+        <link href="https://www.gponline.com/last-chance-register-primarycarelearnings-2025-face-to-face-event/article/1925520"/>
+        <updated>2025-08-26T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Time is running out to secure your place at PrimaryCareLearning’s free, in-person masterclass – back for its fourth consecutive year and more relevant than ever.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxford-based MedTech firm OrganOx acquired for £1.2bn]]></title>
         <id>https://www.digitalhealth.net/?p=239041</id>

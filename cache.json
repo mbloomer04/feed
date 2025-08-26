@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2afa58c9-9879-4ae2-9895-7ff42dda1144",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.\n Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.\n Updated: 26 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4695",
+          "publishedOn": "2025-08-26T14:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4695 - Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway Under Active Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "996811d9-7e7b-471b-908b-4b776d339baa",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Updated: 21 Aug 2025",
@@ -1189,6 +1199,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1925520",
+          "author": null,
+          "description": "Time is running out to secure your place at PrimaryCareLearning’s free, in-person masterclass – back for its fourth consecutive year and more relevant than ever.",
+          "link": "https://www.gponline.com/last-chance-register-primarycarelearnings-2025-face-to-face-event/article/1925520",
+          "publishedOn": "2025-08-26T13:50:00.000Z",
+          "wordCount": 1082,
+          "title": "Last chance to register for PrimaryCareLearnings 2025 face-to-face event",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/pcl-858×575_3.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1929973",
           "author": null,
