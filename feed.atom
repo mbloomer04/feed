@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-27T12:24:58.464Z</updated>
+    <updated>2025-08-27T13:22:47.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Meningococcal C conjugate vaccine: advice for healthcare practitioners]]></title>
+        <id>https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners</id>
+        <link href="https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners"/>
+        <updated>2025-08-27T13:12:23.000Z</updated>
+        <summary type="html"><![CDATA[From summer 2013, changes to the meningococcal C vaccine schedule will offer better protection to teens and young adults, including those entering university for the first time.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Meningococcal C conjugate vaccine schedule training slideset]]></title>
+        <id>https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset</id>
+        <link href="https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset"/>
+        <updated>2025-08-27T13:11:49.000Z</updated>
+        <summary type="html"><![CDATA[This slideset outlines changes to the 2014 meningococcal C conjugate (MenC) vaccination programme to healthcare professionals (HCPs).]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4696 - Exploitation of Git Vulnerability CVE-2025-48384]]></title>
+        <id>544e0b7a-3a31-495d-95c0-1c6d84d5f72b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4696"/>
+        <updated>2025-08-27T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository
+ Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository
+ Updated: 27 Aug 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI outperforms GPs in MRCGP exams, finds study]]></title>
+        <id>https://www.digitalhealth.net/?p=238913</id>
+        <link href="https://www.digitalhealth.net/2025/08/ai-outperforms-gps-in-mrcgp-exams-finds-study/"/>
+        <updated>2025-08-27T12:30:25.000Z</updated>
+        <summary type="html"><![CDATA[A study found that chatbots outperformed GPs in questions based on the Membership of the Royal College of General Practitioners exam.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP News Update: Unexpected contract variation, service charge crisis, Scottish GP workforce rise]]></title>
         <id>https://www.gponline.com/article/1930151</id>
@@ -14,6 +57,16 @@
         <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shingles vaccine to be offered to hundreds of thousands more immunosuppressed adults]]></title>
+        <id>https://www.england.nhs.uk/?p=272089</id>
+        <link href="https://www.england.nhs.uk/2025/08/shingles-vaccine-to-be-offered-to-hundreds-of-thousands-more-immunosuppressed-adults/"/>
+        <updated>2025-08-27T11:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Around 300,000 more people will become eligible for a potentially lifesaving shingles vaccination from next week, as GP practices roll out the jab to protect all severely immunosuppressed adults. People newly eligible for the shingles vaccination from Monday 1 September are those aged 18 to 49 who have a severely weakened immune system. They will […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>

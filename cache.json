@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "544e0b7a-3a31-495d-95c0-1c6d84d5f72b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Updated: 27 Aug 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4696",
+          "publishedOn": "2025-08-27T12:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4696 - Exploitation of Git Vulnerability CVE-2025-48384",
+          "imageUrl": null
+        },
+        {
           "id": "2afa58c9-9879-4ae2-9895-7ff42dda1144",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.\n Advisory addresses three vulnerabilities that could allow for unauthenticated remote code execution, unauthorised access to the management interface, and denial-of-service. Citrix has observed exploitation of CVE-2025-7775 in the wild.\n Updated: 26 Aug 2025",
@@ -1861,6 +1871,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=272089",
+          "author": "rwootton",
+          "description": "Around 300,000 more people will become eligible for a potentially lifesaving shingles vaccination from next week, as GP practices roll out the jab to protect all severely immunosuppressed adults. People newly eligible for the shingles vaccination from Monday 1 September are those aged 18 to 49 who have a severely weakened immune system. They will […]",
+          "link": "https://www.england.nhs.uk/2025/08/shingles-vaccine-to-be-offered-to-hundreds-of-thousands-more-immunosuppressed-adults/",
+          "publishedOn": "2025-08-27T11:09:50.000Z",
+          "wordCount": 1652,
+          "title": "Shingles vaccine to be offered to hundreds of thousands more immunosuppressed adults",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=271938",
           "author": "Tom W",
           "description": "Thousands more people are being referred for potentially life-saving liver cancer checks following the expansion of the NHS’s community liver health check programme. The number of mobile liver scanning teams has almost doubled in the last 2 years, with 20 roaming teams now offering scans to communities in every region of England – up from […]",
@@ -1997,6 +2017,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners",
+          "author": null,
+          "description": "From summer 2013, changes to the meningococcal C vaccine schedule will offer better protection to teens and young adults, including those entering university for the first time.",
+          "link": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners",
+          "publishedOn": "2025-08-27T13:12:23.000Z",
+          "wordCount": 1131,
+          "title": "Guidance: Meningococcal C conjugate vaccine: advice for healthcare practitioners",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset",
+          "author": null,
+          "description": "This slideset outlines changes to the 2014 meningococcal C conjugate (MenC) vaccination programme to healthcare professionals (HCPs).",
+          "link": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset",
+          "publishedOn": "2025-08-27T13:11:49.000Z",
+          "wordCount": 1049,
+          "title": "Guidance: Meningococcal C conjugate vaccine schedule training slideset",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2025",
           "author": null,
@@ -2768,6 +2808,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=238913",
+          "author": "Tammy Lovell",
+          "description": "A study found that chatbots outperformed GPs in questions based on the Membership of the Royal College of General Practitioners exam.",
+          "link": "https://www.digitalhealth.net/2025/08/ai-outperforms-gps-in-mrcgp-exams-finds-study/",
+          "publishedOn": "2025-08-27T12:30:25.000Z",
+          "wordCount": null,
+          "title": "AI outperforms GPs in MRCGP exams, finds study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=238809",
           "author": "Tammy Lovell",
