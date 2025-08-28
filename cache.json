@@ -1798,16 +1798,6 @@
           "wordCount": 728,
           "title": "NHS hails 'important progress' on GP access as appointments hit new record",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_16.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1927237",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-extra-gp-contract-funding-bma-red-lines-avert-gp-dispute-10-year-plan-fears/article/1927237",
-          "publishedOn": "2025-07-30T11:00:00.000Z",
-          "wordCount": 704,
-          "title": "GP News Update: Extra GP contract funding, BMA red lines to avert GP dispute, 10-year plan fears",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_11.jpg"
         }
       ]
     },
@@ -2027,6 +2017,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children",
+          "author": null,
+          "description": "A free chickenpox vaccination will offered for first time to children across England on the NHS from January.",
+          "link": "https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children",
+          "publishedOn": "2025-08-28T23:05:06.000Z",
+          "wordCount": 2574,
+          "title": "Free chickenpox vaccination offered for first time to children",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/deprivation-of-liberty-safeguards-dols-data-collection",
           "author": null,
