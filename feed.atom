@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-28T11:10:11.386Z</updated>
+    <updated>2025-08-28T12:24:35.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[General practice facing 'busiest summer ever' as appointments spiral]]></title>
+        <id>https://www.gponline.com/article/1930295</id>
+        <link href="https://www.gponline.com/general-practice-facing-busiest-summer-ever-appointments-spiral/article/1930295"/>
+        <updated>2025-08-28T11:03:32.000Z</updated>
+        <summary type="html"><![CDATA[General practice is on track to have its busiest summer ever after delivering record numbers of appointments in June and July.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=238369</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[Researchers at Imperial College Healthcare have developed an AI tool to help identify people at risk of developing 'heart block'.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts question data showing double-digit GP partner income rise]]></title>
+        <id>https://www.gponline.com/article/1930275</id>
+        <link href="https://www.gponline.com/experts-question-data-showing-double-digit-gp-partner-income-rise/article/1930275"/>
+        <updated>2025-08-28T09:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Real-terms income for GP partners rose in 2023/24 but remains 11% below the 2021/22 total - while salaried GP income stagnated, data on GP earnings and expenses show.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
