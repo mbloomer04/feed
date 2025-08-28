@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-28T10:13:23.107Z</updated>
+    <updated>2025-08-28T11:10:11.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=238369</id>
+        <link href="https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-98/"/>
+        <updated>2025-08-28T10:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Briefing includes language barriers and how it impacts care delivery and the new European Data and AI Policy Manifesto.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI tool developed to identify risk of fatal heart condition]]></title>
         <id>https://www.digitalhealth.net/?p=239003</id>
