@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-28T09:13:32.286Z</updated>
+    <updated>2025-08-28T10:13:23.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI tool developed to identify risk of fatal heart condition]]></title>
+        <id>https://www.digitalhealth.net/?p=239003</id>
+        <link href="https://www.digitalhealth.net/2025/08/imperial-researchers-develop-ai-tool-to-identify-heart-block/"/>
+        <updated>2025-08-28T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Imperial College Healthcare have developed an AI tool to help identify people at risk of developing 'heart block'.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Busiest July on record for general practice teams]]></title>
+        <id>https://www.england.nhs.uk/?p=272118</id>
+        <link href="https://www.england.nhs.uk/2025/08/busiest-july-on-record-for-general-practice-teams/"/>
+        <updated>2025-08-28T08:39:47.000Z</updated>
+        <summary type="html"><![CDATA[General practice teams have delivered a record 33.6 million appointments in July 2025, up 4.3% on the year before and up nearly a quarter on the same period pre-pandemic (24.3% increase since 2019).  Today’s statistics show the NHS is on-track for its busiest summer ever in general practice, with record appointments also delivered in June 2025. GP teams […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHSE seeking Health Data Research Service CEO and chair]]></title>
         <id>https://www.digitalhealth.net/?p=239605</id>
