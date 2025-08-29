@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-29T07:12:27.976Z</updated>
+    <updated>2025-08-29T08:16:20.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scottish MedTech firm launches paediatric sleep diagnosis study]]></title>
+        <id>https://www.digitalhealth.net/?p=239629</id>
+        <link href="https://www.digitalhealth.net/2025/08/scottish-medtech-firm-launches-paediatric-sleep-diagnosis-study/"/>
+        <updated>2025-08-29T07:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Scottish MedTech firm Seluna has launched a clinical validation study to improve the diagnosis and management of childhood sleep disorders.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Recognising the vital role of practice managers]]></title>
+        <id>https://www.gponline.com/article/1930366</id>
+        <link href="https://www.gponline.com/podcast-recognising-vital-role-practice-managers/article/1930366"/>
+        <updated>2025-08-29T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Adrian Down, managing partner of a practice in Lincolnshire and a director of the Institute of General Practice Management about the importance of good practice management and some of the challenges practice managers face.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free chickenpox vaccination offered for first time to children]]></title>
         <id>https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children</id>

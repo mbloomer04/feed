@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1930366",
+          "author": null,
+          "description": "Talking General Practice speaks to Adrian Down, managing partner of a practice in Lincolnshire and a director of the Institute of General Practice Management about the importance of good practice management and some of the challenges practice managers face.",
+          "link": "https://www.gponline.com/podcast-recognising-vital-role-practice-managers/article/1930366",
+          "publishedOn": "2025-08-29T07:16:00.000Z",
+          "wordCount": 733,
+          "title": "Podcast: Recognising the vital role of practice managers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_AdrianDown_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1930295",
           "author": null,
           "description": "General practice is on track to have its busiest summer ever after delivering record numbers of appointments in June and July.",
@@ -2748,6 +2758,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=239629",
+          "author": "Jordan Sollof",
+          "description": "Scottish MedTech firm Seluna has launched a clinical validation study to improve the diagnosis and management of childhood sleep disorders.",
+          "link": "https://www.digitalhealth.net/2025/08/scottish-medtech-firm-launches-paediatric-sleep-diagnosis-study/",
+          "publishedOn": "2025-08-29T07:30:16.000Z",
+          "wordCount": null,
+          "title": "Scottish MedTech firm launches paediatric sleep diagnosis study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=239919",
           "author": "Tammy Lovell",
