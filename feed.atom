@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-08-30T03:24:05.416Z</updated>
+    <updated>2025-08-30T04:14:08.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -267,6 +267,16 @@
         <summary type="html"><![CDATA[United Lincolnshire Teaching Hospitals NHS Trust (ULTH) has partnered with Mizaic to launch an electronic document management system.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statutory guidance: General Medical Services Statement of Financial Entitlements Directions]]></title>
+        <id>https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions</id>
+        <link href="https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions"/>
+        <updated>2025-08-27T09:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
