@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-01T12:26:03.697Z</updated>
+    <updated>2025-09-01T13:23:48.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England to cease funding clinical information standards body]]></title>
+        <id>https://www.digitalhealth.net/?p=240307</id>
+        <link href="https://www.digitalhealth.net/2025/09/nhs-england-to-cease-funding-for-clinical-information-systems-body/"/>
+        <updated>2025-09-01T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive: Concerns have been raised that NHSE plans to cease funding the PRSB could stall the digital ambitions in the 10 year health plan.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government to combat flu outbreaks by removing red tape]]></title>
         <id>https://www.gov.uk/government/news/government-to-combat-flu-outbreaks-by-removing-red-tape</id>
