@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-01T11:10:55.923Z</updated>
+    <updated>2025-09-01T12:26:03.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government to combat flu outbreaks by removing red tape]]></title>
+        <id>https://www.gov.uk/government/news/government-to-combat-flu-outbreaks-by-removing-red-tape</id>
+        <link href="https://www.gov.uk/government/news/government-to-combat-flu-outbreaks-by-removing-red-tape"/>
+        <updated>2025-09-01T12:10:51.000Z</updated>
+        <summary type="html"><![CDATA[The government will remove red tape, allowing doctors and pharmacists to prescribe flu medicines year-round to reduce winter pressures and protect the NHS]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[University Hospitals Plymouth to integrate AI into new Epic EPR]]></title>
         <id>https://www.digitalhealth.net/?p=238683</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[University Hospitals Plymouth NHS Trust (UHP) is planning to integrate AI innovations into its new Epic electronic patient record (EPR).]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs under pressure to keep site open despite unsustainable costs]]></title>
+        <id>https://www.gponline.com/article/1930546</id>
+        <link href="https://www.gponline.com/gps-pressure-keep-site-open-despite-unsustainable-costs/article/1930546"/>
+        <updated>2025-09-01T08:43:01.000Z</updated>
+        <summary type="html"><![CDATA[GPs at a practice in Kent are facing intense pressure not to close a site they say they can no longer afford to run - and have warned that more closures will follow unless general practice funding improves.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

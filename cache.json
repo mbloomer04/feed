@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1930546",
+          "author": null,
+          "description": "GPs at a practice in Kent are facing intense pressure not to close a site they say they can no longer afford to run - and have warned that more closures will follow unless general practice funding improves.",
+          "link": "https://www.gponline.com/gps-pressure-keep-site-open-despite-unsustainable-costs/article/1930546",
+          "publishedOn": "2025-09-01T08:43:01.000Z",
+          "wordCount": 924,
+          "title": "GPs under pressure to keep site open despite unsustainable costs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-sturti3_RF_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1930397",
           "author": null,
           "description": "The government has confirmed that varicella will be added to the childhood immunisation programme in England from January.",
@@ -1987,6 +1997,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-to-combat-flu-outbreaks-by-removing-red-tape",
+          "author": null,
+          "description": "The government will remove red tape, allowing doctors and pharmacists to prescribe flu medicines year-round to reduce winter pressures and protect the NHS",
+          "link": "https://www.gov.uk/government/news/government-to-combat-flu-outbreaks-by-removing-red-tape",
+          "publishedOn": "2025-09-01T12:10:51.000Z",
+          "wordCount": 2149,
+          "title": "Government to combat flu outbreaks by removing red tape",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children",
           "author": null,
