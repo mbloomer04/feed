@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-02T11:10:31.314Z</updated>
+    <updated>2025-09-02T12:25:36.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[This episode, in collaboration with Digital Health Networks sponsor CereCore International, focuses on delivery of the 10 year health plan.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA rejects bullying claim as PA mental health slumps]]></title>
+        <id>https://www.gponline.com/article/1930704</id>
+        <link href="https://www.gponline.com/bma-rejects-bullying-claim-pa-mental-health-slumps/article/1930704"/>
+        <updated>2025-09-02T09:31:29.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has rejected claims of bullying after polling by a union representing physician associates (PAs) found most staff in these roles have experienced worse mental health following the Leng review.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
