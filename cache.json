@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1930688",
+          "author": null,
+          "description": "A leading GP who is a BMA council member and former deputy chair of the association has taken up a role on the NHS England board.",
+          "link": "https://www.gponline.com/senior-bma-gp-appointed-nhs-board/article/1930688",
+          "publishedOn": "2025-09-02T08:43:34.000Z",
+          "wordCount": 896,
+          "title": "Senior BMA GP appointed to NHS board",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Sam_Everington-PeteHill.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1930667",
           "author": null,
           "description": "Wide variation in GP partner income across England is likely driven by major differences in local spending on general practice between ICBs - and could be linked to regional gaps in the GP unemployment crisis.",
@@ -2698,6 +2708,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=240055",
+          "author": "Jordan Sollof",
+          "description": "This episode, in collaboration with Digital Health Networks sponsor CereCore International, focuses on delivery of the 10 year health plan.",
+          "link": "https://www.digitalhealth.net/2025/09/digital-health-unplugged-delivering-the-10-year-health-plan/",
+          "publishedOn": "2025-09-02T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Digital Health Unplugged: Delivering the 10 year health plan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=240151",
           "author": "Jordan Sollof",

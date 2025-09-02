@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-02T09:13:52.639Z</updated>
+    <updated>2025-09-02T10:13:56.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Unplugged: Delivering the 10 year health plan]]></title>
+        <id>https://www.digitalhealth.net/?p=240055</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-health-unplugged-delivering-the-10-year-health-plan/"/>
+        <updated>2025-09-02T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[This episode, in collaboration with Digital Health Networks sponsor CereCore International, focuses on delivery of the 10 year health plan.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior BMA GP appointed to NHS board]]></title>
+        <id>https://www.gponline.com/article/1930688</id>
+        <link href="https://www.gponline.com/senior-bma-gp-appointed-nhs-board/article/1930688"/>
+        <updated>2025-09-02T08:43:34.000Z</updated>
+        <summary type="html"><![CDATA[A leading GP who is a BMA council member and former deputy chair of the association has taken up a role on the NHS England board.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: DHSC: workforce management information July 2025]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2025</id>
