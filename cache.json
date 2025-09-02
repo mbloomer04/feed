@@ -1798,16 +1798,6 @@
           "wordCount": 925,
           "title": "GPs warned over AI 'fabrications' as MHRA issues yellow card appeal",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/computer_GettyImages-BrianAJackson_RF_6.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1927761",
-          "author": null,
-          "description": "Neighbourhood contracts outlined in the 10-year health plan could undermine the sustainability of existing GP practices by stripping out PCN and enhanced services funding they rely on, accountants have warned.",
-          "link": "https://www.gponline.com/neighbourhoods-strip-funding-existing-practices-accountants-warn/article/1927761",
-          "publishedOn": "2025-08-04T09:30:44.000Z",
-          "wordCount": 915,
-          "title": "Neighbourhoods could strip funding from existing practices, accountants warn",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign1_GettyImages-Marbury_RF_1.jpg"
         }
       ]
     },
@@ -2027,6 +2017,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health",
+          "author": null,
+          "description": "The government will consult on banning the sale of high-caffeine energy drinks to under 16s due to negative impacts on children's physical and mental health.",
+          "link": "https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health",
+          "publishedOn": "2025-09-02T21:30:05.000Z",
+          "wordCount": 5127,
+          "title": "Ban on selling high-caffeine energy drinks to boost kids’ health",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2025",
           "author": null,
@@ -3397,16 +3397,6 @@
           "wordCount": 5872,
           "title": "Powys Teaching Health Board rolls out digital tool for health visitors",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/shutterstock_1432015865-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=236717",
-          "author": "Jordan Sollof",
-          "description": "A study has developed an AI method to predict the early onset of 38 age-related diseases through analysis of UK Biobank data.",
-          "link": "https://www.digitalhealth.net/2025/08/uk-biobank-data-and-ai-help-predict-early-onset-of-diseases/",
-          "publishedOn": "2025-08-04T10:00:45.000Z",
-          "wordCount": 5832,
-          "title": "UK Biobank data and AI help predict early onset of diseases",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/University-of-Westminster.png"
         }
       ]
     }
