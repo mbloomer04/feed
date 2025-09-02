@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-02T14:13:01.907Z</updated>
+    <updated>2025-09-02T15:13:06.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -254,6 +254,16 @@
         <summary type="html"><![CDATA[Government to create ground-breaking new genomics population health service, with nurses in leading roles]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over a billion people living with mental health conditions – services require urgent scale-up]]></title>
+        <id>urn:uuid:9b1c672b-3de8-40ee-a416-a460c8be6f49</id>
+        <link href="https://www.who.int/news/item/02-09-2025-over-a-billion-people-living-with-mental-health-conditions-services-require-urgent-scale-up"/>
+        <updated>2025-08-28T12:16:07.000Z</updated>
+        <summary type="html"><![CDATA[More than 1 billion people are living with mental health disorders, according to new data released by the World Health Organization (WHO). The new findings published in two reports – World mental health today and Mental Health Atlas 2024 – highlight some areas of progress while exposing significant gaps in addressing mental health conditions worldwide.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
