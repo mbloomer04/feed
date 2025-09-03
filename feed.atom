@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-03T12:24:12.979Z</updated>
+    <updated>2025-09-03T13:21:56.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI stethoscope detects three heart conditions in 15 seconds]]></title>
+        <id>https://www.digitalhealth.net/?p=240893</id>
+        <link href="https://www.digitalhealth.net/2025/09/ai-stethoscope-detects-three-heart-conditions-in-15-seconds/"/>
+        <updated>2025-09-03T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[An AI stethoscope has allowed doctors to pick up heart conditions in 15 seconds, giving GPs a quick and simple tool to spot problems earlier.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The tech for neighbourhood care is here – now it’s time to scale]]></title>
         <id>https://www.digitalhealth.net/?p=239541</id>
