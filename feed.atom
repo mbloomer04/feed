@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-03T09:12:47.293Z</updated>
+    <updated>2025-09-03T10:12:30.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devon and Cornwall hospitals go live with digital pathology solution]]></title>
+        <id>https://www.digitalhealth.net/?p=240683</id>
+        <link href="https://www.digitalhealth.net/2025/09/devon-and-cornwall-hospitals-go-live-with-digital-pathology-solution/"/>
+        <updated>2025-09-03T10:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Five NHS sites in Devon and Cornwall have gone live with a digital pathology solution to enable faster cancer diagnosis.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banning the sale of high-caffeine energy drinks to children]]></title>
+        <id>https://www.gov.uk/government/consultations/banning-the-sale-of-high-caffeine-energy-drinks-to-children</id>
+        <link href="https://www.gov.uk/government/consultations/banning-the-sale-of-high-caffeine-energy-drinks-to-children"/>
+        <updated>2025-09-03T09:12:55.000Z</updated>
+        <summary type="html"><![CDATA[The government is seeking views on the proposed ban on the sale of high-caffeine energy drinks to children under the age of 16 years in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welsh Nursing Care Record live across inpatient wards]]></title>
         <id>https://www.digitalhealth.net/?p=240599</id>

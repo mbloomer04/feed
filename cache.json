@@ -1988,6 +1988,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/banning-the-sale-of-high-caffeine-energy-drinks-to-children",
+          "author": null,
+          "description": "The government is seeking views on the proposed ban on the sale of high-caffeine energy drinks to children under the age of 16 years in England.",
+          "link": "https://www.gov.uk/government/consultations/banning-the-sale-of-high-caffeine-energy-drinks-to-children",
+          "publishedOn": "2025-09-03T09:12:55.000Z",
+          "wordCount": 1185,
+          "title": "Banning the sale of high-caffeine energy drinks to children",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health",
           "author": null,
           "description": "The government will consult on banning the sale of high-caffeine energy drinks to under 16s due to negative impacts on children's physical and mental health.",
@@ -2678,6 +2688,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=240683",
+          "author": "Jordan Sollof",
+          "description": "Five NHS sites in Devon and Cornwall have gone live with a digital pathology solution to enable faster cancer diagnosis.",
+          "link": "https://www.digitalhealth.net/2025/09/devon-and-cornwall-hospitals-go-live-with-digital-pathology-solution/",
+          "publishedOn": "2025-09-03T10:00:27.000Z",
+          "wordCount": null,
+          "title": "Devon and Cornwall hospitals go live with digital pathology solution",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=240599",
           "author": "Jordan Sollof",
