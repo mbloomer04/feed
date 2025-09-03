@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-03T15:13:02.720Z</updated>
+    <updated>2025-09-03T16:14:43.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP News Update: GP partner income rise, loss of small practices, neighbourhood contracts]]></title>
+        <id>https://www.gponline.com/article/1930902</id>
+        <link href="https://www.gponline.com/gp-news-update-gp-partner-income-rise-loss-small-practices-neighbourhood-contracts/article/1930902"/>
+        <updated>2025-09-03T14:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI stethoscope detects three heart conditions in 15 seconds]]></title>
         <id>https://www.digitalhealth.net/?p=240893</id>
