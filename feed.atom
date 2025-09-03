@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-03T11:10:28.011Z</updated>
+    <updated>2025-09-03T12:24:12.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The tech for neighbourhood care is here – now it’s time to scale]]></title>
+        <id>https://www.digitalhealth.net/?p=239541</id>
+        <link href="https://www.digitalhealth.net/2025/09/the-tech-for-neighbourhood-care-is-here-now-its-time-to-scale/"/>
+        <updated>2025-09-03T12:00:50.000Z</updated>
+        <summary type="html"><![CDATA[We must make neighbourhood care the default model of health and care delivery, writes Laura Thompson, director at Access]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devon and Cornwall hospitals go live with digital pathology solution]]></title>
         <id>https://www.digitalhealth.net/?p=240683</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Five NHS sites in Devon and Cornwall have gone live with a digital pathology solution to enable faster cancer diagnosis.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of small GP practices wiped out since 2020]]></title>
+        <id>https://www.gponline.com/article/1930887</id>
+        <link href="https://www.gponline.com/hundreds-small-gp-practices-wiped-2020/article/1930887"/>
+        <updated>2025-09-03T09:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of small GP practices have disappeared over the past five years while numbers of very large practices have grown rapidly, GPonline analysis shows.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2752,16 +2772,6 @@ The post GPs should support patients for one year after GLP-1 treatment, says NI
         <summary type="html"><![CDATA[An AI-powered physiotherapy clinic has more than halved waiting lists for back pain in its first large-scale deployment in England.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor patients for a year after weight-loss drugs, says NICE]]></title>
-        <id>https://www.gponline.com/article/1927854</id>
-        <link href="https://www.gponline.com/monitor-patients-year-weight-loss-drugs-says-nice/article/1927854"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs and other providers should monitor patients regularly for at least a year after treatment with obesity medication to help them maintain weight loss, updated NICE advice says.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

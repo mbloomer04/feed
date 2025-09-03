@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1930887",
+          "author": null,
+          "description": "Hundreds of small GP practices have disappeared over the past five years while numbers of very large practices have grown rapidly, GPonline analysis shows.",
+          "link": "https://www.gponline.com/hundreds-small-gp-practices-wiped-2020/article/1930887",
+          "publishedOn": "2025-09-03T09:48:10.000Z",
+          "wordCount": 905,
+          "title": "Hundreds of small GP practices wiped out since 2020",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1930853",
           "author": null,
           "description": "Moving additional roles reimbursement scheme (ARRS) money into core general practice funding would be a ‘huge step forward’ in improving patient access to GPs, according to the Doctors' Association UK (DAUK).",
@@ -1768,16 +1778,6 @@
           "wordCount": 907,
           "title": "IT failure leaves GP practices facing seven-figure clean-up bill",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/computer_GettyImages-warodomchangyencham_RF_4.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1927854",
-          "author": null,
-          "description": "GPs and other providers should monitor patients regularly for at least a year after treatment with obesity medication to help them maintain weight loss, updated NICE advice says.",
-          "link": "https://www.gponline.com/monitor-patients-year-weight-loss-drugs-says-nice/article/1927854",
-          "publishedOn": "2025-08-05T00:00:00.000Z",
-          "wordCount": 910,
-          "title": "Monitor patients for a year after weight-loss drugs, says NICE",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_prescription_GettyImages-sturti_RF_12.jpg"
         }
       ]
     },
@@ -2688,6 +2688,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=239541",
+          "author": "Tammy Lovell",
+          "description": "We must make neighbourhood care the default model of health and care delivery, writes Laura Thompson, director at Access",
+          "link": "https://www.digitalhealth.net/2025/09/the-tech-for-neighbourhood-care-is-here-now-its-time-to-scale/",
+          "publishedOn": "2025-09-03T12:00:50.000Z",
+          "wordCount": null,
+          "title": "The tech for neighbourhood care is here – now it’s time to scale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=240683",
           "author": "Jordan Sollof",
