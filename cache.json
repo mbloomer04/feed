@@ -1200,6 +1200,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1931124",
+          "author": null,
+          "description": "The government has hailed the impact of the £80m advice and guidance DES introduced this year as requests rose and use of the scheme by GPs helped more than 110,000 patients avoid joining the NHS hospital waiting list in April alone.",
+          "link": "https://www.gponline.com/government-hails-impact-advice-guidance-des-requests-rise/article/1931124",
+          "publishedOn": "2025-09-04T14:00:00.000Z",
+          "wordCount": 941,
+          "title": "Government hails impact of advice and guidance DES as requests rise",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_computer_GettyImages-sturti_RF_8.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1931122",
+          "author": null,
+          "description": "Writing for GPonline on the impact of the £80m advice and guidance directed enhanced service, primary care minister Stephen Kinnock says the scheme shows the government is serious about the 'left shift' - and reflects GPs' key role in driving down NHS waits.",
+          "link": "https://www.gponline.com/stephen-kinnock-a-g-des-reflects-gps-pivotal-role-tackling-nhs-waits/article/1931122",
+          "publishedOn": "2025-09-04T14:00:00.000Z",
+          "wordCount": 951,
+          "title": "Stephen Kinnock: A&G DES reflects GPs' pivotal role in tackling NHS waits",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Stephen_Kinnock_HouseofCommons_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1931075",
           "author": null,
           "description": "The government has said its 10-year health plan 'casts GPs as the pioneers' who will lead a neighbourhood health service - but GP leaders warn that ministers are not listening to the profession's concerns.",
@@ -2017,6 +2037,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/100000-more-people-get-quicker-care-thanks-to-gp-funding-reform",
+          "author": null,
+          "description": "An 'Advice and Guidance' scheme - backed by £80 million - that enables GPs to liaise with specialists, saw 113,000 more patients receive quicker care in April.",
+          "link": "https://www.gov.uk/government/news/100000-more-people-get-quicker-care-thanks-to-gp-funding-reform",
+          "publishedOn": "2025-09-04T14:38:16.000Z",
+          "wordCount": 2280,
+          "title": "100,000 more people get quicker care thanks to GP funding reform",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians",
           "author": null,
