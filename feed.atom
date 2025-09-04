@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-04T11:10:31.449Z</updated>
+    <updated>2025-09-04T12:24:52.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=240043</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-102/"/>
+        <updated>2025-09-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[This issue of Coffee Time includes the launch of Phyxiom's digital platform and a genetic test that reduces the risk of deafness in newborns.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10-year plan 'casts GPs as neighbourhood pioneers', government claims]]></title>
+        <id>https://www.gponline.com/article/1931075</id>
+        <link href="https://www.gponline.com/10-year-plan-casts-gps-neighbourhood-pioneers-government-claims/article/1931075"/>
+        <updated>2025-09-04T10:22:02.000Z</updated>
+        <summary type="html"><![CDATA[The government has said its 10-year health plan 'casts GPs as the pioneers' who will lead a neighbourhood health service - but GP leaders warn that ministers are not listening to the profession's concerns.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft launches ambient AI assistant to the NHS]]></title>
         <id>https://www.digitalhealth.net/?p=241067</id>
