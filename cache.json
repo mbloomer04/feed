@@ -1998,6 +1998,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians",
+          "author": null,
+          "description": "Seeks views on extending the range of medicines available to optometrists and contact lens opticians so they can treat minor eye conditions in the community.",
+          "link": "https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians",
+          "publishedOn": "2025-09-04T10:00:04.000Z",
+          "wordCount": 1090,
+          "title": "Extend medicines for optometrists and contact lens opticians",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025",
           "author": null,
           "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",
@@ -2678,6 +2688,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=241067",
+          "author": "Tammy Lovell",
+          "description": "Microsoft has launched an AI assistant to the NHS which captures clinical conversations to draft documentation and automate follow-up tasks.",
+          "link": "https://www.digitalhealth.net/2025/09/microsoft-launches-ambient-ai-assistant-to-the-nhs/",
+          "publishedOn": "2025-09-04T10:00:38.000Z",
+          "wordCount": null,
+          "title": "Microsoft launches ambient AI assistant to the NHS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=240917",
           "author": "Tammy Lovell",

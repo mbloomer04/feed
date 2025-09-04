@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-04T09:12:48.160Z</updated>
+    <updated>2025-09-04T10:13:14.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft launches ambient AI assistant to the NHS]]></title>
+        <id>https://www.digitalhealth.net/?p=241067</id>
+        <link href="https://www.digitalhealth.net/2025/09/microsoft-launches-ambient-ai-assistant-to-the-nhs/"/>
+        <updated>2025-09-04T10:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has launched an AI assistant to the NHS which captures clinical conversations to draft documentation and automate follow-up tasks.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend medicines for optometrists and contact lens opticians]]></title>
+        <id>https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians</id>
+        <link href="https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians"/>
+        <updated>2025-09-04T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Seeks views on extending the range of medicines available to optometrists and contact lens opticians so they can treat minor eye conditions in the community.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Adult social care in England, monthly statistics: September 2025]]></title>
         <id>https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025</id>
