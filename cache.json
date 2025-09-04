@@ -1851,6 +1851,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=272453",
+          "author": "rwootton",
+          "description": "Martha’s Rule is now available in every acute hospital in England, the NHS has announced, as new data shows hundreds of patients have benefitted from potentially life-saving changes to their care thanks to the scheme. Between September 2024 and June 2025, there were 4,906 calls made to Martha’s Rule helplines to escalate concerns about care […]",
+          "link": "https://www.england.nhs.uk/2025/09/marthas-rule-rolled-out-to-all-acute-hospitals/",
+          "publishedOn": "2025-09-04T07:44:22.000Z",
+          "wordCount": 2028,
+          "title": "Martha’s Rule rolled out to all acute hospitals",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=272203",
           "author": "jboshell",
           "description": "Millions of children and pregnant women are set to get their flu vaccinations from today, as the NHS kicks off its vital autumn vaccine roll out to protect people ahead of winter. Vaccine teams across the country are ramping up efforts to make it as easy as possible for those eligible to get their jabs, […]",
@@ -1987,6 +1997,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025",
+          "author": null,
+          "description": "Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025",
+          "publishedOn": "2025-09-04T08:30:02.000Z",
+          "wordCount": 965,
+          "title": "Official Statistics: Adult social care in England, monthly statistics: September 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "publishedOn": "2025-09-04T08:29:55.000Z",
+          "wordCount": 978,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/banning-the-sale-of-high-caffeine-energy-drinks-to-children",
           "author": null,

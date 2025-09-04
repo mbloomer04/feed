@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-04T08:16:11.666Z</updated>
+    <updated>2025-09-04T09:12:48.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Adult social care in England, monthly statistics: September 2025]]></title>
+        <id>https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025</id>
+        <link href="https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-september-2025"/>
+        <updated>2025-09-04T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026"/>
+        <updated>2025-09-04T08:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martha’s Rule rolled out to all acute hospitals]]></title>
+        <id>https://www.england.nhs.uk/?p=272453</id>
+        <link href="https://www.england.nhs.uk/2025/09/marthas-rule-rolled-out-to-all-acute-hospitals/"/>
+        <updated>2025-09-04T07:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Martha’s Rule is now available in every acute hospital in England, the NHS has announced, as new data shows hundreds of patients have benefitted from potentially life-saving changes to their care thanks to the scheme. Between September 2024 and June 2025, there were 4,906 calls made to Martha’s Rule helplines to escalate concerns about care […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major NHS AI-scribe trial shows ‘transformative’ patient benefits]]></title>
         <id>https://www.digitalhealth.net/?p=240917</id>
