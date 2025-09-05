@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1931245",
+          "author": null,
+          "description": "Consultants and specialist, associate specialist and specialty (SAS) doctors in England have warned the government that they are willing to strike unless they receive more pay.",
+          "link": "https://www.gponline.com/consultants-sas-doctors-willing-strike-pay-bma-warns/article/1931245",
+          "publishedOn": "2025-09-05T09:32:12.000Z",
+          "wordCount": 734,
+          "title": "Consultants and SAS doctors willing to strike over pay, BMA warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign1-_25.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1931180",
           "author": null,
           "description": "The GPonline team discusses the latest news affecting general practice.",
@@ -2426,16 +2436,6 @@
           "wordCount": 1612,
           "title": "Licensing of non-surgical cosmetic procedures",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/crackdown-on-unsafe-cosmetic-procedures-to-protect-the-public",
-          "author": null,
-          "description": "New measures to crack down on cowboy cosmetic procedures  will be introduced by the government.",
-          "link": "https://www.gov.uk/government/news/crackdown-on-unsafe-cosmetic-procedures-to-protect-the-public",
-          "publishedOn": "2025-08-06T21:30:00.000Z",
-          "wordCount": 3449,
-          "title": "Crackdown on unsafe cosmetic procedures to protect the public",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -2678,6 +2678,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=240815",
+          "author": "Jordan Sollof",
+          "description": "MyWay Digital Health (MWDH) has secured a £3 million investment to accelerate the development of new AI-enabled products.",
+          "link": "https://www.digitalhealth.net/2025/09/myway-digital-health-raises-3m-for-ai-chronic-disease-solutions/",
+          "publishedOn": "2025-09-05T10:00:08.000Z",
+          "wordCount": null,
+          "title": "MyWay Digital Health raises £3m for AI chronic disease solutions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=241199",
           "author": "Tammy Lovell",
