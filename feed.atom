@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-05T13:21:02.446Z</updated>
+    <updated>2025-09-05T14:12:03.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -34,6 +34,18 @@
         <summary type="html"><![CDATA[An Oracle Health electronic patient record system called Nova is being implemented in phases from next year across two Essex NHS trusts.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO updates list of essential medicines to include key cancer, diabetes treatments]]></title>
+        <id>urn:uuid:28752332-e3cb-4a20-ae03-81a3309e30de</id>
+        <link href="https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments"/>
+        <updated>2025-09-05T10:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Today, the World Health Organization (WHO) has released updated editions of its Model Lists of Essential Medicines (EML) and Essential Medicines for Children (EMLc), adding new treatments for various types of cancer and for diabetes with associated comorbidities such as obesity. Medicines for cystic fibrosis, psoriasis, haemophilia and blood-related disorders are among the other additions.
+WHO EML and EMLc include medicines for priority health needs of populations. They are adopted in over 150 countries, serving as a basis for public sector procurement, supply of medicines and health insurance, reimbursement schemes. The revisions mark the 24th edition of WHO EML and 10th edition of EMLc. 
+“The new editions of essential medicines lists mark a significant step toward expanding access to new…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
