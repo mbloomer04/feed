@@ -2018,6 +2018,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/amend-regulations-to-support-the-supply-and-deployment-of-vaccines",
+          "author": null,
+          "description": "This consultation seeks views on amending the Human Medicines Regulations 2012 to support the ongoing supply and deployment of vaccinations across the UK.",
+          "link": "https://www.gov.uk/government/consultations/amend-regulations-to-support-the-supply-and-deployment-of-vaccines",
+          "publishedOn": "2025-09-05T13:00:03.000Z",
+          "wordCount": 1054,
+          "title": "Amend regulations to support the supply and deployment of vaccines",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-register-of-board-members-interests-2025-to-2026",
+          "author": null,
+          "description": "A register of the private interests declared by DHSC board members.",
+          "link": "https://www.gov.uk/government/publications/dhsc-register-of-board-members-interests-2025-to-2026",
+          "publishedOn": "2025-09-05T12:57:01.000Z",
+          "wordCount": 821,
+          "title": "Transparency data: DHSC register of board members' interests, 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/100000-more-people-get-quicker-care-thanks-to-gp-funding-reform",
           "author": null,
           "description": "An 'Advice and Guidance' scheme - backed by £80 million - that enables GPs to liaise with specialists, saw 113,000 more patients receive quicker care in April.",
@@ -2668,6 +2688,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=240511",
+          "author": "Jordan Sollof",
+          "description": "An Oracle Health electronic patient record system called Nova is being implemented in phases from next year across two Essex NHS trusts.",
+          "link": "https://www.digitalhealth.net/2025/09/oracle-health-epr-to-go-live-across-two-essex-trusts/",
+          "publishedOn": "2025-09-05T12:30:59.000Z",
+          "wordCount": null,
+          "title": "Oracle Health EPR to go live across two Essex trusts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=240815",
           "author": "Jordan Sollof",
