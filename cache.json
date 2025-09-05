@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "CC-4688 - Microsoft Releases Security Advisory for Vulnerability CVE-2025-53786 in Exchange Hybrid Deployments",
           "imageUrl": null
-        },
-        {
-          "id": "a68daf5e-e36e-46d3-bb1e-14884af77c5e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Trend Micro reports active exploitation of management console command injection RCE vulnerability\n Updated: 06 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4687",
-          "publishedOn": "2025-08-06T12:46:00.000Z",
-          "wordCount": null,
-          "title": "CC-4687 - Critical RCE Vulnerabilities in Trend Micro Apex One",
-          "imageUrl": null
         }
       ]
     },
@@ -1881,6 +1871,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=272487",
+          "author": "rwootton",
+          "description": "Thousands of mums-to be in England living with type 1 diabetes are to receive a pregnancy-specific, ‘artificial pancreas’ from the NHS to protect mothers and babies’ health. Under a first of its kind initiative for the NHS in England, local healthcare systems are offering an enhanced type of hybrid closed loop system – also known […]",
+          "link": "https://www.england.nhs.uk/2025/09/nhs-rolls-out-new-generation-artificial-pancreas-to-help-pregnant-diabetic-women/",
+          "publishedOn": "2025-09-04T23:01:37.000Z",
+          "wordCount": 2379,
+          "title": "NHS rolls out new generation ‘artificial pancreas’ to help pregnant diabetic women",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=272453",
           "author": "rwootton",
           "description": "Martha’s Rule is now available in every acute hospital in England, the NHS has announced, as new data shows hundreds of patients have benefitted from potentially life-saving changes to their care thanks to the scheme. Between September 2024 and June 2025, there were 4,906 calls made to Martha’s Rule helplines to escalate concerns about care […]",
@@ -3407,16 +3407,6 @@
           "wordCount": 5952,
           "title": "Meta found liable for using period-tracking data from Flo Health",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Dmitry-Gurski-CEO-and-Co-Founder-Flo-Health-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=236903",
-          "author": "Tammy Lovell",
-          "description": "Manufacturers will be able to supply innovative medical devices to the NHS before obtaining full regulatory approval, under a new MHRA scheme.",
-          "link": "https://www.digitalhealth.net/2025/08/nhs-to-get-early-access-to-medtech-ahead-of-regulatory-approval/",
-          "publishedOn": "2025-08-06T12:30:34.000Z",
-          "wordCount": 5988,
-          "title": "NHS to get early access to MedTech ahead of regulatory approval",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/Lawrence-Tallon-1.png"
         }
       ]
     }
