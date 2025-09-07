@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "CC-4689 - Exploitation of WinRAR Vulnerability CVE-2025-8088",
           "imageUrl": null
-        },
-        {
-          "id": "5943617f-0746-424b-b374-70e0b5ea4148",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Successful exploitation of CVE-2025-53786 could allow an attacker to escalate privileges within the organisation’s connected cloud environment\n Updated: 08 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4688",
-          "publishedOn": "2025-08-08T13:38:00.000Z",
-          "wordCount": null,
-          "title": "CC-4688 - Microsoft Releases Security Advisory for Vulnerability CVE-2025-53786 in Exchange Hybrid Deployments",
-          "imageUrl": null
         }
       ]
     },
