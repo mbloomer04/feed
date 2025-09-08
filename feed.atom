@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-08T12:26:10.821Z</updated>
+    <updated>2025-09-08T13:24:45.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dartford and Gravesham deploys electronic test ordering system]]></title>
+        <id>https://www.digitalhealth.net/?p=241059</id>
+        <link href="https://www.digitalhealth.net/2025/09/dartford-and-gravesham-deploys-electronic-test-ordering-system/"/>
+        <updated>2025-09-08T12:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Dartford and Gravesham NHS Trust has rolled out an electronic test ordering system to help staff place imaging and pathology orders.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4697 - Exploitation of CVE-2025-42957 in SAP S/4HANA]]></title>
         <id>b3a91f91-57b5-43ef-8965-6f04409b6671</id>
