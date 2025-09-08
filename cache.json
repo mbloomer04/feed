@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b3a91f91-57b5-43ef-8965-6f04409b6671",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system\n Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system\n Updated: 08 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4697",
+          "publishedOn": "2025-09-08T10:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4697 - Exploitation of CVE-2025-42957 in SAP S/4HANA",
+          "imageUrl": null
+        },
+        {
           "id": "544e0b7a-3a31-495d-95c0-1c6d84d5f72b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Updated: 27 Aug 2025",

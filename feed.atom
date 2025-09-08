@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-08T10:13:17.523Z</updated>
+    <updated>2025-09-08T11:10:16.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4697 - Exploitation of CVE-2025-42957 in SAP S/4HANA]]></title>
+        <id>b3a91f91-57b5-43ef-8965-6f04409b6671</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4697"/>
+        <updated>2025-09-08T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system
+ Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system
+ Updated: 08 Sep 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Christie rolls out ePMA system across all inpatient wards]]></title>
         <id>https://www.digitalhealth.net/?p=241221</id>
