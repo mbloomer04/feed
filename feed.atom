@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-08T09:15:01.711Z</updated>
+    <updated>2025-09-08T10:13:17.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Christie rolls out ePMA system across all inpatient wards]]></title>
+        <id>https://www.digitalhealth.net/?p=241221</id>
+        <link href="https://www.digitalhealth.net/2025/09/the-christie-rolls-out-epma-system-across-all-inpatient-wards/"/>
+        <updated>2025-09-08T10:00:08.000Z</updated>
+        <summary type="html"><![CDATA[The Christie NHS Foundation Trust has gone live with an electronic prescribing and medicines administration (ePMA) system.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High Court rejects second legal appeal on GMC regulation of PAs]]></title>
         <id>https://www.gponline.com/article/1931436</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[An AI obstetric imaging tool will be trialled across four NHS hospitals to help identify congenital problems at the 20 week pregnancy scan.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP charity in ‘funding crisis’ as payouts rise and donations drop]]></title>
+        <id>https://www.gponline.com/article/1931341</id>
+        <link href="https://www.gponline.com/gp-charity-funding-crisis-payouts-rise-donations-drop/article/1931341"/>
+        <updated>2025-09-05T14:44:55.000Z</updated>
+        <summary type="html"><![CDATA[A charity that helps GPs in financial difficulty is facing a 'funding crisis' after payouts to struggling doctors rose and donations dropped.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
