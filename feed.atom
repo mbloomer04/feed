@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-09T10:13:49.272Z</updated>
+    <updated>2025-09-09T11:10:52.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=239965</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-101/"/>
+        <updated>2025-09-09T10:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Time Briefing covers a milestone for the National Centre for Child Health Technology and a WhatsApp channel launched by NHSE.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naq raises £5.1m to help HealthTech firms meet cyber standards]]></title>
         <id>https://www.digitalhealth.net/?p=241659</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[Naq has raised €6 million (£5.1m) to help HealthTech companies meet NHS standards amid rising cyber threats and regulatory delays.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harm from delayed administration of rasburicase for tumour lysis syndrome]]></title>
+        <id>https://www.england.nhs.uk/?p=272483</id>
+        <link href="https://www.england.nhs.uk/2025/09/harm-from-delayed-administration-of-rasburicase-for-tumour-lysis-syndrome/"/>
+        <updated>2025-09-09T09:01:05.000Z</updated>
+        <summary type="html"><![CDATA[This national patient safety alert has been issued by the NHS England National Patient Safety team. It instructs all organisations providing emergency departments and cancer services to take steps to reduce the risk of harm from delayed administration of rasburicase for tumour lysis syndrome (TLS). All actions should be completed by 9 March 2026. National […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergency BMA meeting could move GPs towards industrial dispute]]></title>
+        <id>https://www.gponline.com/article/1931653</id>
+        <link href="https://www.gponline.com/emergency-bma-meeting-move-gps-towards-industrial-dispute/article/1931653"/>
+        <updated>2025-09-09T08:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Doctors' leaders could back GPs to re-enter dispute with the government over fears that the 10-year health plan poses an existential threat to the independent contractor model, at an emergency BMA meeting this weekend.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
