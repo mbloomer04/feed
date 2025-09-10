@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-10T07:11:50.110Z</updated>
+    <updated>2025-09-10T08:16:50.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bolton NHS FT rolls out EPR to community services]]></title>
+        <id>https://www.digitalhealth.net/?p=241875</id>
+        <link href="https://www.digitalhealth.net/2025/09/bolton-nhs-ft-rolls-out-epr-to-community-services/"/>
+        <updated>2025-09-10T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Bolton NHS Foundation Trust has rolled out Altera Digital Health’s Sunrise EPR to its community services and outpatient departments.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secretary of State speech at the King's Fund]]></title>
         <id>https://www.gov.uk/government/speeches/secretary-of-state-speech-at-the-kings-fund</id>
