@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "02dd2e46-63df-4898-b5af-1b4a392139e0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address vulnerabilities in Connect Secure, Policy Secure, ZTA Gateways, and Neurons for Secure Access\n Updates address vulnerabilities in Connect Secure, Policy Secure, ZTA Gateways, and Neurons for Secure Access\n Updated: 10 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4699",
+          "publishedOn": "2025-09-10T10:11:00.000Z",
+          "wordCount": null,
+          "title": "CC-4699 - Ivanti Releases September 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "0b25a544-f454-4d86-9252-b8e727c672eb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed\n Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed\n Updated: 10 Sep 2025",
@@ -1808,16 +1818,6 @@
           "wordCount": 737,
           "title": "Third of GPs plan to quit patient care in the next five years",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-Angel-Santana.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1928536",
-          "author": null,
-          "description": "Up to 30,000 GP appointments could be saved a year by supporting more pregnant women to self-refer to maternity services, NHS England has said.",
-          "link": "https://www.gponline.com/maternity-self-referrals-free-30000-gp-appointments-year/article/1928536",
-          "publishedOn": "2025-08-11T23:05:00.000Z",
-          "wordCount": 734,
-          "title": "Maternity self-referrals could free up 30,000 GP appointments a year",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPvisit-GettyImages-sturti_7.jpg"
         }
       ]
     },
@@ -2018,16 +2018,6 @@
           "publishedOn": "2025-08-13T23:01:03.000Z",
           "wordCount": 1644,
           "title": "NHS’s Chief Nursing Officer encourages more male students to consider a career in nursing",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=270959",
-          "author": "jboshell",
-          "description": "Hundreds of thousands of newly pregnant women across England can now self-refer online to get their “all-important” first midwife appointments quicker, ensuring the best and most personalised care for their baby. By completing a simple online form on NHS.uk, mums-to-be can now refer themselves directly to their local maternity services without seeing a GP first. […]",
-          "link": "https://www.england.nhs.uk/2025/08/mums-to-be-to-skip-the-gp-to-get-faster-first-nhs-midwife-appointments/",
-          "publishedOn": "2025-08-11T23:01:15.000Z",
-          "wordCount": 1723,
-          "title": "Mums-to-be to skip the GP to get faster first NHS midwife appointments",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
