@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-10T11:10:03.427Z</updated>
+    <updated>2025-09-10T12:24:02.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS-funded IVF in England]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-funded-ivf-in-england</id>
+        <link href="https://www.gov.uk/government/publications/nhs-funded-ivf-in-england"/>
+        <updated>2025-09-10T11:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Data showing how many in vitro fertilisation (IVF) cycles are funded by the NHS in each area of England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4699 - Ivanti Releases September 2025 Security Updates]]></title>
         <id>02dd2e46-63df-4898-b5af-1b4a392139e0</id>
