@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0b25a544-f454-4d86-9252-b8e727c672eb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed\n Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed\n Updated: 10 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4698",
+          "publishedOn": "2025-09-10T09:13:00.000Z",
+          "wordCount": null,
+          "title": "CC-4698 - Microsoft Releases September 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "b3a91f91-57b5-43ef-8965-6f04409b6671",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system\n Successful exploitation could allow a remote attacker with user privileges to inject ABAP code into the system\n Updated: 08 Sep 2025",
@@ -1179,6 +1189,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1931858",
+          "author": null,
+          "description": "The 43 areas that have been chosen for the first wave of rolling out a neighbourhood NHS will act as a 'test bed' for new primary care contracts, health and social care secretary Wes Streeting has said.",
+          "link": "https://www.gponline.com/streeting-confirms-43-neighbourhood-sites-will-test-beds-new-gp-contracts/article/1931858",
+          "publishedOn": "2025-09-10T08:26:48.000Z",
+          "wordCount": 757,
+          "title": "Streeting confirms 43 neighbourhood sites will be 'test beds' for new GP contracts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2225190710-ezgif.com-optijpeg.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1931858",
           "author": null,
@@ -2618,6 +2638,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=241891",
+          "author": "Jordan Sollof",
+          "description": "The Department of Health and Social Care has reduced its annual spending on data staff, technology and management by £12.6m since 2023/24.",
+          "link": "https://www.digitalhealth.net/2025/09/dhsc-reduces-annual-spend-on-data-infrastructure-by-12-6m/",
+          "publishedOn": "2025-09-10T10:00:42.000Z",
+          "wordCount": 6261,
+          "title": "DHSC reduces annual spend on data infrastructure by £12.6m",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Patrick-Sullivan-Parliament-Street-Think-Tank.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=241875",
           "author": "Jordan Sollof",

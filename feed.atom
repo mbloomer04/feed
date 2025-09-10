@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-10T09:13:01.698Z</updated>
+    <updated>2025-09-10T10:12:32.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHSC reduces annual spend on data infrastructure by £12.6m]]></title>
+        <id>https://www.digitalhealth.net/?p=241891</id>
+        <link href="https://www.digitalhealth.net/2025/09/dhsc-reduces-annual-spend-on-data-infrastructure-by-12-6m/"/>
+        <updated>2025-09-10T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Health and Social Care has reduced its annual spending on data staff, technology and management by £12.6m since 2023/24.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4698 - Microsoft Releases September 2025 Security Updates]]></title>
+        <id>0b25a544-f454-4d86-9252-b8e727c672eb</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4698"/>
+        <updated>2025-09-10T09:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed
+ Scheduled updates for Microsoft products address 81 vulnerabilities, of which two have been reported as publicly disclosed
+ Updated: 10 Sep 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAAC removed from seven more NHS hospitals]]></title>
         <id>https://www.gov.uk/government/news/raac-removed-from-seven-more-nhs-hospitals</id>
@@ -14,6 +37,16 @@
         <summary type="html"><![CDATA[Backed by up to £440 million in funding this year, a further 12 hospitals are on track to complete removals by the end of March 2026.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streeting confirms 43 neighbourhood sites will be 'test beds' for new GP contracts]]></title>
+        <id>https://www.gponline.com/article/1931858</id>
+        <link href="https://www.gponline.com/streeting-confirms-43-neighbourhood-sites-will-test-beds-new-gp-contracts/article/1931858"/>
+        <updated>2025-09-10T08:26:48.000Z</updated>
+        <summary type="html"><![CDATA[The 43 areas that have been chosen for the first wave of rolling out a neighbourhood NHS will act as a 'test bed' for new primary care contracts, health and social care secretary Wes Streeting has said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
