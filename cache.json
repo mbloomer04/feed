@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1931858",
+          "author": null,
+          "description": "The 43 areas that have been chosen for the first wave of rolling out a neighbourhood NHS will act as a 'test bed' for new primary care contracts, health and social care secretary Wes Streeting has said.",
+          "link": "https://www.gponline.com/streeting-confirms-43-neighbourhood-sites-will-test-beds-new-primary-care-contracts/article/1931858",
+          "publishedOn": "2025-09-10T08:26:48.000Z",
+          "wordCount": 761,
+          "title": "Streeting confirms 43 neighbourhood sites will be 'test beds' for new primary care contracts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2225190710-ezgif.com-optijpeg.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1931804",
           "author": null,
           "description": "A prominent East London GP has been elected to become RCGP president from November - and will take on the role alongside positions on the BMA council and NHS England board.",
@@ -2007,6 +2017,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/raac-removed-from-seven-more-nhs-hospitals",
+          "author": null,
+          "description": "Backed by up to £440 million in funding this year, a further 12 hospitals are on track to complete removals by the end of March 2026.",
+          "link": "https://www.gov.uk/government/news/raac-removed-from-seven-more-nhs-hospitals",
+          "publishedOn": "2025-09-10T08:41:29.000Z",
+          "wordCount": 1994,
+          "title": "RAAC removed from seven more NHS hospitals",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/reinforced-autoclaved-aerated-concrete-raac-in-hospitals-management-information",
+          "author": null,
+          "description": "Data on confirmed evidence of RAAC in hospital sites in England that are part of NHS England's RAAC remediation programme.",
+          "link": "https://www.gov.uk/government/publications/reinforced-autoclaved-aerated-concrete-raac-in-hospitals-management-information",
+          "publishedOn": "2025-09-10T08:13:35.000Z",
+          "wordCount": 1450,
+          "title": "Transparency data: Reinforced autoclaved aerated concrete (RAAC) in hospitals: management information",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/speeches/secretary-of-state-speech-at-the-kings-fund",
           "author": null,
