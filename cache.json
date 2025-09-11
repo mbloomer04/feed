@@ -2088,6 +2088,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/classification-of-place-of-death",
+          "author": null,
+          "description": "A guide that supports the methods used for all place of death indicators as classified by Office for National Statistics (ONS) death certificate data.",
+          "link": "https://www.gov.uk/government/publications/classification-of-place-of-death",
+          "publishedOn": "2025-09-11T15:47:50.000Z",
+          "wordCount": 930,
+          "title": "Guidance: Classification of place of death",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
           "author": null,
           "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
