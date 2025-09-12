@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1932038",
+          "author": null,
+          "description": "Talking General Practice speaks to GP Dr Helen Thomas, a member of Healthcare Professionals for Safer Screens, who has developed screening tools and resources to help clinicians identify problematic smartphone use in young people that might be affecting their mental health.",
+          "link": "https://www.gponline.com/podcast-smartphone-use-young-peoples-mental-health-gps-need-know/article/1932038",
+          "publishedOn": "2025-09-12T07:52:00.000Z",
+          "wordCount": 761,
+          "title": "Podcast: Smartphone use and young people’s mental health - what GPs need to know",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_1007.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1932117",
           "author": null,
           "description": "More than four in five people say they are concerned about pressure on GP services, with easier access to GP appointments the top priority for the NHS identified by the public, polling shows.",
@@ -2005,6 +2015,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/supplying-take-home-naloxone-without-a-prescription",
+          "author": null,
+          "description": "A guide to the legislation enabling drug services and others to supply take home naloxone without a prescription to save a life in an emergency.",
+          "link": "https://www.gov.uk/guidance/supplying-take-home-naloxone-without-a-prescription",
+          "publishedOn": "2025-09-12T08:38:09.000Z",
+          "wordCount": 6023,
+          "title": "Supplying take home naloxone without a prescription",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/classification-of-place-of-death",
           "author": null,
