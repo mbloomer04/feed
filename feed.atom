@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-12T15:11:41.205Z</updated>
+    <updated>2025-09-12T16:12:42.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs face workload surge as 55,000 patients recalled over diabetes test errors]]></title>
+        <id>https://www.gponline.com/article/1931969</id>
+        <link href="https://www.gponline.com/gps-face-workload-surge-55000-patients-recalled-diabetes-test-errors/article/1931969"/>
+        <updated>2025-09-12T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[GP workload will increase for some practices in England as thousands of patients will be asked to re-take blood tests after a machine error led to inaccurate diabetes results.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Medicines that you cannot export from the UK or hoard]]></title>
         <id>https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk</id>
