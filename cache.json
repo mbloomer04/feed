@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1932117",
+          "author": null,
+          "description": "More than four in five people say they are concerned about pressure on GP services, with easier access to GP appointments the top priority for the NHS identified by the public, polling shows.",
+          "link": "https://www.gponline.com/majority-patients-concerned-pressure-gp-services/article/1932117",
+          "publishedOn": "2025-09-11T23:01:00.000Z",
+          "wordCount": 737,
+          "title": "Majority of patients concerned about pressure on GP services",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/waitingroom_GettyImages-NIckBeer_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1932047",
           "author": null,
           "description": "Learning sessions at the event will challenge and empower you in your daily practice.",
@@ -3416,16 +3426,6 @@
           "publishedOn": "2025-08-14T07:30:53.000Z",
           "wordCount": null,
           "title": "AI assistance may lead to loss of skills in health professionals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=237345",
-          "author": "Tammy Lovell",
-          "description": "A digital tool to help identify and prevent distressed behaviours in dementia patients will be showcased by the Alzheimer’s Society.",
-          "link": "https://www.digitalhealth.net/2025/08/app-launches-to-prevent-distressed-behaviours-in-dementia-patients/",
-          "publishedOn": "2025-08-13T12:30:31.000Z",
-          "wordCount": null,
-          "title": "App launches to prevent distressed behaviours in dementia patients",
           "imageUrl": null
         }
       ]
