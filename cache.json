@@ -1818,16 +1818,6 @@
           "wordCount": 719,
           "title": "Podcast: How to address the challenges facing dispensing GP practices",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_RichardWest.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1928881",
-          "author": null,
-          "description": "A union representing physician associates is seeking a legal injunction to prevent NHS England changing their name to 'physician assistants' (PAs) and altering rules on the scope of the role following the Leng review.",
-          "link": "https://www.gponline.com/pa-union-seeks-legal-injunction-stop-leng-review-changes/article/1928881",
-          "publishedOn": "2025-08-14T09:11:35.000Z",
-          "wordCount": 737,
-          "title": "PA union seeks legal injunction to stop Leng review changes",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/HighCourt_GettyImages-ChrisMansfield_RF_6.jpg"
         }
       ]
     },
@@ -2006,16 +1996,6 @@
           "publishedOn": "2025-08-19T23:01:21.000Z",
           "wordCount": 1936,
           "title": "NHS marks major milestone with 100,000 people home tested for hepatitis C",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=271201",
-          "author": "Tom W",
-          "description": "The NHS performed a record number of checks for treatments, cancer checks and other tests for June, as 18-week performance hit its best level in 3 years. NHS staff pulled out all the stops to treat a record number of patients in any June, with 103,563 – or 2% – more treatments delivered than the […]",
-          "link": "https://www.england.nhs.uk/2025/08/nhs-publishes-strike-impact-data-following-a-record-june-for-treatments/",
-          "publishedOn": "2025-08-14T09:13:19.000Z",
-          "wordCount": 1657,
-          "title": "NHS publishes strike impact data following a record June for treatments",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2649,6 +2629,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:86f5e0bd-5c60-48e3-9193-032feee60555",
+          "author": null,
+          "description": "The global cholera statistics for 2024, shows an increase in both the number of people who fell sick and died from the disease. Reported cholera cases rose by 5% and deaths by 50% in 2024 compared to 2023, with more than 6000 people dying from a disease that is both preventable and treatable.",
+          "link": "https://www.who.int/news/item/12-09-2025-cholera-kills-more-people-for-second-consecutive-year-while-prevention-and-treatment-available",
+          "publishedOn": "2025-09-12T14:16:33.000Z",
+          "wordCount": 2388,
+          "title": "Cholera kills more people for second consecutive year, while prevention and treatment available",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cholera/testing-for-cholera.tmb-1200v.jpg?sfvrsn=f15cf641_1"
+        },
         {
           "id": "urn:uuid:28752332-e3cb-4a20-ae03-81a3309e30de",
           "author": null,
@@ -3404,16 +3394,6 @@
           "publishedOn": "2025-08-14T10:30:53.000Z",
           "wordCount": null,
           "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=237423",
-          "author": "Jordan Sollof",
-          "description": "Three female cofounded HealthTech firms have secured over £1m investment from STAC, Scotland’s industry-led accelerator for tech start-ups.",
-          "link": "https://www.digitalhealth.net/2025/08/scottish-accelerator-invests-1m-in-female-led-healthtech-startups/",
-          "publishedOn": "2025-08-14T10:00:47.000Z",
-          "wordCount": null,
-          "title": "Scottish accelerator invests £1m in female-led HealthTech startups",
           "imageUrl": null
         }
       ]
