@@ -84,26 +84,6 @@
           "wordCount": null,
           "title": "CC-4692 - N-able Releases Critical Security Update for N-central",
           "imageUrl": null
-        },
-        {
-          "id": "6eaa34b3-f47d-4e75-921b-bdde4d0033c4",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise\n CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise\n Updated: 13 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4691",
-          "publishedOn": "2025-08-13T13:30:00.000Z",
-          "wordCount": null,
-          "title": "CC-4691 - Fortinet Releases Security Advisory for Authentication Bypass Vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "6d8f88a0-8ec3-4fee-ad4f-81b7c1e708ad",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products, including security updates for 111 vulnerabilities, of which one has been reported as publicly disclosed\n Scheduled updates for Microsoft products, including security updates for 111 vulnerabilities, of which one has been reported as publicly disclosed\n Updated: 13 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4690",
-          "publishedOn": "2025-08-13T13:29:00.000Z",
-          "wordCount": null,
-          "title": "CC-4690 - Microsoft Releases August 2025 Security Updates",
-          "imageUrl": null
         }
       ]
     },

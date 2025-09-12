@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-12T00:55:39.882Z</updated>
+    <updated>2025-09-12T02:15:18.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2411,32 +2411,6 @@ Vaccination providers visit schools to deliver vaccinations to hundreds of child
         <summary type="html"><![CDATA[Newly-qualified GPs are being forced into 'patchwork careers' - taking on multiple part-time jobs to earn a living, a GP trainer has warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4691 - Fortinet Releases Security Advisory for Authentication Bypass Vulnerability]]></title>
-        <id>6eaa34b3-f47d-4e75-921b-bdde4d0033c4</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4691"/>
-        <updated>2025-08-13T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise
- CVE-2024-26009 could allow an unauthenticated attacker to perform full device compromise
- Updated: 13 Aug 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4690 - Microsoft Releases August 2025 Security Updates]]></title>
-        <id>6d8f88a0-8ec3-4fee-ad4f-81b7c1e708ad</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4690"/>
-        <updated>2025-08-13T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Scheduled updates for Microsoft products, including security updates for 111 vulnerabilities, of which one has been reported as publicly disclosed
- Scheduled updates for Microsoft products, including security updates for 111 vulnerabilities, of which one has been reported as publicly disclosed
- Updated: 13 Aug 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
