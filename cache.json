@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "CC-4693 - Cisco Releases August 2025 ASA, FMC, and FTD Software Security Advisory Bundled Publication",
           "imageUrl": null
-        },
-        {
-          "id": "6ab2dd7a-dca1-469e-9c57-28c494fa448a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updates address two vulnerabilities that have been added to the Known Exploited Vulnerabilities Catalog\n Updated: 14 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4692",
-          "publishedOn": "2025-08-14T12:52:00.000Z",
-          "wordCount": null,
-          "title": "CC-4692 - N-able Releases Critical Security Update for N-central",
-          "imageUrl": null
         }
       ]
     },
@@ -1869,6 +1859,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=273253",
+          "author": "Tom W",
+          "description": "The number of students taking up nursing degrees in England has risen for the first time since the post-pandemic surge in 2021.  The increase is being driven by more than 11,500 (11,530) students aged under 25 accepting a place on a nursing degree – 6% higher than in 2024, when 10,850 students were under 25. […]",
+          "link": "https://www.england.nhs.uk/2025/09/student-nursing-numbers-rise-first-time-since-pandemic-surge/",
+          "publishedOn": "2025-09-12T23:01:54.000Z",
+          "wordCount": 1645,
+          "title": "Student nursing numbers rise for first time since pandemic surge",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=273210",
           "author": "Tom W",
           "description": "The NHS has begun rolling out new suicide prevention training this week for all mental health staff. Available from Wednesday 10 September, the new e-learning course offers practical, evidence-based advice on how to recognise and support people in crisis, including those experiencing suicidal thoughts. It builds on new national guidance issued earlier this year, which […]",
@@ -3374,16 +3374,6 @@
           "publishedOn": "2025-08-15T07:30:02.000Z",
           "wordCount": null,
           "title": "Digital Health’s monthly roundup of contracts and go lives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=237799",
-          "author": "Cora Lydon",
-          "description": "HealthTech firm Sanome has gained regulatory approval for its AI warning system which predicts and prevents healthcare-associated infections.",
-          "link": "https://www.digitalhealth.net/2025/08/sanome-pproves-ai-tool-to-detect-healthcare-associated-infections/",
-          "publishedOn": "2025-08-14T12:30:09.000Z",
-          "wordCount": null,
-          "title": "MHRA approves AI tool to detect healthcare-associated infections",
           "imageUrl": null
         }
       ]
