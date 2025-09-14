@@ -1966,6 +1966,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/speeches/health-secretary-speech-to-british-medical-association",
+          "author": null,
+          "description": "The Secretary of State for Health and Social Care spoke at the special meeting of the British Medical Association’s (BMA) representative body this morning.",
+          "link": "https://www.gov.uk/government/speeches/health-secretary-speech-to-british-medical-association",
+          "publishedOn": "2025-09-14T20:51:21.000Z",
+          "wordCount": 4485,
+          "title": "Health Secretary speech to British Medical Association",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/6688152fd9d35187868f454f/wes-streeting.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
           "author": null,
           "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
