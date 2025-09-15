@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-15T07:13:17.617Z</updated>
+    <updated>2025-09-15T08:17:36.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It’s harder than expected to implement AI in the NHS, finds study]]></title>
+        <id>https://www.digitalhealth.net/?p=242195</id>
+        <link href="https://www.digitalhealth.net/2025/09/ucl-study-finds-challenges-in-implementing-ai-in-the-nhs/"/>
+        <updated>2025-09-15T07:30:30.000Z</updated>
+        <summary type="html"><![CDATA[A study led by University College London researchers has found that implementing AI into NHS hospitals is harder than initially anticipated.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 NHS Trusts the focus of national maternity investigation]]></title>
         <id>https://www.gov.uk/government/news/14-nhs-trusts-the-focus-of-national-maternity-investigation</id>
