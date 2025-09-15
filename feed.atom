@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-15T10:13:28.278Z</updated>
+    <updated>2025-09-15T11:10:20.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA[The Secretary of State for Health and Social Care spoke at the special meeting of the British Medical Association’s (BMA) representative body this morning.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA rejects 10-year plan and demands protection of GP model]]></title>
+        <id>https://www.gponline.com/article/1932315</id>
+        <link href="https://www.gponline.com/bma-rejects-10-year-plan-demands-protection-gp-model/article/1932315"/>
+        <updated>2025-09-14T15:59:11.000Z</updated>
+        <summary type="html"><![CDATA[BMA leaders have voted to oppose the government's 10-year health plan and demanded safeguards to guarantee the future of GP independent contractor status.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
