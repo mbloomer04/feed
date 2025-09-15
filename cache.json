@@ -1966,6 +1966,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-equality-information-2024",
+          "author": null,
+          "description": "A report setting out how the Department of Health and Social Care (DHSC) has responded to its equality duties.",
+          "link": "https://www.gov.uk/government/publications/dhsc-equality-information-2024",
+          "publishedOn": "2025-09-15T10:00:02.000Z",
+          "wordCount": 806,
+          "title": "Corporate report: DHSC equality information: 2024",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/14-nhs-trusts-the-focus-of-national-maternity-investigation",
           "author": null,
           "description": "Government announces 14 hospital trusts to be looked at in a national investigation",
@@ -2626,6 +2636,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=242441",
+          "author": "Jordan Sollof",
+          "description": "More than 900,000 patients in Ireland are now able to view their appointments in the Health Service Executive (HSE) Health App.",
+          "link": "https://www.digitalhealth.net/2025/09/patients-in-ireland-can-view-appointments-in-hse-health-app/",
+          "publishedOn": "2025-09-15T10:00:09.000Z",
+          "wordCount": 6154,
+          "title": "Patients in Ireland can view appointments in HSE Health App",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Jennifer-Carroll-MacNeill.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=242195",
           "author": "Jordan Sollof",
