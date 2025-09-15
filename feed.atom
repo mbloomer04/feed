@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-15T11:10:20.431Z</updated>
+    <updated>2025-09-15T12:24:47.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[A report setting out how the Department of Health and Social Care (DHSC) has responded to its equality duties.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streeting dismisses GPs concerned over online access as 'laggards']]></title>
+        <id>https://www.gponline.com/article/1932369</id>
+        <link href="https://www.gponline.com/streeting-dismisses-gps-concerned-online-access-laggards/article/1932369"/>
+        <updated>2025-09-15T09:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Health and social care secretary Wes Streeting has infuriated GPs after dismissing concerns around enabling access to online consultation systems throughout core hours - claiming resistance to the move is 'naive', and calling GPs resisting it 'laggards'.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
