@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-16T11:10:06.770Z</updated>
+    <updated>2025-09-16T12:24:37.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mental health service for NHS staff reveals scale of suicidal ideation]]></title>
+        <id>https://www.gponline.com/article/1932549</id>
+        <link href="https://www.gponline.com/mental-health-service-nhs-staff-reveals-scale-suicidal-ideation/article/1932549"/>
+        <updated>2025-09-16T10:52:27.000Z</updated>
+        <summary type="html"><![CDATA[One in three people who registered with a mental health service for NHS staff in 2024/25 had experienced suicidal thoughts or plans.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=241197</id>
@@ -284,6 +294,16 @@
         <summary type="html"><![CDATA[A guide that supports the methods used for all place of death indicators as classified by Office for National Statistics (ONS) death certificate data.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Map: Which areas face the steepest GP recruitment challenge?]]></title>
+        <id>https://www.gponline.com/article/1932121</id>
+        <link href="https://www.gponline.com/map-areas-face-steepest-gp-recruitment-challenge/article/1932121"/>
+        <updated>2025-09-11T14:57:17.000Z</updated>
+        <summary type="html"><![CDATA[England's GP workforce will need to more than double over the next 15 years to deliver a safe GP-patient ratio in the face of a rising population. Some ICB areas, however, face an even greater challenge - explore the map and chart below to find out more.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
