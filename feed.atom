@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-16T10:13:01.976Z</updated>
+    <updated>2025-09-16T11:10:06.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=241197</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-103/"/>
+        <updated>2025-09-16T10:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Time includes a new midwifery degree which includes AI training and an NHSE call for market input on patient feedback.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lewisham and Greenwich NHS rolls out digital forms via NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=242563</id>
+        <link href="https://www.digitalhealth.net/2025/09/lewisham-and-greenwich-rolls-out-digital-forms-via-nhs-app/"/>
+        <updated>2025-09-16T10:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Lewisham and Greenwich NHS Trust has rolled out a digital tool for pre-operative assessment forms via the NHS App.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICS leaders call for clarity on digital leadership]]></title>
         <id>https://www.digitalhealth.net/?p=241869</id>
