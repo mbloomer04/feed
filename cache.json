@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1932779",
+          "author": null,
+          "description": "One in three GPs with a licence to practise in England are not working in NHS general practice - and numbers lost to the health service are growing fast, a shocking study reveals.",
+          "link": "https://www.gponline.com/third-licensed-gps-england-lost-nhs-study-reveals/article/1932779",
+          "publishedOn": "2025-09-17T22:35:00.000Z",
+          "wordCount": 734,
+          "title": "Third of licensed GPs in England lost to NHS, study reveals",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_71.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1932689",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -3404,16 +3414,6 @@
           "publishedOn": "2025-08-19T12:30:31.000Z",
           "wordCount": null,
           "title": "NICE recommends six digital technologies to support cardiac rehab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=237863",
-          "author": "Cora Lydon",
-          "description": "This edition of Coffee Time includes a NICE consultation on potential updates to its HealthTech programme manual.",
-          "link": "https://www.digitalhealth.net/2025/08/digital-health-coffee-time-briefing-%e2%98%95-95/",
-          "publishedOn": "2025-08-19T10:30:55.000Z",
-          "wordCount": null,
-          "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": null
         }
       ]
