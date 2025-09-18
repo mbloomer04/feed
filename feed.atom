@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-18T20:13:47.825Z</updated>
+    <updated>2025-09-18T21:11:23.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[New joint executive team marks next steps of the transition to one organisation.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO urges cost effective solutions on NCDs and mental health amidst slowing progress]]></title>
+        <id>urn:uuid:b3721a08-f773-493b-85c0-f5203fad2403</id>
+        <link href="https://www.who.int/news/item/18-09-2025-who-urges-cost-effective-solutions-on-ncds-and-mental-health-amidst-slowing-progress"/>
+        <updated>2025-09-18T13:33:07.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released a new report titled “Saving lives, spending less”, revealing that an additional investment of just US$3 per person annually in tackling noncommunicable diseases (NCDs) could yield economic benefits of up to US$1 trillion by 2030.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
