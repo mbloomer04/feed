@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-18T07:12:01.546Z</updated>
+    <updated>2025-09-18T08:16:17.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Could an AI breath test speed up COPD diagnosis?]]></title>
+        <id>https://www.digitalhealth.net/?p=242607</id>
+        <link href="https://www.digitalhealth.net/2025/09/could-an-ai-breath-test-speed-up-copd-diagnosis/"/>
+        <updated>2025-09-18T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[A study will assess whether an AI breath test can help speed up the diagnosis of chronic obstructive pulmonary disease (COPD) in the NHS.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Third of licensed GPs in England lost to NHS, study reveals]]></title>
         <id>https://www.gponline.com/article/1932779</id>
