@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "61fd776a-9008-47bf-ad35-ee799c199533",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 18 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4700",
+          "publishedOn": "2025-09-18T12:26:00.000Z",
+          "wordCount": null,
+          "title": "CC-4700 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "02dd2e46-63df-4898-b5af-1b4a392139e0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address vulnerabilities in Connect Secure, Policy Secure, ZTA Gateways, and Neurons for Secure Access\n Updates address vulnerabilities in Connect Secure, Policy Secure, ZTA Gateways, and Neurons for Secure Access\n Updated: 10 Sep 2025",
@@ -2726,6 +2736,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=242811",
+          "author": "Jordan Sollof",
+          "description": "The government and NHSE have not listened to GPs' concerns around changes to online consultations from 1 October, said the BMA.",
+          "link": "https://www.digitalhealth.net/2025/09/safeguards-are-needed-for-online-consultation-changes-says-bma/",
+          "publishedOn": "2025-09-18T12:30:20.000Z",
+          "wordCount": 6237,
+          "title": "Safeguards are needed for online consultation changes, says BMA",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/Wes-Streeting-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=241263",
           "author": "Cora Lydon",
