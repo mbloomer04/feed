@@ -1976,6 +1976,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/the-primary-dental-services-statement-of-financial-entitlements-amendment-no-3-directions-2025",
+          "author": null,
+          "description": "Implements changes to the payments made by NHS England to contractors under a dental service contract with effect from 1 April 2025.",
+          "link": "https://www.gov.uk/government/publications/the-primary-dental-services-statement-of-financial-entitlements-amendment-no-3-directions-2025",
+          "publishedOn": "2025-09-19T12:44:54.000Z",
+          "wordCount": 955,
+          "title": "Statutory guidance: The Primary Dental Services Statement of Financial Entitlements (Amendment) (No. 3) Directions 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
           "author": null,
           "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
@@ -2746,6 +2756,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=242091",
+          "author": "Jordan Sollof",
+          "description": "Four companies offering 5G-enabled healthcare solutions will receive support from CPI as part of its 5G Innovation Programme.",
+          "link": "https://www.digitalhealth.net/2025/09/four-5g-healthcare-solutions-in-north-east-to-receive-cpi-support/",
+          "publishedOn": "2025-09-19T12:30:45.000Z",
+          "wordCount": 6192,
+          "title": "Four 5G healthcare solutions in North East to receive CPI support",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/5G-test-bed.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=242879",
           "author": "Tammy Lovell",
