@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-19T07:11:55.312Z</updated>
+    <updated>2025-09-19T08:16:24.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)]]></title>
+        <id>https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit</id>
+        <link href="https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit"/>
+        <updated>2025-09-19T07:46:22.000Z</updated>
+        <summary type="html"><![CDATA[The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=242993</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-healths-monthly-roundup-of-contracts-and-go-lives-56/"/>
+        <updated>2025-09-19T07:30:19.000Z</updated>
+        <summary type="html"><![CDATA[The latest roundup of contracts and go lives includes the rollout of an electronic patient records (EPR) at Croydon Sexual Health.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Streeting angers GPs, BMA rejects 10-year plan, plus how many GPs does England need?]]></title>
         <id>https://www.gponline.com/article/1932885</id>

@@ -1986,6 +1986,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "author": null,
+          "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
+          "link": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
+          "publishedOn": "2025-09-19T07:46:22.000Z",
+          "wordCount": 1249,
+          "title": "Guidance: Drugs and pharmaceutical electronic market information tool (eMIT)",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/joint-executive-team-to-be-set-up-across-dhsc-and-nhs-england",
           "author": null,
           "description": "New joint executive team marks next steps of the transition to one organisation.",
@@ -2746,6 +2756,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=242993",
+          "author": "Jordan Sollof",
+          "description": "The latest roundup of contracts and go lives includes the rollout of an electronic patient records (EPR) at Croydon Sexual Health.",
+          "link": "https://www.digitalhealth.net/2025/09/digital-healths-monthly-roundup-of-contracts-and-go-lives-56/",
+          "publishedOn": "2025-09-19T07:30:19.000Z",
+          "wordCount": 6514,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Contract-Sign.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=242811",
           "author": "Jordan Sollof",
