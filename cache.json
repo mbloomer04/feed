@@ -1170,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1932976",
+          "author": null,
+          "description": "GP leaders in England have voted to return to industrial dispute with the government from 1 October over 'unsafe' contract changes.",
+          "link": "https://www.gponline.com/bma-gp-committee-backs-return-industrial-dispute/article/1932976",
+          "publishedOn": "2025-09-18T22:47:03.000Z",
+          "wordCount": 701,
+          "title": "BMA GP committee backs return to industrial dispute",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_55.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1931866",
           "author": null,
           "description": "GPs say taking part in a pilot that supports people with health conditions to remain in or return to work has given them a 'morale boost' and a sense of giving back to the community.",
@@ -3474,16 +3484,6 @@
           "publishedOn": "2025-08-21T07:30:36.000Z",
           "wordCount": null,
           "title": "Nervecentre ePMA goes live at Cardiff and Vale UHB hospital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=238603",
-          "author": "Tammy Lovell",
-          "description": "US software giant Epic has confirmed that it will integrate a range of AI tools into its EPR, including clinical documentation for doctors.",
-          "link": "https://www.digitalhealth.net/2025/08/epic-announces-the-launch-of-native-ai-charting-tool/",
-          "publishedOn": "2025-08-20T12:30:15.000Z",
-          "wordCount": null,
-          "title": "Epic announces the launch of native AI charting tool",
           "imageUrl": null
         }
       ]
