@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "CC-4695 - Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway Under Active Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "996811d9-7e7b-471b-908b-4b776d339baa",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution\n Updated: 21 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4694",
-          "publishedOn": "2025-08-21T14:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4694 - Commvault Releases Security Updates to Address Multiple Vulnerabilities",
-          "imageUrl": null
         }
       ]
     },

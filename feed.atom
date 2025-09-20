@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-20T00:55:02.013Z</updated>
+    <updated>2025-09-20T02:14:25.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2094,19 +2094,6 @@ WHO EML and EMLc include medicines for priority health needs of populations. The
         <summary type="html"><![CDATA[GP leaders have welcomed a £15m funding boost for general practice in Scotland, but called for more money to close an estimated £290m funding gap.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4694 - Commvault Releases Security Updates to Address Multiple Vulnerabilities]]></title>
-        <id>996811d9-7e7b-471b-908b-4b776d339baa</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4694"/>
-        <updated>2025-08-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution
- Security researchers have demonstrated that 4 vulnerabilities in Commvault can be exploited in a chain to achieve unauthenticated remote code execution
- Updated: 21 Aug 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
