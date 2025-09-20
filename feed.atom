@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-20T04:14:21.142Z</updated>
+    <updated>2025-09-20T05:11:17.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amended International Health Regulations enter into force]]></title>
+        <id>urn:uuid:2978c980-0873-4148-bc97-a4a5659ea93f</id>
+        <link href="https://www.who.int/news/item/19-09-2025-amended-international-health-regulations-enter-into-force"/>
+        <updated>2025-09-19T14:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Today marks a milestone in global health governance as the amendments to the International Health Regulations (IHR) enter into force. This reflects a renewed global commitment to cooperation in the face of public health emergencies, shaped by hard-earned lessons of the COVID-19 pandemic.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Competition for GP training posts spirals to 'ridiculous' new high]]></title>
         <id>https://www.gponline.com/article/1933060</id>
