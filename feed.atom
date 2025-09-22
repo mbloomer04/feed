@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-22T09:15:17.190Z</updated>
+    <updated>2025-09-22T10:14:19.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Birmingham Women’s and Children’s connects into NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=243017</id>
+        <link href="https://www.digitalhealth.net/2025/09/birmingham-womens-and-childrens-connects-into-nhs-app/"/>
+        <updated>2025-09-22T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Patients at Birmingham Women's and Children's NHS FT can now access their appointment details through the NHS App.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[National vaccination campaign to protect newborns this winter]]></title>
+        <id>https://www.gov.uk/government/news/national-vaccination-campaign-to-protect-newborns-this-winter</id>
+        <link href="https://www.gov.uk/government/news/national-vaccination-campaign-to-protect-newborns-this-winter"/>
+        <updated>2025-09-22T09:36:06.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Health and Social care has launched a new national vaccination campaign - 'Stay Strong. Get Vaccinated' - to protect newborn babies]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA could ballot partners over contract change that makes GP access 'harder']]></title>
         <id>https://www.gponline.com/article/1933127</id>

@@ -1956,6 +1956,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/national-vaccination-campaign-to-protect-newborns-this-winter",
+          "author": null,
+          "description": "The Department of Health and Social care has launched a new national vaccination campaign - 'Stay Strong. Get Vaccinated' - to protect newborn babies",
+          "link": "https://www.gov.uk/government/news/national-vaccination-campaign-to-protect-newborns-this-winter",
+          "publishedOn": "2025-09-22T09:36:06.000Z",
+          "wordCount": 2429,
+          "title": "National vaccination campaign to protect newborns this winter",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/the-primary-dental-services-statement-of-financial-entitlements-amendment-no-3-directions-2025",
           "author": null,
           "description": "Implements changes to the payments made by NHS England to contractors under a dental service contract with effect from 1 April 2025.",
@@ -2706,6 +2716,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=243017",
+          "author": "Cora Lydon",
+          "description": "Patients at Birmingham Women's and Children's NHS FT can now access their appointment details through the NHS App.",
+          "link": "https://www.digitalhealth.net/2025/09/birmingham-womens-and-childrens-connects-into-nhs-app/",
+          "publishedOn": "2025-09-22T10:00:01.000Z",
+          "wordCount": 6028,
+          "title": "Birmingham Women’s and Children’s connects into NHS App",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/03/Nick-Barlow.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243051",
           "author": "Jordan Sollof",
