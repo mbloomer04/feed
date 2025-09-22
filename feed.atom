@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-22T13:23:24.465Z</updated>
+    <updated>2025-09-22T14:13:29.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4701 - Fortra Releases Security Update for GoAnywhere MFT]]></title>
+        <id>49a345ba-debb-403f-8f16-ce650d399507</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4701"/>
+        <updated>2025-09-22T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could allow an attacker to inject arbitrary commands
+ Security update addresses a critical severity vulnerability in Fortra's GoAnywhere MFT License Servlet
+ Updated: 22 Sep 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major IT outage delays 1,600 patient appointments]]></title>
         <id>https://www.digitalhealth.net/?p=243259</id>

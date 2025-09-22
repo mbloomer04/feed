@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "49a345ba-debb-403f-8f16-ce650d399507",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow an attacker to inject arbitrary commands\n Security update addresses a critical severity vulnerability in Fortra's GoAnywhere MFT License Servlet\n Updated: 22 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4701",
+          "publishedOn": "2025-09-22T13:48:00.000Z",
+          "wordCount": null,
+          "title": "CC-4701 - Fortra Releases Security Update for GoAnywhere MFT",
+          "imageUrl": null
+        },
+        {
           "id": "61fd776a-9008-47bf-ad35-ee799c199533",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 18 Sep 2025",
