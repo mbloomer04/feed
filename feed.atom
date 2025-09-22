@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-22T15:13:50.827Z</updated>
+    <updated>2025-09-22T16:15:28.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -77,6 +77,16 @@
         <summary type="html"><![CDATA[Great Ormond Street Hospital for Children NHS FT is "embedding AI into clinical care, operations and research", said Mark Coker, CDIO.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patients treated more quickly as NHS productivity rises over year]]></title>
+        <id>https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year</id>
+        <link href="https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year"/>
+        <updated>2025-09-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NHS productivity increases by 2.7% over the past year, new data shows meaning patients are being seen and treated more quickly due to investment and reforms.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
