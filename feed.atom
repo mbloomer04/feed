@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-22T12:25:13.431Z</updated>
+    <updated>2025-09-22T13:23:24.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Major IT outage delays 1,600 patient appointments]]></title>
+        <id>https://www.digitalhealth.net/?p=243259</id>
+        <link href="https://www.digitalhealth.net/2025/09/major-it-outage-delays-1600-patient-appointments/"/>
+        <updated>2025-09-22T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Around 1,600 patient appointments have been postponed following an IT outage at the Southern Health and Social Care Trust.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Birmingham Women’s and Children’s connects into NHS App]]></title>
         <id>https://www.digitalhealth.net/?p=243017</id>
