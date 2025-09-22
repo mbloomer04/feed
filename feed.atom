@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-22T14:13:29.268Z</updated>
+    <updated>2025-09-22T15:13:50.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI to be trialled at unprecedented scale across NHS screening]]></title>
+        <id>https://www.gov.uk/government/news/ai-to-be-trialled-at-unprecedented-scale-across-nhs-screening</id>
+        <link href="https://www.gov.uk/government/news/ai-to-be-trialled-at-unprecedented-scale-across-nhs-screening"/>
+        <updated>2025-09-22T14:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Pioneering new cloud computer system will allow AI tools to be tested on an unprecedented scale across the NHS to boost early diagnosis]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4701 - Fortra Releases Security Update for GoAnywhere MFT]]></title>
         <id>49a345ba-debb-403f-8f16-ce650d399507</id>
