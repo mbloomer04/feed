@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-23T07:12:18.736Z</updated>
+    <updated>2025-09-23T08:17:03.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHSE to launch £6m AI research screening platform]]></title>
+        <id>https://www.digitalhealth.net/?p=243345</id>
+        <link href="https://www.digitalhealth.net/2025/09/nhse-to-launch-6m-ai-research-screening-platform/"/>
+        <updated>2025-09-23T07:30:30.000Z</updated>
+        <summary type="html"><![CDATA[NHSE is building a £6 million AI research screening platform to enable trusts to join trials of AI in screening to help speed up diagnosis.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jessica Brady's legacy inspires new life-saving GP safety rule]]></title>
         <id>https://www.gov.uk/government/news/jessica-bradys-legacy-inspires-new-life-saving-gp-safety-rule</id>
