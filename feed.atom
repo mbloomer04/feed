@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-23T17:08:55.182Z</updated>
+    <updated>2025-09-23T18:18:26.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Digital Health Networks has welcomed two new allied health professional (AHP) members to its advisory panels.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncontrolled high blood pressure puts over a billion people at risk]]></title>
+        <id>urn:uuid:2c5ac3ef-725a-4bb5-bb79-6f63e6114898</id>
+        <link href="https://www.who.int/news/item/23-09-2025-uncontrolled-high-blood-pressure-puts-over-a-billion-people-at-risk"/>
+        <updated>2025-09-23T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released its second Global hypertension report, showing that 1.4 billion people lived with hypertension in 2024, yet just over one in five have it under control either through medication or addressing modifiable health risks.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
