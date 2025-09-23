@@ -1976,6 +1976,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/jessica-bradys-legacy-inspires-new-life-saving-gp-safety-rule",
+          "author": null,
+          "description": "Patients with a potentially deadly illness will be diagnosed sooner thanks to a new life saving patient safety initiative called Jess' Rule.",
+          "link": "https://www.gov.uk/government/news/jessica-bradys-legacy-inspires-new-life-saving-gp-safety-rule",
+          "publishedOn": "2025-09-22T23:15:02.000Z",
+          "wordCount": 3164,
+          "title": "Jessica Brady's legacy inspires new life-saving GP safety rule",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/news/ai-to-be-trialled-at-unprecedented-scale-across-nhs-screening",
           "author": null,
           "description": "Pioneering new cloud computer system will allow AI tools to be tested on an unprecedented scale across the NHS to boost early diagnosis",
@@ -2699,6 +2709,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:07a7f359-db84-43af-bf62-0295130f2f54",
+          "author": null,
+          "description": "WHO and the European Union (EU) have renewed their collaboration on achieving universal health coverage with the launch of Phase V (2025–2028) of the Universal Health Coverage (UHC) Partnership – WHO’s largest platform for strengthening health systems and advancing primary health care.",
+          "link": "https://www.who.int/news/item/22-09-2025-eu-renews-support-for-who-s-universal-health-coverage-partnership",
+          "publishedOn": "2025-09-22T15:26:44.000Z",
+          "wordCount": 2537,
+          "title": "EU renews support for WHO’s Universal Health Coverage Partnership",
+          "imageUrl": "https://www.who.int/images/default-source/wpro/countries/viet-nam/health-topics/immunization/immunization--viet-nam.tmb-1200v.jpg?Culture=en&sfvrsn=11aa1353_3"
+        },
         {
           "id": "urn:uuid:2978c980-0873-4148-bc97-a4a5659ea93f",
           "author": null,
