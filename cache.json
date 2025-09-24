@@ -1821,7 +1821,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "62d22aaa-b282-4db3-9864-ca83774386f6",
+          "author": "enquiries@nhsdigital.nhs.uk(NHS Digital)",
+          "description": "Liz Glidewell explains why failing a GDS service assessment is a normal part of the improvement process – and how she supported the Be Part of Research team through multiple assessments to build a better, more accessible service for their users.\n\r\n\r\nGovernment and NHS services have a duty to work for everyone, including those with low digital confidence and non-digital users. This is why services need to pass a GDS service assessment.\n\r\n\r\nIt’s not unusual for a service to fail its first assessment. But what happens next?",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/failure-isnt-the-end---its-where-better-services-begin",
+          "publishedOn": "2025-09-12T12:50:12.000Z",
+          "wordCount": null,
+          "title": "Failure isn’t the end – it’s where better services begin",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -1851,7 +1862,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "62d22aaa-b282-4db3-9864-ca83774386f6",
+          "author": "enquiries@nhsdigital.nhs.uk(NHS Digital)",
+          "description": "Liz Glidewell explains why failing a GDS service assessment is a normal part of the improvement process – and how she supported the Be Part of Research team through multiple assessments to build a better, more accessible service for their users.\n\r\n\r\nGovernment and NHS services have a duty to work for everyone, including those with low digital confidence and non-digital users. This is why services need to pass a GDS service assessment.\n\r\n\r\nIt’s not unusual for a service to fail its first assessment. But what happens next?",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/failure-isnt-the-end---its-where-better-services-begin",
+          "publishedOn": "2025-09-12T12:50:12.000Z",
+          "wordCount": null,
+          "title": "Failure isn’t the end – it’s where better services begin",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHS England",
