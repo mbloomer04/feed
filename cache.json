@@ -2008,6 +2008,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/estates-safety-fund-2025-to-2026",
+          "author": null,
+          "description": "A full list of schemes included in the Estates Safety Fund 2025 to 2026, addressing critical infrastructure and safety risk in NHS hospital buildings.",
+          "link": "https://www.gov.uk/government/publications/estates-safety-fund-2025-to-2026",
+          "publishedOn": "2025-09-24T08:03:48.000Z",
+          "wordCount": 1516,
+          "title": "Guidance: Estates Safety Fund: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-august-2025",
           "author": null,
           "description": "Reports on departmental staff numbers and costs.",
@@ -2828,6 +2838,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=243315",
+          "author": "Jordan Sollof",
+          "description": "Patients have complained about disruption to outpatient bookings following the introduction of a new EPR at Sheffield Teaching Hospitals.",
+          "link": "https://www.digitalhealth.net/2025/09/patients-complain-about-disruption-following-new-epr-in-sheffield/",
+          "publishedOn": "2025-09-24T07:30:34.000Z",
+          "wordCount": 6183,
+          "title": "Patients complain about disruption following new EPR in Sheffield",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Kirsten-Major-Sheffield-Teaching-Hospitals.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243111",
           "author": "Jordan Sollof",
