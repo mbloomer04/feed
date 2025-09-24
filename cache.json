@@ -2008,6 +2008,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-blood-and-transplant",
+          "author": null,
+          "description": "Describes the working relationship between the Department of Health and Social Care and NHS Blood and Transplant.",
+          "link": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-blood-and-transplant",
+          "publishedOn": "2025-09-24T08:47:19.000Z",
+          "wordCount": 839,
+          "title": "Policy paper: Framework agreement between DHSC and NHS Blood and Transplant",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/estates-safety-fund-2025-to-2026",
           "author": null,
           "description": "A full list of schemes included in the Estates Safety Fund 2025 to 2026, addressing critical infrastructure and safety risk in NHS hospital buildings.",
@@ -2761,6 +2771,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:356cd0c6-5d2c-4fc6-96c7-c575a4428098",
+          "author": null,
+          "description": "The World Health Organization (WHO) emphasizes that there is currently no conclusive scientific evidence confirming a possible link between autism and use of acetaminophen (also known as paracetamol) during pregnancy. \n\nGlobally, nearly 62 million people (1 in 127) have autism spectrum disorder, a diverse group of conditions related to development of the brain. Although awareness and diagnosis have improved in recent years, the exact causes of autism have not been established, and it is understood there are multiple factors that can be involved.  \nExtensive research has been undertaken over the past decade, including large-scale studies, looking into links between acetaminophen use during pregnancy and autism. At this time, no consistent association has been established. \n\nWHO recommends t…",
+          "link": "https://www.who.int/news/item/24-09-2025-who-statement-on-autism-related-issues",
+          "publishedOn": "2025-09-24T06:10:14.000Z",
+          "wordCount": 2294,
+          "title": "WHO statement on autism-related issues",
+          "imageUrl": "https://www.who.int/images/default-source/departments/foodborne-diseases/who-hq-logo.tmb-1200v.jpg?Culture=en&sfvrsn=a3f00adc_6"
+        },
         {
           "id": "urn:uuid:2c5ac3ef-725a-4bb5-bb79-6f63e6114898",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-24T08:17:13.002Z</updated>
+    <updated>2025-09-24T09:13:28.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Framework agreement between DHSC and NHS Blood and Transplant]]></title>
+        <id>https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-blood-and-transplant</id>
+        <link href="https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-blood-and-transplant"/>
+        <updated>2025-09-24T08:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Describes the working relationship between the Department of Health and Social Care and NHS Blood and Transplant.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Estates Safety Fund: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/estates-safety-fund-2025-to-2026</id>
@@ -24,6 +34,21 @@
         <summary type="html"><![CDATA[Patients have complained about disruption to outpatient bookings following the introduction of a new EPR at Sheffield Teaching Hospitals.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO statement on autism-related issues]]></title>
+        <id>urn:uuid:356cd0c6-5d2c-4fc6-96c7-c575a4428098</id>
+        <link href="https://www.who.int/news/item/24-09-2025-who-statement-on-autism-related-issues"/>
+        <updated>2025-09-24T06:10:14.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) emphasizes that there is currently no conclusive scientific evidence confirming a possible link between autism and use of acetaminophen (also known as paracetamol) during pregnancy. 
+
+Globally, nearly 62 million people (1 in 127) have autism spectrum disorder, a diverse group of conditions related to development of the brain. Although awareness and diagnosis have improved in recent years, the exact causes of autism have not been established, and it is understood there are multiple factors that can be involved.  
+Extensive research has been undertaken over the past decade, including large-scale studies, looking into links between acetaminophen use during pregnancy and autism. At this time, no consistent association has been established. 
+
+WHO recommends t…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
