@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-25T10:13:56.607Z</updated>
+    <updated>2025-09-25T11:11:06.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4702 - Active Exploitation of Zero-Day Vulnerability CVE-2025-20352 in Cisco IOS and IOS XE]]></title>
+        <id>fdd86b2f-393b-4ab3-9b92-d42d682be534</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4702"/>
+        <updated>2025-09-25T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition
+ Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition
+ Updated: 25 Sep 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=242225</id>
+        <link href="https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-106/"/>
+        <updated>2025-09-25T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Briefing includes the news that every NHS stroke centre in England has been equipped with AI software.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charlotte Refsum to return as Rewired speaker in 2026]]></title>
         <id>https://www.digitalhealth.net/?p=243605</id>

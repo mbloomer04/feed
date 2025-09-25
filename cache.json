@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "fdd86b2f-393b-4ab3-9b92-d42d682be534",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Updated: 25 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4702",
+          "publishedOn": "2025-09-25T10:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4702 - Active Exploitation of Zero-Day Vulnerability CVE-2025-20352 in Cisco IOS and IOS XE",
+          "imageUrl": null
+        },
+        {
           "id": "49a345ba-debb-403f-8f16-ce650d399507",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could allow an attacker to inject arbitrary commands\n Security update addresses a critical severity vulnerability in Fortra's GoAnywhere MFT License Servlet\n Updated: 22 Sep 2025",
@@ -2918,6 +2928,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=242225",
+          "author": "Cora Lydon",
+          "description": "Today's Coffee Briefing includes the news that every NHS stroke centre in England has been equipped with AI software.",
+          "link": "https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-106/",
+          "publishedOn": "2025-09-25T10:30:45.000Z",
+          "wordCount": 4328,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243605",
           "author": "Jordan Sollof",
