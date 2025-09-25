@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-25T08:17:01.721Z</updated>
+    <updated>2025-09-25T09:13:19.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Mortality supplementary analysis]]></title>
+        <id>https://www.gov.uk/government/publications/mortality-supplementary-analysis</id>
+        <link href="https://www.gov.uk/government/publications/mortality-supplementary-analysis"/>
+        <updated>2025-09-25T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Data and analysis on mortality trends in England and Wales.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Old age dependency ratio supplementary analysis]]></title>
+        <id>https://www.gov.uk/government/publications/old-age-dependency-ratio-supplementary-analysis</id>
+        <link href="https://www.gov.uk/government/publications/old-age-dependency-ratio-supplementary-analysis"/>
+        <updated>2025-09-25T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Data on old age dependency ratio (OADR) by local authority and year, in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Coronary heart disease prevalence supplementary analysis]]></title>
+        <id>https://www.gov.uk/government/publications/coronary-heart-disease-prevalence-supplementary-analysis</id>
+        <link href="https://www.gov.uk/government/publications/coronary-heart-disease-prevalence-supplementary-analysis"/>
+        <updated>2025-09-25T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Data and analysis on coronary heart disease (CHD) in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Health trends and variation in England 2025: a Chief Medical Officer report]]></title>
+        <id>https://www.gov.uk/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report</id>
+        <link href="https://www.gov.uk/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report"/>
+        <updated>2025-09-25T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[An overview of the health of England’s population, including trends over time and geographical variation.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More than 100,000 Universal Care Plans created in London]]></title>
         <id>https://www.digitalhealth.net/?p=243597</id>

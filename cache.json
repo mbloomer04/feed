@@ -2008,6 +2008,46 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/mortality-supplementary-analysis",
+          "author": null,
+          "description": "Data and analysis on mortality trends in England and Wales.",
+          "link": "https://www.gov.uk/government/publications/mortality-supplementary-analysis",
+          "publishedOn": "2025-09-25T08:30:04.000Z",
+          "wordCount": 788,
+          "title": "Research: Mortality supplementary analysis",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/old-age-dependency-ratio-supplementary-analysis",
+          "author": null,
+          "description": "Data on old age dependency ratio (OADR) by local authority and year, in England.",
+          "link": "https://www.gov.uk/government/publications/old-age-dependency-ratio-supplementary-analysis",
+          "publishedOn": "2025-09-25T08:30:04.000Z",
+          "wordCount": 818,
+          "title": "Research: Old age dependency ratio supplementary analysis",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/coronary-heart-disease-prevalence-supplementary-analysis",
+          "author": null,
+          "description": "Data and analysis on coronary heart disease (CHD) in England.",
+          "link": "https://www.gov.uk/government/publications/coronary-heart-disease-prevalence-supplementary-analysis",
+          "publishedOn": "2025-09-25T08:30:04.000Z",
+          "wordCount": 855,
+          "title": "Research: Coronary heart disease prevalence supplementary analysis",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report",
+          "author": null,
+          "description": "An overview of the health of England’s population, including trends over time and geographical variation.",
+          "link": "https://www.gov.uk/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report",
+          "publishedOn": "2025-09-25T08:30:04.000Z",
+          "wordCount": 1036,
+          "title": "Research: Health trends and variation in England 2025: a Chief Medical Officer report",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/millions-of-vaccines-to-be-made-in-oxfordshire-and-government-unveils-50-million-fund-in-double-boost-for-life-sciences",
           "author": null,
           "description": "New Modern Innovation and Technology Centre opened as government further boosts life sciences sector with £50 million fund.",
