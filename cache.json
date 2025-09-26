@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "CC-4697 - Exploitation of CVE-2025-42957 in SAP S/4HANA",
           "imageUrl": null
-        },
-        {
-          "id": "544e0b7a-3a31-495d-95c0-1c6d84d5f72b",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Successful exploitation could allow a remote attacker to execute arbitrary code upon cloning a Git repository\n Updated: 27 Aug 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4696",
-          "publishedOn": "2025-08-27T12:59:00.000Z",
-          "wordCount": null,
-          "title": "CC-4696 - Exploitation of Git Vulnerability CVE-2025-48384",
-          "imageUrl": null
         }
       ]
     },
@@ -2656,26 +2646,6 @@
           "wordCount": 3287,
           "title": "Government puts nurses at heart of DNA testing and research",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners",
-          "author": null,
-          "description": "From summer 2013, changes to the meningococcal C vaccine schedule will offer better protection to teens and young adults, including those entering university for the first time.",
-          "link": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-advice-for-healthcare-practitioners",
-          "publishedOn": "2025-08-27T13:12:23.000Z",
-          "wordCount": 1131,
-          "title": "Guidance: Meningococcal C conjugate vaccine: advice for healthcare practitioners",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset",
-          "author": null,
-          "description": "This slideset outlines changes to the 2014 meningococcal C conjugate (MenC) vaccination programme to healthcare professionals (HCPs).",
-          "link": "https://www.gov.uk/government/publications/meningococcal-c-conjugate-vaccine-schedule-2013-training-slideset",
-          "publishedOn": "2025-08-27T13:11:49.000Z",
-          "wordCount": 1049,
-          "title": "Guidance: Meningococcal C conjugate vaccine schedule training slideset",
-          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
