@@ -1998,6 +1998,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/nhs-to-invest-in-pioneering-tech-to-drive-down-waiting-lists",
+          "author": null,
+          "description": "NHS will move from ‘cheapest-first’ to ‘patient-first’ approach to purchasing cutting-edge medical technology",
+          "link": "https://www.gov.uk/government/news/nhs-to-invest-in-pioneering-tech-to-drive-down-waiting-lists",
+          "publishedOn": "2025-09-26T09:15:40.000Z",
+          "wordCount": 3016,
+          "title": "NHS to invest in pioneering tech to drive down waiting lists",
+          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-april-to-june-2025",
           "author": null,
           "description": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
@@ -2938,6 +2948,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=243753",
+          "author": "Jordan Sollof",
+          "description": "Proxy access for families is being piloted on the NHS App, allowing parents and carers to manage their loved ones’ health.",
+          "link": "https://www.digitalhealth.net/2025/09/gp-surgeries-pilot-proxy-access-for-families-on-nhs-app/",
+          "publishedOn": "2025-09-26T10:00:39.000Z",
+          "wordCount": 6252,
+          "title": "GP surgeries pilot proxy access for families on NHS App",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/06/NHS-App.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=243429",
+          "author": "Jordan Sollof",
+          "description": "Alcidion's Miya Precision EPR will be expanded at North Cumbria Integrated Care NHS Foundation Trust to enable scanned document access.",
+          "link": "https://www.digitalhealth.net/2025/09/north-cumbria-epr-expanded-to-enable-scanned-document-access/",
+          "publishedOn": "2025-09-26T10:00:14.000Z",
+          "wordCount": 6089,
+          "title": "North Cumbria EPR expanded to enable scanned document access",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Andy-Laverick-NCIC.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243749",
           "author": "Tammy Lovell",
