@@ -1798,16 +1798,6 @@
           "wordCount": 727,
           "title": "Neighbourhood contracts must stop hospitals taking over GP patient lists, warns BMA",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_70.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1930151",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-unexpected-contract-variation-service-charge-crisis-scottish-gp-workforce-rise/article/1930151",
-          "publishedOn": "2025-08-27T11:21:52.000Z",
-          "wordCount": 697,
-          "title": "GP News Update: Unexpected contract variation, service charge crisis, Scottish GP workforce rise",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_13.jpg"
         }
       ]
     },
@@ -1890,6 +1880,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=273941",
+          "author": "jboshell",
+          "description": "A new family feature being piloted in the NHS App is making it easier for parents and carers to manage their loved ones’ health as simply as switching profiles on Netflix. Hailed as a “gamechanger”, the service being developed by NHS England means people can apply to add another profile to their NHS App online instead […]",
+          "link": "https://www.england.nhs.uk/2025/09/nhs-apps-family-access-feature-as-simple-as-switching-netflix-profiles/",
+          "publishedOn": "2025-09-25T23:01:07.000Z",
+          "wordCount": 1471,
+          "title": "NHS App’s family access feature “as simple as switching Netflix profiles”",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=273672",
           "author": "nowen",
@@ -3686,16 +3686,6 @@
           "publishedOn": "2025-08-28T07:30:28.000Z",
           "wordCount": null,
           "title": "NHSE seeking Health Data Research Service CEO and chair",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=238913",
-          "author": "Tammy Lovell",
-          "description": "A study found that chatbots outperformed GPs in questions based on the Membership of the Royal College of General Practitioners exam.",
-          "link": "https://www.digitalhealth.net/2025/08/ai-outperforms-gps-in-mrcgp-exams-finds-study/",
-          "publishedOn": "2025-08-27T12:30:25.000Z",
-          "wordCount": null,
-          "title": "AI outperforms GPs in MRCGP exams, finds study",
           "imageUrl": null
         }
       ]
