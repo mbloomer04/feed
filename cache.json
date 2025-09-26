@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5c0ce7b8-03f5-4639-ad54-e6e9ef8b9ba0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices\n Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices\n Updated: 26 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4703",
+          "publishedOn": "2025-09-26T10:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4703 - Active campaign targeting vulnerabilities in Cisco VPN devices",
+          "imageUrl": null
+        },
+        {
           "id": "fdd86b2f-393b-4ab3-9b92-d42d682be534",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Updated: 25 Sep 2025",
@@ -1160,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1933803",
+          "author": null,
+          "description": "Cuts to ICBs and a lack of investment could seriously undermine government plans to accelerate the use of AI in the NHS, a health informatics expert has warned.",
+          "link": "https://www.gponline.com/icb-cuts-hamper-governments-nhs-ai-vision-expert-warns/article/1933803",
+          "publishedOn": "2025-09-26T08:31:53.000Z",
+          "wordCount": 726,
+          "title": "ICB cuts could hamper government's NHS AI vision, expert warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/data_GettyImages-YuichiroChino_RF_2(1).jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1933679",
           "author": null,
           "description": "Talking General Practice speaks to Professor Brendan Delaney, a GP and professor of medical informatics and decision making at Imperial College London, about how AI could transform general practice in the coming years.",
@@ -1168,6 +1188,16 @@
           "wordCount": 718,
           "title": "Podcast: AI and the future of general practice",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_Brendandelaney.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1933736",
+          "author": null,
+          "description": "A former practice manager has received a two-year suspended prison sentence and been ordered to pay back around half of £49,000 she stole from a GP surgery.",
+          "link": "https://www.gponline.com/judge-orders-practice-manager-pay-back-thousands-stolen-gp-surgery/article/1933736",
+          "publishedOn": "2025-09-25T15:06:58.000Z",
+          "wordCount": 726,
+          "title": "Judge orders practice manager to pay back thousands stolen from GP surgery",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_37.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1933718",

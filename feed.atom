@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-26T10:13:11.696Z</updated>
+    <updated>2025-09-26T11:10:03.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4703 - Active campaign targeting vulnerabilities in Cisco VPN devices]]></title>
+        <id>5c0ce7b8-03f5-4639-ad54-e6e9ef8b9ba0</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4703"/>
+        <updated>2025-09-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices
+ Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices
+ Updated: 26 Sep 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP surgeries pilot proxy access for families on NHS App]]></title>
         <id>https://www.digitalhealth.net/?p=243753</id>
@@ -34,6 +47,16 @@
         <summary type="html"><![CDATA[NHS will move from ‘cheapest-first’ to ‘patient-first’ approach to purchasing cutting-edge medical technology]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICB cuts could hamper government's NHS AI vision, expert warns]]></title>
+        <id>https://www.gponline.com/article/1933803</id>
+        <link href="https://www.gponline.com/icb-cuts-hamper-governments-nhs-ai-vision-expert-warns/article/1933803"/>
+        <updated>2025-09-26T08:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Cuts to ICBs and a lack of investment could seriously undermine government plans to accelerate the use of AI in the NHS, a health informatics expert has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +97,16 @@
         <summary type="html"><![CDATA[WHO Member States are actively progressing with the development of the Pathogens Access and Benefit Sharing (PABS) system, a key component of the WHO Pandemic Agreement aimed at ensuring equitable and timely sharing of pathogen materials and related benefits. This work follows the historic adoption of the WHO Pandemic Agreement and amendments to the International Health Regulations, marking significant steps toward global pandemic preparedness.]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge orders practice manager to pay back thousands stolen from GP surgery]]></title>
+        <id>https://www.gponline.com/article/1933736</id>
+        <link href="https://www.gponline.com/judge-orders-practice-manager-pay-back-thousands-stolen-gp-surgery/article/1933736"/>
+        <updated>2025-09-25T15:06:58.000Z</updated>
+        <summary type="html"><![CDATA[A former practice manager has received a two-year suspended prison sentence and been ordered to pay back around half of £49,000 she stole from a GP surgery.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
