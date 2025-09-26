@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-26T12:24:22.403Z</updated>
+    <updated>2025-09-26T13:21:42.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Year Workforce Plan]]></title>
+        <id>https://www.gov.uk/government/calls-for-evidence/10-year-workforce-plan</id>
+        <link href="https://www.gov.uk/government/calls-for-evidence/10-year-workforce-plan"/>
+        <updated>2025-09-26T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[This call for evidence seeks views to inform the development of the 10 Year Workforce Plan.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4703 - Active campaign targeting vulnerabilities in Cisco VPN devices]]></title>
         <id>5c0ce7b8-03f5-4639-ad54-e6e9ef8b9ba0</id>
@@ -47,6 +57,16 @@
         <summary type="html"><![CDATA[NHS will move from ‘cheapest-first’ to ‘patient-first’ approach to purchasing cutting-edge medical technology]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommendations announced for influenza vaccine composition for the 2026 southern hemisphere influenza season]]></title>
+        <id>urn:uuid:1adb18f1-b9af-42c8-bb21-1abcce237550</id>
+        <link href="https://www.who.int/news/item/26-09-2025-recommendations-announced-for-influenza-vaccine-composition-for-the-2026-southern-hemisphere-influenza-season"/>
+        <updated>2025-09-26T08:38:34.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today announced its recommendations for the viral composition of influenza vaccines for use in the 2026 influenza season in the southern hemisphere. The announcement was made at an Information Meeting after a 4-day Consultation on the Composition of Influenza Virus Vaccines.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
