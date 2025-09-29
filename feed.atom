@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-29T10:13:42.486Z</updated>
+    <updated>2025-09-29T11:10:30.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Researchers at Nottingham Trent University are developing a wearable device to detect and monitor the age-related condition sarcopenia.]]></summary>
         <author>
             <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP retention key as government consults on revised NHS workforce plan]]></title>
+        <id>https://www.gponline.com/article/1933964</id>
+        <link href="https://www.gponline.com/gp-retention-key-government-consults-revised-nhs-workforce-plan/article/1933964"/>
+        <updated>2025-09-29T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders will warn the government that a new NHS long-term workforce plan must include a focus on retaining existing GPs, after the government opened a consultation to overhaul the existing plan.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
