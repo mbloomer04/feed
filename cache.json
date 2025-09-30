@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ce7c91f3-3fc5-4387-9e00-7312a28b0c85",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security advisory addresses three vulnerabilities that could result in privilege escalation\n Security advisory addresses two high severity and one medium severity vulnerabilities that could result in privilege escalation and disclosure of user credentials in VMware Aria Operations, Tools, and Cloud Foundation\n Updated: 30 Sep 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4704",
+          "publishedOn": "2025-09-30T13:33:00.000Z",
+          "wordCount": null,
+          "title": "CC-4704 - Broadcom Releases Security Updates for VMware Aria Operations, Tools, and Cloud Foundation",
+          "imageUrl": null
+        },
+        {
           "id": "5c0ce7b8-03f5-4639-ad54-e6e9ef8b9ba0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices\n Attacker attributed to ArcaneDoor campaign (CC-4483) has exploited CVE-2025-20333, CVE-2025-20362, and CVE-2025-20363 to install a sophisticated bootkit for persistent stealthy access to affected devices\n Updated: 26 Sep 2025",
