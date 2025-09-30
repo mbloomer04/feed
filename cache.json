@@ -1998,6 +1998,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-workforce-skills-survey-september-2025",
+          "author": null,
+          "description": "Statistics from survey responses collected from over 3,000 adult social care providers in England.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-workforce-skills-survey-september-2025",
+          "publishedOn": "2025-09-30T08:30:02.000Z",
+          "wordCount": 1101,
+          "title": "Official Statistics: Adult social care workforce skills survey: September 2025",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors",
           "author": null,
           "description": "Information for NHS bodies who need to make and recover hospital charges from overseas visitors.",
@@ -2968,6 +2978,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244083",
+          "author": "Tammy Lovell",
+          "description": "The NHS is launching an ‘online hospital’ which will connect patients to expert clinicians across England, Keir Starmer will announce today.",
+          "link": "https://www.digitalhealth.net/2025/09/nhs-online-hospital-to-open-by-2027-for-patients-in-england/",
+          "publishedOn": "2025-09-30T08:55:32.000Z",
+          "wordCount": 4300,
+          "title": "NHS ‘online hospital’ to open by 2027 for patients in England",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/01/Starmer-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=244005",
           "author": "Jordan Sollof",
