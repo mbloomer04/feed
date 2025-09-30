@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-09-30T07:13:37.656Z</updated>
+    <updated>2025-09-30T08:18:07.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS cost recovery - overseas visitors]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors</id>
+        <link href="https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors"/>
+        <updated>2025-09-30T08:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Information for NHS bodies who need to make and recover hospital charges from overseas visitors.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHSC launches call for evidence on 10 year workforce plan]]></title>
+        <id>https://www.digitalhealth.net/?p=244005</id>
+        <link href="https://www.digitalhealth.net/2025/09/dhsc-launches-consultation-on-10-year-workforce-plan/"/>
+        <updated>2025-09-30T07:30:55.000Z</updated>
+        <summary type="html"><![CDATA[DHSC has launched a call for evidence for the forthcoming NHS 10 year workforce plan, including evidence of new digital initiatives.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[£500m for first ever Fair Pay Agreement for care workers]]></title>
         <id>https://www.gov.uk/government/news/500m-for-first-ever-fair-pay-agreement-for-care-workers</id>

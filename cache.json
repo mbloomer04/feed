@@ -1998,6 +1998,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors",
+          "author": null,
+          "description": "Information for NHS bodies who need to make and recover hospital charges from overseas visitors.",
+          "link": "https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors",
+          "publishedOn": "2025-09-30T08:03:58.000Z",
+          "wordCount": 1787,
+          "title": "Guidance: NHS cost recovery - overseas visitors",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/500m-for-first-ever-fair-pay-agreement-for-care-workers",
           "author": null,
           "description": "Government invests £500 million into first ever Fair Pay Agreement in major milestone for care worker pay",
@@ -2958,6 +2968,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244005",
+          "author": "Jordan Sollof",
+          "description": "DHSC has launched a call for evidence for the forthcoming NHS 10 year workforce plan, including evidence of new digital initiatives.",
+          "link": "https://www.digitalhealth.net/2025/09/dhsc-launches-consultation-on-10-year-workforce-plan/",
+          "publishedOn": "2025-09-30T07:30:55.000Z",
+          "wordCount": 6125,
+          "title": "DHSC launches call for evidence on 10 year workforce plan",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Wes-Streeting.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243833",
           "author": "Jordan Sollof",
