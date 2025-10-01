@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-01T11:11:58.362Z</updated>
+    <updated>2025-10-01T12:26:24.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP news update: Online consultations, GP industrial dispute, new workforce plan]]></title>
+        <id>https://www.gponline.com/article/1934427</id>
+        <link href="https://www.gponline.com/gp-news-update-online-consultations-gp-industrial-dispute-new-workforce-plan/article/1934427"/>
+        <updated>2025-10-01T11:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Share your views on key issues affecting GPs and you could win £350 of vouchers]]></title>
         <id>https://www.gponline.com/article/1934396</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Take part in our survey to share your views on online consultations, industrial dispute, and other key issues affecting GPs, and you will be entered into a prize draw to win £350 of John Lewis vouchers.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS kicks off flu and COVID jabs to ‘winter-proof’ vulnerable]]></title>
+        <id>https://www.england.nhs.uk/?p=274227</id>
+        <link href="https://www.england.nhs.uk/2025/10/nhs-kicks-off-flu-and-covid-jabs-to-winter-proof-vulnerable/"/>
+        <updated>2025-10-01T10:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Flu and COVID-19 vaccines kick off for all eligible people from today to help ‘winter-proof’ those most vulnerable and the NHS amid new variants circulating this year.   Vaccination teams across England are working to protect millions most at risk of getting seriously ill this winter by building immunity ahead of December and January, when hospitalisations for respiratory […]]]></summary>
+        <author>
+            <name>jboshell</name>
         </author>
     </entry>
     <entry>
