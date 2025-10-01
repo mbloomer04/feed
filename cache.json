@@ -2028,6 +2028,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/restricting-volume-price-promotions-of-hfss-products",
+          "author": null,
+          "description": "Update on the potential impact of the introduction of restricting promotions of products high in fat, salt or sugar by volume price.",
+          "link": "https://www.gov.uk/government/publications/restricting-volume-price-promotions-of-hfss-products",
+          "publishedOn": "2025-10-01T09:30:00.000Z",
+          "wordCount": 948,
+          "title": "Impact assessment: Restricting volume price promotions of HFSS products",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/restricting-promotions-of-food-and-drink-that-is-high-in-fat-sugar-and-salt",
+          "author": null,
+          "description": "The government is seeking views on its plans to restrict promotions of food and drink products high in fat, sugar and salt (HFSS) by location and by price.",
+          "link": "https://www.gov.uk/government/consultations/restricting-promotions-of-food-and-drink-that-is-high-in-fat-sugar-and-salt",
+          "publishedOn": "2025-10-01T09:30:00.000Z",
+          "wordCount": 2029,
+          "title": "Restricting promotions of food and drink that is high in fat, sugar and salt",
+          "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/online-gp-appointment-requests-available-everywhere-from-today",
           "author": null,
           "description": "From today, patients will be able to request appointments online throughout the day rather than calling their surgery or visiting in person.",
@@ -3058,6 +3078,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244193",
+          "author": "Jordan Sollof",
+          "description": "GP practices are required to keep their online consultation tools running throughout core hours from October, under GP contract changes.",
+          "link": "https://www.digitalhealth.net/2025/10/online-gp-appointment-requests-now-available-throughout-the-day/",
+          "publishedOn": "2025-10-01T10:00:13.000Z",
+          "wordCount": 4331,
+          "title": "GP practices in England to make online booking available all day",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/shutterstock_2273456585-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243949",
           "author": "Jordan Sollof",
