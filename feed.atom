@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-01T08:17:43.854Z</updated>
+    <updated>2025-10-01T09:14:52.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Online GP appointment requests available everywhere from today]]></title>
+        <id>https://www.gov.uk/government/news/online-gp-appointment-requests-available-everywhere-from-today</id>
+        <link href="https://www.gov.uk/government/news/online-gp-appointment-requests-available-everywhere-from-today"/>
+        <updated>2025-10-01T08:31:16.000Z</updated>
+        <summary type="html"><![CDATA[From today, patients will be able to request appointments online throughout the day rather than calling their surgery or visiting in person.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital is ‘integral’ to Moorfields’ top NHS league table ranking]]></title>
         <id>https://www.digitalhealth.net/?p=243949</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Digital is “integral" to the trust's top ranking in NHS league tables, said Dr Peter Thomas, director of digital at Moorfields Eye Hospital.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government 'mystified' over GP stance on online access]]></title>
+        <id>https://www.gponline.com/article/1934227</id>
+        <link href="https://www.gponline.com/government-mystified-gp-stance-online-access/article/1934227"/>
+        <updated>2025-09-30T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Primary care minister Stephen Kinnock has claimed the government is 'mystified' by GPs' decision to return to industrial dispute - and doubled down on plans to expand online access.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
