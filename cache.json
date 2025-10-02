@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1934569",
+          "author": null,
+          "description": "Changes to online access to general practice pose a 'real and present danger' to patients that could cost lives, the BMA has warned as GPs re-entered dispute with the government.",
+          "link": "https://www.gponline.com/gps-standing-patient-safety-declaring-dispute-says-bma/article/1934569",
+          "publishedOn": "2025-10-02T08:27:12.000Z",
+          "wordCount": 936,
+          "title": "GPs are standing up for patient safety by declaring dispute, says BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_15.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1934309",
           "author": null,
           "description": "GPs in one of England’s most underdoctored areas say they will struggle to meet the 10-year health plan’s ambitions unless the government steps up support for general practice.",
@@ -2796,16 +2806,6 @@
           "wordCount": 1185,
           "title": "Banning the sale of high-caffeine energy drinks to children",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health",
-          "author": null,
-          "description": "The government will consult on banning the sale of high-caffeine energy drinks to under 16s due to negative impacts on children's physical and mental health.",
-          "link": "https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health",
-          "publishedOn": "2025-09-02T21:30:05.000Z",
-          "wordCount": 5127,
-          "title": "Ban on selling high-caffeine energy drinks to boost kids’ health",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3118,6 +3118,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244329",
+          "author": "Tammy Lovell",
+          "description": "Professor Ben Goldacre and Professor Gillian Leng have been announced as keynote speakers at Digital Health Rewired 2026.",
+          "link": "https://www.digitalhealth.net/2025/10/ben-goldacre-and-gillian-leng-to-keynote-at-rewired-2026/",
+          "publishedOn": "2025-10-02T10:00:43.000Z",
+          "wordCount": 4161,
+          "title": "Ben Goldacre and Gillian Leng to keynote at Rewired 2026",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/10/Gillian-Leng-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=244263",
           "author": "Jordan Sollof",

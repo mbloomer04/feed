@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-02T09:12:53.891Z</updated>
+    <updated>2025-10-02T10:12:21.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ben Goldacre and Gillian Leng to keynote at Rewired 2026]]></title>
+        <id>https://www.digitalhealth.net/?p=244329</id>
+        <link href="https://www.digitalhealth.net/2025/10/ben-goldacre-and-gillian-leng-to-keynote-at-rewired-2026/"/>
+        <updated>2025-10-02T10:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Professor Ben Goldacre and Professor Gillian Leng have been announced as keynote speakers at Digital Health Rewired 2026.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Bioscience and health technology sector statistics 2023 to 2024]]></title>
         <id>https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2023-to-2024</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Official statistics on a range of topics including occupancy and infection control measures in adult social care settings.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs are standing up for patient safety by declaring dispute, says BMA]]></title>
+        <id>https://www.gponline.com/article/1934569</id>
+        <link href="https://www.gponline.com/gps-standing-patient-safety-declaring-dispute-says-bma/article/1934569"/>
+        <updated>2025-10-02T08:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Changes to online access to general practice pose a 'real and present danger' to patients that could cost lives, the BMA has warned as GPs re-entered dispute with the government.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2540,16 +2560,6 @@ WHO EML and EMLc include medicines for priority health needs of populations. The
         <summary type="html"><![CDATA[The Welsh Nursing Care Record (WNCR) is now live across all eligible inpatient wards across 58 hospitals in Wales.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ban on selling high-caffeine energy drinks to boost kids’ health]]></title>
-        <id>https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health</id>
-        <link href="https://www.gov.uk/government/news/ban-on-selling-high-caffeine-energy-drinks-to-boost-kids-health"/>
-        <updated>2025-09-02T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[The government will consult on banning the sale of high-caffeine energy drinks to under 16s due to negative impacts on children's physical and mental health.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
