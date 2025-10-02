@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-02T16:14:50.857Z</updated>
+    <updated>2025-10-02T17:09:11.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Online consultation system hit by outage on day two of GP access change]]></title>
+        <id>https://www.gponline.com/article/1934671</id>
+        <link href="https://www.gponline.com/online-consultation-system-hit-outage-day-two-gp-access-change/article/1934671"/>
+        <updated>2025-10-02T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of GP practices’ eConsult systems were down on the morning of 2 October - day two of the 2025/26 contract change requiring practices to keep online consultation systems open throughout core hours.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Somerset Cancer Register to launch cloud-based platform]]></title>
         <id>https://www.digitalhealth.net/?p=244171</id>
