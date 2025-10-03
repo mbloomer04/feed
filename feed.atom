@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-03T21:10:21.877Z</updated>
+    <updated>2025-10-03T22:10:55.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -84,6 +84,16 @@
         <summary type="html"><![CDATA[Hundreds of GP practices’ eConsult systems were down on the morning of 2 October - day two of the 2025/26 contract change requiring practices to keep online consultation systems open throughout core hours.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026"/>
+        <updated>2025-10-02T13:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
@@ -2508,36 +2518,6 @@ WHO EML and EMLc include medicines for priority health needs of populations. The
         <link href="https://www.gponline.com/10-year-plan-casts-gps-neighbourhood-pioneers-government-claims/article/1931075"/>
         <updated>2025-09-04T10:22:02.000Z</updated>
         <summary type="html"><![CDATA[The government has said its 10-year health plan 'casts GPs as the pioneers' who will lead a neighbourhood health service - but GP leaders warn that ministers are not listening to the profession's concerns.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft launches ambient AI assistant to the NHS]]></title>
-        <id>https://www.digitalhealth.net/?p=241067</id>
-        <link href="https://www.digitalhealth.net/2025/09/microsoft-launches-ambient-ai-assistant-to-the-nhs/"/>
-        <updated>2025-09-04T10:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has launched an AI assistant to the NHS which captures clinical conversations to draft documentation and automate follow-up tasks.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend medicines for optometrists and contact lens opticians]]></title>
-        <id>https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians</id>
-        <link href="https://www.gov.uk/government/consultations/extend-medicines-for-optometrists-and-contact-lens-opticians"/>
-        <updated>2025-09-04T10:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Seeks views on extending the range of medicines available to optometrists and contact lens opticians so they can treat minor eye conditions in the community.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA and RCGP join dozens of organisations demanding talks on NHS workforce]]></title>
-        <id>https://www.gponline.com/article/1931073</id>
-        <link href="https://www.gponline.com/bma-rcgp-join-dozens-organisations-demanding-talks-nhs-workforce/article/1931073"/>
-        <updated>2025-09-04T09:57:29.000Z</updated>
-        <summary type="html"><![CDATA[The BMA and RCGP have joined dozens of healthcare organisations calling on the government for talks on building the workforce needed to deliver its 10-year health plan.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
