@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-05T19:08:45.700Z</updated>
+    <updated>2025-10-05T20:12:20.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[Information for intended parents, surrogates and health professionals about the surrogacy process in England and Wales.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global health agencies issue new recommendations to help end deaths from postpartum haemorrhage]]></title>
+        <id>urn:uuid:e57a1891-434e-4012-8c9a-dd760bb56be1</id>
+        <link href="https://www.who.int/news/item/05-10-2025-global-health-agencies-issue-new-recommendations-to-help-end-deaths-from-postpartum-haemorrhage"/>
+        <updated>2025-10-03T13:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Through landmark new guidelines released today, leading reproductive health agencies are calling for a major shift in how postpartum haemorrhage (PPH) is prevented, diagnosed and treated. The recommendations highlight the urgent need for earlier detection and faster intervention – steps that could save the lives of tens of thousands of women each year.
+Defined as excessive bleeding after childbirth, PPH affects millions of women annually and causes nearly 45 000 deaths, making it one of the leading causes of maternal mortality globally. Even when not fatal, it can lead to lifelong physical and mental health impacts, from major organ damage to hysterectomies, anxiety and trauma.
+“Postpartum haemorrhage is the most dangerous childbirth complication since it can escalate with such alarming sp…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
