@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-06T11:10:58.960Z</updated>
+    <updated>2025-10-06T12:25:29.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matthew Hood appointed as Senior Adviser to Secretary of State]]></title>
+        <id>https://www.gov.uk/government/news/matthew-hood-appointed-as-senior-adviser-to-secretary-of-state</id>
+        <link href="https://www.gov.uk/government/news/matthew-hood-appointed-as-senior-adviser-to-secretary-of-state"/>
+        <updated>2025-10-06T12:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Matthew Hood OBE to work with the department’s Delivery Unit to help ensure that the Government and Department deliver on its commitments]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4705 - Oracle Releases Security Advisory for E-Business Suite]]></title>
         <id>1b2facee-0713-433a-a20a-57fff09ffa1a</id>
@@ -17,6 +27,16 @@
  Updated: 06 Oct 2025]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online access change could make patients wait 'many months' for GP appointments]]></title>
+        <id>https://www.gponline.com/article/1934963</id>
+        <link href="https://www.gponline.com/online-access-change-patients-wait-many-months-gp-appointments/article/1934963"/>
+        <updated>2025-10-06T10:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Online access changes imposed by the government could lead to some patients waiting 'many months' for GP appointments as practices bring in waiting lists to manage demand, BMA guidance suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
