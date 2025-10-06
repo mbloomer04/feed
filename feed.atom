@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-06T10:13:54.867Z</updated>
+    <updated>2025-10-06T11:10:58.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4705 - Oracle Releases Security Advisory for E-Business Suite]]></title>
+        <id>1b2facee-0713-433a-a20a-57fff09ffa1a</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4705"/>
+        <updated>2025-10-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances
+ Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances
+ Updated: 06 Oct 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Health sector reacts to plans for an ‘online hospital’ in England]]></title>
         <id>https://www.digitalhealth.net/?p=244531</id>

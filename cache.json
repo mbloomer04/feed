@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1b2facee-0713-433a-a20a-57fff09ffa1a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Updated: 06 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4705",
+          "publishedOn": "2025-10-06T11:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4705 - Oracle Releases Security Advisory for E-Business Suite",
+          "imageUrl": null
+        },
+        {
           "id": "ce7c91f3-3fc5-4387-9e00-7312a28b0c85",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security advisory addresses three vulnerabilities that could result in privilege escalation\n Security advisory addresses two high severity and one medium severity vulnerabilities that could result in privilege escalation and disclosure of user credentials in VMware Aria Operations, Tools, and Cloud Foundation\n Updated: 30 Sep 2025",
