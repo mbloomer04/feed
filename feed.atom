@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-07T12:26:01.344Z</updated>
+    <updated>2025-10-07T13:23:50.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI is helping to speed clinical trial approval times, says MHRA]]></title>
+        <id>https://www.digitalhealth.net/?p=244785</id>
+        <link href="https://www.digitalhealth.net/2025/10/ai-is-helping-to-speed-clinical-trial-approval-times-says-mhra/"/>
+        <updated>2025-10-07T12:30:41.000Z</updated>
+        <summary type="html"><![CDATA[The MHRA has introduced AI to help support clinical trial assessors to review complex data and flag potential issues for human review.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS injury costs recovery scheme: tariff and charges from 1 October 2025]]></title>
         <id>https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2025</id>
