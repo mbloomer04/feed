@@ -1180,6 +1180,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935003",
+          "author": null,
+          "description": "In the first of two special episodes of Talking General Practice from the RCGP annual conference this week, college chair Professor Kamila Hawthorne reflects on her three years in the role and some of the challenges ahead for general practice.",
+          "link": "https://www.gponline.com/podcast-professor-kamila-hawthorne-gp-retention-partnerships-three-years-rcgp-chair/article/1935003",
+          "publishedOn": "2025-10-08T09:08:00.000Z",
+          "wordCount": 1448,
+          "title": "Podcast: Professor Kamila Hawthorne on GP retention, partnerships and three years as RCGP chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Symprove-858x575(1).jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1935284",
+          "author": null,
+          "description": "BMA GP leaders have set out next steps in the profession's industrial dispute with government including a potential escalation to actions that could breach practice contracts.",
+          "link": "https://www.gponline.com/next-steps-gp-industrial-dispute-include-contract-breach/article/1935284",
+          "publishedOn": "2025-10-08T08:51:36.000Z",
+          "wordCount": 910,
+          "title": "Next steps in GP industrial dispute could include contract breach",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_16.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935275",
           "author": null,
           "description": "This evening, Tuesday 7 October 2025 at 7pm, MIMS Learning will host a free, live webinar – in association with Target Ovarian Cancer – illustrating key points for primary care on this challenging diagnosis",
@@ -2037,6 +2057,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/crackdown-on-rogue-traders-selling-vapes-to-children",
+          "author": null,
+          "description": "The government will publish a call for evidence to seek expert views on introducing new rules for retailers selling tobacco, vapes and nicotine products",
+          "link": "https://www.gov.uk/government/news/crackdown-on-rogue-traders-selling-vapes-to-children",
+          "publishedOn": "2025-10-08T09:20:59.000Z",
+          "wordCount": 2752,
+          "title": "Crackdown on rogue traders selling vapes to children",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/calls-for-evidence/tobacco-and-vapes-evidence-to-support-legislation",
           "author": null,
@@ -3088,6 +3118,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244867",
+          "author": "Jordan Sollof",
+          "description": "Patients will be signposted to alcohol advice from Drinkaware through the AI Surgery Assist chatbot, used by GP surgeries across the UK.",
+          "link": "https://www.digitalhealth.net/2025/10/gp-chatbot-integration-offers-early-alcohol-advice/",
+          "publishedOn": "2025-10-08T10:00:04.000Z",
+          "wordCount": 4195,
+          "title": "GP chatbot integration offers early alcohol advice",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/10/Sharon-Hanley-X-on-Health.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=244959",
           "author": "Jordan Sollof",
