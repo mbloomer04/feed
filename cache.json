@@ -1893,6 +1893,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0084a630-9a72-40a0-8f12-b9e7ebfe1d70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Martin Jarvis, Incident Management Lead in our Cyber Security Operations Centre (CSOC), explains how the preparedness of individual NHS organisations, working alongside central response capabilities, forms a protective partnership to keep the NHS safe.\n\r\n\r\nDriving forward the NHS 10 Year Health Plan’s commitment to move 'from analogue to digital' means cyber security is more critical than ever. As we build a digitally-enabled health service, where patients can access care 24/7 through the NHS App and other digital channels, robust cyber defences are essential for patient safety and continuity of care.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/cyber-first-responders-strengthening-nhs-defences-in-the-digital-age",
+          "publishedOn": "2025-10-08T13:13:18.000Z",
+          "wordCount": null,
+          "title": "Cyber first responders: Strengthening NHS defences in the digital age",
+          "imageUrl": null
+        },
+        {
           "id": "62d22aaa-b282-4db3-9864-ca83774386f6",
           "author": "enquiries@nhsdigital.nhs.uk(NHS Digital)",
           "description": "Liz Glidewell explains why failing a GDS service assessment is a normal part of the improvement process – and how she supported the Be Part of Research team through multiple assessments to build a better, more accessible service for their users.\n\r\n\r\nGovernment and NHS services have a duty to work for everyone, including those with low digital confidence and non-digital users. This is why services need to pass a GDS service assessment.\n\r\n\r\nIt’s not unusual for a service to fail its first assessment. But what happens next?",
@@ -1908,7 +1918,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "0084a630-9a72-40a0-8f12-b9e7ebfe1d70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Martin Jarvis, Incident Management Lead in our Cyber Security Operations Centre (CSOC), explains how the preparedness of individual NHS organisations, working alongside central response capabilities, forms a protective partnership to keep the NHS safe.\n\r\n\r\nDriving forward the NHS 10 Year Health Plan’s commitment to move 'from analogue to digital' means cyber security is more critical than ever. As we build a digitally-enabled health service, where patients can access care 24/7 through the NHS App and other digital channels, robust cyber defences are essential for patient safety and continuity of care.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/cyber-first-responders-strengthening-nhs-defences-in-the-digital-age",
+          "publishedOn": "2025-10-08T13:13:18.000Z",
+          "wordCount": null,
+          "title": "Cyber first responders: Strengthening NHS defences in the digital age",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
@@ -3088,6 +3109,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245129",
+          "author": "Jordan Sollof",
+          "description": "Three national clinical leaders driving the digital ambitions of the NHS 10 year health plan will take the stage at Rewired 2026.",
+          "link": "https://www.digitalhealth.net/2025/10/first-national-keynotes-announced-for-rewired-2026/",
+          "publishedOn": "2025-10-09T10:00:54.000Z",
+          "wordCount": null,
+          "title": "First national keynotes announced for Rewired 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245101",
           "author": "Jordan Sollof",
