@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935492",
+          "author": null,
+          "description": "The government has announced a six-month review of the Carr-Hill GP funding formula - admitting it is 'not fit for purpose' - in a move that could drive a long overdue shift in practice funding.",
+          "link": "https://www.gponline.com/government-launches-review-not-fit-purpose-gp-funding-formula/article/1935492",
+          "publishedOn": "2025-10-09T10:42:12.000Z",
+          "wordCount": 759,
+          "title": "Government launches review of 'not fit for purpose' GP funding formula",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/StephenKinnock_GettyImages-MatthewHorwoodGettyImages.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935315",
           "author": null,
           "description": "GP practices say fears about controversial changes to online access from this month have proven correct - with practices reporting being overwhelmed by work and receiving urgent queries - including about chest pains - via online systems.",
@@ -1992,6 +2002,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=274622",
+          "author": "rwootton",
+          "description": "NHS staff delivered record levels of elective and cancer care for the summer months according to data published today. A record 4.60 million elective cases were managed by the NHS between June and August – up 138,000 on last year (4.46 million), while 210,946 more cases joined the waiting list in the same period. The […]",
+          "link": "https://www.england.nhs.uk/2025/10/record-summer-of-nhs-activity/",
+          "publishedOn": "2025-10-09T11:09:48.000Z",
+          "wordCount": 1552,
+          "title": "Record summer of NHS activity",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=274227",
           "author": "jboshell",
           "description": "Flu and COVID-19 vaccines kick off for all eligible people from today to help ‘winter-proof’ those most vulnerable and the NHS amid new variants circulating this year.   Vaccination teams across England are working to protect millions most at risk of getting seriously ill this winter by building immunity ahead of December and January, when hospitalisations for respiratory […]",
@@ -2078,6 +2098,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/patients-in-poorer-areas-to-get-better-access-to-gps",
+          "author": null,
+          "description": "Review of GP funding formula expected to deliver fairer distribution of funding and tackle health inequalities.",
+          "link": "https://www.gov.uk/government/news/patients-in-poorer-areas-to-get-better-access-to-gps",
+          "publishedOn": "2025-10-09T12:12:55.000Z",
+          "wordCount": 3215,
+          "title": "Patients in poorer areas to get better access to GPs",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/proposed-changes-to-the-availability-of-puberty-blockers-for-under-18s",
           "author": null,
