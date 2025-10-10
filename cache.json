@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935678",
+          "author": null,
+          "description": "There is a danger that the importance of continuity of care is 'slipping from collective memory' as governments and media focus on rapid access to general practice, the RCGP conference has heard.",
+          "link": "https://www.gponline.com/value-gp-continuity-risks-slipping-collective-memory/article/1935678",
+          "publishedOn": "2025-10-10T10:31:23.000Z",
+          "wordCount": 735,
+          "title": "Value of GP continuity risks 'slipping from collective memory'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/PollyandRowenaGPsize.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935633",
           "author": null,
           "description": "Larger practices with more GPs in locum and salaried roles are a 'natural change' as the health service moves away from a focus on hospitals, the Welsh health and social care secretary has claimed.",
@@ -2788,16 +2798,6 @@
           "wordCount": 12791,
           "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/smart-glasses-and-ai-filter-apps-among-new-tech-to-transform-the-mental-health-of-millions",
-          "author": null,
-          "description": "Backing for businesses across the UK will help to take low-cost innovations that support people's mental health to the next level.",
-          "link": "https://www.gov.uk/government/news/smart-glasses-and-ai-filter-apps-among-new-tech-to-transform-the-mental-health-of-millions",
-          "publishedOn": "2025-09-10T23:01:03.000Z",
-          "wordCount": 3115,
-          "title": "Smart glasses and AI filter apps among new tech to transform the mental health of millions",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/68a86caf969253904d1557b7/s960_DSIT_GovUK.png"
         }
       ]
     },
