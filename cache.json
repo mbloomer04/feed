@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935633",
+          "author": null,
+          "description": "Larger practices with more GPs in locum and salaried roles are a 'natural change' as the health service moves away from a focus on hospitals, the Welsh health and social care secretary has claimed.",
+          "link": "https://www.gponline.com/shift-larger-practices-locums-natural-change-says-welsh-health-secretary/article/1935633",
+          "publishedOn": "2025-10-10T08:16:02.000Z",
+          "wordCount": 761,
+          "title": "Shift to larger practices with more locums 'natural change', says Welsh health secretary",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JeremyMiles_GettyImages-MatthewHorwoodGettyImages.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935602",
           "author": null,
           "description": "Health minister Stephen Kinnock has described the current dispute between the BMA and the government over online consultations as a ‘phoney war’ and accused the union of ‘whipping up the issue’.",
@@ -1875,7 +1885,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/abdominal-aortic-aneurysm-screening-care-pathway",
+          "author": null,
+          "description": "Visual description of the abdominal aortic aneurysm (AAA) screening pathway.",
+          "link": "https://www.gov.uk/government/publications/abdominal-aortic-aneurysm-screening-care-pathway",
+          "publishedOn": "2025-10-10T09:25:34.000Z",
+          "wordCount": 915,
+          "title": "Guidance: NHS abdominal aortic aneurysm screening: care pathway",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -2078,6 +2099,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/care-minister-speech-at-rcgp-annual-conference-2025",
+          "author": null,
+          "description": "Stephen Kinnock spoke at the Royal College of General Practitioners Annual Conference, in Newport, Wales.",
+          "link": "https://www.gov.uk/government/speeches/care-minister-speech-at-rcgp-annual-conference-2025",
+          "publishedOn": "2025-10-10T10:04:14.000Z",
+          "wordCount": 5344,
+          "title": "Care Minister speech at RCGP Annual Conference 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
+          "author": null,
+          "description": "Funding to local councils to help them improve their drug and alcohol treatment and recovery systems, from 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
+          "publishedOn": "2025-10-10T09:58:37.000Z",
+          "wordCount": 1026,
+          "title": "Guidance: Drug and alcohol treatment and recovery funding: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/50-million-boost-for-groundbreaking-mental-health-research",
           "author": null,
@@ -3079,6 +3120,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245263",
+          "author": "Jordan Sollof",
+          "description": "On World Mental Health Day, this powerful episode of Unplugged focuses on including the patient voice in developing mental health technology.",
+          "link": "https://www.digitalhealth.net/2025/10/digital-health-unplugged-how-lived-experience-is-shaping-mental-health-tech/",
+          "publishedOn": "2025-10-10T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Digital Health Unplugged: How lived experience is shaping mental health tech",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245233",
           "author": "Jordan Sollof",
