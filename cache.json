@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935803",
+          "author": null,
+          "description": "The GP partnership model has enabled NHS general practices to become 'world experts at responding to change', the outgoing RCGP president has said.",
+          "link": "https://www.gponline.com/partnership-model-allows-gps-world-experts-responding-change-says-rcgp-president/article/1935803",
+          "publishedOn": "2025-10-13T07:51:27.000Z",
+          "wordCount": 750,
+          "title": "Partnership model allows GPs to be 'world experts' at responding to change, says RCGP president",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP2025-889.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935567",
           "author": null,
           "description": "GP consultations for flu-like illness have more than doubled in the past fortnight as flu and COVID-19 cases continue to rise - raising fresh concerns that the UK could be in line for a severe flu season.",
@@ -3000,6 +3010,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245385",
+          "author": "Jordan Sollof",
+          "description": "The Royal Wolverhampton NHS Trust has gone live with System C’s CareFlow electronic patient record (EPR) system.",
+          "link": "https://www.digitalhealth.net/2025/10/royal-wolverhampton-goes-live-with-system-cs-careflow-epr/",
+          "publishedOn": "2025-10-13T07:30:08.000Z",
+          "wordCount": null,
+          "title": "Royal Wolverhampton goes live with System C’s CareFlow EPR",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243553",
           "author": "Tammy Lovell",
