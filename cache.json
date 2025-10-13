@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "3c0853c8-f57c-4d7a-8f19-d836032483e4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure\n Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure\n Updated: 13 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4706",
+          "publishedOn": "2025-10-13T13:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4706 - Oracle Releases Security Advisory to address CVE-2025-61884 affecting E-Business Suite",
+          "imageUrl": null
+        },
+        {
           "id": "1b2facee-0713-433a-a20a-57fff09ffa1a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Updated: 06 Oct 2025",

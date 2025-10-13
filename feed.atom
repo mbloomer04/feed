@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-13T13:24:48.866Z</updated>
+    <updated>2025-10-13T14:13:23.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4706 - Oracle Releases Security Advisory to address CVE-2025-61884 affecting E-Business Suite]]></title>
+        <id>3c0853c8-f57c-4d7a-8f19-d836032483e4</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4706"/>
+        <updated>2025-10-13T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure
+ Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure
+ Updated: 13 Oct 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Estonia wants to help the NHS move from analogue to digital]]></title>
         <id>https://www.digitalhealth.net/?p=245241</id>
