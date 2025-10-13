@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-13T14:13:23.590Z</updated>
+    <updated>2025-10-13T15:13:13.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHO upgrades its public health intelligence system to boost global health security]]></title>
+        <id>urn:uuid:6463876b-22f4-490d-a818-32d4ccb00aae</id>
+        <link href="https://www.who.int/news/item/13-10-2025-who-upgrades-its-public-health-intelligence-system-to-boost-global-health-security"/>
+        <updated>2025-10-13T14:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Today, the World Health Organization (WHO), in collaboration with key partners and supporters, launched version 2.0 of the Epidemic Intelligence from Open Sources (EIOS) system, used globally for the early detection of public health threats.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4706 - Oracle Releases Security Advisory to address CVE-2025-61884 affecting E-Business Suite]]></title>
         <id>3c0853c8-f57c-4d7a-8f19-d836032483e4</id>
@@ -47,6 +57,16 @@
         <summary type="html"><![CDATA[NHS Grampian has been advised by KPMG to consider replacing up to 40% of its back-office staff with AI to save money.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maldives becomes the first country to achieve ‘triple elimination’ of mother-to-child transmission of HIV, syphilis and hepatitis B]]></title>
+        <id>urn:uuid:7307b666-1d9c-4dba-93a0-83e0df18de07</id>
+        <link href="https://www.who.int/news/item/13-10-2025-maldives-becomes-the-first-country-to-achieve-triple-elimination-of-mother-to-child-transmission-of-hiv-syphilis-and-hepatitis-b"/>
+        <updated>2025-10-13T09:19:27.000Z</updated>
+        <summary type="html"><![CDATA[In a landmark public health achievement, the World Health Organization (WHO) has validated the Maldives for eliminating mother-to-child transmission (EMTCT) of hepatitis B, while maintaining its earlier validation (in 2019) for EMTCT of HIV and syphilis.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

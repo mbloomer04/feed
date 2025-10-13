@@ -2914,6 +2914,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:6463876b-22f4-490d-a818-32d4ccb00aae",
+          "author": null,
+          "description": "Today, the World Health Organization (WHO), in collaboration with key partners and supporters, launched version 2.0 of the Epidemic Intelligence from Open Sources (EIOS) system, used globally for the early detection of public health threats.",
+          "link": "https://www.who.int/news/item/13-10-2025-who-upgrades-its-public-health-intelligence-system-to-boost-global-health-security",
+          "publishedOn": "2025-10-13T14:50:51.000Z",
+          "wordCount": 2826,
+          "title": "WHO upgrades its public health intelligence system to boost global health security",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/initiatives/eios/eios-2-0-launch.tmb-1200v.jpg?sfvrsn=26099bc6_3"
+        },
+        {
+          "id": "urn:uuid:7307b666-1d9c-4dba-93a0-83e0df18de07",
+          "author": null,
+          "description": "In a landmark public health achievement, the World Health Organization (WHO) has validated the Maldives for eliminating mother-to-child transmission (EMTCT) of hepatitis B, while maintaining its earlier validation (in 2019) for EMTCT of HIV and syphilis.",
+          "link": "https://www.who.int/news/item/13-10-2025-maldives-becomes-the-first-country-to-achieve-triple-elimination-of-mother-to-child-transmission-of-hiv-syphilis-and-hepatitis-b",
+          "publishedOn": "2025-10-13T09:19:27.000Z",
+          "wordCount": 2668,
+          "title": "Maldives becomes the first country to achieve ‘triple elimination’ of mother-to-child transmission of HIV, syphilis and hepatitis B",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/healthy-diet/traditional-maldivian-cooking.tmb-1200v.jpg?sfvrsn=a4f5e850_1"
+        },
+        {
           "id": "urn:uuid:a0ff74d5-9e05-477f-9a32-527aace7869a",
           "author": null,
           "description": "One in six laboratory-confirmed bacterial infections causing common infections in people worldwide in 2023 were resistant to antibiotic treatments, according to a new World Health Organization (WHO) report launched today. Between 2018 and 2023, antibiotic resistance rose in over 40% of the pathogen-antibiotic combinations monitored, with an average annual increase of 5–15%. \nData reported to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) from over 100 countries cautions that increasing resistance to essential antibiotics poses a growing threat to global health. \nThe new Global antibiotic resistance surveillance report 2025 presents, for the first time, resistance prevalence estimates across 22 antibiotics used to treat infections of the urinary and gastrointest…",
