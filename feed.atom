@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-13T11:11:21.613Z</updated>
+    <updated>2025-10-13T12:25:33.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -44,6 +44,18 @@
         <summary type="html"><![CDATA[The Royal Wolverhampton NHS Trust has gone live with System C’s CareFlow electronic patient record (EPR) system.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO warns of widespread resistance to common antibiotics worldwide]]></title>
+        <id>urn:uuid:a0ff74d5-9e05-477f-9a32-527aace7869a</id>
+        <link href="https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide"/>
+        <updated>2025-10-13T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[One in six laboratory-confirmed bacterial infections causing common infections in people worldwide in 2023 were resistant to antibiotic treatments, according to a new World Health Organization (WHO) report launched today. Between 2018 and 2023, antibiotic resistance rose in over 40% of the pathogen-antibiotic combinations monitored, with an average annual increase of 5–15%. 
+Data reported to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) from over 100 countries cautions that increasing resistance to essential antibiotics poses a growing threat to global health. 
+The new Global antibiotic resistance surveillance report 2025 presents, for the first time, resistance prevalence estimates across 22 antibiotics used to treat infections of the urinary and gastrointest…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2397,16 +2409,6 @@ WHO recommends t…]]></summary>
         <link href="https://www.gponline.com/bma-rejects-10-year-plan-demands-protection-gp-model/article/1932315"/>
         <updated>2025-09-14T15:59:11.000Z</updated>
         <summary type="html"><![CDATA[BMA leaders have voted to oppose the government's 10-year health plan and demanded safeguards to guarantee the future of GP independent contractor status.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most GPs believe 10-year plan is threat to continuity of care and partnership model]]></title>
-        <id>https://www.gponline.com/article/1932252</id>
-        <link href="https://www.gponline.com/gps-believe-10-year-plan-threat-continuity-care-partnership-model/article/1932252"/>
-        <updated>2025-09-13T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[More than three-quarters of GPs (77%) believe the government's 10-year health plan will lead to a fall in continuity of care, and eight in ten say it threatens the independent contractor status, a BMA poll has found.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>

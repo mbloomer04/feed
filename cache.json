@@ -1848,16 +1848,6 @@
           "wordCount": 729,
           "title": "BMA rejects 10-year plan and demands protection of GP model",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign1-_26.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1932252",
-          "author": null,
-          "description": "More than three-quarters of GPs (77%) believe the government's 10-year health plan will lead to a fall in continuity of care, and eight in ten say it threatens the independent contractor status, a BMA poll has found.",
-          "link": "https://www.gponline.com/gps-believe-10-year-plan-threat-continuity-care-partnership-model/article/1932252",
-          "publishedOn": "2025-09-13T23:30:00.000Z",
-          "wordCount": 772,
-          "title": "Most GPs believe 10-year plan is threat to continuity of care and partnership model",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_54.jpg"
         }
       ]
     },
@@ -2903,6 +2893,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:a0ff74d5-9e05-477f-9a32-527aace7869a",
+          "author": null,
+          "description": "One in six laboratory-confirmed bacterial infections causing common infections in people worldwide in 2023 were resistant to antibiotic treatments, according to a new World Health Organization (WHO) report launched today. Between 2018 and 2023, antibiotic resistance rose in over 40% of the pathogen-antibiotic combinations monitored, with an average annual increase of 5–15%. \nData reported to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) from over 100 countries cautions that increasing resistance to essential antibiotics poses a growing threat to global health. \nThe new Global antibiotic resistance surveillance report 2025 presents, for the first time, resistance prevalence estimates across 22 antibiotics used to treat infections of the urinary and gastrointest…",
+          "link": "https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide",
+          "publishedOn": "2025-10-13T07:22:00.000Z",
+          "wordCount": 2733,
+          "title": "WHO warns of widespread resistance to common antibiotics worldwide",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/antimicrobial-resistance-division-(amr)/amr-adgo-(ama)/infectiousdiseasetreatmentafghanistan.tmb-1200v.jpg?sfvrsn=cdfc473a_6"
+        },
         {
           "id": "urn:uuid:83a9a3be-1aba-4dd2-854c-64b26c14df58",
           "author": null,
