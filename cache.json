@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1935893",
+          "author": null,
+          "description": "RCGP Wales has called on the next Welsh government to set up a new 'opt-in' central general practice estates body to take on existing GP partnerships' premises liabilities.",
+          "link": "https://www.gponline.com/rcgp-calls-government-gp-partner-premises-liabilities/article/1935893",
+          "publishedOn": "2025-10-14T13:45:00.000Z",
+          "wordCount": 741,
+          "title": "RCGP calls for government to take on GP partner premises liabilities",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RowenaChristmas_RCGPAC.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935990",
           "author": null,
           "description": "Health and social care secretary Wes Streeting has accused the BMA of showing a ‘complete disregard’ to patients and fostering an environment that has encouraged LMCs to make 'rash interventions' over online access changes.",
@@ -3160,6 +3170,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245405",
+          "author": "Jordan Sollof",
+          "description": "University Hospitals of Leicester NHS Trust is evaluating the safety and effectiveness of using AI software across different patient groups.",
+          "link": "https://www.digitalhealth.net/2025/10/uhl-trial-assesses-ai-effectiveness-across-all-patient-groups/",
+          "publishedOn": "2025-10-14T12:30:32.000Z",
+          "wordCount": null,
+          "title": "University Hospitals of Leicester evaluates safety of AI software",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=243739",
           "author": "Cora Lydon",

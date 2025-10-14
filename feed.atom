@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-14T13:25:06.667Z</updated>
+    <updated>2025-10-14T14:13:15.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RCGP calls for government to take on GP partner premises liabilities]]></title>
+        <id>https://www.gponline.com/article/1935893</id>
+        <link href="https://www.gponline.com/rcgp-calls-government-gp-partner-premises-liabilities/article/1935893"/>
+        <updated>2025-10-14T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[RCGP Wales has called on the next Welsh government to set up a new 'opt-in' central general practice estates body to take on existing GP partnerships' premises liabilities.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4707 - Veeam Releases Security Updates for Backup & Replication and Windows Agent]]></title>
         <id>8fe54d60-5f5e-4206-a7c9-bf2e982a3818</id>
@@ -17,6 +27,16 @@
  Updated: 14 Oct 2025]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University Hospitals of Leicester evaluates safety of AI software]]></title>
+        <id>https://www.digitalhealth.net/?p=245405</id>
+        <link href="https://www.digitalhealth.net/2025/10/uhl-trial-assesses-ai-effectiveness-across-all-patient-groups/"/>
+        <updated>2025-10-14T12:30:32.000Z</updated>
+        <summary type="html"><![CDATA[University Hospitals of Leicester NHS Trust is evaluating the safety and effectiveness of using AI software across different patient groups.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
