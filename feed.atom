@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-14T14:13:15.218Z</updated>
+    <updated>2025-10-14T15:14:26.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -37,6 +37,16 @@
         <summary type="html"><![CDATA[University Hospitals of Leicester NHS Trust is evaluating the safety and effectiveness of using AI software across different patient groups.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO and the European Union launch collaboration to advance digitized health systems in sub-Saharan Africa]]></title>
+        <id>urn:uuid:86f1650d-be20-403c-be67-3a46fefc83f1</id>
+        <link href="https://www.who.int/news/item/14-10-2025-who-and-the-european-union-launch-collaboration-to-advance-digitized-health-systems-in-sub-saharan-africa"/>
+        <updated>2025-10-14T12:27:10.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) and the European Union (EU) announced today a new agreement to support the digital transformation of health systems and wider adoption of WHO’s Global Digital Health Certification Network (GDHCN) in sub-Saharan Africa. This EU–WHO partnership will improve pandemic preparedness and accelerate progress towards better health and well-being for all.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
