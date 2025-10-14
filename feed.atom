@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-14T08:16:14.410Z</updated>
+    <updated>2025-10-14T09:14:37.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -87,6 +87,16 @@
         <summary type="html"><![CDATA[NHS Grampian has been advised by KPMG to consider replacing up to 40% of its back-office staff with AI to save money.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 million lives lost each year: urgent action needed on neurological care]]></title>
+        <id>urn:uuid:4a0fd4c6-b471-429f-aa52-e88cee0037f4</id>
+        <link href="https://www.who.int/news/item/14-10-2025-11-million-lives-lost-each-year-urgent-action-needed-on-neurological-care"/>
+        <updated>2025-10-13T09:41:18.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today warns that less than one in three countries around the world has a national policy to address the growing burden of neurological disorders, responsible for over 11 million deaths globally each year. The WHO’s new Global status report on neurology released today shows that neurological conditions now affect more than 40% of the global population – over 3 billion people.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2472,16 +2482,6 @@ WHO recommends t…]]></summary>
         <link href="https://www.gov.uk/government/news/14-nhs-trusts-the-focus-of-national-maternity-investigation"/>
         <updated>2025-09-15T06:34:27.000Z</updated>
         <summary type="html"><![CDATA[Government announces 14 hospital trusts to be looked at in a national investigation]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health Secretary speech to British Medical Association]]></title>
-        <id>https://www.gov.uk/government/speeches/health-secretary-speech-to-british-medical-association</id>
-        <link href="https://www.gov.uk/government/speeches/health-secretary-speech-to-british-medical-association"/>
-        <updated>2025-09-14T20:51:21.000Z</updated>
-        <summary type="html"><![CDATA[The Secretary of State for Health and Social Care spoke at the special meeting of the British Medical Association’s (BMA) representative body this morning.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
