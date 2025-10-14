@@ -2060,6 +2060,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "author": null,
+          "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
+          "publishedOn": "2025-10-14T10:28:12.000Z",
+          "wordCount": 1140,
+          "title": "Notice: Life Sciences Healthcare Goals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-july-2025",
           "author": null,
           "description": "Reports on departmental spending over £25,000.",
@@ -3120,6 +3130,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=243739",
+          "author": "Cora Lydon",
+          "description": "Today’s Coffee Time Briefing includes a grant for Reinhart to scale its preventative mental health work and a compliance platform launch.",
+          "link": "https://www.digitalhealth.net/2025/10/digital-health-coffee-time-briefing-%e2%98%95-111/",
+          "publishedOn": "2025-10-14T10:30:35.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245485",
           "author": "Jordan Sollof",
