@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8fe54d60-5f5e-4206-a7c9-bf2e982a3818",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 14 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4707",
+          "publishedOn": "2025-10-14T13:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4707 - Veeam Releases Security Updates for Backup & Replication and Windows Agent",
+          "imageUrl": null
+        },
+        {
           "id": "3c0853c8-f57c-4d7a-8f19-d836032483e4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure\n Oracle has released an out-of-band security update addressing CVE-2025-61884, which, if successfully exploited, could lead to unauthenticated information disclosure\n Updated: 13 Oct 2025",
