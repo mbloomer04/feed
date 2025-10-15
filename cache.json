@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1c2f67f1-e50e-4226-8608-ff0c45a788ed",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed\n F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed\n Updated: 15 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4709",
+          "publishedOn": "2025-10-15T15:02:00.000Z",
+          "wordCount": null,
+          "title": "CC-4709 - F5 Issues Statement on Compromise of Internal F5 Networks",
+          "imageUrl": null
+        },
+        {
           "id": "a319344e-a423-417f-8159-885691babece",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 175 vulnerabilities, of which 3 are under exploitation and 3 have been reported as publicly disclosed\n Scheduled updates for Microsoft products address 175 vulnerabilities, of which 3 are under exploitation and 3 have been reported as publicly disclosed\n Updated: 15 Oct 2025",

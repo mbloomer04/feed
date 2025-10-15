@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-15T14:13:32.464Z</updated>
+    <updated>2025-10-15T15:12:41.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4709 - F5 Issues Statement on Compromise of Internal F5 Networks]]></title>
+        <id>1c2f67f1-e50e-4226-8608-ff0c45a788ed</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4709"/>
+        <updated>2025-10-15T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed
+ F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed
+ Updated: 15 Oct 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP News Update: Online access row intensifies, impact of A&E DES, Carr-Hill review launched]]></title>
         <id>https://www.gponline.com/article/1936119</id>
