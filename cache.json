@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a319344e-a423-417f-8159-885691babece",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 175 vulnerabilities, of which 3 are under exploitation and 3 have been reported as publicly disclosed\n Scheduled updates for Microsoft products address 175 vulnerabilities, of which 3 are under exploitation and 3 have been reported as publicly disclosed\n Updated: 15 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4708",
+          "publishedOn": "2025-10-15T09:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4708 - Microsoft Releases October 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "8fe54d60-5f5e-4206-a7c9-bf2e982a3818",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 14 Oct 2025",
@@ -3150,6 +3160,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245777",
+          "author": "Jordan Sollof",
+          "description": "AI-powered pharmacy PillTime is launching a Monitored Dosage System hub to support community pharmacists nationwide.",
+          "link": "https://www.digitalhealth.net/2025/10/ai-nhs-pharmacy-to-become-national-dispensing-hub/",
+          "publishedOn": "2025-10-15T10:00:46.000Z",
+          "wordCount": null,
+          "title": "AI-powered NHS pharmacy to become national dispensing hub",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245679",
           "author": "Jordan Sollof",
