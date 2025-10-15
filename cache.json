@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936138",
+          "author": null,
+          "description": "GPs, practices and practice staff have been recognised for providing excellent end-of-life care in the annual RCGP/Marie Curie Daffodil Standards awards.",
+          "link": "https://www.gponline.com/gps-practices-recognised-providing-outstanding-end-of-life-care/article/1936138",
+          "publishedOn": "2025-10-15T09:56:53.000Z",
+          "wordCount": 723,
+          "title": "GPs and practices recognised for providing outstanding end-of-life care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/251009_JB_MC_DSA_008.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1936017",
           "author": null,
           "description": "The number of requests submitted via advice and guidance has risen by around 20% since the introduction of the directed enhanced service (DES) in April, and over 550,000 people have avoided joining the NHS hospital waiting list, latest data show.",
@@ -2080,16 +2090,6 @@
           "publishedOn": "2025-09-23T23:01:05.000Z",
           "wordCount": 1838,
           "title": "NHS makes it easier than ever to protect toddlers against flu",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=273286",
-          "author": "jboshell",
-          "description": "The NHS is running ‘stress test’ exercises and providing targeted care for vulnerable patients, as it strengthens its plans to winter-proof the health service. Throughout September, local NHS leaders will test the robustness of their winter plans by participating in scenario exercises such as staff shortages, rapid increase in demand, and multiple virus outbreaks. Local […]",
-          "link": "https://www.england.nhs.uk/2025/09/stress-tests-and-pre-winter-check-ins-as-nhs-ramps-up-winter-prep/",
-          "publishedOn": "2025-09-15T23:01:07.000Z",
-          "wordCount": 1761,
-          "title": "‘Stress tests’ and pre winter check-ins as NHS ramps up winter prep",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
