@@ -1190,6 +1190,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936119",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-online-access-row-intensifies-impact-a-e-des-carr-hill-review-launched/article/1936119",
+          "publishedOn": "2025-10-15T14:03:07.000Z",
+          "wordCount": 720,
+          "title": "GP News Update: Online access row intensifies, impact of A&E DES, Carr-Hill review launched",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_19.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1936167",
+          "author": null,
+          "description": "Health and social care secretary Wes Streeting has written to GP practices reminding them to proactively identify people with a learning disability and ensure they receive annual health checks.",
+          "link": "https://www.gponline.com/streeting-calls-gps-step-identification-people-learning-disability/learning-disabilities/article/1936167",
+          "publishedOn": "2025-10-15T11:20:45.000Z",
+          "wordCount": 764,
+          "title": "Streeting calls on GPs to step up identification of people with a learning disability",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2239992385.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1936138",
           "author": null,
           "description": "GPs, practices and practice staff have been recognised for providing excellent end-of-life care in the annual RCGP/Marie Curie Daffodil Standards awards.",
@@ -3160,6 +3180,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245845",
+          "author": "Jordan Sollof",
+          "description": "Sonia Patel, CTO at NHS England, has called for a \"stronger digital workforce pipeline\" to support the delivery of the 10 year health plan.",
+          "link": "https://www.digitalhealth.net/2025/10/sonia-patel-we-need-clear-direction-from-the-centre/",
+          "publishedOn": "2025-10-15T12:30:14.000Z",
+          "wordCount": null,
+          "title": "Sonia Patel: ‘We need a stronger digital workforce pipeline’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245777",
           "author": "Jordan Sollof",
