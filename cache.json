@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936033",
+          "author": null,
+          "description": "Writing for GPonline, care minister Stephen Kinnock says increased uptake of advice and guidance since the enhanced service launched is helping patients avoid unnecessary waits and a key plank of ensuring they receive care closer to home.",
+          "link": "https://www.gponline.com/stephen-kinnock-increase-advice-guidance-use-good-news-patients-gps/article/1936033",
+          "publishedOn": "2025-10-15T07:50:00.000Z",
+          "wordCount": 755,
+          "title": "Stephen Kinnock: Increase in advice and guidance use is good news for patients and GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Stephen_Kinnock_HouseofCommons_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935893",
           "author": null,
           "description": "RCGP Wales has called on the next Welsh government to set up a new 'opt-in' central general practice estates body to take on existing GP partnerships' premises liabilities.",
@@ -3130,6 +3140,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=245679",
+          "author": "Jordan Sollof",
+          "description": "The NIHR has announced £1.5m funding for HealthTech projects to reduce waiting times for children in need of mental healthcare support.",
+          "link": "https://www.digitalhealth.net/2025/10/healthtech-projects-awarded-1-5m-to-support-child-mental-health/",
+          "publishedOn": "2025-10-15T07:30:34.000Z",
+          "wordCount": null,
+          "title": "HealthTech projects awarded £1.5m to support child mental health",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245405",
           "author": "Jordan Sollof",
