@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-17T12:25:19.526Z</updated>
+    <updated>2025-10-17T13:22:16.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aide Health launches AI scribing tool for patients]]></title>
+        <id>https://www.digitalhealth.net/?p=245795</id>
+        <link href="https://www.digitalhealth.net/2025/10/aide-health-launches-ai-medical-memory-app-for-nhs/"/>
+        <updated>2025-10-17T12:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Aide Health has launched an AI-powered ‘medical memory’ app for patients in a bid to solve the problem of forgetting what the doctor said.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Menopause Network launches digital platform for midlife care]]></title>
         <id>https://www.digitalhealth.net/?p=245957</id>
