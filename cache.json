@@ -2080,6 +2080,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme-grant-determination-2025-to-2026",
+          "author": null,
+          "description": "Grant determination for the Adult Social Care Learning and Development Support Scheme in the financial year 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme-grant-determination-2025-to-2026",
+          "publishedOn": "2025-10-20T08:30:00.000Z",
+          "wordCount": 1140,
+          "title": "Guidance: Adult Social Care Learning and Development Support Scheme grant determination: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "author": null,
+          "description": "Information for adult social care employers in England on learning and development support.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
+          "publishedOn": "2025-10-20T08:30:00.000Z",
+          "wordCount": 1557,
+          "title": "Guidance: Adult Social Care Learning and Development Support Scheme",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/improved-safeguarding-and-protections-for-vulnerable-people",
           "author": null,
           "description": "Government to launch a consultation on Liberty Protection Safeguards to improve safeguarding for vulnerable people.",
@@ -2923,6 +2943,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:9a1d75d7-ab99-4314-8fcf-7c024b01b527",
+          "author": null,
+          "description": "In a landmark public health achievement, Fiji has been validated by the World Health Organization (WHO) for eliminating trachoma as a public health problem. Trachoma, a neglected tropical disease (NTD) and the world’s leading infectious cause of blindness, no longer poses a public health threat in the country.\nTrachoma is the first NTD to be eliminated in Fiji. Fiji is the 26th country to eliminate trachoma as a public health problem and the 58th country globally to eliminate at least one NTD.\n“WHO congratulates Fiji and its network of global and local partners on reaching this milestone,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Future generations of Fijians have been given a precious gift in being set free from the suffering that trachoma has inflicted on their ancestor…",
+          "link": "https://www.who.int/news/item/20-10-2025-fiji-becomes-the-26th-country-to-eliminate-trachoma-as-a-public-health-problem",
+          "publishedOn": "2025-10-19T19:27:44.000Z",
+          "wordCount": 2780,
+          "title": "Fiji becomes the 26th country to eliminate trachoma as a public health problem",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/award-ceremony-trachoma-elimination-fiji.tmb-1200v.jpg?sfvrsn=87cfdecd_2"
+        },
         {
           "id": "urn:uuid:3592742e-ef50-4102-806c-048516127820",
           "author": null,
