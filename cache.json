@@ -2120,6 +2120,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025",
+          "publishedOn": "2025-10-21T12:58:50.000Z",
+          "wordCount": 786,
+          "title": "Transparency data: DHSC: workforce management information September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
           "author": null,
           "description": "Microsoft 365 Copilot trial demonstrates monthly time savings of potentially 400,000 hours for NHS staff",
@@ -3160,6 +3170,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=246407",
+          "author": "Tammy Lovell",
+          "description": "A major trial of Microsoft 365 Copilot across 90 NHS organisations found that the tech could save over 43 minutes a day per staff member.",
+          "link": "https://www.digitalhealth.net/2025/10/major-nhs-trial-of-ai-powered-productivity-tool-delivers-cost-savings/",
+          "publishedOn": "2025-10-21T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Major NHS trial of AI-powered productivity tool delivers cost savings",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=244365",
           "author": "Cora Lydon",

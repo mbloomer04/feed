@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-21T12:26:30.926Z</updated>
+    <updated>2025-10-21T13:28:35.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: workforce management information September 2025]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025"/>
+        <updated>2025-10-21T12:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental staff numbers and costs.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major NHS trial of AI-powered productivity tool delivers cost savings]]></title>
+        <id>https://www.digitalhealth.net/?p=246407</id>
+        <link href="https://www.digitalhealth.net/2025/10/major-nhs-trial-of-ai-powered-productivity-tool-delivers-cost-savings/"/>
+        <updated>2025-10-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A major trial of Microsoft 365 Copilot across 90 NHS organisations found that the tech could save over 43 minutes a day per staff member.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=244365</id>
