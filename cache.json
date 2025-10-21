@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936742",
+          "author": null,
+          "description": "A GP who received a 12-month prison sentence after damaging petrol pumps during a Just Stop Oil climate change protest has been suspended from the medical register for 10 months.",
+          "link": "https://www.gponline.com/gp-suspended-medical-register-conviction-climate-change-protest/article/1936742",
+          "publishedOn": "2025-10-21T07:59:24.000Z",
+          "wordCount": 749,
+          "title": "GP suspended from medical register after conviction for climate change protest",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/PatrickHart_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1936293",
           "author": null,
           "description": "GP practices are facing a significant increase in workload as a result of consultations with patients requesting access to weight loss drugs when they are ineligible under current NHS guidelines.",
@@ -2109,6 +2119,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
+          "author": null,
+          "description": "Microsoft 365 Copilot trial demonstrates monthly time savings of potentially 400,000 hours for NHS staff",
+          "link": "https://www.gov.uk/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
+          "publishedOn": "2025-10-20T23:00:00.000Z",
+          "wordCount": 2168,
+          "title": "Major NHS AI trial delivers unprecedented time and cost savings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/gemma-aldridge-appointed-to-review-dhsc-and-nhs-england-communications",
           "author": null,
