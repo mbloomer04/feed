@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-21T14:12:22.123Z</updated>
+    <updated>2025-10-21T15:14:26.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[A major trial of Microsoft 365 Copilot across 90 NHS organisations found that the tech could save over 43 minutes a day per staff member.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQC launches consultation on how to improve assessments]]></title>
+        <id>https://www.gponline.com/article/1936784</id>
+        <link href="https://www.gponline.com/cqc-launches-consultation-improve-assessments/article/1936784"/>
+        <updated>2025-10-21T11:10:59.000Z</updated>
+        <summary type="html"><![CDATA[The CQC has launched a public consultation on proposals to improve how it assesses health and care services, including GP practices.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
