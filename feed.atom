@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-21T10:13:47.987Z</updated>
+    <updated>2025-10-21T11:10:49.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=244365</id>
+        <link href="https://www.digitalhealth.net/2025/10/digital-health-coffee-time-briefing-%e2%98%95-113/"/>
+        <updated>2025-10-21T10:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Briefing includes Jigsaw Medical's Innovate UK funding and the launch of an NHS digital tool to tackle racial disparities.]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS outage causes disruption to patient care across NHS sites]]></title>
+        <id>https://www.digitalhealth.net/?p=246409</id>
+        <link href="https://www.digitalhealth.net/2025/10/aws-outage-causes-disruption-to-patient-care-across-nhs-sites/"/>
+        <updated>2025-10-21T10:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive: An AWS outage is believed to have caused disruption to patient care at around 10 NHS sites using Oracle systems.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP suspended from medical register after conviction for climate change protest]]></title>
         <id>https://www.gponline.com/article/1936742</id>
@@ -2584,16 +2604,6 @@ WHO recommends t…]]></summary>
         <summary type="html"><![CDATA[Great Ormond Street Hospital for Children NHS FT is "embedding AI into clinical care, operations and research", said Mark Coker, CDIO.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patients treated more quickly as NHS productivity rises over year]]></title>
-        <id>https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year</id>
-        <link href="https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year"/>
-        <updated>2025-09-21T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NHS productivity increases by 2.7% over the past year, new data shows meaning patients are being seen and treated more quickly due to investment and reforms.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

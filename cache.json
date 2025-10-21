@@ -2798,16 +2798,6 @@
           "wordCount": 2429,
           "title": "National vaccination campaign to protect newborns this winter",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year",
-          "author": null,
-          "description": "NHS productivity increases by 2.7% over the past year, new data shows meaning patients are being seen and treated more quickly due to investment and reforms.",
-          "link": "https://www.gov.uk/government/news/patients-treated-more-quickly-as-nhs-productivity-rises-over-year",
-          "publishedOn": "2025-09-21T23:00:00.000Z",
-          "wordCount": 2926,
-          "title": "Patients treated more quickly as NHS productivity rises over year",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3170,6 +3160,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244365",
+          "author": "Cora Lydon",
+          "description": "Today's Coffee Briefing includes Jigsaw Medical's Innovate UK funding and the launch of an NHS digital tool to tackle racial disparities.",
+          "link": "https://www.digitalhealth.net/2025/10/digital-health-coffee-time-briefing-%e2%98%95-113/",
+          "publishedOn": "2025-10-21T10:30:30.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=246409",
+          "author": "Jordan Sollof",
+          "description": "Exclusive: An AWS outage is believed to have caused disruption to patient care at around 10 NHS sites using Oracle systems.",
+          "link": "https://www.digitalhealth.net/2025/10/aws-outage-causes-disruption-to-patient-care-across-nhs-sites/",
+          "publishedOn": "2025-10-21T10:27:46.000Z",
+          "wordCount": null,
+          "title": "AWS outage causes disruption to patient care across NHS sites",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=246205",
           "author": "Jordan Sollof",
