@@ -2768,16 +2768,6 @@
           "wordCount": 788,
           "title": "Transparency data: DHSC: workforce management information August 2025",
           "imageUrl": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/jessica-bradys-legacy-inspires-new-life-saving-gp-safety-rule",
-          "author": null,
-          "description": "Patients with a potentially deadly illness will be diagnosed sooner thanks to a new life saving patient safety initiative called Jess' Rule.",
-          "link": "https://www.gov.uk/government/news/jessica-bradys-legacy-inspires-new-life-saving-gp-safety-rule",
-          "publishedOn": "2025-09-22T23:15:02.000Z",
-          "wordCount": 3164,
-          "title": "Jessica Brady's legacy inspires new life-saving GP safety rule",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
     },
@@ -3130,6 +3120,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=246547",
+          "author": "Tammy Lovell",
+          "description": "We want to hear your views on delivering digital transformation in line with the government's NHS 10 year health plan.",
+          "link": "https://www.digitalhealth.net/2025/10/share-your-views-on-digital-in-the-10-year-health-plan/",
+          "publishedOn": "2025-10-22T11:20:52.000Z",
+          "wordCount": null,
+          "title": "Share your views on digital in the 10 year health plan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=246495",
           "author": "Jordan Sollof",
