@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "CC-4702 - Active Exploitation of Zero-Day Vulnerability CVE-2025-20352 in Cisco IOS and IOS XE",
           "imageUrl": null
-        },
-        {
-          "id": "49a345ba-debb-403f-8f16-ce650d399507",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could allow an attacker to inject arbitrary commands\n Security update addresses a critical severity vulnerability in Fortra's GoAnywhere MFT License Servlet\n Updated: 22 Sep 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4701",
-          "publishedOn": "2025-09-22T13:48:00.000Z",
-          "wordCount": null,
-          "title": "CC-4701 - Fortra Releases Security Update for GoAnywhere MFT",
-          "imageUrl": null
         }
       ]
     },
@@ -2787,16 +2777,6 @@
           "publishedOn": "2025-09-22T23:15:02.000Z",
           "wordCount": 3164,
           "title": "Jessica Brady's legacy inspires new life-saving GP safety rule",
-          "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/ai-to-be-trialled-at-unprecedented-scale-across-nhs-screening",
-          "author": null,
-          "description": "Pioneering new cloud computer system will allow AI tools to be tested on an unprecedented scale across the NHS to boost early diagnosis",
-          "link": "https://www.gov.uk/government/news/ai-to-be-trialled-at-unprecedented-scale-across-nhs-screening",
-          "publishedOn": "2025-09-22T14:41:44.000Z",
-          "wordCount": 2958,
-          "title": "AI to be trialled at unprecedented scale across NHS screening",
           "imageUrl": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg"
         }
       ]
