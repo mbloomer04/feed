@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-22T06:21:06.102Z</updated>
+    <updated>2025-10-22T07:13:19.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blueprint for AI regulation could cut NHS waiting times]]></title>
+        <id>https://www.digitalhealth.net/?p=246495</id>
+        <link href="https://www.digitalhealth.net/2025/10/blueprint-for-ai-regulation-could-cut-nhs-waiting-times/"/>
+        <updated>2025-10-22T06:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The government has announced a new blueprint for AI regulation which could help cut NHS waiting times and time demands on frontline staff.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: DHSC: workforce management information September 2025]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025</id>
