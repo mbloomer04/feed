@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-23T15:13:51.557Z</updated>
+    <updated>2025-10-23T16:15:44.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.gponline.com/resident-doctors-england-will-strike-five-days-next-month/article/1937137"/>
         <updated>2025-10-23T14:01:41.000Z</updated>
         <summary type="html"><![CDATA[Resident doctors in England will stage a five-day walkout from 7am on 14 November, the BMA has announced.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice manager handed suspended sentence after stealing thousands from GP surgery]]></title>
+        <id>https://www.gponline.com/article/1936804</id>
+        <link href="https://www.gponline.com/practice-manager-handed-suspended-sentence-stealing-thousands-gp-surgery/article/1936804"/>
+        <updated>2025-10-23T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[A former practice manager has received a three-year suspended sentence after pleading guilty to defrauding her GP surgery out of £63,000.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
