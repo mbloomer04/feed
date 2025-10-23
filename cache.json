@@ -1948,16 +1948,6 @@
           "wordCount": 713,
           "title": "GP News Update: BMA could ballot partners, Jess's rule, GP premises crisis, diabetes test error",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_17.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1933521",
-          "author": null,
-          "description": "BMA GP leaders have voted to re-enter dispute with the government over 'unsafe' changes to the GP contract. GPonline looks at what the the decision means at a critical time for general practice.",
-          "link": "https://www.gponline.com/does-re-entering-dispute-government-mean-gps/article/1933521",
-          "publishedOn": "2025-09-24T10:54:14.000Z",
-          "wordCount": 735,
-          "title": "What does re-entering dispute with government mean for GPs?",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign1-20160302054633365_40.jpg"
         }
       ]
     },
@@ -2129,6 +2119,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/advances-in-science-set-to-transform-treatments-for-people-living-with-dementia",
+          "author": null,
+          "description": "From blood tests to AI, new ways to diagnose dementia sooner and treat it faster set to be unlocked by new research challenge.",
+          "link": "https://www.gov.uk/government/news/advances-in-science-set-to-transform-treatments-for-people-living-with-dementia",
+          "publishedOn": "2025-10-23T23:01:01.000Z",
+          "wordCount": 3745,
+          "title": "Advances in science set to transform treatments for people living with dementia",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/government-announces-womens-health-strategy-to-be-renewed",
           "author": null,
