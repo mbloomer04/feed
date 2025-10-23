@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "dbb3132b-32bc-46e1-a585-0f36f47eb2d0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Oracle has released a quarterly rollup security advisory addressing CVE-2025-53072 and CVE-2025-62481, which, if successfully exploited, could lead to unauthenticated takeover of Oracle Marketing\n Oracle has released a quarterly rollup security advisory addressing CVE-2025-53072 and CVE-2025-62481, which, if successfully exploited, could lead to unauthenticated takeover of Oracle Marketing\n Updated: 23 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4710",
+          "publishedOn": "2025-10-23T10:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4710 - Oracle Releases Security Advisory to Address Two Critical Severity Vulnerabilities in E-Business Suite",
+          "imageUrl": null
+        },
+        {
           "id": "1c2f67f1-e50e-4226-8608-ff0c45a788ed",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed\n F5 has acknowledged source code and details about undisclosed vulnerabilities have been stolen by a state-sponsored attacker, but no exploitation has been observed\n Updated: 15 Oct 2025",
@@ -1180,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1937084",
+          "author": null,
+          "description": "The full-time equivalent (FTE) fully-qualified GP workforce in England rose during the past year, but the number of partners has continued to fall, latest data show.",
+          "link": "https://www.gponline.com/rise-gp-workforce-past-12-months-number-partners-continues-fall/article/1937084",
+          "publishedOn": "2025-10-23T09:57:20.000Z",
+          "wordCount": 739,
+          "title": "Rise in GP workforce over past 12 months but number of partners continues to fall",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896426-ezgif.com-optijpeg_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1936983",
           "author": null,
           "description": "Discussions about menopause are to be added to routine NHS health checks, the government has announced.",
@@ -1298,6 +1318,16 @@
           "wordCount": 736,
           "title": "Government to introduce mandatory antisemitism training for all NHS staff",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2240925948.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1936309",
+          "author": null,
+          "description": "Talking General Practice speaks to Dr Jude Hayward and Dr Imran Rafi, the RCGP joint clinical representatives for genomics.",
+          "link": "https://www.gponline.com/podcast-will-genomics-change-medicine-general-practice/article/1936309",
+          "publishedOn": "2025-10-17T07:45:00.000Z",
+          "wordCount": 713,
+          "title": "Podcast: How will genomics change medicine in general practice?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_1010.png"
         },
         {
           "id": "https://www.gponline.com/article/1936343",
@@ -1928,16 +1958,6 @@
           "wordCount": 931,
           "title": "Government must do more to save GP partnerships, warns RCGP chair",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KamilaHawthorne2_GraingePhotography_26.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1933435",
-          "author": null,
-          "description": "Thousands of pharmacies will offer flu vaccination to children aged two and three years old for the first time this winter in a move GPs say could help boost uptake - but doctors' leaders have raised concerns over a potential impact on practice funding and continuity of care.",
-          "link": "https://www.gponline.com/will-pharmacy-flu-vaccines-toddlers-mean-gp-practices/article/1933435",
-          "publishedOn": "2025-09-23T23:01:00.000Z",
-          "wordCount": 768,
-          "title": "What will pharmacy flu vaccines for toddlers mean for GP practices?",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/child_GP_GettyImages-Maskot_RF.jpg"
         }
       ]
     },
@@ -2100,16 +2120,6 @@
           "publishedOn": "2025-09-25T23:01:07.000Z",
           "wordCount": 1471,
           "title": "NHS App’s family access feature “as simple as switching Netflix profiles”",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=273672",
-          "author": "nowen",
-          "description": "Parents will be able to get their two and three year olds vaccinated against flu at local pharmacies for the first time ever this autumn. Around 4,000 pharmacies have signed up to deliver the vaccine to the 1.2 million eligible toddlers from next week, making it easier than ever for busy parents to protect their […]",
-          "link": "https://www.england.nhs.uk/2025/09/nhs-makes-it-easier-than-ever-to-protect-toddlers-against-flu/",
-          "publishedOn": "2025-09-23T23:01:05.000Z",
-          "wordCount": 1838,
-          "title": "NHS makes it easier than ever to protect toddlers against flu",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -3140,6 +3150,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=244423",
+          "author": "Cora Lydon",
+          "description": "Today's Coffee Time includes Medical Research Council funding to advance eczema treatment and the opening of Oxford North.",
+          "link": "https://www.digitalhealth.net/2025/10/digital-health-coffee-time-briefing-%e2%98%95-114/",
+          "publishedOn": "2025-10-23T10:30:57.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=246591",
           "author": "Jordan Sollof",
