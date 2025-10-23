@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936983",
+          "author": null,
+          "description": "Discussions about menopause are to be added to routine NHS health checks, the government has announced.",
+          "link": "https://www.gponline.com/menopause-conversations-added-nhs-health-checks/womens-health/menopausal-and-hrt/article/1936983",
+          "publishedOn": "2025-10-22T23:10:00.000Z",
+          "wordCount": 714,
+          "title": "Menopause conversations to be added to NHS health checks",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2096299675.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1937012",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -3112,16 +3122,6 @@
           "wordCount": 2294,
           "title": "WHO statement on autism-related issues",
           "imageUrl": "https://www.who.int/images/default-source/departments/foodborne-diseases/who-hq-logo.tmb-1200v.jpg?Culture=en&sfvrsn=a3f00adc_6"
-        },
-        {
-          "id": "urn:uuid:2c5ac3ef-725a-4bb5-bb79-6f63e6114898",
-          "author": null,
-          "description": "The World Health Organization (WHO) today released its second Global hypertension report, showing that 1.4 billion people lived with hypertension in 2024, yet just over one in five have it under control either through medication or addressing modifiable health risks.",
-          "link": "https://www.who.int/news/item/23-09-2025-uncontrolled-high-blood-pressure-puts-over-a-billion-people-at-risk",
-          "publishedOn": "2025-09-23T12:00:22.000Z",
-          "wordCount": 3387,
-          "title": "Uncontrolled high blood pressure puts over a billion people at risk",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hypertension/nurse-checking-blood-pressure-of-a-patient.tmb-1200v.jpg?sfvrsn=7fdaced3_6"
         }
       ]
     },
@@ -3849,16 +3849,6 @@
           "wordCount": 6183,
           "title": "Patients complain about disruption following new EPR in Sheffield",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Kirsten-Major-Sheffield-Teaching-Hospitals.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=243111",
-          "author": "Jordan Sollof",
-          "description": "Digital Health Networks has welcomed two new allied health professional (AHP) members to its advisory panels.",
-          "link": "https://www.digitalhealth.net/2025/09/digital-health-advisory-panels-welcome-new-ahp-members/",
-          "publishedOn": "2025-09-23T12:30:19.000Z",
-          "wordCount": 6206,
-          "title": "Digital Health advisory panels welcome new AHP members",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Leah-Parry-and-Emma-Jackson.png"
         }
       ]
     },

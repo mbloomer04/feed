@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-22T23:10:51.781Z</updated>
+    <updated>2025-10-23T00:59:38.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Menopause conversations to be added to NHS health checks]]></title>
+        <id>https://www.gponline.com/article/1936983</id>
+        <link href="https://www.gponline.com/menopause-conversations-added-nhs-health-checks/womens-health/menopausal-and-hrt/article/1936983"/>
+        <updated>2025-10-22T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussions about menopause are to be added to routine NHS health checks, the government has announced.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major NHS update brings menopause into routine health checks]]></title>
         <id>https://www.gov.uk/government/news/major-nhs-update-brings-menopause-into-routine-health-checks</id>
@@ -2531,26 +2541,6 @@ WHO recommends t…]]></summary>
         <summary type="html"><![CDATA[Reports on departmental staff numbers and costs.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health advisory panels welcome new AHP members]]></title>
-        <id>https://www.digitalhealth.net/?p=243111</id>
-        <link href="https://www.digitalhealth.net/2025/09/digital-health-advisory-panels-welcome-new-ahp-members/"/>
-        <updated>2025-09-23T12:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Digital Health Networks has welcomed two new allied health professional (AHP) members to its advisory panels.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncontrolled high blood pressure puts over a billion people at risk]]></title>
-        <id>urn:uuid:2c5ac3ef-725a-4bb5-bb79-6f63e6114898</id>
-        <link href="https://www.who.int/news/item/23-09-2025-uncontrolled-high-blood-pressure-puts-over-a-billion-people-at-risk"/>
-        <updated>2025-09-23T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) today released its second Global hypertension report, showing that 1.4 billion people lived with hypertension in 2024, yet just over one in five have it under control either through medication or addressing modifiable health risks.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
