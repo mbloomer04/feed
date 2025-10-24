@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "CC-4703 - Active campaign targeting vulnerabilities in Cisco VPN devices",
           "imageUrl": null
-        },
-        {
-          "id": "fdd86b2f-393b-4ab3-9b92-d42d682be534",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Cisco has released a security advisory to address exploited vulnerability CVE-2025-20352 that could lead to remote code execution or a denial-of-service condition\n Updated: 25 Sep 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4702",
-          "publishedOn": "2025-09-25T10:59:00.000Z",
-          "wordCount": null,
-          "title": "CC-4702 - Active Exploitation of Zero-Day Vulnerability CVE-2025-20352 in Cisco IOS and IOS XE",
-          "imageUrl": null
         }
       ]
     },
@@ -3838,16 +3828,6 @@
           "wordCount": 6263,
           "title": "Nottingham rolls out ‘digital-enabled’ Neighbourhood Health Service",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Alexis-Farrow-landscape.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=242225",
-          "author": "Cora Lydon",
-          "description": "Today's Coffee Briefing includes the news that every NHS stroke centre in England has been equipped with AI software.",
-          "link": "https://www.digitalhealth.net/2025/09/digital-health-coffee-time-briefing-%e2%98%95-106/",
-          "publishedOn": "2025-09-25T10:30:45.000Z",
-          "wordCount": 4328,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
         }
       ]
     },
