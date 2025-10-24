@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1937215",
+          "author": null,
+          "description": "Lack of investment in community services threatens the government's plans to shift more care out of hospital, the CQC has warned.",
+          "link": "https://www.gponline.com/lack-investment-community-services-will-hit-plans-shift-care-hospitals-says-cqc/article/1937215",
+          "publishedOn": "2025-10-24T08:53:17.000Z",
+          "wordCount": 749,
+          "title": "Lack of investment in community services will hit plans to shift care out of hospitals, says CQC",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-510584082_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1937157",
           "author": null,
           "description": "Talking General Practice speaks to GP Dr Callum Leese, who is also the RCGP co-lead for physical activity, about the importance of physical activity and how primary care professionals can promote it to their patients.",
@@ -3109,6 +3119,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=246691",
+          "author": "Jordan Sollof",
+          "description": "A study by the MHRA will use AI and NHS data to predict side effects from drug combinations before they reach patients.",
+          "link": "https://www.digitalhealth.net/2025/10/mhra-study-to-use-ai-to-predict-side-effects-from-drug-interactions/",
+          "publishedOn": "2025-10-24T10:00:10.000Z",
+          "wordCount": null,
+          "title": "MHRA study to use AI to predict side effects from drug interactions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=246715",
           "author": "Jordan Sollof",
