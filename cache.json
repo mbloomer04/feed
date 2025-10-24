@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1937157",
+          "author": null,
+          "description": "Talking General Practice speaks to GP Dr Callum Leese, who is also the RCGP co-lead for physical activity, about the importance of physical activity and how primary care professionals can promote it to their patients.",
+          "link": "https://www.gponline.com/podcast-importance-promoting-physical-activity-primary-care/article/1937157",
+          "publishedOn": "2025-10-24T07:20:00.000Z",
+          "wordCount": 743,
+          "title": "Podcast: The importance of promoting physical activity in primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGP_callumLeese.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1937137",
           "author": null,
           "description": "Resident doctors in England will stage a five-day walkout from 7am on 14 November, the BMA has announced.",
@@ -2088,6 +2098,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/nhs-sites-to-cut-bills-with-great-british-energy-solar-panels",
+          "author": null,
+          "description": "More NHS sites across England to cut bills with Great British Energy solar panels.",
+          "link": "https://www.gov.uk/government/news/nhs-sites-to-cut-bills-with-great-british-energy-solar-panels",
+          "publishedOn": "2025-10-24T08:31:24.000Z",
+          "wordCount": 6516,
+          "title": "NHS sites to cut bills with Great British Energy solar panels",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/advances-in-science-set-to-transform-treatments-for-people-living-with-dementia",
           "author": null,
