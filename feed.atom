@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-27T10:15:35.784Z</updated>
+    <updated>2025-10-27T11:11:44.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CQC warns ‘digital by default’ could deepen NHS inequalities]]></title>
+        <id>https://www.digitalhealth.net/?p=246871</id>
+        <link href="https://www.digitalhealth.net/2025/10/cqc-warns-digital-by-default-could-deepen-nhs-inequalities/"/>
+        <updated>2025-10-27T11:00:25.000Z</updated>
+        <summary type="html"><![CDATA[The CQC has warned that the NHS’s shift to digital risks excluding vulnerable patients and widening existing health inequalities.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS trusts to be measured on electronic services adoption]]></title>
         <id>https://www.digitalhealth.net/?p=246873</id>
