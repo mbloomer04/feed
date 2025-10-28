@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-28T11:11:46.358Z</updated>
+    <updated>2025-10-28T12:25:41.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS injury costs recovery scheme]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme"/>
+        <updated>2025-10-28T11:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for NHS trusts on the application of the NHS injury costs recovery (ICR) scheme for 2025 to 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=245169</id>
+        <link href="https://www.digitalhealth.net/2025/10/digital-health-coffee-time-briefing-%e2%98%95-115/"/>
+        <updated>2025-10-28T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Your morning summary of digital health news, information and events to know about if you want to be “in the know”. 👇 News 🚀 Propel Healthtech West Yorkshire has launched its accelerator programme for health tech innovators. With £4.5m in funding from the West Yorkshire Mayor’s investment zone, successful applicants will gain a six-month programme […]]]></summary>
+        <author>
+            <name>Cora Lydon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS AI trial to diagnose prostate cancer up to a month faster]]></title>
+        <id>https://www.digitalhealth.net/?p=247099</id>
+        <link href="https://www.digitalhealth.net/2025/10/nhs-ai-trial-to-diagnose-prostate-cancer-up-to-a-month-faster/"/>
+        <updated>2025-10-28T11:14:31.000Z</updated>
+        <summary type="html"><![CDATA[An AI-powered service for prostate cancer which can spot lesions in minutes will be trialled in the NHS to help speed up diagnosis for men.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS artificial intelligence (AI) trial to diagnose prostate cancer up to a month faster]]></title>
         <id>https://www.england.nhs.uk/?p=275583</id>
