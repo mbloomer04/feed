@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1937542",
+          "author": null,
+          "description": "BMA Scotland has accepted a funding package worth an extra £531m for general practice over three years, moving the profession in Scotland out of dispute with the government.",
+          "link": "https://www.gponline.com/gps-scotland-end-dispute-531m-funding-deal-agreed/article/1937542",
+          "publishedOn": "2025-10-28T12:42:08.000Z",
+          "wordCount": 733,
+          "title": "GPs in Scotland end dispute as £531m funding deal agreed",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Iain_Morrison_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1935763",
           "author": null,
           "description": "The vast majority of GPs and practice managers say the financial position of their practice is unchanged or has deteriorated despite the £1.1bn GP contract deal for 2025/26, polling by GPonline reveals.",
@@ -3009,6 +3019,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=246891",
+          "author": "Jordan Sollof",
+          "description": "Digital self-management platform getUBetter has been embedded into the NHS 111 pathway for lower back pain in South East London.",
+          "link": "https://www.digitalhealth.net/2025/10/digital-self-management-platform-embedded-into-nhs-111-pathway/",
+          "publishedOn": "2025-10-28T14:00:17.000Z",
+          "wordCount": null,
+          "title": "Digital self-management platform embedded into NHS 111 pathway",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=245169",
           "author": "Cora Lydon",

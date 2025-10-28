@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-28T13:25:20.828Z</updated>
+    <updated>2025-10-28T14:13:39.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital self-management platform embedded into NHS 111 pathway]]></title>
+        <id>https://www.digitalhealth.net/?p=246891</id>
+        <link href="https://www.digitalhealth.net/2025/10/digital-self-management-platform-embedded-into-nhs-111-pathway/"/>
+        <updated>2025-10-28T14:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Digital self-management platform getUBetter has been embedded into the NHS 111 pathway for lower back pain in South East London.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs in Scotland end dispute as £531m funding deal agreed]]></title>
+        <id>https://www.gponline.com/article/1937542</id>
+        <link href="https://www.gponline.com/gps-scotland-end-dispute-531m-funding-deal-agreed/article/1937542"/>
+        <updated>2025-10-28T12:42:08.000Z</updated>
+        <summary type="html"><![CDATA[BMA Scotland has accepted a funding package worth an extra £531m for general practice over three years, moving the profession in Scotland out of dispute with the government.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: NHS injury costs recovery scheme]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme</id>
