@@ -1964,6 +1964,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "73164ded-8ee1-4574-8144-d9752641ed73",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Sarah and Steven celebrate 10 years of the National Congenital Conditions and Rare Disease Registration Service (NCARDRS).\n\r\n\r\nThis year the National Congenital Conditions and Rare Disease Registration Service (NCARDRS), part of NHS England’s the National Disease Registration Service (NDRS), celebrates 10 years of advancing understanding and care for people affected by congenital and rare conditions. Reflecting on the past decade, we have come so far in using data to make a tangible difference and achieved so much, yet there remains much more still to do.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/transforming-data-into-action-for-rare-and-congenital-conditions",
+          "publishedOn": "2025-10-28T13:42:13.000Z",
+          "wordCount": null,
+          "title": "Transforming data into action for rare and congenital conditions",
+          "imageUrl": null
+        },
+        {
           "id": "0084a630-9a72-40a0-8f12-b9e7ebfe1d70",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Martin Jarvis, Incident Management Lead in our Cyber Security Operations Centre (CSOC), explains how the preparedness of individual NHS organisations, working alongside central response capabilities, forms a protective partnership to keep the NHS safe.\n\r\n\r\nDriving forward the NHS 10 Year Health Plan’s commitment to move 'from analogue to digital' means cyber security is more critical than ever. As we build a digitally-enabled health service, where patients can access care 24/7 through the NHS App and other digital channels, robust cyber defences are essential for patient safety and continuity of care.",
@@ -2008,7 +2018,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "73164ded-8ee1-4574-8144-d9752641ed73",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Sarah and Steven celebrate 10 years of the National Congenital Conditions and Rare Disease Registration Service (NCARDRS).\n\r\n\r\nThis year the National Congenital Conditions and Rare Disease Registration Service (NCARDRS), part of NHS England’s the National Disease Registration Service (NDRS), celebrates 10 years of advancing understanding and care for people affected by congenital and rare conditions. Reflecting on the past decade, we have come so far in using data to make a tangible difference and achieved so much, yet there remains much more still to do.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2025/transforming-data-into-action-for-rare-and-congenital-conditions",
+          "publishedOn": "2025-10-28T13:42:13.000Z",
+          "wordCount": null,
+          "title": "Transforming data into action for rare and congenital conditions",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
