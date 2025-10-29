@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c491b386-7cba-4edf-9a2d-aeb60a837064",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Proof-of-concept exploit code has been shared publicly for CVE-2025-55752, which could lead to RCE\n Proof-of-concept exploit code has been shared publicly for CVE-2025-55752, which could lead to RCE\n Updated: 29 Oct 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4712",
+          "publishedOn": "2025-10-29T13:38:00.000Z",
+          "wordCount": null,
+          "title": "CC-4712 - Apache Releases Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "c6266fc9-bbe1-4477-9ef2-b98c14844b7f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could lead to remote code execution over a network\n Successful exploitation could lead to remote code execution over a network\n Updated: 24 Oct 2025",
@@ -2150,6 +2160,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/reforming-social-work-bursary-information-packs",
+          "author": null,
+          "description": "Information for higher education institutions and students on Social Work Bursary and Education Support Grant arrangements for the academic year 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/reforming-social-work-bursary-information-packs",
+          "publishedOn": "2025-10-29T13:38:28.000Z",
+          "wordCount": 1225,
+          "title": "Guidance: Social Work Bursary and Education Support Grant information packs",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme",
           "author": null,
           "description": "Guidance for NHS trusts on the application of the NHS injury costs recovery (ICR) scheme for 2025 to 2026.",
@@ -3040,6 +3060,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=247251",
+          "author": "Jordan Sollof",
+          "description": "NHS England's latest mandate that all providers adopt the FDP has been criticised for being “at odds” with existing policy.",
+          "link": "https://www.digitalhealth.net/2025/10/nhse-planning-guidance-on-fdp-at-odds-with-its-existing-policy/",
+          "publishedOn": "2025-10-29T13:30:29.000Z",
+          "wordCount": null,
+          "title": "NHSE planning guidance on FDP “at odds” with existing policy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=247045",
           "author": "Jordan Sollof",
