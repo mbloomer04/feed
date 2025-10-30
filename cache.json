@@ -2013,6 +2013,26 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=275746",
+          "author": "jboshell",
+          "description": "The flu season has hit the NHS more than a month earlier than usual, with cases three times higher than this time last year. The UK Health Security Agency’s (UKHSA’s) latest surveillance data published today shows cases have increased this week from 6.1% up to 8.2% – largely driven by a spike among school-aged children […]",
+          "link": "https://www.england.nhs.uk/2025/10/early-flu-wave-could-lead-to-long-and-drawn-out-winter-for-nhs/",
+          "publishedOn": "2025-10-30T15:59:37.000Z",
+          "wordCount": 1461,
+          "title": "Early flu wave could lead to ‘long and drawn out’ Winter for NHS",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=275742",
+          "author": "jboshell",
+          "description": "Millions of people are using online consultation requests to contact their GP practice each month, as the NHS gives people more choice in how they can safely contact their family doctor. New figures show 6.5 million online consultation requests were submitted to GPs in September 2025, up half compared to the same period last year […]",
+          "link": "https://www.england.nhs.uk/2025/10/millions-more-online-consultation-submissions-by-patients-to-practices-in-september/",
+          "publishedOn": "2025-10-30T15:21:11.000Z",
+          "wordCount": 1531,
+          "title": "Millions more online consultation submissions by patients to practices in September",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=275621",
           "author": "Tom W",
           "description": "Women will be able to access the morning-after pill free of charge on the NHS in high-street pharmacies across England from today. In the “biggest change to sexual health services since the 1960s”, the oral emergency contraception pill will be available for free to women from almost 10,000 pharmacies across the country without needing to […]",
@@ -2129,6 +2149,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/ppe-procurement-in-the-early-pandemic",
+          "author": null,
+          "description": "Information about the government's procurement exercise to secure critical personal protective equipment (PPE) during the early months of the COVID-19 pandemic.",
+          "link": "https://www.gov.uk/government/news/ppe-procurement-in-the-early-pandemic",
+          "publishedOn": "2025-10-30T15:43:20.000Z",
+          "wordCount": 6912,
+          "title": "PPE procurement in the early pandemic",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/corrections-regarding-ppe-procurement-in-the-early-pandemic",
           "author": null,

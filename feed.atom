@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-30T15:14:04.774Z</updated>
+    <updated>2025-10-30T16:17:34.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early flu wave could lead to ‘long and drawn out’ Winter for NHS]]></title>
+        <id>https://www.england.nhs.uk/?p=275746</id>
+        <link href="https://www.england.nhs.uk/2025/10/early-flu-wave-could-lead-to-long-and-drawn-out-winter-for-nhs/"/>
+        <updated>2025-10-30T15:59:37.000Z</updated>
+        <summary type="html"><![CDATA[The flu season has hit the NHS more than a month earlier than usual, with cases three times higher than this time last year. The UK Health Security Agency’s (UKHSA’s) latest surveillance data published today shows cases have increased this week from 6.1% up to 8.2% – largely driven by a spike among school-aged children […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPE procurement in the early pandemic]]></title>
+        <id>https://www.gov.uk/government/news/ppe-procurement-in-the-early-pandemic</id>
+        <link href="https://www.gov.uk/government/news/ppe-procurement-in-the-early-pandemic"/>
+        <updated>2025-10-30T15:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Information about the government's procurement exercise to secure critical personal protective equipment (PPE) during the early months of the COVID-19 pandemic.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millions more online consultation submissions by patients to practices in September]]></title>
+        <id>https://www.england.nhs.uk/?p=275742</id>
+        <link href="https://www.england.nhs.uk/2025/10/millions-more-online-consultation-submissions-by-patients-to-practices-in-september/"/>
+        <updated>2025-10-30T15:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Millions of people are using online consultation requests to contact their GP practice each month, as the NHS gives people more choice in how they can safely contact their family doctor. New figures show 6.5 million online consultation requests were submitted to GPs in September 2025, up half compared to the same period last year […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[York and Scarborough to go live with Nervecentre EPR in 2026]]></title>
         <id>https://www.digitalhealth.net/?p=247371</id>
