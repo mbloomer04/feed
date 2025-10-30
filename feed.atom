@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-10-30T01:02:21.085Z</updated>
+    <updated>2025-10-30T03:05:40.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -710,6 +710,16 @@ This year the National Congenital Conditions and Rare Disease Registration Servi
         <link href="https://www.gov.uk/government/news/gemma-aldridge-appointed-to-review-dhsc-and-nhs-england-communications"/>
         <updated>2025-10-20T15:34:51.000Z</updated>
         <summary type="html"><![CDATA[Gemma Aldridge has been appointed to the Department of Health and Social Care to undertake a short review of media and digital work at DHSC and NHS England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fair pay agreement process in adult social care]]></title>
+        <id>https://www.gov.uk/government/consultations/fair-pay-agreement-process-in-adult-social-care</id>
+        <link href="https://www.gov.uk/government/consultations/fair-pay-agreement-process-in-adult-social-care"/>
+        <updated>2025-10-20T15:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Consultation about the fair pay agreement process in adult social care.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2372,19 +2382,6 @@ Defined as excessive bleeding after childbirth, PPH affects millions of women an
         <summary type="html"><![CDATA[Appointment letter from DHSC confirming appointment of the senior responsible owner (SRO) of the Integrated Single Financial Environment Programme.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4704 - Broadcom Releases Security Updates for VMware Aria Operations, Tools, and Cloud Foundation]]></title>
-        <id>ce7c91f3-3fc5-4387-9e00-7312a28b0c85</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4704"/>
-        <updated>2025-09-30T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security advisory addresses three vulnerabilities that could result in privilege escalation
- Security advisory addresses two high severity and one medium severity vulnerabilities that could result in privilege escalation and disclosure of user credentials in VMware Aria Operations, Tools, and Cloud Foundation
- Updated: 30 Sep 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
