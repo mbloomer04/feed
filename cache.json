@@ -2160,6 +2160,46 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the Senior Salaries Review Body (SSRB) by the Department of Health and Social Care for the 2026 to 2027 pay round.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
+          "publishedOn": "2025-10-30T19:29:54.000Z",
+          "wordCount": 1147,
+          "title": "Policy paper: DHSC evidence for the SSRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/supplementary-evidence-to-pay-review-bodies-hospital-and-community-health-sector-2026-to-2027",
+          "author": null,
+          "description": "Granular estimates of basic pay, total earnings and paybill for the hospital and community health sector workforce in England in 2024 to 2025 and 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/supplementary-evidence-to-pay-review-bodies-hospital-and-community-health-sector-2026-to-2027",
+          "publishedOn": "2025-10-30T19:29:46.000Z",
+          "wordCount": 1278,
+          "title": "Policy paper: Supplementary evidence to pay review bodies: hospital and community health sector, 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) by the Department of Health and Social Care for the 2026 to 2027 pay round.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
+          "publishedOn": "2025-10-30T19:29:40.000Z",
+          "wordCount": 1133,
+          "title": "Policy paper: DHSC evidence for the DDRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the NHS Pay Review Body (NHSPRB) by the Department of Health and Social Care for the pay round 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
+          "publishedOn": "2025-10-30T19:29:34.000Z",
+          "wordCount": 1097,
+          "title": "Policy paper: DHSC evidence for the NHSPRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/ppe-procurement-in-the-early-pandemic",
           "author": null,
           "description": "Information about the government's procurement exercise to secure critical personal protective equipment (PPE) during the early months of the COVID-19 pandemic.",
@@ -3739,16 +3779,6 @@
           "wordCount": 4331,
           "title": "GP practices in England to make online booking available all day",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/04/shutterstock_2273456585-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=243949",
-          "author": "Jordan Sollof",
-          "description": "Digital is “integral\" to the trust's top ranking in NHS league tables, said Dr Peter Thomas, director of digital at Moorfields Eye Hospital.",
-          "link": "https://www.digitalhealth.net/2025/10/digital-is-integral-to-moorfields-top-nhs-league-table-ranking/",
-          "publishedOn": "2025-10-01T07:30:30.000Z",
-          "wordCount": 6476,
-          "title": "Digital is ‘integral’ to Moorfields’ top NHS league table ranking",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/09/Dr-Peter-Thomas-Moorfields.png"
         }
       ]
     },
