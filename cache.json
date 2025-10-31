@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1937992",
+          "author": null,
+          "description": "Government plans to offer a 2.5% pay increase for doctors in 2026/27 threaten a real-terms pay cut and show a 'profound disregard' for the medical profession, the BMA has warned.",
+          "link": "https://www.gponline.com/government-backs-insulting-25-pay-rise-doctors-2026/article/1937992",
+          "publishedOn": "2025-10-31T09:45:17.000Z",
+          "wordCount": 737,
+          "title": "Government backs 'insulting' 2.5% pay rise for doctors in 2026",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_27.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1937888",
           "author": null,
           "description": "The GPonline team discusses the key news stories affecting general practice",
@@ -1924,6 +1934,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5e9b27f5-eb41-48f8-909f-1dccdd0dd763",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Tero Väänänen explains why the NHS design system exists and why it plays an important role in fulfilling the 10-year health plan. He also describes recent changes to the frontend code behind the design system, and why it is important for teams to adopt them now.\n\r\n \n\r\n\r\nThe NHS is moving from analogue to digital, and the NHS design system plays a critical role in making sure that shift results in accessible and usable digital products. \n\r\n\r\nIt does this by giving teams across the system a shared set of tools and standards, which reduce the effort needed to deliver digital products and services.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/making-the-nhs-design-system-fit-for-the-future",
+          "publishedOn": "2025-10-31T09:43:21.000Z",
+          "wordCount": null,
+          "title": "Making the NHS design system fit for the future",
+          "imageUrl": null
+        },
+        {
           "id": "73164ded-8ee1-4574-8144-d9752641ed73",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Sarah and Steven celebrate 10 years of the National Congenital Conditions and Rare Disease Registration Service (NCARDRS).\n\r\n\r\nThis year the National Congenital Conditions and Rare Disease Registration Service (NCARDRS), part of NHS England’s the National Disease Registration Service (NDRS), celebrates 10 years of advancing understanding and care for people affected by congenital and rare conditions. Reflecting on the past decade, we have come so far in using data to make a tangible difference and achieved so much, yet there remains much more still to do.",
@@ -1995,7 +2015,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "5e9b27f5-eb41-48f8-909f-1dccdd0dd763",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Tero Väänänen explains why the NHS design system exists and why it plays an important role in fulfilling the 10-year health plan. He also describes recent changes to the frontend code behind the design system, and why it is important for teams to adopt them now.\n\r\n \n\r\n\r\nThe NHS is moving from analogue to digital, and the NHS design system plays a critical role in making sure that shift results in accessible and usable digital products. \n\r\n\r\nIt does this by giving teams across the system a shared set of tools and standards, which reduce the effort needed to deliver digital products and services.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/making-the-nhs-design-system-fit-for-the-future",
+          "publishedOn": "2025-10-31T09:43:21.000Z",
+          "wordCount": null,
+          "title": "Making the NHS design system fit for the future",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHS England",
@@ -3010,6 +3041,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=247599",
+          "author": "Jordan Sollof",
+          "description": "UK nursing and midwifery charity Cavell has been announced as the official charity partner for Digital Health Rewired 2026.",
+          "link": "https://www.digitalhealth.net/2025/10/cavell-announced-as-official-charity-partner-for-rewired-2026/",
+          "publishedOn": "2025-10-31T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Cavell announced as official charity partner for Rewired 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=247525",
           "author": "Jordan Sollof",
