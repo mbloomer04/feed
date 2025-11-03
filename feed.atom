@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-03T11:11:19.320Z</updated>
+    <updated>2025-11-03T12:27:09.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS recovery continues with above target productivity growth]]></title>
+        <id>https://www.gov.uk/government/news/nhs-recovery-continues-with-above-target-productivity-growth</id>
+        <link href="https://www.gov.uk/government/news/nhs-recovery-continues-with-above-target-productivity-growth"/>
+        <updated>2025-11-03T12:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the government’s reforms, record capital investment and the hard work of NHS staff, the NHS continues to outperform its productivity target of 2%.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital rehab tool recommended for kidney patients in Wales]]></title>
         <id>https://www.digitalhealth.net/?p=247539</id>
