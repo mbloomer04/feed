@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-03T10:15:44.410Z</updated>
+    <updated>2025-11-03T11:11:19.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital rehab tool recommended for kidney patients in Wales]]></title>
+        <id>https://www.digitalhealth.net/?p=247539</id>
+        <link href="https://www.digitalhealth.net/2025/11/wales-regulator-gives-approval-for-digital-rehab-tool-for-kidney-patients/"/>
+        <updated>2025-11-03T11:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Health Technology Wales has recommended a digital rehabilitation and self-management platform for people living with chronic kidney disease.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS ‘must tackle maternity systems gaps’ under 10 year plan]]></title>
         <id>https://www.digitalhealth.net/?p=247479</id>
@@ -14,6 +24,18 @@
         <summary type="html"><![CDATA[Midwifery leaders have outlined the numerous technical challenges facing maternity care as the NHS implements its 10 year health plan.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO issues guidance to address drastic global health financing cuts]]></title>
+        <id>urn:uuid:edd9b20b-f9b9-4aa4-b8a1-78b44d24f1b1</id>
+        <link href="https://www.who.int/news/item/03-11-2025-who-issues-guidance-to-address-drastic-global-health-financing-cuts"/>
+        <updated>2025-11-02T17:10:14.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released new guidance for countries on ways to counter the immediate and long-term effects of sudden and severe cuts to external funding, which are disrupting the delivery of essential health services in many countries. 
+The new guidance, called “Responding to the health financing emergency: immediate measures and longer-term shifts”, provides a suite of policy options for countries to cope with the sudden financing shocks, and bolster efforts to mobilize and implement sufficient and sustainable financing for national health systems.
+External health aid is projected to drop by 30% to 40% in 2025 compared with 2023, causing immediate and severe disruption to health services in low- and middle-income countries (LMICs). WHO survey data from 108 LMICs …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

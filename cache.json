@@ -2825,6 +2825,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:edd9b20b-f9b9-4aa4-b8a1-78b44d24f1b1",
+          "author": null,
+          "description": "The World Health Organization (WHO) today released new guidance for countries on ways to counter the immediate and long-term effects of sudden and severe cuts to external funding, which are disrupting the delivery of essential health services in many countries. \nThe new guidance, called “Responding to the health financing emergency: immediate measures and longer-term shifts”, provides a suite of policy options for countries to cope with the sudden financing shocks, and bolster efforts to mobilize and implement sufficient and sustainable financing for national health systems.\nExternal health aid is projected to drop by 30% to 40% in 2025 compared with 2023, causing immediate and severe disruption to health services in low- and middle-income countries (LMICs). WHO survey data from 108 LMICs …",
+          "link": "https://www.who.int/news/item/03-11-2025-who-issues-guidance-to-address-drastic-global-health-financing-cuts",
+          "publishedOn": "2025-11-02T17:10:14.000Z",
+          "wordCount": 2671,
+          "title": "WHO issues guidance to address drastic global health financing cuts",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/primary-health-care/health-care-services-in-uganda.tmb-1200v.jpg?sfvrsn=2a705aa3_1"
+        },
+        {
           "id": "urn:uuid:48140947-2aa7-4487-a343-1ecb54420eba",
           "author": null,
           "description": "With the new guide for decision-makers launched today, WHO provides concrete ideas to usher in a new era of urban health action. The Guide responds to the growing demand for integrated solutions that address health challenges and promote health more broadly in urban settings.",
@@ -2941,6 +2951,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=247539",
+          "author": "Samuel Webb",
+          "description": "Health Technology Wales has recommended a digital rehabilitation and self-management platform for people living with chronic kidney disease.",
+          "link": "https://www.digitalhealth.net/2025/11/wales-regulator-gives-approval-for-digital-rehab-tool-for-kidney-patients/",
+          "publishedOn": "2025-11-03T11:00:20.000Z",
+          "wordCount": null,
+          "title": "Digital rehab tool recommended for kidney patients in Wales",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=247479",
           "author": "Samuel Webb",
