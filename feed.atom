@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-04T14:13:36.258Z</updated>
+    <updated>2025-11-04T15:13:59.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government acts to tackle rising childhood obesity epidemic]]></title>
+        <id>https://www.gov.uk/government/news/government-acts-to-tackle-rising-childhood-obesity-epidemic</id>
+        <link href="https://www.gov.uk/government/news/government-acts-to-tackle-rising-childhood-obesity-epidemic"/>
+        <updated>2025-11-04T14:36:22.000Z</updated>
+        <summary type="html"><![CDATA[The government will underline its commitment to get children heathier and more active following new figures revealing the scale of the childhood obesity problem]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trust saves more than £565k since 2023 e-rostering tech launch]]></title>
         <id>https://www.digitalhealth.net/?p=247925</id>
