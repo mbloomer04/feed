@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "CC-4706 - Oracle Releases Security Advisory to address CVE-2025-61884 affecting E-Business Suite",
           "imageUrl": null
-        },
-        {
-          "id": "1b2facee-0713-433a-a20a-57fff09ffa1a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Oracle has reported exploitation of CVE-2025-61882 in the wild as a zero-day vulnerability which, if successfully exploited, could allow unauthenticated remote code execution on affected E-Business Suite appliances\n Updated: 06 Oct 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4705",
-          "publishedOn": "2025-10-06T11:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4705 - Oracle Releases Security Advisory for E-Business Suite",
-          "imageUrl": null
         }
       ]
     },
@@ -1878,16 +1868,6 @@
           "wordCount": 957,
           "title": "Why the UK could be facing a severe flu season",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/flu-jab_GettyImages-IparraguirreRecio-RF.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1934963",
-          "author": null,
-          "description": "Online access changes imposed by the government could lead to some patients waiting 'many months' for GP appointments as practices bring in waiting lists to manage demand, BMA guidance suggests.",
-          "link": "https://www.gponline.com/online-access-change-patients-wait-many-months-gp-appointments/article/1934963",
-          "publishedOn": "2025-10-06T10:41:32.000Z",
-          "wordCount": 919,
-          "title": "Online access change could make patients wait 'many months' for GP appointments",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_sign_MalcolmCaseGreen_53.jpg"
         }
       ]
     },
