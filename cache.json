@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1938374",
+          "author": null,
+          "description": "NHS reorganisation and doubts over funding for large-scale ICB redundancies are a 'significant distraction and barrier' to progress on key government priorities such as the 10-year health plan, a poll of integrated care system leaders shows.",
+          "link": "https://www.gponline.com/nhs-reform-redundancies-stall-10-year-plan-ics-leaders-warn/article/1938374",
+          "publishedOn": "2025-11-04T10:18:10.000Z",
+          "wordCount": 932,
+          "title": "NHS reform and redundancies could stall 10-year plan, ICS leaders warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick2_14.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1938282",
           "author": null,
           "description": "Most GPs could be worse off after the chancellor's autumn budget statement if a proposed 'switch' from national insurance to income tax goes ahead, accountants have warned.",
@@ -2130,6 +2140,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2020",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2020.",
+          "link": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2020",
+          "publishedOn": "2025-11-04T11:21:58.000Z",
+          "wordCount": 1706,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2020",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/nhs-recovery-continues-with-above-target-productivity-growth",
           "author": null,
