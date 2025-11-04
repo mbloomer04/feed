@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-04T07:13:16.264Z</updated>
+    <updated>2025-11-04T08:18:12.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI agents in GP practices could save NHS £75m annually]]></title>
+        <id>https://www.digitalhealth.net/?p=247783</id>
+        <link href="https://www.digitalhealth.net/2025/11/ai-agents-in-gp-practices-could-save-nhs-75m-annually/"/>
+        <updated>2025-11-04T07:30:17.000Z</updated>
+        <summary type="html"><![CDATA[AI agents which automate paperwork management in GP surgeries could save the NHS £75m annually, according to a report from OneAdvanced.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why autumn budget changes could leave most GPs worse off]]></title>
         <id>https://www.gponline.com/article/1938282</id>
