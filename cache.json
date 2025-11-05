@@ -2925,6 +2925,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:9f4a2ef1-ec92-4089-81e0-9fcd5de895a4",
+          "author": null,
+          "description": "WHO joined parliamentary leaders at the 151st Inter-Parliamentary Union (IPU) Assembly, held on 19–23 October 2025 in Geneva, bringing together nearly 1150 delegates, including over 600 members of parliament from 132 countries.",
+          "link": "https://www.who.int/news/item/05-11-2025-who-at-the-151st-ipu-assembly-advancing-health-rights-and-resilience-through-parliamentary-action",
+          "publishedOn": "2025-11-05T14:58:12.000Z",
+          "wordCount": 3494,
+          "title": "WHO at the 151st IPU Assembly: advancing health, rights and resilience through parliamentary action",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/external-relations-governance-(ext)/health-and-multilateral-partnerships-(hmp)/participant-at-the-151st-ipu-assembly.tmb-1200v.jpg?sfvrsn=a90ee67b_1"
+        },
+        {
+          "id": "urn:uuid:1a55b841-37d6-4e83-b700-cbcc27028ffd",
+          "author": null,
+          "description": "Concurring with the advice and considerations expressed by the Committee during the meeting, the WHO Director-General, on 5 September 2025, determined that the upsurge of mpox 2024 no longer constitutes a public health emergency of international concern (PHEIC).",
+          "link": "https://www.who.int/news/item/30-10-2025-fifth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-upsurge-of-mpox-2024",
+          "publishedOn": "2025-11-05T14:08:35.000Z",
+          "wordCount": 6897,
+          "title": "Fifth meeting of the International Health Regulations (2005) Emergency Committee regarding the upsurge of mpox 2024",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2024---mpox-outbreak/mpox-health-worker-drc.tmb-1200v.jpg?sfvrsn=fb2ea5c6_6"
+        },
+        {
           "id": "urn:uuid:edd9b20b-f9b9-4aa4-b8a1-78b44d24f1b1",
           "author": null,
           "description": "The World Health Organization (WHO) today released new guidance for countries on ways to counter the immediate and long-term effects of sudden and severe cuts to external funding, which are disrupting the delivery of essential health services in many countries. \nThe new guidance, called “Responding to the health financing emergency: immediate measures and longer-term shifts”, provides a suite of policy options for countries to cope with the sudden financing shocks, and bolster efforts to mobilize and implement sufficient and sustainable financing for national health systems.\nExternal health aid is projected to drop by 30% to 40% in 2025 compared with 2023, causing immediate and severe disruption to health services in low- and middle-income countries (LMICs). WHO survey data from 108 LMICs …",
@@ -3730,16 +3750,6 @@
           "wordCount": 4388,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=244853",
-          "author": "Jordan Sollof",
-          "description": "Heidi Health has announced the closing of a $65 million (£48m) Series B funding round which will help the firm expand globally.",
-          "link": "https://www.digitalhealth.net/2025/10/heidi-health-raises-48m-in-series-b-funding-to-expand-globally/",
-          "publishedOn": "2025-10-07T10:00:06.000Z",
-          "wordCount": 4241,
-          "title": "Heidi Health raises £48m in Series B funding to expand globally",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/10/Dr-Thomas-Kelly-Heidi-Health.png"
         }
       ]
     },
