@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-05T10:14:57.673Z</updated>
+    <updated>2025-11-05T11:12:10.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nottingham Hospitals declares critical incident after EPR go-live]]></title>
+        <id>https://www.digitalhealth.net/?p=248093</id>
+        <link href="https://www.digitalhealth.net/2025/11/nottingham-hospitals-declares-critical-incident-after-epr-go-live/"/>
+        <updated>2025-11-05T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Nottingham University Hospitals NHS Trust has declared a critical incident after going live with its electronic patient record last weekend.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase out fit notes to ease pressure on GPs, says government-backed report]]></title>
+        <id>https://www.gponline.com/article/1938536</id>
+        <link href="https://www.gponline.com/phase-fit-notes-ease-pressure-gps-says-government-backed-report/article/1938536"/>
+        <updated>2025-11-05T09:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Use of fit notes should be reduced or replaced by an employer-funded workplace health service to take pressure off GPs and tackle a 'quiet but urgent crisis' that has left a fifth of working-age adults out of the workforce, a government-backed report warns.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harrogate and District to go live with Nervecentre EPR this month]]></title>
         <id>https://www.digitalhealth.net/?p=247997</id>
