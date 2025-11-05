@@ -1170,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1938582",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-government-attacks-gps-pay-insulting-pay-rise-proposed-fit-notes/article/1938582",
+          "publishedOn": "2025-11-05T13:48:40.000Z",
+          "wordCount": 897,
+          "title": "GP News Update: Government attacks GPs on pay, 'insulting' pay rise proposed, fit notes",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_22.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1938537",
           "author": null,
           "description": "Emerging NHS neighbourhoods risk 'being too narrowly focused' on health services and cutting pressure on hospitals - and could fail to deliver key aims of the government's 10-year health plan as a result, health experts have warned.",
@@ -2981,6 +2991,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=248121",
+          "author": "Jordan Sollof",
+          "description": "Care minister Stephen Kinnock held a call with ICB leaders to identify areas that are struggling to roll out online access to primary care.",
+          "link": "https://www.digitalhealth.net/2025/11/care-minister-discusses-gp-online-access-barriers-with-icb-leaders/",
+          "publishedOn": "2025-11-05T13:30:25.000Z",
+          "wordCount": null,
+          "title": "Care minister discusses GP online consultation issues with ICBs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=248093",
           "author": "Jordan Sollof",
