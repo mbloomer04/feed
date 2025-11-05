@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-05T16:17:03.659Z</updated>
+    <updated>2025-11-05T17:12:57.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brewing beer: rules and regulations for commercial brewing]]></title>
+        <id>https://www.gov.uk/guidance/brewing-beer-rules-and-regulations-for-commercial-brewing</id>
+        <link href="https://www.gov.uk/guidance/brewing-beer-rules-and-regulations-for-commercial-brewing"/>
+        <updated>2025-11-05T16:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Regulations that brewers and contract brewers must comply with when producing beer to sell.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Down Syndrome Act 2022 guidance: call for evidence (easy read and BSL)]]></title>
         <id>https://www.gov.uk/government/calls-for-evidence/down-syndrome-act-2022-guidance-call-for-evidence-easy-read</id>
