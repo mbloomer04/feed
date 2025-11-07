@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-07T08:17:49.729Z</updated>
+    <updated>2025-11-07T09:13:28.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Improving care for veterans in general practice]]></title>
+        <id>https://www.gponline.com/article/1938609</id>
+        <link href="https://www.gponline.com/podcast-improving-care-veterans-general-practice/article/1938609"/>
+        <updated>2025-11-07T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to RCGP veterans clinical champion Dr Emily Brookes about the health needs of military veterans and their families, and what general practice can do to support these groups of patients.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remote monitoring hoped to free up 500,000 appointments a year]]></title>
         <id>https://www.digitalhealth.net/?p=248385</id>
