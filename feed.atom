@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-08T00:58:15.789Z</updated>
+    <updated>2025-11-08T02:22:50.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record numbers of people with type 2 diabetes benefit from NHS ‘soups and shakes’]]></title>
+        <id>https://www.england.nhs.uk/?p=276075</id>
+        <link href="https://www.england.nhs.uk/2025/11/record-numbers-of-people-with-type-2-diabetes-benefit-from-nhs-soups-and-shakes/"/>
+        <updated>2025-11-08T00:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The NHS supported a record number of people with type 2 diabetes to sign up to its ‘soups and shakes’ diet programme last year, helping them to lose weight and potentially put their condition into remission. Over 13,000 people were enrolled onto the NHS Type 2 Diabetes Path to Remission Programme, also known as the […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LMCs demand ballot on action including 'full-day walkouts']]></title>
         <id>https://www.gponline.com/article/1938998</id>
@@ -2425,16 +2435,6 @@ The new Global antibiotic resistance surveillance report 2025 presents, for the 
         <summary type="html"><![CDATA[Health minister Stephen Kinnock has described the current dispute between the BMA and the government over online consultations as a ‘phoney war’ and accused the union of ‘whipping up the issue’.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge increase in flu vaccination as cases rise]]></title>
-        <id>https://www.england.nhs.uk/?p=274631</id>
-        <link href="https://www.england.nhs.uk/2025/10/huge-increase-in-flu-vaccination-as-cases-rise/"/>
-        <updated>2025-10-09T13:57:18.000Z</updated>
-        <summary type="html"><![CDATA[The NHS has vaccinated nearly a million more people against flu so far this autumn compared to last year – providing vital protection ahead of winter as cases start to rise. New data today reveals 4.3 million people have received the flu vaccine – including 3.57 million last week alone – as NHS teams across […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
     <entry>
