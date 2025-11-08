@@ -1855,18 +1855,7 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": [
-        {
-          "id": "https://www.gov.uk/government/publications/abdominal-aortic-aneurysm-screening-care-pathway",
-          "author": null,
-          "description": "Visual description of the abdominal aortic aneurysm (AAA) screening pathway.",
-          "link": "https://www.gov.uk/government/publications/abdominal-aortic-aneurysm-screening-care-pathway",
-          "publishedOn": "2025-10-10T09:25:34.000Z",
-          "wordCount": 915,
-          "title": "Guidance: NHS abdominal aortic aneurysm screening: care pathway",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "All Blog Feed",
@@ -2667,26 +2656,6 @@
           "publishedOn": "2025-10-10T14:27:18.000Z",
           "wordCount": 1960,
           "title": "People who inject drugs: infection risks, guidance and data",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/speeches/care-minister-speech-at-rcgp-annual-conference-2025",
-          "author": null,
-          "description": "Stephen Kinnock spoke at the Royal College of General Practitioners Annual Conference, in Newport, Wales.",
-          "link": "https://www.gov.uk/government/speeches/care-minister-speech-at-rcgp-annual-conference-2025",
-          "publishedOn": "2025-10-10T10:04:14.000Z",
-          "wordCount": 5344,
-          "title": "Care Minister speech at RCGP Annual Conference 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
-          "author": null,
-          "description": "Funding to local councils to help them improve their drug and alcohol treatment and recovery systems, from 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
-          "publishedOn": "2025-10-10T09:58:37.000Z",
-          "wordCount": 1026,
-          "title": "Guidance: Drug and alcohol treatment and recovery funding: 2025 to 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
@@ -3688,16 +3657,6 @@
           "publishedOn": "2025-10-10T12:30:33.000Z",
           "wordCount": null,
           "title": "Graphnet and Luscii launch advanced remote monitoring platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=245263",
-          "author": "Jordan Sollof",
-          "description": "On World Mental Health Day, this powerful episode of Unplugged focuses on including the patient voice in developing mental health technology.",
-          "link": "https://www.digitalhealth.net/2025/10/digital-health-unplugged-how-lived-experience-is-shaping-mental-health-tech/",
-          "publishedOn": "2025-10-10T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Digital Health Unplugged: How lived experience is shaping mental health tech",
           "imageUrl": null
         }
       ]
