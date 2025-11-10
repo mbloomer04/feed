@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-10T17:11:51.428Z</updated>
+    <updated>2025-11-10T18:18:59.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs average 50% more consultations per day than safe limit]]></title>
+        <id>https://www.gponline.com/article/1939223</id>
+        <link href="https://www.gponline.com/gps-average-50-consultations-per-day-safe-limit/article/1939223"/>
+        <updated>2025-11-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPs deliver over 50% more consultations per day on average than the safe limit recommended by the BMA - and one in three say their daily workload is potentially unsafe, GPonline polling suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delays to joint EPR programme could costs trusts £1m a month]]></title>
         <id>https://www.digitalhealth.net/?p=248041</id>
