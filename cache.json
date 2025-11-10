@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1939129",
+          "author": null,
+          "description": "Primary care minister Stephen Kinnock has accused the BMA England GP committee of 'standing in the way of changes vital for patient care' and claimed plans to escalate action by general practice are 'founded on untruths'.",
+          "link": "https://www.gponline.com/government-accuses-gps-standing-change/article/1939129",
+          "publishedOn": "2025-11-10T10:19:18.000Z",
+          "wordCount": 927,
+          "title": "Government accuses GPs of 'standing in the way of change'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Kinnock_GettyImages-Guy-Smallman.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1938998",
           "author": null,
           "description": "LMCs have demanded an indicative ballot of the profession over actions including 'full-day walkouts', just hours after backing a threat of mass resignation from practice contracts - underscoring the depth of anger in general practice amid a spiralling dispute with the government.",
@@ -2058,6 +2068,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-health-and-social-care-to-dr-camilla-kingdon",
+          "author": null,
+          "description": "The Secretary of State for Health and Social Care thanks Dr Camilla Kingdon for undertaking the review of children’s hearing services, and sets out next steps.",
+          "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-health-and-social-care-to-dr-camilla-kingdon",
+          "publishedOn": "2025-11-10T12:17:01.000Z",
+          "wordCount": 932,
+          "title": "Correspondence: Letter from the Secretary of State for Health and Social Care to Dr Camilla Kingdon",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/kingdon-review-of-childrens-hearing-services-final-report",
+          "author": null,
+          "description": "Sets out the final report from the independent review of children’s hearing services in England.",
+          "link": "https://www.gov.uk/government/publications/kingdon-review-of-childrens-hearing-services-final-report",
+          "publishedOn": "2025-11-10T12:15:53.000Z",
+          "wordCount": 1017,
+          "title": "Independent report: Kingdon review of children’s hearing services: final report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/health-boost-for-britains-forces-as-new-nhs-programme-launches",
           "author": null,
@@ -2989,6 +3019,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=248519",
+          "author": "Jordan Sollof",
+          "description": "Doctors' leaders have voted in favour of GP practices refusing to comply with online consultation tool requirements.",
+          "link": "https://www.digitalhealth.net/2025/11/gps-vote-to-refuse-changes-to-online-consultation-access/",
+          "publishedOn": "2025-11-10T11:28:56.000Z",
+          "wordCount": null,
+          "title": "GPs vote to refuse changes to online consultation access",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=248405",
           "author": "Samuel Webb",
