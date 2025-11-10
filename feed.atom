@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-10T12:26:48.310Z</updated>
+    <updated>2025-11-10T13:26:25.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4714 - QNAP Releases Security Updates for QTS and QuTS Hero]]></title>
+        <id>f79ac791-17b0-4818-8811-ef45b7ec31fe</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4714"/>
+        <updated>2025-11-10T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ When chained together, the vulnerabilities could allow for unauthenticated remote code execution and full device takeover
+ When chained together, the vulnerabilities could allow for unauthenticated remote code execution and full device takeover
+ Updated: 10 Nov 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correspondence: Letter from the Secretary of State for Health and Social Care to Dr Camilla Kingdon]]></title>
         <id>https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-health-and-social-care-to-dr-camilla-kingdon</id>
@@ -24,6 +37,16 @@
         <summary type="html"><![CDATA[Sets out the final report from the independent review of children’s hearing services in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third of GPs to quit within five years as RCGP warns of 'mass exodus']]></title>
+        <id>https://www.gponline.com/article/1939154</id>
+        <link href="https://www.gponline.com/third-gps-quit-within-five-years-rcgp-warns-mass-exodus/article/1939154"/>
+        <updated>2025-11-10T11:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Nearly one in three GPs are unlikely to be working in general practice five years from now, according to alarming RCGP polling that shows the profession is facing an imminent 'mass exodus'.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
