@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1936506",
+          "author": null,
+          "description": "GP practice staff who entered the Great Scottish Run as a team say the experience has improved their fitness, helped build working relationships and encourage patients to be more active.",
+          "link": "https://www.gponline.com/gp-practice-team-bonds-great-scottish-run/article/1936506",
+          "publishedOn": "2025-11-11T09:30:00.000Z",
+          "wordCount": 913,
+          "title": "GP practice team bonds through Great Scottish Run",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Denbridge_Medical_Practice.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1939223",
           "author": null,
           "description": "GPs deliver over 50% more consultations per day on average than the safe limit recommended by the BMA - and one in three say their daily workload is potentially unsafe, GPonline polling suggests.",
@@ -3069,6 +3079,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=249001",
+          "author": "Jordan Sollof",
+          "description": "Pathology supplier Synnovis is contacting NHS organisations which had data stolen and published online following a major cyber attack.",
+          "link": "https://www.digitalhealth.net/2025/11/synnovis-completes-forensic-investigation-into-nhs-cyber-attack/",
+          "publishedOn": "2025-11-11T11:28:54.000Z",
+          "wordCount": null,
+          "title": "NHS providers reviewing stolen data published by cyber criminals",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=246741",
           "author": "Cora Lydon",
