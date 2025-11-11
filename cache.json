@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1939354",
+          "author": null,
+          "description": "Government officials have given ICBs the green light to complete 50% staff cuts after agreeing a long-awaited funding package for redundancy costs estimated at £1bn.",
+          "link": "https://www.gponline.com/green-light-50-icb-staff-cuts-nhs-redundancy-cash-agreed/article/1939354",
+          "publishedOn": "2025-11-11T22:35:00.000Z",
+          "wordCount": 921,
+          "title": "Green light for 50% ICB staff cuts as NHS redundancy cash agreed",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting-GettyImages-Dan-Kitwood.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1936506",
           "author": null,
           "description": "GP practice staff who entered the Great Scottish Run as a team say the experience has improved their fitness, helped build working relationships and encourage patients to be more active.",
@@ -2088,6 +2098,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/billions-to-be-redirected-back-into-patient-care-with-nhs-reform",
+          "author": null,
+          "description": "Health Secretary announces plans to redirect billions of pounds from NHS reform back into patient care",
+          "link": "https://www.gov.uk/government/news/billions-to-be-redirected-back-into-patient-care-with-nhs-reform",
+          "publishedOn": "2025-11-11T22:30:07.000Z",
+          "wordCount": 2744,
+          "title": "Billions to be redirected back into patient care with NHS reform",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/delivering-the-best-for-girls-in-custody-government-response",
           "author": null,
