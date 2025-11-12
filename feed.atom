@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-12T19:10:34.468Z</updated>
+    <updated>2025-11-12T20:15:08.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -47,6 +47,16 @@
         <summary type="html"><![CDATA[Statement from the Joint Committee on Vaccination and Immunisation (JCVI) about vaccines for the 2026 to 2027 influenza season.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global gains in tuberculosis response endangered by funding challenges]]></title>
+        <id>urn:uuid:5f285d98-5381-4365-b5d9-e889b46a0675</id>
+        <link href="https://www.who.int/news/item/12-11-2025-global-gains-in-tuberculosis-response-endangered-by-funding-challenges"/>
+        <updated>2025-11-12T14:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Tuberculosis (TB) remains one of the world’s deadliest infectious killers, claiming over 1.2 million lives and affecting an estimated 10.7 million people last year, according to the WHO  Global Tuberculosis Report 2025, released today.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2499,16 +2509,6 @@ The Coalition aims to mobilize domestic and international investments, catalyse 
         <summary type="html"><![CDATA[GP leaders have raised serious concerns about plans to open 15 new walk-in centres across Scotland, arguing the best way to improve access to primary care is to address underinvestment in general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS SBS launches £2.5bn Digital Workplace Solutions framework]]></title>
-        <id>https://www.digitalhealth.net/?p=245593</id>
-        <link href="https://www.digitalhealth.net/2025/10/nhs-sbs-2-5bn-digital-workplace-solutions-2-framework-now-live/"/>
-        <updated>2025-10-14T07:30:30.000Z</updated>
-        <summary type="html"><![CDATA[NHS Shared Business Services has launched the £2.5bn Digital Workplace Solutions 2 framework agreement for IT infrastructure solutions.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>

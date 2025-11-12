@@ -2933,6 +2933,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:5f285d98-5381-4365-b5d9-e889b46a0675",
+          "author": null,
+          "description": "Tuberculosis (TB) remains one of the world’s deadliest infectious killers, claiming over 1.2 million lives and affecting an estimated 10.7 million people last year, according to the WHO  Global Tuberculosis Report 2025, released today.",
+          "link": "https://www.who.int/news/item/12-11-2025-global-gains-in-tuberculosis-response-endangered-by-funding-challenges",
+          "publishedOn": "2025-11-12T14:08:15.000Z",
+          "wordCount": 3124,
+          "title": "Global gains in tuberculosis response endangered by funding challenges",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/tuberculosis-russia-2023.tmb-1200v.jpg?sfvrsn=d4da57f9_2"
+        },
+        {
           "id": "urn:uuid:b79dd0d1-4c7b-4975-8fbe-4b20a6e6fda2",
           "author": null,
           "description": "The World Health Organization (WHO) today announced that Egypt has successfully eliminated trachoma as a public health problem, marking a historic public health milestone for the country and WHO’s Eastern Mediterranean Region (WHO EMR). It is the seventh country in WHO EMR to achieve this milestone. The validation of Egypt’s achievement brings the total number of countries that have eliminated trachoma as a public health problem worldwide to 27.\n\n“I congratulate Egypt for reaching this milestone and liberating its people from trachoma,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.  “This demonstrates the effectiveness of sustained national leadership, strong surveillance and community engagement in ending a disease that has afflicted humanity since antiquity.”\n\nFollowing Egypt…",
@@ -3767,16 +3777,6 @@
           "publishedOn": "2025-10-14T10:00:18.000Z",
           "wordCount": null,
           "title": "Partnership to improve mental health care access in North London",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=245593",
-          "author": "Jordan Sollof",
-          "description": "NHS Shared Business Services has launched the £2.5bn Digital Workplace Solutions 2 framework agreement for IT infrastructure solutions.",
-          "link": "https://www.digitalhealth.net/2025/10/nhs-sbs-2-5bn-digital-workplace-solutions-2-framework-now-live/",
-          "publishedOn": "2025-10-14T07:30:30.000Z",
-          "wordCount": null,
-          "title": "NHS SBS launches £2.5bn Digital Workplace Solutions framework",
           "imageUrl": null
         }
       ]
