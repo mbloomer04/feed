@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "21c823c1-8141-4f57-9dab-adb58b0dd581",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 63 vulnerabilities, of which 1 is under exploitation.\n Scheduled updates for Microsoft products address 63 vulnerabilities, of which 1 is under exploitation.\n Updated: 12 Nov 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4715",
+          "publishedOn": "2025-11-12T16:02:00.000Z",
+          "wordCount": null,
+          "title": "CC-4715 - Microsoft Releases November 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "f79ac791-17b0-4818-8811-ef45b7ec31fe",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n When chained together, the vulnerabilities could allow for unauthenticated remote code execution and full device takeover\n When chained together, the vulnerabilities could allow for unauthenticated remote code execution and full device takeover\n Updated: 10 Nov 2025",
