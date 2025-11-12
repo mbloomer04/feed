@@ -1180,6 +1180,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1939460",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-lmcs-back-industrial-action-ballot-gp-exodus-warning-icb-staff-cuts/article/1939460",
+          "publishedOn": "2025-11-12T10:56:10.000Z",
+          "wordCount": 910,
+          "title": "GP News Update: LMCs back industrial action ballot, GP exodus warning, ICB staff cuts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_23.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1939448",
+          "author": null,
+          "description": "Making 50% of ICB staff redundant could undermine plans to shift NHS care to a more preventive model and may not deliver promised gains in clinical output, the BMA has warned.",
+          "link": "https://www.gponline.com/promised-benefits-nhs-redundancy-plan-far-certain-bma-warns/article/1939448",
+          "publishedOn": "2025-11-12T09:47:07.000Z",
+          "wordCount": 925,
+          "title": "Promised benefits of NHS redundancy plan far from certain, BMA warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Tom-Dolphin_BMA-close-858.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1939354",
           "author": null,
           "description": "Government officials have given ICBs the green light to complete 50% staff cuts after agreeing a long-awaited funding package for redundancy costs estimated at £1bn.",
@@ -2050,16 +2070,6 @@
           "wordCount": 1918,
           "title": "NHS to roll out first long-acting injection to prevent HIV",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=274681",
-          "author": "Tom W",
-          "description": "Newborn babies will now be routinely screened and treated earlier on the NHS for a rare, life-threatening metabolic disorder, which can result in the need for a liver transplant. Hereditary Tyrosinaemia Type 1 (HT1) is a rare, genetically inherited disorder that affects around 7 babies per year in the UK. Left untreated, it can lead […]",
-          "link": "https://www.england.nhs.uk/2025/10/nhs-to-screen-all-newborn-babies-for-life-threatening-metabolic-disorder/",
-          "publishedOn": "2025-10-13T23:01:18.000Z",
-          "wordCount": 1514,
-          "title": "NHS to screen all newborn babies for life-threatening metabolic disorder",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2068,6 +2078,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/care-workforce-pathway-for-adult-social-care",
+          "author": null,
+          "description": "The care workforce pathway outlines the knowledge, skills, values and behaviours people need to work in adult social care.",
+          "link": "https://www.gov.uk/government/publications/care-workforce-pathway-for-adult-social-care",
+          "publishedOn": "2025-11-12T10:52:22.000Z",
+          "wordCount": 1341,
+          "title": "Guidance: Care workforce pathway for adult social care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/billions-to-be-redirected-back-into-patient-care-with-nhs-reform",
           "author": null,
@@ -2873,6 +2893,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:b79dd0d1-4c7b-4975-8fbe-4b20a6e6fda2",
+          "author": null,
+          "description": "The World Health Organization (WHO) today announced that Egypt has successfully eliminated trachoma as a public health problem, marking a historic public health milestone for the country and WHO’s Eastern Mediterranean Region (WHO EMR). It is the seventh country in WHO EMR to achieve this milestone. The validation of Egypt’s achievement brings the total number of countries that have eliminated trachoma as a public health problem worldwide to 27.\n\n“I congratulate Egypt for reaching this milestone and liberating its people from trachoma,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.  “This demonstrates the effectiveness of sustained national leadership, strong surveillance and community engagement in ending a disease that has afflicted humanity since antiquity.”\n\nFollowing Egypt…",
+          "link": "https://www.who.int/news/item/12-11-2025-egypt-becomes-the-seventh-country-in-the-eastern-mediterranean-region-to-eliminate-trachoma-as-a-public-health-problem",
+          "publishedOn": "2025-11-12T09:43:51.000Z",
+          "wordCount": 3108,
+          "title": "Egypt becomes the seventh country in the Eastern Mediterranean Region to eliminate trachoma as a public health problem",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/trachoma-elimination-ceremony-egypt-2025.tmb-1200v.jpeg?sfvrsn=c1c7fcaa_1"
+        },
+        {
           "id": "urn:uuid:a3dc5d6c-7c8b-4dcd-904e-033b95a49ec9",
           "author": null,
           "description": "Pneumonia remains one of the world’s leading infectious killers. It still claims more lives of children under five than any other infectious disease, and also poses a serious threat to older people and those with chronic health conditions, particularly in low-and middle-income countries. \n\nProtecting children and communities from pneumonia means strengthening health systems - so that preventive measures reach everyone, and every person with symptoms can get rapid diagnosis and the right treatment, including antibiotics and medical oxygen when needed. \n\nWe know what works. \n\nUrgent action will ensure every breath matters: \n\n\nScale up prevention: Ensure all children have access to essential vaccines such as those for Haemophilus influenzae type b (Hib), pneumococcus, measles, and pertussis. Promote exclusive breastfeeding for the first six months, adequate nutrition, and environments free from tobacco smoke and indoor air pollution. \n\nStrengthen primary health care: Equip health workers with the tools and training to recognize and manage pneumonia early. \n\n\n\nPromote equity and accountability: Monitor progress, close gaps in access to vaccines, oxygen, and care, and integrate pneumonia control into broader child-health, ageing, and environmental health programmes. \n\n\n\nIncrease access to oxygen: Ensure that every health facility - especially in low-resource settings - has reliable access to medical oxygen, pulse oximetry, and the supplies and training needed to use them safely.",
@@ -3009,6 +3039,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=249239",
+          "author": "Tammy Lovell",
+          "description": "Thousands of job cuts will go ahead following a deal with the Treasury allowing the NHS to overspend this year to cover redundancy costs.",
+          "link": "https://www.digitalhealth.net/2025/11/wes-streeting-gives-the-go-ahead-for-icb-and-nhs-job-cuts/",
+          "publishedOn": "2025-11-12T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Wes Streeting gives the go ahead for ICB and NHS job cuts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=248927",
           "author": "Jordan Sollof",
