@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-13T01:02:04.781Z</updated>
+    <updated>2025-11-13T03:09:25.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hundreds more blood cancer patients to receive life-giving drug on NHS]]></title>
+        <id>https://www.england.nhs.uk/?p=276364</id>
+        <link href="https://www.england.nhs.uk/2025/11/hundreds-more-blood-cancer-patients-to-receive-life-giving-drug-on-nhs/"/>
+        <updated>2025-11-13T00:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds more people with an aggressive form of blood cancer can now be offered hope of a cure and “a new lease of life” from today thanks to an NHS drug rollout. Glofitamab (Columvi®) will now be offered to around 300 people a year with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) — a […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secretary of State's address to the NHS Providers Conference]]></title>
         <id>https://www.gov.uk/government/speeches/secretary-of-states-address-to-the-nhs-providers-conference</id>
@@ -2366,29 +2376,6 @@ The Coalition aims to mobilize domestic and international investments, catalyse 
         <summary type="html"><![CDATA[Terms of reference for the independent investigation into maternity and neonatal care in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RCGP calls for government to take on GP partner premises liabilities]]></title>
-        <id>https://www.gponline.com/article/1935893</id>
-        <link href="https://www.gponline.com/rcgp-calls-government-gp-partner-premises-liabilities/article/1935893"/>
-        <updated>2025-10-14T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[RCGP Wales has called on the next Welsh government to set up a new 'opt-in' central general practice estates body to take on existing GP partnerships' premises liabilities.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4707 - Veeam Releases Security Updates for Backup & Replication and Windows Agent]]></title>
-        <id>8fe54d60-5f5e-4206-a7c9-bf2e982a3818</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4707"/>
-        <updated>2025-10-14T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation
- Security bulletin addresses critical severity vulnerabilities that could allow for remote code execution and privilege escalation
- Updated: 14 Oct 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
