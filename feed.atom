@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-13T13:28:33.263Z</updated>
+    <updated>2025-11-13T14:14:00.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waiting list down as NHS ‘approaches its limit’ ahead of strikes and flu]]></title>
+        <id>https://www.england.nhs.uk/?p=276511</id>
+        <link href="https://www.england.nhs.uk/2025/11/waiting-list-down-as-nhs-approaches-its-limit-ahead-of-strikes-and-flu/"/>
+        <updated>2025-11-13T13:21:06.000Z</updated>
+        <summary type="html"><![CDATA[The NHS waiting list is 230,000 lower than July last year, even as the health service ‘approaches its limit’ with A&E and ambulances facing record demand ahead of winter. The overall waiting list for September was 7.39 million (an estimated 6.24 million patients) down 15,845 compared to the previous month and 230,000 fewer than July […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026</id>
