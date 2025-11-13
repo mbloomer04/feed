@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-13T14:14:00.446Z</updated>
+    <updated>2025-11-13T15:15:22.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4716 - Exploitation of WatchGuard Firebox OS Vulnerability CVE-2025-9242]]></title>
+        <id>842a2a47-9b2a-4bbd-b00a-91bcfbfa868f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4716"/>
+        <updated>2025-11-13T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses a critical vulnerability that could allow a remote unauthenticated attacker to execute arbitrary code
+ Advisory addresses a critical vulnerability that could allow a remote unauthenticated attacker to execute arbitrary code
+ Updated: 13 Nov 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health economics: a guide for public health teams]]></title>
+        <id>https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams</id>
+        <link href="https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams"/>
+        <updated>2025-11-13T14:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Resources to help local commissioners achieve value for money by estimating the return on investment (ROI) and cost-effectiveness of public health programmes.]]></summary>
+        <author>
+            <name>Public Health England - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mersey Care to launch mental health research data platform]]></title>
+        <id>https://www.digitalhealth.net/?p=248847</id>
+        <link href="https://www.digitalhealth.net/2025/11/mersey-care-to-launch-mental-health-research-data-platform/"/>
+        <updated>2025-11-13T13:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Mersey Care NHS Foundation Trust will establish a Secure Data Environment for mental health research in partnership with DATAMIND.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waiting list down as NHS ‘approaches its limit’ ahead of strikes and flu]]></title>
         <id>https://www.england.nhs.uk/?p=276511</id>
