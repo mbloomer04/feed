@@ -1190,6 +1190,16 @@
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_RCGP_9.jpg"
         },
         {
+          "id": "https://www.gponline.com/article/1939556",
+          "author": null,
+          "description": "NHS GPs have reduced antibiotic prescribing but overall use has risen because of a surge in private prescriptions, health officials have warned - as data revealed a rise in antibiotic-resistant infections last year.",
+          "link": "https://www.gponline.com/antibiotic-resistance-warning-private-care-undercuts-gp-work-limit-prescribing/article/1939556",
+          "publishedOn": "2025-11-12T16:49:30.000Z",
+          "wordCount": 933,
+          "title": "Antibiotic resistance warning as private care undercuts GP work to limit prescribing",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Prescriptions_GettyImages-PeterDazeley_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1939460",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -2989,6 +2999,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=249177",
+          "author": "Jordan Sollof",
+          "description": "Three of UK healthcare’s most influential voices will speak at Rewired 2026 on how to harness AI safely, ethically and effectively.",
+          "link": "https://www.digitalhealth.net/2025/11/leading-ai-ethics-and-policy-speakers-confirmed-for-rewired-2026/",
+          "publishedOn": "2025-11-13T11:00:50.000Z",
+          "wordCount": null,
+          "title": "Leading AI ethics and policy speakers confirmed for Rewired 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=246177",
+          "author": "Cora Lydon",
+          "description": "This morning's briefing includes a pilot of brain stimulation headsets and a framework to support the integration of AI into practice.",
+          "link": "https://www.digitalhealth.net/2025/11/digital-health-coffee-time-briefing-%e2%98%95-120/",
+          "publishedOn": "2025-11-13T11:00:25.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=249289",
           "author": "Jordan Sollof",
