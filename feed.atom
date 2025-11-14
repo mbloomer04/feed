@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-13T23:12:33.709Z</updated>
+    <updated>2025-11-14T01:01:43.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS patients urged to come forward for care as usual during resident doctors’ strikes]]></title>
+        <id>https://www.england.nhs.uk/?p=276525</id>
+        <link href="https://www.england.nhs.uk/2025/11/nhs-patients-urged-to-come-forward-for-care-as-usual-during-resident-doctors-strikes/"/>
+        <updated>2025-11-14T00:01:06.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is urging patients to continue coming forward for care with thousands of resident doctors expected to go on strike. Industrial action begins at 7am today (Friday 14 November) until 7am on Wednesday 19 November and hospital teams across the country are working round the clock to ensure disruption is minimised for patients. Plans […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Public health commissioning in the NHS: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2025-to-2026</id>
@@ -2394,26 +2404,6 @@ The Coalition aims to mobilize domestic and international investments, catalyse 
         <link href="https://www.gponline.com/gp-news-update-online-access-row-intensifies-impact-a-e-des-carr-hill-review-launched/article/1936119"/>
         <updated>2025-10-15T14:03:07.000Z</updated>
         <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonia Patel: ‘We need a stronger digital workforce pipeline’]]></title>
-        <id>https://www.digitalhealth.net/?p=245845</id>
-        <link href="https://www.digitalhealth.net/2025/10/sonia-patel-we-need-clear-direction-from-the-centre/"/>
-        <updated>2025-10-15T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Sonia Patel, CTO at NHS England, has called for a "stronger digital workforce pipeline" to support the delivery of the 10 year health plan.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streeting calls on GPs to step up identification of people with a learning disability]]></title>
-        <id>https://www.gponline.com/article/1936167</id>
-        <link href="https://www.gponline.com/streeting-calls-gps-step-identification-people-learning-disability/learning-disabilities/article/1936167"/>
-        <updated>2025-10-15T11:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Health and social care secretary Wes Streeting has written to GP practices reminding them to proactively identify people with a learning disability and ensure they receive annual health checks.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>

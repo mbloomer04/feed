@@ -1808,16 +1808,6 @@
           "wordCount": 720,
           "title": "GP News Update: Online access row intensifies, impact of A&E DES, Carr-Hill review launched",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_19.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1936167",
-          "author": null,
-          "description": "Health and social care secretary Wes Streeting has written to GP practices reminding them to proactively identify people with a learning disability and ensure they receive annual health checks.",
-          "link": "https://www.gponline.com/streeting-calls-gps-step-identification-people-learning-disability/learning-disabilities/article/1936167",
-          "publishedOn": "2025-10-15T11:20:45.000Z",
-          "wordCount": 764,
-          "title": "Streeting calls on GPs to step up identification of people with a learning disability",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2239992385.jpg"
         }
       ]
     },
@@ -1922,6 +1912,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=276525",
+          "author": "rwootton",
+          "description": "The NHS is urging patients to continue coming forward for care with thousands of resident doctors expected to go on strike. Industrial action begins at 7am today (Friday 14 November) until 7am on Wednesday 19 November and hospital teams across the country are working round the clock to ensure disruption is minimised for patients. Plans […]",
+          "link": "https://www.england.nhs.uk/2025/11/nhs-patients-urged-to-come-forward-for-care-as-usual-during-resident-doctors-strikes/",
+          "publishedOn": "2025-11-14T00:01:06.000Z",
+          "wordCount": 1518,
+          "title": "NHS patients urged to come forward for care as usual during resident doctors’ strikes",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=276511",
           "author": "rwootton",
@@ -3678,16 +3678,6 @@
           "publishedOn": "2025-10-16T07:30:27.000Z",
           "wordCount": null,
           "title": "£1.2bn contract awarded for NHS workforce management solution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=245845",
-          "author": "Jordan Sollof",
-          "description": "Sonia Patel, CTO at NHS England, has called for a \"stronger digital workforce pipeline\" to support the delivery of the 10 year health plan.",
-          "link": "https://www.digitalhealth.net/2025/10/sonia-patel-we-need-clear-direction-from-the-centre/",
-          "publishedOn": "2025-10-15T12:30:14.000Z",
-          "wordCount": null,
-          "title": "Sonia Patel: ‘We need a stronger digital workforce pipeline’",
           "imageUrl": null
         }
       ]
