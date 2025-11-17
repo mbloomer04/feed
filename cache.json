@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1939554",
+          "author": null,
+          "description": "Her Palestinian healthcare colleagues had lost weight, medication was being rationed and kites once flown in the sky by children are now nowhere to be seen. These are just some of the changes a Lancashire-based GP saw on her third humanitarian trip to war-torn Gaza.",
+          "link": "https://www.gponline.com/uk-gp-shares-experiences-working-war-torn-gaza/article/1939554",
+          "publishedOn": "2025-11-17T15:15:00.000Z",
+          "wordCount": 1899,
+          "title": "UK GP shares her experiences of working in war-torn Gaza",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Shahana_Moitra.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1939942",
           "author": null,
           "description": "LMCs in Northern Ireland have warned that general practice cannot survive within its current contract and voted for the BMA to develop a strategy for GPs to quit the NHS.",
@@ -1804,6 +1814,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0084a630-9a72-40a0-8f12-b9e7ebfe1d70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Martin Jarvis, Incident Management Lead in our Cyber Security Operations Centre (CSOC), explains how the preparedness of individual NHS organisations, working alongside central response capabilities, forms a protective partnership to keep the NHS safe.\n\r\n\r\nDriving forward the NHS 10 Year Health Plan’s commitment to move 'from analogue to digital' means cyber security is more critical than ever. As we build a digitally-enabled health service, where patients can access care 24/7 through the NHS App and other digital channels, robust cyber defences are essential for patient safety and continuity of care.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/cyber-first-responders-strengthening-nhs-defences-in-the-digital-age",
+          "publishedOn": "2025-11-17T15:17:49.000Z",
+          "wordCount": null,
+          "title": "Cyber first responders: Strengthening NHS defences in the digital age",
+          "imageUrl": null
+        },
+        {
           "id": "5e9b27f5-eb41-48f8-909f-1dccdd0dd763",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Tero Väänänen explains why the NHS design system exists and why it plays an important role in fulfilling the 10-year health plan. He also describes recent changes to the frontend code behind the design system, and why it is important for teams to adopt them now.\n\r\n \n\r\n\r\nThe NHS is moving from analogue to digital, and the NHS design system plays a critical role in making sure that shift results in accessible and usable digital products. \n\r\n\r\nIt does this by giving teams across the system a shared set of tools and standards, which reduce the effort needed to deliver digital products and services.",
@@ -1829,7 +1849,18 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "0084a630-9a72-40a0-8f12-b9e7ebfe1d70",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Martin Jarvis, Incident Management Lead in our Cyber Security Operations Centre (CSOC), explains how the preparedness of individual NHS organisations, working alongside central response capabilities, forms a protective partnership to keep the NHS safe.\n\r\n\r\nDriving forward the NHS 10 Year Health Plan’s commitment to move 'from analogue to digital' means cyber security is more critical than ever. As we build a digitally-enabled health service, where patients can access care 24/7 through the NHS App and other digital channels, robust cyber defences are essential for patient safety and continuity of care.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2025/cyber-first-responders-strengthening-nhs-defences-in-the-digital-age",
+          "publishedOn": "2025-11-17T15:17:49.000Z",
+          "wordCount": null,
+          "title": "Cyber first responders: Strengthening NHS defences in the digital age",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
