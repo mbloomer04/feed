@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-17T07:14:01.051Z</updated>
+    <updated>2025-11-17T08:19:47.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI app launched to improve multimorbidity patient care]]></title>
+        <id>https://www.digitalhealth.net/?p=249835</id>
+        <link href="https://www.digitalhealth.net/2025/11/ai-app-launched-to-improve-multimorbidity-patient-care/"/>
+        <updated>2025-11-17T07:30:29.000Z</updated>
+        <summary type="html"><![CDATA[A project involving an app from Holly Health has improved digital self-management for people living with or at risk of multimorbidity.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community of practice launched to increase equity in digital health]]></title>
+        <id>https://www.digitalhealth.net/?p=249691</id>
+        <link href="https://www.digitalhealth.net/2025/11/community-of-practice-launched-to-increase-equity-in-digital-health/"/>
+        <updated>2025-11-17T07:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Equity Charter launched its Community of Practice at its inaugural conference, with a mission to help achieve equity in digital health.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO promotes lifesaving intervention for small and preterm babies on first official World Prematurity Day]]></title>
         <id>urn:uuid:2120a808-eb02-4bd4-88f6-8e30ca9a6932</id>
