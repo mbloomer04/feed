@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-18T14:13:19.363Z</updated>
+    <updated>2025-11-18T15:14:30.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[University Hospitals of Leicester deploys Nervecentre PAS]]></title>
+        <id>https://www.digitalhealth.net/?p=250015</id>
+        <link href="https://www.digitalhealth.net/2025/11/university-hospitals-of-leicester-deploys-nervecentre-pas/"/>
+        <updated>2025-11-18T13:30:15.000Z</updated>
+        <summary type="html"><![CDATA[University Hospitals of Leicester NHS Trust (UHL) has deployed Nervecentre’s patient administration system (PAS).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public reminded to use NHS as normal during final day of strike]]></title>
         <id>https://www.england.nhs.uk/?p=276717</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[The government updates NHS IP guidance for the first time in 23 years, cutting red tape so innovations reach patients fasters and boost the UK's economic growth]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=247555</id>
+        <link href="https://www.digitalhealth.net/2025/11/digital-health-coffee-time-briefing-%e2%98%95-121/"/>
+        <updated>2025-11-18T11:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Today’s briefing includes Imprivata's cyber security acquisition and Leeds Beckett University's launch of a Sport Health Tech Incubator.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +67,16 @@
         <summary type="html"><![CDATA[In this episode of Digital Health Unplugged, Paul Jones, CDIO at Leeds Teaching Hospitals, delves into the 10 year health plan and more.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carr-Hill formula review will need fresh investment to succeed, accountants warn]]></title>
+        <id>https://www.gponline.com/article/1940098</id>
+        <link href="https://www.gponline.com/carr-hill-formula-review-will-need-fresh-investment-succeed-accountants-warn/article/1940098"/>
+        <updated>2025-11-18T10:08:16.000Z</updated>
+        <summary type="html"><![CDATA[A review of the outdated formula used to distribute core general practice funding will fail unless it is underpinned by fresh investment, accountants have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
