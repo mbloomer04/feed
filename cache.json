@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "afde8f46-fe3f-4a07-88de-2cf574754b99",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code\n Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code\n Updated: 18 Nov 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4719",
+          "publishedOn": "2025-11-18T15:25:00.000Z",
+          "wordCount": null,
+          "title": "CC-4719 - Active Exploitation Reported for CVE-2025-11001 in 7-Zip",
+          "imageUrl": null
+        },
+        {
           "id": "b5c22192-e3e7-4170-9915-34349e61a177",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 18 Nov 2025",

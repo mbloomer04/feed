@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-18T15:14:30.105Z</updated>
+    <updated>2025-11-18T16:18:00.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4719 - Active Exploitation Reported for CVE-2025-11001 in 7-Zip]]></title>
+        <id>afde8f46-fe3f-4a07-88de-2cf574754b99</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4719"/>
+        <updated>2025-11-18T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code
+ Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code
+ Updated: 18 Nov 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[University Hospitals of Leicester deploys Nervecentre PAS]]></title>
         <id>https://www.digitalhealth.net/?p=250015</id>
