@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-18T07:13:09.316Z</updated>
+    <updated>2025-11-18T08:18:21.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apprenticeships launched to train NHS staff on the FDP]]></title>
+        <id>https://www.digitalhealth.net/?p=249945</id>
+        <link href="https://www.digitalhealth.net/2025/11/apprenticeships-launched-to-train-nhs-staff-on-the-fdp/"/>
+        <updated>2025-11-18T07:30:08.000Z</updated>
+        <summary type="html"><![CDATA[An apprenticeship programme is being launched to equip NHS staff with the critical skills needed to use the federated data platform.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs need more support to prevent winter respiratory crisis, experts warn]]></title>
         <id>https://www.gponline.com/article/1940039</id>
@@ -2370,18 +2380,6 @@ This year the National Congenital Conditions and Rare Disease Registration Servi
         <summary type="html"><![CDATA[NHSE has awarded a £45m contract to strengthen digital capabilities for preventative healthcare in line with the 10 year health plan.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiji becomes the 26th country to eliminate trachoma as a public health problem]]></title>
-        <id>urn:uuid:9a1d75d7-ab99-4314-8fcf-7c024b01b527</id>
-        <link href="https://www.who.int/news/item/20-10-2025-fiji-becomes-the-26th-country-to-eliminate-trachoma-as-a-public-health-problem"/>
-        <updated>2025-10-19T19:27:44.000Z</updated>
-        <summary type="html"><![CDATA[In a landmark public health achievement, Fiji has been validated by the World Health Organization (WHO) for eliminating trachoma as a public health problem. Trachoma, a neglected tropical disease (NTD) and the world’s leading infectious cause of blindness, no longer poses a public health threat in the country.
-Trachoma is the first NTD to be eliminated in Fiji. Fiji is the 26th country to eliminate trachoma as a public health problem and the 58th country globally to eliminate at least one NTD.
-“WHO congratulates Fiji and its network of global and local partners on reaching this milestone,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Future generations of Fijians have been given a precious gift in being set free from the suffering that trachoma has inflicted on their ancestor…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

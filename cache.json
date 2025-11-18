@@ -2973,16 +2973,6 @@
           "wordCount": 3035,
           "title": "Climate inaction is claiming millions of lives every year, warns new Lancet Countdown report",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/emergencies-disasters-and-deliberate-events/climate-change/health-needs-in-ethiopia.tmb-1200v.jpg?sfvrsn=42f6e3a7_1"
-        },
-        {
-          "id": "urn:uuid:9a1d75d7-ab99-4314-8fcf-7c024b01b527",
-          "author": null,
-          "description": "In a landmark public health achievement, Fiji has been validated by the World Health Organization (WHO) for eliminating trachoma as a public health problem. Trachoma, a neglected tropical disease (NTD) and the world’s leading infectious cause of blindness, no longer poses a public health threat in the country.\nTrachoma is the first NTD to be eliminated in Fiji. Fiji is the 26th country to eliminate trachoma as a public health problem and the 58th country globally to eliminate at least one NTD.\n“WHO congratulates Fiji and its network of global and local partners on reaching this milestone,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Future generations of Fijians have been given a precious gift in being set free from the suffering that trachoma has inflicted on their ancestor…",
-          "link": "https://www.who.int/news/item/20-10-2025-fiji-becomes-the-26th-country-to-eliminate-trachoma-as-a-public-health-problem",
-          "publishedOn": "2025-10-19T19:27:44.000Z",
-          "wordCount": 2780,
-          "title": "Fiji becomes the 26th country to eliminate trachoma as a public health problem",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/award-ceremony-trachoma-elimination-fiji.tmb-1200v.jpg?sfvrsn=87cfdecd_2"
         }
       ]
     },
@@ -2991,6 +2981,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=249945",
+          "author": "Jordan Sollof",
+          "description": "An apprenticeship programme is being launched to equip NHS staff with the critical skills needed to use the federated data platform.",
+          "link": "https://www.digitalhealth.net/2025/11/apprenticeships-launched-to-train-nhs-staff-on-the-fdp/",
+          "publishedOn": "2025-11-18T07:30:08.000Z",
+          "wordCount": null,
+          "title": "Apprenticeships launched to train NHS staff on the FDP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=249385",
           "author": "DHI News Team",
