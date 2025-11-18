@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-18T11:11:59.924Z</updated>
+    <updated>2025-11-18T12:27:10.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government fuels NHS innovation to unlock billions in growth]]></title>
+        <id>https://www.gov.uk/government/news/government-fuels-nhs-innovation-to-unlock-billions-in-growth</id>
+        <link href="https://www.gov.uk/government/news/government-fuels-nhs-innovation-to-unlock-billions-in-growth"/>
+        <updated>2025-11-18T11:58:40.000Z</updated>
+        <summary type="html"><![CDATA[The government updates NHS IP guidance for the first time in 23 years, cutting red tape so innovations reach patients fasters and boost the UK's economic growth]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4718 - Google Releases Security Update for Chrome]]></title>
         <id>b5c22192-e3e7-4170-9915-34349e61a177</id>
