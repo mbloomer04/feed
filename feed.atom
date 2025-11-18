@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-18T12:27:10.324Z</updated>
+    <updated>2025-11-18T13:27:13.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public reminded to use NHS as normal during final day of strike]]></title>
+        <id>https://www.england.nhs.uk/?p=276717</id>
+        <link href="https://www.england.nhs.uk/2025/11/public-reminded-to-use-nhs-as-normal-during-final-day-of-strike/"/>
+        <updated>2025-11-18T12:50:58.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is reminding the public to come forward for lifesaving and planned care as normal during the last day of strike action. This period of industrial action by resident doctors began at 7am on Friday 14 November and will continue until 7am tomorrow (Wednesday 19 November). Patients should attend any planned appointments unless they […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government fuels NHS innovation to unlock billions in growth]]></title>
         <id>https://www.gov.uk/government/news/government-fuels-nhs-innovation-to-unlock-billions-in-growth</id>
