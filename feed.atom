@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-19T13:27:04.467Z</updated>
+    <updated>2025-11-19T14:13:11.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North West Ambulance Service digitises medicine management]]></title>
+        <id>https://www.digitalhealth.net/?p=249523</id>
+        <link href="https://www.digitalhealth.net/2025/11/north-west-ambulance-service-digitises-medicine-management/"/>
+        <updated>2025-11-19T13:30:22.000Z</updated>
+        <summary type="html"><![CDATA[North West Ambulance Service NHS Trust (NWAS) will digitise its medicine inventory process with a digital pharmacy stock management solution.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4720 - Exploitation of Fortinet FortiWeb Vulnerability CVE-2025-58034]]></title>
         <id>b304f7b8-6ec6-4d9f-82b3-b1d9a4eebdea</id>
