@@ -2669,16 +2669,6 @@
           "wordCount": 786,
           "title": "Transparency data: DHSC: workforce management information September 2025",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
-          "author": null,
-          "description": "Microsoft 365 Copilot trial demonstrates monthly time savings of potentially 400,000 hours for NHS staff",
-          "link": "https://www.gov.uk/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
-          "publishedOn": "2025-10-20T23:00:00.000Z",
-          "wordCount": 2168,
-          "title": "Major NHS AI trial delivers unprecedented time and cost savings",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3041,6 +3031,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=249603",
+          "author": "Samuel Webb",
+          "description": "Researchers are developing a smart textiles bra to help women with intellectual disabilities monitor for breast cancer. Women with intellectual disabilities face significantly higher mortality rates because cognitive, sensory, and physical needs cause barriers engaging with mammography. A team of scientists and designers at Nottingham Trent University (NTU) and the University of Glasgow (UofG) are […]",
+          "link": "https://www.digitalhealth.net/2025/11/smart-bra-to-detect-cancer-for-women-with-intellectual-disabilities/",
+          "publishedOn": "2025-11-19T11:00:28.000Z",
+          "wordCount": null,
+          "title": "Smart bra to detect cancer for women with intellectual disabilities",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=249849",
           "author": "Tammy Lovell",
