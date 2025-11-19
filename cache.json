@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b304f7b8-6ec6-4d9f-82b3-b1d9a4eebdea",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands\n Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands\n Updated: 19 Nov 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4720",
+          "publishedOn": "2025-11-19T12:54:00.000Z",
+          "wordCount": null,
+          "title": "CC-4720 - Exploitation of Fortinet FortiWeb Vulnerability CVE-2025-58034",
+          "imageUrl": null
+        },
+        {
           "id": "afde8f46-fe3f-4a07-88de-2cf574754b99",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code\n Successful exploitation of this vulnerability could allow a remote attacker to execute arbitrary code\n Updated: 18 Nov 2025",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-19T12:27:06.239Z</updated>
+    <updated>2025-11-19T13:27:04.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4720 - Exploitation of Fortinet FortiWeb Vulnerability CVE-2025-58034]]></title>
+        <id>b304f7b8-6ec6-4d9f-82b3-b1d9a4eebdea</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4720"/>
+        <updated>2025-11-19T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands
+ Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands
+ Updated: 19 Nov 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smart bra to detect cancer for women with intellectual disabilities]]></title>
         <id>https://www.digitalhealth.net/?p=249603</id>
