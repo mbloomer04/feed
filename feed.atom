@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-19T09:14:46.630Z</updated>
+    <updated>2025-11-19T10:14:33.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Men's health strategy equality impact assessment]]></title>
+        <id>https://www.gov.uk/government/publications/mens-health-strategy-equality-impact-assessment</id>
+        <link href="https://www.gov.uk/government/publications/mens-health-strategy-equality-impact-assessment"/>
+        <updated>2025-11-19T09:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Details the equality impact assessment that accompanies the men's health strategy, Men’s health: a strategic vision for England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Men's Health Strategy for England: call for evidence]]></title>
+        <id>https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence</id>
+        <link href="https://www.gov.uk/government/calls-for-evidence/mens-health-strategy-for-england-call-for-evidence"/>
+        <updated>2025-11-19T09:38:39.000Z</updated>
+        <summary type="html"><![CDATA[This call for evidence is seeking the views of the public, as well as health and social care professionals, academics, employers and stakeholder organisations to inform a Men’s Health Strategy for England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Men's Health Strategy for England]]></title>
+        <id>https://www.gov.uk/government/publications/mens-health-strategy-for-england</id>
+        <link href="https://www.gov.uk/government/publications/mens-health-strategy-for-england"/>
+        <updated>2025-11-19T09:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Details the government’s 10-year vision for men's health and the actions we are taking now to improve the health and wellbeing of all men and boys in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Single patient record will not be ‘huge data lake’ says Ming Tang]]></title>
         <id>https://www.digitalhealth.net/?p=249849</id>
