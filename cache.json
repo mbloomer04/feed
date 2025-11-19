@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1940319",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-enhanced-service-funding-fears-carr-hill-formula-review-ni-gps-quit-nhs/article/1940319",
+          "publishedOn": "2025-11-19T14:39:03.000Z",
+          "wordCount": 721,
+          "title": "GP News Update: Enhanced service funding fears, Carr-Hill formula review, NI GPs could quit the NHS",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_24.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1940261",
           "author": null,
           "description": "BMA England GP committee chair Dr Katie Bramall has repeated calls for general practice to stand together amid an escalating war of words with government over the basis for the profession's ongoing dispute.",
@@ -2884,6 +2894,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:d3c9fba8-602f-4d05-8a99-0e815a65647c",
+          "author": null,
+          "description": "The World Health Organization (WHO) warns that gonorrhoea, a sexually transmitted infection, is becoming increasingly resistant to antibiotics, according to new data from its Enhanced Gonococcal Antimicrobial Surveillance Programme (EGASP), which monitors the spread of drug-resistant gonorrhoea. \nThe report highlights the need to strengthen surveillance, improve diagnostic capacity and ensure equitable access to new treatments for sexually transmitted infections (STIs). The release of the new data coincides with  World Antimicrobial Resistance (AMR) Awareness Week, reinforcing the importance of global action against drug-resistant infections.  EGASP, launched by WHO in 2015, collects laboratory and clinical data from sentinel sites around the world to track AMR and inform treatment guideli…",
+          "link": "https://www.who.int/news/item/19-11-2025-more-countries-report-rising-levels-of-drug-resistant-gonorrhoea--warns-who",
+          "publishedOn": "2025-11-19T10:01:44.000Z",
+          "wordCount": 2442,
+          "title": "More countries report rising levels of drug-resistant gonorrhoea, warns WHO",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/sexually-transmitted-infections/hiv-and-sti-prevention-and-treatment-brazil-2024.tmb-1200v.jpg?sfvrsn=5011c92b_1"
+        },
         {
           "id": "urn:uuid:3d883855-368f-4990-9ac7-ec5b9c31a622",
           "author": null,

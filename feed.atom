@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-19T14:13:11.197Z</updated>
+    <updated>2025-11-19T15:13:48.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP News Update: Enhanced service funding fears, Carr-Hill formula review, NI GPs could quit the NHS]]></title>
+        <id>https://www.gponline.com/article/1940319</id>
+        <link href="https://www.gponline.com/gp-news-update-enhanced-service-funding-fears-carr-hill-formula-review-ni-gps-quit-nhs/article/1940319"/>
+        <updated>2025-11-19T14:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North West Ambulance Service digitises medicine management]]></title>
         <id>https://www.digitalhealth.net/?p=249523</id>
@@ -37,6 +47,17 @@
         <summary type="html"><![CDATA[Researchers are developing a smart textiles bra to help women with intellectual disabilities monitor for breast cancer. Women with intellectual disabilities face significantly higher mortality rates because cognitive, sensory, and physical needs cause barriers engaging with mammography. A team of scientists and designers at Nottingham Trent University (NTU) and the University of Glasgow (UofG) are […]]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More countries report rising levels of drug-resistant gonorrhoea, warns WHO]]></title>
+        <id>urn:uuid:d3c9fba8-602f-4d05-8a99-0e815a65647c</id>
+        <link href="https://www.who.int/news/item/19-11-2025-more-countries-report-rising-levels-of-drug-resistant-gonorrhoea--warns-who"/>
+        <updated>2025-11-19T10:01:44.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) warns that gonorrhoea, a sexually transmitted infection, is becoming increasingly resistant to antibiotics, according to new data from its Enhanced Gonococcal Antimicrobial Surveillance Programme (EGASP), which monitors the spread of drug-resistant gonorrhoea. 
+The report highlights the need to strengthen surveillance, improve diagnostic capacity and ensure equitable access to new treatments for sexually transmitted infections (STIs). The release of the new data coincides with  World Antimicrobial Resistance (AMR) Awareness Week, reinforcing the importance of global action against drug-resistant infections.  EGASP, launched by WHO in 2015, collects laboratory and clinical data from sentinel sites around the world to track AMR and inform treatment guideli…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
