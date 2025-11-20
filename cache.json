@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1940363",
+          "author": null,
+          "description": "Most GP practices say disputed changes to online access have negatively affected patient care, with more than two in five forced to reduce face-to-face appointments and GPs reporting serious risks of patient harm, a BMA poll reveals.",
+          "link": "https://www.gponline.com/bma-poll-reveals-scale-damage-patient-care-online-gp-access-change/article/1940363",
+          "publishedOn": "2025-11-20T00:05:00.000Z",
+          "wordCount": 768,
+          "title": "BMA poll reveals scale of damage to patient care from online GP access change",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/computer_GettyImages-JGITomGrill_RF_13.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1940319",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -2659,16 +2669,6 @@
           "wordCount": 3510,
           "title": "Major NHS update brings menopause into routine health checks",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025",
-          "author": null,
-          "description": "Reports on departmental staff numbers and costs.",
-          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2025",
-          "publishedOn": "2025-10-21T12:58:50.000Z",
-          "wordCount": 786,
-          "title": "Transparency data: DHSC: workforce management information September 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3709,16 +3709,6 @@
           "publishedOn": "2025-10-22T06:30:06.000Z",
           "wordCount": null,
           "title": "Blueprint for AI regulation could cut NHS waiting times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=246407",
-          "author": "Tammy Lovell",
-          "description": "A major trial of Microsoft 365 Copilot across 90 NHS organisations found that the tech could save over 43 minutes a day per staff member.",
-          "link": "https://www.digitalhealth.net/2025/10/major-nhs-trial-of-ai-powered-productivity-tool-delivers-cost-savings/",
-          "publishedOn": "2025-10-21T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Major NHS trial of AI-powered productivity tool delivers cost savings",
           "imageUrl": null
         }
       ]
