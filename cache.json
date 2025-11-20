@@ -2141,6 +2141,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "author": null,
+          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
+          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "publishedOn": "2025-11-20T13:46:13.000Z",
+          "wordCount": 2517,
+          "title": "Guidance: Child death overview panels: contacts",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/mens-health-strategy-equality-impact-assessment",
           "author": null,
           "description": "Details the equality impact assessment that accompanies the men's health strategy, Men’s health: a strategic vision for England.",
@@ -3081,6 +3091,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250467",
+          "author": "Samuel Webb",
+          "description": "More than half of GP practices say that changes to online access had an adverse impact on patient care and staff, according to a BMA survey.",
+          "link": "https://www.digitalhealth.net/2025/11/half-of-gps-say-online-access-switch-has-hit-patient-care/",
+          "publishedOn": "2025-11-20T13:36:20.000Z",
+          "wordCount": null,
+          "title": "Online consultation changes have hit patient care, finds BMA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=249649",
           "author": "Samuel Webb",
