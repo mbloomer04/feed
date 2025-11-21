@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1940204",
+          "author": null,
+          "description": "Rising numbers of overseas doctors - including GPs - quitting the UK could leave 'huge holes' in the NHS workforce, the GMC has warned.",
+          "link": "https://www.gponline.com/gmc-raises-alarm-growing-exodus-overseas-doctors-nhs/article/1940204",
+          "publishedOn": "2025-11-21T00:05:00.000Z",
+          "wordCount": 729,
+          "title": "GMC raises alarm over growing exodus of overseas doctors from NHS",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign2_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1940363",
           "author": null,
           "description": "Most GP practices say disputed changes to online access have negatively affected patient care, with more than two in five forced to reduce face-to-face appointments and GPs reporting serious risks of patient harm, a BMA poll reveals.",
@@ -3759,26 +3769,6 @@
           "publishedOn": "2025-10-23T06:30:32.000Z",
           "wordCount": null,
           "title": "NHS SBS launches £150m framework to accelerate access to AVT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=246551",
-          "author": "Jordan Sollof",
-          "description": "The Department of Health and Social Care has awarded an £8m contract to support its IT infrastructure as NHSE merges with the department.",
-          "link": "https://www.digitalhealth.net/2025/10/dhsc-awards-8m-it-contract-to-support-nhs-england-abolition/",
-          "publishedOn": "2025-10-22T12:30:08.000Z",
-          "wordCount": null,
-          "title": "DHSC awards £8m IT contract to support NHS England abolition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=246547",
-          "author": "Tammy Lovell",
-          "description": "We want to hear your views on delivering digital transformation in line with the government's NHS 10 year health plan.",
-          "link": "https://www.digitalhealth.net/2025/10/share-your-views-on-digital-in-the-10-year-health-plan/",
-          "publishedOn": "2025-10-22T11:20:52.000Z",
-          "wordCount": null,
-          "title": "Share your views on digital in the 10 year health plan",
           "imageUrl": null
         }
       ]
