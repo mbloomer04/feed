@@ -2131,6 +2131,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/plans-for-fair-pay-agreements-in-adult-social-care-easy-read",
+          "author": null,
+          "description": "We want to know what you think about our plans for fair pay agreements in adult social care.",
+          "link": "https://www.gov.uk/government/consultations/plans-for-fair-pay-agreements-in-adult-social-care-easy-read",
+          "publishedOn": "2025-11-21T14:00:08.000Z",
+          "wordCount": 1171,
+          "title": "Plans for fair pay agreements in adult social care (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/adult-social-care-survey-england-2025-to-2026",
           "author": null,
           "description": "Guidance and materials for the adult social care survey (ASCS) in England 2025 to 2026 survey year.",
@@ -3081,6 +3091,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250413",
+          "author": "Samuel Webb",
+          "description": "Queen Victoria Hospital NHS Foundation Trust (QVH) has gone live with its first electronic patient record (EPR) system. The specialist hospital in West Sussex, which provides reconstructive surgery, burns care, and rehabilitation services, worked with Altera Digital Health to launch the Sunrise platform, nicknamed ‘Archie’ on 4 November, replacing many of their patient and clinical […]",
+          "link": "https://www.digitalhealth.net/2025/11/queen-victoria-hospitals-first-epr-goes-live/",
+          "publishedOn": "2025-11-21T13:30:29.000Z",
+          "wordCount": null,
+          "title": "Queen Victoria Hospital’s first EPR goes live",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=250347",
           "author": "Jordan Sollof",
