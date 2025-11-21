@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-21T10:14:00.977Z</updated>
+    <updated>2025-11-21T11:11:07.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[University Hospital Southampton deploys Miya Emergency]]></title>
+        <id>https://www.digitalhealth.net/?p=250347</id>
+        <link href="https://www.digitalhealth.net/2025/11/university-hospital-southampton-deploys-miya-emergency/"/>
+        <updated>2025-11-21T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[University Hospital Southampton NHS Foundation Trust has deployed Alcidion’s Miya Emergency across Southampton General Hospital.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government updates NHS IP guidance to speed up innovation]]></title>
         <id>https://www.digitalhealth.net/?p=250329</id>
@@ -2492,26 +2502,6 @@ This year the National Congenital Conditions and Rare Disease Registration Servi
         <summary type="html"><![CDATA[NHS Shared Business Services has launched a £150m framework agreement for digital dictation and speech recognition AI tools.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Menopause conversations to be added to NHS health checks]]></title>
-        <id>https://www.gponline.com/article/1936983</id>
-        <link href="https://www.gponline.com/menopause-conversations-added-nhs-health-checks/womens-health/menopausal-and-hrt/article/1936983"/>
-        <updated>2025-10-22T23:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Discussions about menopause are to be added to routine NHS health checks, the government has announced.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major NHS update brings menopause into routine health checks]]></title>
-        <id>https://www.gov.uk/government/news/major-nhs-update-brings-menopause-into-routine-health-checks</id>
-        <link href="https://www.gov.uk/government/news/major-nhs-update-brings-menopause-into-routine-health-checks"/>
-        <updated>2025-10-22T23:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Menopause advice will be added to free health checks to help millions of women get the care they need.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
