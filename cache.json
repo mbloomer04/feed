@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "CC-4712 - Apache Releases Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "c6266fc9-bbe1-4477-9ef2-b98c14844b7f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could lead to remote code execution over a network\n Successful exploitation could lead to remote code execution over a network\n Updated: 24 Oct 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4711",
-          "publishedOn": "2025-10-24T10:27:00.000Z",
-          "wordCount": null,
-          "title": "CC-4711 - Microsoft Releases Out-of-Band Security Update for Windows Server Update Service (WSUS)",
-          "imageUrl": null
         }
       ]
     },
@@ -2608,16 +2598,6 @@
           "publishedOn": "2025-10-25T23:01:03.000Z",
           "wordCount": 2963,
           "title": "FASTER CARE FOR THOUSANDS THANKS TO NHS USE OF INDEPENDENT SECTOR",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-personal-social-services-specific-revenue-funding-and-grant-allocations-2025-to-2026",
-          "author": null,
-          "description": "Details and allocations of Department of Health and Social Care local authority-specific revenue funding for the financial year 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/adult-personal-social-services-specific-revenue-funding-and-grant-allocations-2025-to-2026",
-          "publishedOn": "2025-10-24T11:00:00.000Z",
-          "wordCount": 965,
-          "title": "Guidance: Adult personal social services: specific revenue funding and grant allocations 2025 to 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
