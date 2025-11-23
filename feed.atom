@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-23T09:12:29.612Z</updated>
+    <updated>2025-11-23T10:12:32.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS maintained almost all care for patients during doctors’ strike]]></title>
+        <id>https://www.england.nhs.uk/?p=276957</id>
+        <link href="https://www.england.nhs.uk/2025/11/nhs-maintained-almost-all-care-for-patients-during-doctors-strike/"/>
+        <updated>2025-11-23T09:17:41.000Z</updated>
+        <summary type="html"><![CDATA[The NHS managed to ‘safely keep the show on the road’ despite industrial action last week, with data showing more than 95% of planned elective activity going ahead for patients. Data published today shows the NHS met its ambitious goal to maintain 95% of planned care during this round of strike action – surpassing the […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: DHSC: workforce management information October 2025]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-workforce-management-information-october-2025</id>
