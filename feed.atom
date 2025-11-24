@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-24T10:15:37.006Z</updated>
+    <updated>2025-11-24T11:12:14.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barking, Havering and Redbridge goes live with Oracle Health EPR]]></title>
+        <id>https://www.digitalhealth.net/?p=250239</id>
+        <link href="https://www.digitalhealth.net/2025/11/barking-havering-and-redbridge-goes-live-with-oracle-health-epr/"/>
+        <updated>2025-11-24T11:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Barking, Havering and Redbridge University Hospitals NHS Trust has gone live with an electronic patient record supplied by Oracle Health.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS Orkney delays EPR go-live following ‘resource challenges’]]></title>
         <id>https://www.digitalhealth.net/?p=250681</id>
@@ -2336,16 +2346,6 @@ This year the National Congenital Conditions and Rare Disease Registration Servi
         <summary type="html"><![CDATA[An innovative 15-minute blood test which can fast-track the diagnosis of children with potentially life-threatening conditions is being trialled by the NHS this winter. The hi-tech blood test can distinguish between bacterial or viral infections much more quickly than traditional tests – so serious diseases like sepsis or meningitis can be picked up sooner.  NHS […]]]></summary>
         <author>
             <name>Tom W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FASTER CARE FOR THOUSANDS THANKS TO NHS USE OF INDEPENDENT SECTOR]]></title>
-        <id>https://www.gov.uk/government/news/faster-care-for-thousands-thanks-to-nhs-use-of-independent-sector</id>
-        <link href="https://www.gov.uk/government/news/faster-care-for-thousands-thanks-to-nhs-use-of-independent-sector"/>
-        <updated>2025-10-25T23:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of thousands of people are receiving faster care thanks to the government’s partnership with the private sector – free at the point of use.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

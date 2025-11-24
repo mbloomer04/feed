@@ -2569,16 +2569,6 @@
           "wordCount": 1423,
           "title": "Guidance: NHS injury costs recovery scheme",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/faster-care-for-thousands-thanks-to-nhs-use-of-independent-sector",
-          "author": null,
-          "description": "Hundreds of thousands of people are receiving faster care thanks to the government’s partnership with the private sector – free at the point of use.",
-          "link": "https://www.gov.uk/government/news/faster-care-for-thousands-thanks-to-nhs-use-of-independent-sector",
-          "publishedOn": "2025-10-25T23:01:03.000Z",
-          "wordCount": 2963,
-          "title": "FASTER CARE FOR THOUSANDS THANKS TO NHS USE OF INDEPENDENT SECTOR",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2961,6 +2951,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250239",
+          "author": "Jordan Sollof",
+          "description": "Barking, Havering and Redbridge University Hospitals NHS Trust has gone live with an electronic patient record supplied by Oracle Health.",
+          "link": "https://www.digitalhealth.net/2025/11/barking-havering-and-redbridge-goes-live-with-oracle-health-epr/",
+          "publishedOn": "2025-11-24T11:00:41.000Z",
+          "wordCount": null,
+          "title": "Barking, Havering and Redbridge goes live with Oracle Health EPR",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=250681",
           "author": "Jordan Sollof",
