@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1940766",
+          "author": null,
+          "description": "GP leaders have urged the government to develop a new 'patient-centred contract' for general practice, backed with an extra £40 per patient and based on recommendations from a cross-party committee of MPs.",
+          "link": "https://www.gponline.com/gps-demand-patient-centred-contract-built-cross-party-plan/article/1940766",
+          "publishedOn": "2025-11-24T10:41:06.000Z",
+          "wordCount": 732,
+          "title": "GPs demand 'patient-centred contract' built on cross-party plan",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_72.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1940578",
           "author": null,
           "description": "A neighbouring practice, the community hospital and patients have rallied round and offered support to a GP practice in Monmouthshire, Wales, which was forced to close following severe flooding.",
@@ -2040,6 +2050,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communique-25-september-2025",
+          "author": null,
+          "description": "Details of the third meeting held by the Interministerial Group (IMG) for Health and Social Care.",
+          "link": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communique-25-september-2025",
+          "publishedOn": "2025-11-24T11:28:57.000Z",
+          "wordCount": 965,
+          "title": "Policy paper: Interministerial Group for Health and Social Care communiqué, 25 September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
+          "author": null,
+          "description": "Details of the first meeting held by the Interministerial Group (IMG) for Health and Social Care.",
+          "link": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
+          "publishedOn": "2025-11-24T11:28:35.000Z",
+          "wordCount": 1048,
+          "title": "Policy paper: Interministerial Group for Health and Social Care communiqué, 11 December 2024",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz",
           "author": null,
