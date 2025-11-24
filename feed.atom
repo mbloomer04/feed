@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-24T22:11:51.124Z</updated>
+    <updated>2025-11-24T23:13:00.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chancellor to double down on drive to cut NHS waiting times and rollout of new Neighbourhood Health Centres]]></title>
+        <id>https://www.gov.uk/government/news/chancellor-to-double-down-on-drive-to-cut-nhs-waiting-times-and-rollout-of-new-neighbourhood-health-centres</id>
+        <link href="https://www.gov.uk/government/news/chancellor-to-double-down-on-drive-to-cut-nhs-waiting-times-and-rollout-of-new-neighbourhood-health-centres"/>
+        <updated>2025-11-24T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[250 Neighbourhood Health Centres to bring patient care closer to home and bring end to postcode lottery of healthcare access.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does good look like for APIs?]]></title>
         <id>7c853843-4b2d-4150-b4b4-dcbbcc648efb</id>
