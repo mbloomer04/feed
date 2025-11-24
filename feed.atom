@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-24T07:13:48.365Z</updated>
+    <updated>2025-11-24T08:19:39.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Orkney delays EPR go-live following ‘resource challenges’]]></title>
+        <id>https://www.digitalhealth.net/?p=250681</id>
+        <link href="https://www.digitalhealth.net/2025/11/nhs-orkney-delays-epr-go-live-following-resource-challenges/"/>
+        <updated>2025-11-24T07:30:48.000Z</updated>
+        <summary type="html"><![CDATA[NHS Orkney has delayed the go-live of its new electronic patient record (EPR) due to “significant resource challenges”.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millions to benefit from new health and wellbeing quiz]]></title>
         <id>https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz</id>
