@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-24T18:20:16.482Z</updated>
+    <updated>2025-11-24T19:09:07.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -40,6 +40,16 @@ For the past 3 years, we have been on a mission to make integration easier with
         <summary type="html"><![CDATA[Five AI tools that help spot warning signs of bowel cancer earlier have been conditionally recommended by NICE.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do GPs want from the chancellor's autumn budget?]]></title>
+        <id>https://www.gponline.com/article/1940867</id>
+        <link href="https://www.gponline.com/gps-want-chancellors-autumn-budget/article/1940867"/>
+        <updated>2025-11-24T12:30:10.000Z</updated>
+        <summary type="html"><![CDATA[As the chancellor prepares to unveil the 2025 autumn budget on Wednesday, GPonline looks at what organisations representing GPs want to hear - and some of the concerns raised by financial experts.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
