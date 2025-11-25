@@ -2102,6 +2102,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/implementing-inserts-in-cigarette-and-hand-rolling-tobacco-packs",
+          "author": null,
+          "description": "A technical consultation seeking views on how to implement pack inserts in cigarette and hand rolling tobacco packaging.",
+          "link": "https://www.gov.uk/government/consultations/implementing-inserts-in-cigarette-and-hand-rolling-tobacco-packs",
+          "publishedOn": "2025-11-25T14:00:01.000Z",
+          "wordCount": 976,
+          "title": "Implementing inserts in cigarette and hand rolling tobacco packs",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/soft-drink-levy-extended-to-protect-children-and-improve-health",
           "author": null,
           "description": "The government has announced an extension of the soft drinks industry levy to more high-sugar drinks, including milk-based drinks.",
@@ -3062,6 +3072,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250821",
+          "author": "Tammy Lovell",
+          "description": "A digital education programme has been launched to provide access to digital and data knowledge for AHPs based in the UK.",
+          "link": "https://www.digitalhealth.net/2025/11/free-digital-and-data-training-launches-for-ahps/",
+          "publishedOn": "2025-11-25T13:30:41.000Z",
+          "wordCount": null,
+          "title": "Free digital and data training launches for AHPs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=250873",
           "author": "Jordan Sollof",
