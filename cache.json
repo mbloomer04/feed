@@ -1200,6 +1200,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1940945",
+          "author": null,
+          "description": "The government will confirm plans to pay for new primary care infrastructure through public-private partnership funding deals in this week's autumn budget.",
+          "link": "https://www.gponline.com/chancellor-confirm-public-private-funding-neighbourhood-health-centres/article/1940945",
+          "publishedOn": "2025-11-25T10:59:07.000Z",
+          "wordCount": 712,
+          "title": "Chancellor to confirm public-private funding for neighbourhood health centres",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Reeves-GettyImages-WPAPool.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1940866",
+          "author": null,
+          "description": "Some overseas GPs offered jobs through the additional roles reimbursement scheme (ARRS) are missing out on visas because they fall short of Home Office salary thresholds, GPonline understands.",
+          "link": "https://www.gponline.com/low-pay-leaves-gps-struggling-obtain-visas-arrs-jobs/article/1940866",
+          "publishedOn": "2025-11-24T16:13:32.000Z",
+          "wordCount": 729,
+          "title": "Low pay leaves GPs struggling to obtain visas for ARRS jobs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins-GettyImages-Caymia.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1940867",
           "author": null,
           "description": "As the chancellor prepares to unveil the 2025 autumn budget on Wednesday, GPonline looks at what organisations representing GPs want to hear - and some of the concerns raised by financial experts.",
@@ -2073,16 +2093,6 @@
           "wordCount": 2107,
           "title": "NHS artificial intelligence (AI) trial to diagnose prostate cancer up to a month faster",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=275494",
-          "author": "Tom W",
-          "description": "An innovative 15-minute blood test which can fast-track the diagnosis of children with potentially life-threatening conditions is being trialled by the NHS this winter. The hi-tech blood test can distinguish between bacterial or viral infections much more quickly than traditional tests – so serious diseases like sepsis or meningitis can be picked up sooner.  NHS […]",
-          "link": "https://www.england.nhs.uk/2025/10/nhs-hospitals-trialling-15-minute-blood-test-for-life-threatening-conditions-in-children/",
-          "publishedOn": "2025-10-27T00:01:59.000Z",
-          "wordCount": 1729,
-          "title": "NHS hospitals trialling 15-minute blood test for life-threatening conditions in children",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2091,6 +2101,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/strengthening-the-soft-drinks-industry-levy",
+          "author": null,
+          "description": "HMRC and HM Treasury are seeking views on proposed changes to the Soft Drinks Industry Levy (SDIL).",
+          "link": "https://www.gov.uk/government/consultations/strengthening-the-soft-drinks-industry-levy",
+          "publishedOn": "2025-11-25T11:35:04.000Z",
+          "wordCount": 1323,
+          "title": "Strengthening the Soft Drinks Industry Levy",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/chancellor-to-double-down-on-drive-to-cut-nhs-waiting-times-and-rollout-of-new-neighbourhood-health-centres",
           "author": null,
@@ -3032,6 +3052,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250873",
+          "author": "Jordan Sollof",
+          "description": "The Autumn Budget will include £300 million of new capital investment in NHS technology to help to improve productivity.",
+          "link": "https://www.digitalhealth.net/2025/11/chancellor-to-announce-300m-capital-funding-for-nhs-technology/",
+          "publishedOn": "2025-11-25T11:48:25.000Z",
+          "wordCount": null,
+          "title": "Chancellor to announce £300m capital funding for NHS technology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=249687",
+          "author": "Samuel Webb",
+          "description": "Today's briefing includes an analysis of whether patients can use the digital tools needed for the NHS 10 year plan.",
+          "link": "https://www.digitalhealth.net/2025/11/digital-health-coffee-time-briefing-%e2%98%95-123/",
+          "publishedOn": "2025-11-25T11:30:13.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=250543",
           "author": "Jordan Sollof",
