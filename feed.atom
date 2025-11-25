@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-25T18:21:08.242Z</updated>
+    <updated>2025-11-25T19:11:22.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barnado's Health Conference speech]]></title>
+        <id>https://www.gov.uk/government/speeches/barnados-health-conference-speech</id>
+        <link href="https://www.gov.uk/government/speeches/barnados-health-conference-speech"/>
+        <updated>2025-11-25T18:55:41.000Z</updated>
+        <summary type="html"><![CDATA[The Secretary of State gave a speech at the King's Fund today about children's health.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implementing inserts in cigarette and hand rolling tobacco packs]]></title>
         <id>https://www.gov.uk/government/consultations/implementing-inserts-in-cigarette-and-hand-rolling-tobacco-packs</id>
