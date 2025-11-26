@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-26T17:12:27.078Z</updated>
+    <updated>2025-11-26T18:16:54.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -47,6 +47,16 @@
         <summary type="html"><![CDATA[Chancellor Rachel Reeves pledged to invest £300 million of additional capital investment in NHS technology in the Autumn Budget.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does the autumn budget mean for GPs?]]></title>
+        <id>https://www.gponline.com/article/1941144</id>
+        <link href="https://www.gponline.com/does-autumn-budget-mean-gps/article/1941144"/>
+        <updated>2025-11-26T14:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Changes to pension tax and rumoured changes to national insurance that could have heaped extra costs on GP partners did not materialise in the 2025 autumn budget - but measures set out by the chancellor will have a substantial impact on many GPs. GPonline looks at the changes and expert reaction.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
