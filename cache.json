@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "943ae4dc-3c0c-4b1d-94bb-0536af43e131",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A supply chain campaign dubbed \"Shai Hulud 2.0\" and \"Sha1 Hulud: The Second Coming\" affecting hundreds of npm packages\n A supply chain campaign dubbed \"Shai Hulud 2.0\" and \"Sha1 Hulud: The Second Coming\" affecting hundreds of npm packages\n Updated: 26 Nov 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4722",
+          "publishedOn": "2025-11-26T16:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4722 - SHA1-Hulud Supply Chain Attack Affecting npm Packages",
+          "imageUrl": null
+        },
+        {
           "id": "bef5595c-c54b-4464-9763-261596222d4e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager\n Updated: 24 Nov 2025",
@@ -1200,6 +1210,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941168",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-2026-gp-contract-fears-budget-hikes-practice-costs-low-pay-hits-arrs-gp-visas/article/1941168",
+          "publishedOn": "2025-11-26T16:19:28.000Z",
+          "wordCount": 716,
+          "title": "GP News Update: 2026 GP contract fears, budget hikes practice costs, low pay hits ARRS GP visas",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_25.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1941143",
+          "author": null,
+          "description": "Chancellor Rachel Reeves has confirmed plans to create 250 neighbourhood health centres by 2035 with help from private investment in an autumn budget that will drive up costs for GP practices with a 4.1% rise in the minimum wage.",
+          "link": "https://www.gponline.com/budget-hikes-practice-costs-chancellor-confirms-neighbourhood-plans/article/1941143",
+          "publishedOn": "2025-11-26T14:19:36.000Z",
+          "wordCount": 751,
+          "title": "Budget hikes practice costs as chancellor confirms neighbourhood plans",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Reeves_GettyImages-WiktorSzymanowiczFuturePublishing.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941103",
           "author": null,
           "description": "GP leaders fear the government is preparing to impose contract changes for 2026/27 on the profession after officials outlined plans to 'consult' with the BMA England GP committee alongside 'wider primary care stakeholders'.",
@@ -2081,6 +2111,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/minister-stephen-kinnocks-speech-at-the-hospice-uk-conference",
+          "author": null,
+          "description": "The Minister of State for Care, Stephen Kinnock spoke at the Hospice UK conference, launching the Palliative and End-of-Life Care Modern Service Framework.",
+          "link": "https://www.gov.uk/government/speeches/minister-stephen-kinnocks-speech-at-the-hospice-uk-conference",
+          "publishedOn": "2025-11-26T16:57:38.000Z",
+          "wordCount": 6617,
+          "title": "Minister Stephen Kinnock's speech at the Hospice UK conference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/visionary-leader-appointed-for-health-data-research-service",
           "author": null,
