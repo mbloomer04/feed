@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-27T11:11:57.505Z</updated>
+    <updated>2025-11-27T12:27:07.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=250539</id>
+        <link href="https://www.digitalhealth.net/2025/11/digital-health-coffee-time-briefing-%e2%98%95-124/"/>
+        <updated>2025-11-27T11:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing includes how brain stimulation can prevent depression relapses of major depressive disorder in 75% of patients.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Blood transfusion: patient consent]]></title>
+        <id>https://www.gov.uk/government/publications/blood-transfusion-patient-consent</id>
+        <link href="https://www.gov.uk/government/publications/blood-transfusion-patient-consent"/>
+        <updated>2025-11-27T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Recommendations from the advisory committee on the Safety of Blood, Tissues and Organs (SaBTO) on patient consent for blood transfusion.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs managed record number of online requests in October]]></title>
+        <id>https://www.england.nhs.uk/?p=277188</id>
+        <link href="https://www.england.nhs.uk/2025/11/gps-managed-record-number-online-requests-october/"/>
+        <updated>2025-11-27T11:18:22.000Z</updated>
+        <summary type="html"><![CDATA[More than 8 million people submitted their GP request online during October 2025, up more than a fifth (21%) on the previous month and up more than two-thirds (68%) on last year. The new figures come as the NHS and government strive to make contacting your practice as easy as possible. Around 1 in 3 […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MPs call for NHS to rely on UK tech firms instead of US giants]]></title>
         <id>https://www.digitalhealth.net/?p=250829</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[MPs called for the government to prioritise UK companies for big NHS tech contracts, rather than US giants like Microsoft and Palantir.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streeting accuses BMA GP chair of lies and 'unprofessional' behaviour]]></title>
+        <id>https://www.gponline.com/article/1941259</id>
+        <link href="https://www.gponline.com/streeting-accuses-bma-gp-chair-lies-unprofessional-behaviour/article/1941259"/>
+        <updated>2025-11-27T10:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Health and social care secretary Wes Streeting has accused the chair of the BMA England GP committee of 'deeply unprofessional' behaviour and misleading the profession, in a letter he sent directly to GPs.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2509,29 +2549,6 @@ On 26 October, Saudi Maternity Hospital, the only partially functioning hospital
         <summary type="html"><![CDATA[Exclusive: NHS upgrades to Microsoft Windows 11 are being stalled by medical device suppliers, Digital Health News has learned.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate inaction is claiming millions of lives every year, warns new Lancet Countdown report]]></title>
-        <id>urn:uuid:7c8e124a-8d0d-475c-8741-02f6693d2861</id>
-        <link href="https://www.who.int/news/item/29-10-2025-climate-inaction-is-claiming-millions-of-lives-every-year--warns-new-lancet-countdown-report"/>
-        <updated>2025-10-29T00:05:18.000Z</updated>
-        <summary type="html"><![CDATA[WHO and global partners are calling for the protection of people’s health to be recognized as the most powerful driver of climate action, as a new global report released today warns that continued overreliance on fossil fuels and failure to adapt to a heating world are already having a devastating toll on human health.
-The 2025 report of the Lancet Countdown on Health and Climate Change, produced in collaboration with the World Health Organization (WHO), finds that 12 of 20 key indicators tracking health threats have reached record levels, showing how climate inaction is costing lives, straining health systems, and undermining economies.
-
-“The climate crisis is a health crisis. Every fraction of a degree of warming costs lives and livelihoods,” said Dr Jeremy Farrar, Assistant Director-Gen…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free ‘morning after pill’ for women at high street pharmacies thanks to NHS expansion]]></title>
-        <id>https://www.england.nhs.uk/?p=275621</id>
-        <link href="https://www.england.nhs.uk/2025/10/free-morning-after-pill-women-high-street-pharmacies-nhs-expansion/"/>
-        <updated>2025-10-29T00:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Women will be able to access the morning-after pill free of charge on the NHS in high-street pharmacies across England from today. In the “biggest change to sexual health services since the 1960s”, the oral emergency contraception pill will be available for free to women from almost 10,000 pharmacies across the country without needing to […]]]></summary>
-        <author>
-            <name>Tom W</name>
         </author>
     </entry>
     <entry>
