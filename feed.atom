@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-27T07:14:43.400Z</updated>
+    <updated>2025-11-27T08:19:22.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI testing platform removes commercial bias for NHS use]]></title>
+        <id>https://www.digitalhealth.net/?p=250777</id>
+        <link href="https://www.digitalhealth.net/2025/11/ai-testing-platform-removes-commercial-bias-for-nhs-use/"/>
+        <updated>2025-11-27T07:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have developed a platform to determine whether commercial AI algorithms are fit for NHS use to detect diabetic eye disease.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minister Stephen Kinnock's speech at the Hospice UK conference]]></title>
         <id>https://www.gov.uk/government/speeches/minister-stephen-kinnocks-speech-at-the-hospice-uk-conference</id>
