@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-27T10:14:28.845Z</updated>
+    <updated>2025-11-27T11:11:57.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MPs call for NHS to rely on UK tech firms instead of US giants]]></title>
+        <id>https://www.digitalhealth.net/?p=250829</id>
+        <link href="https://www.digitalhealth.net/2025/11/mps-say-nhs-should-rely-on-uk-firms-not-palantir-and-microsoft/"/>
+        <updated>2025-11-27T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[MPs called for the government to prioritise UK companies for big NHS tech contracts, rather than US giants like Microsoft and Palantir.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Safeguarding adults, England, 2024 to 2025]]></title>
         <id>https://www.gov.uk/government/statistics/safeguarding-adults-england-2024-to-2025</id>
