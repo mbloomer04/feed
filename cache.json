@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941003",
+          "author": null,
+          "description": "A year on from the publication of landmark NICE guidelines on asthma, GP and clinical lead for Asthma + Lung UK Dr Andy Whittamore writes for GPonline about why their implementation is crucial.",
+          "link": "https://www.gponline.com/viewpoint-gps-keep-asthma-care-track-winter/article/1941003",
+          "publishedOn": "2025-11-27T00:30:00.000Z",
+          "wordCount": 2018,
+          "title": "Viewpoint: How GPs can keep asthma care on track this winter",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Andy_Whittamore_AsthmaandLung-2025.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941168",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -2090,6 +2100,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/safeguarding-adults-england-2024-to-2025",
+          "author": null,
+          "description": "Official statistics on adult safeguarding concerns that were raised and where enquiries took place during 2024 to 2025 in England.",
+          "link": "https://www.gov.uk/government/statistics/safeguarding-adults-england-2024-to-2025",
+          "publishedOn": "2025-11-27T09:30:07.000Z",
+          "wordCount": 1248,
+          "title": "Official Statistics: Safeguarding adults, England, 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/speeches/minister-stephen-kinnocks-speech-at-the-hospice-uk-conference",
           "author": null,

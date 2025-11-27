@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-27T09:15:03.842Z</updated>
+    <updated>2025-11-27T10:14:28.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Safeguarding adults, England, 2024 to 2025]]></title>
+        <id>https://www.gov.uk/government/statistics/safeguarding-adults-england-2024-to-2025</id>
+        <link href="https://www.gov.uk/government/statistics/safeguarding-adults-england-2024-to-2025"/>
+        <updated>2025-11-27T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on adult safeguarding concerns that were raised and where enquiries took place during 2024 to 2025 in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why we've put sustainability into the NHS digital design principles]]></title>
         <id>7a4d52ee-91c7-44d6-b3b4-3a73a2f0893f</id>
@@ -27,6 +37,16 @@ The NHS has set an ambitious goal of achieving ‘net zero‘ carbon emissions b
         <summary type="html"><![CDATA[Researchers have developed a platform to determine whether commercial AI algorithms are fit for NHS use to detect diabetic eye disease.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viewpoint: How GPs can keep asthma care on track this winter]]></title>
+        <id>https://www.gponline.com/article/1941003</id>
+        <link href="https://www.gponline.com/viewpoint-gps-keep-asthma-care-track-winter/article/1941003"/>
+        <updated>2025-11-27T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A year on from the publication of landmark NICE guidelines on asthma, GP and clinical lead for Asthma + Lung UK Dr Andy Whittamore writes for GPonline about why their implementation is crucial.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
