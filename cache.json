@@ -1917,6 +1917,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7a4d52ee-91c7-44d6-b3b4-3a73a2f0893f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Tero Väänänen, Head of Design in NHS England’s Transformation directorate, explains the new NHS digital design principle focused on sustainability.\n\r\n\r\nThe NHS has set an ambitious goal of achieving ‘net zero‘ carbon emissions by 2040 for the emissions we control directly. This is not only for environmental reasons. As the Greener NHS programme clearly states, climate change is a health risk as well as an environmental risk.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2023/why-weve-put-sustainability-into-the-nhs-digital-design-principles",
+          "publishedOn": "2025-11-27T09:07:59.000Z",
+          "wordCount": null,
+          "title": "Why we've put sustainability into the NHS digital design principles",
+          "imageUrl": null
+        },
+        {
           "id": "5e9b27f5-eb41-48f8-909f-1dccdd0dd763",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Tero Väänänen explains why the NHS design system exists and why it plays an important role in fulfilling the 10-year health plan. He also describes recent changes to the frontend code behind the design system, and why it is important for teams to adopt them now.\n\r\n \n\r\n\r\nThe NHS is moving from analogue to digital, and the NHS design system plays a critical role in making sure that shift results in accessible and usable digital products. \n\r\n\r\nIt does this by giving teams across the system a shared set of tools and standards, which reduce the effort needed to deliver digital products and services.",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-27T08:19:22.412Z</updated>
+    <updated>2025-11-27T09:15:03.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why we've put sustainability into the NHS digital design principles]]></title>
+        <id>7a4d52ee-91c7-44d6-b3b4-3a73a2f0893f</id>
+        <link href="https://digital.nhs.uk/blog/design-matters/2023/why-weve-put-sustainability-into-the-nhs-digital-design-principles"/>
+        <updated>2025-11-27T09:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Tero Väänänen, Head of Design in NHS England’s Transformation directorate, explains the new NHS digital design principle focused on sustainability.
+
+
+The NHS has set an ambitious goal of achieving ‘net zero‘ carbon emissions by 2040 for the emissions we control directly. This is not only for environmental reasons. As the Greener NHS programme clearly states, climate change is a health risk as well as an environmental risk.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI testing platform removes commercial bias for NHS use]]></title>
         <id>https://www.digitalhealth.net/?p=250777</id>
