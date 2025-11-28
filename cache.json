@@ -2121,6 +2121,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/speeches/working-together-to-raise-the-healthiest-generation-ever",
+          "author": null,
+          "description": "The Secretary of State addressed the Barnardo's Health Conference about children’s health.",
+          "link": "https://www.gov.uk/government/speeches/working-together-to-raise-the-healthiest-generation-ever",
+          "publishedOn": "2025-11-28T11:51:24.000Z",
+          "wordCount": 6718,
+          "title": "Working together to raise the healthiest generation ever",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-accounting-officer-assessments",
           "author": null,
           "description": "Accounting officer assessment summaries for the Department of Health and Social Care’s programmes and projects in the Government Major Projects Portfolio.",
@@ -3121,6 +3131,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=250481",
+          "author": "Jordan Sollof",
+          "description": "One in four UK patients (24%) are turning to AI and social media for help in understanding their health, according to survey results.",
+          "link": "https://www.digitalhealth.net/2025/11/one-in-four-uk-patients-using-ai-and-social-media-for-health-info/",
+          "publishedOn": "2025-11-28T11:00:33.000Z",
+          "wordCount": null,
+          "title": "One in four UK patients using AI and social media for health info",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=251027",
           "author": "Jordan Sollof",
