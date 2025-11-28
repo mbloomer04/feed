@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941352",
+          "author": null,
+          "description": "The GPonline team discusses the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-gps-heading-imposed-contract-next-year-budget-means-general-practice/article/1941352",
+          "publishedOn": "2025-11-28T08:42:00.000Z",
+          "wordCount": 719,
+          "title": "Podcast: Are GPs heading for an imposed contract next year, what the budget means for general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonlineTalkingGeneralPractice858x575px.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941355",
           "author": null,
           "description": "BMA leaders have urged the government to call a halt to 'relentless attacks' on the profession and work with GPs to achieve shared aims around improving care.",
@@ -2100,6 +2110,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-accounting-officer-assessments",
+          "author": null,
+          "description": "Accounting officer assessment summaries for the Department of Health and Social Care’s programmes and projects in the Government Major Projects Portfolio.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-and-social-care-accounting-officer-assessments",
+          "publishedOn": "2025-11-28T10:00:04.000Z",
+          "wordCount": 1050,
+          "title": "Transparency data: Department of Health and Social Care accounting officer assessments",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/blood-transfusion-patient-consent",
           "author": null,

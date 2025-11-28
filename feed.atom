@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-11-28T09:14:31.557Z</updated>
+    <updated>2025-11-28T10:14:53.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Department of Health and Social Care accounting officer assessments]]></title>
+        <id>https://www.gov.uk/government/publications/department-of-health-and-social-care-accounting-officer-assessments</id>
+        <link href="https://www.gov.uk/government/publications/department-of-health-and-social-care-accounting-officer-assessments"/>
+        <updated>2025-11-28T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Accounting officer assessment summaries for the Department of Health and Social Care’s programmes and projects in the Government Major Projects Portfolio.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Are GPs heading for an imposed contract next year, what the budget means for general practice]]></title>
+        <id>https://www.gponline.com/article/1941352</id>
+        <link href="https://www.gponline.com/podcast-gps-heading-imposed-contract-next-year-budget-means-general-practice/article/1941352"/>
+        <updated>2025-11-28T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The GPonline team discusses the key news stories affecting general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO issues first global guideline on infertility]]></title>
         <id>urn:uuid:56da2dcf-ac2a-4e75-bf24-f46aef01c809</id>
