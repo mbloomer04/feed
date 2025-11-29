@@ -2869,46 +2869,6 @@
           "wordCount": 1730,
           "title": "NHS recovery continues with above target productivity growth",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the Senior Salaries Review Body (SSRB) by the Department of Health and Social Care for the 2026 to 2027 pay round.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
-          "publishedOn": "2025-10-30T19:29:54.000Z",
-          "wordCount": 1147,
-          "title": "Policy paper: DHSC evidence for the SSRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/supplementary-evidence-to-pay-review-bodies-hospital-and-community-health-sector-2026-to-2027",
-          "author": null,
-          "description": "Granular estimates of basic pay, total earnings and paybill for the hospital and community health sector workforce in England in 2024 to 2025 and 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/supplementary-evidence-to-pay-review-bodies-hospital-and-community-health-sector-2026-to-2027",
-          "publishedOn": "2025-10-30T19:29:46.000Z",
-          "wordCount": 1278,
-          "title": "Policy paper: Supplementary evidence to pay review bodies: hospital and community health sector, 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) by the Department of Health and Social Care for the 2026 to 2027 pay round.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
-          "publishedOn": "2025-10-30T19:29:40.000Z",
-          "wordCount": 1133,
-          "title": "Policy paper: DHSC evidence for the DDRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the NHS Pay Review Body (NHSPRB) by the Department of Health and Social Care for the pay round 2026 to 2027.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
-          "publishedOn": "2025-10-30T19:29:34.000Z",
-          "wordCount": 1097,
-          "title": "Policy paper: DHSC evidence for the NHSPRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3113,6 +3073,16 @@
           "wordCount": 2569,
           "title": "WHO issues first global guideline on infertility",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/infertility/holding-hands.tmb-1200v.jpg?sfvrsn=c4f2e495_1"
+        },
+        {
+          "id": "urn:uuid:ee1d5b00-ef12-4a55-9674-0de54033a666",
+          "author": null,
+          "description": "Global immunization efforts have led to an 88% drop in measles deaths between 2000 and 2024, according to a new report from the World Health Organization (WHO). Nearly 59 million lives have been saved by the measles vaccine since 2000.",
+          "link": "https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge",
+          "publishedOn": "2025-11-26T18:24:57.000Z",
+          "wordCount": 3504,
+          "title": "Measles deaths down 88% since 2000, but cases surge",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/measles/child-vaccination-in-gaza.tmb-1200v.jpg?sfvrsn=5f8992b5_5"
         },
         {
           "id": "urn:uuid:131cf481-74f5-42f2-aaff-aac112c0871f",
