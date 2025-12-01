@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-01T14:15:03.299Z</updated>
+    <updated>2025-12-01T15:14:54.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Landmark UK-US pharmaceuticals deal to safeguard medicines access and drive vital investment for UK patients and businesses]]></title>
+        <id>https://www.gov.uk/government/news/landmark-uk-us-pharmaceuticals-deal-to-safeguard-medicines-access-and-drive-vital-investmentfor-uk-patients-and-businesses</id>
+        <link href="https://www.gov.uk/government/news/landmark-uk-us-pharmaceuticals-deal-to-safeguard-medicines-access-and-drive-vital-investmentfor-uk-patients-and-businesses"/>
+        <updated>2025-12-01T15:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Milestone deal secures UK’s medicines access for patients, with a wide range of groundbreaking new treatments to reach NHS front-line quicker.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MHRA and NICE secure £2m for digital mental health tech project]]></title>
         <id>https://www.digitalhealth.net/?p=251571</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[The MHRA and NICE have secured £2m to continue its joint work around the regulation and evaluation of digital mental health technologies.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO issues global guideline on the use of GLP-1 medicines in treating obesity]]></title>
+        <id>urn:uuid:d374f67c-08ed-43b6-ba44-66ff3711bd3c</id>
+        <link href="https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity"/>
+        <updated>2025-12-01T13:00:25.000Z</updated>
+        <summary type="html"><![CDATA[To address the growing global health challenge of obesity, which affects more than 1 billion people, WHO has released its first guideline on the use of Glucagon-Like Peptide-1 (GLP-1) therapies for treating obesity as a chronic, relapsing disease.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
