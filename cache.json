@@ -2051,6 +2051,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/trailblazing-scheme-to-reconnect-thousands-with-hiv-treatment",
+          "author": null,
+          "description": "The government has launched a scheme which will see thousands of people benefit from improved HIV testing and treatment under a new action plan.",
+          "link": "https://www.gov.uk/government/news/trailblazing-scheme-to-reconnect-thousands-with-hiv-treatment",
+          "publishedOn": "2025-12-01T07:28:12.000Z",
+          "wordCount": 5945,
+          "title": "Trailblazing scheme to reconnect thousands with HIV treatment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-october-2025",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
@@ -3201,6 +3211,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=251535",
+          "author": "Jordan Sollof",
+          "description": "EPR training is often not sufficient to equip staff with the knowledge needed to use systems effectively, according to a report.",
+          "link": "https://www.digitalhealth.net/2025/12/staff-training-on-eprs-often-perceived-as-limited-report-finds/",
+          "publishedOn": "2025-12-01T07:30:26.000Z",
+          "wordCount": null,
+          "title": "Insufficient EPR training contributes to risk of patient harm",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=251043",
           "author": "Tammy Lovell",
