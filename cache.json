@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941544",
+          "author": null,
+          "description": "The government has outlined a new approach to GP contract negotiations for 2026/27. GPonline looks at what it could mean for general practice.",
+          "link": "https://www.gponline.com/government-changing-gp-contract-negotiations/article/1941544",
+          "publishedOn": "2025-12-01T09:33:01.000Z",
+          "wordCount": 915,
+          "title": "How the government is changing GP contract negotiations",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2235193325_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941156",
           "author": null,
           "description": "GP federations could partner with hospital trusts to take on neighbourhood contracts, a senior NHS official has said.",
@@ -1368,6 +1378,16 @@
           "wordCount": 759,
           "title": "Opinion: New threats could unite GPs as dispute with government reaches boiling point",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/EmmaBower006.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1940421",
+          "author": null,
+          "description": "After a positive start, this year has seen a remarkable boom-to-bust shift in the relationship between ministers and the BMA GP committee as general practice re-entered dispute over online consultations. Below, GPonline sets out a timeline of where it all went wrong.",
+          "link": "https://www.gponline.com/timeline-general-practice-re-entered-dispute-government/article/1940421",
+          "publishedOn": "2025-11-21T10:00:00.000Z",
+          "wordCount": 947,
+          "title": "Timeline: How general practice re-entered dispute with the government",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_Wes_rift_DanKitwoodGettyImages_sunyixun_1.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1940407",
@@ -3044,6 +3064,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:8f58179a-05be-47d6-a503-4399a210d024",
+          "author": null,
+          "description": "On World AIDS Day, the World Health Organization (WHO) calls on governments and partners to rapidly expand access to new WHO-approved tools including lenacapavir (LEN) to drive down infections and counter disruption to essential health services caused by cuts to foreign aid.\nDespite dramatic funding setbacks, the global HIV response has gained a remarkable momentum in 2025 with the introduction and WHO approval of twice-yearly injectable lenacapavir for HIV prevention. LEN, a highly effective, long-acting alternative to oral pills and other options, is a transformative intervention for people who face challenges with regular adherence and stigma in accessing health care. WHO released in July this year  new guidelines recommending the use of lenacapavir as an additional pre-exposure prophyl…",
+          "link": "https://www.who.int/news/item/01-12-2025-new-prevention-tools-and-investment-in-services-essential-in-the-fight-against-aids",
+          "publishedOn": "2025-11-30T17:04:40.000Z",
+          "wordCount": 2833,
+          "title": "New prevention tools and investment in services essential in the fight against AIDS",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hiv/hiv-and-sti-prevention-and-treatment.tmb-1200v.jpg?sfvrsn=d632eb10_6"
+        },
         {
           "id": "urn:uuid:56da2dcf-ac2a-4e75-bf24-f46aef01c809",
           "author": null,

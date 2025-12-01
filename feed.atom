@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-01T09:20:22.867Z</updated>
+    <updated>2025-12-01T10:16:12.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the government is changing GP contract negotiations]]></title>
+        <id>https://www.gponline.com/article/1941544</id>
+        <link href="https://www.gponline.com/government-changing-gp-contract-negotiations/article/1941544"/>
+        <updated>2025-12-01T09:33:01.000Z</updated>
+        <summary type="html"><![CDATA[The government has outlined a new approach to GP contract negotiations for 2026/27. GPonline looks at what it could mean for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs could partner with hospitals to hold neighbourhood contracts, says NHS official]]></title>
         <id>https://www.gponline.com/article/1941156</id>
@@ -34,6 +44,17 @@
         <summary type="html"><![CDATA[The government has launched a scheme which will see thousands of people benefit from improved HIV testing and treatment under a new action plan.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New prevention tools and investment in services essential in the fight against AIDS]]></title>
+        <id>urn:uuid:8f58179a-05be-47d6-a503-4399a210d024</id>
+        <link href="https://www.who.int/news/item/01-12-2025-new-prevention-tools-and-investment-in-services-essential-in-the-fight-against-aids"/>
+        <updated>2025-11-30T17:04:40.000Z</updated>
+        <summary type="html"><![CDATA[On World AIDS Day, the World Health Organization (WHO) calls on governments and partners to rapidly expand access to new WHO-approved tools including lenacapavir (LEN) to drive down infections and counter disruption to essential health services caused by cuts to foreign aid.
+Despite dramatic funding setbacks, the global HIV response has gained a remarkable momentum in 2025 with the introduction and WHO approval of twice-yearly injectable lenacapavir for HIV prevention. LEN, a highly effective, long-acting alternative to oral pills and other options, is a transformative intervention for people who face challenges with regular adherence and stigma in accessing health care. WHO released in July this year  new guidelines recommending the use of lenacapavir as an additional pre-exposure prophyl…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -888,6 +909,16 @@ For the past 3 years, we have been on a mission to make integration easier with
         <summary type="html"><![CDATA[University Hospital Southampton NHS Foundation Trust has deployed Alcidion’s Miya Emergency across Southampton General Hospital.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timeline: How general practice re-entered dispute with the government]]></title>
+        <id>https://www.gponline.com/article/1940421</id>
+        <link href="https://www.gponline.com/timeline-general-practice-re-entered-dispute-government/article/1940421"/>
+        <updated>2025-11-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a positive start, this year has seen a remarkable boom-to-bust shift in the relationship between ministers and the BMA GP committee as general practice re-entered dispute over online consultations. Below, GPonline sets out a timeline of where it all went wrong.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
