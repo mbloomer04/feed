@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941800",
+          "author": null,
+          "description": "The government has hailed data showing 99% of GP practices now keep online consultation systems on through core hours in line with updated contract requirements, but failed to acknowledge the impact of the change on the profession.",
+          "link": "https://www.gponline.com/government-hails-online-consultation-rollout-ignores-impact-practices/article/1941800",
+          "publishedOn": "2025-12-02T22:30:00.000Z",
+          "wordCount": 922,
+          "title": "Government hails online consultation rollout but ignores impact on practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/phone_GettyImages-TimRobberts_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941667",
           "author": null,
           "description": "Resident doctors have agreed dates for a five-day strike in the run-up to Christmas, the BMA has announced.",
@@ -1848,16 +1858,6 @@
           "wordCount": 908,
           "title": "Why autumn budget changes could leave most GPs worse off",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Treasury-GettyImages-PeterDazeley_RF_3.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1938188",
-          "author": null,
-          "description": "Government ministers have stepped up attacks on general practice - again dismissing warnings over the impact of changes to online access and claiming it 'isn't credible' that the profession lacks the resources to cope with a sharp rise in workload because 'one in three GP partners earn more than the prime minister'.",
-          "link": "https://www.gponline.com/government-attacks-gps-pay-dispute-deepens/article/1938188",
-          "publishedOn": "2025-11-03T10:52:58.000Z",
-          "wordCount": 963,
-          "title": "Government attacks GPs over pay as dispute deepens",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Stephen_Kinnock_HouseofCommons_6.jpg"
         }
       ]
     },
@@ -3999,16 +3999,6 @@
           "publishedOn": "2025-11-03T13:30:58.000Z",
           "wordCount": null,
           "title": "Data validation issues affecting Blackpool could ‘delay patient care’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=247539",
-          "author": "Samuel Webb",
-          "description": "Health Technology Wales has recommended a digital rehabilitation and self-management platform for people living with chronic kidney disease.",
-          "link": "https://www.digitalhealth.net/2025/11/wales-regulator-gives-approval-for-digital-rehab-tool-for-kidney-patients/",
-          "publishedOn": "2025-11-03T11:00:20.000Z",
-          "wordCount": null,
-          "title": "Digital rehab tool recommended for kidney patients in Wales",
           "imageUrl": null
         }
       ]

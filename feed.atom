@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-02T22:12:03.946Z</updated>
+    <updated>2025-12-02T23:12:25.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government hails online consultation rollout but ignores impact on practices]]></title>
+        <id>https://www.gponline.com/article/1941800</id>
+        <link href="https://www.gponline.com/government-hails-online-consultation-rollout-ignores-impact-practices/article/1941800"/>
+        <updated>2025-12-02T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The government has hailed data showing 99% of GP practices now keep online consultation systems on through core hours in line with updated contract requirements, but failed to acknowledge the impact of the change on the profession.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scottish refreshed Life Sciences Strategy plans to harness AI]]></title>
         <id>https://www.digitalhealth.net/?p=251675</id>
@@ -2717,26 +2727,6 @@ Increase access to oxygen: Ensure that every health facility - especially in low
         <summary type="html"><![CDATA[Thanks to the government’s reforms, record capital investment and the hard work of NHS staff, the NHS continues to outperform its productivity target of 2%.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital rehab tool recommended for kidney patients in Wales]]></title>
-        <id>https://www.digitalhealth.net/?p=247539</id>
-        <link href="https://www.digitalhealth.net/2025/11/wales-regulator-gives-approval-for-digital-rehab-tool-for-kidney-patients/"/>
-        <updated>2025-11-03T11:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Health Technology Wales has recommended a digital rehabilitation and self-management platform for people living with chronic kidney disease.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government attacks GPs over pay as dispute deepens]]></title>
-        <id>https://www.gponline.com/article/1938188</id>
-        <link href="https://www.gponline.com/government-attacks-gps-pay-dispute-deepens/article/1938188"/>
-        <updated>2025-11-03T10:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Government ministers have stepped up attacks on general practice - again dismissing warnings over the impact of changes to online access and claiming it 'isn't credible' that the profession lacks the resources to cope with a sharp rise in workload because 'one in three GP partners earn more than the prime minister'.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
