@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-03T08:19:11.394Z</updated>
+    <updated>2025-12-03T09:17:37.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Almost every GP now offers online access for patients]]></title>
+        <id>https://www.gov.uk/government/news/almost-every-gp-now-offers-online-access-for-patients</id>
+        <link href="https://www.gov.uk/government/news/almost-every-gp-now-offers-online-access-for-patients"/>
+        <updated>2025-12-03T09:06:02.000Z</updated>
+        <summary type="html"><![CDATA[GP online access has been rolled out at nearly all GP practices, benefitting patients across England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Life-changing’ AI support helping stroke patients get a second chance]]></title>
         <id>https://www.england.nhs.uk/?p=277304</id>
