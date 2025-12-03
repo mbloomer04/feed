@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1941912",
+          "author": null,
+          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
+          "link": "https://www.gponline.com/gp-news-update-difficult-gp-contract-fears-neighbourhood-contracts-gp-funding-scotland/article/1941912",
+          "publishedOn": "2025-12-03T12:21:07.000Z",
+          "wordCount": 881,
+          "title": "GP News Update: 'Difficult' GP contract fears, neighbourhood contracts, GP funding in Scotland",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_27.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941512",
           "author": null,
           "description": "International medical graduate (IMG) GP registrars have been unsettled by political rhetoric around immigration despite assurances that the UK will not change the timescale to qualify for indefinite leave to remain (ILR) for doctors, a medical association has warned.",
@@ -2120,6 +2130,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/infant-formula-government-response-to-cma-market-study",
+          "author": null,
+          "description": "The 4 nations response to the Competition and Markets Authority (CMA) market study into the UK infant and follow-on formula market.",
+          "link": "https://www.gov.uk/government/publications/infant-formula-government-response-to-cma-market-study",
+          "publishedOn": "2025-12-03T12:55:18.000Z",
+          "wordCount": 1028,
+          "title": "Policy paper: Infant formula: government response to CMA market study",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/government-brings-in-measures-to-help-tackle-child-poverty",
+          "author": null,
+          "description": "Savings for families on baby formula as government brings in measures to help tackle child poverty.",
+          "link": "https://www.gov.uk/government/news/government-brings-in-measures-to-help-tackle-child-poverty",
+          "publishedOn": "2025-12-03T12:49:37.000Z",
+          "wordCount": 2411,
+          "title": "Government brings in measures to help tackle child poverty",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/almost-every-gp-now-offers-online-access-for-patients",
           "author": null,
