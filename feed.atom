@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-03T10:15:53.506Z</updated>
+    <updated>2025-12-03T11:12:47.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Greater Manchester upgrades PACS cloud portal for image sharing]]></title>
+        <id>https://www.digitalhealth.net/?p=251655</id>
+        <link href="https://www.digitalhealth.net/2025/12/northwest-hospital-trusts-use-cloud-portal-to-share-radiology-images/"/>
+        <updated>2025-12-03T11:00:52.000Z</updated>
+        <summary type="html"><![CDATA[NHS hospital trusts across the north west of England will share patients' radiology images through an upgraded cloud portal from early 2026.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Almost every GP now offers online access for patients]]></title>
         <id>https://www.gov.uk/government/news/almost-every-gp-now-offers-online-access-for-patients</id>
