@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-02T23:12:25.404Z</updated>
+    <updated>2025-12-03T01:03:35.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Life-changing’ AI support helping stroke patients get a second chance]]></title>
+        <id>https://www.england.nhs.uk/?p=277304</id>
+        <link href="https://www.england.nhs.uk/2025/12/life-changing-ai-support-helping-stroke-patients-get-a-second-chance/"/>
+        <updated>2025-12-02T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Stroke patients in England are getting life-changing treatment more than an hour earlier thanks to a revolutionary “fast-track” AI tool, a major study has revealed. The landmark analysis published inThe Lancet Digital Health shows around 15,000 patients directly benefitted from having their scans reviewed by the tech. The AI tool — now rolled out by […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government hails online consultation rollout but ignores impact on practices]]></title>
         <id>https://www.gponline.com/article/1941800</id>
@@ -2717,16 +2727,6 @@ Increase access to oxygen: Ensure that every health facility - especially in low
         <summary type="html"><![CDATA[Blackpool Teaching Hospitals NHS Foundation Trust is experiencing data validation issues since moving to a new patient administration system.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS recovery continues with above target productivity growth]]></title>
-        <id>https://www.gov.uk/government/news/nhs-recovery-continues-with-above-target-productivity-growth</id>
-        <link href="https://www.gov.uk/government/news/nhs-recovery-continues-with-above-target-productivity-growth"/>
-        <updated>2025-11-03T12:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the government’s reforms, record capital investment and the hard work of NHS staff, the NHS continues to outperform its productivity target of 2%.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
