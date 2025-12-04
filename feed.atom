@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-04T10:16:30.602Z</updated>
+    <updated>2025-12-04T11:13:18.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI tool helps spot deadly clots in stroke patients faster, study shows]]></title>
+        <id>https://www.digitalhealth.net/?p=252017</id>
+        <link href="https://www.digitalhealth.net/2025/12/ai-tool-helps-spot-deadly-clots-in-stroke-patients-faster-study-shows/"/>
+        <updated>2025-12-04T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[An AI imaging tool can help doctors spot deadly clots in stroke patients more than an hour earlier, a study has found.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Independent review into mental health conditions, ADHD and autism: terms of reference]]></title>
         <id>https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-terms-of-reference</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[How local authorities in England can prepare to run the Best Start Family Hubs and Healthy Babies programme.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New tools saved a million lives from malaria last year but progress under threat as drug resistance rises]]></title>
+        <id>urn:uuid:ee667cc4-44e2-4f49-b9de-fc341b3e5465</id>
+        <link href="https://www.who.int/news/item/04-12-2025-new-tools-saved-a-million-lives-from-malaria-last-year-but-progress-under-threat-as-drug-resistance-rises"/>
+        <updated>2025-12-04T08:23:36.000Z</updated>
+        <summary type="html"><![CDATA[This year’s report provides a critical and up-to-date snapshot of efforts to control and eliminate malaria across 80 countries. The report also presents the threat posed by antimalarial resistance and its impact.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
