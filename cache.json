@@ -1987,6 +1987,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "63308682-ad38-41fd-9c2b-fce2600c1195",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "NHS Digital’s Head of User Research, Rochelle Gold, asks the question – is it time to drop the ‘user’ from user research?\n\r\n\r\nAs the Head of User Research, I often have conversations with people about what role user research plays in delivering great services. They can have very different levels of understanding of user research. Some really understand it, others have heard of it but don’t know what it is and some people have never heard of it and make incorrect assumptions.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2021/do-we-need-to-drop-the-user",
+          "publishedOn": "2025-12-05T11:47:48.000Z",
+          "wordCount": null,
+          "title": "Do we need to drop the 'user'?",
+          "imageUrl": null
+        },
+        {
           "id": "0a49fff6-5cd5-44f8-bbff-25a5cc575680",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "The NHS App connects millions of people to essential healthcare services, but some struggle to use it. Tanja Galloway, Lisa Collins and Simon Davis explore the challenges and share practical insights for making user research inclusive and accessible so no one is left behind.\n\r\n\r\nThe NHS App connects millions of people to access essential healthcare services. As part of the government’s 10 Year Health Plan, by 2028 the NHS App will become a full digital front door to the NHS. Yet for many, this digital future feels out of reach. \n\r\n\r\nSome risk being left behind due to barriers that prevent them from accessing, or confidently using, the NHS App.",
@@ -2170,6 +2180,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/digital-revolution-in-care-saves-millions-of-admin-hours",
+          "author": null,
+          "description": "Four in five care providers now use digital social care records, helping almost 90% of people who draw on care.",
+          "link": "https://www.gov.uk/government/news/digital-revolution-in-care-saves-millions-of-admin-hours",
+          "publishedOn": "2025-12-05T11:48:43.000Z",
+          "wordCount": 3773,
+          "title": "Digital revolution in care saves millions of admin hours",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/chief-medical-officers-annual-report-2025-infections",
           "author": null,
