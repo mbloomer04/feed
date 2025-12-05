@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-05T08:18:44.419Z</updated>
+    <updated>2025-12-05T09:14:42.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Dr Katie Bramall on navigating the GP dispute, future GP contracts and the 10-year health plan]]></title>
+        <id>https://www.gponline.com/article/1942111</id>
+        <link href="https://www.gponline.com/podcast-dr-katie-bramall-navigating-gp-dispute-future-gp-contracts-10-year-health-plan/article/1942111"/>
+        <updated>2025-12-05T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Dr Katie Bramall, chair of the BMA’s GP committee in England, about the dispute with the government over online access, what happens next and her concerns about the 10-year health plan and what that could mean for future GP contracts.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viewpoint: How can general practice make best use of AI?]]></title>
+        <id>https://www.gponline.com/article/1942135</id>
+        <link href="https://www.gponline.com/viewpoint-general-practice-best-use-ai/article/1942135"/>
+        <updated>2025-12-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPs are adopting artificial intelligence (AI) tools to support their work. Nuffield Trust director of research and policy Dr Becks Fisher writes for GPonline about what GPs are using it for and support they need to do so safely and efficiently.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
         <id>https://www.digitalhealth.net/?p=251819</id>
