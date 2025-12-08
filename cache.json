@@ -2061,6 +2061,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/sabto-hepatitis-e-virus-hev-screening-review-and-recommendations",
+          "author": null,
+          "description": "Review of UK blood donor screening for hepatitis E virus (HEV), assessing current methods, risks and options to reduce transfusion-related HEV transmission.",
+          "link": "https://www.gov.uk/government/publications/sabto-hepatitis-e-virus-hev-screening-review-and-recommendations",
+          "publishedOn": "2025-12-08T10:41:44.000Z",
+          "wordCount": 954,
+          "title": "Independent report: SaBTO hepatitis E virus (HEV) screening review and recommendations",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/consultations/health-and-social-care-statistical-outputs",
           "author": null,
           "description": "We are seeking views on health and social care statistical outputs published by DHSC (including OHID), NHSBSA, UKHSA, ONS and NHS England.",
@@ -3201,6 +3211,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=252415",
+          "author": "Tammy Lovell",
+          "description": "A national dashboard is being rolled out across NHS maternity services to help spot serious safety issues and prevent neonatal tragedies.",
+          "link": "https://www.digitalhealth.net/2025/12/nhs-maternity-dashboard-launched-to-prevent-tragedies/",
+          "publishedOn": "2025-12-08T11:00:50.000Z",
+          "wordCount": null,
+          "title": "NHS maternity dashboard launched to prevent tragedies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=252337",
           "author": "Jordan Sollof",

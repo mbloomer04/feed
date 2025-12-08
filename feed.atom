@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-08T10:16:06.831Z</updated>
+    <updated>2025-12-08T11:12:58.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS maternity dashboard launched to prevent tragedies]]></title>
+        <id>https://www.digitalhealth.net/?p=252415</id>
+        <link href="https://www.digitalhealth.net/2025/12/nhs-maternity-dashboard-launched-to-prevent-tragedies/"/>
+        <updated>2025-12-08T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[A national dashboard is being rolled out across NHS maternity services to help spot serious safety issues and prevent neonatal tragedies.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Independent report: SaBTO hepatitis E virus (HEV) screening review and recommendations]]></title>
+        <id>https://www.gov.uk/government/publications/sabto-hepatitis-e-virus-hev-screening-review-and-recommendations</id>
+        <link href="https://www.gov.uk/government/publications/sabto-hepatitis-e-virus-hev-screening-review-and-recommendations"/>
+        <updated>2025-12-08T10:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Review of UK blood donor screening for hepatitis E virus (HEV), assessing current methods, risks and options to reduce transfusion-related HEV transmission.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRSB to relaunch in 2026 with revised funding model]]></title>
         <id>https://www.digitalhealth.net/?p=252337</id>
