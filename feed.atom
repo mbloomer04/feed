@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-08T15:15:11.223Z</updated>
+    <updated>2025-12-08T16:18:12.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS optical voucher values and hospital eye service charges from April 2025]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-optical-voucher-values-and-hospital-eye-service-charges-from-april-2025</id>
+        <link href="https://www.gov.uk/government/publications/nhs-optical-voucher-values-and-hospital-eye-service-charges-from-april-2025"/>
+        <updated>2025-12-08T15:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Letter setting out optical voucher values and hospital eye service charges from 1 April 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS general ophthalmic service fees and payments from April 2025]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-general-ophthalmic-service-fees-and-payments-from-april-2025</id>
+        <link href="https://www.gov.uk/government/publications/nhs-general-ophthalmic-service-fees-and-payments-from-april-2025"/>
+        <updated>2025-12-08T15:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Letter and directions setting out general ophthalmic services fees and payments from 1 April 2025.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Workplace pressures holding back NHS digital plans, finds survey]]></title>
         <id>https://www.digitalhealth.net/?p=251979</id>
