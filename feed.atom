@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-09T11:12:48.234Z</updated>
+    <updated>2025-12-09T12:28:28.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=251829</id>
+        <link href="https://www.digitalhealth.net/2025/12/digital-health-coffee-time-briefing-%e2%98%95-127/"/>
+        <updated>2025-12-09T11:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Today's round includes innovations in robotic colon surgery and research into how comfortable patients are confiding in AI.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online access change threatens GP 'welfare timebomb']]></title>
+        <id>https://www.gponline.com/article/1941867</id>
+        <link href="https://www.gponline.com/online-access-change-threatens-gp-welfare-timebomb/article/1941867"/>
+        <updated>2025-12-09T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Online access changes in general practice threaten a 'welfare timebomb' as GPs spend long hours alone triaging consultation requests, a sessional GP organisation has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI note-taking tool helps speed up autism and ADHD assessments]]></title>
         <id>https://www.digitalhealth.net/?p=252223</id>
