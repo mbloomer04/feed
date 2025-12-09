@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-09T15:15:55.030Z</updated>
+    <updated>2025-12-09T16:19:41.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: National Child Measurement Programme: operational guidance]]></title>
+        <id>https://www.gov.uk/government/publications/national-child-measurement-programme-operational-guidance</id>
+        <link href="https://www.gov.uk/government/publications/national-child-measurement-programme-operational-guidance"/>
+        <updated>2025-12-09T16:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Guidance on running the National Child Measurement Programme, which collects the height and weight of reception and year 6 children across England every year.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patient and staff data stolen in Barts Health cyber attack]]></title>
         <id>https://www.digitalhealth.net/?p=252549</id>
