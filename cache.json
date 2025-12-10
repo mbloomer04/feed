@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1942630",
+          "author": null,
+          "description": "GP Dr Deborah Kerr provides expert advice on prevention and management of migraine.",
+          "link": "https://www.gponline.com/listen-learn-podcourse-migraine-mims-learning/article/1942630",
+          "publishedOn": "2025-12-10T09:10:05.000Z",
+          "wordCount": 1320,
+          "title": "Listen and learn with a podcourse on migraine from MIMS Learning",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MIMSPodcourse858x575px(1).jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1941867",
           "author": null,
           "description": "Online access changes in general practice threaten a 'welfare timebomb' as GPs spend long hours alone triaging consultation requests, a sessional GP organisation has warned.",
@@ -2060,6 +2070,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-november-2025",
+          "author": null,
+          "description": "Information on how the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG) is controlling spend on branded medicines in the NHS.",
+          "link": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-november-2025",
+          "publishedOn": "2025-12-10T09:30:09.000Z",
+          "wordCount": 929,
+          "title": "Transparency data: Voluntary scheme aggregate net sales and payment information: November 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/the-2024-voluntary-scheme-for-branded-medicines-pricing-access-and-growth-payment-percentage-for-2026",
+          "author": null,
+          "description": "Sets out the payment due from members of the voluntary scheme for branded medicines pricing, access and growth in 2026.",
+          "link": "https://www.gov.uk/government/publications/the-2024-voluntary-scheme-for-branded-medicines-pricing-access-and-growth-payment-percentage-for-2026",
+          "publishedOn": "2025-12-10T09:30:09.000Z",
+          "wordCount": 956,
+          "title": "Guidance: The 2024 voluntary scheme for branded medicines pricing, access and growth: payment percentage for 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-register-of-senior-civil-servants-secondary-paid-employment-2024-to-2025",
           "author": null,
