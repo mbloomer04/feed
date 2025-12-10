@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-10T13:32:02.538Z</updated>
+    <updated>2025-12-10T14:16:17.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4726 - Ivanti Releases Critical Security Updates for Endpoint Manager]]></title>
+        <id>cf784011-7834-448e-bc79-3d26c07cdd12</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4726"/>
+        <updated>2025-12-10T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. 
+ 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. 
+ Updated: 10 Dec 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4725 - Microsoft Releases December 2025 Security Updates]]></title>
+        <id>f5ad280e-95bd-4ce2-bb0d-0fb280e68cd5</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4725"/>
+        <updated>2025-12-10T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products address 57 vulnerabilities, of which 1 is under exploitation and 2 have been reported as publicly disclosed
+ Scheduled updates for Microsoft products address 57 vulnerabilities, of which 1 is under exploitation and 2 have been reported as publicly disclosed
+ Updated: 10 Dec 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innovative medicines supported as rebate rate falls by a third]]></title>
         <id>https://www.gov.uk/government/news/innovative-medicines-supported-as-rebate-rate-falls-by-a-third</id>

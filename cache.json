@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cf784011-7834-448e-bc79-3d26c07cdd12",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. \n 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. \n Updated: 10 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4726",
+          "publishedOn": "2025-12-10T13:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4726 - Ivanti Releases Critical Security Updates for Endpoint Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "f5ad280e-95bd-4ce2-bb0d-0fb280e68cd5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 57 vulnerabilities, of which 1 is under exploitation and 2 have been reported as publicly disclosed\n Scheduled updates for Microsoft products address 57 vulnerabilities, of which 1 is under exploitation and 2 have been reported as publicly disclosed\n Updated: 10 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4725",
+          "publishedOn": "2025-12-10T13:39:00.000Z",
+          "wordCount": null,
+          "title": "CC-4725 - Microsoft Releases December 2025 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "03b950a8-4d3c-401f-be61-e23ac7723f5e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The security advisory address two vulnerabilities that could allow an attacker to bypass the FortiCloud SSO login authentication via a crafted SAML message\n The security advisory address two vulnerabilities that could allow an attacker to bypass the FortiCloud SSO login authentication via a crafted SAML message\n Updated: 10 Dec 2025",
