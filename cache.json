@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7f222206-903b-4ff2-b5c4-8eafe5a84c2e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Updated: 11 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4727",
+          "publishedOn": "2025-12-11T13:08:00.000Z",
+          "wordCount": null,
+          "title": "CC-4727 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "cf784011-7834-448e-bc79-3d26c07cdd12",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. \n 1 critical and 3 high severity vulnerabilities could allow a remote unauthenticated attacker to perform remote code execution in the context of an administrator session. \n Updated: 10 Dec 2025",
