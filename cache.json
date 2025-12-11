@@ -1848,16 +1848,6 @@
           "wordCount": 925,
           "title": "Promised benefits of NHS redundancy plan far from certain, BMA warns",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Tom-Dolphin_BMA-close-858.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1939354",
-          "author": null,
-          "description": "Government officials have given ICBs the green light to complete 50% staff cuts after agreeing a long-awaited funding package for redundancy costs estimated at £1bn.",
-          "link": "https://www.gponline.com/green-light-50-icb-staff-cuts-nhs-redundancy-cash-agreed/article/1939354",
-          "publishedOn": "2025-11-11T22:35:00.000Z",
-          "wordCount": 921,
-          "title": "Green light for 50% ICB staff cuts as NHS redundancy cash agreed",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting-GettyImages-Dan-Kitwood.jpg"
         }
       ]
     },
@@ -1993,6 +1983,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=277840",
+          "author": "nowen",
+          "description": "Flu hospitalisations have surged by more than half in just one week, plunging the NHS into a “worst case scenario” situation for December, new figures reveal today.  An average of 2,660 patients per day were in a hospital bed with flu last week – the highest ever for this time of year and up 55% […]",
+          "link": "https://www.england.nhs.uk/2025/12/nhs-facing-worst-case-scenario-december-amid-super-flu-surge/",
+          "publishedOn": "2025-12-11T10:11:55.000Z",
+          "wordCount": 1671,
+          "title": "NHS facing ‘worst case scenario’ December amid ‘super flu’ surge",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=277634",
           "author": "nowen",
@@ -3028,16 +3028,6 @@
           "publishedOn": "2025-11-12T10:52:22.000Z",
           "wordCount": 1341,
           "title": "Guidance: Care workforce pathway for adult social care",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/billions-to-be-redirected-back-into-patient-care-with-nhs-reform",
-          "author": null,
-          "description": "Health Secretary announces plans to redirect billions of pounds from NHS reform back into patient care",
-          "link": "https://www.gov.uk/government/news/billions-to-be-redirected-back-into-patient-care-with-nhs-reform",
-          "publishedOn": "2025-11-11T22:30:07.000Z",
-          "wordCount": 2744,
-          "title": "Billions to be redirected back into patient care with NHS reform",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
