@@ -2151,6 +2151,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the Senior Salaries Review Body (SSRB) by the Department of Health and Social Care and NHS England for the 2026 to 2027 pay round.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
+          "publishedOn": "2025-12-11T14:14:44.000Z",
+          "wordCount": 1224,
+          "title": "Policy paper: Joint DHSC and NHS England evidence for the SSRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) by the Department of Health and Social Care and NHS England for the 2026 to 2027 pay round.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
+          "publishedOn": "2025-12-11T14:13:11.000Z",
+          "wordCount": 1207,
+          "title": "Policy paper: Joint DHSC and NHS England evidence for the DDRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
+          "author": null,
+          "description": "Evidence submitted to the NHS Pay Review Body (NHSPRB) by the Department of Health and Social Care and NHS England for the pay round 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
+          "publishedOn": "2025-12-11T14:12:51.000Z",
+          "wordCount": 1175,
+          "title": "Policy paper: Joint DHSC and NHS England evidence for the NHSPRB: pay round 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-annual-report-and-accounts-2024-to-2025",
           "author": null,
           "description": "How the Department of Health and Social Care has funded its activities and used its resources during the financial year 2024 to 2025.",
@@ -3411,6 +3441,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=252835",
+          "author": "Samuel Webb",
+          "description": "The UK and Singapore have launched a regulatory 'innovation corridor' to fast-track major medical advances and promising health technologies.",
+          "link": "https://www.digitalhealth.net/2025/12/uk-and-singapore-launch-innovation-corridor-to-speed-up-breakthrough-health-technologies/",
+          "publishedOn": "2025-12-11T13:30:23.000Z",
+          "wordCount": null,
+          "title": "UK and Singapore launch regulatory ‘innovation corridor’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=252607",
           "author": "Samuel Webb",
