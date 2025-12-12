@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-12T13:29:28.309Z</updated>
+    <updated>2025-12-12T14:13:41.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graphnet to provide remote monitoring service across Jersey]]></title>
+        <id>https://www.digitalhealth.net/?p=252381</id>
+        <link href="https://www.digitalhealth.net/2025/12/graphnet-to-provide-remote-monitoring-service-across-jersey/"/>
+        <updated>2025-12-12T13:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Graphnet Health has been selected by Jersey’s Family Nursing & Home Care to provide the island’s first large-scale remote monitoring service.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4728 - React Issues Additional Security Updates for  React Server Components]]></title>
         <id>2898055c-5dba-4f56-beb1-f6727ed14b8c</id>
