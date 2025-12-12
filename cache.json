@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2898055c-5dba-4f56-beb1-f6727ed14b8c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow an attacker to expose source code or lead to a denial of service condition\n Successful exploitation could allow an attacker to expose source code or lead to a denial of service condition\n Updated: 12 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4728",
+          "publishedOn": "2025-12-12T13:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4728 - React Issues Additional Security Updates for  React Server Components",
+          "imageUrl": null
+        },
+        {
           "id": "7f222206-903b-4ff2-b5c4-8eafe5a84c2e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Updated: 11 Dec 2025",
@@ -1220,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1943000",
+          "author": null,
+          "description": "GPs are on track to prevent more than 1.5m hospital referrals in 2025/26 after the rollout of a payment mechanism to incentivise use of advice and guidance - but the scheme looks set to fall short of government ambitions.",
+          "link": "https://www.gponline.com/gp-use-advice-guidance-avoid-15m-referrals-2025-26/article/1943000",
+          "publishedOn": "2025-12-12T11:11:46.000Z",
+          "wordCount": 953,
+          "title": "GP use of advice and guidance could avoid 1.5m referrals in 2025/26",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-FlyViewProductions_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1942810",
           "author": null,
           "description": "Resident doctors are considering a fresh offer from the government as ministers seek to avert NHS strikes planned for next week - at a time when patients hospitalised with flu soared to a record level for this time of year.",
@@ -2110,6 +2130,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/raac-strategic-planning-assessment-of-the-raac-7-hospitals",
+          "author": null,
+          "description": "Independent analysis and assessment of the 7 hospital sites and plans for their maintenance, remaining expected life and clinical operational risks.",
+          "link": "https://www.gov.uk/government/publications/raac-strategic-planning-assessment-of-the-raac-7-hospitals",
+          "publishedOn": "2025-12-12T12:29:50.000Z",
+          "wordCount": 1101,
+          "title": "Independent report: RAAC strategic planning: assessment of the RAAC 7 hospitals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
           "author": null,
