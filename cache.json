@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4717 - Fortinet FortiWeb Authentication Bypass Vulnerability Under Zero-Day Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "842a2a47-9b2a-4bbd-b00a-91bcfbfa868f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisory addresses a critical vulnerability that could allow a remote unauthenticated attacker to execute arbitrary code\n Advisory addresses a critical vulnerability that could allow a remote unauthenticated attacker to execute arbitrary code\n Updated: 13 Nov 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4716",
-          "publishedOn": "2025-11-13T15:01:00.000Z",
-          "wordCount": null,
-          "title": "CC-4716 - Exploitation of WatchGuard Firebox OS Vulnerability CVE-2025-9242",
-          "imageUrl": null
         }
       ]
     },
@@ -1855,18 +1845,7 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": [
-        {
-          "id": "https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams",
-          "author": null,
-          "description": "Resources to help local commissioners achieve value for money by estimating the return on investment (ROI) and cost-effectiveness of public health programmes.",
-          "link": "https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams",
-          "publishedOn": "2025-11-13T14:48:47.000Z",
-          "wordCount": 3097,
-          "title": "Health economics: a guide for public health teams",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "All Blog Feed",
@@ -2111,16 +2090,6 @@
           "publishedOn": "2025-11-14T00:01:06.000Z",
           "wordCount": 1518,
           "title": "NHS patients urged to come forward for care as usual during resident doctors’ strikes",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=276511",
-          "author": "rwootton",
-          "description": "The NHS waiting list is 230,000 lower than July last year, even as the health service ‘approaches its limit’ with A&E and ambulances facing record demand ahead of winter. The overall waiting list for September was 7.39 million (an estimated 6.24 million patients) down 15,845 compared to the previous month and 230,000 fewer than July […]",
-          "link": "https://www.england.nhs.uk/2025/11/waiting-list-down-as-nhs-approaches-its-limit-ahead-of-strikes-and-flu/",
-          "publishedOn": "2025-11-13T13:21:06.000Z",
-          "wordCount": 1469,
-          "title": "Waiting list down as NHS ‘approaches its limit’ ahead of strikes and flu",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -4049,16 +4018,6 @@
           "publishedOn": "2025-11-14T07:30:56.000Z",
           "wordCount": null,
           "title": "Digital Health’s monthly roundup of contracts and go lives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=248847",
-          "author": "Jordan Sollof",
-          "description": "Mersey Care NHS Foundation Trust will establish a Secure Data Environment for mental health research in partnership with DATAMIND.",
-          "link": "https://www.digitalhealth.net/2025/11/mersey-care-to-launch-mental-health-research-data-platform/",
-          "publishedOn": "2025-11-13T13:30:07.000Z",
-          "wordCount": null,
-          "title": "Mersey Care to launch mental health research data platform",
           "imageUrl": null
         }
       ]
