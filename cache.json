@@ -1210,6 +1210,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1942743",
+          "author": null,
+          "description": "GP federations could hold the lease for new neighbourhood health centre premises - and clear arrangements are vital to avoid disputes between healthcare organisations sharing space within them, NHS leaders have suggested.",
+          "link": "https://www.gponline.com/gp-federations-could-hold-lease-neighbourhood-health-centre-premises/article/1942743",
+          "publishedOn": "2025-12-15T09:47:00.000Z",
+          "wordCount": 736,
+          "title": "GP federations 'could hold lease for neighbourhood health centre premises'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_premises_entrance-GettyImages-NickBeer_RF_6.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1943130",
+          "author": null,
+          "description": "GPs in Wales have agreed a long-overdue contract uplift for 2025/26 and a further uplift from April 2026 in a deal that averts a potential return to dispute.",
+          "link": "https://www.gponline.com/welsh-gps-agree-two-year-contract-package/article/1943130",
+          "publishedOn": "2025-12-15T08:57:15.000Z",
+          "wordCount": 722,
+          "title": "Welsh GPs agree two-year contract package",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Dr_Gareth_Oelmann-credit_Matthew_HorwoodBMA_14.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1943000",
           "author": null,
           "description": "GPs are on track to prevent more than 1.5m hospital referrals in 2025/26 after the rollout of a payment mechanism to incentivise use of advice and guidance - but the scheme looks set to fall short of government ambitions.",
@@ -2059,6 +2079,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme",
+          "author": null,
+          "description": "Advice has been accepted on eligibility from the Joint Committee on Vaccination and Immunisation (JCVI) for the spring 2026 COVID-19 vaccination programme.",
+          "link": "https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme",
+          "publishedOn": "2025-12-15T11:22:00.000Z",
+          "wordCount": 1227,
+          "title": "Advice accepted on spring 2026 COVID-19 vaccination programme",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/assistive-technology-research-and-development-work-2024-to-2025",
           "author": null,
