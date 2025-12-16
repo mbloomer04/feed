@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-16T09:19:17.322Z</updated>
+    <updated>2025-12-16T10:16:04.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Fuller inquiry: government interim update on phase 2 recommendations]]></title>
+        <id>https://www.gov.uk/government/publications/fuller-inquiry-government-interim-update-on-phase-2-recommendations</id>
+        <link href="https://www.gov.uk/government/publications/fuller-inquiry-government-interim-update-on-phase-2-recommendations"/>
+        <updated>2025-12-16T10:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Outlines progress made by government and relevant organisations in response to the recommendations made in phase 2 of the Fuller inquiry.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS dentistry contract: quality and payment reforms]]></title>
+        <id>https://www.gov.uk/government/consultations/nhs-dentistry-contract-quality-and-payment-reforms</id>
+        <link href="https://www.gov.uk/government/consultations/nhs-dentistry-contract-quality-and-payment-reforms"/>
+        <updated>2025-12-16T09:47:46.000Z</updated>
+        <summary type="html"><![CDATA[This consultation seeks views on proposals on quality and payment reforms for NHS dentistry in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: NHS cost recovery - overseas visitors]]></title>
         <id>https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors</id>
