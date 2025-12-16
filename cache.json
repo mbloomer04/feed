@@ -2100,6 +2100,66 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
+          "author": null,
+          "description": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+          "link": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
+          "publishedOn": "2025-12-16T16:00:08.000Z",
+          "wordCount": 880,
+          "title": "Transparency data: DHSC: special advisers' gifts, hospitality and meetings, July to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2025",
+          "author": null,
+          "description": "All data on senior officials’ business expenses, external meetings and hospitality.",
+          "link": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2025",
+          "publishedOn": "2025-12-16T16:00:08.000Z",
+          "wordCount": 856,
+          "title": "Transparency data: DHSC: senior officials’ business expenses, hospitality and meetings, July to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-ministerial-travel-and-meetings-july-to-september-2025",
+          "author": null,
+          "description": "Data on ministers' external meetings and any overseas travel.",
+          "link": "https://www.gov.uk/government/publications/dhsc-ministerial-travel-and-meetings-july-to-september-2025",
+          "publishedOn": "2025-12-16T16:00:07.000Z",
+          "wordCount": 809,
+          "title": "Transparency data: DHSC: ministerial travel and meetings, July to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-gender-pay-gap-report-and-data-2025",
+          "author": null,
+          "description": "Data on the difference in employees’ average earnings from 1 April 2024 to 31 March 2025.",
+          "link": "https://www.gov.uk/government/publications/dhsc-gender-pay-gap-report-and-data-2025",
+          "publishedOn": "2025-12-16T16:00:05.000Z",
+          "wordCount": 824,
+          "title": "Transparency data: DHSC: gender pay gap report and data 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-july-to-september-2025",
+          "author": null,
+          "description": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+          "link": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-july-to-september-2025",
+          "publishedOn": "2025-12-16T16:00:03.000Z",
+          "wordCount": 872,
+          "title": "Transparency data: DHSC: business appointment rules advice, July to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-advice-from-uk-cmos-during-a-national-power-outage",
+          "author": null,
+          "description": "Scripts containing public health advice from the UK's 4 Chief Medical Officers (CMOs) to be broadcast during a national power outage.",
+          "link": "https://www.gov.uk/government/publications/public-health-advice-from-uk-cmos-during-a-national-power-outage",
+          "publishedOn": "2025-12-16T16:00:01.000Z",
+          "wordCount": 1169,
+          "title": "Independent report: Public health advice from UK CMOs during a national power outage",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
           "author": null,
           "description": "Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
