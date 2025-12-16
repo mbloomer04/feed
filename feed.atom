@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-16T14:16:51.051Z</updated>
+    <updated>2025-12-16T15:16:36.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notice: Life Sciences Healthcare Goals]]></title>
+        <id>https://www.gov.uk/government/publications/life-sciences-healthcare-goals</id>
+        <link href="https://www.gov.uk/government/publications/life-sciences-healthcare-goals"/>
+        <updated>2025-12-16T14:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Bringing together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First stages announced for Digital Health Rewired 2026]]></title>
         <id>https://www.digitalhealth.net/?p=252631</id>
