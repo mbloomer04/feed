@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-17T12:28:47.736Z</updated>
+    <updated>2025-12-17T13:28:53.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: List of family hub sites]]></title>
+        <id>https://www.gov.uk/government/publications/list-of-family-hub-sites</id>
+        <link href="https://www.gov.uk/government/publications/list-of-family-hub-sites"/>
+        <updated>2025-12-17T12:59:42.000Z</updated>
+        <summary type="html"><![CDATA[A list of each family hub location in England funded by government.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Wide gap' between BMA pay demands and affordability, MPs told]]></title>
+        <id>https://www.gponline.com/article/1943434</id>
+        <link href="https://www.gponline.com/wide-gap-bma-pay-demands-affordability-mps-told/article/1943434"/>
+        <updated>2025-12-17T11:54:59.000Z</updated>
+        <summary type="html"><![CDATA[There is a 'very wide gap' between BMA demands on pay and what the government can afford, health and social care secretary Wes Streeting has told MPs - in a claim that offers little hope of a swift resolution as a five-day strike by resident doctors began.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP News Update: Online access concerns, Welsh GP contract deal, GP job availability]]></title>
         <id>https://www.gponline.com/article/1943381</id>
