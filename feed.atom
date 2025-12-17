@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-17T11:14:19.713Z</updated>
+    <updated>2025-12-17T12:28:47.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,17 @@
         <summary type="html"><![CDATA[Report bringing together data on the delivery of globally-competitive clinical research across the UK.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO hosts the second Global Summit to advance evidence, integration and innovation for traditional medicine]]></title>
+        <id>urn:uuid:6c150bb1-3a96-4ac1-8cfd-ce0cc5b8828d</id>
+        <link href="https://www.who.int/news/item/17-12-2025-who-hosts-the-second-global-summit-to-advance-evidence--integration-and-innovation-for-traditional-medicine"/>
+        <updated>2025-12-17T08:09:29.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO)’s Second Global Summit on Traditional Medicine, jointly organized with the Government of India, opens today, bringing together government ministers, scientists, Indigenous leaders, and practitioners from more than 100 countries. The Summit is expected to announce major scientific initiatives and new commitments aimed at advancing the implementation of the  WHO Global Traditional Medicine Strategy 2025–2034, centred on stronger evidence, better regulation, systems integration, collaboration and community engagement. 
+Traditional medicine (TM) encompasses codified and non-codified systems that predate biomedicine and have continued to evolve for contemporary use. For many, TM remains the main source of health care—locally accessible, affordable and bio-cul…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2795,16 +2806,6 @@ The report highlights the need to strengthen surveillance, improve diagnostic ca
         <summary type="html"><![CDATA[An apprenticeship programme is being launched to equip NHS staff with the critical skills needed to use the federated data platform.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs need more support to prevent winter respiratory crisis, experts warn]]></title>
-        <id>https://www.gponline.com/article/1940039</id>
-        <link href="https://www.gponline.com/gps-need-support-prevent-winter-respiratory-crisis-experts-warn/article/1940039"/>
-        <updated>2025-11-18T00:05:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs need more support to prioritise high-risk respiratory patients to prevent a winter catastrophe, experts have warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
