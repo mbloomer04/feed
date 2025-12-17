@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-17T10:17:25.730Z</updated>
+    <updated>2025-12-17T11:14:19.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP News Update: Online access concerns, Welsh GP contract deal, GP job availability]]></title>
+        <id>https://www.gponline.com/article/1943381</id>
+        <link href="https://www.gponline.com/gp-news-update-online-access-concerns-welsh-gp-contract-deal-gp-job-availability/article/1943381"/>
+        <updated>2025-12-17T10:43:47.000Z</updated>
+        <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: UK clinical research delivery key performance indicators]]></title>
         <id>https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators</id>
