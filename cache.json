@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b94a121d-69ca-4003-8ec4-dc11f3c6e65f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2025-20393 could allow an attacker to execute arbitrary code with root privileges\n CVE-2025-20393 could allow an attacker to execute arbitrary code with root privileges\n Updated: 18 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4732",
+          "publishedOn": "2025-12-18T13:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4732 - Ongoing Exploitation Campaign affecting Cisco Secure Email Gateway And Cisco Secure Email and Web Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "2be78fbd-7346-4f5d-954d-194b0cae1907",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses a critical severity vulnerability in the Apache Commons Text library that could lead to remote code execution in Claris FileMaker Server\n Security update addresses a critical severity vulnerability in the Apache Commons Text library that could lead to remote code execution in Claris FileMaker Server\n Updated: 18 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4730",
+          "publishedOn": "2025-12-18T13:19:00.000Z",
+          "wordCount": null,
+          "title": "CC-4730 - Remote Code Execution Vulnerability Affecting Apache Commons Text",
+          "imageUrl": null
+        },
+        {
           "id": "228756b2-4af5-463c-87af-7353ab636321",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could lead to arbitrary local file disclosure, unauthorised access to NetSupport Manager and remote code execution in the context of the NetSupport Manager connectivity service.\n Successful exploitation could lead to arbitrary local file disclosure, unauthorised access to NetSupport Manager and remote code execution in the context of the NetSupport Manager connectivity service.\n Updated: 17 Dec 2025",
@@ -1199,6 +1219,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1943554",
+          "author": null,
+          "description": "GPs are responsible for 15% more patients on average than a decade ago - despite a rise in the GP workforce over the past year and a spike in recruitment through the additional roles reimbursment scheme (ARRS). GPonline looks at how workforce changes compare with patients and appointments.",
+          "link": "https://www.gponline.com/gp-workforce-rising-workload-far-outstrips-level-decade-ago/article/1943554",
+          "publishedOn": "2025-12-18T11:14:43.000Z",
+          "wordCount": 771,
+          "title": "GP workforce rising but workload far outstrips level a decade ago",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_20.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1943455",
           "author": null,

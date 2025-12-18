@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-18T12:28:20.333Z</updated>
+    <updated>2025-12-18T13:31:59.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4732 - Ongoing Exploitation Campaign affecting Cisco Secure Email Gateway And Cisco Secure Email and Web Manager]]></title>
+        <id>b94a121d-69ca-4003-8ec4-dc11f3c6e65f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4732"/>
+        <updated>2025-12-18T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2025-20393 could allow an attacker to execute arbitrary code with root privileges
+ CVE-2025-20393 could allow an attacker to execute arbitrary code with root privileges
+ Updated: 18 Dec 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4730 - Remote Code Execution Vulnerability Affecting Apache Commons Text]]></title>
+        <id>2be78fbd-7346-4f5d-954d-194b0cae1907</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4730"/>
+        <updated>2025-12-18T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update addresses a critical severity vulnerability in the Apache Commons Text library that could lead to remote code execution in Claris FileMaker Server
+ Security update addresses a critical severity vulnerability in the Apache Commons Text library that could lead to remote code execution in Claris FileMaker Server
+ Updated: 18 Dec 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=252891</id>
@@ -14,6 +40,16 @@
         <summary type="html"><![CDATA[Your morning summary of digital health news, information and events to know about if you want to be “in the know”. 👇 News 🧒 Kooth, a provider of digital mental health services, has announced the acquisition of US paediatric digital health company Kismet Health’s telehealth platform. The platform has been designed with interactive and age-appropriate […]]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP workforce rising but workload far outstrips level a decade ago]]></title>
+        <id>https://www.gponline.com/article/1943554</id>
+        <link href="https://www.gponline.com/gp-workforce-rising-workload-far-outstrips-level-decade-ago/article/1943554"/>
+        <updated>2025-12-18T11:14:43.000Z</updated>
+        <summary type="html"><![CDATA[GPs are responsible for 15% more patients on average than a decade ago - despite a rise in the GP workforce over the past year and a spike in recruitment through the additional roles reimbursment scheme (ARRS). GPonline looks at how workforce changes compare with patients and appointments.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
