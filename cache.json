@@ -3450,6 +3450,16 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=253229",
+          "author": "Jordan Sollof",
+          "description": "A study has found that some AI tools produce hallucinations when asked to remove patient information from electronic patient records.",
+          "link": "https://www.digitalhealth.net/2025/12/llms-hallucinate-when-removing-patient-info-from-epr-finds-study/",
+          "publishedOn": "2025-12-18T07:30:43.000Z",
+          "wordCount": 6532,
+          "title": "LLMs hallucinate when removing patient info from EPR, finds study",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/12/Medical-worker-AI.jpg"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=253431",
           "author": "Jordan Sollof",
           "description": "Guy’s and St Thomas’ NHS Foundation Trust has partnered with NTT DATA to create a Secure Data Environment (SDE).",

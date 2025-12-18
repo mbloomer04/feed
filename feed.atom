@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-18T07:16:28.332Z</updated>
+    <updated>2025-12-18T08:19:49.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLMs hallucinate when removing patient info from EPR, finds study]]></title>
+        <id>https://www.digitalhealth.net/?p=253229</id>
+        <link href="https://www.digitalhealth.net/2025/12/llms-hallucinate-when-removing-patient-info-from-epr-finds-study/"/>
+        <updated>2025-12-18T07:30:43.000Z</updated>
+        <summary type="html"><![CDATA[A study has found that some AI tools produce hallucinations when asked to remove patient information from electronic patient records.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Enabling working group reports: 10 Year Health Plan for England]]></title>
         <id>https://www.gov.uk/government/publications/enabling-working-group-reports-10-year-health-plan-for-england</id>
