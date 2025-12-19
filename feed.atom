@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-19T09:17:43.154Z</updated>
+    <updated>2025-12-19T10:14:50.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Super partnerships, AI regulation and the future of general practice]]></title>
+        <id>https://www.gponline.com/article/1943547</id>
+        <link href="https://www.gponline.com/podcast-super-partnerships-ai-regulation-future-general-practice/article/1943547"/>
+        <updated>2025-12-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Dr Vish Ratnasuriya, a GP partner and elected chair of Our Health Partnership, one of the UK’s largest super partnerships, and a member of the National Commission for the Regulation of AI in Healthcare.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS GP software supplier hit by cyber attack]]></title>
         <id>https://www.digitalhealth.net/?p=253741</id>
