@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9796726c-61fc-4d5b-bd5a-a8310def018b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Updated: 19 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4733",
+          "publishedOn": "2025-12-19T13:25:00.000Z",
+          "wordCount": null,
+          "title": "CC-4733 - Critical Vulnerability in WatchGuard Firebox Under Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "a72cca21-6a30-4897-96ec-dd89595d5007",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n When chained together, CVE-2025-40602 and CVE-2025-23006 could lead to unauthenticated remote code execution with root privileges\n When chained together, CVE-2025-40602 and CVE-2025-23006 could lead to allow for unauthenticated remote code execution with root privileges\n Updated: 18 Dec 2025",

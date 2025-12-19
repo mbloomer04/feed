@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-19T12:27:17.699Z</updated>
+    <updated>2025-12-19T13:28:09.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4733 - Critical Vulnerability in WatchGuard Firebox Under Exploitation]]></title>
+        <id>9796726c-61fc-4d5b-bd5a-a8310def018b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4733"/>
+        <updated>2025-12-19T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.
+ Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.
+ Updated: 19 Dec 2025]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneAdvanced acquires online GP triage firm Patchs Health]]></title>
         <id>https://www.digitalhealth.net/?p=253625</id>
