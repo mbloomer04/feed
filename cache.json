@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4721 - Exploited Vulnerability in Oracle Fusion Identity Manager",
           "imageUrl": null
-        },
-        {
-          "id": "b304f7b8-6ec6-4d9f-82b3-b1d9a4eebdea",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands\n Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands\n Updated: 19 Nov 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4720",
-          "publishedOn": "2025-11-19T12:54:00.000Z",
-          "wordCount": null,
-          "title": "CC-4720 - Exploitation of Fortinet FortiWeb Vulnerability CVE-2025-58034",
-          "imageUrl": null
         }
       ]
     },
@@ -2069,6 +2059,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/dame-carol-black-appointed-as-independent-advisor-on-drugs",
+          "author": null,
+          "description": "Dame Carol Black GBE has been appointed to the role of independent advisor to the UK government on drugs for a 3-year term until November 2028.",
+          "link": "https://www.gov.uk/government/news/dame-carol-black-appointed-as-independent-advisor-on-drugs",
+          "publishedOn": "2025-12-19T00:01:03.000Z",
+          "wordCount": 1251,
+          "title": "Dame Carol Black appointed as independent advisor on drugs",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/adult-social-care-priorities-for-local-authorities",
           "author": null,
           "description": "Sets out national priority outcomes, expectations and notional allocations for local authorities that deliver adult social care services.",
@@ -3461,16 +3461,6 @@
           "wordCount": 3504,
           "title": "Measles deaths down 88% since 2000, but cases surge",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/measles/child-vaccination-in-gaza.tmb-1200v.jpg?sfvrsn=5f8992b5_5"
-        },
-        {
-          "id": "urn:uuid:131cf481-74f5-42f2-aaff-aac112c0871f",
-          "author": null,
-          "description": "Violence against women remains one of the world’s most persistent and under-addressed human rights crises, with very little progress in two decades, according to a landmark report released today by the World Health Organization (WHO) and UN partners.\nNearly 1 in 3 women – estimated 840 million globally – have experienced partner or sexual violence during their lifetime, a figure that has barely changed since 2000. In the last 12 months alone, 316 million women – 11% of those aged 15 or older – were subjected to physical or sexual violence by an intimate partner. Progress on reducing intimate partner violence has been painfully slow with only 0.2% annual decline over the past two decades.\nFor the first time, the report includes national and regional estimates of sexual violence by someone o…",
-          "link": "https://www.who.int/news/item/19-11-2025-lifetime-toll--840-million-women-faced-partner-or-sexual-violence",
-          "publishedOn": "2025-11-19T11:34:26.000Z",
-          "wordCount": 4047,
-          "title": "Lifetime toll: 840 million women faced partner or sexual violence",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/16-days-of-activism-against-gender-based-violence/2025/16-days-of-activism-demo-bangladesh.tmb-1200v.jpg?sfvrsn=ab6bac43_1"
         }
       ]
     },

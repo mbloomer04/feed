@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-18T23:13:24.749Z</updated>
+    <updated>2025-12-19T01:06:00.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dame Carol Black appointed as independent advisor on drugs]]></title>
+        <id>https://www.gov.uk/government/news/dame-carol-black-appointed-as-independent-advisor-on-drugs</id>
+        <link href="https://www.gov.uk/government/news/dame-carol-black-appointed-as-independent-advisor-on-drugs"/>
+        <updated>2025-12-19T00:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Dame Carol Black GBE has been appointed to the role of independent advisor to the UK government on drugs for a 3-year term until November 2028.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Adult social care priorities for local authorities]]></title>
         <id>https://www.gov.uk/government/publications/adult-social-care-priorities-for-local-authorities</id>
@@ -2826,31 +2836,6 @@ For the past 3 years, we have been on a mission to make integration easier with
         <summary type="html"><![CDATA[North West Ambulance Service NHS Trust (NWAS) will digitise its medicine inventory process with a digital pharmacy stock management solution.]]></summary>
         <author>
             <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4720 - Exploitation of Fortinet FortiWeb Vulnerability CVE-2025-58034]]></title>
-        <id>b304f7b8-6ec6-4d9f-82b3-b1d9a4eebdea</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4720"/>
-        <updated>2025-11-19T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands
- Advisory addresses a vulnerability that could allow an authenticated attacker to perform remote code execution via crafted HTTP requests or CLI commands
- Updated: 19 Nov 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifetime toll: 840 million women faced partner or sexual violence]]></title>
-        <id>urn:uuid:131cf481-74f5-42f2-aaff-aac112c0871f</id>
-        <link href="https://www.who.int/news/item/19-11-2025-lifetime-toll--840-million-women-faced-partner-or-sexual-violence"/>
-        <updated>2025-11-19T11:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Violence against women remains one of the world’s most persistent and under-addressed human rights crises, with very little progress in two decades, according to a landmark report released today by the World Health Organization (WHO) and UN partners.
-Nearly 1 in 3 women – estimated 840 million globally – have experienced partner or sexual violence during their lifetime, a figure that has barely changed since 2000. In the last 12 months alone, 316 million women – 11% of those aged 15 or older – were subjected to physical or sexual violence by an intimate partner. Progress on reducing intimate partner violence has been painfully slow with only 0.2% annual decline over the past two decades.
-For the first time, the report includes national and regional estimates of sexual violence by someone o…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
