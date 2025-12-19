@@ -3333,6 +3333,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:6f834fca-e408-48fe-a218-f3a0c88ab9a7",
+          "author": null,
+          "description": "The World Health Organization (WHO) has validated Brazil for the elimination of mother-to-child transmission (EMTCT) of HIV, making it the most populous country in the Americas to achieve this historic milestone. This accomplishment reflects Brazil’s long-standing commitment to universal and free access to health services through its Unified Health System (SUS), anchored in a strong primary health-care system and respect for human rights.\n“Eliminating mother-to-child transmission of HIV is a major public health achievement for any country, especially for a country as large and complex as Brazil,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Brazil has shown that with sustained political commitment and equitable access to quality health services, every country can ensure that …",
+          "link": "https://www.who.int/news/item/18-12-2025-who-validates-brazil-for-eliminating-mother-to-child-transmission-of-hiv",
+          "publishedOn": "2025-12-18T15:43:16.000Z",
+          "wordCount": 2700,
+          "title": "WHO validates Brazil for eliminating mother-to-child transmission of HIV",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hiv/mother_infant_peru_who.tmb-1200v.jpeg?sfvrsn=2e291463_1"
+        },
+        {
           "id": "urn:uuid:6c150bb1-3a96-4ac1-8cfd-ce0cc5b8828d",
           "author": null,
           "description": "The World Health Organization (WHO)’s Second Global Summit on Traditional Medicine, jointly organized with the Government of India, opens today, bringing together government ministers, scientists, Indigenous leaders, and practitioners from more than 100 countries. The Summit is expected to announce major scientific initiatives and new commitments aimed at advancing the implementation of the  WHO Global Traditional Medicine Strategy 2025–2034, centred on stronger evidence, better regulation, systems integration, collaboration and community engagement. \nTraditional medicine (TM) encompasses codified and non-codified systems that predate biomedicine and have continued to evolve for contemporary use. For many, TM remains the main source of health care—locally accessible, affordable and bio-cul…",
@@ -3439,6 +3449,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=253741",
+          "author": "Tammy Lovell",
+          "description": "DXS International which provides healthcare technology for the NHS has disclosed a cyber attack, which has led to data being stolen.",
+          "link": "https://www.digitalhealth.net/2025/12/nhs-gp-software-supplier-hit-by-cyber-attack/",
+          "publishedOn": "2025-12-19T07:30:19.000Z",
+          "wordCount": 6312,
+          "title": "NHS GP software supplier hit by cyber attack",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/06/shutterstock_317573678-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=253483",
           "author": "Jordan Sollof",
