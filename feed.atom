@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-20T03:09:43.194Z</updated>
+    <updated>2025-12-20T04:19:21.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The NHS is reminding the public to continue coming forward for care as normal over the last 2 days of strike action this weekend. This period of industrial action by resident doctors began at 7am on Wednesday 17 November and will continue until 7am on Monday 22 November. Despite rising flu cases and other winter […]]]></summary>
         <author>
             <name>rwootton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
+        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
+        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
+        <updated>2025-12-19T14:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
