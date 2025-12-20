@@ -1922,6 +1922,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=278385",
+          "author": "rwootton",
+          "description": "The NHS is reminding the public to continue coming forward for care as normal over the last 2 days of strike action this weekend. This period of industrial action by resident doctors began at 7am on Wednesday 17 November and will continue until 7am on Monday 22 November. Despite rising flu cases and other winter […]",
+          "link": "https://www.england.nhs.uk/2025/12/public-urged-to-use-nhs-as-normal-over-weekend-of-strike-action/",
+          "publishedOn": "2025-12-20T00:01:11.000Z",
+          "wordCount": 1206,
+          "title": "Public urged to use NHS as normal over weekend of strike action",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=278261",
           "author": "nowen",
           "description": "Hospitals in England are “on high alert” this week, amid industrial action and a continuing stream of winter viruses. Flu cases in hospital reached 3,140 by the end of last week – the highest ever for this time of year and up 18% on the week before. While the number of patients in hospital with […]",
@@ -3117,26 +3127,6 @@
           "wordCount": 1171,
           "title": "Plans for fair pay agreements in adult social care (easy read)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-social-care-survey-england-2025-to-2026",
-          "author": null,
-          "description": "Guidance and materials for the adult social care survey (ASCS) in England 2025 to 2026 survey year.",
-          "link": "https://www.gov.uk/government/publications/adult-social-care-survey-england-2025-to-2026",
-          "publishedOn": "2025-11-20T14:57:24.000Z",
-          "wordCount": 1376,
-          "title": "Guidance: Adult social care survey, England: 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "author": null,
-          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
-          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "publishedOn": "2025-11-20T13:46:13.000Z",
-          "wordCount": 2517,
-          "title": "Guidance: Child death overview panels: contacts",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -4087,16 +4077,6 @@
           "publishedOn": "2025-11-21T07:30:17.000Z",
           "wordCount": null,
           "title": "Government updates NHS IP guidance to speed up innovation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=250467",
-          "author": "Samuel Webb",
-          "description": "More than half of GP practices say that changes to online access had an adverse impact on patient care and staff, according to a BMA survey.",
-          "link": "https://www.digitalhealth.net/2025/11/half-of-gps-say-online-access-switch-has-hit-patient-care/",
-          "publishedOn": "2025-11-20T13:36:20.000Z",
-          "wordCount": null,
-          "title": "Online consultation changes have hit patient care, finds BMA",
           "imageUrl": null
         }
       ]
