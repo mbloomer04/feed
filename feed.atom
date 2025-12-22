@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-22T07:18:30.295Z</updated>
+    <updated>2025-12-22T08:21:02.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England quietly removes open source policy web pages]]></title>
+        <id>https://www.digitalhealth.net/?p=253869</id>
+        <link href="https://www.digitalhealth.net/2025/12/nhs-england-quietly-removes-open-source-policy-web-pages/"/>
+        <updated>2025-12-22T07:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Concerns have been raised that NHS England has removed all open-source policy pages from its websites without any explanation.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public urged to use NHS as normal over weekend of strike action]]></title>
         <id>https://www.england.nhs.uk/?p=278385</id>
