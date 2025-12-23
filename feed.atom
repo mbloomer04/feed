@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-23T09:18:14.675Z</updated>
+    <updated>2025-12-23T10:15:19.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government extends free NHS services for care leavers]]></title>
+        <id>https://www.gov.uk/government/news/government-extends-free-nhs-services-for-care-leavers</id>
+        <link href="https://www.gov.uk/government/news/government-extends-free-nhs-services-for-care-leavers"/>
+        <updated>2025-12-23T09:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Major boost for children leaving care with free prescriptions, dental and eyecare services.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mental Health Act patient info included in London Care Record]]></title>
         <id>https://www.digitalhealth.net/?p=253535</id>
