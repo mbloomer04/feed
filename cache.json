@@ -3107,16 +3107,6 @@
           "wordCount": 1048,
           "title": "Policy paper: Interministerial Group for Health and Social Care communiqué, 11 December 2024",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz",
-          "author": null,
-          "description": "Millions of Brits could boost their mood by spending five minutes taking a Healthy Choices Quiz launched by the government and the NHS.",
-          "link": "https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz",
-          "publishedOn": "2025-11-24T00:15:03.000Z",
-          "wordCount": 4619,
-          "title": "Millions to benefit from new health and wellbeing quiz",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3449,6 +3439,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=253585",
+          "author": "Samuel Webb",
+          "description": "Our Christmas Coffee Briefing features festive-themed news, including how lessons from the Covid pandemic can help ease NHS winter pressures.",
+          "link": "https://www.digitalhealth.net/2025/12/digital-health-christmas-coffee-briefing-%f0%9f%8e%84-2/",
+          "publishedOn": "2025-12-23T11:30:53.000Z",
+          "wordCount": 4545,
+          "title": "Digital Health Christmas Coffee Briefing 🎄",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/12/Coffee-Time-Christmas-edition.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=253535",
           "author": "Jordan Sollof",

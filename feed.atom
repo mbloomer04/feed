@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-23T11:12:52.893Z</updated>
+    <updated>2025-12-23T12:28:35.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Christmas Coffee Briefing 🎄]]></title>
+        <id>https://www.digitalhealth.net/?p=253585</id>
+        <link href="https://www.digitalhealth.net/2025/12/digital-health-christmas-coffee-briefing-%f0%9f%8e%84-2/"/>
+        <updated>2025-12-23T11:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Our Christmas Coffee Briefing features festive-themed news, including how lessons from the Covid pandemic can help ease NHS winter pressures.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government extends free NHS services for care leavers]]></title>
         <id>https://www.gov.uk/government/news/government-extends-free-nhs-services-for-care-leavers</id>
@@ -2802,16 +2812,6 @@ For the past 3 years, we have been on a mission to make integration easier with
         <summary type="html"><![CDATA[NHS Orkney has delayed the go-live of its new electronic patient record (EPR) due to “significant resource challenges”.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions to benefit from new health and wellbeing quiz]]></title>
-        <id>https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz</id>
-        <link href="https://www.gov.uk/government/news/millions-to-benefit-from-new-health-and-wellbeing-quiz"/>
-        <updated>2025-11-24T00:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Millions of Brits could boost their mood by spending five minutes taking a Healthy Choices Quiz launched by the government and the NHS.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
