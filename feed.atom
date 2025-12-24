@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-24T11:13:03.072Z</updated>
+    <updated>2025-12-24T12:27:55.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £500, November 2025]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-500-november-2025</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-500-november-2025"/>
+        <updated>2025-12-24T11:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Down Syndrome Act 2022 draft statutory guidance]]></title>
         <id>https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance</id>
@@ -2776,16 +2786,6 @@ The NHS has set an ambitious goal of achieving ‘net zero‘ carbon emissions b
         <summary type="html"><![CDATA[The Department of Health and Social Care plans to allow researchers access to patient data from the Covid-19 pandemic despite GPs' concerns.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personalised ‘living drug’ to offer “hope of cure” for aggressive leukaemia on NHS]]></title>
-        <id>https://www.england.nhs.uk/?p=276971</id>
-        <link href="https://www.england.nhs.uk/2025/11/personalised-living-drug-to-offer-hope-of-cure-for-aggressive-leukaemia-on-nhs/"/>
-        <updated>2025-11-25T00:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Patients with an aggressive form of leukaemia will be able to receive a breakthrough immunotherapy on the NHS that saw over three quarters of patients go into remission in trials. The CAR T-cell therapy – known as ‘obe-cel’ – involves taking a patient’s immune cells and reprogramming them in a lab to identify and target […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>
