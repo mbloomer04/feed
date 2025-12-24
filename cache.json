@@ -1988,6 +1988,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance",
+          "author": null,
+          "description": "This consultation seeks views on the draft statutory guidance issued under the Down Syndrome Act 2022.",
+          "link": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance",
+          "publishedOn": "2025-12-24T11:05:17.000Z",
+          "wordCount": 1305,
+          "title": "Down Syndrome Act 2022 draft statutory guidance",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance-easy-read",
+          "author": null,
+          "description": "We want to hear what people think about our draft guidance on Down syndrome.",
+          "link": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance-easy-read",
+          "publishedOn": "2025-12-24T10:52:15.000Z",
+          "wordCount": 1535,
+          "title": "Down Syndrome Act 2022 draft statutory guidance (easy read and BSL)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/down-syndrome-act-2022-guidance-call-for-evidence-easy-read",
+          "author": null,
+          "description": "We want your views on what should go into the Down Syndrome Act statutory guidance.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/down-syndrome-act-2022-guidance-call-for-evidence-easy-read",
+          "publishedOn": "2025-12-24T10:27:19.000Z",
+          "wordCount": 1857,
+          "title": "Down Syndrome Act 2022 guidance: call for evidence (easy read and BSL)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/government-extends-free-nhs-services-for-care-leavers",
           "author": null,
           "description": "Major boost for children leaving care with free prescriptions, dental and eyecare services.",
@@ -3046,16 +3076,6 @@
           "wordCount": 1323,
           "title": "Strengthening the Soft Drinks Industry Levy",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/chancellor-to-double-down-on-drive-to-cut-nhs-waiting-times-and-rollout-of-new-neighbourhood-health-centres",
-          "author": null,
-          "description": "250 Neighbourhood Health Centres to bring patient care closer to home and bring end to postcode lottery of healthcare access.",
-          "link": "https://www.gov.uk/government/news/chancellor-to-double-down-on-drive-to-cut-nhs-waiting-times-and-rollout-of-new-neighbourhood-health-centres",
-          "publishedOn": "2025-11-24T22:30:00.000Z",
-          "wordCount": 3525,
-          "title": "Chancellor to double down on drive to cut NHS waiting times and rollout of new Neighbourhood Health Centres",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3388,6 +3408,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=254019",
+          "author": "Jordan Sollof",
+          "description": "An end-of-year update released by NHS England says that the NHS App now has more than 39 million registered users.",
+          "link": "https://www.digitalhealth.net/2025/12/record-39-million-people-registered-for-the-nhs-app/",
+          "publishedOn": "2025-12-24T11:00:31.000Z",
+          "wordCount": 4363,
+          "title": "Record 39 million people registered for the NHS App",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/01/shutterstock_2186669317-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=250693",
+          "author": "Jordan Sollof",
+          "description": "Digital Health News has chosen the 10 news stories that got the most people talking in the world of digital health and tech in 2025.",
+          "link": "https://www.digitalhealth.net/2025/12/digital-healths-2025-review-top-10-news-stories/",
+          "publishedOn": "2025-12-24T10:00:45.000Z",
+          "wordCount": 7614,
+          "title": "Digital Health’s 2025 Review: Top 10 news stories",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/12/Top-10-Stories-of-2025.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=250359",
           "author": "Jordan Sollof",
