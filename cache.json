@@ -1778,16 +1778,6 @@
           "wordCount": 729,
           "title": "Low pay leaves GPs struggling to obtain visas for ARRS jobs",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins-GettyImages-Caymia.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1940867",
-          "author": null,
-          "description": "As the chancellor prepares to unveil the 2025 autumn budget on Wednesday, GPonline looks at what organisations representing GPs want to hear - and some of the concerns raised by financial experts.",
-          "link": "https://www.gponline.com/gps-want-chancellors-autumn-budget/article/1940867",
-          "publishedOn": "2025-11-24T12:30:10.000Z",
-          "wordCount": 731,
-          "title": "What do GPs want from the chancellor's autumn budget?",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Treasury-GettyImages-PeterDazeley_RF_4.jpg"
         }
       ]
     },
@@ -1891,6 +1881,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=278474",
+          "author": "nowen",
+          "description": "Record numbers of people are using the NHS App to manage their health, according to the latest statistics. The NHS has released a Spotify Wrapped-style end-of-year update which shows the NHS App now has more than 39 million registered users. A total of 67.8 million repeat prescriptions were also ordered through the app in the past 12 months (1 […]",
+          "link": "https://www.england.nhs.uk/2025/12/record-numbers-using-nhs-app-to-manage-health/",
+          "publishedOn": "2025-12-24T00:01:28.000Z",
+          "wordCount": 1454,
+          "title": "Record numbers using NHS App to manage health",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=278385",
           "author": "rwootton",
@@ -3076,26 +3076,6 @@
           "publishedOn": "2025-11-24T22:30:00.000Z",
           "wordCount": 3525,
           "title": "Chancellor to double down on drive to cut NHS waiting times and rollout of new Neighbourhood Health Centres",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communique-25-september-2025",
-          "author": null,
-          "description": "Details of the third meeting held by the Interministerial Group (IMG) for Health and Social Care.",
-          "link": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communique-25-september-2025",
-          "publishedOn": "2025-11-24T11:28:57.000Z",
-          "wordCount": 965,
-          "title": "Policy paper: Interministerial Group for Health and Social Care communiqué, 25 September 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
-          "author": null,
-          "description": "Details of the first meeting held by the Interministerial Group (IMG) for Health and Social Care.",
-          "link": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communiques",
-          "publishedOn": "2025-11-24T11:28:35.000Z",
-          "wordCount": 1048,
-          "title": "Policy paper: Interministerial Group for Health and Social Care communiqué, 11 December 2024",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
