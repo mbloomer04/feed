@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2025-12-24T07:18:07.568Z</updated>
+    <updated>2025-12-24T08:20:11.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s 2025 Review: Top 10 news stories]]></title>
+        <id>https://www.digitalhealth.net/?p=250359</id>
+        <link href="https://www.digitalhealth.net/2025/12/__trashed-4/"/>
+        <updated>2025-12-24T07:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Digital Health News has chosen the 10 news stories that got the most people talking in the world of digital health and tech in 2025.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Record numbers using NHS App to manage health]]></title>
         <id>https://www.england.nhs.uk/?p=278474</id>
