@@ -1701,7 +1701,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "0a49fff6-5cd5-44f8-bbff-25a5cc575680",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "The NHS App enables millions of people to access essential healthcare services, but some struggle to use it. Tanja Galloway, Lisa Collins and Simon Davis explore the challenges and share practical insights for making user research inclusive and accessible so no one is left behind.\n\r\n\r\nThe NHS App enables millions of people to access essential healthcare services. As part of the government’s 10 Year Health Plan, by 2028 the NHS App will become a full digital front door to the NHS. Yet for many, this digital future feels out of reach. \n\r\n\r\nSome risk being left behind due to barriers that prevent them from accessing, or confidently using, the NHS App.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/co-creating-the-digital-front-door-to-the-nhs",
+          "publishedOn": "2025-12-01T08:15:12.000Z",
+          "wordCount": null,
+          "title": "Co-creating the digital front door to the NHS",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -1740,6 +1751,16 @@
           "publishedOn": "2025-12-05T11:47:48.000Z",
           "wordCount": null,
           "title": "Do we need to drop the 'user'?",
+          "imageUrl": null
+        },
+        {
+          "id": "0a49fff6-5cd5-44f8-bbff-25a5cc575680",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "The NHS App enables millions of people to access essential healthcare services, but some struggle to use it. Tanja Galloway, Lisa Collins and Simon Davis explore the challenges and share practical insights for making user research inclusive and accessible so no one is left behind.\n\r\n\r\nThe NHS App enables millions of people to access essential healthcare services. As part of the government’s 10 Year Health Plan, by 2028 the NHS App will become a full digital front door to the NHS. Yet for many, this digital future feels out of reach. \n\r\n\r\nSome risk being left behind due to barriers that prevent them from accessing, or confidently using, the NHS App.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2025/co-creating-the-digital-front-door-to-the-nhs",
+          "publishedOn": "2025-12-01T08:15:12.000Z",
+          "wordCount": null,
+          "title": "Co-creating the digital front door to the NHS",
           "imageUrl": null
         }
       ]
@@ -1847,16 +1868,6 @@
           "publishedOn": "2025-12-02T22:30:03.000Z",
           "wordCount": 1545,
           "title": "‘Life-changing’ AI support helping stroke patients get a second chance",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=277188",
-          "author": "Tom W",
-          "description": "More than 8 million people submitted their GP request online during October 2025, up more than a fifth (21%) on the previous month and up more than two-thirds (68%) on last year. The new figures come as the NHS and government strive to make contacting your practice as easy as possible. Around 1 in 3 […]",
-          "link": "https://www.england.nhs.uk/2025/11/gps-managed-record-number-online-requests-october/",
-          "publishedOn": "2025-11-27T11:18:22.000Z",
-          "wordCount": 1553,
-          "title": "GPs managed record number of online requests in October",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2885,16 +2896,6 @@
           "wordCount": 1050,
           "title": "Transparency data: Department of Health and Social Care accounting officer assessments",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/blood-transfusion-patient-consent",
-          "author": null,
-          "description": "Recommendations from the advisory committee on the Safety of Blood, Tissues and Organs (SaBTO) on patient consent for blood transfusion.",
-          "link": "https://www.gov.uk/government/publications/blood-transfusion-patient-consent",
-          "publishedOn": "2025-11-27T11:30:03.000Z",
-          "wordCount": 1063,
-          "title": "Independent report: Blood transfusion: patient consent",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3785,16 +3786,6 @@
           "publishedOn": "2025-11-27T13:30:53.000Z",
           "wordCount": null,
           "title": "NHSE directors to discuss ‘shift to prevention’ at Rewired 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=250539",
-          "author": "Samuel Webb",
-          "description": "Today's briefing includes how brain stimulation can prevent depression relapses of major depressive disorder in 75% of patients.",
-          "link": "https://www.digitalhealth.net/2025/11/digital-health-coffee-time-briefing-%e2%98%95-124/",
-          "publishedOn": "2025-11-27T11:30:25.000Z",
-          "wordCount": null,
-          "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": null
         }
       ]
