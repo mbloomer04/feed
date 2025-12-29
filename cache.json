@@ -1731,6 +1731,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=278486",
+          "author": "nowen",
+          "description": "The former Chief Executive of NHS England and a clinician who set up a service for refugee doctors are among those recognised on the New Years Honours list, released today (Monday 29 December).  Around three dozen NHS staff including nurses, surgeons, and GPs have been recognised for their service. The head of the NHS, Sir […]",
+          "link": "https://www.england.nhs.uk/2025/12/nhs-former-chief-executive-among-health-service-honours/",
+          "publishedOn": "2025-12-29T22:30:39.000Z",
+          "wordCount": 1878,
+          "title": "NHS former chief executive among health service honours",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=278474",
           "author": "nowen",
           "description": "Record numbers of people are using the NHS App to manage their health, according to the latest statistics. The NHS has released a Spotify Wrapped-style end-of-year update which shows the NHS App now has more than 39 million registered users. A total of 67.8 million repeat prescriptions were also ordered through the app in the past 12 months (1 […]",
@@ -1837,6 +1847,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/new-year-honours-2026-ambulance-service-list",
+          "author": null,
+          "description": "Recipients of the King's Ambulance Service Medal 2026.",
+          "link": "https://www.gov.uk/government/publications/new-year-honours-2026-ambulance-service-list",
+          "publishedOn": "2025-12-29T22:30:00.000Z",
+          "wordCount": 769,
+          "title": "Transparency data: New Year Honours 2026: Ambulance Service list",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/expanding-access-to-naloxone-supply-and-emergency-use",
           "author": null,
