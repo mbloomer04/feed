@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f8c69e7a-706f-4370-bd1a-ca8b11f67ca2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n Updated: 30 Dec 2025",
+          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4734",
+          "publishedOn": "2025-12-30T09:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4734 - CVE-2025-14847 in MongoDB Under Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "9796726c-61fc-4d5b-bd5a-a8310def018b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Updated: 19 Dec 2025",
