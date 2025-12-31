@@ -1827,6 +1827,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/new-ambulances-deployed-to-boost-nhs-winter-response",
+          "author": null,
+          "description": "More than 500 new ambulances will be deployed in England to cut response times for patients in every region.",
+          "link": "https://www.gov.uk/government/news/new-ambulances-deployed-to-boost-nhs-winter-response",
+          "publishedOn": "2025-12-31T00:15:01.000Z",
+          "wordCount": 2360,
+          "title": "New ambulances deployed to boost NHS winter response",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/500-new-ambulances-deployed-to-boost-nhs-winter-response",
+          "author": null,
+          "description": "Patients and staff across the country are benefiting from a new fleet of over 500 ambulances.",
+          "link": "https://www.gov.uk/government/news/500-new-ambulances-deployed-to-boost-nhs-winter-response",
+          "publishedOn": "2025-12-31T00:01:04.000Z",
+          "wordCount": 2348,
+          "title": "500 new ambulances deployed to boost NHS winter response",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-october-2025",
           "author": null,
           "description": "Reports on departmental spending over £25,000.",
@@ -2959,16 +2979,6 @@
           "wordCount": 2965,
           "title": "New tools saved a million lives from malaria last year but progress under threat as drug resistance rises",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/child-with-malaria.tmb-1200v.jpg?sfvrsn=f0febc41_1"
-        },
-        {
-          "id": "urn:uuid:d374f67c-08ed-43b6-ba44-66ff3711bd3c",
-          "author": null,
-          "description": "To address the growing global health challenge of obesity, which affects more than 1 billion people, WHO has released its first guideline on the use of Glucagon-Like Peptide-1 (GLP-1) therapies for treating obesity as a chronic, relapsing disease.",
-          "link": "https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity",
-          "publishedOn": "2025-12-01T13:00:25.000Z",
-          "wordCount": 3020,
-          "title": "WHO issues global guideline on the use of GLP-1 medicines in treating obesity",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who_homepage/beach-walk-trinidad-and-tobago.tmb-1200v.jpg?sfvrsn=cebec128_6"
         }
       ]
     },
