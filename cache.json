@@ -1578,16 +1578,6 @@
           "wordCount": 949,
           "title": "How could 'wider consultation' shape the GP contract for 2026/27?",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/contract_GettyImages-shapecharge_RF_1.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1941912",
-          "author": null,
-          "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
-          "link": "https://www.gponline.com/gp-news-update-difficult-gp-contract-fears-neighbourhood-contracts-gp-funding-scotland/article/1941912",
-          "publishedOn": "2025-12-03T12:21:07.000Z",
-          "wordCount": 881,
-          "title": "GP News Update: 'Difficult' GP contract fears, neighbourhood contracts, GP funding in Scotland",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-Newsupdate_v4(1)_27.jpg"
         }
       ]
     },
@@ -1649,6 +1639,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=278495",
+          "author": "nowen",
+          "description": "Hundreds of thousands of families with young children will be offered protection against chickenpox as part of their routine childhood vaccinations from today. The NHS’s vaccination programme is being expanded to include chickenpox (also known as varicella) for the first time to help shield young children from getting seriously ill. From now on, GP practices will start to offer children a […]",
+          "link": "https://www.england.nhs.uk/2026/01/hundreds-of-thousands-of-young-children-now-to-be-protected-against-chickenpox/",
+          "publishedOn": "2026-01-02T00:01:21.000Z",
+          "wordCount": 1822,
+          "title": "Hundreds of thousands of young children now to be protected against chickenpox",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=278503",
           "author": "nowen",
@@ -2634,26 +2634,6 @@
           "publishedOn": "2025-12-04T09:30:04.000Z",
           "wordCount": 956,
           "title": "Guidance: Best Start Family Hubs and Healthy Babies: guidance for local authorities",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/infant-formula-government-response-to-cma-market-study",
-          "author": null,
-          "description": "The 4 nations response to the Competition and Markets Authority (CMA) market study into the UK infant and follow-on formula market.",
-          "link": "https://www.gov.uk/government/publications/infant-formula-government-response-to-cma-market-study",
-          "publishedOn": "2025-12-03T12:55:18.000Z",
-          "wordCount": 1028,
-          "title": "Policy paper: Infant formula: government response to CMA market study",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/government-brings-in-measures-to-help-tackle-child-poverty",
-          "author": null,
-          "description": "Savings for families on baby formula as government brings in measures to help tackle child poverty.",
-          "link": "https://www.gov.uk/government/news/government-brings-in-measures-to-help-tackle-child-poverty",
-          "publishedOn": "2025-12-03T12:49:37.000Z",
-          "wordCount": 2411,
-          "title": "Government brings in measures to help tackle child poverty",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
