@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4724 - Fortinet Releases Security Advisory for FortiCloud SSO Login Authentication Bypass",
           "imageUrl": null
-        },
-        {
-          "id": "a1f57062-9b76-4e41-ab90-e299d3a56a68",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n An attacker could exploit CVE-2025-55182 to perform remote code execution. CVE-2025-55182 affects React and dependent React frameworks such as Next.js.\n An attacker could exploit CVE-2025-55182 to perform remote code execution. CVE-2025-55182 affects React and dependent React frameworks such as Next.js.\n Updated: 04 Dec 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4723",
-          "publishedOn": "2025-12-04T13:43:00.000Z",
-          "wordCount": null,
-          "title": "CC-4723 - Critical Vulnerabilities in React and Next.js",
-          "imageUrl": null
         }
       ]
     },
@@ -2585,26 +2575,6 @@
           "wordCount": 3777,
           "title": "Review launched into mental health, autism and ADHD services",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2025-infections",
-          "author": null,
-          "description": "Professor Chris Whitty’s annual report considers trends, successes and challenges in preventing and treating infectious diseases.",
-          "link": "https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2025-infections",
-          "publishedOn": "2025-12-04T15:00:00.000Z",
-          "wordCount": 1377,
-          "title": "Independent report: Chief Medical Officer’s annual report 2025: infections",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026",
-          "author": null,
-          "description": "Non-executive appointments to the Department of Health and Social Care's public bodies and committees from April 2025 to March 2026.",
-          "link": "https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026",
-          "publishedOn": "2025-12-04T13:59:24.000Z",
-          "wordCount": 1623,
-          "title": "Guidance: DHSC public appointments: 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3335,16 +3305,6 @@
           "publishedOn": "2025-12-05T07:30:40.000Z",
           "wordCount": null,
           "title": "Movers and Shakers news roundup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=251895",
-          "author": "Jordan Sollof",
-          "description": "Velindre University NHS Trust has selected Better to deliver an electronic prescribing and medicines administration (ePMA).",
-          "link": "https://www.digitalhealth.net/2025/12/velindre-university-nhs-trust-to-roll-out-better-epma/",
-          "publishedOn": "2025-12-04T13:30:13.000Z",
-          "wordCount": null,
-          "title": "Velindre University NHS Trust to roll out Better ePMA",
           "imageUrl": null
         }
       ]
