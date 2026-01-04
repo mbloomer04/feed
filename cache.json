@@ -1571,18 +1571,7 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "63308682-ad38-41fd-9c2b-fce2600c1195",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "NHS Digital’s Head of User Research, Rochelle Gold, asks the question – is it time to drop the ‘user’ from user research?\n\r\n\r\nAs the Head of User Research, I often have conversations with people about what role user research plays in delivering great services. They can have very different levels of understanding of user research. Some really understand it, others have heard of it but don’t know what it is and some people have never heard of it and make incorrect assumptions.",
-          "link": "https://digital.nhs.uk/blog/design-matters/2021/do-we-need-to-drop-the-user",
-          "publishedOn": "2025-12-05T11:47:48.000Z",
-          "wordCount": null,
-          "title": "Do we need to drop the 'user'?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NHS England",
@@ -2504,16 +2493,6 @@
           "publishedOn": "2025-12-05T14:59:13.000Z",
           "wordCount": 949,
           "title": "Official Statistics: Health and social care statistical outputs consultation follow-up",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/digital-revolution-in-care-saves-millions-of-admin-hours",
-          "author": null,
-          "description": "Four in five care providers now use digital social care records, helping almost 90% of people who draw on care.",
-          "link": "https://www.gov.uk/government/news/digital-revolution-in-care-saves-millions-of-admin-hours",
-          "publishedOn": "2025-12-05T11:48:43.000Z",
-          "wordCount": 3773,
-          "title": "Digital revolution in care saves millions of admin hours",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
