@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-06T13:32:09.125Z</updated>
+    <updated>2026-01-06T14:15:56.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government of Jersey approves £7.9m for single patient record]]></title>
+        <id>https://www.digitalhealth.net/?p=254307</id>
+        <link href="https://www.digitalhealth.net/2026/01/government-of-jersey-approves-7-9m-for-single-patient-record/"/>
+        <updated>2026-01-06T13:30:43.000Z</updated>
+        <summary type="html"><![CDATA[The Government of Jersey has approved £7.9 million to implement a single patient record built on OpenEHR and invest in care coordination.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026</id>
