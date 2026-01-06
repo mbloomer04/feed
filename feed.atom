@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-06T11:13:02.223Z</updated>
+    <updated>2026-01-06T12:29:17.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=254003</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-131/"/>
+        <updated>2026-01-06T11:30:19.000Z</updated>
+        <summary type="html"><![CDATA[This briefing features PocDoc's partnership with Wilmslow Health Centre and Pharmacy2U gaining B Corp status.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale of private funding for new-build neighbourhood health centres revealed]]></title>
+        <id>https://www.gponline.com/article/1944239</id>
+        <link href="https://www.gponline.com/scale-private-funding-new-build-neighbourhood-health-centres-revealed/article/1944239"/>
+        <updated>2026-01-06T09:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Fewer than three in five neighbourhood health centres the government has promised by 2030 will be newly-built and the majority of these will be paid for by private finance, a health minister has confirmed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Menstrual health among priorities for NHS online hospital]]></title>
         <id>https://www.digitalhealth.net/?p=254349</id>
@@ -1911,16 +1931,6 @@ Traditional medicine (TM) encompasses codified and non-codified systems that pre
         <summary type="html"><![CDATA[Exclusive: The Professional Records Standards Body (PRSB) will relaunch in 2026 with a revised funding model, after NHSE ceased core funding.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS maternity signal system will spot and stop emerging safety concerns]]></title>
-        <id>https://www.england.nhs.uk/?p=277634</id>
-        <link href="https://www.england.nhs.uk/2025/12/nhs-maternity-signal-system-will-spot-and-stop-emerging-safety-concerns/"/>
-        <updated>2025-12-08T00:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Mothers and babies in England will receive safer care thanks to the roll out of a first-of-its-kind safety signal system across NHS maternity services. The sophisticated new tool rapidly analyses data being routinely recorded by maternity teams on wards to spot whether there are potential emerging safety issues which need urgent attention and action. If […]]]></summary>
-        <author>
-            <name>nowen</name>
         </author>
     </entry>
     <entry>

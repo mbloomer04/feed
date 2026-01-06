@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1944239",
+          "author": null,
+          "description": "Fewer than three in five neighbourhood health centres the government has promised by 2030 will be newly-built and the majority of these will be paid for by private finance, a health minister has confirmed.",
+          "link": "https://www.gponline.com/scale-private-funding-new-build-neighbourhood-health-centres-revealed/article/1944239",
+          "publishedOn": "2026-01-06T09:56:29.000Z",
+          "wordCount": 930,
+          "title": "Scale of private funding for new-build neighbourhood health centres revealed",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_premises_entrance-GettyImages-NickBeer_RF_7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1944173",
           "author": null,
           "description": "Draft NICE guidance on suspected cancer backs age-based blood test thresholds to help GPs identify ovarian cancer earlier.",
@@ -1706,16 +1716,6 @@
           "publishedOn": "2025-12-11T10:11:55.000Z",
           "wordCount": 1671,
           "title": "NHS facing ‘worst case scenario’ December amid ‘super flu’ surge",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=277634",
-          "author": "nowen",
-          "description": "Mothers and babies in England will receive safer care thanks to the roll out of a first-of-its-kind safety signal system across NHS maternity services. The sophisticated new tool rapidly analyses data being routinely recorded by maternity teams on wards to spot whether there are potential emerging safety issues which need urgent attention and action. If […]",
-          "link": "https://www.england.nhs.uk/2025/12/nhs-maternity-signal-system-will-spot-and-stop-emerging-safety-concerns/",
-          "publishedOn": "2025-12-08T00:01:48.000Z",
-          "wordCount": 1976,
-          "title": "NHS maternity signal system will spot and stop emerging safety concerns",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2786,6 +2786,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=254003",
+          "author": "Jordan Sollof",
+          "description": "This briefing features PocDoc's partnership with Wilmslow Health Centre and Pharmacy2U gaining B Corp status.",
+          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-131/",
+          "publishedOn": "2026-01-06T11:30:19.000Z",
+          "wordCount": 6263,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=254349",
           "author": "Jordan Sollof",
