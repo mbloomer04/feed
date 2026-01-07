@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-07T19:15:15.109Z</updated>
+    <updated>2026-01-07T20:16:26.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lack of clarity over neighbourhood contracts driving uncertainty for GPs]]></title>
+        <id>https://www.gponline.com/article/1944476</id>
+        <link href="https://www.gponline.com/lack-clarity-neighbourhood-contracts-driving-uncertainty-gps/article/1944476"/>
+        <updated>2026-01-07T18:06:12.000Z</updated>
+        <summary type="html"><![CDATA[A lack of clarity over neighbourhood contracts and how they will interact with the existing practice-based GMS contract is driving confusion and uncertainty among GPs, LMCs have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP News Update: GP suspension 'excessive', registrars delay qualifying, neighbourhood contracts]]></title>
         <id>https://www.gponline.com/article/1944423</id>
@@ -1911,16 +1921,6 @@ Traditional medicine (TM) encompasses codified and non-codified systems that pre
         <summary type="html"><![CDATA[Online access changes in general practice threaten a 'welfare timebomb' as GPs spend long hours alone triaging consultation requests, a sessional GP organisation has warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI note-taking tool helps speed up autism and ADHD assessments]]></title>
-        <id>https://www.digitalhealth.net/?p=252223</id>
-        <link href="https://www.digitalhealth.net/2025/12/ai-note-taking-tool-helps-speed-up-autism-and-adhd-assessments/"/>
-        <updated>2025-12-09T07:30:07.000Z</updated>
-        <summary type="html"><![CDATA[An NHS provider of ADHD and autism assessments found that using an AI clinical note-taking tool helped to reduce admin time for clinicians.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
