@@ -1575,7 +1575,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
+          "author": "enquiries@nhsdigital.nhs.uk (Darren Hickling)",
+          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
+          "publishedOn": "2026-01-08T14:11:36.000Z",
+          "wordCount": null,
+          "title": "A new way to find patients",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
