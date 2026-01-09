@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-08T23:12:49.245Z</updated>
+    <updated>2026-01-09T01:08:11.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1861,29 +1861,6 @@ Traditional medicine (TM) encompasses codified and non-codified systems that pre
         <summary type="html"><![CDATA[Staffordshire County Council will adopt System C’s social care platform for adult and children’s case management.]]></summary>
         <author>
             <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative medicines supported as rebate rate falls by a third]]></title>
-        <id>https://www.gov.uk/government/news/innovative-medicines-supported-as-rebate-rate-falls-by-a-third</id>
-        <link href="https://www.gov.uk/government/news/innovative-medicines-supported-as-rebate-rate-falls-by-a-third"/>
-        <updated>2025-12-10T13:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Further support provided for innovative medicines as the rebate rate falls by more than third for 2026]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4724 - Fortinet Releases Security Advisory for FortiCloud SSO Login Authentication Bypass]]></title>
-        <id>03b950a8-4d3c-401f-be61-e23ac7723f5e</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2025/cc-4724"/>
-        <updated>2025-12-10T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- The security advisory address two vulnerabilities that could allow an attacker to bypass the FortiCloud SSO login authentication via a crafted SAML message
- The security advisory address two vulnerabilities that could allow an attacker to bypass the FortiCloud SSO login authentication via a crafted SAML message
- Updated: 10 Dec 2025]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
