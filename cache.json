@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "CC-4728 - React Issues Additional Security Updates for  React Server Components",
           "imageUrl": null
-        },
-        {
-          "id": "7f222206-903b-4ff2-b5c4-8eafe5a84c2e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Security update addresses one exploited high severity vulnerability and two medium severity vulnerabilities in Google Chrome\n Updated: 11 Dec 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4727",
-          "publishedOn": "2025-12-11T13:08:00.000Z",
-          "wordCount": null,
-          "title": "CC-4727 - Google Releases Security Update for Chrome",
-          "imageUrl": null
         }
       ]
     },
@@ -1648,16 +1638,6 @@
           "wordCount": 1613,
           "title": "NHS urges patients to access care and get vaccinated, amid new doctors’ strike and high flu cases",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=277886",
-          "author": "Tom W",
-          "description": "A national patient safety alert has been issued by the NHS England National Patient Safety team – in collaboration with the Faculty of Intensive Care Medicine – about the risk of harm from incorrectly assembled breathing circuits lacking a proper exhalation route for patients receiving invasive or non-invasive ventilatory support. Risk associated with adult breathing […]",
-          "link": "https://www.england.nhs.uk/2025/12/risk-associated-adult-breathing-circuits-lacking-patent-exhalation-route/",
-          "publishedOn": "2025-12-11T15:01:07.000Z",
-          "wordCount": 1138,
-          "title": "Risk associated with adult breathing circuits lacking a patent exhalation route",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2315,36 +2295,6 @@
           "wordCount": 1675,
           "title": "Guidance: Adult Social Care Learning and Development Support Scheme",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the Senior Salaries Review Body (SSRB) by the Department of Health and Social Care and NHS England for the 2026 to 2027 pay round.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ssrb-pay-round-2026-to-2027",
-          "publishedOn": "2025-12-11T14:14:44.000Z",
-          "wordCount": 1224,
-          "title": "Policy paper: Joint DHSC and NHS England evidence for the SSRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) by the Department of Health and Social Care and NHS England for the 2026 to 2027 pay round.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-ddrb-pay-round-2026-to-2027",
-          "publishedOn": "2025-12-11T14:13:11.000Z",
-          "wordCount": 1207,
-          "title": "Policy paper: Joint DHSC and NHS England evidence for the DDRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
-          "author": null,
-          "description": "Evidence submitted to the NHS Pay Review Body (NHSPRB) by the Department of Health and Social Care and NHS England for the pay round 2026 to 2027.",
-          "link": "https://www.gov.uk/government/publications/dhsc-evidence-for-the-nhsprb-pay-round-2026-to-2027",
-          "publishedOn": "2025-12-11T14:12:51.000Z",
-          "wordCount": 1175,
-          "title": "Policy paper: Joint DHSC and NHS England evidence for the NHSPRB: pay round 2026 to 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2589,16 +2539,6 @@
           "wordCount": 3004,
           "title": "World leaders adopt a historic global declaration on noncommunicable diseases and mental health",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/un71128645.tmb-1200v.jpg?sfvrsn=a7e2ca2a_1"
-        },
-        {
-          "id": "urn:uuid:402d144b-3e37-46e2-af0c-f440f0b61432",
-          "author": null,
-          "description": "New analysis from a WHO global expert committee on vaccine safety has found that, based on available evidence, no causal link exists between vaccines and autism spectrum disorders (ASD). The conclusion reaffirms WHO’s position that childhood vaccines do not cause autism.",
-          "link": "https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism",
-          "publishedOn": "2025-12-11T15:09:10.000Z",
-          "wordCount": 1965,
-          "title": "WHO expert group’s new analysis reaffirms there is no link between vaccines and autism",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/immunization-campaign-in-gaza.tmb-1200v.jpg?sfvrsn=eded8185_1"
         }
       ]
     },
@@ -3055,16 +2995,6 @@
           "publishedOn": "2025-12-12T07:30:04.000Z",
           "wordCount": null,
           "title": "Digital Health’s monthly roundup of contracts and go lives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=252835",
-          "author": "Samuel Webb",
-          "description": "The UK and Singapore have launched a regulatory 'innovation corridor' to fast-track major medical advances and promising health technologies.",
-          "link": "https://www.digitalhealth.net/2025/12/uk-and-singapore-launch-innovation-corridor-to-speed-up-breakthrough-health-technologies/",
-          "publishedOn": "2025-12-11T13:30:23.000Z",
-          "wordCount": null,
-          "title": "UK and Singapore launch regulatory ‘innovation corridor’",
           "imageUrl": null
         }
       ]
