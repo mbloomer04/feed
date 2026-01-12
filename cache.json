@@ -1160,6 +1160,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1944791",
+          "author": null,
+          "description": "General practice must be rebuilt over the coming decade around its core strengths including continuity, comprehensiveness and person-centred care to avoid being ‘hollowed out by private medicine’, a policy expert has warned.",
+          "link": "https://www.gponline.com/nhs-10-years-avert-private-sector-threat-gps/article/1944791",
+          "publishedOn": "2026-01-12T11:10:43.000Z",
+          "wordCount": 726,
+          "title": "NHS has 10 years to avert private sector threat to GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS_GP_sign_9.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1944711",
+          "author": null,
+          "description": "A transcript of Talking General Practice’s recent interview with the new RCGP chair where she talked about how to restore joy and pride in general practice",
+          "link": "https://www.gponline.com/transcript-new-rcgp-chair-dr-victoria-tzortziou-brown-key-priorities/article/1944711",
+          "publishedOn": "2026-01-12T09:43:00.000Z",
+          "wordCount": 727,
+          "title": "Transcript: New RCGP chair Dr Victoria Tzortziou Brown on her key priorities",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeVictoriaTB_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1943240",
           "author": null,
           "description": "A patient in the Midlands turned up at their GP practice last year for an imaginary appointment created by the Meta AI feature on WhatsApp.",
@@ -2450,6 +2470,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:302cdb24-1d8d-4f0e-9005-992e37962720",
+          "author": null,
+          "description": "Today, the conflict in Sudan reaches its 1000th day, with over 20 million people requiring health assistance and 21 million desperately needing food.\nNearly three years of continuous violence, severe access constraints, and reduced funding have turned Sudan into the worst humanitarian crisis globally. An estimated 33.7 million people will need humanitarian aid this year.\nThe health system has been severely damaged by ongoing fighting, increasingly deadly attacks on health care, mass displacement, lack of essential medical supplies, and shortages of health personnel and funding. Despite sustained efforts by WHO and partners to restore and revive health services across the country, more than one third of health facilities (37%) remain non-functional, depriving millions of people of essential…",
+          "link": "https://www.who.int/news/item/09-01-2026-sudan-1000-days-of-war-deepen-the-world-s-worst-health-and-humanitarian-crisis",
+          "publishedOn": "2026-01-12T10:44:06.000Z",
+          "wordCount": 2513,
+          "title": "Sudan: 1000 days of war deepen the world’s worst health and humanitarian crisis",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/primary-health-care/people-walking-through-a-village-in-sudan.tmb-1200v.jpg?sfvrsn=37f77a44_1"
+        },
         {
           "id": "urn:uuid:71b85e7d-e0d0-4bf1-aeaa-3aaa29e8f224",
           "author": null,
