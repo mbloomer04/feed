@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-12T10:18:20.190Z</updated>
+    <updated>2026-01-12T11:13:43.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Details of NHS digital productivity programme leaked online]]></title>
+        <id>https://www.digitalhealth.net/?p=254867</id>
+        <link href="https://www.digitalhealth.net/2026/01/details-of-nhs-digital-productivity-programme-leaked-online/"/>
+        <updated>2026-01-12T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[An NHS programme to support the frontline in maximising productivity through the effective use of digital is expected to launch in April.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Royal National Orthopaedic Hospital goes live with Epic EHR]]></title>
         <id>https://www.digitalhealth.net/?p=254727</id>
