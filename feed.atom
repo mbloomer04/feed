@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-12T13:36:58.719Z</updated>
+    <updated>2026-01-12T14:18:18.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Northern Ireland deploys AI tool through Sectra to spot fractures]]></title>
+        <id>https://www.digitalhealth.net/?p=254947</id>
+        <link href="https://www.digitalhealth.net/2026/01/northern-ireland-deploys-ai-tool-through-sectra-to-spot-fractures/"/>
+        <updated>2026-01-12T13:30:41.000Z</updated>
+        <summary type="html"><![CDATA[AI that helps clinicians identify bone fractures has been deployed across Northern Ireland through Sectra Amplifier Services.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS has 10 years to avert private sector threat to GPs]]></title>
         <id>https://www.gponline.com/article/1944791</id>
