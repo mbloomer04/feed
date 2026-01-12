@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-12T07:21:06.354Z</updated>
+    <updated>2026-01-12T08:21:54.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Royal National Orthopaedic Hospital goes live with Epic EHR]]></title>
+        <id>https://www.digitalhealth.net/?p=254727</id>
+        <link href="https://www.digitalhealth.net/2026/01/royal-national-orthopaedic-hospital-goes-live-with-epic-ehr/"/>
+        <updated>2026-01-12T07:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Royal National Orthopaedic Hospital NHS Trust has gone live with an Epic electronic health record (EHR) across its three sites.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC group accounting manual 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2025-to-2026</id>
