@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-13T11:14:11.401Z</updated>
+    <updated>2026-01-13T12:30:30.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=254039</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-133/"/>
+        <updated>2026-01-13T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features features a partnership between Holly Health and GLL, and an NHS trust adopting Wolters Kluwer’s CDS solution.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Providing healthcare public health advice to integrated care boards]]></title>
+        <id>https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards</id>
+        <link href="https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards"/>
+        <updated>2026-01-13T11:25:12.000Z</updated>
+        <summary type="html"><![CDATA[This guidance explains how local authorities should give healthcare public health advice to integrated care boards.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melanie Ivarsson appointed CEO of Health Data Research Service]]></title>
         <id>https://www.digitalhealth.net/?p=255005</id>
@@ -17,6 +37,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Practices could face breach notices over PCN shape, GPs fear]]></title>
+        <id>https://www.gponline.com/article/1944930</id>
+        <link href="https://www.gponline.com/practices-face-breach-notices-pcn-shape-gps-fear/article/1944930"/>
+        <updated>2026-01-13T09:59:50.000Z</updated>
+        <summary type="html"><![CDATA[PCNs or member practices could be served contract breach notices if their network fails to meet geographical requirements set by NHS England as neighbourhoods take shape, GPs fear.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What NHS trusts get wrong in EPR rollouts]]></title>
         <id>https://www.digitalhealth.net/?p=254857</id>
         <link href="https://www.digitalhealth.net/2026/01/what-nhs-trusts-get-wrong-in-epr-rollouts/"/>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[Beverley Bryant, chief digital officer at three Dorset NHS trusts, discusses the challenges faced at different stages of EPR implementation.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government launches legislation to prioritise UK medical graduates]]></title>
+        <id>https://www.gponline.com/article/1944884</id>
+        <link href="https://www.gponline.com/government-launches-legislation-prioritise-uk-medical-graduates/article/1944884"/>
+        <updated>2026-01-12T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[UK medical graduates could be given greater priority for specialty training - including in general practice - in future as the government prepares to table legislation in parliament.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

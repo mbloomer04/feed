@@ -1160,6 +1160,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1944930",
+          "author": null,
+          "description": "PCNs or member practices could be served contract breach notices if their network fails to meet geographical requirements set by NHS England as neighbourhoods take shape, GPs fear.",
+          "link": "https://www.gponline.com/practices-face-breach-notices-pcn-shape-gps-fear/article/1944930",
+          "publishedOn": "2026-01-13T09:59:50.000Z",
+          "wordCount": 738,
+          "title": "Practices could face breach notices over PCN shape, GPs fear",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_22.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1944884",
+          "author": null,
+          "description": "UK medical graduates could be given greater priority for specialty training - including in general practice - in future as the government prepares to table legislation in parliament.",
+          "link": "https://www.gponline.com/government-launches-legislation-prioritise-uk-medical-graduates/article/1944884",
+          "publishedOn": "2026-01-12T22:30:00.000Z",
+          "wordCount": 716,
+          "title": "Government launches legislation to prioritise UK medical graduates",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/westminster_GettyImages-track5_RF_8.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1944791",
           "author": null,
           "description": "General practice must be rebuilt over the coming decade around its core strengths including continuity, comprehensiveness and person-centred care to avoid being ‘hollowed out by private medicine’, a policy expert has warned.",
@@ -1656,6 +1676,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards",
+          "author": null,
+          "description": "This guidance explains how local authorities should give healthcare public health advice to integrated care boards.",
+          "link": "https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards",
+          "publishedOn": "2026-01-13T11:25:12.000Z",
+          "wordCount": 893,
+          "title": "Guidance: Providing healthcare public health advice to integrated care boards",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/healthcare-innovator-appointed-to-health-data-research-service",
           "author": null,
@@ -2567,6 +2597,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=254039",
+          "author": "Jordan Sollof",
+          "description": "Today's briefing features features a partnership between Holly Health and GLL, and an NHS trust adopting Wolters Kluwer’s CDS solution.",
+          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-133/",
+          "publishedOn": "2026-01-13T11:30:10.000Z",
+          "wordCount": 6462,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=255005",
           "author": "Jordan Sollof",
