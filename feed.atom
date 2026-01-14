@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-14T18:22:57.336Z</updated>
+    <updated>2026-01-14T19:14:16.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.gponline.com/gp-news-update-young-gp-partners-freefall-pcn-breach-notice-fears-ai-books-imaginary-appointment/article/1945167"/>
         <updated>2026-01-14T16:27:29.000Z</updated>
         <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP job shortage among key threats to neighbourhood rollout, officials warn]]></title>
+        <id>https://www.gponline.com/article/1945182</id>
+        <link href="https://www.gponline.com/gp-job-shortage-among-key-threats-neighbourhood-rollout-officials-warn/article/1945182"/>
+        <updated>2026-01-14T14:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Upheaval in ICBs and a failure to create jobs to bring newly-qualified GPs into the NHS workforce are major threats to the rollout of neighbourhoods, a government document warns.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
