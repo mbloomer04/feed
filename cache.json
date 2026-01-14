@@ -1657,6 +1657,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill",
+          "author": null,
+          "description": "An impact statement supporting the Medical Training (Prioritisation) Bill introduced to the House of Commons on 13 January 2026.",
+          "link": "https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill",
+          "publishedOn": "2026-01-14T11:35:45.000Z",
+          "wordCount": 812,
+          "title": "Impact assessment: Impact statement: Medical Training (Prioritisation) Bill",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/evaluation-of-the-accelerating-reform-fund",
           "author": null,
           "description": "An evaluation of the Accelerating Reform Fund, which aimed to address barriers to adult social care innovation and improve support for unpaid carers in England.",
@@ -2305,16 +2315,6 @@
           "wordCount": 2944,
           "title": "Cutting edge cancer treatments set to be produced out of uranium",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/major-boost-for-millions-of-nhs-dental-patients",
-          "author": null,
-          "description": "New changes will enable patients to access urgent care easier",
-          "link": "https://www.gov.uk/government/news/major-boost-for-millions-of-nhs-dental-patients",
-          "publishedOn": "2025-12-16T00:01:07.000Z",
-          "wordCount": 3312,
-          "title": "Major boost for millions of NHS dental patients",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2587,6 +2587,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=255207",
+          "author": "Jordan Sollof",
+          "description": "As the NHS becomes more tech-savvy, “the real risk is not moving too fast, but moving too slowly,” says Wes Streeting, health secretary.",
+          "link": "https://www.digitalhealth.net/2026/01/the-risk-with-nhs-technology-is-moving-too-slowly-says-streeting/",
+          "publishedOn": "2026-01-14T11:22:39.000Z",
+          "wordCount": 6513,
+          "title": "The risk with NHS technology is moving too slowly, says Streeting",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/01/Wes-Streeting.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=255081",
           "author": "Tammy Lovell",
