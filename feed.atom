@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-14T16:20:48.599Z</updated>
+    <updated>2026-01-14T17:21:29.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP News Update: Young GP partners in freefall, PCN breach notice fears, AI books imaginary appointment]]></title>
+        <id>https://www.gponline.com/article/1945167</id>
+        <link href="https://www.gponline.com/gp-news-update-young-gp-partners-freefall-pcn-breach-notice-fears-ai-books-imaginary-appointment/article/1945167"/>
+        <updated>2026-01-14T16:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Catch up quickly with our weekly round-up of key news stories for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4736 - Fortinet Releases Security Updates for FortiOS and FortiSwitch Manager]]></title>
         <id>0c2fcbce-3446-4b68-b755-4b5cbaf4786b</id>
