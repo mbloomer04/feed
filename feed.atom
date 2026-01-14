@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-13T23:14:20.985Z</updated>
+    <updated>2026-01-14T01:10:13.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[The government has acknowledged that its flagship digital reforms face significant delivery risks, citing the history of NHS IT programmes.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheaper drinks will see a rise in noncommunicable diseases and injuries]]></title>
+        <id>urn:uuid:5641e0ad-a240-48bb-9e44-0ff1b647d597</id>
+        <link href="https://www.who.int/news/item/13-01-2026-cheaper-drinks-will-see-a-rise-in-noncommunicable-diseases-and-injuries"/>
+        <updated>2026-01-13T13:00:04.000Z</updated>
+        <summary type="html"><![CDATA[In two new global reports released today, the World Health Organization is calling on governments to significantly strengthen taxes on sugary drinks and alcoholic beverages. The reports warn that weak tax systems are allowing harmful products to remain cheap while health systems face mounting financial pressure from preventable noncommunicable diseases and injuries.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -1711,26 +1721,6 @@ Traditional medicine (TM) encompasses codified and non-codified systems that pre
         <summary type="html"><![CDATA[The NHS digital workforce plan may arrive too late to prevent the loss of critical skills across England’s ICBs, NHS digital leaders warned.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident doctors set for five-day walkout after rejecting government offer]]></title>
-        <id>https://www.gponline.com/article/1943165</id>
-        <link href="https://www.gponline.com/resident-doctors-set-five-day-walkout-rejecting-government-offer/article/1943165"/>
-        <updated>2025-12-15T12:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Resident doctors in England have voted overwhelmingly to reject a government offer on jobs and are set to press ahead with a five-day walkout starting on 17 December, the BMA has announced.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advice accepted on spring 2026 COVID-19 vaccination programme]]></title>
-        <id>https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme</id>
-        <link href="https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme"/>
-        <updated>2025-12-15T11:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Advice has been accepted on eligibility from the Joint Committee on Vaccination and Immunisation (JCVI) for the spring 2026 COVID-19 vaccination programme.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

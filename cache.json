@@ -1458,16 +1458,6 @@
           "wordCount": 750,
           "title": "GPs have raised concerns over online access in most ICB areas",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-typing-GettyImages-sturti_RF_11.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1943165",
-          "author": null,
-          "description": "Resident doctors in England have voted overwhelmingly to reject a government offer on jobs and are set to press ahead with a five-day walkout starting on 17 December, the BMA has announced.",
-          "link": "https://www.gponline.com/resident-doctors-set-five-day-walkout-rejecting-government-offer/article/1943165",
-          "publishedOn": "2025-12-15T12:50:44.000Z",
-          "wordCount": 731,
-          "title": "Resident doctors set for five-day walkout after rejecting government offer",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_62.jpg"
         }
       ]
     },
@@ -2305,16 +2295,6 @@
           "wordCount": 3312,
           "title": "Major boost for millions of NHS dental patients",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme",
-          "author": null,
-          "description": "Advice has been accepted on eligibility from the Joint Committee on Vaccination and Immunisation (JCVI) for the spring 2026 COVID-19 vaccination programme.",
-          "link": "https://www.gov.uk/government/news/advice-accepted-on-spring-2026-covid-19-vaccination-programme",
-          "publishedOn": "2025-12-15T11:22:00.000Z",
-          "wordCount": 1227,
-          "title": "Advice accepted on spring 2026 COVID-19 vaccination programme",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2510,6 +2490,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:5641e0ad-a240-48bb-9e44-0ff1b647d597",
+          "author": null,
+          "description": "In two new global reports released today, the World Health Organization is calling on governments to significantly strengthen taxes on sugary drinks and alcoholic beverages. The reports warn that weak tax systems are allowing harmful products to remain cheap while health systems face mounting financial pressure from preventable noncommunicable diseases and injuries.",
+          "link": "https://www.who.int/news/item/13-01-2026-cheaper-drinks-will-see-a-rise-in-noncommunicable-diseases-and-injuries",
+          "publishedOn": "2026-01-13T13:00:04.000Z",
+          "wordCount": 2357,
+          "title": "Cheaper drinks will see a rise in noncommunicable diseases and injuries",
+          "imageUrl": "https://www.who.int/images/default-source/departments/healthy-diet/who-056813-orig.tmb-1200v.jpg?Culture=en&sfvrsn=461121c8_7"
+        },
         {
           "id": "urn:uuid:302cdb24-1d8d-4f0e-9005-992e37962720",
           "author": null,
