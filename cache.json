@@ -1707,6 +1707,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/waiting-lists-cut-three-times-faster-in-highest-joblessness-areas",
+          "author": null,
+          "description": "Waiting lists in 20 areas in England fall three times faster than the national average thanks to experts deployed by government to help supercharge NHS care.",
+          "link": "https://www.gov.uk/government/news/waiting-lists-cut-three-times-faster-in-highest-joblessness-areas",
+          "publishedOn": "2026-01-14T22:30:01.000Z",
+          "wordCount": 2605,
+          "title": "Waiting lists cut three times faster in highest joblessness areas",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill",
           "author": null,
           "description": "An impact statement supporting the Medical Training (Prioritisation) Bill introduced to the House of Commons on 13 January 2026.",
@@ -2304,26 +2314,6 @@
           "publishedOn": "2025-12-16T14:57:59.000Z",
           "wordCount": 1161,
           "title": "Notice: Life Sciences Healthcare Goals",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/black-maternal-health-government-response-to-the-health-and-social-care-committee",
-          "author": null,
-          "description": "The government's response to recommendations made by the House of Commons Health and Social Care Committee's inquiry into Black maternal health.",
-          "link": "https://www.gov.uk/government/publications/black-maternal-health-government-response-to-the-health-and-social-care-committee",
-          "publishedOn": "2025-12-16T11:08:01.000Z",
-          "wordCount": 1298,
-          "title": "Policy paper: Black maternal health: government response to the Health and Social Care Committee",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/guidance/dhsc-annual-report-and-accounts-timetable",
-          "author": null,
-          "description": "Issue and submission dates for the Department of Health and Social Care’s annual report and accounts, covering the financial year 2025 to 2026.",
-          "link": "https://www.gov.uk/guidance/dhsc-annual-report-and-accounts-timetable",
-          "publishedOn": "2025-12-16T10:31:09.000Z",
-          "wordCount": 2282,
-          "title": "DHSC annual report and accounts timetable",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
