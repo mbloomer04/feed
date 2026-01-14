@@ -1160,6 +1160,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1945081",
+          "author": null,
+          "description": "MIMS Learning's Targeting Health Inequalities has been shortlisted in the Learning Awards 2026 - here's how you can vote to help it win.",
+          "link": "https://www.gponline.com/vote-mims-learning-win-learning-giveback-award/article/1945081",
+          "publishedOn": "2026-01-14T10:00:15.000Z",
+          "wordCount": 1239,
+          "title": "Vote for MIMS Learning to win the Learning Giveback Award",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/LPIAwards26_Giveback_finalistcopy.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1945014",
+          "author": null,
+          "description": "Expecting neighbourhoods to deliver immediate savings to the NHS is unrealistic, GPs have warned.",
+          "link": "https://www.gponline.com/unrealistic-expect-immediate-nhs-savings-neighbourhoods-gps-warn/article/1945014",
+          "publishedOn": "2026-01-13T16:10:29.000Z",
+          "wordCount": 696,
+          "title": "Unrealistic to expect immediate NHS savings from neighbourhoods, GPs warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_23.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1944930",
           "author": null,
           "description": "PCNs or member practices could be served contract breach notices if their network fails to meet geographical requirements set by NHS England as neighbourhoods take shape, GPs fear.",
@@ -1636,6 +1656,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/evaluation-of-the-accelerating-reform-fund",
+          "author": null,
+          "description": "An evaluation of the Accelerating Reform Fund, which aimed to address barriers to adult social care innovation and improve support for unpaid carers in England.",
+          "link": "https://www.gov.uk/government/publications/evaluation-of-the-accelerating-reform-fund",
+          "publishedOn": "2026-01-14T10:38:42.000Z",
+          "wordCount": 1224,
+          "title": "Research: Evaluation of the Accelerating Reform Fund",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/speeches/secretary-of-states-keynote-institute-for-government-speech",
           "author": null,
