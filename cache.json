@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0c2fcbce-3446-4b68-b755-4b5cbaf4786b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution\n Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution\n Updated: 14 Jan 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4736",
+          "publishedOn": "2026-01-14T13:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4736 - Fortinet Releases Security Updates for FortiOS and FortiSwitch Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "424a04f9-bb7c-4c0f-9f7f-1419dcf2d8c7",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 112 vulnerabilities, including an exploited information disclosure vulnerability and 2 others that have been publicly disclosed\n Scheduled updates for Microsoft products address 112 vulnerabilities, including an exploited information disclosure vulnerability and 2 others that have been publicly disclosed\n Updated: 14 Jan 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4735",
+          "publishedOn": "2026-01-14T13:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4735 - Microsoft Releases January 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "f8c69e7a-706f-4370-bd1a-ca8b11f67ca2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n Updated: 30 Dec 2025",
@@ -1159,6 +1179,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1945114",
+          "author": null,
+          "description": "Government plans to prioritise UK medical graduates for specialty training could guarantee almost all suitable UK applicants for general practice training are successful, NHS figures suggest.",
+          "link": "https://www.gponline.com/prioritising-uk-graduates-will-transform-competition-gp-training/article/1945114",
+          "publishedOn": "2026-01-14T11:26:36.000Z",
+          "wordCount": 716,
+          "title": "How prioritising UK graduates will transform competition for GP training",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consulting_room_creditRobertJohnsUNP-201412220249265751-2018031206200658_86.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1945081",
           "author": null,

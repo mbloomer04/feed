@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-14T12:30:06.422Z</updated>
+    <updated>2026-01-14T13:35:15.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4736 - Fortinet Releases Security Updates for FortiOS and FortiSwitch Manager]]></title>
+        <id>0c2fcbce-3446-4b68-b755-4b5cbaf4786b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4736"/>
+        <updated>2026-01-14T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution
+ Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution
+ Updated: 14 Jan 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4735 - Microsoft Releases January 2026 Security Updates]]></title>
+        <id>424a04f9-bb7c-4c0f-9f7f-1419dcf2d8c7</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4735"/>
+        <updated>2026-01-14T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products address 112 vulnerabilities, including an exploited information disclosure vulnerability and 2 others that have been publicly disclosed
+ Scheduled updates for Microsoft products address 112 vulnerabilities, including an exploited information disclosure vulnerability and 2 others that have been publicly disclosed
+ Updated: 14 Jan 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact assessment: Impact statement: Medical Training (Prioritisation) Bill]]></title>
         <id>https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill</id>
@@ -14,6 +40,16 @@
         <summary type="html"><![CDATA[An impact statement supporting the Medical Training (Prioritisation) Bill introduced to the House of Commons on 13 January 2026.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How prioritising UK graduates will transform competition for GP training]]></title>
+        <id>https://www.gponline.com/article/1945114</id>
+        <link href="https://www.gponline.com/prioritising-uk-graduates-will-transform-competition-gp-training/article/1945114"/>
+        <updated>2026-01-14T11:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Government plans to prioritise UK medical graduates for specialty training could guarantee almost all suitable UK applicants for general practice training are successful, NHS figures suggest.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
