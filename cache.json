@@ -1580,6 +1580,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=279137",
+          "author": "Tom W",
+          "description": "November saw the second biggest drop in the waiting list for 15 years outside of the early days of the pandemic, as new data today shows staff faced record demand in 2025. The waiting list fell by more than 86,000 in November to 7.31 million – and the milestone comes a year since the publication […]",
+          "link": "https://www.england.nhs.uk/2026/01/second-biggest-drop-nhs-waiting-list-15-years-record-number-patients/",
+          "publishedOn": "2026-01-15T09:52:50.000Z",
+          "wordCount": 1480,
+          "title": "Second biggest drop in NHS waiting list in 15 years amid record number of patients",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=278824",
           "author": "nowen",
           "description": "Christmas and New Year gatherings may have caused a bounce back in winter viruses, as the health service also grapples with a vicious cold snap. Figures published today show that the number of patients in hospital beds with flu has risen by 9% on the previous week (2,924), following two weeks where that number had fallen. […]",
@@ -2294,16 +2304,6 @@
           "publishedOn": "2025-12-17T09:30:03.000Z",
           "wordCount": 962,
           "title": "Official Statistics: UK clinical research delivery key performance indicators",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/abuse-victims-to-get-specialist-nhs-support",
-          "author": null,
-          "description": "A new referral service will connect victims with help through their GP and there's up to £50 million for therapeutic support for child victims of sexual abuse.",
-          "link": "https://www.gov.uk/government/news/abuse-victims-to-get-specialist-nhs-support",
-          "publishedOn": "2025-12-16T22:30:05.000Z",
-          "wordCount": 3110,
-          "title": "Abuse victims to get specialist NHS support",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
