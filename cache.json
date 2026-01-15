@@ -1707,6 +1707,66 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2020",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2020.",
+          "link": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2020",
+          "publishedOn": "2026-01-15T09:30:05.000Z",
+          "wordCount": 1934,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2020",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2023",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2023.",
+          "link": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2023",
+          "publishedOn": "2026-01-15T09:30:04.000Z",
+          "wordCount": 963,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2023",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-provider-statistics-england-quarterly-update-to-december-2025",
+          "author": null,
+          "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-provider-statistics-england-quarterly-update-to-december-2025",
+          "publishedOn": "2026-01-15T09:30:03.000Z",
+          "wordCount": 1132,
+          "title": "Official Statistics: Adult social care provider statistics, England: quarterly update to December 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "publishedOn": "2026-01-15T09:30:03.000Z",
+          "wordCount": 926,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-statistics-england-background-quality-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the statistics in its quarterly reports.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-statistics-england-background-quality-and-methodology",
+          "publishedOn": "2026-01-15T09:30:03.000Z",
+          "wordCount": 902,
+          "title": "Guidance: Adult social care provider statistics, England: background quality and methodology",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-client-level-data-england-background-quality-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the statistics in its quarterly reports.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-client-level-data-england-background-quality-and-methodology",
+          "publishedOn": "2026-01-15T09:30:03.000Z",
+          "wordCount": 861,
+          "title": "Guidance: Adult social care client level data, England: background quality and methodology",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/waiting-lists-cut-three-times-faster-in-highest-joblessness-areas",
           "author": null,
           "description": "Waiting lists in 20 areas in England fall three times faster than the national average thanks to experts deployed by government to help supercharge NHS care.",
