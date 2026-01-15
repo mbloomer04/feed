@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1945233",
+          "author": null,
+          "description": "Disproportionate referrals of ethnic minority and non-UK qualified doctors are more common in primary care-based designated bodies, with a GMC drive to bring down inequality making its greatest impact in secondary care, a report suggests.",
+          "link": "https://www.gponline.com/disproportionate-gmc-referrals-ethnic-minority-doctors-common-primary-care/article/1945233",
+          "publishedOn": "2026-01-15T09:52:37.000Z",
+          "wordCount": 752,
+          "title": "Disproportionate GMC referrals of ethnic minority doctors more common in primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GMC_sign_49.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1945167",
           "author": null,
           "description": "Catch up quickly with our weekly round-up of key news stories for general practice.",
@@ -1698,16 +1708,6 @@
           "wordCount": 1326,
           "title": "Hospitals on high alert amid strikes and winter viruses",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=278174",
-          "author": "jboshell",
-          "description": "The NHS is urging patients not to put off coming forward for care, with thousands of resident doctors expected to walk out on strike for five days from today. Industrial action begins at 7am today (Wednesday 17 December) – lasting until 7am on Monday 22 December – and hospital teams across the country are working […]",
-          "link": "https://www.england.nhs.uk/2025/12/nhs-urges-patients-to-access-care-and-get-vaccinated-amid-new-doctors-strike-and-high-flu-cases/",
-          "publishedOn": "2025-12-17T00:01:53.000Z",
-          "wordCount": 1613,
-          "title": "NHS urges patients to access care and get vaccinated, amid new doctors’ strike and high flu cases",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1716,6 +1716,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/patient-views-on-medical-devices-prescribed-to-them-outside-of-hospital-in-england",
+          "author": null,
+          "description": "Outcome of research into patient views on the use of medical devices prescribed under Part IX of the NHS Drug Tariff.",
+          "link": "https://www.gov.uk/government/publications/patient-views-on-medical-devices-prescribed-to-them-outside-of-hospital-in-england",
+          "publishedOn": "2026-01-15T11:18:37.000Z",
+          "wordCount": 1110,
+          "title": "Research: Patient views on medical devices prescribed to them outside of hospital in England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2020",
           "author": null,
@@ -2567,6 +2577,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=254047",
+          "author": "Jordan Sollof",
+          "description": "This briefing includes a partnership between Healthera and Uber Eats and Sanome's MEMORI platform being adopted by two major hospitals.",
+          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-134/",
+          "publishedOn": "2026-01-15T11:30:26.000Z",
+          "wordCount": 6371,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=255147",
           "author": "Jordan Sollof",

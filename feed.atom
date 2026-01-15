@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-15T11:14:10.711Z</updated>
+    <updated>2026-01-15T12:29:29.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=254047</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-134/"/>
+        <updated>2026-01-15T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[This briefing includes a partnership between Healthera and Uber Eats and Sanome's MEMORI platform being adopted by two major hospitals.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Patient views on medical devices prescribed to them outside of hospital in England]]></title>
+        <id>https://www.gov.uk/government/publications/patient-views-on-medical-devices-prescribed-to-them-outside-of-hospital-in-england</id>
+        <link href="https://www.gov.uk/government/publications/patient-views-on-medical-devices-prescribed-to-them-outside-of-hospital-in-england"/>
+        <updated>2026-01-15T11:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Outcome of research into patient views on the use of medical devices prescribed under Part IX of the NHS Drug Tariff.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second biggest drop in NHS waiting list in 15 years amid record number of patients]]></title>
         <id>https://www.england.nhs.uk/?p=279137</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[November saw the second biggest drop in the waiting list for 15 years outside of the early days of the pandemic, as new data today shows staff faced record demand in 2025. The waiting list fell by more than 86,000 in November to 7.31 million – and the milestone comes a year since the publication […]]]></summary>
         <author>
             <name>Tom W</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disproportionate GMC referrals of ethnic minority doctors more common in primary care]]></title>
+        <id>https://www.gponline.com/article/1945233</id>
+        <link href="https://www.gponline.com/disproportionate-gmc-referrals-ethnic-minority-doctors-common-primary-care/article/1945233"/>
+        <updated>2026-01-15T09:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Disproportionate referrals of ethnic minority and non-UK qualified doctors are more common in primary care-based designated bodies, with a GMC drive to bring down inequality making its greatest impact in secondary care, a report suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1707,16 +1737,6 @@ Traditional medicine (TM) encompasses codified and non-codified systems that pre
         <summary type="html"><![CDATA[Mid Yorkshire Teaching NHS Trust has selected Nervecentre as its preferred supplier for a new electronic patient record (EPR).]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS urges patients to access care and get vaccinated, amid new doctors’ strike and high flu cases]]></title>
-        <id>https://www.england.nhs.uk/?p=278174</id>
-        <link href="https://www.england.nhs.uk/2025/12/nhs-urges-patients-to-access-care-and-get-vaccinated-amid-new-doctors-strike-and-high-flu-cases/"/>
-        <updated>2025-12-17T00:01:53.000Z</updated>
-        <summary type="html"><![CDATA[The NHS is urging patients not to put off coming forward for care, with thousands of resident doctors expected to walk out on strike for five days from today. Industrial action begins at 7am today (Wednesday 17 December) – lasting until 7am on Monday 22 December – and hospital teams across the country are working […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>
