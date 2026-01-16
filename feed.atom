@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-16T07:18:52.782Z</updated>
+    <updated>2026-01-16T08:20:12.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England launches supplier registry for AI scribing tech]]></title>
+        <id>https://www.digitalhealth.net/?p=255435</id>
+        <link href="https://www.digitalhealth.net/2026/01/nhs-england-launches-supplier-registry-for-ai-scribing-tech/"/>
+        <updated>2026-01-16T07:30:18.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has published a self-certified registry for national ambient voice technology (AVT) suppliers to show evidence of compliance.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS backs AI notetaking to free up more face-to-face care]]></title>
         <id>https://www.england.nhs.uk/?p=279140</id>
