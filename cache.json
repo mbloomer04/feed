@@ -1590,6 +1590,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=279247",
+          "author": "jboshell",
+          "description": "Thousands of men with prostate cancer will be offered a life-extending drug on the NHS within weeks. For the first time patients whose prostate cancer has not spread will be able to receive the drug in England, known as abiraterone, as the health service widens access to the treatment. Around 2,000 men diagnosed with prostate […]",
+          "link": "https://www.england.nhs.uk/2026/01/nhs-to-offer-thousands-of-men-life-extending-prostate-cancer-drug/",
+          "publishedOn": "2026-01-16T18:00:21.000Z",
+          "wordCount": 1480,
+          "title": "NHS to offer thousands of men life-extending prostate cancer drug",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=279140",
           "author": "Tom W",
           "description": "New AI notetaking tools being backed by the NHS could help doctors spend up to a quarter more time with their patients. NHS organisations across England are being urged to take advantage of a new national registry of 19 suppliers for the technology, which captures clinician–patient conversations and uses AI to accurately generate real-time transcriptions […]",
@@ -3006,16 +3016,6 @@
           "wordCount": 6375,
           "title": "Digital Health Coffee Time Briefing ☕",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=253229",
-          "author": "Jordan Sollof",
-          "description": "A study has found that some AI tools produce hallucinations when asked to remove patient information from electronic patient records.",
-          "link": "https://www.digitalhealth.net/2025/12/llms-hallucinate-when-removing-patient-info-from-epr-finds-study/",
-          "publishedOn": "2025-12-18T07:30:43.000Z",
-          "wordCount": 6532,
-          "title": "LLMs hallucinate when removing patient info from EPR, finds study",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/12/Medical-worker-AI.jpg"
         }
       ]
     },
