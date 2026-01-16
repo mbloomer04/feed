@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "db2986ad-4f74-4586-8ae0-2466542a7710",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Palo Alto Networks releases security update for PAN-OS to address a high severity vulnerability that could result in a denial-of-service condition\n Palo Alto Networks releases security update for PAN-OS to address a high severity vulnerability that could result in a denial-of-service condition\n Updated: 16 Jan 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4737",
+          "publishedOn": "2026-01-16T15:24:00.000Z",
+          "wordCount": null,
+          "title": "CC-4737 - Palo Alto Networks Releases Security Update for PAN-OS",
+          "imageUrl": null
+        },
+        {
           "id": "0c2fcbce-3446-4b68-b755-4b5cbaf4786b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution\n Advisory addresses a vulnerability which if exploited could allow a remote unauthenticated attacker to perform arbitrary code or command execution\n Updated: 14 Jan 2026",
