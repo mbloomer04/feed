@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1945440",
+          "author": null,
+          "description": "NHS England is sending posters to GP practices across England to highlight the importance of 'Jess's rule'. Writing for GPonline, national medical director Dr Claire Fuller explains why.",
+          "link": "https://www.gponline.com/dr-claire-fuller-gps-use-jesss-rule-boost-patient-safety/article/1945440",
+          "publishedOn": "2026-01-17T00:01:00.000Z",
+          "wordCount": 747,
+          "title": "Dr Claire Fuller: How GPs can use Jess's rule to boost patient safety",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Claire_Fuller_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1945375",
           "author": null,
           "description": "Court hearings will begin next month for dozens of physician associates (PAs) claiming a combined total of £7.5m in damages from individual practices, the RCGP and BMA over changes to their roles.",
@@ -1518,16 +1528,6 @@
           "wordCount": 750,
           "title": "Podcast: Super partnerships, AI regulation and the future of general practice",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticevishRatnasuriya858x575.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1943554",
-          "author": null,
-          "description": "GPs are responsible for 15% more patients on average than a decade ago - despite a rise in the GP workforce over the past year and a spike in recruitment through the additional roles reimbursment scheme (ARRS). GPonline looks at how workforce changes compare with patients and appointments.",
-          "link": "https://www.gponline.com/gp-workforce-rising-workload-far-outstrips-level-decade-ago/article/1943554",
-          "publishedOn": "2025-12-18T11:14:43.000Z",
-          "wordCount": 771,
-          "title": "GP workforce rising but workload far outstrips level a decade ago",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_20.jpg"
         }
       ]
     },
@@ -1726,6 +1726,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/designated-standards-medical-devices",
+          "author": null,
+          "description": "Notices of publication and a consolidated list for designated standards for medical devices.",
+          "link": "https://www.gov.uk/government/publications/designated-standards-medical-devices",
+          "publishedOn": "2026-01-17T00:05:00.000Z",
+          "wordCount": 868,
+          "title": "Guidance: Designated standards: medical devices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/designated-standards-active-implantable-medical-devices",
+          "author": null,
+          "description": "Notices of publication and a consolidated list for designated standards for active implantable medical devices.",
+          "link": "https://www.gov.uk/government/publications/designated-standards-active-implantable-medical-devices",
+          "publishedOn": "2026-01-17T00:05:00.000Z",
+          "wordCount": 892,
+          "title": "Guidance: Designated standards: active implantable medical devices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/designated-standards-in-vitro-diagnostic-medical-devices",
+          "author": null,
+          "description": "Notices of publication and a consolidated list for designated standards for in vitro diagnostic medical devices.",
+          "link": "https://www.gov.uk/government/publications/designated-standards-in-vitro-diagnostic-medical-devices",
+          "publishedOn": "2026-01-17T00:05:00.000Z",
+          "wordCount": 904,
+          "title": "Guidance: Designated standards: in vitro diagnostic medical devices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/life-saving-jesss-rule-to-be-advertised-in-every-gp-surgery",
+          "author": null,
+          "description": "Government rolling out Jess's Rule posters to all GP surgeries in England to act as reminder of a life-saving patient safety initiative.",
+          "link": "https://www.gov.uk/government/news/life-saving-jesss-rule-to-be-advertised-in-every-gp-surgery",
+          "publishedOn": "2026-01-17T00:01:04.000Z",
+          "wordCount": 3226,
+          "title": "Life-saving Jess’s Rule to be advertised in every GP surgery",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-september-2024",
           "author": null,
@@ -3036,16 +3076,6 @@
           "wordCount": 4362,
           "title": "MHRA seeks evidence to shape regulation of AI in healthcare",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/08/Lawrence-Tallon-1.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=252891",
-          "author": "Samuel Webb",
-          "description": "Your morning summary of digital health news, information and events to know about if you want to be “in the know”. 👇 News 🧒 Kooth, a provider of digital mental health services, has announced the acquisition of US paediatric digital health company Kismet Health’s telehealth platform. The platform has been designed with interactive and age-appropriate […]",
-          "link": "https://www.digitalhealth.net/2025/12/digital-health-coffee-time-briefing-170/",
-          "publishedOn": "2025-12-18T11:30:28.000Z",
-          "wordCount": 6375,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     },
