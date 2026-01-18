@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "CC-4734 - CVE-2025-14847 in MongoDB Under Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "9796726c-61fc-4d5b-bd5a-a8310def018b",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Successful exploitation of CVE-2025-14733 could allow a remote unauthenticated attacker to execute code remotely.\n Updated: 19 Dec 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4733",
-          "publishedOn": "2025-12-19T13:25:00.000Z",
-          "wordCount": null,
-          "title": "CC-4733 - Critical Vulnerability in WatchGuard Firebox Under Exploitation",
-          "imageUrl": null
         }
       ]
     },
@@ -2245,16 +2235,6 @@
           "wordCount": 784,
           "title": "Transparency data: DHSC: workforce management information November 2025",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "author": null,
-          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
-          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
-          "publishedOn": "2025-12-19T14:17:06.000Z",
-          "wordCount": 2530,
-          "title": "Guidance: Child death overview panels: contacts",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2936,16 +2916,6 @@
           "wordCount": 6303,
           "title": "NHS England quietly removes open source policy web pages",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/02/shutterstock_642071587-1.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=253527",
-          "author": "Jordan Sollof",
-          "description": "Rotherham NHS Foundation Trust has deployed Patient Initiated Follow-up (PIFU) through the NHS App, in partnership with Netcall.",
-          "link": "https://www.digitalhealth.net/2025/12/rotherham-deploys-patient-initiated-follow-up-through-nhs-app/",
-          "publishedOn": "2025-12-19T13:30:39.000Z",
-          "wordCount": 4256,
-          "title": "Rotherham deploys Patient Initiated Follow-up through NHS App",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/06/NHS-App.png"
         }
       ]
     },
