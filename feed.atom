@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-19T07:22:43.909Z</updated>
+    <updated>2026-01-19T08:23:02.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic and Google follow OpenAI to launch healthcare AI]]></title>
+        <id>https://www.digitalhealth.net/?p=255505</id>
+        <link href="https://www.digitalhealth.net/2026/01/anthropic-and-google-follow-chatgpt-to-launch-healthcare-ai/"/>
+        <updated>2026-01-19T07:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic and Google are the latest major players to announce AI tools designed for healthcare, following the launch of ChatGPT Health.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VR project aims to boost UK’s medicine manufacturing skills]]></title>
         <id>https://www.digitalhealth.net/?p=255521</id>
