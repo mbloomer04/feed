@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-20T11:18:03.825Z</updated>
+    <updated>2026-01-20T12:32:32.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two major UK hospitals to deploy AI to help detect infections]]></title>
+        <id>https://www.digitalhealth.net/?p=255479</id>
+        <link href="https://www.digitalhealth.net/2026/01/two-major-uk-hospitals-to-deploy-ai-to-help-detect-infections/"/>
+        <updated>2026-01-20T11:34:30.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Hospital for Neuro-disability and East Kent Hospitals University NHS Foundation Trust will deploy Sanome's MEMORI AI tool.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=254695</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-135/"/>
+        <updated>2026-01-20T11:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features funding for preventive healthcare company Ahead Health, and an AI-powered teeth straightening solution.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does good look like for APIs?]]></title>
         <id>7c853843-4b2d-4150-b4b4-dcbbcc648efb</id>
