@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-21T07:21:37.806Z</updated>
+    <updated>2026-01-21T08:21:52.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Adult social care priorities for local authorities]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-priorities-for-local-authorities</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-priorities-for-local-authorities"/>
+        <updated>2026-01-21T08:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Sets out national priority outcomes, expectations and notional allocations for local authorities that deliver adult social care services.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS App to become national channel for the ‘shift to prevention’]]></title>
+        <id>https://www.digitalhealth.net/?p=255777</id>
+        <link href="https://www.digitalhealth.net/2026/01/nhs-app-to-become-national-channel-for-the-shift-to-prevention/"/>
+        <updated>2026-01-21T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The NHS App is becoming the national channel for preventative healthcare, said Rachel Hope, director of digital prevention services at NHSE.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Norfolk and Waveney delays EPR to ‘take extra time to get it right’]]></title>
         <id>https://www.digitalhealth.net/?p=255785</id>
