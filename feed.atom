@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-21T12:32:25.151Z</updated>
+    <updated>2026-01-21T13:39:21.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Major IT failure impacts Kent and Medway GP practices]]></title>
+        <id>https://www.digitalhealth.net/?p=255929</id>
+        <link href="https://www.digitalhealth.net/2026/01/major-it-failure-impacts-kent-and-medway-gp-practices/"/>
+        <updated>2026-01-21T13:30:30.000Z</updated>
+        <summary type="html"><![CDATA[GP practices across Kent and Medway are facing disruption following a major IT failure which led to online services being suspended.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yorkshire LGBTQ+ charity helps promote digital health inclusion]]></title>
+        <id>https://www.digitalhealth.net/?p=255693</id>
+        <link href="https://www.digitalhealth.net/2026/01/yorkshire-lgbtq-charity-helps-promote-digital-health-inclusion/"/>
+        <updated>2026-01-21T13:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Patient.info has partnered with Out Together to develop digital inclusion hubs for older LGBTQ+ people across West Yorkshire.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC public appointments: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026</id>
