@@ -1140,6 +1140,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1945762",
+          "author": null,
+          "description": "GPs should be able to veto hospital trusts taking on expanded powers under the 10-year health plan - and need contract safeguards to stop patient lists or funding being stripped from general practice, the BMA has warned.",
+          "link": "https://www.gponline.com/gps-need-veto-stop-hospital-power-grab-10-year-health-plan/article/1945762",
+          "publishedOn": "2026-01-21T10:16:00.000Z",
+          "wordCount": 757,
+          "title": "GPs need veto to stop hospital power grab under 10-year health plan",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Hospital_sign_GettyImages-GeorgeClerk_RF_6.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1945578",
+          "author": null,
+          "description": "A recent history of U-turns suggests the current government takes time to realise when it has blundered - but can eventually change course, says London GP Dr Tom Riddington. Writing for GPonline, he explains why 'infinite online access' is the next policy that needs reversal.",
+          "link": "https://www.gponline.com/viewpoint-online-access-policy-governments-next-u-turn/article/1945578",
+          "publishedOn": "2026-01-21T09:29:00.000Z",
+          "wordCount": 768,
+          "title": "Viewpoint: Online access policy must be the government's next U-turn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Tom_Riddington_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1945688",
           "author": null,
           "description": "GP leaders have warned that the profession is witnessing the 'serious impact of digital harms' on patients, as the government launched a consultation on a potential social media ban for children.",
@@ -1687,6 +1707,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026",
+          "author": null,
+          "description": "Non-executive appointments to the Department of Health and Social Care's public bodies and committees from April 2025 to March 2026.",
+          "link": "https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026",
+          "publishedOn": "2026-01-21T11:50:36.000Z",
+          "wordCount": 1664,
+          "title": "Guidance: DHSC public appointments: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/uk-clinical-research-delivery-key-performance-indicators-methodology",
           "author": null,
