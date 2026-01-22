@@ -1738,6 +1738,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/government-to-end-cancer-postcode-lottery-for-patients",
+          "author": null,
+          "description": "People living in rural and coastal areas will find it easier to see a cancer specialist as the government works to end the postcode lottery for care.",
+          "link": "https://www.gov.uk/government/news/government-to-end-cancer-postcode-lottery-for-patients",
+          "publishedOn": "2026-01-22T22:30:03.000Z",
+          "wordCount": 3931,
+          "title": "Government to end cancer postcode lottery for patients",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2025",
           "author": null,
           "description": "Reports on departmental spending over £25,000.",
@@ -2385,36 +2395,6 @@
           "publishedOn": "2025-12-24T11:26:42.000Z",
           "wordCount": 810,
           "title": "Transparency data: DHSC: spending over £500, November 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance",
-          "author": null,
-          "description": "This consultation seeks views on the draft statutory guidance issued under the Down Syndrome Act 2022.",
-          "link": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance",
-          "publishedOn": "2025-12-24T11:05:17.000Z",
-          "wordCount": 1305,
-          "title": "Down Syndrome Act 2022 draft statutory guidance",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance-easy-read",
-          "author": null,
-          "description": "We want to hear what people think about our draft guidance on Down syndrome.",
-          "link": "https://www.gov.uk/government/consultations/down-syndrome-act-2022-draft-statutory-guidance-easy-read",
-          "publishedOn": "2025-12-24T10:52:15.000Z",
-          "wordCount": 1535,
-          "title": "Down Syndrome Act 2022 draft statutory guidance (easy read and BSL)",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/calls-for-evidence/down-syndrome-act-2022-guidance-call-for-evidence-easy-read",
-          "author": null,
-          "description": "We want your views on what should go into the Down Syndrome Act statutory guidance.",
-          "link": "https://www.gov.uk/government/calls-for-evidence/down-syndrome-act-2022-guidance-call-for-evidence-easy-read",
-          "publishedOn": "2025-12-24T10:27:19.000Z",
-          "wordCount": 1857,
-          "title": "Down Syndrome Act 2022 guidance: call for evidence (easy read and BSL)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
@@ -3137,16 +3117,6 @@
           "wordCount": 5784,
           "title": "Digital Health’s 2025 Review: Top 5 podcasts",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/12/Top-5-Podcasts-of-2025.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=254019",
-          "author": "Jordan Sollof",
-          "description": "An end-of-year update released by NHS England says that the NHS App now has more than 39 million registered users.",
-          "link": "https://www.digitalhealth.net/2025/12/record-39-million-people-registered-for-the-nhs-app/",
-          "publishedOn": "2025-12-24T11:00:31.000Z",
-          "wordCount": 4363,
-          "title": "Record 39 million people registered for the NHS App",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/01/shutterstock_2186669317-1.jpg"
         }
       ]
     },
