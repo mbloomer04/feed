@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-22T12:32:06.514Z</updated>
+    <updated>2026-01-22T13:40:53.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Rewired 2026 programme published]]></title>
+        <id>https://www.digitalhealth.net/?p=256061</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-rewired-2026-programme-published/"/>
+        <updated>2026-01-22T13:30:50.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Health Rewired 2026 conference programme has been published, featuring 10 stages packed with sessions.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=254771</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[The NHS is facing continuing winter pressures as the country approaches another cold snap, and as rising pressures are pushing hospitals to their busiest levels for this time of year since before COVID-19. Figures released today show more general and acute hospital beds were occupied in the week ending 18 Jan (94.5%) than at any […]]]></summary>
         <author>
             <name>jboshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did the GP workforce in England change in 2025?]]></title>
+        <id>https://www.gponline.com/article/1945967</id>
+        <link href="https://www.gponline.com/gp-workforce-england-change-2025/article/1945967"/>
+        <updated>2026-01-22T10:21:30.000Z</updated>
+        <summary type="html"><![CDATA[For the third year running, England ended last year with more GPs than it had 12 months earlier. GPonline looks at what NHS data show about how the workforce has shifted and what's driving the change.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
