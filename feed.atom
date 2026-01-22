@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-22T11:17:45.211Z</updated>
+    <updated>2026-01-22T12:32:06.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=254771</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-136/"/>
+        <updated>2026-01-22T11:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing includes an Epic deployment in Germany, and investment in a data platform to transform heart rhythm disorder.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hospitals still under pressure with another cold snap and norovirus rise]]></title>
+        <id>https://www.england.nhs.uk/?p=281234</id>
+        <link href="https://www.england.nhs.uk/2026/01/hospitals-still-under-pressure-with-another-cold-snap-and-norovirus-rise/"/>
+        <updated>2026-01-22T10:50:03.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is facing continuing winter pressures as the country approaches another cold snap, and as rising pressures are pushing hospitals to their busiest levels for this time of year since before COVID-19. Figures released today show more general and acute hospital beds were occupied in the week ending 18 Jan (94.5%) than at any […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worcestershire Acute Hospitals launches electronic prescribing]]></title>
         <id>https://www.digitalhealth.net/?p=256017</id>
@@ -1769,16 +1789,6 @@ As COVID-19 emerged and treatment options were limited, pharmaceutical companies
         <summary type="html"><![CDATA[Digital Health News has chosen the 10 news stories that got the most people talking in the world of digital health and tech in 2025.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record numbers using NHS App to manage health]]></title>
-        <id>https://www.england.nhs.uk/?p=278474</id>
-        <link href="https://www.england.nhs.uk/2025/12/record-numbers-using-nhs-app-to-manage-health/"/>
-        <updated>2025-12-24T00:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Record numbers of people are using the NHS App to manage their health, according to the latest statistics. The NHS has released a Spotify Wrapped-style end-of-year update which shows the NHS App now has more than 39 million registered users. A total of 67.8 million repeat prescriptions were also ordered through the app in the past 12 months (1 […]]]></summary>
-        <author>
-            <name>nowen</name>
         </author>
     </entry>
     <entry>

@@ -1581,6 +1581,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=281234",
+          "author": "jboshell",
+          "description": "The NHS is facing continuing winter pressures as the country approaches another cold snap, and as rising pressures are pushing hospitals to their busiest levels for this time of year since before COVID-19. Figures released today show more general and acute hospital beds were occupied in the week ending 18 Jan (94.5%) than at any […]",
+          "link": "https://www.england.nhs.uk/2026/01/hospitals-still-under-pressure-with-another-cold-snap-and-norovirus-rise/",
+          "publishedOn": "2026-01-22T10:50:03.000Z",
+          "wordCount": 1345,
+          "title": "Hospitals still under pressure with another cold snap and norovirus rise",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=281068",
           "author": "rwootton",
           "description": "Teachers, school nurses, and GPs will be offered NHS support to spot the early signs of eating disorders, so no child is left to ‘suffer in silence’. The NHS has overhauled eating disorder services in response to rising demand with the number of children and young people treated rising two fifths since the pandemic (from […]",
@@ -1698,16 +1708,6 @@
           "publishedOn": "2025-12-29T22:30:39.000Z",
           "wordCount": 1878,
           "title": "NHS former chief executive among health service honours",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=278474",
-          "author": "nowen",
-          "description": "Record numbers of people are using the NHS App to manage their health, according to the latest statistics. The NHS has released a Spotify Wrapped-style end-of-year update which shows the NHS App now has more than 39 million registered users. A total of 67.8 million repeat prescriptions were also ordered through the app in the past 12 months (1 […]",
-          "link": "https://www.england.nhs.uk/2025/12/record-numbers-using-nhs-app-to-manage-health/",
-          "publishedOn": "2025-12-24T00:01:28.000Z",
-          "wordCount": 1454,
-          "title": "Record numbers using NHS App to manage health",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2618,6 +2618,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=254771",
+          "author": "Samuel Webb",
+          "description": "Today's briefing includes an Epic deployment in Germany, and investment in a data platform to transform heart rhythm disorder.",
+          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-136/",
+          "publishedOn": "2026-01-22T11:30:11.000Z",
+          "wordCount": 6549,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=256017",
           "author": "Jordan Sollof",
