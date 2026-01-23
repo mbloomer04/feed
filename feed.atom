@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-23T11:14:41.837Z</updated>
+    <updated>2026-01-23T12:31:05.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Autism Act: government response to Lords Select Committee report]]></title>
+        <id>https://www.gov.uk/government/publications/autism-act-government-response-to-lords-select-committee-report</id>
+        <link href="https://www.gov.uk/government/publications/autism-act-government-response-to-lords-select-committee-report"/>
+        <updated>2026-01-23T11:53:18.000Z</updated>
+        <summary type="html"><![CDATA[A response by the government to the House of Lords Autism Act 2009 Committee report ‘Time to deliver: The Autism Act 2009 and the new autism strategy’.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eolas Medical raises almost £9m to scale knowledge platform]]></title>
         <id>https://www.digitalhealth.net/?p=256087</id>
