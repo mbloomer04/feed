@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-23T07:19:34.847Z</updated>
+    <updated>2026-01-23T08:20:40.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS Wales App update allows patients to see waiting list status]]></title>
+        <id>https://www.digitalhealth.net/?p=256157</id>
+        <link href="https://www.digitalhealth.net/2026/01/nhs-wales-app-allows-patients-to-see-their-position-on-waiting-lists/"/>
+        <updated>2026-01-23T07:30:02.000Z</updated>
+        <summary type="html"><![CDATA[People across Wales can now see their NHS waiting list progression and view their referrals using the NHS Wales App.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government to end cancer postcode lottery for patients]]></title>
         <id>https://www.gov.uk/government/news/government-to-end-cancer-postcode-lottery-for-patients</id>
