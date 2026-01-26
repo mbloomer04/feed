@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-26T12:31:41.307Z</updated>
+    <updated>2026-01-26T13:38:41.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government bid to end ‘postcode lottery’ for cancer-detecting tech]]></title>
+        <id>https://www.digitalhealth.net/?p=256471</id>
+        <link href="https://www.digitalhealth.net/2026/01/government-bid-to-end-postcode-lottery-for-cancer-detecting-tech/"/>
+        <updated>2026-01-26T13:30:59.000Z</updated>
+        <summary type="html"><![CDATA[The government is investing in technology and AI to spot cancers earlier in a bid to end the postcode lottery of care for cancer patients.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Royal Bolton trials AI to improve accuracy of Down’s syndrome test]]></title>
+        <id>https://www.digitalhealth.net/?p=256269</id>
+        <link href="https://www.digitalhealth.net/2026/01/royal-boltons-labs-trial-ai-to-improve-accuracy-of-downs-syndrome-test/"/>
+        <updated>2026-01-26T13:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Researchers used AI to improve the accuracy of a test that identifies if a baby has a high chance of being born with Down’s syndrome.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NICE recommends online programme for eating disorders]]></title>
         <id>https://www.digitalhealth.net/?p=256231</id>
