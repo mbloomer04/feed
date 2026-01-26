@@ -1788,6 +1788,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2026-to-2027",
+          "author": null,
+          "description": "This consultation seeks views on the DHSC group accounting manual that applies to DHSC bodies for their annual reports and accounts.",
+          "link": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2026-to-2027",
+          "publishedOn": "2026-01-26T14:00:01.000Z",
+          "wordCount": 1042,
+          "title": "Changes to DHSC group accounting manual 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
+          "author": null,
+          "description": "Findings from ASCOF, which measures how well care services achieve outcomes including quality of life and whether long-term support needs are being met.",
+          "link": "https://www.gov.uk/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
+          "publishedOn": "2026-01-26T13:43:13.000Z",
+          "wordCount": 1498,
+          "title": "Official Statistics: Measures from the adult social care outcomes framework, England: 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/crackdown-on-illegal-underage-sunbeds-use-to-cut-teen-cancer-risk",
           "author": null,
           "description": "The government plans to crackdown on illegal underage sunbeds use to cut cancer risks to teenagers",
@@ -2718,6 +2738,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=256499",
+          "author": "Tammy Lovell",
+          "description": "Sonia Patel, chief technology officer for NHS England, is leaving to take up the role of interim government CTO for a fixed 12-month term.",
+          "link": "https://www.digitalhealth.net/2026/01/sonia-patel-to-step-down-as-nhs-england-cto/",
+          "publishedOn": "2026-01-26T14:02:04.000Z",
+          "wordCount": 4480,
+          "title": "Sonia Patel to step down as NHS England CTO",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/10/Sonia-Patel-HETT-2025.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=256471",
           "author": "Jordan Sollof",
