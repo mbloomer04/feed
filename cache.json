@@ -1565,7 +1565,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "author": null,
+          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
+          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "publishedOn": "2026-01-27T09:30:02.000Z",
+          "wordCount": 1971,
+          "title": "UK nutrient profiling model 2018 review",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -1807,6 +1818,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/the-nutrient-profiling-model",
+          "author": null,
+          "description": "Current model used to classify foods and drinks based on their nutritional composition.",
+          "link": "https://www.gov.uk/government/publications/the-nutrient-profiling-model",
+          "publishedOn": "2026-01-27T09:30:03.000Z",
+          "wordCount": 1372,
+          "title": "Guidance: Nutrient profiling model 2004 to 2005",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "author": null,
+          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
+          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "publishedOn": "2026-01-27T09:30:02.000Z",
+          "wordCount": 1971,
+          "title": "UK nutrient profiling model 2018 review",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nutrient-profiling-model-2018",
+          "author": null,
+          "description": "Updated model (not yet applied to policy) used to classify foods and drinks based on their nutritional composition.",
+          "link": "https://www.gov.uk/government/publications/nutrient-profiling-model-2018",
+          "publishedOn": "2026-01-27T09:30:02.000Z",
+          "wordCount": 1046,
+          "title": "Guidance: Nutrient profiling model 2018",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2026-to-2027",
           "author": null,
