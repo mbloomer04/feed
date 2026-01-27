@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "91f322a2-ffb4-4374-8bad-f30f00394e62",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-21509 is under active exploitation and could be used to bypass OLE mitigations in Microsoft 365 and Microsoft Office\n CVE-2026-21509 is under active exploitation and could be used to bypass OLE mitigations in Microsoft 365 and Microsoft Office\n Updated: 27 Jan 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4740",
+          "publishedOn": "2026-01-27T11:50:00.000Z",
+          "wordCount": null,
+          "title": "CC-4740 - Microsoft Releases Out-of-Band Security Update for Microsoft Office",
+          "imageUrl": null
+        },
+        {
           "id": "c1be3e26-2d58-435a-96c3-10600ebe116d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild\n Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild\n Updated: 22 Jan 2026",
@@ -1160,6 +1170,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1946389",
+          "author": null,
+          "description": "One in six GPs have left a job because of problems balancing childcare with work, a poll has found.",
+          "link": "https://www.gponline.com/sixth-gps-quit-job-childcare-pressures/article/1946389",
+          "publishedOn": "2026-01-27T10:44:28.000Z",
+          "wordCount": 721,
+          "title": "Sixth of GPs have quit a job because of childcare pressures",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_73.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1945206",
           "author": null,
           "description": "Rollout of an £80m advice and guidance directed enhanced service in 2025/26 has added to unsustainable workload in general practice, GP leaders say - and plans to expand it next year could pile on yet more pressure.",
@@ -1595,6 +1615,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
+          "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
+          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
+          "publishedOn": "2026-01-27T12:28:09.000Z",
+          "wordCount": null,
+          "title": "How we’re modernising electronic prescribing",
+          "imageUrl": null
+        },
         {
           "id": "7c853843-4b2d-4150-b4b4-dcbbcc648efb",
           "author": "enquiries@nhsdigital.nhs.uk (Matthew Firth)",
@@ -2527,16 +2557,6 @@
           "wordCount": 1374,
           "title": "Expanding access to naloxone: supply and emergency use",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/lives-to-be-saved-by-boosting-access-to-drug-overdose-medication",
-          "author": null,
-          "description": "Government launches consultation to help combat rising frig deaths from opioids, as part of record £3.4 billion in investment in drug and alcohol services.",
-          "link": "https://www.gov.uk/government/news/lives-to-be-saved-by-boosting-access-to-drug-overdose-medication",
-          "publishedOn": "2025-12-29T00:01:00.000Z",
-          "wordCount": 2991,
-          "title": "Lives to be saved by boosting access to drug overdose medication",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2789,6 +2809,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=255597",
+          "author": "Jordan Sollof",
+          "description": "Today's briefing features North Lincolnshire Council rolling out System C platforms, including its Liquidlogic education case management.",
+          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-171/",
+          "publishedOn": "2026-01-27T11:30:57.000Z",
+          "wordCount": 6679,
+          "title": "Digital Health Coffee Time Briefing",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=256395",
           "author": "Tammy Lovell",
