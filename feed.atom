@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-26T23:15:28.391Z</updated>
+    <updated>2026-01-27T01:13:02.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities]]></title>
+        <id>https://www.england.nhs.uk/?p=281324</id>
+        <link href="https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/"/>
+        <updated>2026-01-27T00:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Patients facing suspected lung cancer could get answers sooner under a new NHS pilot using artificial intelligence and robotic technology to help doctors reach hard-to-detect cancers earlier, with fewer invasive tests.  The new approach uses AI software to rapidly analyse lung scans and flag small lumps that are most likely to be cancerous, and a robotic camera is then used to […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why advice and guidance could pile more unsustainable work on GPs next year]]></title>
         <id>https://www.gponline.com/article/1945206</id>
