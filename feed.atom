@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-27T07:21:34.145Z</updated>
+    <updated>2026-01-27T08:22:37.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Concerns mount over NHS software supplier’s links with ICE]]></title>
+        <id>https://www.digitalhealth.net/?p=256537</id>
+        <link href="https://www.digitalhealth.net/2026/01/concerns-mount-over-major-nhs-software-suppliers-links-with-ice/"/>
+        <updated>2026-01-27T07:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Concerns are mounting over links between NHS federated data platform (FDP) supplier Palantir and the US Immigration and Customs Enforcement.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities]]></title>
         <id>https://www.england.nhs.uk/?p=281324</id>
