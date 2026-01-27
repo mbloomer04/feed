@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-27T13:41:11.695Z</updated>
+    <updated>2026-01-27T14:22:42.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS AI and robot pilot to help detect lung cancer sooner]]></title>
+        <id>https://www.digitalhealth.net/?p=256569</id>
+        <link href="https://www.digitalhealth.net/2026/01/nhs-ai-and-robot-pilot-to-help-detect-lung-cancer-sooner/"/>
+        <updated>2026-01-27T13:30:17.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has launched an AI and robot pilot to help spot lung cancer sooner, with fewer invasive tests for suspected cancer patients.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How we’re modernising electronic prescribing]]></title>
         <id>68e89b19-a38b-41cd-8399-83978d93ea77</id>
