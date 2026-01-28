@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-28T06:26:03.910Z</updated>
+    <updated>2026-01-28T07:19:49.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What the Health Survey for England shows about pressure on GPs]]></title>
+        <id>https://www.gponline.com/article/1946488</id>
+        <link href="https://www.gponline.com/health-survey-england-shows-pressure-gps/article/1946488"/>
+        <updated>2026-01-27T23:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Findings from the latest Health Survey for England reveal rising pressure on general practice as a growing proportion of the population lives with poor health and long-term illness.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Bill to prioritise UK medical graduates for NHS training]]></title>
         <id>https://www.gov.uk/government/speeches/new-bill-to-prioritise-uk-medical-graduates-for-nhs-training</id>
