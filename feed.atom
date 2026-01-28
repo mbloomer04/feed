@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-28T07:19:49.991Z</updated>
+    <updated>2026-01-28T08:21:52.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI scribe approved to transcribe GP telephone consultations]]></title>
+        <id>https://www.digitalhealth.net/?p=256681</id>
+        <link href="https://www.digitalhealth.net/2026/01/ai-scribe-approved-to-transcribe-gp-telephone-consultations/"/>
+        <updated>2026-01-28T07:30:26.000Z</updated>
+        <summary type="html"><![CDATA[An AI scribe from X-on Health will be able to transcribe notes from GP telephone conversations, as well as in person appointments.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What the Health Survey for England shows about pressure on GPs]]></title>
         <id>https://www.gponline.com/article/1946488</id>
