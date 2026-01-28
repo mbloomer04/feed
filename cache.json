@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "CC-4735 - Microsoft Releases January 2026 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "f8c69e7a-706f-4370-bd1a-ca8b11f67ca2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n A vulnerability in MongoDB could allow a remote attacker to extract secrets, credentials or other sensitive data\n Updated: 30 Dec 2025",
-          "link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4734",
-          "publishedOn": "2025-12-30T09:42:00.000Z",
-          "wordCount": null,
-          "title": "CC-4734 - CVE-2025-14847 in MongoDB Under Exploitation",
-          "imageUrl": null
         }
       ]
     },
