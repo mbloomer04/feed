@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-29T11:24:26.091Z</updated>
+    <updated>2026-01-29T12:38:17.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=256309</id>
+        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-137/"/>
+        <updated>2026-01-29T11:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Today's Coffee Time Briefing features an acquisition for Pharmacy2U and a digital tool to help NHS services with autism and ADHD referrals.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhood contracts unlikely to appear before April, says BMA]]></title>
+        <id>https://www.gponline.com/article/1946691</id>
+        <link href="https://www.gponline.com/neighbourhood-contracts-unlikely-appear-april-says-bma/article/1946691"/>
+        <updated>2026-01-29T11:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Details of neighbourhood contracts that could have a major impact on the future of general practice and the core GMS contract are unlikely to emerge until April, GP leaders have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS services tackling winter head on]]></title>
         <id>https://www.england.nhs.uk/?p=281502</id>
@@ -2101,26 +2121,6 @@ As COVID-19 emerged and treatment options were limited, pharmaceutical companies
         <link href="https://www.gov.uk/government/publications/provisional-list-of-abortion-clinics-and-hospitals-in-wales-2025"/>
         <updated>2025-12-31T10:00:02.000Z</updated>
         <summary type="html"><![CDATA[This publication contains a provisional list of abortion clinics and hospitals in Wales.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New ambulances deployed to boost NHS winter response]]></title>
-        <id>https://www.gov.uk/government/news/new-ambulances-deployed-to-boost-nhs-winter-response</id>
-        <link href="https://www.gov.uk/government/news/new-ambulances-deployed-to-boost-nhs-winter-response"/>
-        <updated>2025-12-31T00:15:01.000Z</updated>
-        <summary type="html"><![CDATA[More than 500 new ambulances will be deployed in England to cut response times for patients in every region.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500 new ambulances deployed to boost NHS winter response]]></title>
-        <id>https://www.gov.uk/government/news/500-new-ambulances-deployed-to-boost-nhs-winter-response</id>
-        <link href="https://www.gov.uk/government/news/500-new-ambulances-deployed-to-boost-nhs-winter-response"/>
-        <updated>2025-12-31T00:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Patients and staff across the country are benefiting from a new fleet of over 500 ambulances.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
