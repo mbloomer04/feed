@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-30T09:30:32.186Z</updated>
+    <updated>2026-01-30T10:25:25.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How neighbourhoods could affect GP and PCN contracts]]></title>
+        <id>https://www.gponline.com/article/1946801</id>
+        <link href="https://www.gponline.com/podcast-neighbourhoods-affect-gp-pcn-contracts/article/1946801"/>
+        <updated>2026-01-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking General Practice speaks to Robert McCartney, a senior associate in the corporate commercial team at law firm Hempsons, about the shift towards a neighbourhood NHS and what it means for the future of general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS genetics programme to track people at risk of inherited cancer]]></title>
         <id>https://www.digitalhealth.net/?p=256953</id>
