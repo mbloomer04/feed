@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-01-30T07:35:06.834Z</updated>
+    <updated>2026-01-30T08:28:27.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS genetics programme to track people at risk of inherited cancer]]></title>
+        <id>https://www.digitalhealth.net/?p=256953</id>
+        <link href="https://www.digitalhealth.net/2026/01/nhs-genetics-programme-to-track-people-at-risk-of-inherited-cancer/"/>
+        <updated>2026-01-30T07:30:36.000Z</updated>
+        <summary type="html"><![CDATA[People at higher risk of developing inherited cancers will be regularly checked and tracked under an NHS national genetics programme.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Safeguarding adults collection (SAC) data return, 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/safeguarding-adults-collection-sac-data-return-2025-to-2026</id>
