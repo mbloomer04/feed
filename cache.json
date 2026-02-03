@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1947169",
+          "author": null,
+          "description": "A national strategy for respiratory illness could help GPs step up basic care and reverse a sharp rise in patients hospitalised with pneumonia, a charity has said.",
+          "link": "https://www.gponline.com/gps-need-support-reverse-emerging-respiratory-crisis-charity-warns/article/1947169",
+          "publishedOn": "2026-02-03T11:29:45.000Z",
+          "wordCount": 907,
+          "title": "GPs need support to reverse emerging respiratory crisis, charity warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_older_patient_GettyImages-sturti_9.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1946116",
           "author": null,
           "description": "The number of GP practice contracts in England has plummeted by 20% over the past decade, sparking warnings from GP leaders that the profession is 'critically endangered'.",
@@ -2577,16 +2587,6 @@
           "wordCount": 13761,
           "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/landmark-junk-food-ad-ban-to-protect-kids-health",
-          "author": null,
-          "description": "Children will be protected from exposure to junk food ads under new regulations, in a bid to tackle childhood obesity",
-          "link": "https://www.gov.uk/government/news/landmark-junk-food-ad-ban-to-protect-kids-health",
-          "publishedOn": "2026-01-05T00:15:03.000Z",
-          "wordCount": 3615,
-          "title": "Landmark junk food ad ban to protect kid’s health",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2869,6 +2869,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=256991",
+          "author": "Samuel Webb",
+          "description": "Today's Coffee Briefing includes a contract for digital mental health firm Kooth and a report on the rise of radiology-linked legal claims.",
+          "link": "https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-138/",
+          "publishedOn": "2026-02-03T11:30:42.000Z",
+          "wordCount": 6835,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=257125",
           "author": "Tammy Lovell",
