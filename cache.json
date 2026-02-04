@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1947251",
+          "author": null,
+          "description": "Hundreds of doctors, including GPs, have signed a petition calling for international doctors with NHS experience to be prioritised for training posts alongside UK medical graduates under legislation going through parliament.",
+          "link": "https://www.gponline.com/hundreds-doctors-demand-rethink-legislation-prioritise-uk-medical-graduates/article/1947251",
+          "publishedOn": "2026-02-03T17:54:49.000Z",
+          "wordCount": 925,
+          "title": "Hundreds of doctors demand rethink on legislation to prioritise UK medical graduates",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Parliament_GettyImages-Nuwan_RF_8.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1947253",
           "author": null,
           "description": "Multi-neighbourhood provider (MNP) 'contracts' promised in the 10-year health plan will instead be rolled out as a form of amendment to the NHS standard contract - a move experts say could give hospital trusts a head start in bidding for them.",
@@ -1858,6 +1868,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/every-cancer-patient-to-get-individual-support-plan",
+          "author": null,
+          "description": "Under the government's National Cancer Plan, every patient will be given a tailored plan covering treatment, mental health, and employment support.",
+          "link": "https://www.gov.uk/government/news/every-cancer-patient-to-get-individual-support-plan",
+          "publishedOn": "2026-02-04T10:54:17.000Z",
+          "wordCount": 4276,
+          "title": "Every cancer patient to get individual support plan",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/shaping-the-national-cancer-plan",
+          "author": null,
+          "description": "Call for evidence seeking views from individuals, professionals and organisations to inform the development of the government’s National Cancer Plan for England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/shaping-the-national-cancer-plan",
+          "publishedOn": "2026-02-04T10:38:42.000Z",
+          "wordCount": 1300,
+          "title": "Shaping the National Cancer Plan",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/national-cancer-plan-technical-annex",
+          "author": null,
+          "description": "Sets out supporting evidence, data analysis and graphs to supplement the National Cancer Plan.",
+          "link": "https://www.gov.uk/government/publications/national-cancer-plan-technical-annex",
+          "publishedOn": "2026-02-04T10:38:37.000Z",
+          "wordCount": 949,
+          "title": "Research: National Cancer Plan: technical annex",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/national-cancer-plan-for-england",
+          "author": null,
+          "description": "Details the government’s plan to transform cancer care and outcomes in England by 2035.",
+          "link": "https://www.gov.uk/government/publications/national-cancer-plan-for-england",
+          "publishedOn": "2026-02-04T10:38:31.000Z",
+          "wordCount": 977,
+          "title": "Policy paper: National Cancer Plan for England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/three-in-four-cancer-patients-to-survive-long-term-under-new-plan",
           "author": null,
@@ -2869,6 +2919,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=257319",
+          "author": "Jordan Sollof",
+          "description": "A study has been published in The Lancet after it found that an AI stethoscope detects serious heart conditions faster in primary care.",
+          "link": "https://www.digitalhealth.net/2026/02/ai-stethoscope-study-published-in-the-lancet/",
+          "publishedOn": "2026-02-04T11:00:10.000Z",
+          "wordCount": 6613,
+          "title": "AI stethoscope study published in The Lancet",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/09/AI-stethoscope.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=257327",
           "author": "Tammy Lovell",
