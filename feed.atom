@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-04T19:33:39.176Z</updated>
+    <updated>2026-02-04T20:25:05.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[The equality impact assessment accompanies the publication of the National Cancer Plan.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventive cholera vaccination resumes as global supply reaches critical milestone]]></title>
+        <id>urn:uuid:6fb1d557-cc0d-4277-8650-161208478a87</id>
+        <link href="https://www.who.int/news/item/04-02-2026-preventive-cholera-vaccination-resumes-as-global-supply-reaches-critical-milestone"/>
+        <updated>2026-02-04T14:20:30.000Z</updated>
+        <summary type="html"><![CDATA[First preventive campaign in over three years launches in Mozambique, with others planned in Bangladesh and the Democratic Republic of the Congo]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
