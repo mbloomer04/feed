@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-04T01:18:40.604Z</updated>
+    <updated>2026-02-04T04:05:12.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.gov.uk/government/news/three-in-four-cancer-patients-to-survive-long-term-under-new-plan"/>
         <updated>2026-02-03T22:30:02.000Z</updated>
         <summary type="html"><![CDATA[Patients will receive faster diagnosis, quicker treatment, and the support to live well with cancer under the government’s landmark new National Cancer Plan.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2026-02-03T15:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2226,46 +2236,6 @@ As COVID-19 emerged and treatment options were limited, pharmaceutical companies
         <summary type="html"><![CDATA[Menopause and prostate problems will be among the priorities for the NHS’s revolutionary new online hospital when it launches next year. The NHS has selected nine common conditions which will be the first to be treated by the NHS Online service, providing faster access to specialist care. Launched by the Prime Minister in September 2025, […]]]></summary>
         <author>
             <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICE backs age-based system to help GPs spot ovarian cancer earlier]]></title>
-        <id>https://www.gponline.com/article/1944173</id>
-        <link href="https://www.gponline.com/nice-backs-age-based-system-help-gps-spot-ovarian-cancer-earlier/article/1944173"/>
-        <updated>2026-01-05T14:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Draft NICE guidance on suspected cancer backs age-based blood test thresholds to help GPs identify ovarian cancer earlier.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS helped thousands of patients get home for Christmas despite doctors strike]]></title>
-        <id>https://www.england.nhs.uk/?p=278618</id>
-        <link href="https://www.england.nhs.uk/2026/01/nhs-helped-thousands-of-patients-get-home-for-christmas-despite-doctors-strike/"/>
-        <updated>2026-01-05T14:16:26.000Z</updated>
-        <summary type="html"><![CDATA[The NHS safely discharged thousands of patients home to their families over the Christmas week (w/e 28 December), despite five days of strike action by resident doctors. In a letter to the health service, Sir Jim Mackey has praised staff for pulling out all the stops to achieve its target of having less than 80% of hospital […]]]></summary>
-        <author>
-            <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact assessment: Edwards’ syndrome screening: equality impact assessment]]></title>
-        <id>https://www.gov.uk/government/publications/edwards-syndrome-screening-equality-impact-assessment</id>
-        <link href="https://www.gov.uk/government/publications/edwards-syndrome-screening-equality-impact-assessment"/>
-        <updated>2026-01-05T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Equality impact assessment on screening for Edwards’ syndrome using the antenatal quadruple test in the NHS Fetal Anomaly Screening Programme (FASP).]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS hospitals using FDP AI tool to predict A&E demand]]></title>
-        <id>https://www.digitalhealth.net/?p=254233</id>
-        <link href="https://www.digitalhealth.net/2026/01/nhs-hospitals-using-fdp-ai-tool-to-predict-ae-demand/"/>
-        <updated>2026-01-05T13:30:41.000Z</updated>
-        <summary type="html"><![CDATA[An AI tool on the NHS federated data platform is being used by hospitals in England to help predict when A&E departments will be busiest.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
