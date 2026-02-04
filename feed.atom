@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-04T09:35:29.683Z</updated>
+    <updated>2026-02-04T10:31:11.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Patients will receive faster diagnosis, quicker treatment, and the support to live well with cancer under the government’s landmark new National Cancer Plan.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS reveals commissioning plan for multi-neighbourhood providers]]></title>
+        <id>https://www.gponline.com/article/1947253</id>
+        <link href="https://www.gponline.com/nhs-reveals-commissioning-plan-multi-neighbourhood-providers/article/1947253"/>
+        <updated>2026-02-03T17:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Multi-neighbourhood provider (MNP) 'contracts' promised in the 10-year health plan will instead be rolled out as a form of amendment to the NHS standard contract - a move experts say could give hospital trusts a head start in bidding for them.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2256,16 +2266,6 @@ As COVID-19 emerged and treatment options were limited, pharmaceutical companies
         <summary type="html"><![CDATA[Women's health issues will be among the priorities for the NHS’s online hospital which is expected to launch in 2027.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Menopause and prostate conditions prioritised for NHS’s new online hospital]]></title>
-        <id>https://www.england.nhs.uk/?p=278575</id>
-        <link href="https://www.england.nhs.uk/2026/01/menopause-and-prostate-conditions-prioritised-for-nhss-new-online-hospital/"/>
-        <updated>2026-01-05T22:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Menopause and prostate problems will be among the priorities for the NHS’s revolutionary new online hospital when it launches next year. The NHS has selected nine common conditions which will be the first to be treated by the NHS Online service, providing faster access to specialist care. Launched by the Prime Minister in September 2025, […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>
