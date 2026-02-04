@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-04T05:42:03.178Z</updated>
+    <updated>2026-02-04T06:40:06.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -47,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Four in ten cancer cases could be prevented globally]]></title>
+        <id>urn:uuid:9dd91d5e-0bb1-4e90-a1bc-e30658be8b12</id>
+        <link href="https://www.who.int/news/item/03-02-2026-four-in-ten-cancer-cases-could-be-prevented-globally"/>
+        <updated>2026-02-03T11:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Up to four in ten cancer cases worldwide could be prevented, according to a new global analysis from the World Health Organization (WHO) and its International Agency for Research on Cancer (IARC). The study examines 30 preventable causes, including tobacco, alcohol, high body mass index, physical inactivity, air pollution, ultraviolet radiation – and for the first time – nine cancer-causing infections.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=256991</id>
         <link href="https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-138/"/>
@@ -64,6 +74,16 @@
         <summary type="html"><![CDATA[A national strategy for respiratory illness could help GPs step up basic care and reverse a sharp rise in patients hospitalised with pneumonia, a charity has said.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO launches 2026 appeal to help millions of people in health emergencies and crisis settings]]></title>
+        <id>urn:uuid:c0439ec7-6fae-4634-b57f-cfdca12e9730</id>
+        <link href="https://www.who.int/news/item/03-02-2026-who-launches-2026-appeal-to-help-millions-of-people-in-health-emergencies-and-crisis-settings"/>
+        <updated>2026-02-03T11:16:38.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today launched its 2026 global appeal to ensure millions of people living in humanitarian crises and conflicts can access health care.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
