@@ -1849,6 +1849,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-outcomes-framework-handbook-of-definitions",
+          "author": null,
+          "description": "Sets out the technical detail of each adult social care outcomes framework (ASCOF) measure.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-outcomes-framework-handbook-of-definitions",
+          "publishedOn": "2026-02-05T09:15:01.000Z",
+          "wordCount": 1008,
+          "title": "Guidance: Adult social care outcomes framework: handbook of definitions",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/personal-social-services-adult-social-care-survey-report-england-2024-to-2025",
           "author": null,
           "description": "Official statistics on the outcomes and experiences of users aged 18 and over in receipt of long-term adult social care services in England.",
