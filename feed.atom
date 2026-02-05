@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-05T09:35:54.074Z</updated>
+    <updated>2026-02-05T10:32:54.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early NHS preparation ‘paying off’ amid shorter ambulance handover times]]></title>
+        <id>https://www.england.nhs.uk/?p=281887</id>
+        <link href="https://www.england.nhs.uk/2026/02/early-nhs-preparation-paying-off-amid-shorter-ambulance-handover-times/"/>
+        <updated>2026-02-05T10:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Ambulances handed over patients more than 2 minutes faster last month despite facing their busiest January since before COVID-19. Provisional figures out today show there were 420,324 ambulances handovers with known times in January, the highest number for the month since 2020 and a 5.2% increase compared to 399,415 in January last year. Despite this, […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Adult social care outcomes framework: handbook of definitions]]></title>
         <id>https://www.gov.uk/government/publications/adult-social-care-outcomes-framework-handbook-of-definitions</id>
