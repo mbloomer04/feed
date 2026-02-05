@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-05T12:41:38.352Z</updated>
+    <updated>2026-02-05T14:00:28.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ORCHA and NIA partner to fast-track digital health solutions]]></title>
+        <id>https://www.digitalhealth.net/?p=257413</id>
+        <link href="https://www.digitalhealth.net/2026/02/orcha-and-nia-partner-to-fast-track-digital-health-solutions/"/>
+        <updated>2026-02-05T13:30:12.000Z</updated>
+        <summary type="html"><![CDATA[ORCHA is working with the NHS Innovation Accelerator (NIA) to fast-track digital health solutions ahead of confirmation into the programme.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=257063</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[A call for more patient self management and numerous tech upgrade programmes are featured in today's Coffee Briefing.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hospital trusts could take control of GP premises under neighbourhood plans]]></title>
+        <id>https://www.gponline.com/article/1947045</id>
+        <link href="https://www.gponline.com/hospital-trusts-control-gp-premises-neighbourhood-plans/article/1947045"/>
+        <updated>2026-02-05T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 1,000 GP practices operating from NHS-owned premises could see ownership of their buildings transferred to NHS trusts as part of a policy to 'accelerate the shift to neighbourhood-level, integrated, preventative care'.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
