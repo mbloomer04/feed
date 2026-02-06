@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1947476",
+          "author": null,
+          "description": "The GPonline team discusses the latest news affecting general practice.",
+          "link": "https://www.gponline.com/podcast-will-next-gp-contract-mean-return-collective-action-plus-signs-rising-pressure-gps/article/1947476",
+          "publishedOn": "2026-02-06T08:10:00.000Z",
+          "wordCount": 893,
+          "title": "Podcast: Will the next GP contract mean a return to collective action, plus signs of rising pressure on GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonlineTalkingGeneralPractice858x575px_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1947045",
           "author": null,
           "description": "More than 1,000 GP practices operating from NHS-owned premises could see ownership of their buildings transferred to NHS trusts as part of a policy to 'accelerate the shift to neighbourhood-level, integrated, preventative care'.",
@@ -1838,6 +1848,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/healthy-child-programme-high-impact-area-framework",
+          "author": null,
+          "description": "The areas of public health where health visiting and school nursing teams in England can have the greatest impact.",
+          "link": "https://www.gov.uk/government/publications/healthy-child-programme-high-impact-area-framework",
+          "publishedOn": "2026-02-06T09:30:00.000Z",
+          "wordCount": 1138,
+          "title": "Guidance: Healthy child programme: high-impact area framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/delivery-of-the-healthy-child-programme",
+          "author": null,
+          "description": "The principles underlying the programme and the expectations that public health nursing teams are expected to meet when delivering services in England.",
+          "link": "https://www.gov.uk/government/publications/delivery-of-the-healthy-child-programme",
+          "publishedOn": "2026-02-06T09:30:00.000Z",
+          "wordCount": 1173,
+          "title": "Guidance: Delivery of the healthy child programme",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services",
+          "author": null,
+          "description": "How commissioners should establish, monitor and assure the quality of public health nursing services delivered under the healthy child programme in England.",
+          "link": "https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services",
+          "publishedOn": "2026-02-06T09:30:00.000Z",
+          "wordCount": 1109,
+          "title": "Guidance: Healthy child programme: commissioning public health nursing services",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/adult-social-care-outcomes-framework-handbook-of-definitions",
           "author": null,
