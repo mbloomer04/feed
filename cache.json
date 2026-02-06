@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1947570",
+          "author": null,
+          "description": "Exclusive: The speed at which ICB cuts are taking place alongside wider NHS reforms risks undermining patient care - and redundancies should have been phased in over a ‘few years', Labour MP and GP Dr Simon Opher has said.",
+          "link": "https://www.gponline.com/pace-icb-cuts-risks-harming-patient-care-warns-labour-gp-mp/article/1947570",
+          "publishedOn": "2026-02-06T10:25:49.000Z",
+          "wordCount": 955,
+          "title": "Pace of ICB cuts risks harming patient care, warns Labour GP/MP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/SimonOpher_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1947476",
           "author": null,
           "description": "The GPonline team discusses the latest news affecting general practice.",
@@ -1848,6 +1858,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/proposed-changes-to-the-social-work-bursary-and-the-education-support-grant",
+          "author": null,
+          "description": "Consultation seeking views on proposed reforms to the Social Work Bursary and Education Support Grant  in England.",
+          "link": "https://www.gov.uk/government/consultations/proposed-changes-to-the-social-work-bursary-and-the-education-support-grant",
+          "publishedOn": "2026-02-06T12:00:00.000Z",
+          "wordCount": 1231,
+          "title": "Proposed changes to the Social Work Bursary and the Education Support Grant",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/healthy-child-programme-high-impact-area-framework",
           "author": null,
