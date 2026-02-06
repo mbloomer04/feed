@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-06T06:42:35.284Z</updated>
+    <updated>2026-02-06T07:40:34.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=257473</id>
+        <link href="https://www.digitalhealth.net/2026/02/movers-and-shakers-news-roundup-68/"/>
+        <updated>2026-02-06T07:30:22.000Z</updated>
+        <summary type="html"><![CDATA[This roundup features two big departures from NHS England and the appointment of a chief executive of the Health Data Research Service.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Over four million girls still at risk of female genital mutilation: UN leaders call for sustained commitment and investment to end FGM]]></title>
         <id>urn:uuid:7f0f6fcf-56ee-4572-8ecb-0715d9d912b8</id>
