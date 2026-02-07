@@ -1707,18 +1707,7 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "d585aac1-e2b6-41d9-8964-e0366454c1eb",
-          "author": "enquiries@nhsdigital.nhs.uk (Darren Hickling)",
-          "description": "Darren Hickling describes NHS Digital’s role in developing a platform to identify the highest risk COVID-19 patients so they could receive life-saving antiviral treatments.  \n\r\n\r\nAs COVID-19 emerged and treatment options were limited, pharmaceutical companies began researching and developing new antibody and antiviral treatments to reduce viral replication or alleviate symptoms in immunocompromised people.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2023/a-new-way-to-find-patients",
-          "publishedOn": "2026-01-08T14:11:36.000Z",
-          "wordCount": null,
-          "title": "A new way to find patients",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Design Matters Blog Feed",
@@ -3658,16 +3647,6 @@
           "wordCount": 6519,
           "title": "Movers and Shakers news roundup",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/08/Movers-and-Shakers-new-graphic.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=254571",
-          "author": "Jordan Sollof",
-          "description": "Home healthcare innovator Cera has launched a suite of new AI agents aimed to improve care quality and productivity in the home care sector.",
-          "link": "https://www.digitalhealth.net/2026/01/cera-launches-ai-agents-to-automate-home-care/",
-          "publishedOn": "2026-01-08T13:30:31.000Z",
-          "wordCount": 4403,
-          "title": "Cera launches AI agents to automate home care",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/01/Dr-Ben-Maruthappu-Founder-CEO-Cera-1-1.png"
         }
       ]
     },
