@@ -1828,6 +1828,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "author": null,
+          "description": "The public health grant allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "publishedOn": "2026-02-09T17:14:26.000Z",
+          "wordCount": 986,
+          "title": "Guidance: Public health grants to local authorities: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "publishedOn": "2026-02-09T15:45:06.000Z",
+          "wordCount": 1008,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-december-2025",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
