@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "81cf6d4f-fbb9-4b66-8448-23c0e3386c55",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical vulnerability could allow an unauthenticated attacker to perform remote code execution\n A critical vulnerability could allow an unauthenticated attacker to perform remote code execution\n Updated: 09 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4743",
+          "publishedOn": "2026-02-09T14:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4743 - BeyondTrust Releases Security Advisory for Remote Support and Privileged Remote Access",
+          "imageUrl": null
+        },
+        {
           "id": "24f47eec-787d-4506-825e-d86e9387548a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Ivanti has addressed two exploited vulnerabilities that could lead to unauthenticated remote code execution\n Ivanti has addressed two exploited vulnerabilities that could lead to unauthenticated remote code execution\n Updated: 30 Jan 2026",
