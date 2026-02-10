@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-10T10:46:35.445Z</updated>
+    <updated>2026-02-10T11:43:17.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=257547</id>
+        <link href="https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-140/"/>
+        <updated>2026-02-10T11:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a digital bedside service in Norfolk and a study on Transcranial magnetic stimulation as a treatment for depression.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the interoperability conundrum]]></title>
+        <id>https://www.digitalhealth.net/?p=257509</id>
+        <link href="https://www.digitalhealth.net/2026/02/exploring-the-interoperability-conundrum/"/>
+        <updated>2026-02-10T11:00:53.000Z</updated>
+        <summary type="html"><![CDATA[This episode of Digital Health Unplugged, in partnership with BridgeHead Software, examines the hidden barriers to interoperability.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oracle EPR go-live in Essex ‘likely to be delayed’]]></title>
         <id>https://www.digitalhealth.net/?p=257641</id>
