@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948061",
+          "author": null,
+          "description": "NHS England will share data from millions of GP patient records with research programmes under a legal direction from the government.",
+          "link": "https://www.gponline.com/data-millions-gp-patient-records-shared-research/article/1948061",
+          "publishedOn": "2026-02-11T10:10:00.000Z",
+          "wordCount": 730,
+          "title": "Data from millions of GP patient records to be shared for research",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/computer_GettyImages-OscarWong_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1947939",
           "author": null,
           "description": "Public sector green investment schemes should be extended to GP practices to support premises improvement and help the NHS meet net zero goals, the RCGP has told the government.",
@@ -1807,6 +1817,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-and-medical-devices-act-2021-5-year-report",
+          "author": null,
+          "description": "Report which provides assessments on how human and veterinary medicines and medical devices legislation has operated in the UK from 2021 to 2026.",
+          "link": "https://www.gov.uk/government/publications/medicines-and-medical-devices-act-2021-5-year-report",
+          "publishedOn": "2026-02-11T10:36:24.000Z",
+          "wordCount": 1166,
+          "title": "Research: Medicines and Medical Devices Act 2021: 5 year report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-counter-fraud-authority-2026-to-2029",
           "author": null,
@@ -2978,6 +2998,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=257787",
+          "author": "Jordan Sollof",
+          "description": "Nottingham University Hospitals NHS Trust now has a fully functioning electronic patient record (EPR) following last year’s critical incident.",
+          "link": "https://www.digitalhealth.net/2026/02/nottingham-hospitals-epr-fully-functioning-after-issues-resolved/",
+          "publishedOn": "2026-02-11T11:00:44.000Z",
+          "wordCount": 6556,
+          "title": "Nottingham Hospitals EPR fully functioning after issues resolved",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/02/Andy-Callow-NUH.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=257865",
           "author": "Tammy Lovell",
