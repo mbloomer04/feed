@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "575347bc-931a-4b6f-97e2-33a68e1dfe0a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 58 vulnerabilities, including six actively exploited vulnerabilities\n Scheduled updates for Microsoft products address 58 vulnerabilities, including six actively exploited vulnerabilities\n Updated: 11 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4744",
+          "publishedOn": "2026-02-11T14:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4744 - Microsoft Releases February 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "81cf6d4f-fbb9-4b66-8448-23c0e3386c55",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A critical vulnerability could allow an unauthenticated attacker to perform remote code execution\n A critical vulnerability could allow an unauthenticated attacker to perform remote code execution\n Updated: 09 Feb 2026",
