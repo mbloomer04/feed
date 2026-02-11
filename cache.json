@@ -2656,16 +2656,6 @@
           "wordCount": 893,
           "title": "Guidance: Providing healthcare public health advice to integrated care boards",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/healthcare-innovator-appointed-to-health-data-research-service",
-          "author": null,
-          "description": "Healthcare industry innovator Dr Melanie Ivarsson has been appointed as CEO of the HDRS to accelerate medical breakthroughs.",
-          "link": "https://www.gov.uk/government/news/healthcare-innovator-appointed-to-health-data-research-service",
-          "publishedOn": "2026-01-12T17:00:01.000Z",
-          "wordCount": 3146,
-          "title": "Healthcare innovator appointed to Health Data Research Service",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2861,6 +2851,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:29344169-9e76-43b7-b397-dba8c475105b",
+          "author": null,
+          "description": "The World Health Organization (WHO) is urging countries to accelerate efforts to ensure that millions of people living with cataract can access simple, sight‑restoring surgery – one of the most effective and affordable interventions to prevent avoidable blindness.",
+          "link": "https://www.who.int/news/item/11-02-2026-one-in-two-people-facing-cataract-blindness-need-access-to-life-changing-surgery",
+          "publishedOn": "2026-02-10T23:30:33.000Z",
+          "wordCount": 2294,
+          "title": "One in two people facing cataract blindness need access to life-changing surgery",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/disability/blindness-and-vision-impairment/cataract-operation.tmb-1200v.jpg?sfvrsn=e19544ee_2"
+        },
         {
           "id": "urn:uuid:7f0f6fcf-56ee-4572-8ecb-0715d9d912b8",
           "author": null,
