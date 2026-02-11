@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948072",
+          "author": null,
+          "description": "UK-registered GPs working from overseas are being hired to provide consultations in NHS general practice.",
+          "link": "https://www.gponline.com/doctors-based-asia-australia-delivering-nhs-gp-appointments/article/1948072",
+          "publishedOn": "2026-02-11T11:04:37.000Z",
+          "wordCount": 707,
+          "title": "Doctors based in Asia and Australia delivering NHS GP appointments",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_telephone_GettyImages-SolStock_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1948061",
           "author": null,
           "description": "NHS England will share data from millions of GP patient records with research programmes under a legal direction from the government.",
@@ -1817,6 +1827,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/mod-integration-into-the-nhs-prescription-service-directions",
+          "author": null,
+          "description": "Directions setting out the integration of the Ministry of Defence (MoD) into the NHS Prescription Service.",
+          "link": "https://www.gov.uk/government/publications/mod-integration-into-the-nhs-prescription-service-directions",
+          "publishedOn": "2026-02-11T12:21:34.000Z",
+          "wordCount": 885,
+          "title": "Statutory guidance: MoD integration into the NHS Prescription Service: directions",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/nurses-to-benefit-from-boost-to-graduate-pay-and-job-progression",
+          "author": null,
+          "description": "Government and Royal College of Nursing agree comprehensive package to recognise value of profession.",
+          "link": "https://www.gov.uk/government/news/nurses-to-benefit-from-boost-to-graduate-pay-and-job-progression",
+          "publishedOn": "2026-02-11T11:54:36.000Z",
+          "wordCount": 3391,
+          "title": "Nurses to benefit from boost to graduate pay and job progression",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/medicines-and-medical-devices-act-2021-5-year-report",
           "author": null,
