@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "335afbdd-20e8-4ed5-9a83-65641cb93902",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-20700 is under active exploitation and could lead to arbitrary code execution\n CVE-2026-20700 is under active exploitation and could lead to arbitrary code execution\n Updated: 12 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4745",
+          "publishedOn": "2026-02-12T15:09:00.000Z",
+          "wordCount": null,
+          "title": "CC-4745 - Apple Releases Security Updates for iOS and iPadOS",
+          "imageUrl": null
+        },
+        {
           "id": "575347bc-931a-4b6f-97e2-33a68e1dfe0a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 58 vulnerabilities, including six actively exploited vulnerabilities\n Scheduled updates for Microsoft products address 58 vulnerabilities, including six actively exploited vulnerabilities\n Updated: 11 Feb 2026",
