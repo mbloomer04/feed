@@ -1190,6 +1190,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948356",
+          "author": null,
+          "description": "NHS staff in England paid under Agenda for Change will receive a 3.3% pay increase in 2026/27, the government has announced.",
+          "link": "https://www.gponline.com/nhs-staff-receive-33-pay-uplift-2026-27/article/1948356",
+          "publishedOn": "2026-02-13T09:52:18.000Z",
+          "wordCount": 689,
+          "title": "NHS staff to receive 3.3% pay uplift for 2026/27",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2149703737-ezgif.com-optijpeg.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1948233",
+          "author": null,
+          "description": "The CQC is set to scrap its universal assessment approach and is expecting to begin pilots of a new sector-specific framework for general practice in spring this year, the new chief inspector for primary care and community services has said.",
+          "link": "https://www.gponline.com/cqc-pilot-new-gp-specific-inspection-framework-spring/article/1948233",
+          "publishedOn": "2026-02-13T09:05:00.000Z",
+          "wordCount": 1843,
+          "title": "CQC to pilot new GP-specific inspection framework this spring",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Bola.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1948239",
           "author": null,
           "description": "Talking General Practice speaks to CQC chief inspector of primary care and community services Professor Bola Owolabi.",
@@ -1807,6 +1827,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/children-to-be-better-protected-from-second-hand-smoking-vaping",
+          "author": null,
+          "description": "The government is launching a consultation on extending smoke-free places and introducing vape-free and heated tobacco-free spaces",
+          "link": "https://www.gov.uk/government/news/children-to-be-better-protected-from-second-hand-smoking-vaping",
+          "publishedOn": "2026-02-13T10:27:20.000Z",
+          "wordCount": 3188,
+          "title": "Children to be better protected from second-hand smoking & vaping",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-pay-review-body-thirty-ninth-report-2026",
           "author": null,
@@ -2655,16 +2685,6 @@
           "publishedOn": "2026-01-15T09:30:03.000Z",
           "wordCount": 861,
           "title": "Guidance: Adult social care client level data, England: background quality and methodology",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/waiting-lists-cut-three-times-faster-in-highest-joblessness-areas",
-          "author": null,
-          "description": "Waiting lists in 20 areas in England fall three times faster than the national average thanks to experts deployed by government to help supercharge NHS care.",
-          "link": "https://www.gov.uk/government/news/waiting-lists-cut-three-times-faster-in-highest-joblessness-areas",
-          "publishedOn": "2026-01-14T22:30:01.000Z",
-          "wordCount": 2605,
-          "title": "Waiting lists cut three times faster in highest joblessness areas",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
