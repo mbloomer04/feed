@@ -1608,16 +1608,6 @@
           "wordCount": 736,
           "title": "Podcast: Adopting new tech and AI in general practice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.gponline.com/article/1945293",
-          "author": null,
-          "description": "Exclusive: The BMA asked lawyers to investigate whether a letter from Wes Streeting was defamatory towards its GP committee chair Dr Katie Bramall, GPonline understands.",
-          "link": "https://www.gponline.com/bma-considered-defamation-claim-wes-streeting-letter/article/1945293",
-          "publishedOn": "2026-01-15T14:59:44.000Z",
-          "wordCount": 718,
-          "title": "BMA considered defamation claim over Wes Streeting letter",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_64.jpg"
         }
       ]
     },
@@ -1710,6 +1700,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=282526",
+          "author": "jboshell",
+          "description": "Thousands of people living with schizophrenia and severe depression are being recruited by the NHS for a major new study which could unlock a “new era” of personalised treatment for severe mental illness. As part of the world’s largest mental health study, researchers will analyse the DNA of thousands of people alongside detailed questionnaires to […]",
+          "link": "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
+          "publishedOn": "2026-02-14T00:01:27.000Z",
+          "wordCount": 2137,
+          "title": "Thousands recruited for “new era” severe mental illness study",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=282367",
           "author": "Tom W",
@@ -3627,16 +3627,6 @@
           "wordCount": 6367,
           "title": "NHS England launches supplier registry for AI scribing tech",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/10/Alec-Price-Forbes-HETT-2025.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=255271",
-          "author": "Jordan Sollof",
-          "description": "Wrexham Maelor Hospital has implemented an electronic prescribing and medicines administration (ePMA) system from supplier Better.",
-          "link": "https://www.digitalhealth.net/2026/01/wrexham-maelor-hospital-rolls-out-epma-system/",
-          "publishedOn": "2026-01-15T13:30:24.000Z",
-          "wordCount": 4426,
-          "title": "Wrexham Maelor Hospital rolls out ePMA system",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/EPMA-project-launch.jpg"
         }
       ]
     },
