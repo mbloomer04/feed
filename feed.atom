@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-16T10:40:56.640Z</updated>
+    <updated>2026-02-16T11:34:14.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oracle Health’s clinical AI agent launches in UK after NHS pilot]]></title>
+        <id>https://www.digitalhealth.net/?p=258195</id>
+        <link href="https://www.digitalhealth.net/2026/02/oracle-healths-clinical-ai-agent-launches-in-uk-after-nhs-pilot/"/>
+        <updated>2026-02-16T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Oracle Health has announced its clinical AI agent Clinical Note is available in the UK following a pilot programme in the NHS.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parents urged to protect children through vaccination campaign]]></title>
+        <id>https://www.gov.uk/government/news/parents-urged-to-protect-children-through-vaccination-campaign</id>
+        <link href="https://www.gov.uk/government/news/parents-urged-to-protect-children-through-vaccination-campaign"/>
+        <updated>2026-02-16T10:54:36.000Z</updated>
+        <summary type="html"><![CDATA[New vaccination campaign launched to boost uptake of childhood immunisations.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS value-based procurement pilots launched for MedTech]]></title>
         <id>https://www.digitalhealth.net/?p=258273</id>
