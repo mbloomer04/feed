@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c3d98698-2cb5-4055-8e98-78034b0b55c4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 16 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4746",
+          "publishedOn": "2026-02-16T13:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4746 - Google Releases Security Update for CVE-2026-2441",
+          "imageUrl": null
+        },
+        {
           "id": "335afbdd-20e8-4ed5-9a83-65641cb93902",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-20700 is under active exploitation and could lead to arbitrary code execution\n CVE-2026-20700 is under active exploitation and could lead to arbitrary code execution\n Updated: 12 Feb 2026",
@@ -1179,6 +1189,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1948544",
+          "author": null,
+          "description": "The government has launched a campaign to encourage increased uptake of child vaccinations - but which parts of England have furthest to go to achieve effective coverage?",
+          "link": "https://www.gponline.com/parts-england-furthest-behind-child-vaccine-pr-campaign-begins/article/1948544",
+          "publishedOn": "2026-02-16T11:39:26.000Z",
+          "wordCount": 726,
+          "title": "Which parts of England are furthest behind as child vaccine PR campaign begins?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-AleksandrZubkov_RF_2.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1948356",
           "author": null,
@@ -2778,6 +2798,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=257487",
+          "author": "Tammy Lovell",
+          "description": "NHS Shetland has selected Cambric Systems to supply its mobile electronic patient record (EPR) for community teams.",
+          "link": "https://www.digitalhealth.net/2026/02/nhs-shetland-selects-morse-epr-for-mobile-working/",
+          "publishedOn": "2026-02-16T13:30:23.000Z",
+          "wordCount": 3622,
+          "title": "NHS Shetland selects Morse EPR for mobile working",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/02/Kim-Anderson-Chief-Nurse-Community-and-Mental-Health-NHS-Shetland-1-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=258195",
           "author": "Jordan Sollof",
