@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-17T21:28:05.366Z</updated>
+    <updated>2026-02-17T22:22:01.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -64,6 +64,18 @@
         <summary type="html"><![CDATA[Information for local authorities on charging for care and support.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global commitment on display as countries negotiate key annex to the Pandemic Agreement]]></title>
+        <id>urn:uuid:c8ef3917-29ec-48e4-8510-ac2ea1250fb0</id>
+        <link href="https://www.who.int/news/item/17-02-2026-global-commitment-on-display-as-countries-negotiate-key-annex-to-the-pandemic-agreement"/>
+        <updated>2026-02-17T09:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Member States of the World Health Organization (WHO) concluded a weeklong round of negotiations on draft annex for Pathogen Access and Benefit Sharing (PABS) – a key component of the WHO Pandemic Agreement.
+
+The fifth meeting of the Intergovernmental Working Group on the WHO Pandemic Agreement (IGWG) – set up by the World Health Assembly (WHA) last year to negotiate the PABS annex – wrapped up over the weekend after productive discussions from 9–14 February 2026.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2267,16 +2279,6 @@ Last year we published our blog ‘What happens when we ‘sunset’ our APIs?�
         <summary type="html"><![CDATA[The Blood Transfusion service at Aneurin Bevan University Health Board (ABUHB) has gone live with Clinisys WinPath.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior NHS manager jailed for six-figure fake ARRS staff fraud]]></title>
-        <id>https://www.gponline.com/article/1945502</id>
-        <link href="https://www.gponline.com/senior-nhs-manager-jailed-six-figure-fake-arrs-staff-fraud/article/1945502"/>
-        <updated>2026-01-19T09:49:37.000Z</updated>
-        <summary type="html"><![CDATA[A senior NHS manager has been jailed after defrauding the health service of more than £100,000 by making payments to fake additional roles reimbursement scheme (ARRS) staff.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
