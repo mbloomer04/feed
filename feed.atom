@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-17T10:37:30.608Z</updated>
+    <updated>2026-02-17T11:33:47.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=257841</id>
+        <link href="https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-142/"/>
+        <updated>2026-02-17T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a partnership between Pebble Wellbeing and Doctor Care Anywhere, and Pharmacy2U's relaunch of veterinary care.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Epic: Judy Faulkner on leadership]]></title>
+        <id>https://www.digitalhealth.net/?p=258351</id>
+        <link href="https://www.digitalhealth.net/2026/02/building-epic-judy-faulkner-on-leadership/"/>
+        <updated>2026-02-17T11:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Judy Faulkner, founder and CEO of Epic, tells Unplugged about building one of the world’s most influential electronic health record systems.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Social care charging for local authorities: 2026 to 2027]]></title>
         <id>https://www.gov.uk/government/publications/social-care-charging-for-local-authorities-2026-to-2027</id>
