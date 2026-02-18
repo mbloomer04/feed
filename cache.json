@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948775",
+          "author": null,
+          "description": "GP practices could withdraw from next year's flu vaccination campaign because real-terms funding has been slashed by more than a quarter over recent years, the BMA has warned.",
+          "link": "https://www.gponline.com/funding-cuts-force-gp-practices-pull-flu-jab-campaign/infections-and-infestations/influenza/article/1948775",
+          "publishedOn": "2026-02-18T10:22:00.000Z",
+          "wordCount": 750,
+          "title": "Funding cuts could force GP practices to pull out of flu jab campaign",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1948735",
           "author": null,
           "description": "New guidance hailed by NICE as the biggest shakeup of diabetes care in a decade could prevent around 17,000 deaths over three years and save the NHS hundreds of millions of pounds.",
@@ -1788,16 +1798,6 @@
           "publishedOn": "2026-01-22T10:50:03.000Z",
           "wordCount": 1345,
           "title": "Hospitals still under pressure with another cold snap and norovirus rise",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=281068",
-          "author": "rwootton",
-          "description": "Teachers, school nurses, and GPs will be offered NHS support to spot the early signs of eating disorders, so no child is left to ‘suffer in silence’. The NHS has overhauled eating disorder services in response to rising demand with the number of children and young people treated rising two fifths since the pandemic (from […]",
-          "link": "https://www.england.nhs.uk/2026/01/nhs-staff-to-train-teachers-school-nurses-and-gps-to-spot-eating-disorders/",
-          "publishedOn": "2026-01-20T00:01:28.000Z",
-          "wordCount": 2065,
-          "title": "NHS staff to train teachers, school nurses, and GPs to spot eating disorders",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]

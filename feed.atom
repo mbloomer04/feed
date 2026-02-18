@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-18T11:32:44.687Z</updated>
+    <updated>2026-02-18T12:42:37.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The Patients Association has called for more transparency around the use of AI in healthcare in response to the MHRA's call for evidence.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funding cuts could force GP practices to pull out of flu jab campaign]]></title>
+        <id>https://www.gponline.com/article/1948775</id>
+        <link href="https://www.gponline.com/funding-cuts-force-gp-practices-pull-flu-jab-campaign/infections-and-infestations/influenza/article/1948775"/>
+        <updated>2026-02-18T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[GP practices could withdraw from next year's flu vaccination campaign because real-terms funding has been slashed by more than a quarter over recent years, the BMA has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2319,16 +2329,6 @@ Last year we published our blog ‘What happens when we ‘sunset’ our APIs?�
         <summary type="html"><![CDATA[A shortlist of 16 digital health start-ups has been selected to advance to the next stage of Digital Health Rewired Pitchfest 2026.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS staff to train teachers, school nurses, and GPs to spot eating disorders]]></title>
-        <id>https://www.england.nhs.uk/?p=281068</id>
-        <link href="https://www.england.nhs.uk/2026/01/nhs-staff-to-train-teachers-school-nurses-and-gps-to-spot-eating-disorders/"/>
-        <updated>2026-01-20T00:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Teachers, school nurses, and GPs will be offered NHS support to spot the early signs of eating disorders, so no child is left to ‘suffer in silence’. The NHS has overhauled eating disorder services in response to rising demand with the number of children and young people treated rising two fifths since the pandemic (from […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
     <entry>
