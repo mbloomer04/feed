@@ -1190,6 +1190,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948735",
+          "author": null,
+          "description": "New guidance hailed by NICE as the biggest shakeup of diabetes care in a decade could prevent around 17,000 deaths over three years and save the NHS hundreds of millions of pounds.",
+          "link": "https://www.gponline.com/nice-backs-landmark-diabetes-shift-save-17000-lives-three-years/diabetes/article/1948735",
+          "publishedOn": "2026-02-18T00:01:00.000Z",
+          "wordCount": 746,
+          "title": "NICE backs landmark diabetes shift to save 17,000 lives in three years",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.gponline.com/article/1948635",
           "author": null,
           "description": "Next year's GP contract - expected imminently - will see a stronger focus on diabetes and child vaccination, NHS officials have said.",
@@ -1700,6 +1710,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=282743",
+          "author": "rwootton",
+          "description": "Millions of adults facing debilitating anxiety conditions are missing out on treatment that could help them recover and get back on with their lives the NHS has said, as it launches a major new mental health campaign. New analysis of NHS data shows that over 670,000 people were treated with NHS talking therapy care last […]",
+          "link": "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
+          "publishedOn": "2026-02-18T00:01:46.000Z",
+          "wordCount": 3266,
+          "title": "“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=282526",
           "author": "jboshell",
