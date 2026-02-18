@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-18T14:02:32.001Z</updated>
+    <updated>2026-02-18T15:43:03.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4747 - Microsoft Releases Critical Advisory for Vulnerability CVE-2026-26119]]></title>
+        <id>f286982c-dff9-4cf4-a420-898a6c060dcd</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4747"/>
+        <updated>2026-02-18T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Microsoft discloses privilege escalation vulnerability in Windows Admin Center
+ Microsoft discloses privilege escalation vulnerability in Windows Admin Center
+ Updated: 18 Feb 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doncaster and Bassetlaw pilots communication app for patients]]></title>
         <id>https://www.digitalhealth.net/?p=258371</id>

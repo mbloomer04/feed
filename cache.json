@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f286982c-dff9-4cf4-a420-898a6c060dcd",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Microsoft discloses privilege escalation vulnerability in Windows Admin Center\n Microsoft discloses privilege escalation vulnerability in Windows Admin Center\n Updated: 18 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4747",
+          "publishedOn": "2026-02-18T14:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4747 - Microsoft Releases Critical Advisory for Vulnerability CVE-2026-26119",
+          "imageUrl": null
+        },
+        {
           "id": "c3d98698-2cb5-4055-8e98-78034b0b55c4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Security update addresses an exploited high severity vulnerability in Google Chrome\n Updated: 16 Feb 2026",
