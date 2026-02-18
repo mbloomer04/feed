@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-18T06:53:35.061Z</updated>
+    <updated>2026-02-18T07:44:50.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patchwork Health launches AI rostering tool for NHS clinicians]]></title>
+        <id>https://www.digitalhealth.net/?p=258205</id>
+        <link href="https://www.digitalhealth.net/2026/02/patchwork-health-launches-ai-rostering-tool-for-nhs-clinicians/"/>
+        <updated>2026-02-18T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Patchwork Health has launched an AI-powered ‘Preferenced-Based Rostering’ tool to improve the way NHS hospitals staff their wards.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety]]></title>
         <id>https://www.england.nhs.uk/?p=282743</id>
