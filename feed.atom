@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-18T15:43:03.093Z</updated>
+    <updated>2026-02-18T16:54:17.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Q&A: Professor Bola Owolabi on how CQC regulation of general practice is changing]]></title>
+        <id>https://www.gponline.com/article/1948438</id>
+        <link href="https://www.gponline.com/q-a-professor-bola-owolabi-cqc-regulation-general-practice-changing/article/1948438"/>
+        <updated>2026-02-18T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A transcript of Talking General Practice’s recent interview with CQC chief inspector of primary care and community services Profesor Bola Owolabi.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4747 - Microsoft Releases Critical Advisory for Vulnerability CVE-2026-26119]]></title>
         <id>f286982c-dff9-4cf4-a420-898a6c060dcd</id>
