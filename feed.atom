@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-19T22:22:41.782Z</updated>
+    <updated>2026-02-19T23:22:41.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -195,6 +195,16 @@
         <link href="https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-january-2026"/>
         <updated>2026-02-18T09:30:04.000Z</updated>
         <summary type="html"><![CDATA[Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: UK Clinical Research Delivery key performance indicators: methodology]]></title>
+        <id>https://www.gov.uk/government/publications/uk-clinical-research-delivery-key-performance-indicators-methodology</id>
+        <link href="https://www.gov.uk/government/publications/uk-clinical-research-delivery-key-performance-indicators-methodology"/>
+        <updated>2026-02-18T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Detailed information on the sources, quality and scope of the UK Clinical Research Delivery programme key performance indicators.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
