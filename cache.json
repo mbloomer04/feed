@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948924",
+          "author": null,
+          "description": "A paramedic employed at two West Midlands GP practices through the additional roles reimbursement scheme (ARRS) has been handed a suspended jail sentence for defrauding the NHS out of nearly £64,000.",
+          "link": "https://www.gponline.com/arrs-paramedic-handed-suspended-jail-term-60k-fraud/article/1948924",
+          "publishedOn": "2026-02-19T10:10:58.000Z",
+          "wordCount": 734,
+          "title": "ARRS paramedic handed suspended jail term over £60k fraud",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/police_GettyImages-GeorgeClerk_RF_7.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1948837",
           "author": null,
           "description": "Managing childcare arrangements can cause problems for GPs at all stages of their careers. Three GPs talk to GPonline about how they have coped.",
@@ -1710,6 +1720,26 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=282948",
+          "author": "jboshell",
+          "description": "Hundreds of thousands more women attended NHS breast screening last year and thousands more cancers were diagnosed early in England. New figures today show that in 2024/25, 1.94 million women aged 50 to 70 attended screening within six months of invitation – up nearly 200,000 (193,745) from 1.75 million the previous year. As a result, […]",
+          "link": "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
+          "publishedOn": "2026-02-19T11:13:44.000Z",
+          "wordCount": 1636,
+          "title": "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=282945",
+          "author": "jboshell",
+          "description": "The NHS could be facing a “second surge” in norovirus as the vomiting bug reaches its highest level so far this winter. Figures published today show the average number of patients in hospital with norovirus each day this week rose to over 1,000 for the first time this winter (1,012). The total is a jump […]",
+          "link": "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
+          "publishedOn": "2026-02-19T11:06:28.000Z",
+          "wordCount": 1207,
+          "title": "NHS facing ‘second surge’ in vomiting virus as cases reach highest level this winter",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=282743",
           "author": "rwootton",
@@ -2828,6 +2858,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=258041",
+          "author": "Jordan Sollof",
+          "description": "Today's coffee briefing features the Welsh Blood Service awarding a contract for the delivery a Blood Establishment Computer System.",
+          "link": "https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-172/",
+          "publishedOn": "2026-02-19T11:30:56.000Z",
+          "wordCount": 3846,
+          "title": "Digital Health Coffee Time Briefing",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=258621",
           "author": "Jordan Sollof",
