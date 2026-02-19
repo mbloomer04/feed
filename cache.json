@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1948837",
+          "author": null,
+          "description": "Managing childcare arrangements can cause problems for GPs at all stages of their careers. Three GPs talk to GPonline about how they have coped.",
+          "link": "https://www.gponline.com/childcare-problems-holding-back-gp-workforce/article/1948837",
+          "publishedOn": "2026-02-18T18:00:00.000Z",
+          "wordCount": 722,
+          "title": "How childcare problems are holding back the GP workforce",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-sturti3_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1948438",
           "author": null,
           "description": "A transcript of Talking General Practice’s recent interview with CQC chief inspector of primary care and community services Profesor Bola Owolabi.",
@@ -1628,16 +1638,6 @@
           "wordCount": 768,
           "title": "Viewpoint: Online access policy must be the government's next U-turn",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Tom_Riddington_1.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1945688",
-          "author": null,
-          "description": "GP leaders have warned that the profession is witnessing the 'serious impact of digital harms' on patients, as the government launched a consultation on a potential social media ban for children.",
-          "link": "https://www.gponline.com/gps-witnessing-serious-digital-harm-ministers-mull-social-media-ban/article/1945688",
-          "publishedOn": "2026-01-20T12:48:13.000Z",
-          "wordCount": 739,
-          "title": "GPs witnessing 'serious digital harm' as ministers mull social media ban",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/child_phone_GettyImages-GeorgeChan.jpg"
         }
       ]
     },
@@ -3547,26 +3547,6 @@
           "wordCount": 4766,
           "title": "Norfolk and Waveney delays EPR to ‘take extra time to get it right’",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/10/Ed-Prosser-Snelling.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=255479",
-          "author": "Jordan Sollof",
-          "description": "The Royal Hospital for Neuro-disability and East Kent Hospitals University NHS Foundation Trust will deploy Sanome's MEMORI AI tool.",
-          "link": "https://www.digitalhealth.net/2026/01/two-major-uk-hospitals-to-deploy-ai-to-help-detect-infections/",
-          "publishedOn": "2026-01-20T11:34:30.000Z",
-          "wordCount": 6454,
-          "title": "Two major UK hospitals to deploy AI to help detect infections",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/01/Benedikt-von-Thungen-Sanome.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=254695",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features funding for preventive healthcare company Ahead Health, and an AI-powered teeth straightening solution.",
-          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-135/",
-          "publishedOn": "2026-01-20T11:30:07.000Z",
-          "wordCount": 6429,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     },

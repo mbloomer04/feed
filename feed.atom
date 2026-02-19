@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-18T23:21:49.958Z</updated>
+    <updated>2026-02-19T01:23:52.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How childcare problems are holding back the GP workforce]]></title>
+        <id>https://www.gponline.com/article/1948837</id>
+        <link href="https://www.gponline.com/childcare-problems-holding-back-gp-workforce/article/1948837"/>
+        <updated>2026-02-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Managing childcare arrangements can cause problems for GPs at all stages of their careers. Three GPs talk to GPonline about how they have coped.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Q&A: Professor Bola Owolabi on how CQC regulation of general practice is changing]]></title>
         <id>https://www.gponline.com/article/1948438</id>
@@ -2226,36 +2236,6 @@ Efforts to eliminate leprosy have been leading to reductions in the number of ne
         <summary type="html"><![CDATA[This consultation seeks views on amending the Human Medicines Regulations 2012 to support the ongoing supply and deployment of vaccinations across the UK.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPs witnessing 'serious digital harm' as ministers mull social media ban]]></title>
-        <id>https://www.gponline.com/article/1945688</id>
-        <link href="https://www.gponline.com/gps-witnessing-serious-digital-harm-ministers-mull-social-media-ban/article/1945688"/>
-        <updated>2026-01-20T12:48:13.000Z</updated>
-        <summary type="html"><![CDATA[GP leaders have warned that the profession is witnessing the 'serious impact of digital harms' on patients, as the government launched a consultation on a potential social media ban for children.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two major UK hospitals to deploy AI to help detect infections]]></title>
-        <id>https://www.digitalhealth.net/?p=255479</id>
-        <link href="https://www.digitalhealth.net/2026/01/two-major-uk-hospitals-to-deploy-ai-to-help-detect-infections/"/>
-        <updated>2026-01-20T11:34:30.000Z</updated>
-        <summary type="html"><![CDATA[The Royal Hospital for Neuro-disability and East Kent Hospitals University NHS Foundation Trust will deploy Sanome's MEMORI AI tool.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=254695</id>
-        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-%e2%98%95-135/"/>
-        <updated>2026-01-20T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features funding for preventive healthcare company Ahead Health, and an AI-powered teeth straightening solution.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
