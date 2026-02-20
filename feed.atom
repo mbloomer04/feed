@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-20T10:29:15.506Z</updated>
+    <updated>2026-02-20T11:25:30.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MHRA consults on indefinite recognition of CE-marked MedTech]]></title>
+        <id>https://www.digitalhealth.net/?p=258853</id>
+        <link href="https://www.digitalhealth.net/2026/02/mhra-launches-consultation-on-ce-marked-medtech/"/>
+        <updated>2026-02-20T11:00:51.000Z</updated>
+        <summary type="html"><![CDATA[The MHRA has launched a consultation on proposals for indefinite recognition of CE-marked medical devices in Great Britain.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: 2024 VPAG operational review: 12 December 2025]]></title>
         <id>https://www.gov.uk/government/publications/2024-vpag-operational-review-12-december-2025</id>
