@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-21T03:59:20.118Z</updated>
+    <updated>2026-02-21T05:06:44.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2168,32 +2168,6 @@ During the session held on 20–22 January 2026, Member States continued text‑
         <summary type="html"><![CDATA[People living in rural and coastal areas will find it easier to see a cancer specialist as the government works to end the postcode lottery for care.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4738 - Cisco Releases Critical Security Update for Unified Communications Products]]></title>
-        <id>c1be3e26-2d58-435a-96c3-10600ebe116d</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4738"/>
-        <updated>2026-01-22T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild
- Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild
- Updated: 22 Jan 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4739 - Oracle Releases Security Advisory to Address a Critical Vulnerability in Oracle Fusion Middleware]]></title>
-        <id>c6ee74bb-fade-42ad-9cf5-2fe4f86d06e1</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4739"/>
-        <updated>2026-01-22T16:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation could allow an unauthenticated attacker with HTTP network access to create, delete, or modify critical data accessible through the Oracle HTTP Server and Oracle WebLogic Server Proxy Plug‑in
- Successful exploitation could allow an unauthenticated attacker with HTTP network access to create, delete, or modify critical data accessible through the Oracle HTTP Server and Oracle WebLogic Server Proxy Plug‑in
- Updated: 22 Jan 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

@@ -84,26 +84,6 @@
           "wordCount": null,
           "title": "CC-4740 - Microsoft Releases Out-of-Band Security Update for Microsoft Office",
           "imageUrl": null
-        },
-        {
-          "id": "c1be3e26-2d58-435a-96c3-10600ebe116d",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild\n Cisco reports RCE vulnerability CVE-2026-20045 has had exploitation attempts in the wild\n Updated: 22 Jan 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4738",
-          "publishedOn": "2026-01-22T16:48:00.000Z",
-          "wordCount": null,
-          "title": "CC-4738 - Cisco Releases Critical Security Update for Unified Communications Products",
-          "imageUrl": null
-        },
-        {
-          "id": "c6ee74bb-fade-42ad-9cf5-2fe4f86d06e1",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could allow an unauthenticated attacker with HTTP network access to create, delete, or modify critical data accessible through the Oracle HTTP Server and Oracle WebLogic Server Proxy Plug‑in\n Successful exploitation could allow an unauthenticated attacker with HTTP network access to create, delete, or modify critical data accessible through the Oracle HTTP Server and Oracle WebLogic Server Proxy Plug‑in\n Updated: 22 Jan 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4739",
-          "publishedOn": "2026-01-22T16:26:00.000Z",
-          "wordCount": null,
-          "title": "CC-4739 - Oracle Releases Security Advisory to Address a Critical Vulnerability in Oracle Fusion Middleware",
-          "imageUrl": null
         }
       ]
     },
