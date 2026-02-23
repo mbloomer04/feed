@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-23T14:02:44.834Z</updated>
+    <updated>2026-02-23T15:50:39.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Clinical investigations of medical devices reached their highest level on record in 2025, according to figures from the MHRA.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhood policy vacuum risks hard-wiring NHS to GPs' disadvantage]]></title>
+        <id>https://www.gponline.com/article/1949268</id>
+        <link href="https://www.gponline.com/neighbourhood-policy-vacuum-risks-hard-wiring-nhs-gps-disadvantage/article/1949268"/>
+        <updated>2026-02-23T12:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Development of NHS neighbourhood models without clear guidance or contracts to shape them risks entrenching existing power imbalances in the health service - unless GPs take the initiative now to secure a leading role, the BMA has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
