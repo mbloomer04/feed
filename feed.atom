@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-23T15:50:39.725Z</updated>
+    <updated>2026-02-23T16:45:28.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attacks on Ukraine’s health care increased by 20% in 2025]]></title>
+        <id>urn:uuid:671dd520-fc6f-4c10-afdc-9e14f2fdf4a5</id>
+        <link href="https://www.who.int/news/item/23-02-2026-attacks-on-ukraine-s-health-care-increased-by-20-in-2025"/>
+        <updated>2026-02-23T16:14:35.000Z</updated>
+        <summary type="html"><![CDATA[As Ukraine enters the fifth year of full-scale war, its people have endured the highest number of attacks on their health care in 2025 – increasing by nearly 20% compared to 2024.
+Since the beginning of the full-scale war on 24 February 2022, WHO has documented at least 2881 attacks on health care in Ukraine, affecting health workers, facilities, ambulances, and medical warehouses.
+Health services are under intense pressure in two fronts: direct attacks on health care, and the cascading effects of strikes on civilian infrastructure, including thermal power plants that underpin the country's power grid. These have left deep gaps in people’s health. According to a WHO assessment conducted in December 2025, 59% of people in frontline areas reported their health as poor or very poor, compared …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK medical device testing hits record high driven by brain research]]></title>
         <id>https://www.digitalhealth.net/?p=258975</id>
