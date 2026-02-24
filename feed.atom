@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-24T08:36:45.515Z</updated>
+    <updated>2026-02-24T09:42:50.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Partnership embeds primary care data directly into clinical trials]]></title>
+        <id>https://www.digitalhealth.net/?p=258841</id>
+        <link href="https://www.digitalhealth.net/2026/02/partnership-integrates-gp-data-into-clinical-trials/"/>
+        <updated>2026-02-24T07:30:20.000Z</updated>
+        <summary type="html"><![CDATA[A partnership between NorthWest eHealth and OneAdvanced is integrating primary care data into clinical trials to make UK research safer.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tens of thousands with vitiligo to be offered “life-changing” new cream on NHS to restore skin colour]]></title>
         <id>https://www.england.nhs.uk/?p=283066</id>
