@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1949398",
+          "author": null,
+          "description": "None of the GP contract updates for 2026/27 outlined so far will help deliver government aims of tackling inequality, moving care out of hospital or prioritising prevention, GP leaders have warned.",
+          "link": "https://www.gponline.com/gp-leaders-slam-ineffective-contract-changes-bma-prepares-push-back/article/1949398",
+          "publishedOn": "2026-02-24T09:57:00.000Z",
+          "wordCount": 738,
+          "title": "GP leaders slam ineffective contract changes as BMA prepares to push back",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_66.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1949346",
           "author": null,
           "description": "GP practices will face new QOF obesity targets in the 2026/27 contract - and could see extra freedom around additional roles reimbursement scheme (ARRS) cash, new targets on same-day access for urgent patients and changes to PCN requirements, GPonline understands.",
@@ -2778,6 +2788,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=258757",
+          "author": "Samuel Webb",
+          "description": "Today's briefing includes X-on Health's launch of Omni Consult and a study on simplifying complex medical results for patients using AI.",
+          "link": "https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-143/",
+          "publishedOn": "2026-02-24T11:30:02.000Z",
+          "wordCount": 3783,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=258697",
+          "author": "Jordan Sollof",
+          "description": "In the latest episode, Marcus Baw calls for a rethink of NHS technology strategy, arguing that the service has drifted away from open source.",
+          "link": "https://www.digitalhealth.net/2026/02/the-case-for-nhs-owned-open-software/",
+          "publishedOn": "2026-02-24T11:00:24.000Z",
+          "wordCount": 3002,
+          "title": "The case for NHS-owned, open software",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/02/Digital-Health-Podcast-Episode-116-Header-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=258841",
           "author": "Jordan Sollof",
