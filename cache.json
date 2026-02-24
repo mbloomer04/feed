@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1949402",
+          "author": null,
+          "description": "Register for free learning every evening from 9-12 March to gain CPD hours and support your patients.",
+          "link": "https://www.gponline.com/mims-learning-live-digital-week-free-learning-supporting-clinical-practice/article/1949402",
+          "publishedOn": "2026-02-24T11:25:17.000Z",
+          "wordCount": 1130,
+          "title": "MIMS Learning Live Digital: a week of free learning supporting your clinical practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MLLDigital2026(858x575px).jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1949398",
           "author": null,
           "description": "None of the GP contract updates for 2026/27 outlined so far will help deliver government aims of tackling inequality, moving care out of hospital or prioritising prevention, GP leaders have warned.",
@@ -1819,16 +1829,6 @@
           "wordCount": 2367,
           "title": "NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=281266",
-          "author": "Tom W",
-          "description": "Thousands of cases of bowel cancer will be diagnosed earlier or even prevented in England, as part of major NHS plans to increase the sensitivity of bowel cancer screening to save more lives. NHS England today announced it is to lower the threshold for a home-screening kit to trigger urgent cancer testing from next month, […]",
-          "link": "https://www.england.nhs.uk/2026/01/nhs-detect-prevent-thousands-more-bowel-cancers-more-sensitive-screening/",
-          "publishedOn": "2026-01-26T00:01:37.000Z",
-          "wordCount": 1991,
-          "title": "NHS to detect and prevent thousands more bowel cancers with more sensitive screening",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1837,6 +1837,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-january-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-january-2026",
+          "publishedOn": "2026-02-24T12:15:53.000Z",
+          "wordCount": 781,
+          "title": "Transparency data: DHSC: workforce management information January 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/doing-business-with-the-health-sector-a-guide-for-buyers-and-small-and-medium-sized-enterprises-smes",
+          "author": null,
+          "description": "A clear, practical guide to help buyers and SMEs build a fair, inclusive environment that can deliver better health outcomes and support SME growth.",
+          "link": "https://www.gov.uk/government/publications/doing-business-with-the-health-sector-a-guide-for-buyers-and-small-and-medium-sized-enterprises-smes",
+          "publishedOn": "2026-02-24T12:00:04.000Z",
+          "wordCount": 1160,
+          "title": "Guidance: Doing business with the health sector: a guide for buyers and small and medium-sized enterprises (SMEs)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/deferred-payment-agreements-dpas-return-2025-to-2026",
+          "author": null,
+          "description": "Guidance for local authorities on how to complete the deferred payment agreements (DPAs) return for the 2025 to 2026 reporting period.",
+          "link": "https://www.gov.uk/government/publications/deferred-payment-agreements-dpas-return-2025-to-2026",
+          "publishedOn": "2026-02-24T11:42:14.000Z",
+          "wordCount": 1099,
+          "title": "Guidance: Deferred payment agreements (DPAs) return, 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/more-children-to-be-protected-from-deadly-viruses",
           "author": null,
