@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-25T11:34:29.636Z</updated>
+    <updated>2026-02-25T12:44:28.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England cyber chief to step down from role]]></title>
+        <id>https://www.digitalhealth.net/?p=259467</id>
+        <link href="https://www.digitalhealth.net/2026/02/nhs-england-cyber-chief-to-step-down-from-role/"/>
+        <updated>2026-02-25T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike Fell, director of national cyber operations at NHS England has announced that he will step down from his role in May.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funding boost to support patients to stay in and return to work]]></title>
+        <id>https://www.gov.uk/government/news/funding-boost-to-support-patients-to-stay-in-and-return-to-work</id>
+        <link href="https://www.gov.uk/government/news/funding-boost-to-support-patients-to-stay-in-and-return-to-work"/>
+        <updated>2026-02-25T12:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Patients will receive better support to help them stay in and get back to work in areas of high economic inactivity.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Female innovators recognised for digital health solutions]]></title>
+        <id>https://www.digitalhealth.net/?p=259045</id>
+        <link href="https://www.digitalhealth.net/2026/02/female-entrepreneurs-develop-ideas-for-digital-health-solutions/"/>
+        <updated>2026-02-25T11:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Ten female entrepreneurs from across Yorkshire and Humber have developed ideas for digital health innovations into workable concepts.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS pilot of AI scripting tech reduced admin time for 87% of users]]></title>
         <id>https://www.digitalhealth.net/?p=259145</id>
@@ -2188,16 +2218,6 @@ The little green FP10 paper prescriptions have all but disappeared in primary ca
         <summary type="html"><![CDATA[Concerns are mounting over links between NHS federated data platform (FDP) supplier Palantir and the US Immigration and Customs Enforcement.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities]]></title>
-        <id>https://www.england.nhs.uk/?p=281324</id>
-        <link href="https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/"/>
-        <updated>2026-01-27T00:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Patients facing suspected lung cancer could get answers sooner under a new NHS pilot using artificial intelligence and robotic technology to help doctors reach hard-to-detect cancers earlier, with fewer invasive tests.  The new approach uses AI software to rapidly analyse lung scans and flag small lumps that are most likely to be cancerous, and a robotic camera is then used to […]]]></summary>
-        <author>
-            <name>nowen</name>
         </author>
     </entry>
     <entry>

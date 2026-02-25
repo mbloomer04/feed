@@ -1839,16 +1839,6 @@
           "wordCount": 1584,
           "title": "NHS services tackling winter head on",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=281324",
-          "author": "nowen",
-          "description": "Patients facing suspected lung cancer could get answers sooner under a new NHS pilot using artificial intelligence and robotic technology to help doctors reach hard-to-detect cancers earlier, with fewer invasive tests.  The new approach uses AI software to rapidly analyse lung scans and flag small lumps that are most likely to be cancerous, and a robotic camera is then used to […]",
-          "link": "https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/",
-          "publishedOn": "2026-01-27T00:01:25.000Z",
-          "wordCount": 2367,
-          "title": "NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1857,6 +1847,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/funding-boost-to-support-patients-to-stay-in-and-return-to-work",
+          "author": null,
+          "description": "Patients will receive better support to help them stay in and get back to work in areas of high economic inactivity.",
+          "link": "https://www.gov.uk/government/news/funding-boost-to-support-patients-to-stay-in-and-return-to-work",
+          "publishedOn": "2026-02-25T12:11:19.000Z",
+          "wordCount": 3045,
+          "title": "Funding boost to support patients to stay in and return to work",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/better-access-to-gps-with-same-day-appointments-for-urgent-care",
           "author": null,
@@ -2828,6 +2828,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=259467",
+          "author": "Tammy Lovell",
+          "description": "Mike Fell, director of national cyber operations at NHS England has announced that he will step down from his role in May.",
+          "link": "https://www.digitalhealth.net/2026/02/nhs-england-cyber-chief-to-step-down-from-role/",
+          "publishedOn": "2026-02-25T12:16:00.000Z",
+          "wordCount": 4355,
+          "title": "NHS England cyber chief to step down from role",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/11/mike-fell-bio-picture-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=259045",
+          "author": "Jordan Sollof",
+          "description": "Ten female entrepreneurs from across Yorkshire and Humber have developed ideas for digital health innovations into workable concepts.",
+          "link": "https://www.digitalhealth.net/2026/02/female-entrepreneurs-develop-ideas-for-digital-health-solutions/",
+          "publishedOn": "2026-02-25T11:56:04.000Z",
+          "wordCount": 6553,
+          "title": "Female innovators recognised for digital health solutions",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/02/Female-Springboard-innovators-Yorkshire-Humber.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=259145",
           "author": "Jordan Sollof",
