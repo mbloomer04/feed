@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6ca3634f-1d1b-4aef-9912-4006416b69ce",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-20127 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n CVE-2026-20127 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n Updated: 26 Feb 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4748",
+          "publishedOn": "2026-02-26T12:31:00.000Z",
+          "wordCount": null,
+          "title": "CC-4748 - Exploitation of Zero-Day Vulnerability in Cisco Catalyst SD-WAN",
+          "imageUrl": null
+        },
+        {
           "id": "f286982c-dff9-4cf4-a420-898a6c060dcd",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Microsoft discloses privilege escalation vulnerability in Windows Admin Center\n Microsoft discloses privilege escalation vulnerability in Windows Admin Center\n Updated: 18 Feb 2026",
@@ -1678,16 +1688,6 @@
           "wordCount": 742,
           "title": "Uptake of £80m advice and guidance DES falling short",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-FlyViewProductions_RF_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1946488",
-          "author": null,
-          "description": "Findings from the latest Health Survey for England reveal rising pressure on general practice as a growing proportion of the population lives with poor health and long-term illness.",
-          "link": "https://www.gponline.com/health-survey-england-shows-pressure-gps/article/1946488",
-          "publishedOn": "2026-01-27T23:48:02.000Z",
-          "wordCount": 733,
-          "title": "What the Health Survey for England shows about pressure on GPs",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti3_2.jpg"
         }
       ]
     },
@@ -2797,6 +2797,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=258819",
+          "author": "Samuel Webb",
+          "description": "Today's round-up features a study that demonstrates AI may be no more effective than Google at identifying health conditions.",
+          "link": "https://www.digitalhealth.net/2026/02/digital-health-coffee-time-briefing-%e2%98%95-144/",
+          "publishedOn": "2026-02-26T11:30:51.000Z",
+          "wordCount": 6798,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=259639",
           "author": "Jordan Sollof",
