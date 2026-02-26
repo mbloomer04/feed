@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-26T01:21:29.121Z</updated>
+    <updated>2026-02-26T04:08:57.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -629,6 +629,19 @@ Health services are under intense pressure in two fronts: direct attacks on heal
         <summary type="html"><![CDATA[New guidance hailed by NICE as the biggest shakeup of diabetes care in a decade could prevent around 17,000 deaths over three years and save the NHS hundreds of millions of pounds.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we’re modernising electronic prescribing]]></title>
+        <id>68e89b19-a38b-41cd-8399-83978d93ea77</id>
+        <link href="https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing"/>
+        <updated>2026-02-17T16:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.
+
+
+The little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Andy Harrison)</name>
         </author>
     </entry>
     <entry>
@@ -2132,36 +2145,6 @@ Today, on the International Day of Zero Tolerance for Female Genital Mutilation,
         <summary type="html"><![CDATA[Secretary of State sets out the need to prioritise homegrown talent for foundation and specialty training posts to support a sustainable NHS workforce]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO urges schools worldwide to promote healthy eating for children]]></title>
-        <id>urn:uuid:6f4dfe36-0dcf-4281-9ae0-4d044df66a97</id>
-        <link href="https://www.who.int/news/item/27-01-2026-who-urges-schools-worldwide-to-promote-healthy-eating-for-children"/>
-        <updated>2026-01-27T15:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Healthy food in schools can help children develop healthy dietary habits for life, according to the World Health Organization (WHO), which released a new global guideline on evidence-based policies and interventions to create healthy school food environments.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS AI and robot pilot to help detect lung cancer sooner]]></title>
-        <id>https://www.digitalhealth.net/?p=256569</id>
-        <link href="https://www.digitalhealth.net/2026/01/nhs-ai-and-robot-pilot-to-help-detect-lung-cancer-sooner/"/>
-        <updated>2026-01-27T13:30:17.000Z</updated>
-        <summary type="html"><![CDATA[NHS England has launched an AI and robot pilot to help spot lung cancer sooner, with fewer invasive tests for suspected cancer patients.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing]]></title>
-        <id>https://www.digitalhealth.net/?p=255597</id>
-        <link href="https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-171/"/>
-        <updated>2026-01-27T11:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features North Lincolnshire Council rolling out System C platforms, including its Liquidlogic education case management.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>

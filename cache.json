@@ -1713,7 +1713,18 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
+          "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
+          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
+          "publishedOn": "2026-02-17T16:22:08.000Z",
+          "wordCount": null,
+          "title": "How we’re modernising electronic prescribing",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inside Story Feed",
@@ -2778,16 +2789,6 @@
           "wordCount": 2472,
           "title": "Communities unite to address stigma and discrimination affecting people with neglected tropical diseases",
           "imageUrl": "https://www.who.int/images/default-source/departments/ntd-library/leishmaniasis/pkdl-patients-in-bangladesh-ok.tmb-1200v.jpg?Culture=en&sfvrsn=9ed88d84_1"
-        },
-        {
-          "id": "urn:uuid:6f4dfe36-0dcf-4281-9ae0-4d044df66a97",
-          "author": null,
-          "description": "Healthy food in schools can help children develop healthy dietary habits for life, according to the World Health Organization (WHO), which released a new global guideline on evidence-based policies and interventions to create healthy school food environments.",
-          "link": "https://www.who.int/news/item/27-01-2026-who-urges-schools-worldwide-to-promote-healthy-eating-for-children",
-          "publishedOn": "2026-01-27T15:26:20.000Z",
-          "wordCount": 2449,
-          "title": "WHO urges schools worldwide to promote healthy eating for children",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/nutrition/children-healthy-habits.tmb-1200v.jpg?sfvrsn=f6bc49e9_1"
         }
       ]
     },
@@ -3465,26 +3466,6 @@
           "wordCount": 6408,
           "title": "AI scribe approved to transcribe GP telephone consultations",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/01/Derrick-Measham-X-on-Health.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=256569",
-          "author": "Jordan Sollof",
-          "description": "NHS England has launched an AI and robot pilot to help spot lung cancer sooner, with fewer invasive tests for suspected cancer patients.",
-          "link": "https://www.digitalhealth.net/2026/01/nhs-ai-and-robot-pilot-to-help-detect-lung-cancer-sooner/",
-          "publishedOn": "2026-01-27T13:30:17.000Z",
-          "wordCount": 6573,
-          "title": "NHS AI and robot pilot to help detect lung cancer sooner",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/01/Dr-Anne-Rigg-Guys-and-St-Thomas.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=255597",
-          "author": "Jordan Sollof",
-          "description": "Today's briefing features North Lincolnshire Council rolling out System C platforms, including its Liquidlogic education case management.",
-          "link": "https://www.digitalhealth.net/2026/01/digital-health-coffee-time-briefing-171/",
-          "publishedOn": "2026-01-27T11:30:57.000Z",
-          "wordCount": 6679,
-          "title": "Digital Health Coffee Time Briefing",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/08/Digital-Health-Coffee-Time-NEW.jpg"
         }
       ]
     },
