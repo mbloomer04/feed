@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-25T23:21:37.481Z</updated>
+    <updated>2026-02-26T01:21:29.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2152,32 +2152,6 @@ Today, on the International Day of Zero Tolerance for Female Genital Mutilation,
         <summary type="html"><![CDATA[NHS England has launched an AI and robot pilot to help spot lung cancer sooner, with fewer invasive tests for suspected cancer patients.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we’re modernising electronic prescribing]]></title>
-        <id>68e89b19-a38b-41cd-8399-83978d93ea77</id>
-        <link href="https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing"/>
-        <updated>2026-01-27T12:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.
-
-
-The little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (Andy Harrison)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4740 - Microsoft Releases Out-of-Band Security Update for Microsoft Office]]></title>
-        <id>91f322a2-ffb4-4374-8bad-f30f00394e62</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4740"/>
-        <updated>2026-01-27T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2026-21509 is under active exploitation and could be used to bypass OLE mitigations in Microsoft 365 and Microsoft Office
- CVE-2026-21509 is under active exploitation and could be used to bypass OLE mitigations in Microsoft 365 and Microsoft Office
- Updated: 27 Jan 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
