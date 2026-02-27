@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-27T15:32:17.383Z</updated>
+    <updated>2026-02-27T16:31:39.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: England Rare Diseases Action Plan 2026]]></title>
+        <id>https://www.gov.uk/government/publications/england-rare-diseases-action-plan-2026</id>
+        <link href="https://www.gov.uk/government/publications/england-rare-diseases-action-plan-2026"/>
+        <updated>2026-02-27T15:50:13.000Z</updated>
+        <summary type="html"><![CDATA[The fifth action plan shows how the Department of Health and Social Care and delivery partners are implementing the UK Rare Diseases Framework in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Health fails to flag over 50% of medical emergencies]]></title>
         <id>https://www.digitalhealth.net/?p=259793</id>
