@@ -2711,6 +2711,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:b8f7b61f-1187-4e0f-bed7-d0f910780132",
+          "author": null,
+          "description": "The World Health Organization (WHO) today announced recommendations for the viral composition of influenza (or “flu”) vaccines for the 2026-2027 northern hemisphere influenza season. The announcement was made following a 4-day consultation examining global influenza surveillance data.",
+          "link": "https://www.who.int/news/item/27-02-2026-recommendations-for-influenza-vaccine-composition-for-the-2026-2027-northern-hemisphere-season",
+          "publishedOn": "2026-02-27T10:01:29.000Z",
+          "wordCount": 2536,
+          "title": "Recommendations for influenza vaccine composition for the 2026-2027 northern hemisphere season",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/influenza/health-worker-receives-flu-vaccine.tmb-1200v.jpg?sfvrsn=14ef2936_1"
+        },
+        {
+          "id": "urn:uuid:35162dcf-3485-4861-ac4e-046836f710ac",
+          "author": null,
+          "description": "The World Health Organization (WHO) has certified Denmark for the elimination of mother-to-child transmission (EMTCT) of HIV and syphilis, recognizing the country's sustained commitment to ensuring every child is born free of these infections.",
+          "link": "https://www.who.int/news/item/27-02-2026-denmark-becomes-first-country-in-the-european-union-to-eliminate-of-mother-to-child-transmission-of-hiv-and-syphilis",
+          "publishedOn": "2026-02-26T17:17:17.000Z",
+          "wordCount": 2684,
+          "title": "Denmark becomes first country in the European Union to eliminate mother-to-child transmission of HIV and syphilis",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/syphilis/maternal-and-newborn-health-in-denmark.tmb-1200v.jpg?sfvrsn=e73e554_2"
+        },
+        {
           "id": "urn:uuid:0ce5fa04-9ac3-465f-89cf-15a8e5a748dd",
           "author": null,
           "description": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
@@ -2837,6 +2857,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=259793",
+          "author": "Tammy Lovell",
+          "description": "ChatGPT Health incorrectly triages more than half of medical emergencies and frequently fails to detect suicidal ideation, a study found.",
+          "link": "https://www.digitalhealth.net/2026/02/chatgpt-health-fails-to-flag-over-50-of-medical-emergencies/",
+          "publishedOn": "2026-02-27T13:30:45.000Z",
+          "wordCount": 6705,
+          "title": "ChatGPT Health fails to flag over 50% of medical emergencies",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2024/09/ChatGPT.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=259527",
           "author": "Jordan Sollof",
