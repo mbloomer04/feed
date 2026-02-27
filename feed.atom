@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-27T10:29:30.785Z</updated>
+    <updated>2026-02-27T11:26:17.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brainomix announces £4.8m funding extension to expand in US]]></title>
+        <id>https://www.digitalhealth.net/?p=259527</id>
+        <link href="https://www.digitalhealth.net/2026/02/brainomix-announces-4-8m-funding-extension-to-expand-in-us/"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brainomix, a stroke and lung fibrosis AI imaging tool provider, has announced a £4.8m funding extension to expand its operations in the US.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England seeks interim CIO to replace John Quinn]]></title>
         <id>https://www.digitalhealth.net/?p=259717</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[All GPs and GP registrars in England will be asked to vote in a referendum on the GMS contract package for 2026/27 - after the deal was rejected 'ovewhelmingly' by the BMA England GP committee.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patients handed over quicker despite 5-year high in number taken to hospital]]></title>
+        <id>https://www.england.nhs.uk/?p=283218</id>
+        <link href="https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/"/>
+        <updated>2026-02-26T16:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Ambulance crews and A&E staff have slashed handover delays by more than 7 minutes this winter – even as they ferried the highest number of patients to hospital in half a decade. Figures out today show that more than 1.2million patients were handed over (1,234,731) to A&Es by ambulances so far this winter. This is […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>
