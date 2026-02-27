@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "CC-4742 - Active Exploitation of Zero-Day Vulnerabilities in Ivanti Endpoint Manager Mobile",
           "imageUrl": null
-        },
-        {
-          "id": "ca7b18db-7641-431b-928f-95ef85f43484",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could allow an attacker with a FortiCloud account and a registered device to log into other devices registered to other accounts, if FortiCloud SSO authentication is enabled on those devices.\n Successful exploitation could allow an attacker with a FortiCloud account and a registered device to log into other devices registered to other accounts, if FortiCloud SSO authentication is enabled on those devices.\n Updated: 28 Jan 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4741",
-          "publishedOn": "2026-01-28T13:36:00.000Z",
-          "wordCount": null,
-          "title": "CC-4741 - Fortinet Releases Security Advisory for FortiCloud SSO Login Authentication Bypass",
-          "imageUrl": null
         }
       ]
     },
@@ -3526,16 +3516,6 @@
           "wordCount": 4607,
           "title": "Airedale sets go-live date for EPR following delay",
           "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2025/09/Leanne-Cooper-Airedale.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=256763",
-          "author": "Jordan Sollof",
-          "description": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published guidance on using mental health apps and digital tools.",
-          "link": "https://www.digitalhealth.net/2026/01/mhra-issues-guidance-for-people-using-mental-health-apps/",
-          "publishedOn": "2026-01-28T13:30:47.000Z",
-          "wordCount": 6488,
-          "title": "MHRA issues guidance for people using mental health apps",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/01/Professor-Anthony-Harnden-MHRA-chair.png"
         }
       ]
     },
