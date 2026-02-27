@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-02-27T06:42:00.646Z</updated>
+    <updated>2026-02-27T07:40:08.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS England seeks interim CIO to replace John Quinn]]></title>
+        <id>https://www.digitalhealth.net/?p=259717</id>
+        <link href="https://www.digitalhealth.net/2026/02/nhse-seeks-interim-cio-to-replace-john-quinn/"/>
+        <updated>2026-02-27T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[NHS England is seeking an interim chief information officer (CIO) following the departure of John Quinn last year.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What does the 2026/27 GP contract mean for general practice in England?]]></title>
+        <id>https://www.gponline.com/article/1949815</id>
+        <link href="https://www.gponline.com/podcast-does-2026-27-gp-contract-mean-general-practice-england/article/1949815"/>
+        <updated>2026-02-27T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[GPonline editor Emma Bower and deputy editor Nick Bostock discuss GP contract changes for 2026/27 and how they could affect practices.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Health service to save millions with boost to electrify NHS fleet]]></title>
         <id>https://www.gov.uk/government/news/health-service-to-save-millions-with-boost-to-electrify-nhs-fleet</id>
