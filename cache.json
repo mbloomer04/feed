@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1950080",
+          "author": null,
+          "description": "Scrapping capacity and access payments to create a practice-level GP recruitment fund risks overshadowing any benefit to practices from the overall £485m funding uplift in the 2026/27 GP contract package, experts warn.",
+          "link": "https://www.gponline.com/why-2026-27-contract-risks-increased-financial-pressure-practices/article/1950080",
+          "publishedOn": "2026-03-02T10:14:35.000Z",
+          "wordCount": 925,
+          "title": "Why the 2026/27 contract risks increased financial pressure for practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_30.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1949842",
           "author": null,
           "description": "Plans to make advice and guidance a part of core general practice work from April as the current £80m DES is scrapped risks undermining GPs' role and patient safety, warns London GP Dr Tom Riddington.",
@@ -1685,7 +1695,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "author": null,
+          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
+          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "publishedOn": "2026-03-02T13:02:40.000Z",
+          "wordCount": 2007,
+          "title": "UK nutrient profiling model 2018 review",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -1846,6 +1867,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "author": null,
+          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
+          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
+          "publishedOn": "2026-03-02T13:02:40.000Z",
+          "wordCount": 2007,
+          "title": "UK nutrient profiling model 2018 review",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-bone-scanners-to-help-prevent-fractures-and-cut-waiting-times",
           "author": null,
@@ -2767,6 +2798,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=259687",
+          "author": "Jordan Sollof",
+          "description": "Reframe Cancer, a provider of specialist cancer navigation, has acquired digital cancer prehabilitation business Alvie Health.",
+          "link": "https://www.digitalhealth.net/2026/03/reframe-cancer-acquires-digital-prehabilitation-firm-alvie-health/",
+          "publishedOn": "2026-03-02T13:30:36.000Z",
+          "wordCount": 6423,
+          "title": "Reframe Cancer acquires digital prehabilitation firm Alvie Health",
+          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/02/Mark-Stephenson-Reframe-Cancer.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=259699",
           "author": "Jordan Sollof",
