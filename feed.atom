@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-02T01:20:47.713Z</updated>
+    <updated>2026-03-02T04:06:13.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS urges ‘tap the app’ as 1 in 4 miss appointments]]></title>
+        <id>https://www.england.nhs.uk/?p=283220</id>
+        <link href="https://www.england.nhs.uk/2026/03/nhs-urges-tap-the-app-as-1-in-4-miss-appointments/"/>
+        <updated>2026-03-02T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 1 in 4 people have missed an NHS appointment because they forgot or arrived too late, according to a new survey. The NHS has launched a new campaign urging people to turn on ‘push alerts’ from the NHS App so they get reminders about appointments and can rearrange any they can’t make, helping to […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New bone scanners to help prevent fractures and cut waiting times]]></title>
         <id>https://www.gov.uk/government/news/new-bone-scanners-to-help-prevent-fractures-and-cut-waiting-times</id>
