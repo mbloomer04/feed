@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-02T10:36:21.821Z</updated>
+    <updated>2026-03-02T11:27:00.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open source platform launched to scale health AI innovation]]></title>
+        <id>https://www.digitalhealth.net/?p=259699</id>
+        <link href="https://www.digitalhealth.net/2026/03/open-source-platform-launched-to-scale-health-ai-innovation/"/>
+        <updated>2026-03-02T11:00:26.000Z</updated>
+        <summary type="html"><![CDATA[The AI Centre for Value-Based Healthcare and deepc has launched an open source platform to help scale healthcare AI.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viewpoint: Why mandatory advice and guidance risks a patient safety fiasco]]></title>
         <id>https://www.gponline.com/article/1949842</id>
