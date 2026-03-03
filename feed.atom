@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-03T12:37:44.730Z</updated>
+    <updated>2026-03-03T13:53:52.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS SBS launches £250m communication framework]]></title>
+        <id>https://www.digitalhealth.net/?p=259977</id>
+        <link href="https://www.digitalhealth.net/2026/03/nhs-sbs-launches-250m-communication-framework/"/>
+        <updated>2026-03-03T13:30:16.000Z</updated>
+        <summary type="html"><![CDATA[NHS Shared Business Services has launched a framework agreement to help the NHS improve how it communicates with its patients through tech.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=259713</id>
@@ -17,11 +27,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GP referral change revealed as NHS plays down same-day access impact]]></title>
+        <id>https://www.gponline.com/article/1950265</id>
+        <link href="https://www.gponline.com/gp-referral-change-revealed-nhs-plays-down-same-day-access-impact/article/1950265"/>
+        <updated>2026-03-03T09:39:51.000Z</updated>
+        <summary type="html"><![CDATA[GP practices in England will be expected to follow 'locally agreed referral pathways' from April as the £80m advice and guidance DES for 2025/26 is scrapped, a senior NHS official has said - and most are already meeting a new requirement to offer same-day access for urgent patients.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPs to follow 'locally-agreed referral pathways' as advice and guidance DES ends]]></title>
         <id>https://www.gponline.com/article/1950265</id>
         <link href="https://www.gponline.com/gps-follow-locally-agreed-referral-pathways-advice-guidance-des-ends/article/1950265"/>
         <updated>2026-03-03T09:39:51.000Z</updated>
         <summary type="html"><![CDATA[GP practices in England will be expected to follow 'locally agreed referral pathways' from April as the £80m advice and guidance DES for 2025/26 is scrapped, a senior NHS official has said - and most are already meeting a new requirement to offer same-day access for urgent patients.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhood NHS already transforming care, say healthcare leaders]]></title>
+        <id>https://www.gponline.com/article/1949732</id>
+        <link href="https://www.gponline.com/neighbourhood-nhs-already-transforming-care-say-healthcare-leaders/article/1949732"/>
+        <updated>2026-03-03T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare leaders have shared their views on how the neighbourhood model is already transforming care and increasing trust in public services including general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
