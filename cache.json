@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "210a6bef-2afa-4675-9e53-10f59427234c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n \r\n\r\n\r\nSecurity advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation\n Security advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation in VMware Aria Operations and Cloud Foundation\n Updated: 04 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4749",
+          "publishedOn": "2026-03-04T14:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4749 - Broadcom Releases Security Update to Address Vulnerabilities in VMware Aria Operations",
+          "imageUrl": null
+        },
+        {
           "id": "6ca3634f-1d1b-4aef-9912-4006416b69ce",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2026-20127 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n CVE-2026-20127 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n Updated: 26 Feb 2026",

@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-04T13:51:27.656Z</updated>
+    <updated>2026-03-04T14:33:11.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4749 - Broadcom Releases Security Update to Address Vulnerabilities in VMware Aria Operations]]></title>
+        <id>210a6bef-2afa-4675-9e53-10f59427234c</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4749"/>
+        <updated>2026-03-04T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ 
+
+
+Security advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation
+ Security advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation in VMware Aria Operations and Cloud Foundation
+ Updated: 04 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doctors raise safety concerns about AI discharge summary tool]]></title>
         <id>https://www.digitalhealth.net/?p=260091</id>
