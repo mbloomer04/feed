@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-04T19:32:23.686Z</updated>
+    <updated>2026-03-04T20:24:25.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chile becomes the first country in the Americas to be verified by WHO for the elimination of leprosy]]></title>
+        <id>urn:uuid:2ce26b5f-614f-44c7-8e66-f1bc5fdc178b</id>
+        <link href="https://www.who.int/news/item/04-03-2026-chile-becomes-the-first-country-in-the-americas-to-be-verified-by-who-for-the-elimination-of-leprosy"/>
+        <updated>2026-03-04T14:57:17.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO), together with the Pan American Health Organization (PAHO), congratulates Chile for becoming the first country in the Americas – and the second globally – to be officially verified as having eliminated leprosy disease.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP practices with a manager partner less likely to close, study finds]]></title>
         <id>https://www.gponline.com/article/1950553</id>
