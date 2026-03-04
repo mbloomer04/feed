@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-04T10:28:01.872Z</updated>
+    <updated>2026-03-04T11:24:00.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIHR awards £47.8m for NHS equipment to boost clinical trials]]></title>
+        <id>https://www.digitalhealth.net/?p=260053</id>
+        <link href="https://www.digitalhealth.net/2026/03/nihr-awards-47-8m-for-nhs-equipment-to-boost-clinical-trials/"/>
+        <updated>2026-03-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The National Institute for Health and Care Research (NIHR) has awarded £47.8m for equipment that will help streamline clinical trial delivery.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA reveals timeline for GP action as contract referendum begins]]></title>
+        <id>https://www.gponline.com/article/1950378</id>
+        <link href="https://www.gponline.com/bma-reveals-timeline-gp-action-contract-referendum-begins/article/1950378"/>
+        <updated>2026-03-04T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Exclusive: GPs will likely return to collective action in April and could move to a ballot on full-day walkouts in summer if they reject the 2026/27 contract in a BMA referendum opening today.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Support for NHS tech and AI is not evenly distributed, finds study]]></title>
         <id>https://www.digitalhealth.net/?p=260039</id>
@@ -2132,16 +2152,6 @@ Today, on the International Day of Zero Tolerance for Female Genital Mutilation,
         <summary type="html"><![CDATA[The Scottish government has pledged that innovation will have a "pivotal role" in ensuring women have access to the best quality care.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six years after COVID-19’s global alarm: Is the world better prepared for the next pandemic?]]></title>
-        <id>urn:uuid:294d02e7-e895-4d55-bf0f-6d432939d759</id>
-        <link href="https://www.who.int/news/item/02-02-2026-six-years-after-covid-19-s-global-alarm-is-the-world-better-prepared-for-the-next-pandemic"/>
-        <updated>2026-02-02T22:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Progress made during the six years, since the declaration of COVID-19 as a Public Health Emergency of International Concern, in preparing for a future pandemic, and what remains to be done.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

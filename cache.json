@@ -1160,6 +1160,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1950378",
+          "author": null,
+          "description": "Exclusive: GPs will likely return to collective action in April and could move to a ballot on full-day walkouts in summer if they reject the 2026/27 contract in a BMA referendum opening today.",
+          "link": "https://www.gponline.com/bma-reveals-timeline-gp-action-contract-referendum-begins/article/1950378",
+          "publishedOn": "2026-03-04T10:45:00.000Z",
+          "wordCount": 934,
+          "title": "BMA reveals timeline for GP action as contract referendum begins",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_crop.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1950265",
           "author": null,
           "description": "GP practices in England will be expected to follow 'locally agreed referral pathways' from April as the £80m advice and guidance DES for 2025/26 is scrapped, a senior NHS official has said - and most are already meeting a new requirement to offer same-day access for urgent patients.",
@@ -2760,16 +2770,6 @@
           "wordCount": 2607,
           "title": "WHO launches 2026 appeal to help millions of people in health emergencies and crisis settings",
           "imageUrl": "https://cdn.who.int/media/images/default-source/products/emergency-appeals/2026/whe-2026-appeal-home-cta-banner.tmb-1200v.jpg?sfvrsn=18d469c7_4"
-        },
-        {
-          "id": "urn:uuid:294d02e7-e895-4d55-bf0f-6d432939d759",
-          "author": null,
-          "description": "Progress made during the six years, since the declaration of COVID-19 as a Public Health Emergency of International Concern, in preparing for a future pandemic, and what remains to be done.",
-          "link": "https://www.who.int/news/item/02-02-2026-six-years-after-covid-19-s-global-alarm-is-the-world-better-prepared-for-the-next-pandemic",
-          "publishedOn": "2026-02-02T22:30:09.000Z",
-          "wordCount": 3702,
-          "title": "Six years after COVID-19’s global alarm: Is the world better prepared for the next pandemic?",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/coronavirus-disease/who-covid-19-preparedness-and-response-bangladesh-2020.tmb-1200v.jpg?sfvrsn=eda2aa46_6"
         }
       ]
     },
@@ -2778,6 +2778,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=260053",
+          "author": "Jordan Sollof",
+          "description": "The National Institute for Health and Care Research (NIHR) has awarded £47.8m for equipment that will help streamline clinical trial delivery.",
+          "link": "https://www.digitalhealth.net/2026/03/nihr-awards-47-8m-for-nhs-equipment-to-boost-clinical-trials/",
+          "publishedOn": "2026-03-04T11:00:00.000Z",
+          "wordCount": null,
+          "title": "NIHR awards £47.8m for NHS equipment to boost clinical trials",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=260039",
           "author": "Jordan Sollof",
