@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f8dbae3a-ca88-4fe9-b54d-e4d6a76d4722",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two critical vulnerabilities could allow an unauthenticated, remote attacker to perform arbitrary code execution and authentication bypass on an affected device.\n Two critical vulnerabilities could allow an unauthenticated, remote attacker to perform arbitrary code executionand authentication bypass on an affected device.\n Updated: 05 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4750",
+          "publishedOn": "2026-03-05T17:02:00.000Z",
+          "wordCount": null,
+          "title": "CC-4750 - Cisco Releases Security Updates for Cisco Secure Firewall Management Center (FMC) Software",
+          "imageUrl": null
+        },
+        {
           "id": "210a6bef-2afa-4675-9e53-10f59427234c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n \r\n\r\n\r\nSecurity advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation\n Security advisory addresses three vulnerabilities that could result in command injection, cross site scripting, and privilege escalation in VMware Aria Operations and Cloud Foundation\n Updated: 04 Mar 2026",
@@ -1917,6 +1927,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-3-year-review-2025",
+          "author": null,
+          "description": "A review of the agreement between the government and the Association of British Insurers (ABI) on the use of genetic test results in underwriting insurance policies.",
+          "link": "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-3-year-review-2025",
+          "publishedOn": "2026-03-05T16:51:51.000Z",
+          "wordCount": 1000,
+          "title": "Corporate report: Code on Genetic Testing and Insurance: 3-year review 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-health-and-social-care-to-baroness-casey",
+          "author": null,
+          "description": "The Secretary of State for Health and Social Care responds to Baroness Casey of Blackstock’s recommendations for immediate action on adult social care.",
+          "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-health-and-social-care-to-baroness-casey",
+          "publishedOn": "2026-03-05T16:20:41.000Z",
+          "wordCount": 975,
+          "title": "Correspondence: Letter from the Secretary of State for Health and Social Care to Baroness Casey",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/liz-chinchen-appointed-as-senior-adviser-to-secretary-of-state",
           "author": null,
