@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-05T23:44:47.571Z</updated>
+    <updated>2026-03-06T01:23:52.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -574,6 +574,16 @@ Security advisory addresses three vulnerabilities that could result in command i
         <link href="https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027"/>
         <updated>2026-02-26T09:30:08.000Z</updated>
         <summary type="html"><![CDATA[The annual flu letter describes the national flu immunisation programme and outlines which groups are eligible for flu vaccination.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England]]></title>
+        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england</id>
+        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england"/>
+        <updated>2026-02-26T08:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Details the government’s plan to transform cancer care and outcomes in England by 2035.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2161,16 +2171,6 @@ Today, on the International Day of Zero Tolerance for Female Genital Mutilation,
         <summary type="html"><![CDATA[A further three NHS chief executives have been confirmed as speakers at Rewired 2026, which takes place on 24-25 March at The NEC Birmingham.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health Secretary, Wes Streeting launches National Cancer Plan]]></title>
-        <id>https://www.gov.uk/government/speeches/health-secretary-wes-streeting-launches-national-cancer-plan</id>
-        <link href="https://www.gov.uk/government/speeches/health-secretary-wes-streeting-launches-national-cancer-plan"/>
-        <updated>2026-02-04T12:04:39.000Z</updated>
-        <summary type="html"><![CDATA[The Secretary of State launched the National Cancer Plan today (4/2) at the Royal Free Infirmary in North London.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
