@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-06T14:31:14.033Z</updated>
+    <updated>2026-03-06T15:29:09.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Equalities impact assessment: 10 Year Health Plan for England]]></title>
+        <id>https://www.gov.uk/government/publications/equalities-impact-assessment-10-year-health-plan-for-england</id>
+        <link href="https://www.gov.uk/government/publications/equalities-impact-assessment-10-year-health-plan-for-england"/>
+        <updated>2026-03-06T14:44:43.000Z</updated>
+        <summary type="html"><![CDATA[The equality impact assessment presents the impacts of the 10 Year Health Plan for England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS population health analytics supporting early intervention]]></title>
         <id>https://www.digitalhealth.net/?p=260289</id>
