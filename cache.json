@@ -1180,6 +1180,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1950723",
+          "author": null,
+          "description": "Exclusive: GP practices have missed out on thousands of pounds in vaccine reimbursements because of IT and staffing issues.",
+          "link": "https://www.gponline.com/gp-practices-miss-vaccine-payments-glitch/article/1950723",
+          "publishedOn": "2026-03-06T09:55:00.000Z",
+          "wordCount": 718,
+          "title": "GP practices miss out on vaccine payments after IT glitch",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1950644",
           "author": null,
           "description": "Core GP funding will rise to £128.69 per patient and the maximum ARRS salary for a GP will move to almost £115,000 from April, GP leaders have revealed.",
@@ -1927,6 +1937,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/crackdown-on-illegal-underage-sunbeds-use-to-cut-teen-cancer-risk",
+          "author": null,
+          "description": "The government plans to crack down on illegal underage sunbed use to cut cancer risks to teenagers.",
+          "link": "https://www.gov.uk/government/news/crackdown-on-illegal-underage-sunbeds-use-to-cut-teen-cancer-risk",
+          "publishedOn": "2026-03-06T11:56:24.000Z",
+          "wordCount": 3404,
+          "title": "Crackdown on illegal underage sunbed use to cut teen cancer risk",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-care-for-overseas-visitors-and-migrants-posters",
+          "author": null,
+          "description": "Posters and leaflets for NHS trusts to use to inform overseas visitors and migrants about access to healthcare in the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-care-for-overseas-visitors-and-migrants-posters",
+          "publishedOn": "2026-03-06T11:30:06.000Z",
+          "wordCount": 1243,
+          "title": "Promotional material: Posters and leaflets for NHS overseas visitors and migrants",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/example-letters-to-clinicians-of-nhs-visitor-and-migrant-patients",
+          "author": null,
+          "description": "A letter that NHS providers can share with clinicians at their trust to explain that a patient must pay for their NHS treatment in England.",
+          "link": "https://www.gov.uk/government/publications/example-letters-to-clinicians-of-nhs-visitor-and-migrant-patients",
+          "publishedOn": "2026-03-06T11:30:06.000Z",
+          "wordCount": 928,
+          "title": "Guidance: Example letter to clinicians of NHS visitor and migrant patients",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/example-letters-to-nhs-visitor-and-migrant-patients",
+          "author": null,
+          "description": "Letters requesting information to determine if patients can receive free NHS treatment and asking for payment in England.",
+          "link": "https://www.gov.uk/government/publications/example-letters-to-nhs-visitor-and-migrant-patients",
+          "publishedOn": "2026-03-06T11:30:06.000Z",
+          "wordCount": 984,
+          "title": "Guidance: Example letters to NHS visitor and migrant patients",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results",
           "author": null,
