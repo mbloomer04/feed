@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-06T12:36:37.332Z</updated>
+    <updated>2026-03-06T13:48:42.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS population health analytics supporting early intervention]]></title>
+        <id>https://www.digitalhealth.net/?p=260289</id>
+        <link href="https://www.digitalhealth.net/2026/03/nhs-population-health-analytics-supporting-early-intervention/"/>
+        <updated>2026-03-06T13:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Population health analytics delivered by Graphnet Health are now embedded across almost nine million patients, supporting early intervention.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crackdown on illegal underage sunbed use to cut teen cancer risk]]></title>
         <id>https://www.gov.uk/government/news/crackdown-on-illegal-underage-sunbeds-use-to-cut-teen-cancer-risk</id>
