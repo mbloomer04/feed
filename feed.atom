@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-06T10:26:58.546Z</updated>
+    <updated>2026-03-06T11:22:02.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI tool predicts repeat heart attack risk for cancer patients]]></title>
+        <id>https://www.digitalhealth.net/?p=260237</id>
+        <link href="https://www.digitalhealth.net/2026/03/ai-tool-predicts-repeat-heart-attack-risk-for-cancer-patients/"/>
+        <updated>2026-03-06T11:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have developed an AI tool that predicts the risk of further heart attacks in people with cancer.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Technology use in adult social care: 2025 survey results]]></title>
         <id>https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results</id>
