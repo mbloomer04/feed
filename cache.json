@@ -1898,6 +1898,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/better-community-care-thanks-to-nursing-funding-boost",
+          "author": null,
+          "description": "Around 80,000 people will be better supported in the community following an increase in funding for nursing care.",
+          "link": "https://www.gov.uk/government/news/better-community-care-thanks-to-nursing-funding-boost",
+          "publishedOn": "2026-03-09T11:04:26.000Z",
+          "wordCount": 1329,
+          "title": "Better community care thanks to nursing funding boost",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/equalities-impact-assessment-10-year-health-plan-for-england",
           "author": null,
           "description": "The equality impact assessment presents the impacts of the 10 Year Health Plan for England.",
@@ -2728,6 +2738,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=260465",
+          "author": "Jordan Sollof",
+          "description": "The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust is experiencing issues with its electronic patient record.",
+          "link": "https://www.digitalhealth.net/2026/03/robert-jones-and-agnes-hunt-experiences-issues-after-epr-go-live/",
+          "publishedOn": "2026-03-09T11:00:42.000Z",
+          "wordCount": null,
+          "title": "Robert Jones and Agnes Hunt facing ‘ongoing issues’ with EPR",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=260369",
           "author": "Jordan Sollof",
