@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "25c2774b-90f0-40f1-baf7-5cee9ed48683",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical vulnerability could allow remote attackers to forge authentication tokens\n A critical vulnerability could allow remote attackers to forge authentication tokens\n Updated: 09 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4751",
+          "publishedOn": "2026-03-09T16:39:00.000Z",
+          "wordCount": null,
+          "title": "CC-4751 - PAC4J Releases Security Updates for pac4j-jwt module",
+          "imageUrl": null
+        },
+        {
           "id": "f8dbae3a-ca88-4fe9-b54d-e4d6a76d4722",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Two critical vulnerabilities could allow an unauthenticated, remote attacker to perform arbitrary code execution and authentication bypass on an affected device.\n Two critical vulnerabilities could allow an unauthenticated, remote attacker to perform arbitrary code executionand authentication bypass on an affected device.\n Updated: 05 Mar 2026",
@@ -1179,6 +1189,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1950929",
+          "author": null,
+          "description": "The 2026/27 GP contract could push GPs into early retirement, cause an increase in patient complaints and lead to staff redundancies, LMCs have warned.",
+          "link": "https://www.gponline.com/lmcs-fear-new-contract-cause-staff-redundancies-early-gp-retirement/article/1950929",
+          "publishedOn": "2026-03-09T15:57:49.000Z",
+          "wordCount": 724,
+          "title": "LMCs fear new contract could cause staff redundancies and early GP retirement",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759958282-ezgif.com-optijpeg_1.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1950883",
           "author": null,

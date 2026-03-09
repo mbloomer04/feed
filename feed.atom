@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-09T15:53:35.737Z</updated>
+    <updated>2026-03-09T16:50:18.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4751 - PAC4J Releases Security Updates for pac4j-jwt module]]></title>
+        <id>25c2774b-90f0-40f1-baf7-5cee9ed48683</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4751"/>
+        <updated>2026-03-09T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ A critical vulnerability could allow remote attackers to forge authentication tokens
+ A critical vulnerability could allow remote attackers to forge authentication tokens
+ Updated: 09 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMCs fear new contract could cause staff redundancies and early GP retirement]]></title>
+        <id>https://www.gponline.com/article/1950929</id>
+        <link href="https://www.gponline.com/lmcs-fear-new-contract-cause-staff-redundancies-early-gp-retirement/article/1950929"/>
+        <updated>2026-03-09T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[The 2026/27 GP contract could push GPs into early retirement, cause an increase in patient complaints and lead to staff redundancies, LMCs have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Royal Devon pilot to evaluate AI-scribing in emergency department]]></title>
         <id>https://www.digitalhealth.net/?p=260341</id>
