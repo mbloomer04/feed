@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-11T06:41:32.733Z</updated>
+    <updated>2026-03-11T07:38:14.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[27% of adult social care providers not using technology for care]]></title>
+        <id>https://www.digitalhealth.net/?p=260595</id>
+        <link href="https://www.digitalhealth.net/2026/03/27-of-adult-social-care-providers-not-using-tech-to-provide-care/"/>
+        <updated>2026-03-11T07:30:18.000Z</updated>
+        <summary type="html"><![CDATA[More than a quarter of adult social care providers are not using technology to provide care and support, a DHSC survey found.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC public appointments: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-public-appointments-2025-to-2026</id>
