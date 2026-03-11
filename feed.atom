@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-11T16:41:44.978Z</updated>
+    <updated>2026-03-11T17:42:34.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why some GP practices are stopping flu jabs and more could follow]]></title>
+        <id>https://www.gponline.com/article/1951071</id>
+        <link href="https://www.gponline.com/why-gp-practices-stopping-flu-jabs-follow/article/1951071"/>
+        <updated>2026-03-11T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Some GP practices have confirmed they have pulled out of delivering flu jabs because of underfunding - and LMC leaders say more could follow.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google AI outperforms human doctors in detecting breast cancer]]></title>
         <id>https://www.digitalhealth.net/?p=260887</id>
