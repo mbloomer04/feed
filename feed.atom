@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-11T21:25:13.146Z</updated>
+    <updated>2026-03-11T22:20:12.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[Some GP practices have confirmed they have pulled out of delivering flu jabs because of underfunding - and LMC leaders say more could follow.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conflict deepens health crisis across Middle East, WHO says]]></title>
+        <id>urn:uuid:9dc0d041-0c49-44bc-ba5d-d367d1eaacda</id>
+        <link href="https://www.who.int/news/item/11-03-2026-conflict-deepens-health-crisis-across-middle-east--who-says"/>
+        <updated>2026-03-11T14:18:29.000Z</updated>
+        <summary type="html"><![CDATA[More than ten days into the latest escalation of conflict in the Middle East, health systems across the Region are coming under strain as injuries and displacement rise, attacks on health care continue, and public health risks increase.
+National health authorities in Iran report more than 1300 deaths and 9000 injuries, and in Lebanon report at least 570 deaths and more than 1400 injuries. In Israel, authorities report 15 deaths and 2142 injuries.
+At the same time, the conflict is affecting the very services meant to save lives. In Iran, WHO has verified 18 attacks on health care since 28 February, resulting in 8 deaths among health workers. Over the same period in Lebanon, 25 attacks on health care have resulted in 16 deaths and 29 injuries. These attacks not only cost lives but deprive co…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
