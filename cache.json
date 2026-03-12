@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f142e13b-1b0a-4b42-86b0-7df531789e23",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 12 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4754",
+          "publishedOn": "2026-03-12T14:19:00.000Z",
+          "wordCount": null,
+          "title": "CC-4754 - Veeam Releases Security Updates for Backup & Replication",
+          "imageUrl": null
+        },
+        {
           "id": "48922f6b-98c2-48b2-8b61-fb4b8755c16d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 83 vulnerabilities, including two zero-day vulnerabilities\n Scheduled updates for Microsoft products address 83 vulnerabilities, including two zero-day vulnerabilities\n Updated: 11 Mar 2026",
