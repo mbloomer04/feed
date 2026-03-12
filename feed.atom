@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-12T09:34:57.046Z</updated>
+    <updated>2026-03-12T10:31:10.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: WorkWell]]></title>
+        <id>https://www.gov.uk/government/publications/workwell</id>
+        <link href="https://www.gov.uk/government/publications/workwell"/>
+        <updated>2026-03-12T10:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Information for organisations applying for grant funding to design and deliver a WorkWell service.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Healthy child programme: commissioning public health nursing services]]></title>
         <id>https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[How commissioners should establish, monitor and assure the quality of public health nursing services delivered under the healthy child programme in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCGP and BMA condemn mandatory advice and guidance]]></title>
+        <id>https://www.gponline.com/article/1951298</id>
+        <link href="https://www.gponline.com/rcgp-bma-condemn-mandatory-advice-guidance/article/1951298"/>
+        <updated>2026-03-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders have hit out at plans to make advice and guidance a mandatory part of the NHS referral process - warning it risks piling unfunded work onto GPs and delaying patient access to specialist treatment.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

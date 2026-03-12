@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1951298",
+          "author": null,
+          "description": "GP leaders have hit out at plans to make advice and guidance a mandatory part of the NHS referral process - warning it risks piling unfunded work onto GPs and delaying patient access to specialist treatment.",
+          "link": "https://www.gponline.com/rcgp-bma-condemn-mandatory-advice-guidance/article/1951298",
+          "publishedOn": "2026-03-12T09:00:00.000Z",
+          "wordCount": 746,
+          "title": "RCGP and BMA condemn mandatory advice and guidance",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-FlyViewProductions_RF_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1951071",
           "author": null,
           "description": "Some GP practices have confirmed they have pulled out of delivering flu jabs because of underfunding - and LMC leaders say more could follow.",
@@ -1957,6 +1967,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/workwell",
+          "author": null,
+          "description": "Information for organisations applying for grant funding to design and deliver a WorkWell service.",
+          "link": "https://www.gov.uk/government/publications/workwell",
+          "publishedOn": "2026-03-12T10:03:21.000Z",
+          "wordCount": 2036,
+          "title": "Guidance: WorkWell",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services",
           "author": null,
