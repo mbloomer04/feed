@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-12T12:40:02.166Z</updated>
+    <updated>2026-03-12T13:57:41.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Human rights groups urge hospitals not to use Palantir software]]></title>
+        <id>https://www.digitalhealth.net/?p=261053</id>
+        <link href="https://www.digitalhealth.net/2026/03/human-rights-groups-urge-hospitals-not-to-use-palantir-software/"/>
+        <updated>2026-03-12T13:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Palantir’s contract to run the NHS federated data platform (FDP) could cause “data-driven state abuses of power”, a report from Medact warns.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=260307</id>
