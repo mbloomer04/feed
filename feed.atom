@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-12T11:26:46.880Z</updated>
+    <updated>2026-03-12T12:40:02.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=260307</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-148/"/>
+        <updated>2026-03-12T11:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing includes news of a cardiovascular disease screening initiative and a fellowship to explore the application of AI in genomics.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIA to launch new cohort of fellows at Rewired 2026]]></title>
         <id>https://www.digitalhealth.net/?p=260941</id>
@@ -2246,16 +2256,6 @@ The fifth meeting of the Intergovernmental Working Group on the WHO Pandemic Agr
         <summary type="html"><![CDATA[NICE has announced details of a programme to help provide faster access to healthcare technology across England and Wales.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One in two people facing cataract blindness need access to life-changing surgery]]></title>
-        <id>urn:uuid:29344169-9e76-43b7-b397-dba8c475105b</id>
-        <link href="https://www.who.int/news/item/11-02-2026-one-in-two-people-facing-cataract-blindness-need-access-to-life-changing-surgery"/>
-        <updated>2026-02-10T23:30:33.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization (WHO) is urging countries to accelerate efforts to ensure that millions of people living with cataract can access simple, sight‑restoring surgery – one of the most effective and affordable interventions to prevent avoidable blindness.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

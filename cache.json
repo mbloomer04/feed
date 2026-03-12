@@ -2860,16 +2860,6 @@
           "wordCount": 2643,
           "title": "Statement on the planned hepatitis B birth dose vaccine trial in Guinea-Bissau",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/external-relations-governance-(ext)/department-of-communications-(dco)/digital-social-visual-(dsv)/who-logo-at-headquarters.tmb-1200v.jpg?sfvrsn=34ba81d2_6"
-        },
-        {
-          "id": "urn:uuid:29344169-9e76-43b7-b397-dba8c475105b",
-          "author": null,
-          "description": "The World Health Organization (WHO) is urging countries to accelerate efforts to ensure that millions of people living with cataract can access simple, sight‑restoring surgery – one of the most effective and affordable interventions to prevent avoidable blindness.",
-          "link": "https://www.who.int/news/item/11-02-2026-one-in-two-people-facing-cataract-blindness-need-access-to-life-changing-surgery",
-          "publishedOn": "2026-02-10T23:30:33.000Z",
-          "wordCount": 2294,
-          "title": "One in two people facing cataract blindness need access to life-changing surgery",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/health-and-well-being/disability/blindness-and-vision-impairment/cataract-operation.tmb-1200v.jpg?sfvrsn=e19544ee_2"
         }
       ]
     },
@@ -2878,6 +2868,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=260307",
+          "author": "Samuel Webb",
+          "description": "Today's briefing includes news of a cardiovascular disease screening initiative and a fellowship to explore the application of AI in genomics.",
+          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-148/",
+          "publishedOn": "2026-03-12T11:30:57.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=260941",
           "author": "Jordan Sollof",
