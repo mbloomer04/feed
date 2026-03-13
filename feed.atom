@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-13T15:35:15.233Z</updated>
+    <updated>2026-03-13T16:30:41.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -57,6 +57,16 @@
         <summary type="html"><![CDATA[Ireland’s Minister for Health has launched a national strategy dedicated to the safe and effective application of AI.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncoordinated NHS reforms causing 'widespread disruption']]></title>
+        <id>https://www.gponline.com/article/1951579</id>
+        <link href="https://www.gponline.com/uncoordinated-nhs-reforms-causing-widespread-disruption/article/1951579"/>
+        <updated>2026-03-13T10:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Sweeping NHS reforms pushed through by the government are causing 'widespread disruption', according to health service leaders who described handling of ICB cuts as a 'shitshow' and hit out at a lack of clarity over how neighbourhoods fit with general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
