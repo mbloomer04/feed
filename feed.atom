@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-13T06:40:57.934Z</updated>
+    <updated>2026-03-13T07:38:59.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=260975</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-healths-monthly-roundup-of-contracts-and-go-lives-62/"/>
+        <updated>2026-03-13T07:30:59.000Z</updated>
+        <summary type="html"><![CDATA[This roundup includes NHS England awarding a digital vaccinations services contract worth more than £33m and a contract to evaluate the FDP.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4754 - Veeam Releases Security Updates for Backup & Replication]]></title>
         <id>f142e13b-1b0a-4b42-86b0-7df531789e23</id>
