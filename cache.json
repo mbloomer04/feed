@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1951579",
+          "author": null,
+          "description": "Sweeping NHS reforms pushed through by the government are causing 'widespread disruption', according to health service leaders who described handling of ICB cuts as a 'shitshow' and hit out at a lack of clarity over how neighbourhoods fit with general practice.",
+          "link": "https://www.gponline.com/unco-ordinated-nhs-reforms-causing-widespread-disruption/article/1951579",
+          "publishedOn": "2026-03-13T10:52:12.000Z",
+          "wordCount": 744,
+          "title": "Unco-ordinated NHS reforms causing 'widespread disruption'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_25.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1951548",
           "author": null,
           "description": "A GP federation has reduced waiting times for ADHD assessments and treatment with a community-based service led by GPs and mental health nurses.",
@@ -2828,6 +2838,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261215",
+          "author": "Jordan Sollof",
+          "description": "Four NHS trusts in Dorset and Somerset have signed a £222 million contract with Epic to implement a unified EPR system across the region.",
+          "link": "https://www.digitalhealth.net/2026/03/somerset-and-dorset-sign-222m-contract-with-epic-for-unified-epr/",
+          "publishedOn": "2026-03-13T13:53:03.000Z",
+          "wordCount": null,
+          "title": "Somerset and Dorset sign £222m contract with Epic for unified EPR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=260795",
+          "author": "Jordan Sollof",
+          "description": "Research from Oxford Health has found that virtual treatment can help prevent admissions and support recovery for eating disorder patients.",
+          "link": "https://www.digitalhealth.net/2026/03/study-finds-virtual-treatment-can-help-eating-disorder-patients/",
+          "publishedOn": "2026-03-13T13:30:46.000Z",
+          "wordCount": null,
+          "title": "Study finds virtual treatment can benefit eating disorder patients",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261051",
           "author": "Samuel Webb",
