@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-13T11:24:39.024Z</updated>
+    <updated>2026-03-13T12:38:56.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4755 - Google Releases Security Update for Chrome]]></title>
+        <id>daedc659-139e-483d-bc50-b1018abd72af</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4755"/>
+        <updated>2026-03-13T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update addresses two exploited high severity vulnerabilities in Google Chrome
+ Security update addresses two exploited high severity vulnerabilities in Google Chrome
+ Updated: 13 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ireland publishes national AI strategy for healthcare]]></title>
         <id>https://www.digitalhealth.net/?p=261051</id>

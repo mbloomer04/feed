@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "daedc659-139e-483d-bc50-b1018abd72af",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses two exploited high severity vulnerabilities in Google Chrome\n Security update addresses two exploited high severity vulnerabilities in Google Chrome\n Updated: 13 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4755",
+          "publishedOn": "2026-03-13T11:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4755 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "f142e13b-1b0a-4b42-86b0-7df531789e23",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 12 Mar 2026",
