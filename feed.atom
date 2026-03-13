@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-13T10:28:05.489Z</updated>
+    <updated>2026-03-13T11:24:39.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ireland publishes national AI strategy for healthcare]]></title>
+        <id>https://www.digitalhealth.net/?p=261051</id>
+        <link href="https://www.digitalhealth.net/2026/03/ireland-publishes-national-ai-strategy-for-healthcare/"/>
+        <updated>2026-03-13T11:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Ireland’s Minister for Health has launched a national strategy dedicated to the safe and effective application of AI.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long waits for ADHD diagnosis are cut to weeks by new GP-run service]]></title>
+        <id>https://www.gponline.com/article/1951548</id>
+        <link href="https://www.gponline.com/long-waits-adhd-diagnosis-cut-weeks-new-gp-run-service/neurology/adhd/article/1951548"/>
+        <updated>2026-03-13T10:13:52.000Z</updated>
+        <summary type="html"><![CDATA[A GP federation has reduced waiting times for ADHD assessments and treatment with a community-based service led by GPs and mental health nurses.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Tackling the GP jobs crisis and standing up for salaried and locum GPs]]></title>
         <id>https://www.gponline.com/article/1951236</id>

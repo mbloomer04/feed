@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1951548",
+          "author": null,
+          "description": "A GP federation has reduced waiting times for ADHD assessments and treatment with a community-based service led by GPs and mental health nurses.",
+          "link": "https://www.gponline.com/long-waits-adhd-diagnosis-cut-weeks-new-gp-run-service/neurology/adhd/article/1951548",
+          "publishedOn": "2026-03-13T10:13:52.000Z",
+          "wordCount": 737,
+          "title": "Long waits for ADHD diagnosis are cut to weeks by new GP-run service",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/sturtiGettyImages.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1951236",
           "author": null,
           "description": "BMA sessional GP committee co-chairs Dr Amy Small and Dr Kim Rollinson speak to GPonline editor Emma Bower.",
@@ -2808,6 +2818,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261051",
+          "author": "Samuel Webb",
+          "description": "Ireland’s Minister for Health has launched a national strategy dedicated to the safe and effective application of AI.",
+          "link": "https://www.digitalhealth.net/2026/03/ireland-publishes-national-ai-strategy-for-healthcare/",
+          "publishedOn": "2026-03-13T11:00:16.000Z",
+          "wordCount": null,
+          "title": "Ireland publishes national AI strategy for healthcare",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=260975",
           "author": "Jordan Sollof",
