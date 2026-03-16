@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-16T15:57:42.407Z</updated>
+    <updated>2026-03-16T16:59:38.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GP locum rates fall in England but rise in rest of UK]]></title>
+        <id>https://www.gponline.com/article/1949156</id>
+        <link href="https://www.gponline.com/gp-locum-rates-fall-england-rise-rest-uk/article/1949156"/>
+        <updated>2026-03-16T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Average rates paid to locum GPs by practices have fallen slightly over the past year in England, but risen in the other UK nations, according to analysis by GPonline's sister site GP Business.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practices told to fix data as NHS set to publish same-day urgent access figures]]></title>
+        <id>https://www.gponline.com/article/1951818</id>
+        <link href="https://www.gponline.com/practices-told-fix-data-nhs-set-publish-same-day-urgent-access-figures/article/1951818"/>
+        <updated>2026-03-16T14:58:45.000Z</updated>
+        <summary type="html"><![CDATA[GP practices have been told to review how they record data on 'clinically urgent' appointments as NHS England prepares to publish figures on same-day access following GP contract changes from April.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Adult Social Care Learning and Development Support Scheme: a guide for employers]]></title>
         <id>https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme</id>
