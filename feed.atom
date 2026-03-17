@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-17T06:54:28.668Z</updated>
+    <updated>2026-03-17T07:49:36.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why NHS innovation stalls]]></title>
+        <id>https://www.digitalhealth.net/?p=261167</id>
+        <link href="https://www.digitalhealth.net/2026/03/why-nhs-innovation-stalls/"/>
+        <updated>2026-03-17T07:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Mindy Simon of the NHS Innovation Accelerator, and Elina Naydenova of Feebris, discuss the barriers to scaling innovation in the NHS.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taskforce set up to deliver urgent action on maternity]]></title>
         <id>https://www.gov.uk/government/news/taskforce-set-up-to-deliver-urgent-action-on-maternity</id>
