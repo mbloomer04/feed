@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-17T17:00:25.091Z</updated>
+    <updated>2026-03-17T18:01:17.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhood plans ramp up focus on GP access and advice and guidance]]></title>
+        <id>https://www.gponline.com/article/1951990</id>
+        <link href="https://www.gponline.com/neighbourhood-plans-ramp-focus-gp-access-advice-guidance/article/1951990"/>
+        <updated>2026-03-17T16:34:25.000Z</updated>
+        <summary type="html"><![CDATA[The government’s long-awaited neighbourhood health framework has made improving GP access and expanding the use of advice and guidance central to its plans.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government reveals how neighbourhood model will fit with GP contract]]></title>
+        <id>https://www.gponline.com/article/1951987</id>
+        <link href="https://www.gponline.com/government-reveals-neighbourhood-model-will-fit-gp-contract/article/1951987"/>
+        <updated>2026-03-17T15:35:35.000Z</updated>
+        <summary type="html"><![CDATA[GP and hospital contracts will remain the 'primary vehicles of delivery' for NHS services as neighbourhoods are rolled out across the health service - and single- or multi-neighbourhood provider contracts will only be deployed where ICBs think they are needed, long-awaited government guidance reveals.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Neighbourhood health framework]]></title>
         <id>https://www.gov.uk/government/publications/neighbourhood-health-framework</id>
