@@ -2829,6 +2829,26 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=261121",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a UK charity that uses AI to identify medicines that could be repurposed to treat rare genetic conditions.",
+          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-149/",
+          "publishedOn": "2026-03-17T11:30:02.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=261339",
+          "author": "Jordan Sollof",
+          "description": "UK Biobank has denied claims that volunteers' de-identified health data was unintentionally published online on dozens of occasions.",
+          "link": "https://www.digitalhealth.net/2026/03/uk-biobank-denies-that-health-data-was-published-online/",
+          "publishedOn": "2026-03-17T10:59:49.000Z",
+          "wordCount": null,
+          "title": "UK Biobank denies de-identified health data was published online",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=261167",
           "author": "Jordan Sollof",
           "description": "Mindy Simon of the NHS Innovation Accelerator, and Elina Naydenova of Feebris, discuss the barriers to scaling innovation in the NHS.",

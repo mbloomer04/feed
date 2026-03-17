@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-17T10:41:53.207Z</updated>
+    <updated>2026-03-17T11:37:45.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=261121</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-149/"/>
+        <updated>2026-03-17T11:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a UK charity that uses AI to identify medicines that could be repurposed to treat rare genetic conditions.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Biobank denies de-identified health data was published online]]></title>
+        <id>https://www.digitalhealth.net/?p=261339</id>
+        <link href="https://www.digitalhealth.net/2026/03/uk-biobank-denies-that-health-data-was-published-online/"/>
+        <updated>2026-03-17T10:59:49.000Z</updated>
+        <summary type="html"><![CDATA[UK Biobank has denied claims that volunteers' de-identified health data was unintentionally published online on dozens of occasions.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Independent report: Chikungunya vaccine for UK travellers: JCVI advice, 16 July 2025]]></title>
         <id>https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025</id>
