@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-18T16:01:51.295Z</updated>
+    <updated>2026-03-18T17:53:55.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Locum GP earnings hit as most struggle to find enough work]]></title>
+        <id>https://www.gponline.com/article/1951468</id>
+        <link href="https://www.gponline.com/locum-gp-earnings-hit-struggle-find-enough-work/article/1951468"/>
+        <updated>2026-03-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Almost three in five locum GPs in England have been unable to secure the amount of work they need during the past twelve months, a GPonline poll suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AVT to be rolled out to GPs under Neighbourhood Health Service]]></title>
         <id>https://www.digitalhealth.net/?p=261667</id>
@@ -187,6 +197,16 @@
         <summary type="html"><![CDATA[UK Biobank has denied claims that volunteers' de-identified health data was unintentionally published online on dozens of occasions.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minister outlines timetable for 'new Carr-Hill formula']]></title>
+        <id>https://www.gponline.com/article/1951919</id>
+        <link href="https://www.gponline.com/minister-outlines-timetable-new-carr-hill-formula/article/1951919"/>
+        <updated>2026-03-17T10:21:51.000Z</updated>
+        <summary type="html"><![CDATA[A revamped Carr-Hill formula could take effect from 1 April 2027 - and guidance on neighbourhoods is 'almost complete' and will be published soon, a health minister has told parliament.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
