@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-18T19:43:06.753Z</updated>
+    <updated>2026-03-18T20:28:00.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -107,6 +107,19 @@
         <summary type="html"><![CDATA[DHSC and NHSE has pledged to invest £7.4bn in technology, digital and data between now and 2030, according to internal planning guidance.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress in reducing child deaths slows as 4.9 million children die before age five]]></title>
+        <id>urn:uuid:6ab10a3d-bfea-4e0b-a1b9-d39a87e481e3</id>
+        <link href="https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five"/>
+        <updated>2026-03-18T00:01:15.000Z</updated>
+        <summary type="html"><![CDATA[An estimated 4.9 million children died before their fifth birthday in 2024, including 2.3 million newborns, according to new estimates released today. Most of these deaths are preventable with proven, low-cost interventions and access to quality health care.
+According to the report –  Levels & Trends in Child Mortality – under-five deaths globally have fallen by more than half since 2000. However, since 2015, the pace of reduction in child mortality has slowed by more than 60 per cent.
+This year’s report provides the clearest and most detailed picture yet of how many children, adolescents, and youth are dying, where they are dying, and – for the first time – fully integrates estimates on the causes of death.*
+For the first time, the report estimates deaths directly caused by severe acute m…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
