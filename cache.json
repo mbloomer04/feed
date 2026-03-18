@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "18f5c3b4-c694-455b-8d89-0edffb5fee4f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n Updated: 18 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4756",
+          "publishedOn": "2026-03-18T13:32:00.000Z",
+          "wordCount": null,
+          "title": "CC-4756 - ConnectWise Releases Security Update for ScreenConnect",
+          "imageUrl": null
+        },
+        {
           "id": "daedc659-139e-483d-bc50-b1018abd72af",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses two exploited high severity vulnerabilities in Google Chrome\n Security update addresses two exploited high severity vulnerabilities in Google Chrome\n Updated: 13 Mar 2026",
@@ -2898,6 +2908,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261667",
+          "author": "Jordan Sollof",
+          "description": "The government has published the neighbourhood health framework, which includes the pledge to roll out AI and ambient voice technology (AVT).",
+          "link": "https://www.digitalhealth.net/2026/03/avt-to-be-rolled-out-to-gps-under-neighbourhood-health-service/",
+          "publishedOn": "2026-03-18T14:01:11.000Z",
+          "wordCount": null,
+          "title": "AVT to be rolled out to GPs under Neighbourhood Health Service",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261483",
           "author": "Jordan Sollof",
