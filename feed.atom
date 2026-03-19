@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-19T22:19:51.475Z</updated>
+    <updated>2026-03-19T23:22:33.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance"/>
         <updated>2026-03-19T14:18:43.000Z</updated>
         <summary type="html"><![CDATA[This is an agreement between the government and the Association of British Insurers (ABI) on the use of genetic test results in underwriting insurance policies.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ordering and retaining medical certificates of cause of death (MCCDs)]]></title>
+        <id>https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds</id>
+        <link href="https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds"/>
+        <updated>2026-03-19T14:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for GP practices, hospitals, hospices and medical examiner offices about when to order more MCCDs and what to do with completed MCCDs.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2287,26 +2297,6 @@ Health services are under intense pressure in two fronts: direct attacks on heal
         <summary type="html"><![CDATA[Doncaster and Bassetlaw Teaching Hospitals has launched a 12-month pilot of CardMedic to improve communication with patients.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patients call for transparency around the use of AI in healthcare]]></title>
-        <id>https://www.digitalhealth.net/?p=258343</id>
-        <link href="https://www.digitalhealth.net/2026/02/patients-call-for-transparency-around-the-use-of-ai-in-healthcare/"/>
-        <updated>2026-02-18T11:00:46.000Z</updated>
-        <summary type="html"><![CDATA[The Patients Association has called for more transparency around the use of AI in healthcare in response to the MHRA's call for evidence.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funding cuts could force GP practices to pull out of flu jab campaign]]></title>
-        <id>https://www.gponline.com/article/1948775</id>
-        <link href="https://www.gponline.com/funding-cuts-force-gp-practices-pull-flu-jab-campaign/infections-and-infestations/influenza/article/1948775"/>
-        <updated>2026-02-18T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[GP practices could withdraw from next year's flu vaccination campaign because real-terms funding has been slashed by more than a quarter over recent years, the BMA has warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
