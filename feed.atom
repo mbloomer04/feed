@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-19T06:48:32.594Z</updated>
+    <updated>2026-03-19T07:41:07.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[East Lancashire to host NHS programme to help expand AVT]]></title>
+        <id>https://www.digitalhealth.net/?p=261501</id>
+        <link href="https://www.digitalhealth.net/2026/03/east-lancashire-to-host-nhs-programme-to-help-expand-avt/"/>
+        <updated>2026-03-19T07:30:48.000Z</updated>
+        <summary type="html"><![CDATA[East Lancashire Hospitals NHS Trust is hosting a programme to deploy CLEARnotes, an ambient voice technology (AVT), across the NHS.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Locum GP earnings hit as most struggle to find enough work]]></title>
         <id>https://www.gponline.com/article/1951468</id>
