@@ -1844,18 +1844,7 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
-          "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
-          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
-          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
-          "publishedOn": "2026-02-17T16:22:08.000Z",
-          "wordCount": null,
-          "title": "How we’re modernising electronic prescribing",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Inside Story Feed",
@@ -2605,16 +2594,6 @@
           "publishedOn": "2026-02-18T09:30:03.000Z",
           "wordCount": 1000,
           "title": "Guidance: UK Clinical Research Delivery key performance indicators: methodology",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/better-care-fund-framework-2026-to-2027",
-          "author": null,
-          "description": "This guidance constitutes the formal planning requirements, national conditions for expenditure and legal framework for the Better Care Fund for 2026 to 2027.",
-          "link": "https://www.gov.uk/government/publications/better-care-fund-framework-2026-to-2027",
-          "publishedOn": "2026-02-17T16:15:49.000Z",
-          "wordCount": 1184,
-          "title": "Guidance: Better Care Fund framework 2026 to 2027",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
