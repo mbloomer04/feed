@@ -1977,6 +1977,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/the-blood-safety-and-quality-common-framework",
+          "author": null,
+          "description": "Sets out how the UK and devolved governments will continue to work closely and collaboratively together on blood safety and quality policy.",
+          "link": "https://www.gov.uk/government/publications/the-blood-safety-and-quality-common-framework",
+          "publishedOn": "2026-03-19T13:28:59.000Z",
+          "wordCount": 875,
+          "title": "Policy paper: The Blood Safety and Quality Common Framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/the-organs-tissues-and-cells-apart-from-embryos-and-gametes-common-framework",
+          "author": null,
+          "description": "Sets out how the UK and devolved governments ​will ​continue to work closely and collaboratively together on organs and non-reproductive tissues and cells policy.",
+          "link": "https://www.gov.uk/government/publications/the-organs-tissues-and-cells-apart-from-embryos-and-gametes-common-framework",
+          "publishedOn": "2026-03-19T13:28:44.000Z",
+          "wordCount": 918,
+          "title": "Policy paper: The Organs, Tissues and Cells (apart from embryos and gametes) Common Framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/department-of-health-guidance-on-laying-accounts-in-parliament",
           "author": null,
           "description": "Provides guidance on how DHSC group bodies should lay their annual report and accounts before Parliament.",
@@ -2917,6 +2937,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261791",
+          "author": "Jordan Sollof",
+          "description": "The first speakers have been announced for Digital Health Summer Schools 2026 - the learning and networking event for digital health leaders.",
+          "link": "https://www.digitalhealth.net/2026/03/first-speakers-announced-for-summer-schools-2026/",
+          "publishedOn": "2026-03-19T13:30:04.000Z",
+          "wordCount": null,
+          "title": "First speakers announced for Summer Schools 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261145",
           "author": "Samuel Webb",
