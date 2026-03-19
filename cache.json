@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5b9d0633-3723-4ae8-b162-72dc803487a9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-20963 could allow an unauthenticated attacker to achieve remote code execution\n CVE-2026-20963 could allow an unauthenticated attacker to achieve remote code execution\n Updated: 19 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4757",
+          "publishedOn": "2026-03-19T11:39:00.000Z",
+          "wordCount": null,
+          "title": "CC-4757 - Critical Vulnerability in Microsoft SharePoint Server Under Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "18f5c3b4-c694-455b-8d89-0edffb5fee4f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n Updated: 18 Mar 2026",
@@ -1210,6 +1220,16 @@
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/LocumGPRates2026StoryImage3_1.jpg"
         },
         {
+          "id": "https://www.gponline.com/article/1951991",
+          "author": null,
+          "description": "GP locum sessions booked in the early part of 2026 are significantly up from last year, data from a sessional GP organisation suggests.",
+          "link": "https://www.gponline.com/signs-recovery-locum-bookings-future-unclear-says-nasgp/article/1951991",
+          "publishedOn": "2026-03-17T16:44:16.000Z",
+          "wordCount": 725,
+          "title": "Signs of recovery in locum bookings - but future unclear, says NASGP",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-SolStock_RF_12.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1951990",
           "author": null,
           "description": "The government’s long-awaited neighbourhood health framework has made improving GP access and expanding the use of advice and guidance central to its plans.",
@@ -1798,16 +1818,6 @@
           "wordCount": 750,
           "title": "Funding cuts could force GP practices to pull out of flu jab campaign",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF_2.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1948735",
-          "author": null,
-          "description": "New guidance hailed by NICE as the biggest shakeup of diabetes care in a decade could prevent around 17,000 deaths over three years and save the NHS hundreds of millions of pounds.",
-          "link": "https://www.gponline.com/nice-backs-landmark-diabetes-shift-save-17000-lives-three-years/diabetes/article/1948735",
-          "publishedOn": "2026-02-18T00:01:00.000Z",
-          "wordCount": 746,
-          "title": "NICE backs landmark diabetes shift to save 17,000 lives in three years",
-          "imageUrl": null
         }
       ]
     },
@@ -1957,16 +1967,6 @@
           "publishedOn": "2026-02-19T11:06:28.000Z",
           "wordCount": 1207,
           "title": "NHS facing ‘second surge’ in vomiting virus as cases reach highest level this winter",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=282743",
-          "author": "rwootton",
-          "description": "Millions of adults facing debilitating anxiety conditions are missing out on treatment that could help them recover and get back on with their lives the NHS has said, as it launches a major new mental health campaign. New analysis of NHS data shows that over 670,000 people were treated with NHS talking therapy care last […]",
-          "link": "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
-          "publishedOn": "2026-02-18T00:01:46.000Z",
-          "wordCount": 3266,
-          "title": "“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2917,6 +2917,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261145",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features Rotherham NHS Foundation Trust extending its EPR contract with Meditech, and news on Amazon Health AI.",
+          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-150/",
+          "publishedOn": "2026-03-19T11:30:58.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261717",
           "author": "Jordan Sollof",
