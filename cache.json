@@ -1977,6 +1977,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-competitiveness-indicators-2026",
+          "author": null,
+          "description": "Data on the life sciences sector in the UK and other countries.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-competitiveness-indicators-2026",
+          "publishedOn": "2026-03-19T09:30:05.000Z",
+          "wordCount": 1220,
+          "title": "Research: Life sciences competitiveness indicators, 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2023",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2023.",
+          "link": "https://www.gov.uk/government/statistics/abortion-statistics-for-england-and-wales-2023",
+          "publishedOn": "2026-03-19T09:30:05.000Z",
+          "wordCount": 1019,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2023",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2024-to-2025",
           "author": null,
           "description": "Data on deprivation of liberty safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
