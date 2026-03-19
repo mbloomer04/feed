@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-19T10:32:09.938Z</updated>
+    <updated>2026-03-19T11:29:06.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sussex Partnership goes live with TPP SystmOne EPR]]></title>
+        <id>https://www.digitalhealth.net/?p=261717</id>
+        <link href="https://www.digitalhealth.net/2026/03/sussex-partnership-goes-live-with-tpp-systmone-epr/"/>
+        <updated>2026-03-19T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Sussex Partnership NHS Foundation Trust has gone live with an electronic patient record (EPR) supplied by TPP.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC guidance on laying accounts in Parliament]]></title>
         <id>https://www.gov.uk/government/publications/department-of-health-guidance-on-laying-accounts-in-parliament</id>
