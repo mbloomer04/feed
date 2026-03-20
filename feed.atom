@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-20T14:38:57.489Z</updated>
+    <updated>2026-03-20T15:35:20.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Submitting an application for review by the ACBS]]></title>
+        <id>https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval</id>
+        <link href="https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval"/>
+        <updated>2026-03-20T14:42:08.000Z</updated>
+        <summary type="html"><![CDATA[How to apply to have nutritional or dermatological products reviewed by the Advisory Committee on Borderline Substances (ACBS).]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Water fluoridation: health monitoring report for England 2026]]></title>
+        <id>https://www.gov.uk/government/publications/water-fluoridation-health-monitoring-report-for-england-2026</id>
+        <link href="https://www.gov.uk/government/publications/water-fluoridation-health-monitoring-report-for-england-2026"/>
+        <updated>2026-03-20T14:38:27.000Z</updated>
+        <summary type="html"><![CDATA[The UK Health Security Agency (UKHSA) monitors and reports on the health effects of fluoride for people living in areas covered by water fluoridation schemes.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven ICBs to launch unified dental electronic referral service]]></title>
         <id>https://www.digitalhealth.net/?p=261921</id>
