@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1952307",
+          "author": null,
+          "description": "GP practices across England have been asked to provide MenB vaccination to students from the University of Kent who have returned home.",
+          "link": "https://www.gponline.com/gp-practices-deliver-menb-vaccines-kent-students-return-home/article/1952307",
+          "publishedOn": "2026-03-20T10:21:51.000Z",
+          "wordCount": 737,
+          "title": "GP practices to deliver MenB vaccines to Kent students who return home",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2267348437-ezgif.com-optijpeg.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1952257",
           "author": null,
           "description": "The GPonline team discusses the government's new neighbourhood health framework, changes to advice and guidance under the GP contract and the results of our annual locum GP survey.",
@@ -1849,6 +1859,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=284373",
+          "author": "Tom W",
+          "description": "The new chair of a major review into medical training has pledged to bring the “dial up” system into the modern era. Professor Dame Jane Dacre has been appointed by NHS England and the Department of Health and Social Care to implement the Medical Education and Training Review, delivering change to UK’s creaking medical training […]",
+          "link": "https://www.england.nhs.uk/2026/03/new-medical-training-chair-bring-system-modern-era/",
+          "publishedOn": "2026-03-20T09:00:03.000Z",
+          "wordCount": 1296,
+          "title": "New medical training chair to bring system from “dial up” to modern era",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=284006",
           "author": "Tom W",
@@ -2877,6 +2897,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261769",
+          "author": "Samuel Webb",
+          "description": "A government partnership will use data and digital tools to improve care for patients with asthma and chronic obstructive pulmonary disease.",
+          "link": "https://www.digitalhealth.net/2026/03/10m-partnership-will-use-digital-tools-to-improve-respiratory-care/",
+          "publishedOn": "2026-03-20T11:00:20.000Z",
+          "wordCount": null,
+          "title": "£10m partnership will use digital tools to improve respiratory care",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261841",
           "author": "Tammy Lovell",
