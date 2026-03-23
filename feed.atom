@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-23T10:46:17.905Z</updated>
+    <updated>2026-03-23T11:38:11.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS community trust cuts hospital stays with digital patient flow]]></title>
+        <id>https://www.digitalhealth.net/?p=262009</id>
+        <link href="https://www.digitalhealth.net/2026/03/nhs-community-trust-cuts-hospital-stays-with-digital-patient-flow/"/>
+        <updated>2026-03-23T11:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Herefordshire and Worcestershire Health and Care NHS Trust has improved patient flow through a digital transformation programme.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital health equity gaps remain, finds WHO research]]></title>
         <id>https://www.digitalhealth.net/?p=261933</id>
