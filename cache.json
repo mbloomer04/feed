@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7c4311e2-59ed-4cc8-8dec-ccd339c56aad",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager\n Updated: 23 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4760",
+          "publishedOn": "2026-03-23T12:32:00.000Z",
+          "wordCount": null,
+          "title": "CC-4760 - Oracle Releases Out-of-Band Security Update for Oracle Identity Manager and Oracle Web Services Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "4479ec94-955c-4673-bace-151c9856ec59",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread\n Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread\n Updated: 23 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4759",
+          "publishedOn": "2026-03-23T12:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4759 - Citrix Releases Critical Security Updates for NetScaler ADC and NetScaler Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "c5213f2c-ccd2-4f3b-9070-54d03c193536",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Compromised aquasecurity/trivy-action github action could harvest secrets\n Compromised aquasecurity/trivy-action github action could harvest secrets\n Updated: 20 Mar 2026",
@@ -1209,6 +1229,16 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1952392",
+          "author": null,
+          "description": "ICBs will begin outsourcing management of GP contracts and funding to organisations including major hospitals within the current parliament, under plans to make a new wave of 'integrated health organisations' the standard operating model across the NHS.",
+          "link": "https://www.gponline.com/hospitals-gp-contract-management-within-parliament/article/1952392",
+          "publishedOn": "2026-03-20T17:19:05.000Z",
+          "wordCount": 750,
+          "title": "Hospitals could take over GP contract management within this parliament",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHSsign_Nick_26.jpg"
+        },
         {
           "id": "https://www.gponline.com/article/1952330",
           "author": null,

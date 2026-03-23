@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-23T11:38:11.912Z</updated>
+    <updated>2026-03-23T12:47:00.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4760 - Oracle Releases Out-of-Band Security Update for Oracle Identity Manager and Oracle Web Services Manager]]></title>
+        <id>7c4311e2-59ed-4cc8-8dec-ccd339c56aad</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4760"/>
+        <updated>2026-03-23T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager
+ A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager
+ Updated: 23 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4759 - Citrix Releases Critical Security Updates for NetScaler ADC and NetScaler Gateway]]></title>
+        <id>4479ec94-955c-4673-bace-151c9856ec59</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4759"/>
+        <updated>2026-03-23T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread
+ Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread
+ Updated: 23 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS community trust cuts hospital stays with digital patient flow]]></title>
         <id>https://www.digitalhealth.net/?p=262009</id>
@@ -24,6 +50,16 @@
         <summary type="html"><![CDATA[People with greater health needs and language barriers struggle to access digital health services, according to WHO and Public Health Wales.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hospitals could take over GP contract management within this parliament]]></title>
+        <id>https://www.gponline.com/article/1952392</id>
+        <link href="https://www.gponline.com/hospitals-gp-contract-management-within-parliament/article/1952392"/>
+        <updated>2026-03-20T17:19:05.000Z</updated>
+        <summary type="html"><![CDATA[ICBs will begin outsourcing management of GP contracts and funding to organisations including major hospitals within the current parliament, under plans to make a new wave of 'integrated health organisations' the standard operating model across the NHS.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
