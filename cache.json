@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1951960",
+          "author": null,
+          "description": "Just over a decade after qualifying as a GP, Dr Alex Davidson found herself with no NHS work as locum shifts dried up. One of many GPs affected by a shortage of jobs in general practice, she talks to GPonline about debt, feeling abandoned by the NHS - and forging a new career.",
+          "link": "https://www.gponline.com/i-loved-nhs-gp-until-career-dried-overnight/article/1951960",
+          "publishedOn": "2026-03-23T15:50:00.000Z",
+          "wordCount": 795,
+          "title": "I loved being an NHS GP - until my career dried up overnight",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Alex_Davidson2.JPG"
+        },
+        {
           "id": "https://www.gponline.com/article/1952392",
           "author": null,
           "description": "ICBs will begin outsourcing management of GP contracts and funding to organisations including major hospitals within the current parliament, under plans to make a new wave of 'integrated health organisations' the standard operating model across the NHS.",
@@ -1956,6 +1966,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/advice-accepted-on-autumn-2026-covid-19-vaccination-programme",
+          "author": null,
+          "description": "The government has accepted advice from the JCVI on eligibility for the autumn 2026 Covid-19 vaccination programme",
+          "link": "https://www.gov.uk/government/news/advice-accepted-on-autumn-2026-covid-19-vaccination-programme",
+          "publishedOn": "2026-03-23T14:30:46.000Z",
+          "wordCount": 1254,
+          "title": "Advice accepted on autumn 2026 COVID-19 vaccination programme",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval",
           "author": null,
