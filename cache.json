@@ -1977,6 +1977,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/mann-recommendations-agreed-in-consultation-on-gmc-overhaul",
+          "author": null,
+          "description": "The most significant overhaul of the regulation of medical professionals since 1983 will be set out in a consultation on the General Medical Council Order.",
+          "link": "https://www.gov.uk/government/news/mann-recommendations-agreed-in-consultation-on-gmc-overhaul",
+          "publishedOn": "2026-03-24T15:03:46.000Z",
+          "wordCount": 2333,
+          "title": "Mann recommendations agreed in consultation on GMC overhaul",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-february-2026",
           "author": null,
           "description": "Reports on departmental staff numbers and costs.",
@@ -2870,6 +2880,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:8a1b23c2-f206-4e83-abc6-00a75b1b198d",
+          "author": null,
+          "description": "On World TB Day, the World Health Organization (WHO) is urging countries to accelerate action to end tuberculosis (TB) and expand access to lifesaving services by using new innovations such as  diagnostic tests that can be used near the point-of-care and tongue swabs that can help detect the disease faster reaching more people.",
+          "link": "https://www.who.int/news/item/24-03-2026-who-recommends-new-diagnostic-tools-to-help-end-tb",
+          "publishedOn": "2026-03-24T08:29:49.000Z",
+          "wordCount": 2901,
+          "title": "WHO recommends new diagnostic tools to help end TB",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/molecular-lab-testing.tmb-1200v.jpg?sfvrsn=f2d649d2_1"
+        },
         {
           "id": "urn:uuid:6ab10a3d-bfea-4e0b-a1b9-d39a87e481e3",
           "author": null,
