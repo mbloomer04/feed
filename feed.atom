@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-24T10:42:39.413Z</updated>
+    <updated>2026-03-24T11:39:17.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=261859</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-151/"/>
+        <updated>2026-03-24T11:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing includes funding for a Scottish digital drug harm reduction programme and an award for an AI-powered smart glasses firm.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government consults on GMC retaining power to appeal MPTS decisions]]></title>
+        <id>https://www.gponline.com/article/1952598</id>
+        <link href="https://www.gponline.com/government-consults-gmc-retaining-power-appeal-mpts-decisions/article/1952598"/>
+        <updated>2026-03-24T10:36:03.000Z</updated>
+        <summary type="html"><![CDATA[The GMC could keep its existing right to appeal decisions by the Medical Practitioners Tribunal Service (MPTS) and gain new powers to challenge interim rulings under plans consulted on by the government - in a major U-turn from proposals backed after the landmark Bawa-Garba case just eight years ago.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government to replace ambulances following charity arson attack]]></title>
         <id>https://www.gov.uk/government/news/government-to-replace-ambulances-following-charity-arson-attack</id>
