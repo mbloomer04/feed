@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1952646",
+          "author": null,
+          "description": "Public satisfaction with NHS general practice has risen to its highest point since 2021 - ending a period of sustained decline, a major opinion survey reveals.",
+          "link": "https://www.gponline.com/public-satisfaction-general-practice-highest-2021/article/1952646",
+          "publishedOn": "2026-03-25T00:01:00.000Z",
+          "wordCount": 716,
+          "title": "Public satisfaction with general practice highest since 2021",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPsurgerysignNick_76.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1952598",
           "author": null,
           "description": "The GMC could keep its existing right to appeal decisions by the Medical Practitioners Tribunal Service (MPTS) and gain new powers to challenge interim rulings under plans consulted on by the government - in a major U-turn from proposals backed after the landmark Bawa-Garba case just eight years ago.",
@@ -1808,16 +1818,6 @@
           "wordCount": 756,
           "title": "New targets on obesity and same-day access in 2026/27 GP contract",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-GrantSquibb_RF_14.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1949268",
-          "author": null,
-          "description": "Development of NHS neighbourhood models without clear guidance or contracts to shape them risks entrenching existing power imbalances in the health service - unless GPs take the initiative now to secure a leading role, the BMA has warned.",
-          "link": "https://www.gponline.com/neighbourhood-policy-vacuum-risks-hard-wiring-nhs-gps-disadvantage/article/1949268",
-          "publishedOn": "2026-02-23T12:12:40.000Z",
-          "wordCount": 744,
-          "title": "Neighbourhood policy vacuum risks hard-wiring NHS to GPs' disadvantage",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_19.jpg"
         }
       ]
     },
