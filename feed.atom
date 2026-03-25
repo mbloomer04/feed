@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-25T05:56:05.674Z</updated>
+    <updated>2026-03-25T06:55:45.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Under 50% of NHS staff receive basic EPR training]]></title>
+        <id>https://www.digitalhealth.net/?p=262377</id>
+        <link href="https://www.digitalhealth.net/2026/03/under-50-of-nhs-staff-receive-basic-epr-training/"/>
+        <updated>2026-03-25T06:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Around half of NHS staff using an electronic patient record system (EPR) received training on how to use it for their role, a survey found.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public satisfaction with general practice highest since 2021]]></title>
         <id>https://www.gponline.com/article/1952646</id>
