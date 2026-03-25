@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-25T12:50:14.598Z</updated>
+    <updated>2026-03-25T14:13:30.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Pandemic Preparedness Strategy: building our capabilities]]></title>
+        <id>https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities</id>
+        <link href="https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities"/>
+        <updated>2026-03-25T14:01:36.000Z</updated>
+        <summary type="html"><![CDATA[How the UK intends to rebuild readiness for future pandemics through a whole-of-government approach that prioritises the needs of the most vulnerable.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substances of human origin (SoHO): review of UK legislation]]></title>
+        <id>https://www.gov.uk/government/calls-for-evidence/substances-of-human-origin-soho-review-of-uk-legislation</id>
+        <link href="https://www.gov.uk/government/calls-for-evidence/substances-of-human-origin-soho-review-of-uk-legislation"/>
+        <updated>2026-03-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are seeking views on the UK’s domestic legislative framework, in order to ensure that UK regulation of SoHO remains safe, effective, proportionate and fit for purpose.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS Innovation Accelerator announces 2026 fellows at Rewired]]></title>
+        <id>https://www.digitalhealth.net/?p=260959</id>
+        <link href="https://www.digitalhealth.net/2026/03/nhs-innovation-accelerator-announces-2026-fellows-at-rewired/"/>
+        <updated>2026-03-25T13:30:20.000Z</updated>
+        <summary type="html"><![CDATA[The NHS Innovation Accelerator (NIA) welcomed its latest intake of fellows at a launch event held at Digital Health Rewired 2026.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4761 - LiteLLM PyPI Package Compromise]]></title>
+        <id>77e1634f-cd6f-444a-b40f-44a424a3cfbf</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4761"/>
+        <updated>2026-03-25T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Affected packages contain malicious code that can exfiltrate secrets and establish persistence
+ Affected packages contain malicious code that can exfiltrate secrets and establish persistence
+ Updated: 25 Mar 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS reform and the future of the health service]]></title>
         <id>https://www.gov.uk/government/speeches/nhs-reform-and-the-future-of-the-health-service</id>
