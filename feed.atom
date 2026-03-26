@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-26T10:44:35.191Z</updated>
+    <updated>2026-03-26T11:42:50.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=261901</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-152/"/>
+        <updated>2026-03-26T11:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Today’s briefing includes Microsoft’s rollout of an AI health assistant in the US and a British biotech company raising £3.6m in seed funding]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital health staff will be expected to gain professional registration]]></title>
+        <id>https://www.digitalhealth.net/?p=262519</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-staff-will-be-expected-to-gain-professional-registration/"/>
+        <updated>2026-03-26T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[NHS England is to set an “expectation” that staff working in digital healthcare are members of a professional body and registered with FEDIP.]]></summary>
+        <author>
+            <name>Claire Read</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Deprivation of Liberty Safeguards, England: 2024 to 2025]]></title>
         <id>https://www.gov.uk/government/statistics/deprivation-of-liberty-safeguards-england-2024-to-2025</id>
@@ -94,6 +114,26 @@
         <summary type="html"><![CDATA[Government rolling out first 27 neighbourhood health centres providing more care closer to home.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encouraging progress in inclusive health policies for refugees and migrants]]></title>
+        <id>urn:uuid:25972cde-7502-4659-8762-33e7cdfcd55e</id>
+        <link href="https://www.who.int/news/item/26-03-2026-encouraging-progress-in-inclusive-health-policies-for-refugees-and-migrants"/>
+        <updated>2026-03-26T08:50:26.000Z</updated>
+        <summary type="html"><![CDATA[WHO reports a major shift in how countries are responding to the health needs of refugees and migrants, with new data showing more than 60 countries – two thirds of those surveyed – now include them in their national health policies and laws.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streeting promises GP contract reform as BMA mulls referendum result]]></title>
+        <id>https://www.gponline.com/article/1952833</id>
+        <link href="https://www.gponline.com/streeting-promises-gp-contract-reform-bma-mulls-referendum-result/article/1952833"/>
+        <updated>2026-03-26T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Work towards substantive reform of the GP contract could start soon, health and social care secretary Wes Streeting has suggested - as BMA leaders meet to discuss the results of a referendum on the 2026/27 contract for general practice.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

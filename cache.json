@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1952833",
+          "author": null,
+          "description": "Work towards substantive reform of the GP contract could start soon, health and social care secretary Wes Streeting has suggested - as BMA leaders meet to discuss the results of a referendum on the 2026/27 contract for general practice.",
+          "link": "https://www.gponline.com/streeting-promises-gp-contract-reform-bma-mulls-referendum-result/article/1952833",
+          "publishedOn": "2026-03-26T08:30:00.000Z",
+          "wordCount": 748,
+          "title": "Streeting promises GP contract reform as BMA mulls referendum result",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Wes_Streeting_RCGP_11.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1952844",
           "author": null,
           "description": "The government has awarded a 3.5% pay increase for GPs in 2026/27 following advice from the Doctors and Dentists Review Body (DDRB).",
@@ -3071,6 +3081,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:25972cde-7502-4659-8762-33e7cdfcd55e",
+          "author": null,
+          "description": "WHO reports a major shift in how countries are responding to the health needs of refugees and migrants, with new data showing more than 60 countries – two thirds of those surveyed – now include them in their national health policies and laws.",
+          "link": "https://www.who.int/news/item/26-03-2026-encouraging-progress-in-inclusive-health-policies-for-refugees-and-migrants",
+          "publishedOn": "2026-03-26T08:50:26.000Z",
+          "wordCount": 2846,
+          "title": "Encouraging progress in inclusive health policies for refugees and migrants",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/populations-demographics-human-behaviour-and-injuries/refugee-and-migrants/66740.tmb-1200v.jpg?sfvrsn=dbbb3422_6"
+        },
+        {
           "id": "urn:uuid:8a1b23c2-f206-4e83-abc6-00a75b1b198d",
           "author": null,
           "description": "On World TB Day, the World Health Organization (WHO) is urging countries to accelerate action to end tuberculosis (TB) and expand access to lifesaving services by using new innovations such as  diagnostic tests that can be used near the point-of-care and tongue swabs that can help detect the disease faster reaching more people.",
@@ -3147,6 +3167,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=261901",
+          "author": "Samuel Webb",
+          "description": "Today’s briefing includes Microsoft’s rollout of an AI health assistant in the US and a British biotech company raising £3.6m in seed funding",
+          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-152/",
+          "publishedOn": "2026-03-26T11:30:36.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=262519",
+          "author": "Claire Read",
+          "description": "NHS England is to set an “expectation” that staff working in digital healthcare are members of a professional body and registered with FEDIP.",
+          "link": "https://www.digitalhealth.net/2026/03/digital-health-staff-will-be-expected-to-gain-professional-registration/",
+          "publishedOn": "2026-03-26T11:00:04.000Z",
+          "wordCount": null,
+          "title": "Digital health staff will be expected to gain professional registration",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261737",
           "author": "Jordan Sollof",
