@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-26T16:04:32.884Z</updated>
+    <updated>2026-03-26T17:54:38.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First wave of neighbourhood health centres announced]]></title>
+        <id>https://www.gponline.com/article/1952987</id>
+        <link href="https://www.gponline.com/first-wave-neighbourhood-health-centres-announced/article/1952987"/>
+        <updated>2026-03-26T16:49:42.000Z</updated>
+        <summary type="html"><![CDATA[A first wave of 27 neighbourhood health centres will open by March 2027 - but all sites will involve upgrades to existing buildings instead of new builds, the government has confirmed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs already hired with PCN cash can move to new practice-level scheme]]></title>
+        <id>https://www.gponline.com/article/1952973</id>
+        <link href="https://www.gponline.com/gps-already-hired-pcn-cash-move-new-practice-level-scheme/article/1952973"/>
+        <updated>2026-03-26T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[GPs already employed with PCN capacity and access funding will be eligible to transfer into a practice-level GP reimbursement scheme in 2026/27, NHS England has confirmed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Health Secretary Oral Statement on resident doctors]]></title>
         <id>https://www.gov.uk/government/speeches/health-secretary-oral-statement-on-resident-doctors</id>
