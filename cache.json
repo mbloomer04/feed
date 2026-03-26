@@ -1937,6 +1937,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/speeches/health-secretary-oral-statement-on-resident-doctors",
+          "author": null,
+          "description": "The Health Secretary spoke in Parliament regarding a deal put to resident doctors.",
+          "link": "https://www.gov.uk/government/speeches/health-secretary-oral-statement-on-resident-doctors",
+          "publishedOn": "2026-03-26T13:50:14.000Z",
+          "wordCount": 3460,
+          "title": "Health Secretary Oral Statement on resident doctors",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/interministerial-group-for-health-and-social-care-communique-11-december-2025",
           "author": null,
           "description": "Details of the fourth meeting held by the Interministerial Group (IMG) for Health and Social Care.",
@@ -3217,6 +3227,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=262347",
+          "author": "Thelma Agnew",
+          "description": "The FDP is delivering benefits but is being held back by a lack of clarity from the centre, speakers at Digital Health Rewired said.",
+          "link": "https://www.digitalhealth.net/2026/03/fdp-being-held-back-by-a-lack-of-clarity-from-the-centre/",
+          "publishedOn": "2026-03-26T13:30:27.000Z",
+          "wordCount": null,
+          "title": "FDP ‘being held back by a lack of clarity from the centre’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=261901",
           "author": "Samuel Webb",
