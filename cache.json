@@ -1907,6 +1907,96 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/deprivation-of-liberty-safeguards-england-2024-to-2025",
+          "author": null,
+          "description": "Data on Deprivation of Liberty Safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
+          "link": "https://www.gov.uk/government/statistics/deprivation-of-liberty-safeguards-england-2024-to-2025",
+          "publishedOn": "2026-03-26T09:30:14.000Z",
+          "wordCount": 1317,
+          "title": "Official Statistics: Deprivation of Liberty Safeguards, England: 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-statement-on-revisions-and-corrections-policy",
+          "author": null,
+          "description": "Sets out how revisions and corrections to the Department of Health and Social Care’s statistical outputs take place in line with the Code of Practice for Official Statistics.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-statement-on-revisions-and-corrections-policy",
+          "publishedOn": "2026-03-26T09:30:14.000Z",
+          "wordCount": 2712,
+          "title": "DHSC statistics: statement on revisions and corrections policy",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-compliance-with-the-pre-release-access-to-official-statistics-order-2008",
+          "author": null,
+          "description": "The department's operational arrangements for giving ministers and officials pre-release access to official statistics before publication.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-compliance-with-the-pre-release-access-to-official-statistics-order-2008",
+          "publishedOn": "2026-03-26T09:30:14.000Z",
+          "wordCount": 4371,
+          "title": "DHSC statistics: compliance with the Pre-release Access to Official Statistics Order 2008",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-statistical-work-programme-2026-to-2027",
+          "author": null,
+          "description": "The Department of Health and Social Care's (DHSC) high-level statistical plans and priorities for 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/dhsc-statistical-work-programme-2026-to-2027",
+          "publishedOn": "2026-03-26T09:30:12.000Z",
+          "wordCount": 968,
+          "title": "Policy paper: DHSC statistical work programme 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-public-involvement-and-engagement-strategy",
+          "author": null,
+          "description": "How the Department of Health and Social Care involves and engages users to ensure its official statistics are trustworthy, high-quality and genuinely meet public needs.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-public-involvement-and-engagement-strategy",
+          "publishedOn": "2026-03-26T09:30:11.000Z",
+          "wordCount": 1709,
+          "title": "DHSC statistics: public involvement and engagement strategy",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-compliance-with-the-code-of-practice-for-statistics",
+          "author": null,
+          "description": "A summary of how DHSC meets the standards set out in the Code of Practice for Official Statistics, including the department's policies on the release of official statistics.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-compliance-with-the-code-of-practice-for-statistics",
+          "publishedOn": "2026-03-26T09:30:11.000Z",
+          "wordCount": 2232,
+          "title": "DHSC statistics: compliance with the Code of Practice for Statistics",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-our-quality-management-approach",
+          "author": null,
+          "description": "This document explains how the Department of Health and Social Care manages the quality of the statistics it produces.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-our-quality-management-approach",
+          "publishedOn": "2026-03-26T09:30:11.000Z",
+          "wordCount": 2182,
+          "title": "DHSC statistics: our quality management approach",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/dhsc-statistics-data-management-and-confidentiality-statement",
+          "author": null,
+          "description": "This statement explains how DHSC manages the data used in producing our statistical outputs, and how we ensure the confidentiality of individuals and other data providers.",
+          "link": "https://www.gov.uk/guidance/dhsc-statistics-data-management-and-confidentiality-statement",
+          "publishedOn": "2026-03-26T09:30:10.000Z",
+          "wordCount": 2342,
+          "title": "DHSC statistics: data management and confidentiality statement",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/communities-to-benefit-from-health-centres-on-their-doorstep",
+          "author": null,
+          "description": "Government rolling out first 27 neighbourhood health centres providing more care closer to home.",
+          "link": "https://www.gov.uk/government/news/communities-to-benefit-from-health-centres-on-their-doorstep",
+          "publishedOn": "2026-03-26T09:15:02.000Z",
+          "wordCount": 3199,
+          "title": "Communities to benefit from health centres on their doorstep",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/bma-resident-doctors-committee-rejects-landmark-deal",
           "author": null,
           "description": "Historic new deal for resident doctors would have seen more frequent and fairer pay rises and more training places from this year.",
