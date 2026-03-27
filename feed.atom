@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-27T20:29:41.739Z</updated>
+    <updated>2026-03-27T21:26:44.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2725,16 +2725,6 @@ Security advisory addresses three vulnerabilities that could result in command i
         <link href="https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027"/>
         <updated>2026-02-26T09:30:08.000Z</updated>
         <summary type="html"><![CDATA[The annual flu letter describes the national flu immunisation programme and outlines which groups are eligible for flu vaccination.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England]]></title>
-        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england</id>
-        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england"/>
-        <updated>2026-02-26T08:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Details the government’s plan to transform cancer care and outcomes in England by 2035.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
