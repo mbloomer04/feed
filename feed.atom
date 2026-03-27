@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-27T12:44:31.526Z</updated>
+    <updated>2026-03-27T14:06:12.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avoid unnecessary piloting of ‘excellent’ tech, says national CNIO]]></title>
+        <id>https://www.digitalhealth.net/?p=262453</id>
+        <link href="https://www.digitalhealth.net/2026/03/avoid-unnecessary-piloting-of-excellent-tech-says-national-cnio/"/>
+        <updated>2026-03-27T13:30:38.000Z</updated>
+        <summary type="html"><![CDATA[The NHS must “accelerate” and scale proven innovations to meet rising demand, Helen Balsdon told Digital Health Rewired.]]></summary>
+        <author>
+            <name>Thelma Agnew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4762 - Telnyx PyPI Package Compromise]]></title>
         <id>22580fe8-66fa-47d5-956d-1069086747b8</id>
