@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "22580fe8-66fa-47d5-956d-1069086747b8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Updated: 27 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4762",
+          "publishedOn": "2026-03-27T11:32:00.000Z",
+          "wordCount": null,
+          "title": "CC-4762 - Telnyx PyPI Package Compromise",
+          "imageUrl": null
+        },
+        {
           "id": "77e1634f-cd6f-444a-b40f-44a424a3cfbf",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Affected packages contain malicious code that can exfiltrate secrets and establish persistence\n Affected packages contain malicious code that can exfiltrate secrets and establish persistence\n Updated: 25 Mar 2026",
@@ -3247,6 +3257,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=262473",
+          "author": "Jordan Sollof",
+          "description": "The chairs of the Digital Health Networks have urged NHS organisations to focus on optimising existing digital tools over chasing new tech.",
+          "link": "https://www.digitalhealth.net/2026/03/nhs-urged-to-optimise-existing-tech-before-chasing-new-solutions/",
+          "publishedOn": "2026-03-27T11:00:40.000Z",
+          "wordCount": null,
+          "title": "NHS urged to optimise existing tech before chasing new solutions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262547",
           "author": "Claire Read",
