@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-27T16:44:06.466Z</updated>
+    <updated>2026-03-27T17:42:38.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Apheresis capacity in England: report of the apheresis expert working group]]></title>
+        <id>https://www.gov.uk/government/publications/apheresis-capacity-in-england-report-of-the-apheresis-expert-working-group</id>
+        <link href="https://www.gov.uk/government/publications/apheresis-capacity-in-england-report-of-the-apheresis-expert-working-group"/>
+        <updated>2026-03-27T16:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Report from an expert working group on the current and anticipated capacity issues for apheresis service providers.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: EM on rules on medical devices (COM(2025)1023)]]></title>
         <id>https://www.gov.uk/government/publications/em-on-rules-on-medical-devices-com20251023</id>
