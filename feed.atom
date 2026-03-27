@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-27T14:06:12.199Z</updated>
+    <updated>2026-03-27T15:43:09.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 DMA: Only 30% of trusts with EPRs have integrated data flows]]></title>
+        <id>https://www.digitalhealth.net/?p=262863</id>
+        <link href="https://www.digitalhealth.net/2026/03/2025-dma-only-30-of-trusts-with-eprs-have-integrated-data-flows/"/>
+        <updated>2026-03-27T14:54:31.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Digital Maturity Assessment shows 93% of NHS providers use EPRs but only 30% have fully integrated bi-directional data flows.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avoid unnecessary piloting of ‘excellent’ tech, says national CNIO]]></title>
         <id>https://www.digitalhealth.net/?p=262453</id>
