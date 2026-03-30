@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953095",
+          "author": null,
+          "description": "Rising inflation and flawed allocation of practice funding could leave GPs out of pocket after the government backed a 3.5% pay uplift for 2026/27, accountants have warned.",
+          "link": "https://www.gponline.com/gp-pay-rise-could-fall-short-amid-rising-inflation/article/1953095",
+          "publishedOn": "2026-03-30T07:00:00.000Z",
+          "wordCount": 722,
+          "title": "GP pay rise 'could fall short' amid rising inflation",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_GettyImages-JohnLamb_RF_31.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953056",
           "author": null,
           "description": "GPs could begin collective action from 30 April unless the BMA and government reach agreement on the 2026/27 GP contract and wider GMS reform in talks due to begin after Easter.",
@@ -3157,6 +3167,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=262643",
+          "author": "Jordan Sollof",
+          "description": "Manchester University NHS Foundation Trust (MFT) is expanding the use of AI tools across its workforce in collaboration with Microsoft.",
+          "link": "https://www.digitalhealth.net/2026/03/manchester-trust-to-expand-use-of-microsofts-ai-tools/",
+          "publishedOn": "2026-03-30T06:30:32.000Z",
+          "wordCount": null,
+          "title": "Manchester trust to expand use of Microsoft’s AI tools",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262863",
           "author": "Jordan Sollof",
