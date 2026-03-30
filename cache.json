@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953214",
+          "author": null,
+          "description": "The lack of detail on the new practice-level reimbursement scheme for employing GPs in England, which is due to come into effect this week as part of the new GP contract, is ‘completely unacceptable’, practice and PCN managers have said.",
+          "link": "https://www.gponline.com/lack-detail-new-gp-reimbursement-scheme-completely-unacceptable/article/1953214",
+          "publishedOn": "2026-03-30T11:23:35.000Z",
+          "wordCount": 751,
+          "title": "Lack of detail on new GP reimbursement scheme ‘completely unacceptable’",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896437-ezgif.com-optijpeg.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953154",
           "author": null,
           "description": "RCGP Cymru Wales has elected a new chair of council, who will take on the role in May this year.",
@@ -1926,6 +1936,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "publishedOn": "2026-03-30T12:37:34.000Z",
+          "wordCount": 676,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to December 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme-grant-determination-2026-to-2027",
+          "author": null,
+          "description": "Grant determination for the Adult Social Care Learning and Development Support Scheme in the financial year 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme-grant-determination-2026-to-2027",
+          "publishedOn": "2026-03-30T12:18:40.000Z",
+          "wordCount": 898,
+          "title": "Guidance: Adult Social Care Learning and Development Support Scheme grant determination: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/hundreds-of-best-start-family-hubs-open-nationwide",
+          "author": null,
+          "description": "More parents can save hundreds of pounds through free services, as over 200 Best Start Family Hubs open nationwide this week, helping with the cost of living.",
+          "link": "https://www.gov.uk/government/news/hundreds-of-best-start-family-hubs-open-nationwide",
+          "publishedOn": "2026-03-30T12:12:26.000Z",
+          "wordCount": 3696,
+          "title": "Hundreds of Best Start Family Hubs open nationwide",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/best-start-family-hubs-and-healthy-babies-guidance-for-local-authorities",
           "author": null,
@@ -2955,16 +2995,6 @@
           "wordCount": 2007,
           "title": "UK nutrient profiling model 2018 review",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/new-bone-scanners-to-help-prevent-fractures-and-cut-waiting-times",
-          "author": null,
-          "description": "Patients across England will benefit from new bone scanners to diagnose fragile bones earlier and prevent painful, life-changing fractures.",
-          "link": "https://www.gov.uk/government/news/new-bone-scanners-to-help-prevent-fractures-and-cut-waiting-times",
-          "publishedOn": "2026-03-01T00:15:03.000Z",
-          "wordCount": 3110,
-          "title": "New bone scanners to help prevent fractures and cut waiting times",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3227,6 +3257,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263007",
+          "author": "Jordan Sollof",
+          "description": "Rob Thompson has been appointed chief digital, data and technology officer across the Department of Health and Social Care and NHS England.",
+          "link": "https://www.digitalhealth.net/2026/03/national-nhs-chief-digital-data-and-tech-officer-appointed/",
+          "publishedOn": "2026-03-30T12:30:50.000Z",
+          "wordCount": null,
+          "title": "National NHS chief digital, data and tech officer appointed",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262725",
           "author": "Jordan Sollof",
