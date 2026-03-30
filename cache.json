@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "051a4e17-6e75-44c8-b4bd-df400c3046d8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n Updated: 30 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4763",
+          "publishedOn": "2026-03-30T09:24:00.000Z",
+          "wordCount": null,
+          "title": "CC-4763 - Critical RCE Vulnerability in F5 BIG-IP Under Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "22580fe8-66fa-47d5-956d-1069086747b8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Updated: 27 Mar 2026",
@@ -1240,6 +1250,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953154",
+          "author": null,
+          "description": "RCGP Cymru Wales has elected a new chair of council, who will take on the role in May this year.",
+          "link": "https://www.gponline.com/rcgp-cymru-wales-elects-new-chair/article/1953154",
+          "publishedOn": "2026-03-30T08:52:31.000Z",
+          "wordCount": 697,
+          "title": "RCGP Cymru Wales elects new chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/WillMackIntosh.jpeg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1953096",
+          "author": null,
+          "description": "GPonline and our sister brands MIMS and MMS Learning are media partners and event sponsors for the Diabetes UK Professional Conference 2026.",
+          "link": "https://www.gponline.com/gponline-partners-diabetes-uk-professional-conference-2026/article/1953096",
+          "publishedOn": "2026-03-30T07:22:00.000Z",
+          "wordCount": 1082,
+          "title": "GPonline partners with Diabetes UK Professional Conference 2026",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/0567_DUKPC2023_PG.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953095",
           "author": null,
           "description": "Rising inflation and flawed allocation of practice funding could leave GPs out of pocket after the government backed a 3.5% pay uplift for 2026/27, accountants have warned.",
@@ -1896,6 +1926,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/the-health-of-people-in-prison-on-probation-and-in-the-secure-nhs-estate-in-england",
+          "author": null,
+          "description": "The Chief Medical Officer for England identifies areas of good practice and areas of risk, and recommends actions to improve health outcomes for this population.",
+          "link": "https://www.gov.uk/government/publications/the-health-of-people-in-prison-on-probation-and-in-the-secure-nhs-estate-in-england",
+          "publishedOn": "2026-03-30T08:37:59.000Z",
+          "wordCount": 1549,
+          "title": "Research: The health of people in prison, on probation and in the secure NHS estate in England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/apheresis-capacity-in-england-report-of-the-apheresis-expert-working-group",
           "author": null,
@@ -3167,6 +3207,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=262725",
+          "author": "Jordan Sollof",
+          "description": "East Cheshire NHS Trust and Mid Cheshire Hospitals NHS Foundation Trust are continuing to optimise their shared EPR months after launch.",
+          "link": "https://www.digitalhealth.net/2026/03/cheshire-trusts-optimising-shared-epr-following-go-live/",
+          "publishedOn": "2026-03-30T10:00:15.000Z",
+          "wordCount": null,
+          "title": "Cheshire trusts optimising shared EPR following go-live",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262643",
           "author": "Jordan Sollof",
