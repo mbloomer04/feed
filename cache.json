@@ -1928,16 +1928,6 @@
           "wordCount": 1433,
           "title": "Over 10,000 calls to Martha’s Rule in first 16 months to trigger urgent review of care",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=283220",
-          "author": "jboshell",
-          "description": "Nearly 1 in 4 people have missed an NHS appointment because they forgot or arrived too late, according to a new survey. The NHS has launched a new campaign urging people to turn on ‘push alerts’ from the NHS App so they get reminders about appointments and can rearrange any they can’t make, helping to […]",
-          "link": "https://www.england.nhs.uk/2026/03/nhs-urges-tap-the-app-as-1-in-4-miss-appointments/",
-          "publishedOn": "2026-03-02T00:01:00.000Z",
-          "wordCount": 1419,
-          "title": "NHS urges ‘tap the app’ as 1 in 4 miss appointments",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -3307,6 +3297,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263047",
+          "author": "Jordan Sollof",
+          "description": "Figures within government are considering triggering a break clause in Palantir’s NHS federated data platform (FDP) contract.",
+          "link": "https://www.digitalhealth.net/2026/03/government-considers-use-of-break-clause-in-palantir-nhs-contract/",
+          "publishedOn": "2026-03-31T12:30:54.000Z",
+          "wordCount": null,
+          "title": "Government considers use of break clause in Palantir NHS contract",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262775",
           "author": "Jordan Sollof",
