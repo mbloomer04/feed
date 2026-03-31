@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8d3da98b-acdc-4fe3-a2df-5e14303352c9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Affected packages contain a malicious dependency designed to deploy remote access trojan malware\n Affected packages contain a malicious dependency designed to deploy remote access trojan malware\n Updated: 31 Mar 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4764",
+          "publishedOn": "2026-03-31T13:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4764 - Axios HTTP Client Package Compromise",
+          "imageUrl": null
+        },
+        {
           "id": "051a4e17-6e75-44c8-b4bd-df400c3046d8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n Updated: 30 Mar 2026",
