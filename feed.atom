@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-31T09:57:05.150Z</updated>
+    <updated>2026-03-31T10:50:15.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=262697</id>
+        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-153/"/>
+        <updated>2026-03-31T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features AI designed to diagnose childhood sleep apnoea and a multilingual virtual assistant at a Welsh medical centre.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correspondence: Keep Britain Working Review updates]]></title>
         <id>https://www.gov.uk/government/publications/keep-britain-working-review-updates</id>
