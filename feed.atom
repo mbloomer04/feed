@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-03-31T06:11:38.315Z</updated>
+    <updated>2026-03-31T08:03:11.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experts caution against ‘snake oil’ claims in AI research]]></title>
+        <id>https://www.digitalhealth.net/?p=262613</id>
+        <link href="https://www.digitalhealth.net/2026/03/experts-caution-against-snake-oil-claims-in-ai-research/"/>
+        <updated>2026-03-31T06:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Many big tech firms are over-promising and under-delivering on AI, warned health data experts at Digital Health Rewired.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC group accounting manual 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2025-to-2026</id>
