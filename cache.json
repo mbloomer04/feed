@@ -1805,18 +1805,7 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": [
-        {
-          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
-          "author": null,
-          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
-          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
-          "publishedOn": "2026-03-02T13:02:40.000Z",
-          "wordCount": 2007,
-          "title": "UK nutrient profiling model 2018 review",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "All Blog Feed",
@@ -1859,6 +1848,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=285071",
+          "author": "Tom W",
+          "description": "A new life-changing treatment option – GLP-1 drug semaglutide known as Wegovy – is set to be available on the NHS within months, with 1.2 million people with cardiovascular disease eligible to receive the treatment to help prevent heart attacks and strokes over the next few years. People with heart and circulatory disease who are […]",
+          "link": "https://www.england.nhs.uk/2026/04/million-people-offered-wegovy-cut-heart-attack-stroke-risk/",
+          "publishedOn": "2026-03-31T23:01:50.000Z",
+          "wordCount": 1759,
+          "title": "Over a million people could be offered Wegovy to cut heart attack and stroke risk on the NHS",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=284739",
           "author": "rwootton",
@@ -3065,16 +3064,6 @@
           "wordCount": 1202,
           "title": "Changes to NICE regulations: cost-effectiveness threshold",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
-          "author": null,
-          "description": "We are seeking views on the 2018 review of the UK nutrient profiling model.",
-          "link": "https://www.gov.uk/government/consultations/consultation-on-the-uk-nutrient-profiling-model-2018-review",
-          "publishedOn": "2026-03-02T13:02:40.000Z",
-          "wordCount": 2007,
-          "title": "UK nutrient profiling model 2018 review",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -4056,16 +4045,6 @@
           "wordCount": null,
           "title": "York and Scarborough pilots digital physiotherapy app",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=259687",
-          "author": "Jordan Sollof",
-          "description": "Reframe Cancer, a provider of specialist cancer navigation, has acquired digital cancer prehabilitation business Alvie Health.",
-          "link": "https://www.digitalhealth.net/2026/03/reframe-cancer-acquires-digital-prehabilitation-firm-alvie-health/",
-          "publishedOn": "2026-03-02T13:30:36.000Z",
-          "wordCount": 6423,
-          "title": "Reframe Cancer acquires digital prehabilitation firm Alvie Health",
-          "imageUrl": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2026/02/Mark-Stephenson-Reframe-Cancer.png"
         }
       ]
     },
