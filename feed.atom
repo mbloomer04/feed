@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-01T08:11:18.839Z</updated>
+    <updated>2026-04-01T10:00:43.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government reveals details of 2026/27 GP contract funding]]></title>
+        <id>https://www.gponline.com/article/1953514</id>
+        <link href="https://www.gponline.com/government-reveals-details-2026-27-gp-contract-funding/article/1953514"/>
+        <updated>2026-04-01T09:11:14.000Z</updated>
+        <summary type="html"><![CDATA[The government has published an updated 'statement of financial entitlements' (SFE) for general practice setting out final details of GP funding for 2026/27.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE recommends semaglutide to prevent heart attack and stroke]]></title>
+        <id>https://www.gponline.com/article/1953506</id>
+        <link href="https://www.gponline.com/nice-recommends-semaglutide-prevent-heart-attack-stroke/article/1953506"/>
+        <updated>2026-04-01T08:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Wegovy (semaglutide) has been recommended by NICE to help prevent heart attack and stroke in people who have already experienced such an event or have peripheral arterial disease and who are also overweight.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third of GPs to consider quitting over imposed contract]]></title>
+        <id>https://www.gponline.com/article/1953515</id>
+        <link href="https://www.gponline.com/third-gps-consider-quitting-imposed-contract/article/1953515"/>
+        <updated>2026-04-01T08:43:55.000Z</updated>
+        <summary type="html"><![CDATA[More than one in three GPs say the imposed 2026/27 contract will make them consider early retirement in the next 12 months, polling reveals.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHSE intervenes to delay North Cumbria EPR go-live until May]]></title>
         <id>https://www.digitalhealth.net/?p=263139</id>
