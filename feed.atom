@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-01T23:29:25.439Z</updated>
+    <updated>2026-04-02T01:28:41.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Millions of older people to get vaccine against serious lung infection]]></title>
+        <id>https://www.england.nhs.uk/?p=285201</id>
+        <link href="https://www.england.nhs.uk/2026/04/millions-of-older-people-to-get-vaccine-against-serious-lung-infection/"/>
+        <updated>2026-04-01T23:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Millions of older people can now get protection against a virus which causes serious lung infections like bronchitis and pneumonia – preventing potentially thousands of hospital admissions a year. All adults aged 80 and over, and people living in a care home for older adults, are now eligible for the NHS respiratory syncytial virus (RSV) […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: CQC assessment of local authorities: grant funding for 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/cqc-assessment-of-local-authorities-grant-funding-for-2025-to-2026</id>
@@ -2800,16 +2810,6 @@ Security advisory addresses three vulnerabilities that could result in command i
         <summary type="html"><![CDATA[NHS Shared Business Services has launched a framework agreement to help the NHS improve how it communicates with its patients through tech.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=259713</id>
-        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-145/"/>
-        <updated>2026-03-03T11:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing includes funding for Pontiro's AI evaluation platform and a partnership between RLDatix and Blackrock Health.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
