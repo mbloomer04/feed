@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "625f8b4d-5236-48a4-b365-5edc457948ae",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)\n Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)\n Updated: 02 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4765",
+          "publishedOn": "2026-04-02T14:09:00.000Z",
+          "wordCount": null,
+          "title": "CC-4765 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "8d3da98b-acdc-4fe3-a2df-5e14303352c9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Affected packages contain a malicious dependency designed to deploy remote access trojan malware\n Affected packages contain a malicious dependency designed to deploy remote access trojan malware\n Updated: 31 Mar 2026",
@@ -1955,6 +1965,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/bma-resident-doctor-industrial-action-april-2026",
+          "author": null,
+          "description": "The Secretary of State for Health and Social Care writes to the chair of the BMA resident doctors committee.",
+          "link": "https://www.gov.uk/government/publications/bma-resident-doctor-industrial-action-april-2026",
+          "publishedOn": "2026-04-02T13:58:24.000Z",
+          "wordCount": 804,
+          "title": "Correspondence: BMA resident doctor industrial action, April 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2025",
           "author": null,
