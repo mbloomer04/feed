@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953694",
+          "author": null,
+          "description": "NHS chief executive Sir Jim Mackey has set out plans for a 'major expansion of advice and guidance' over the coming year - as a government health minister confirmed GP contract changes will make it 'part of routine clinical practice' with no additional funding.",
+          "link": "https://www.gponline.com/nhs-confirms-major-expansion-advice-guidance-year/article/1953694",
+          "publishedOn": "2026-04-02T09:55:58.000Z",
+          "wordCount": 944,
+          "title": "NHS confirms 'major expansion' of advice and guidance this year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_telephone_GettyImages-SolStock_RF_4.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953514",
           "author": null,
           "description": "The government has published an updated 'statement of financial entitlements' (SFE) for general practice setting out final details of GP funding for 2026/27.",
@@ -1945,6 +1955,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2025",
+          "author": null,
+          "description": "Amendment in the tariff and ceiling of charges payable by compensators for the recovery of NHS charges under the NHS injury costs recovery scheme.",
+          "link": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2025",
+          "publishedOn": "2026-04-02T10:44:21.000Z",
+          "wordCount": 1207,
+          "title": "NHS injury costs recovery scheme: tariff and charges from 1 October 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
           "author": null,
