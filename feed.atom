@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-04T21:24:13.307Z</updated>
+    <updated>2026-04-04T22:21:16.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record number of new and replacement ambulances delivered]]></title>
+        <id>https://www.gov.uk/government/news/record-number-of-new-and-replacement-ambulances-delivered</id>
+        <link href="https://www.gov.uk/government/news/record-number-of-new-and-replacement-ambulances-delivered"/>
+        <updated>2026-04-04T21:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Boost for paramedics as over 1,100 new or replacement ambulances rolled out nationwide]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: What happens now GPs have rejected the contract, plus will GP pay rise by 3.5%?]]></title>
         <id>https://www.gponline.com/article/1953599</id>
@@ -2664,26 +2674,6 @@ At the same time, the conflict is affecting the very services meant to save live
         <summary type="html"><![CDATA[Researchers have developed an AI tool that predicts the risk of further heart attacks in people with cancer.]]></summary>
         <author>
             <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP practices miss out on vaccine payments after IT glitch]]></title>
-        <id>https://www.gponline.com/article/1950723</id>
-        <link href="https://www.gponline.com/gp-practices-miss-vaccine-payments-glitch/article/1950723"/>
-        <updated>2026-03-06T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Exclusive: GP practices have missed out on thousands of pounds in vaccine reimbursements because of IT and staffing issues.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Statistics: Technology use in adult social care: 2025 survey results]]></title>
-        <id>https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results</id>
-        <link href="https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results"/>
-        <updated>2026-03-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Findings from a survey of CQC-registered care providers in England on their use of care technology and barriers to further adoption.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

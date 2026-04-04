@@ -1748,16 +1748,6 @@
           "wordCount": 718,
           "title": "GPs can charge fees for safeguarding reports and meetings, BMA confirms",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2111805333_5.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1950723",
-          "author": null,
-          "description": "Exclusive: GP practices have missed out on thousands of pounds in vaccine reimbursements because of IT and staffing issues.",
-          "link": "https://www.gponline.com/gp-practices-miss-vaccine-payments-glitch/article/1950723",
-          "publishedOn": "2026-03-06T09:55:00.000Z",
-          "wordCount": 718,
-          "title": "GP practices miss out on vaccine payments after IT glitch",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/vaccine_GettyImages-CavanImages_RF_3.jpg"
         }
       ]
     },
@@ -1895,6 +1885,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/record-number-of-new-and-replacement-ambulances-delivered",
+          "author": null,
+          "description": "Boost for paramedics as over 1,100 new or replacement ambulances rolled out nationwide",
+          "link": "https://www.gov.uk/government/news/record-number-of-new-and-replacement-ambulances-delivered",
+          "publishedOn": "2026-04-04T21:31:01.000Z",
+          "wordCount": 2085,
+          "title": "Record number of new and replacement ambulances delivered",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa",
           "author": null,
@@ -3033,16 +3033,6 @@
           "publishedOn": "2026-03-06T11:30:06.000Z",
           "wordCount": 984,
           "title": "Guidance: Example letters to NHS visitor and migrant patients",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results",
-          "author": null,
-          "description": "Findings from a survey of CQC-registered care providers in England on their use of care technology and barriers to further adoption.",
-          "link": "https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results",
-          "publishedOn": "2026-03-06T09:30:00.000Z",
-          "wordCount": 931,
-          "title": "Official Statistics: Technology use in adult social care: 2025 survey results",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
