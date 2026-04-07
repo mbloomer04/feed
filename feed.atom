@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-07T10:00:51.051Z</updated>
+    <updated>2026-04-07T11:46:10.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=263351</id>
+        <link href="https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-155/"/>
+        <updated>2026-04-07T10:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a saliva-based pregnancy test called the Lollipop and a healthcare-focused AI interpreter app.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4766 - Exploitation of Zero-Day Vulnerability in FortiClient EMS]]></title>
+        <id>30043297-5d07-4ef7-a2ba-26af277c6430</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4766"/>
+        <updated>2026-04-07T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ CVE-2026-35616 could allow an unauthenticated attacker to perform remote code execution (RCE)
+ CVE-2026-35616 could allow an unauthenticated attacker to perform remote code execution (RCE)
+ Updated: 07 Apr 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rolling out the FDP and AVT at scale]]></title>
         <id>https://www.digitalhealth.net/?p=263385</id>

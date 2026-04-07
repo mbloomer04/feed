@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "30043297-5d07-4ef7-a2ba-26af277c6430",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-35616 could allow an unauthenticated attacker to perform remote code execution (RCE)\n CVE-2026-35616 could allow an unauthenticated attacker to perform remote code execution (RCE)\n Updated: 07 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4766",
+          "publishedOn": "2026-04-07T10:20:00.000Z",
+          "wordCount": null,
+          "title": "CC-4766 - Exploitation of Zero-Day Vulnerability in FortiClient EMS",
+          "imageUrl": null
+        },
+        {
           "id": "625f8b4d-5236-48a4-b365-5edc457948ae",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)\n Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)\n Updated: 02 Apr 2026",
@@ -3266,6 +3276,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263351",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a saliva-based pregnancy test called the Lollipop and a healthcare-focused AI interpreter app.",
+          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-155/",
+          "publishedOn": "2026-04-07T10:30:15.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263385",
           "author": "Jordan Sollof",
