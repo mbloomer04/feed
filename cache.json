@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953891",
+          "author": null,
+          "description": "GPs have been asked to issue prescriptions for one month's supply of medicines as opposed to three to help tackle potential medicine shortages as a result of the ongoing war in Iran.",
+          "link": "https://www.gponline.com/gps-asked-cut-prescription-length-reduce-risk-drug-shortages/article/1953891",
+          "publishedOn": "2026-04-07T11:23:39.000Z",
+          "wordCount": 937,
+          "title": "GPs asked to cut prescription length to reduce risk of drug shortages",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2217256698.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953786",
           "author": null,
           "description": "Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.",
@@ -1915,6 +1925,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/medicine-supply-management",
+          "author": null,
+          "description": "An overview of the systems and processes DHSC and NHS England use for responding to medicine shortages.",
+          "link": "https://www.gov.uk/guidance/medicine-supply-management",
+          "publishedOn": "2026-04-07T13:01:11.000Z",
+          "wordCount": 2097,
+          "title": "Medicine supply management",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/record-number-of-new-and-replacement-ambulances-delivered",
           "author": null,
