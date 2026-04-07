@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953786",
+          "author": null,
+          "description": "Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.",
+          "link": "https://www.gponline.com/huge-local-funding-variation-leaves-gps-exposed-neighbourhoods-shape/article/1953786",
+          "publishedOn": "2026-04-07T05:00:00.000Z",
+          "wordCount": 925,
+          "title": "Huge local funding variation leaves GPs exposed as neighbourhoods take shape",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_43.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953599",
           "author": null,
           "description": "GPonline editor Emma Bower and deputy editor Nick Bostock discuss the latest on this year's GP contract and look at public satisfaction with general practice.",
@@ -3256,6 +3266,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263385",
+          "author": "Jordan Sollof",
+          "description": "In this episode at Rewired 2026, Will Monaghan discusses rolling out the federated data platform and ambient voice technology at scale.",
+          "link": "https://www.digitalhealth.net/2026/04/rolling-out-the-fdp-and-avt-at-scale/",
+          "publishedOn": "2026-04-07T10:00:01.000Z",
+          "wordCount": null,
+          "title": "Rolling out the FDP and AVT at scale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=262589",
           "author": "Tammy Lovell",

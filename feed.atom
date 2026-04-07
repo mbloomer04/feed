@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-07T08:06:30.677Z</updated>
+    <updated>2026-04-07T10:00:51.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rolling out the FDP and AVT at scale]]></title>
+        <id>https://www.digitalhealth.net/?p=263385</id>
+        <link href="https://www.digitalhealth.net/2026/04/rolling-out-the-fdp-and-avt-at-scale/"/>
+        <updated>2026-04-07T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[In this episode at Rewired 2026, Will Monaghan discusses rolling out the federated data platform and ambient voice technology at scale.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Royal Surrey NHS Foundation Trust deploys ophthalmology EPR]]></title>
         <id>https://www.digitalhealth.net/?p=262589</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Royal Surrey NHS Foundation Trust has gone live with an ophthalmology electronic patient record (EPR) system from Medisoft.]]></summary>
         <author>
             <name>Tammy Lovell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huge local funding variation leaves GPs exposed as neighbourhoods take shape]]></title>
+        <id>https://www.gponline.com/article/1953786</id>
+        <link href="https://www.gponline.com/huge-local-funding-variation-leaves-gps-exposed-neighbourhoods-shape/article/1953786"/>
+        <updated>2026-04-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
