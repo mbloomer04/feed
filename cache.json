@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4752 - Exploitation of Ivanti Endpoint Manager Vulnerability",
           "imageUrl": null
-        },
-        {
-          "id": "25c2774b-90f0-40f1-baf7-5cee9ed48683",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A critical vulnerability could allow remote attackers to forge authentication tokens\n A critical vulnerability could allow remote attackers to forge authentication tokens\n Updated: 09 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4751",
-          "publishedOn": "2026-03-09T16:39:00.000Z",
-          "wordCount": null,
-          "title": "CC-4751 - PAC4J Releases Security Updates for pac4j-jwt module",
-          "imageUrl": null
         }
       ]
     },
