@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-08T11:46:16.635Z</updated>
+    <updated>2026-04-08T13:03:55.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK and US strengthen partnership on MedTech regulation]]></title>
+        <id>https://www.digitalhealth.net/?p=263551</id>
+        <link href="https://www.digitalhealth.net/2026/04/uk-and-us-strengthen-partnership-on-medtech-regulation/"/>
+        <updated>2026-04-08T12:30:15.000Z</updated>
+        <summary type="html"><![CDATA[The MHRA is strengthening its partnership with the US FDA to support faster access to innovative MedTech for patients in both countries.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[London NHS trusts to roll out AI scribing to 20,000 clinicians]]></title>
         <id>https://www.digitalhealth.net/?p=263591</id>
