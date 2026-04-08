@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953989",
+          "author": null,
+          "description": "The government is planning to introduce the practice-level GP reimbursement scheme next month, the BMA England GP committee has said.",
+          "link": "https://www.gponline.com/practice-level-gp-reimbursement-scheme-will-not-begin-until-may/article/1953989",
+          "publishedOn": "2026-04-08T08:55:56.000Z",
+          "wordCount": 905,
+          "title": "Practice-level GP reimbursement scheme will not begin until May",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1420709745(1)_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1953937",
           "author": null,
           "description": "Investment in the primary care estate, a simplified premises reimbursement scheme and clearer leasing arrangements for GP practices are critical if the government is to deliver neighbourhood health, the BMA has said.",
@@ -1771,7 +1781,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "55f2f6c6-1a29-4482-98a4-2aa7c59886b6",
+          "author": "enquiries@nhsdigital.nhs.uk (Jonathan Eagle)",
+          "description": "Jonathan Eagle explains how the NHS England API Management team tackled some of the biggest pain points in API development in the NHS – and how a new tool called Proxygen is cutting integration time with the NHS API Platform from weeks to days.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2026/how-were-using-proxygen-to-transform-api-development",
+          "publishedOn": "2026-04-08T09:15:11.000Z",
+          "wordCount": null,
+          "title": "How we're using Proxygen to transform API development",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -1783,7 +1804,18 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "55f2f6c6-1a29-4482-98a4-2aa7c59886b6",
+          "author": "enquiries@nhsdigital.nhs.uk (Jonathan Eagle)",
+          "description": "Jonathan Eagle explains how the NHS England API Management team tackled some of the biggest pain points in API development in the NHS – and how a new tool called Proxygen is cutting integration time with the NHS API Platform from weeks to days.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2026/how-were-using-proxygen-to-transform-api-development",
+          "publishedOn": "2026-04-08T09:15:11.000Z",
+          "wordCount": null,
+          "title": "How we're using Proxygen to transform API development",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inside Story Feed",
