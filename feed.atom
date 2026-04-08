@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-08T10:00:38.700Z</updated>
+    <updated>2026-04-08T11:46:16.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[London NHS trusts to roll out AI scribing to 20,000 clinicians]]></title>
+        <id>https://www.digitalhealth.net/?p=263591</id>
+        <link href="https://www.digitalhealth.net/2026/04/london-nhs-trusts-to-roll-out-ai-scribing-to-20000-clinicians/"/>
+        <updated>2026-04-08T10:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Four NHS trusts in south west London will deploy ambient voice technology (AVT) from Lyrebird Health across the region.]]></summary>
+        <author>
+            <name>Tammy Lovell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How we're using Proxygen to transform API development]]></title>
         <id>55f2f6c6-1a29-4482-98a4-2aa7c59886b6</id>
