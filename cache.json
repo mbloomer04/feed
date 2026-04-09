@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0860387a-08f8-48b5-a8ad-3faeeab62225",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A critical SQL injection vulnerability could allow a remote unauthenticated attacker to access system information and execute arbitrary SQL database commands\n A critical SQL injection vulnerability could allow a remote unauthenticated attacker to access system information and execute arbitrary SQL database commands\n Updated: 09 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4768",
+          "publishedOn": "2026-04-09T12:20:00.000Z",
+          "wordCount": null,
+          "title": "CC-4768 - Mitel Releases Security Advisory for MiCollab",
+          "imageUrl": null
+        },
+        {
           "id": "e3d1a751-77e3-437b-8520-91eb55cd08db",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could allow an unauthenticated remote attacker to access on-prem storage zones controller’s configuration pages, potentially leading to changes in system configuration and remote code execution\n Successful exploitation could allow an unauthenticated remote attacker to access on-prem storage zones controller’s configuration pages, potentially leading to changes in system configuration and remote code execution\n Updated: 07 Apr 2026",
@@ -3288,6 +3298,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263798",
+          "author": "Jordan Sollof",
+          "description": "Concerns are being raised by NHS staff that engineers working for US software firm Palantir have been issued NHS email accounts.",
+          "link": "https://www.digitalhealth.net/2026/04/palantir-staff-being-issued-nhs-email-accounts-sparks-concerns/",
+          "publishedOn": "2026-04-09T12:38:58.000Z",
+          "wordCount": null,
+          "title": "Palantir staff being issued NHS email accounts sparks concerns",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263371",
           "author": "Samuel Webb",
