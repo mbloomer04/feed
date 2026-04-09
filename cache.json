@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954151",
+          "author": null,
+          "description": "A GP practice’s former finance manager has been jailed for three years after defrauding it of more than £450,000 - leaving the practice short of funding for patient care.",
+          "link": "https://www.gponline.com/practice-manager-handed-three-year-jail-term-450000-fraud/article/1954151",
+          "publishedOn": "2026-04-09T09:53:48.000Z",
+          "wordCount": 916,
+          "title": "Practice manager handed three-year jail term for £450,000 fraud",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/millington_ThamesValleyPolice.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954082",
           "author": null,
           "description": "There was a steep rise in the number of online consultations GP practices had to deal with in the year to February 2026, latest data show.",
@@ -3278,6 +3288,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263371",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features AI that detects several diseases from one blood sample and a partnership to accelerate clinical trial recruitment.",
+          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-156/",
+          "publishedOn": "2026-04-09T10:30:32.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263593",
           "author": "Jordan Sollof",
