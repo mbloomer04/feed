@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954167",
+          "author": null,
+          "description": "Dr Liz Dapré, an academic GP and co-chair of the group GPs Championing Perinatal Care, speaks to GPonline editor Emma Bower about the vital role of primary care in maternal and perinatal health.",
+          "link": "https://www.gponline.com/podcast-improving-perinatal-care-role-primary-care/obstetrics/article/1954167",
+          "publishedOn": "2026-04-10T07:40:00.000Z",
+          "wordCount": 924,
+          "title": "Podcast: Improving perinatal care and the role of primary care",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeApril858x575.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954151",
           "author": null,
           "description": "A GP practice’s former finance manager has been jailed for three years after defrauding it of more than £450,000 - leaving the practice short of funding for patient care.",
@@ -3238,6 +3248,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263723",
+          "author": "Jordan Sollof",
+          "description": "This roundup includes a host of NHS England departures as well as a new national chief digital, data and technology officer.",
+          "link": "https://www.digitalhealth.net/2026/04/movers-and-shakers-news-roundup-70/",
+          "publishedOn": "2026-04-10T06:30:14.000Z",
+          "wordCount": null,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263798",
           "author": "Jordan Sollof",
