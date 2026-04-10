@@ -154,26 +154,6 @@
           "wordCount": null,
           "title": "CC-4754 - Veeam Releases Security Updates for Backup & Replication",
           "imageUrl": null
-        },
-        {
-          "id": "48922f6b-98c2-48b2-8b61-fb4b8755c16d",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 83 vulnerabilities, including two zero-day vulnerabilities\n Scheduled updates for Microsoft products address 83 vulnerabilities, including two zero-day vulnerabilities\n Updated: 11 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4753",
-          "publishedOn": "2026-03-11T13:35:00.000Z",
-          "wordCount": null,
-          "title": "CC-4753 - Microsoft Releases March 2026 Security Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "2a9d6899-b30a-421b-81b0-24f3fcb5d92c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Authentication bypass vulnerability CVE-2026-1603 could allow an unauthenticated, remote attacker to leak specific stored credential data\n Authentication bypass vulnerability CVE-2026-1603 could allow an unauthenticated, remote attacker to leak specific stored credential data\n Updated: 11 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4752",
-          "publishedOn": "2026-03-11T13:16:00.000Z",
-          "wordCount": null,
-          "title": "CC-4752 - Exploitation of Ivanti Endpoint Manager Vulnerability",
-          "imageUrl": null
         }
       ]
     },
