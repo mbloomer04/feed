@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4755 - Google Releases Security Update for Chrome",
           "imageUrl": null
-        },
-        {
-          "id": "f142e13b-1b0a-4b42-86b0-7df531789e23",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Security bulletin addresses vulnerabilities that could allow for remote code execution and privilege escalation\n Updated: 12 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4754",
-          "publishedOn": "2026-03-12T14:19:00.000Z",
-          "wordCount": null,
-          "title": "CC-4754 - Veeam Releases Security Updates for Backup & Replication",
-          "imageUrl": null
         }
       ]
     },
@@ -3886,16 +3876,6 @@
           "publishedOn": "2026-03-13T07:30:59.000Z",
           "wordCount": null,
           "title": "Digital Health’s monthly roundup of contracts and go lives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=261053",
-          "author": "Jordan Sollof",
-          "description": "Palantir’s contract to run the NHS federated data platform (FDP) could cause “data-driven state abuses of power”, a report from Medact warns.",
-          "link": "https://www.digitalhealth.net/2026/03/human-rights-groups-urge-hospitals-not-to-use-palantir-software/",
-          "publishedOn": "2026-03-12T13:43:35.000Z",
-          "wordCount": null,
-          "title": "Human rights groups urge hospitals not to use Palantir software",
           "imageUrl": null
         }
       ]
