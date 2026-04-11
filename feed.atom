@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-11T21:24:59.908Z</updated>
+    <updated>2026-04-11T22:23:29.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS experts deployed to tackle corridor care]]></title>
+        <id>https://www.gov.uk/government/news/nhs-experts-deployed-to-tackle-corridor-care</id>
+        <link href="https://www.gov.uk/government/news/nhs-experts-deployed-to-tackle-corridor-care"/>
+        <updated>2026-04-11T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[NHS deploys specialist teams and expands urgent care services to tackle corridor care, cut waits and ease A&E pressure, targeting worst-affected trusts.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public reminded to access care as normal this weekend as NHS staff ‘weather the storm’ of doctors’ strike]]></title>
         <id>https://www.england.nhs.uk/?p=285643</id>
@@ -2537,16 +2547,6 @@ For the first time, the report estimates deaths directly caused by severe acute 
         <link href="https://www.gponline.com/unco-ordinated-nhs-reforms-causing-widespread-disruption/article/1951579"/>
         <updated>2026-03-13T10:52:12.000Z</updated>
         <summary type="html"><![CDATA[Sweeping NHS reforms pushed through by the government are causing 'widespread disruption', according to health service leaders who described handling of ICB cuts as a 'shitshow' and hit out at a lack of clarity over how neighbourhoods fit with general practice.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long waits for ADHD diagnosis are cut to weeks by new GP-run service]]></title>
-        <id>https://www.gponline.com/article/1951548</id>
-        <link href="https://www.gponline.com/long-waits-adhd-diagnosis-cut-weeks-new-gp-run-service/neurology/adhd/article/1951548"/>
-        <updated>2026-03-13T10:13:52.000Z</updated>
-        <summary type="html"><![CDATA[A GP federation has reduced waiting times for ADHD assessments and treatment with a community-based service led by GPs and mental health nurses.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
