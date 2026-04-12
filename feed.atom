@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-12T01:52:11.154Z</updated>
+    <updated>2026-04-12T04:41:38.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2474,26 +2474,6 @@ For the first time, the report estimates deaths directly caused by severe acute 
         <link href="https://www.digitalhealth.net/2026/03/child-abuser-could-have-profiled-victims-through-nhs-data-access/"/>
         <updated>2026-03-16T07:30:50.000Z</updated>
         <summary type="html"><![CDATA[A former NHS analyst and convicted child rapist could have used unaudited database queries to profile his victims.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Child death overview panels: contacts]]></title>
-        <id>https://www.gov.uk/government/publications/child-death-overview-panels-contacts</id>
-        <link href="https://www.gov.uk/government/publications/child-death-overview-panels-contacts"/>
-        <updated>2026-03-13T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somerset and Dorset sign £222m contract with Epic for unified EPR]]></title>
-        <id>https://www.digitalhealth.net/?p=261215</id>
-        <link href="https://www.digitalhealth.net/2026/03/somerset-and-dorset-sign-222m-contract-with-epic-for-unified-epr/"/>
-        <updated>2026-03-13T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Four NHS trusts in Dorset and Somerset have signed a £222 million contract with Epic to implement a unified EPR system across the region.]]></summary>
         <author>
             <name>Jordan Sollof</name>
         </author>
