@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-12T11:28:03.209Z</updated>
+    <updated>2026-04-12T12:42:16.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Letter to BMA Resident Doctors Committee]]></title>
+        <id>https://www.gov.uk/government/news/letter-to-bma-resident-doctors-committee</id>
+        <link href="https://www.gov.uk/government/news/letter-to-bma-resident-doctors-committee"/>
+        <updated>2026-04-12T11:58:07.000Z</updated>
+        <summary type="html"><![CDATA[A letter from Health and Social Care Secretary Wes Streeting to the BMA Resident Doctors Committee.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS experts deployed to tackle corridor care]]></title>
         <id>https://www.gov.uk/government/news/nhs-experts-deployed-to-tackle-corridor-care</id>
