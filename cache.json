@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1953082",
+          "author": null,
+          "description": "GPs in Liverpool say two of the city’s hospitals have rejected referrals made many months ago and asked practices to carry out extra work.",
+          "link": "https://www.gponline.com/two-hospitals-rejecting-gp-referrals-made-months-ago-lmc-says/article/1953082",
+          "publishedOn": "2026-04-13T07:00:00.000Z",
+          "wordCount": 901,
+          "title": "Two hospitals rejecting GP referrals made months ago, LMC says",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-SolStock_RF_14.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954278",
           "author": null,
           "description": "A former prime minister has questioned an ICB about the closure of a small rural GP practice - warning he finds it 'very difficult to believe' not a single GP in the country is willing to take it over.",
@@ -1837,6 +1847,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/health-secretary-statement-on-end-of-bma-resident-doctor-strikes",
+          "author": null,
+          "description": "Health and Social Care Secretary Wes Streeting thanks NHS staff for working around the clock during industrial action.",
+          "link": "https://www.gov.uk/government/news/health-secretary-statement-on-end-of-bma-resident-doctor-strikes",
+          "publishedOn": "2026-04-13T05:00:07.000Z",
+          "wordCount": 1187,
+          "title": "Health Secretary statement on end of BMA Resident Doctor strikes",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/letter-to-bma-resident-doctors-committee",
           "author": null,
@@ -3168,6 +3188,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263947",
+          "author": "Tammy Lovell",
+          "description": "Dental group PortmanDentex has announced a two‑year partnership with Heidi to roll out AI-scribing software and other clinical AI tools.",
+          "link": "https://www.digitalhealth.net/2026/04/ai-scribing-to-be-rolled-out-across-uks-second-largest-dental-group/",
+          "publishedOn": "2026-04-13T06:30:28.000Z",
+          "wordCount": null,
+          "title": "AI-scribing to be rolled out across UK’s second largest dental group",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263955",
           "author": "Jordan Sollof",
