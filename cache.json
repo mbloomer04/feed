@@ -1858,6 +1858,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-resolution-2026-to-2029",
+          "author": null,
+          "description": "Describes the working relationship between the Department of Health and Social Care and NHS Resolution.",
+          "link": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-nhs-resolution-2026-to-2029",
+          "publishedOn": "2026-04-13T13:00:03.000Z",
+          "wordCount": 828,
+          "title": "Policy paper: Framework agreement between DHSC and NHS Resolution: 2026 to 2029",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/health-secretary-statement-on-end-of-bma-resident-doctor-strikes",
           "author": null,
           "description": "Health and Social Care Secretary Wes Streeting thanks NHS staff for working around the clock during industrial action.",
@@ -3208,6 +3218,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263867",
+          "author": "Samuel Webb",
+          "description": "The Medicines and Healthcare products Regulatory Agency has secured funding to expand its AI Airlock regulatory sandbox.",
+          "link": "https://www.digitalhealth.net/2026/04/mhra-secures-3-6m-to-expand-ai-regulatory-sandbox/",
+          "publishedOn": "2026-04-13T12:30:30.000Z",
+          "wordCount": null,
+          "title": "MHRA secures £3.6m to expand AI regulatory sandbox",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263997",
           "author": "Jordan Sollof",
