@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-14T13:07:35.785Z</updated>
+    <updated>2026-04-14T15:06:49.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: International recruitment regional fund for the adult social care sector 2026 to 2027]]></title>
+        <id>https://www.gov.uk/government/publications/international-recruitment-regional-fund-for-the-adult-social-care-sector-2026-to-2027</id>
+        <link href="https://www.gov.uk/government/publications/international-recruitment-regional-fund-for-the-adult-social-care-sector-2026-to-2027"/>
+        <updated>2026-04-14T13:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Guidance on the up to £7.5 million international recruitment regional fund to support international care workers impacted by sponsor licence revocations to find new, sponsored employment.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2026-04-14T13:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHSC invests in scanning and diagnostic equipment for CDCs]]></title>
         <id>https://www.digitalhealth.net/?p=264137</id>
@@ -34,6 +54,19 @@
         <summary type="html"><![CDATA[The fifth action plan shows how the Department of Health and Social Care and delivery partners are implementing the UK Rare Diseases Framework in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4770 - Axios Releases Security Update to Address Critical Vulnerability]]></title>
+        <id>1e24f3b3-9e2f-415e-8b68-e3f62de3d961</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4770"/>
+        <updated>2026-04-14T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise
+ CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise
+ Updated: 14 Apr 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

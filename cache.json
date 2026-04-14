@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1e24f3b3-9e2f-415e-8b68-e3f62de3d961",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise\n CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise\n Updated: 14 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4770",
+          "publishedOn": "2026-04-14T10:47:00.000Z",
+          "wordCount": null,
+          "title": "CC-4770 - Axios Releases Security Update to Address Critical Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "00caa41c-19b6-486c-994b-687d9415e19a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑34621 could allow arbitrary code execution via malicious PDF files opened in vulnerable Adobe Acrobat or Reader installations.\n CVE‑2026‑34621 could allow arbitrary code execution via malicious PDF files opened in vulnerable Adobe Acrobat or Reader installations.\n Updated: 13 Apr 2026",
@@ -1897,6 +1907,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/international-recruitment-regional-fund-for-the-adult-social-care-sector-2026-to-2027",
+          "author": null,
+          "description": "Guidance on the up to £7.5 million international recruitment regional fund to support international care workers impacted by sponsor licence revocations to find new, sponsored employment.",
+          "link": "https://www.gov.uk/government/publications/international-recruitment-regional-fund-for-the-adult-social-care-sector-2026-to-2027",
+          "publishedOn": "2026-04-14T13:30:07.000Z",
+          "wordCount": 963,
+          "title": "Guidance: International recruitment regional fund for the adult social care sector 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2026-04-14T13:30:02.000Z",
+          "wordCount": 14249,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/england-rare-diseases-action-plan-2026",
           "author": null,
