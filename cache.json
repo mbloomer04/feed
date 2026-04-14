@@ -1888,6 +1888,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/england-rare-diseases-action-plan-2026",
+          "author": null,
+          "description": "The fifth action plan shows how the Department of Health and Social Care and delivery partners are implementing the UK Rare Diseases Framework in England.",
+          "link": "https://www.gov.uk/government/publications/england-rare-diseases-action-plan-2026",
+          "publishedOn": "2026-04-14T11:03:14.000Z",
+          "wordCount": 1042,
+          "title": "Policy paper: England Rare Diseases Action Plan 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure",
           "author": null,
           "description": "COMARE’s 20th report reviews evidence of the risks of cardiovascular disease from exposure to ionising radiation.",
@@ -3268,6 +3278,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=263803",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features Apple requiring health app developers to declare if their app is classified as a regulated medical device.",
+          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-157/",
+          "publishedOn": "2026-04-14T10:30:01.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=264075",
           "author": "Jordan Sollof",
