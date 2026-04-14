@@ -1888,6 +1888,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure",
+          "author": null,
+          "description": "COMARE’s 20th report reviews evidence of the risks of cardiovascular disease from exposure to ionising radiation.",
+          "link": "https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure",
+          "publishedOn": "2026-04-14T08:30:02.000Z",
+          "wordCount": 1127,
+          "title": "Research: Cardiovascular disease risk from ionising radiation exposure",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/nhs-patients-to-get-quicker-tests-and-scans-closer-to-home",
           "author": null,
           "description": "Government invests £237 million to expand Community Diagnostic Centres across England.",
@@ -3258,6 +3268,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=264075",
+          "author": "Jordan Sollof",
+          "description": "Two speakers from the National Institute for Health and Care Excellence (NICE) have been confirmed for Digital Health Summer Schools 2026.",
+          "link": "https://www.digitalhealth.net/2026/04/nice-speakers-confirmed-for-digital-health-summer-schools-2026/",
+          "publishedOn": "2026-04-14T10:00:13.000Z",
+          "wordCount": null,
+          "title": "NICE speakers confirmed for Digital Health Summer Schools 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263903",
           "author": "Jordan Sollof",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-14T08:22:14.353Z</updated>
+    <updated>2026-04-14T10:08:47.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICE speakers confirmed for Digital Health Summer Schools 2026]]></title>
+        <id>https://www.digitalhealth.net/?p=264075</id>
+        <link href="https://www.digitalhealth.net/2026/04/nice-speakers-confirmed-for-digital-health-summer-schools-2026/"/>
+        <updated>2026-04-14T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Two speakers from the National Institute for Health and Care Excellence (NICE) have been confirmed for Digital Health Summer Schools 2026.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Cardiovascular disease risk from ionising radiation exposure]]></title>
+        <id>https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure</id>
+        <link href="https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure"/>
+        <updated>2026-04-14T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[COMARE’s 20th report reviews evidence of the risks of cardiovascular disease from exposure to ionising radiation.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kent and Medway mental health appointments launch online]]></title>
         <id>https://www.digitalhealth.net/?p=263903</id>
