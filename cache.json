@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954618",
+          "author": null,
+          "description": "The NHS has lost a GP practice a week since the Labour government took office in summer 2024, the Liberal Democrats have warned - as the party promised to guarantee new housing developments come with extra GP capacity.",
+          "link": "https://www.gponline.com/one-gp-practice-week-closing-labour-say-lib-dems/article/1954618",
+          "publishedOn": "2026-04-14T11:09:14.000Z",
+          "wordCount": 934,
+          "title": "One GP practice a week closing under Labour, say Lib Dems",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_5.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954486",
           "author": null,
           "description": "Experienced GPs are walking away from the NHS - and heavy workload is a key factor. However, new research shines a light on deeper reasons driving GPs away - and these causes are 'much more concerning', warns GP and academic Dr Nada Khan.",
@@ -3278,6 +3288,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=264137",
+          "author": "Jordan Sollof",
+          "description": "The government is investing in scanning and diagnostic equipment for 36 new and expanded Community Diagnostic Centres (CDCs).",
+          "link": "https://www.digitalhealth.net/2026/04/dhsc-invests-in-scanning-and-diagnostic-equipment-for-cdcs/",
+          "publishedOn": "2026-04-14T12:30:36.000Z",
+          "wordCount": null,
+          "title": "DHSC invests in scanning and diagnostic equipment for CDCs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=263803",
           "author": "Samuel Webb",
