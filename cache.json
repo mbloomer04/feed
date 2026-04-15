@@ -1908,6 +1908,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/mhra-annual-accountability-review-minutes",
+          "author": null,
+          "description": "The minutes of the ministerial annual accountability review of the Medicines and Healthcare products Regulatory Agency (MHRA).",
+          "link": "https://www.gov.uk/government/publications/mhra-annual-accountability-review-minutes",
+          "publishedOn": "2026-04-15T16:23:07.000Z",
+          "wordCount": 1224,
+          "title": "Transparency data: MHRA annual accountability review minutes",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/medicine-degree-applicants-and-acceptances-by-free-school-meals-status",
           "author": null,
           "description": "Data on the number of 18 year old applicants and accepted applicants to medicine degrees who received free school meals in England.",
@@ -3045,16 +3055,6 @@
           "publishedOn": "2026-03-17T09:04:01.000Z",
           "wordCount": 708,
           "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to March 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/taskforce-set-up-to-deliver-urgent-action-on-maternity",
-          "author": null,
-          "description": "Members confirmed for new Maternity and Neonatal taskforce chaired by the Health and Social Care Secretary to deliver improvements on maternity",
-          "link": "https://www.gov.uk/government/news/taskforce-set-up-to-deliver-urgent-action-on-maternity",
-          "publishedOn": "2026-03-17T06:00:04.000Z",
-          "wordCount": 3455,
-          "title": "Taskforce set up to deliver urgent action on maternity",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-15T16:08:18.491Z</updated>
+    <updated>2026-04-15T18:00:10.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: MHRA annual accountability review minutes]]></title>
+        <id>https://www.gov.uk/government/publications/mhra-annual-accountability-review-minutes</id>
+        <link href="https://www.gov.uk/government/publications/mhra-annual-accountability-review-minutes"/>
+        <updated>2026-04-15T16:23:07.000Z</updated>
+        <summary type="html"><![CDATA[The minutes of the ministerial annual accountability review of the Medicines and Healthcare products Regulatory Agency (MHRA).]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Medicine degree applicants and acceptances by free school meals status]]></title>
         <id>https://www.gov.uk/government/statistics/announcements/medicine-degree-applicants-and-acceptances-by-free-school-meals-status</id>
@@ -2748,16 +2758,6 @@ For the first time, the report estimates deaths directly caused by severe acute 
         <summary type="html"><![CDATA[Mindy Simon of the NHS Innovation Accelerator, and Elina Naydenova of Feebris, discuss the barriers to scaling innovation in the NHS.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taskforce set up to deliver urgent action on maternity]]></title>
-        <id>https://www.gov.uk/government/news/taskforce-set-up-to-deliver-urgent-action-on-maternity</id>
-        <link href="https://www.gov.uk/government/news/taskforce-set-up-to-deliver-urgent-action-on-maternity"/>
-        <updated>2026-03-17T06:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Members confirmed for new Maternity and Neonatal taskforce chaired by the Health and Social Care Secretary to deliver improvements on maternity]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
