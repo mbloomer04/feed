@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-15T11:50:32.594Z</updated>
+    <updated>2026-04-15T13:06:10.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHSE official warns staff over criticism of Palantir’s FDP]]></title>
+        <id>https://www.digitalhealth.net/?p=264245</id>
+        <link href="https://www.digitalhealth.net/2026/04/nhse-officials-warn-staff-over-criticism-of-palantirs-fdp/"/>
+        <updated>2026-04-15T12:30:46.000Z</updated>
+        <summary type="html"><![CDATA[A senior NHS official is reported to have warned staff about voicing criticism on the rollout of the federated data platform (FDP).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liverpool University Hospitals selects Nervecentre to supply EPR]]></title>
         <id>https://www.digitalhealth.net/?p=264315</id>
