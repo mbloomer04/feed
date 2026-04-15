@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-15T13:06:10.676Z</updated>
+    <updated>2026-04-15T14:59:39.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4770 - Microsoft Releases April 2026 Security Updates]]></title>
+        <id>1a57bc08-4592-4720-8500-e59cae44d044</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4771"/>
+        <updated>2026-04-15T14:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server
+ Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server
+ Updated: 15 Apr 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Renewed Women’s Health Strategy for England]]></title>
+        <id>https://www.gov.uk/government/publications/renewed-womens-health-strategy-for-england</id>
+        <link href="https://www.gov.uk/government/publications/renewed-womens-health-strategy-for-england"/>
+        <updated>2026-04-15T13:25:56.000Z</updated>
+        <summary type="html"><![CDATA[The renewed Women’s Health Strategy sets out how the government will improve women’s health and healthcare over the next 10 years.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHSE official warns staff over criticism of Palantir’s FDP]]></title>
         <id>https://www.digitalhealth.net/?p=264245</id>
@@ -14,6 +37,16 @@
         <summary type="html"><![CDATA[A senior NHS official is reported to have warned staff about voicing criticism on the rollout of the federated data platform (FDP).]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICB cuts threaten neighbourhood NHS plans, MPs told]]></title>
+        <id>https://www.gponline.com/article/1954767</id>
+        <link href="https://www.gponline.com/icb-cuts-threaten-neighbourhood-nhs-plans-mps-told/article/1954767"/>
+        <updated>2026-04-15T11:23:54.000Z</updated>
+        <summary type="html"><![CDATA[ICB mergers and staff cuts are disrupting local work to develop neighbourhoods, MPs have been told]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

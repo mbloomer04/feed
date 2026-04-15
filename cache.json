@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1a57bc08-4592-4720-8500-e59cae44d044",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server\n Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server\n Updated: 15 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4771",
+          "publishedOn": "2026-04-15T14:48:00.000Z",
+          "wordCount": null,
+          "title": "CC-4770 - Microsoft Releases April 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "1e24f3b3-9e2f-415e-8b68-e3f62de3d961",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise\n CVE‑2026‑40175 could be used in an attack chain to allow for remote code execution or full cloud compromise\n Updated: 14 Apr 2026",
@@ -1250,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954767",
+          "author": null,
+          "description": "ICB mergers and staff cuts are disrupting local work to develop neighbourhoods, MPs have been told",
+          "link": "https://www.gponline.com/icb-cuts-threaten-neighbourhood-nhs-plans-mps-told/article/1954767",
+          "publishedOn": "2026-04-15T11:23:54.000Z",
+          "wordCount": 694,
+          "title": "ICB cuts threaten neighbourhood NHS plans, MPs told",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1433803505.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954724",
           "author": null,
           "description": "Preparations are underway for GPs across England to resume collective action from the end of April - although talks with government are continuing in the hope of a deal, the BMA has confirmed.",
@@ -1877,6 +1897,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/renewed-womens-health-strategy-for-england",
+          "author": null,
+          "description": "The renewed Women’s Health Strategy sets out how the government will improve women’s health and healthcare over the next 10 years.",
+          "link": "https://www.gov.uk/government/publications/renewed-womens-health-strategy-for-england",
+          "publishedOn": "2026-04-15T13:25:56.000Z",
+          "wordCount": 1050,
+          "title": "Policy paper: Renewed Women’s Health Strategy for England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/market-sustainability-and-improvement-fund-2025-to-2026",
           "author": null,
