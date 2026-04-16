@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f477d07c-4a4b-4ec2-9c3c-741e09e1cfd5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n An authenticated attacker could exploit the vulnerabilities to achieve remote code execution\n An authenticated attacker could exploit the vulnerabilities to achieve remote code execution\n Updated: 16 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4772",
+          "publishedOn": "2026-04-16T13:03:00.000Z",
+          "wordCount": null,
+          "title": "CC-4772 - Cisco Releases Security Advisories for Critical Vulnerabilities in Identity Services Engine",
+          "imageUrl": null
+        },
+        {
           "id": "1a57bc08-4592-4720-8500-e59cae44d044",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server\n Scheduled updates for Microsoft products address 165 vulnerabilities, including CVE‑2026‑32201, an exploited spoofing vulnerability affecting SharePoint Server\n Updated: 15 Apr 2026",
@@ -1781,6 +1791,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=285886",
+          "author": "jboshell",
+          "description": "A&E waiting times have fallen to a five-year low, despite the NHS seeing record numbers of patients in March as the health service experienced a ‘prolonged winter’. There were a record breaking 2.43 million total A&E attendances in March – 16,000 more than the previous record high in May 2024. Despite the bumper demand, almost […]",
+          "link": "https://www.england.nhs.uk/2026/04/march-was-busiest-month-ever-for-aes-amid-meningitis-outbreak/",
+          "publishedOn": "2026-04-16T10:06:21.000Z",
+          "wordCount": 1440,
+          "title": "March was busiest month ever for A&Es amid meningitis outbreak",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=285643",
           "author": "jboshell",
           "description": "The NHS is urging patients to seek medical care as normal as resident doctors continue strike action over the weekend. The latest round of industrial action is set to end at 6:59am on Monday 13 April and NHS staff have been working tirelessly to ensure as many services as possible are able to run during […]",
@@ -3230,16 +3250,6 @@
           "wordCount": 2901,
           "title": "WHO recommends new diagnostic tools to help end TB",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/molecular-lab-testing.tmb-1200v.jpg?sfvrsn=f2d649d2_1"
-        },
-        {
-          "id": "urn:uuid:6ab10a3d-bfea-4e0b-a1b9-d39a87e481e3",
-          "author": null,
-          "description": "An estimated 4.9 million children died before their fifth birthday in 2024, including 2.3 million newborns, according to new estimates released today. Most of these deaths are preventable with proven, low-cost interventions and access to quality health care.\nAccording to the report –  Levels & Trends in Child Mortality – under-five deaths globally have fallen by more than half since 2000. However, since 2015, the pace of reduction in child mortality has slowed by more than 60 per cent.\nThis year’s report provides the clearest and most detailed picture yet of how many children, adolescents, and youth are dying, where they are dying, and – for the first time – fully integrates estimates on the causes of death.*\nFor the first time, the report estimates deaths directly caused by severe acute m…",
-          "link": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
-          "publishedOn": "2026-03-18T00:01:15.000Z",
-          "wordCount": 4365,
-          "title": "Progress in reducing child deaths slows as 4.9 million children die before age five",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/newborn-health/mother-and-newborn-baby.tmb-1200v.jpg?sfvrsn=1e246c6c_6"
         }
       ]
     },
