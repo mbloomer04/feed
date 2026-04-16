@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-16T10:09:22.334Z</updated>
+    <updated>2026-04-16T11:53:37.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=263913</id>
+        <link href="https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-158/"/>
+        <updated>2026-04-16T10:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a Scottish Ambulance Service pilot of a volunteer responder app and a tender for a digital physiotherapy service.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS England investigating compromised GP websites]]></title>
         <id>https://www.digitalhealth.net/?p=264145</id>
