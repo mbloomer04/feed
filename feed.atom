@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-17T14:48:38.236Z</updated>
+    <updated>2026-04-17T15:52:10.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clinical guidelines for alcohol treatment]]></title>
+        <id>https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment</id>
+        <link href="https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment"/>
+        <updated>2026-04-17T15:08:50.000Z</updated>
+        <summary type="html"><![CDATA[UK clinical guidelines recommending interventions for people with harmful patterns of drinking and alcohol dependence, supporting and promoting good practice.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use these guidelines]]></title>
+        <id>https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/how-to-use-these-guidelines</id>
+        <link href="https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/how-to-use-these-guidelines"/>
+        <updated>2026-04-17T15:08:50.000Z</updated>
+        <summary type="html"><![CDATA[How to navigate, search and print the UK clinical guidelines for alcohol treatment.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cheshire neighbourhood care model reduces A&E attendances]]></title>
         <id>https://www.digitalhealth.net/?p=264363</id>
