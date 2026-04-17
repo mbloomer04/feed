@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4757 - Critical Vulnerability in Microsoft SharePoint Server Under Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "18f5c3b4-c694-455b-8d89-0edffb5fee4f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n CVE-2026-3564 could allow an attacker to obtain unauthorised access, including elevated privileges\n Updated: 18 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4756",
-          "publishedOn": "2026-03-18T13:32:00.000Z",
-          "wordCount": null,
-          "title": "CC-4756 - ConnectWise Releases Security Update for ScreenConnect",
-          "imageUrl": null
         }
       ]
     },
@@ -2955,26 +2945,6 @@
           "publishedOn": "2026-03-19T09:30:05.000Z",
           "wordCount": 1019,
           "title": "Accredited official statistics: Abortion statistics for England and Wales: 2023",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2024-to-2025",
-          "author": null,
-          "description": "Data on deprivation of liberty safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
-          "link": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2024-to-2025",
-          "publishedOn": "2026-03-18T12:10:29.000Z",
-          "wordCount": 666,
-          "title": "Official Statistics: Deprivation of liberty safeguards, England: 2024 to 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/stronger-visiting-rights-for-people-in-health-and-care-settings",
-          "author": null,
-          "description": "The government will better protect and strengthen the visiting rights for people in health and care settings, following a review of Regulation 9a.",
-          "link": "https://www.gov.uk/government/news/stronger-visiting-rights-for-people-in-health-and-care-settings",
-          "publishedOn": "2026-03-18T12:05:08.000Z",
-          "wordCount": 1951,
-          "title": "Stronger visiting rights for people in health and care settings",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
