@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954950",
+          "author": null,
+          "description": "GPonline editor Emma Bower and deputy editor Nick Bostock talk through some of the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-why-experienced-gps-leaving-nhs-spiralling-gp-workload-collective-action/article/1954950",
+          "publishedOn": "2026-04-17T07:11:00.000Z",
+          "wordCount": 709,
+          "title": "Podcast: Why experienced GPs are leaving the NHS, spiralling GP workload, collective action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonlineTalkingGeneralPractice858x575px(1).jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1954961",
           "author": null,
           "description": "Neighbourhood health centres should be 'anchored around general practice', with GP services operating at PCN scale, NHS England has said.",
@@ -1867,6 +1877,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/medicine-degree-applicants-and-acceptances-by-free-school-meals-status-2019-to-2025",
+          "author": null,
+          "description": "Data on the number of 18 year old applicants and accepted applicants to medicine degrees who received free school meals in England.",
+          "link": "https://www.gov.uk/government/statistics/medicine-degree-applicants-and-acceptances-by-free-school-meals-status-2019-to-2025",
+          "publishedOn": "2026-04-17T08:30:05.000Z",
+          "wordCount": 928,
+          "title": "Official Statistics: Medicine degree applicants and acceptances by free school meals status: 2019 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/firefighters-to-benefit-from-bespoke-health-support",
           "author": null,
@@ -3208,6 +3228,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=264555",
+          "author": "Jordan Sollof",
+          "description": "Health minister Zubir Ahmed said that Palantir’s NHS data contract could be reconsidered if other firms “can do the job better”.",
+          "link": "https://www.digitalhealth.net/2026/04/palantirs-nhs-contract-could-end-if-others-can-do-the-job-better/",
+          "publishedOn": "2026-04-17T09:59:24.000Z",
+          "wordCount": null,
+          "title": "Palantir’s NHS contract could end if others ‘can do the job better’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=264225",
           "author": "Jordan Sollof",
