@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "CC-4758 - Aqua Security Trivy GitHub Action Compromised",
           "imageUrl": null
-        },
-        {
-          "id": "5b9d0633-3723-4ae8-b162-72dc803487a9",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2026-20963 could allow an unauthenticated attacker to achieve remote code execution\n CVE-2026-20963 could allow an unauthenticated attacker to achieve remote code execution\n Updated: 19 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4757",
-          "publishedOn": "2026-03-19T11:39:00.000Z",
-          "wordCount": null,
-          "title": "CC-4757 - Critical Vulnerability in Microsoft SharePoint Server Under Exploitation",
-          "imageUrl": null
         }
       ]
     },
@@ -2946,26 +2936,6 @@
           "wordCount": 2234,
           "title": "Ordering and retaining medical certificates of cause of death (MCCDs)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/the-blood-safety-and-quality-common-framework",
-          "author": null,
-          "description": "Sets out how the UK and devolved governments will continue to work closely and collaboratively together on blood safety and quality policy.",
-          "link": "https://www.gov.uk/government/publications/the-blood-safety-and-quality-common-framework",
-          "publishedOn": "2026-03-19T13:28:59.000Z",
-          "wordCount": 875,
-          "title": "Policy paper: The Blood Safety and Quality Common Framework",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/the-organs-tissues-and-cells-apart-from-embryos-and-gametes-common-framework",
-          "author": null,
-          "description": "Sets out how the UK and devolved governments ​will ​continue to work closely and collaboratively together on organs and non-reproductive tissues and cells policy.",
-          "link": "https://www.gov.uk/government/publications/the-organs-tissues-and-cells-apart-from-embryos-and-gametes-common-framework",
-          "publishedOn": "2026-03-19T13:28:44.000Z",
-          "wordCount": 918,
-          "title": "Policy paper: The Organs, Tissues and Cells (apart from embryos and gametes) Common Framework",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3896,16 +3866,6 @@
           "publishedOn": "2026-03-20T07:30:58.000Z",
           "wordCount": null,
           "title": "Stockport and Glossop NHS trusts award EPR contracts to Altera",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=261791",
-          "author": "Jordan Sollof",
-          "description": "The first speakers have been announced for Digital Health Summer Schools 2026 - the learning and networking event for digital health leaders.",
-          "link": "https://www.digitalhealth.net/2026/03/first-speakers-announced-for-summer-schools-2026/",
-          "publishedOn": "2026-03-19T13:30:04.000Z",
-          "wordCount": null,
-          "title": "First speakers announced for Summer Schools 2026",
           "imageUrl": null
         }
       ]
