@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4759 - Citrix Releases Critical Security Updates for NetScaler ADC and NetScaler Gateway",
           "imageUrl": null
-        },
-        {
-          "id": "c5213f2c-ccd2-4f3b-9070-54d03c193536",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Compromised aquasecurity/trivy-action github action could harvest secrets\n Compromised aquasecurity/trivy-action github action could harvest secrets\n Updated: 20 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4758",
-          "publishedOn": "2026-03-20T16:18:00.000Z",
-          "wordCount": null,
-          "title": "CC-4758 - Aqua Security Trivy GitHub Action Compromised",
-          "imageUrl": null
         }
       ]
     },
@@ -2845,26 +2835,6 @@
           "publishedOn": "2026-03-23T14:30:46.000Z",
           "wordCount": 1254,
           "title": "Advice accepted on autumn 2026 COVID-19 vaccination programme",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval",
-          "author": null,
-          "description": "How to apply to have nutritional or dermatological products reviewed by the Advisory Committee on Borderline Substances (ACBS).",
-          "link": "https://www.gov.uk/government/publications/how-to-submit-an-application-for-acbs-approval",
-          "publishedOn": "2026-03-20T14:42:08.000Z",
-          "wordCount": 1531,
-          "title": "Guidance: Submitting an application for review by the ACBS",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/water-fluoridation-health-monitoring-report-for-england-2026",
-          "author": null,
-          "description": "The UK Health Security Agency (UKHSA) monitors and reports on the health effects of fluoride for people living in areas covered by water fluoridation schemes.",
-          "link": "https://www.gov.uk/government/publications/water-fluoridation-health-monitoring-report-for-england-2026",
-          "publishedOn": "2026-03-20T14:38:27.000Z",
-          "wordCount": 1067,
-          "title": "Research: Water fluoridation: health monitoring report for England 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
