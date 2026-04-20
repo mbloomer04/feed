@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-20T13:11:24.318Z</updated>
+    <updated>2026-04-20T15:11:10.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England]]></title>
+        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england</id>
+        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england"/>
+        <updated>2026-04-20T14:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Details the government’s plan to transform cancer care and outcomes in England by 2035.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England (easy read)]]></title>
+        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read</id>
+        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read"/>
+        <updated>2026-04-20T14:57:44.000Z</updated>
+        <summary type="html"><![CDATA[This is the government's plan to make cancer care better for people in England by 2035.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI tool allows a million patients to book appointments via NHS App]]></title>
         <id>https://www.digitalhealth.net/?p=264499</id>
