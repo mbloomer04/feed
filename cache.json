@@ -1240,6 +1240,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1954623",
+          "author": null,
+          "description": "A private health provider is offering to ‘liberate GP partners’ from the ‘burden and responsibilities’ of running a general practice.",
+          "link": "https://www.gponline.com/private-provider-offers-liberate-gp-partners-running-nhs-practices/article/1954623",
+          "publishedOn": "2026-04-20T08:05:00.000Z",
+          "wordCount": 737,
+          "title": "Private provider offers to 'liberate GP partners' from running NHS practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1561169864-ezgif.com-optijpeg.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1955047",
+          "author": null,
+          "description": "GPonline has joined forces with five essential healthcare resources to create the MIMS Healthcare Network and provide a whole new level of support for healthcare professionals and their teams.",
+          "link": "https://www.gponline.com/gponline-becomes-part-new-mims-healthcare-network-boosting-support-healthcare-professionals/article/1955047",
+          "publishedOn": "2026-04-20T07:30:00.000Z",
+          "wordCount": 764,
+          "title": "GPonline becomes part of the new MIMS Healthcare Network - boosting support for healthcare professionals",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Screenshot2026-04-17at14.06.09.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1954950",
           "author": null,
           "description": "GPonline editor Emma Bower and deputy editor Nick Bostock talk through some of the key news stories affecting general practice.",
@@ -1731,6 +1751,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=286065",
+          "author": "rwootton",
+          "description": "Millions of eligible older people and those with a weakened immune system can now get potentially lifesaving protection from COVID-19 with NHS spring vaccinations starting this week. Tens of thousands of appointments are now available across the country every day at GP practices and community pharmacies for people aged 75 and over, older people in […]",
+          "link": "https://www.england.nhs.uk/2026/04/lifesaving-spring-covid-19-jab-offers-protection-to-millions-of-vulnerable-people/",
+          "publishedOn": "2026-04-20T07:20:04.000Z",
+          "wordCount": 1120,
+          "title": "Lifesaving spring COVID-19 jab offers protection to millions of vulnerable people",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=285886",
           "author": "jboshell",
           "description": "A&E waiting times have fallen to a five-year low, despite the NHS seeing record numbers of patients in March as the health service experienced a ‘prolonged winter’. There were a record breaking 2.43 million total A&E attendances in March – 16,000 more than the previous record high in May 2024. Despite the bumper demand, almost […]",
@@ -1807,6 +1837,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027",
+          "author": null,
+          "description": "Non-executive appointments to the Department of Health and Social Care's public bodies and committees from April 2026 to March 2027.",
+          "link": "https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027",
+          "publishedOn": "2026-04-20T08:30:02.000Z",
+          "wordCount": 1141,
+          "title": "Guidance: DHSC public appointments: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment",
           "author": null,
