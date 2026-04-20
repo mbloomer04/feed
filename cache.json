@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1955225",
+          "author": null,
+          "description": "GPs should query any referrals inappropriately returned to practices as advice and guidance, asking for the name and GMC number of the doctor who made the decision, new BMA guidance advises.",
+          "link": "https://www.gponline.com/gps-query-referrals-turned-advice-guidance-says-bma/article/1955225",
+          "publishedOn": "2026-04-20T11:51:35.000Z",
+          "wordCount": 760,
+          "title": "GPs should query referrals turned into advice and guidance, says BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1167752691_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1955190",
           "author": null,
           "description": "GPonline's deputy editor Nick Bostock and senior news reporter Kimberley Hackett have both been shortlisted in the British Society of Magazine Editors (BSME) Talent Awards.",
@@ -1760,6 +1770,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=286080",
+          "author": "rwootton",
+          "description": "Millions more people are now benefiting from lifesaving bowel screening compared to a decade ago, as the NHS urges even more people to get tested. Almost 7 million people have had bowel screening from the NHS during 2024/25, compared to around 4.7 million in 2014/15. Since bowel screening started 2 decades ago, the NHS has […]",
+          "link": "https://www.england.nhs.uk/2026/04/nhs-detects-tens-of-thousands-of-bowel-cancers-thanks-to-screening-programme/",
+          "publishedOn": "2026-04-20T09:16:38.000Z",
+          "wordCount": 1685,
+          "title": "NHS detects tens of thousands of bowel cancers thanks to screening programme",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=286065",
           "author": "rwootton",
@@ -3148,6 +3168,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=264499",
+          "author": "Samuel Webb",
+          "description": "An AI triage tool has been integrated into the NHS App, allowing more than a million patients to book appointments directly with clinicians.",
+          "link": "https://www.digitalhealth.net/2026/04/ai-tool-allows-a-million-patients-to-book-appointments-via-nhs-app/",
+          "publishedOn": "2026-04-20T12:30:49.000Z",
+          "wordCount": null,
+          "title": "AI tool allows a million patients to book appointments via NHS App",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=264641",
           "author": "Jordan Sollof",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-20T11:13:56.028Z</updated>
+    <updated>2026-04-20T13:11:24.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI tool allows a million patients to book appointments via NHS App]]></title>
+        <id>https://www.digitalhealth.net/?p=264499</id>
+        <link href="https://www.digitalhealth.net/2026/04/ai-tool-allows-a-million-patients-to-book-appointments-via-nhs-app/"/>
+        <updated>2026-04-20T12:30:49.000Z</updated>
+        <summary type="html"><![CDATA[An AI triage tool has been integrated into the NHS App, allowing more than a million patients to book appointments directly with clinicians.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs should query referrals turned into advice and guidance, says BMA]]></title>
+        <id>https://www.gponline.com/article/1955225</id>
+        <link href="https://www.gponline.com/gps-query-referrals-turned-advice-guidance-says-bma/article/1955225"/>
+        <updated>2026-04-20T11:51:35.000Z</updated>
+        <summary type="html"><![CDATA[GPs should query any referrals inappropriately returned to practices as advice and guidance, asking for the name and GMC number of the doctor who made the decision, new BMA guidance advises.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS App ‘not improving patients’ views on NHS admin’]]></title>
         <id>https://www.digitalhealth.net/?p=264641</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[GPonline's deputy editor Nick Bostock and senior news reporter Kimberley Hackett have both been shortlisted in the British Society of Magazine Editors (BSME) Talent Awards.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS detects tens of thousands of bowel cancers thanks to screening programme]]></title>
+        <id>https://www.england.nhs.uk/?p=286080</id>
+        <link href="https://www.england.nhs.uk/2026/04/nhs-detects-tens-of-thousands-of-bowel-cancers-thanks-to-screening-programme/"/>
+        <updated>2026-04-20T09:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Millions more people are now benefiting from lifesaving bowel screening compared to a decade ago, as the NHS urges even more people to get tested. Almost 7 million people have had bowel screening from the NHS during 2024/25, compared to around 4.7 million in 2014/15. Since bowel screening started 2 decades ago, the NHS has […]]]></summary>
+        <author>
+            <name>rwootton</name>
         </author>
     </entry>
     <entry>
