@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-21T10:13:05.524Z</updated>
+    <updated>2026-04-21T11:55:07.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=264459</id>
+        <link href="https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-159/"/>
+        <updated>2026-04-21T10:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features news about guidelines for AI in social care and funding for a virtual AI biotech lab.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[People want reform of AI regulation in healthcare but not overhaul]]></title>
         <id>https://www.digitalhealth.net/?p=264953</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Concerns about safety, oversight and liability are shaping public attitudes to the regulation of AI in healthcare, according to the MHRA.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government plan to overhaul Carr-Hill formula in April 2027 risks destabilising practices]]></title>
+        <id>https://www.gponline.com/article/1955181</id>
+        <link href="https://www.gponline.com/government-plan-overhaul-carr-hill-formula-april-2027-risks-destabilising-practices/article/1955181"/>
+        <updated>2026-04-21T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Government plans to introduce a ‘new Carr-Hill formula’ from April are highly ambitious and risk destabilising a large number of practices, a leading accountant has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
