@@ -1723,6 +1723,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "696b8cca-6763-4735-a90f-61f8ad52c159",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Frankie and Ananda explain why the NHS design system is not just for public-facing  services, with an overview of recent changes to meet the needs of staff-facing services. There’s also more change coming, and you can get involved too.\n\r\n\r\nThe NHS design system was set up to meet the needs of teams building public services. We are often asked whether there should be a separate NHS design system for digital services used by staff. It’s an understandable question. Staff services can have different needs and might be a lot more complex.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2026/one-design-system-is-better-than-2",
+          "publishedOn": "2026-04-15T16:05:14.000Z",
+          "wordCount": null,
+          "title": "One design system is better than 2",
+          "imageUrl": null
+        },
+        {
           "id": "55f2f6c6-1a29-4482-98a4-2aa7c59886b6",
           "author": "enquiries@nhsdigital.nhs.uk (Jonathan Eagle)",
           "description": "Jonathan Eagle explains how the NHS England API Management team tackled some of the biggest pain points in API development in the NHS – and how a new tool called Proxygen is cutting integration time with the NHS API Platform from weeks to days.",
@@ -1773,7 +1783,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "696b8cca-6763-4735-a90f-61f8ad52c159",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Frankie and Ananda explain why the NHS design system is not just for public-facing  services, with an overview of recent changes to meet the needs of staff-facing services. There’s also more change coming, and you can get involved too.\n\r\n\r\nThe NHS design system was set up to meet the needs of teams building public services. We are often asked whether there should be a separate NHS design system for digital services used by staff. It’s an understandable question. Staff services can have different needs and might be a lot more complex.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2026/one-design-system-is-better-than-2",
+          "publishedOn": "2026-04-15T16:05:14.000Z",
+          "wordCount": null,
+          "title": "One design system is better than 2",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHS England",
