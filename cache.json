@@ -3199,6 +3199,16 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=264653",
+          "author": "Jordan Sollof",
+          "description": "Buckinghamshire Healthcare NHS Trust has signed a contract with System C to implement AI-scribing through its electronic patient record.",
+          "link": "https://www.digitalhealth.net/2026/04/buckinghamshire-trust-signs-system-c-deal-for-ai-scribing-in-epr/",
+          "publishedOn": "2026-04-21T06:30:47.000Z",
+          "wordCount": null,
+          "title": "Buckinghamshire trust signs System C deal for AI-scribing in EPR",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=264499",
           "author": "Samuel Webb",
           "description": "An AI triage tool has been integrated into the NHS App, allowing more than a million patients to book appointments directly with clinicians.",
