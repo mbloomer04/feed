@@ -1240,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1955392",
+          "author": null,
+          "description": "More than three in five GPs have considered relocating to work abroad because of pressure in general practice, polling by a leading medico-legal organisation reveals.",
+          "link": "https://www.gponline.com/three-five-gps-consider-working-abroad-nhs-pressure/article/1955392",
+          "publishedOn": "2026-04-21T23:01:00.000Z",
+          "wordCount": 746,
+          "title": "Three in five GPs consider working abroad over NHS pressure",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-sturti_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1955181",
           "author": null,
           "description": "Government plans to introduce a ‘new Carr-Hill formula’ from April are highly ambitious and risk destabilising a large number of practices, a leading accountant has warned.",
@@ -3907,16 +3917,6 @@
           "publishedOn": "2026-03-23T13:30:22.000Z",
           "wordCount": null,
           "title": "Precision liver study recruits almost 1,000 people using NHS data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262009",
-          "author": "Tammy Lovell",
-          "description": "Herefordshire and Worcestershire Health and Care NHS Trust has improved patient flow through a digital transformation programme.",
-          "link": "https://www.digitalhealth.net/2026/03/nhs-community-trust-cuts-hospital-stays-with-digital-patient-flow/",
-          "publishedOn": "2026-03-23T11:00:20.000Z",
-          "wordCount": null,
-          "title": "NHS community trust cuts hospital stays with digital patient flow",
           "imageUrl": null
         }
       ]
