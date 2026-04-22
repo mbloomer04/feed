@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-22T08:25:34.928Z</updated>
+    <updated>2026-04-22T10:13:21.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Government response to the report ‘The First 1000 Days: a renewed focus’]]></title>
+        <id>https://www.gov.uk/government/publications/government-response-to-the-report-the-first-1000-days-a-renewed-focus</id>
+        <link href="https://www.gov.uk/government/publications/government-response-to-the-report-the-first-1000-days-a-renewed-focus"/>
+        <updated>2026-04-22T10:09:49.000Z</updated>
+        <summary type="html"><![CDATA[The government's response to the Health and Social Care Committee report on improving support for babies, children and their families in the first 1,000 days of life.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King’s College Hospital achieves HIMSS INFRAM stage six]]></title>
+        <id>https://www.digitalhealth.net/?p=264889</id>
+        <link href="https://www.digitalhealth.net/2026/04/kings-college-hospital-achieves-himss-infram-stage-six/"/>
+        <updated>2026-04-22T10:00:20.000Z</updated>
+        <summary type="html"><![CDATA[King’s College Hospital NHS Foundation Trust has achieved HIMSS INFRAM stage six, one of only a few hospitals to have reached this level.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carea adds miscarriage support feature to maternal health app]]></title>
         <id>https://www.digitalhealth.net/?p=264737</id>
