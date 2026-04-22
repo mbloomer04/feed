@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0c425e17-13eb-4652-9e78-c07cc3df34f4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled advisory includes 481 security updates across multiple Oracle product families\n Scheduled advisory includes 481 security updates across multiple Oracle product families\n Updated: 22 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4773",
+          "publishedOn": "2026-04-22T12:16:00.000Z",
+          "wordCount": null,
+          "title": "CC-4773 - Oracle Releases April 2026 Critical Patch Update Advisory",
+          "imageUrl": null
+        },
+        {
           "id": "f477d07c-4a4b-4ec2-9c3c-741e09e1cfd5",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n An authenticated attacker could exploit the vulnerabilities to achieve remote code execution\n An authenticated attacker could exploit the vulnerabilities to achieve remote code execution\n Updated: 16 Apr 2026",
@@ -1899,6 +1909,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-impact-assessment",
+          "author": null,
+          "description": "The impact assessment presents the impacts of the Terminally Ill Adults (End of Life) Bill.",
+          "link": "https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-impact-assessment",
+          "publishedOn": "2026-04-22T13:00:02.000Z",
+          "wordCount": 1278,
+          "title": "Impact assessment: Terminally Ill Adults (End of Life) Bill: impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-march-2026",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
@@ -2947,16 +2967,6 @@
           "wordCount": 1104,
           "title": "Policy paper: DHSC small and medium-sized enterprise (SME) action plan: 2025 to 2028",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/digital-inclusion-action-plan-one-year-on",
-          "author": null,
-          "description": "Progress report on delivering the Digital Inclusion Action Plan.",
-          "link": "https://www.gov.uk/government/publications/digital-inclusion-action-plan-one-year-on",
-          "publishedOn": "2026-03-24T00:01:05.000Z",
-          "wordCount": 853,
-          "title": "Policy paper: Digital Inclusion Action Plan: One Year On",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3229,6 +3239,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=265133",
+          "author": "Jordan Sollof",
+          "description": "Lewisham and Greenwich NHS Trust has awarded a £52 million contract to Epic to supply a new electronic patient record (EPR) system.",
+          "link": "https://www.digitalhealth.net/2026/04/lewisham-and-greenwich-awards-52m-epr-contract-to-epic/",
+          "publishedOn": "2026-04-22T12:32:27.000Z",
+          "wordCount": null,
+          "title": "Lewisham and Greenwich awards £52m EPR contract to Epic",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=264889",
           "author": "Jordan Sollof",
