@@ -124,26 +124,6 @@
           "wordCount": null,
           "title": "CC-4761 - LiteLLM PyPI Package Compromise",
           "imageUrl": null
-        },
-        {
-          "id": "7c4311e2-59ed-4cc8-8dec-ccd339c56aad",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager\n A critical vulnerability could allow an unauthenticated attacker to takeover Oracle Identity Manager and Oracle Web Services Manager\n Updated: 23 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4760",
-          "publishedOn": "2026-03-23T12:32:00.000Z",
-          "wordCount": null,
-          "title": "CC-4760 - Oracle Releases Out-of-Band Security Update for Oracle Identity Manager and Oracle Web Services Manager",
-          "imageUrl": null
-        },
-        {
-          "id": "4479ec94-955c-4673-bace-151c9856ec59",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread\n Advisory addresses two vulnerabilities which if exploited could lead to User Session Mixup or memory overread\n Updated: 23 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4759",
-          "publishedOn": "2026-03-23T12:22:00.000Z",
-          "wordCount": null,
-          "title": "CC-4759 - Citrix Releases Critical Security Updates for NetScaler ADC and NetScaler Gateway",
-          "imageUrl": null
         }
       ]
     },
@@ -3907,16 +3887,6 @@
           "publishedOn": "2026-03-24T07:30:12.000Z",
           "wordCount": null,
           "title": "Harris Health Alliance acquires digital child health record",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=261977",
-          "author": "Jordan Sollof",
-          "description": "Almost 1,000 participants have been recruited into the LiveWell study in less than a year using real-world NHS data.",
-          "link": "https://www.digitalhealth.net/2026/03/precision-liver-study-recruits-almost-1000-people-using-nhs-data/",
-          "publishedOn": "2026-03-23T13:30:22.000Z",
-          "wordCount": null,
-          "title": "Precision liver study recruits almost 1,000 people using NHS data",
           "imageUrl": null
         }
       ]
