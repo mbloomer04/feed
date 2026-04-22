@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-22T10:13:21.481Z</updated>
+    <updated>2026-04-22T11:54:31.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £500, March 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-500-march-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-500-march-2026"/>
+        <updated>2026-04-22T10:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Government response to the report ‘The First 1000 Days: a renewed focus’]]></title>
         <id>https://www.gov.uk/government/publications/government-response-to-the-report-the-first-1000-days-a-renewed-focus</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[King’s College Hospital NHS Foundation Trust has achieved HIMSS INFRAM stage six, one of only a few hospitals to have reached this level.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPs to debate quitting NHS amid warnings over 'Amazon-style' access]]></title>
+        <id>https://www.gponline.com/article/1955510</id>
+        <link href="https://www.gponline.com/gps-debate-quitting-nhs-amid-warnings-amazon-style-access/article/1955510"/>
+        <updated>2026-04-22T09:48:22.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders will vote on taking general practice 'outside the NHS' next month amid warnings that existing contracts are unworkable and that an 'Amazon-style' unlimited access model is driving unsustainable demand.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
