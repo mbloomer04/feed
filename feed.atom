@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-23T11:55:00.112Z</updated>
+    <updated>2026-04-23T13:07:06.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS overhauls clinical standards to reduce maternal deaths]]></title>
+        <id>https://www.england.nhs.uk/?p=286292</id>
+        <link href="https://www.england.nhs.uk/2026/04/nhs-overhauls-clinical-standards-to-reduce-maternal-deaths/"/>
+        <updated>2026-04-23T10:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Every maternity service in England will need to meet new clinical standards, set out by the NHS, to significantly reduce the number of women who die each year during or after pregnancy.    All pregnant women will be offered an early risk assessment for venous thromboembolism – blood clots that form in deep veins and are […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS rules out 'national target' to cut GP referrals in advice and guidance update]]></title>
         <id>https://www.gponline.com/article/1955660</id>
@@ -2524,16 +2534,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Around half of NHS staff using an electronic patient record system (EPR) received training on how to use it for their role, a survey found.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public satisfaction with general practice highest since 2021]]></title>
-        <id>https://www.gponline.com/article/1952646</id>
-        <link href="https://www.gponline.com/public-satisfaction-general-practice-highest-2021/article/1952646"/>
-        <updated>2026-03-25T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Public satisfaction with NHS general practice has risen to its highest point since 2021 - ending a period of sustained decline, a major opinion survey reveals.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
