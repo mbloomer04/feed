@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-23T08:51:26.565Z</updated>
+    <updated>2026-04-23T10:16:30.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS rules out 'national target' to cut GP referrals in advice and guidance update]]></title>
+        <id>https://www.gponline.com/article/1955660</id>
+        <link href="https://www.gponline.com/nhs-rules-national-target-cut-gp-referrals-advice-guidance-update/article/1955660"/>
+        <updated>2026-04-23T08:28:22.000Z</updated>
+        <summary type="html"><![CDATA[NHS England has confirmed it will not impose a national target to cut GP referrals and insisted GPs' 'clinical decision to refer remains unchanged' following concerns over advice and guidance plans for the year ahead.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South East GP practices face internet outages]]></title>
         <id>https://www.digitalhealth.net/?p=265059</id>
