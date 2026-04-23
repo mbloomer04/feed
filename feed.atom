@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-23T04:47:24.757Z</updated>
+    <updated>2026-04-23T06:57:21.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South East GP practices face internet outages]]></title>
+        <id>https://www.digitalhealth.net/?p=265059</id>
+        <link href="https://www.digitalhealth.net/2026/04/south-east-gp-practices-face-internet-outages/"/>
+        <updated>2026-04-23T06:30:28.000Z</updated>
+        <summary type="html"><![CDATA[GP practices in the South East of England are experiencing network outages, affecting internet connectivity and access to clinical systems.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV]]></title>
         <id>urn:uuid:5615128f-786f-48b7-84b8-8b726dc39e5b</id>
