@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-23T13:07:06.969Z</updated>
+    <updated>2026-04-23T15:45:07.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RCGP petition demands more GPs to restore continuity of care]]></title>
+        <id>https://www.gponline.com/article/1955519</id>
+        <link href="https://www.gponline.com/rcgp-petition-demands-gps-restore-continuity-care/article/1955519"/>
+        <updated>2026-04-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The RCGP has launched a petition calling on the government to train, hire and retain more GPs to restore continuity of care.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS overhauls clinical standards to reduce maternal deaths]]></title>
         <id>https://www.england.nhs.uk/?p=286292</id>
@@ -17,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Algeria eliminates trachoma as a public health problem]]></title>
+        <id>urn:uuid:57e33f7c-bd3b-4ace-8cca-e926cdba7529</id>
+        <link href="https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem"/>
+        <updated>2026-04-23T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) has validated Algeria as having eliminated trachoma as a public health problem, making it the 10th country in WHO’s African Region and the 29th country globally to achieve this significant milestone.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NHS rules out 'national target' to cut GP referrals in advice and guidance update]]></title>
         <id>https://www.gponline.com/article/1955660</id>
         <link href="https://www.gponline.com/nhs-rules-national-target-cut-gp-referrals-advice-guidance-update/article/1955660"/>
@@ -24,6 +44,20 @@
         <summary type="html"><![CDATA[NHS England has confirmed it will not impose a national target to cut GP referrals and insisted GPs' 'clinical decision to refer remains unchanged' following concerns over advice and guidance plans for the year ahead.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO reports measurable health impact in 2025 amid transition to new strategy]]></title>
+        <id>urn:uuid:ca14566d-ca11-4c87-ae91-ad135d359a84</id>
+        <link href="https://www.who.int/news/item/23-04-2026-who-reports-measurable-health-impact-in-2025-amid-transition-to-new-strategy"/>
+        <updated>2026-04-23T08:07:28.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released its Results Report, highlighting measurable improvements in people’s health worldwide in 2025, despite funding cuts affecting both the organization and the broader global health sector.
+Published at a pivotal moment for global health, the Results Report demonstrates that WHO’s impact was strongest in areas where its technical leadership and comparative advantage were fully leveraged.
+The report finds significant progress across all three “Triple Billion” targets under WHO’s Thirteenth General Programme of Work (GPW13) for 2019–2025.
+
+an estimated 567 million additional people were covered by essential health services without experiencing catastrophic health spending in 2025, compared with the baseline in 2018 – an increase of 136 million s…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
