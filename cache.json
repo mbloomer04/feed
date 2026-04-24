@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4762 - Telnyx PyPI Package Compromise",
           "imageUrl": null
-        },
-        {
-          "id": "77e1634f-cd6f-444a-b40f-44a424a3cfbf",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Affected packages contain malicious code that can exfiltrate secrets and establish persistence\n Affected packages contain malicious code that can exfiltrate secrets and establish persistence\n Updated: 25 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4761",
-          "publishedOn": "2026-03-25T13:25:00.000Z",
-          "wordCount": null,
-          "title": "CC-4761 - LiteLLM PyPI Package Compromise",
-          "imageUrl": null
         }
       ]
     },
@@ -2846,16 +2836,6 @@
           "publishedOn": "2026-03-25T14:00:00.000Z",
           "wordCount": 1100,
           "title": "Substances of human origin (SoHO): review of UK legislation",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/speeches/nhs-reform-and-the-future-of-the-health-service",
-          "author": null,
-          "description": "Health and Social Care Secretary, Wes Streeting spoke in London today on the steps being taken to reform the health service.",
-          "link": "https://www.gov.uk/government/speeches/nhs-reform-and-the-future-of-the-health-service",
-          "publishedOn": "2026-03-25T12:47:53.000Z",
-          "wordCount": 9083,
-          "title": "NHS reform and the future of the health service",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
