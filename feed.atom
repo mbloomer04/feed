@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-24T09:23:33.673Z</updated>
+    <updated>2026-04-24T10:59:04.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -44,6 +44,22 @@
         <summary type="html"><![CDATA[Professor Greg Irving, an academic GP and the national specialty lead for general practice at the National Institute for Health and Care Research (NIHR), speaks to GPonline editor Emma Bower about the importance of primary care research.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Largest catch-up initiative delivers over 100 million childhood vaccinations]]></title>
+        <id>urn:uuid:d248ba95-f877-4733-8a63-ffecb7d497f2</id>
+        <link href="https://www.who.int/news/item/24-04-2026-largest-catch-up-initiative-delivers-over-100-million-childhood-vaccinations"/>
+        <updated>2026-04-24T00:01:31.000Z</updated>
+        <summary type="html"><![CDATA[The Big Catch-Up, launched during World Immunization Week 2023, has delivered over 100 million vaccine doses to an estimated 18.3 million children across 36 countries
+
+Around 12.3 million were “zero-dose children” who had not previously received any vaccines and 15 million who had never received a measles vaccine. 
+
+The initiative concluded in March 2026 and is on track to meet its target of catching up 21 million children – but agencies warn that many infants still miss out on lifesaving vaccines through routine immunization every year.
+
+The Big Catch-Up (BCU), a historic multi-year, multi-country effort to address vaccination declines driven largely by the COVID-19 pandemic, has reached an estimated 18.3 million children aged 1 to 5 across 36 countries with more than 100 million doses of…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
