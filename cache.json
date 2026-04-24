@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1955721",
+          "author": null,
+          "description": "Professor Greg Irving, an academic GP and the national specialty lead for general practice at the National Institute for Health and Care Research (NIHR), speaks to GPonline editor Emma Bower about the importance of primary care research.",
+          "link": "https://www.gponline.com/podcast-why-research-happen-general-practice-involved/article/1955721",
+          "publishedOn": "2026-04-24T07:15:00.000Z",
+          "wordCount": 785,
+          "title": "Podcast: Why more research should happen in general practice - and how to get involved",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeGregIrving858x575.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1955519",
           "author": null,
           "description": "The RCGP has launched a petition calling on the government to train, hire and retain more GPs to restore continuity of care.",
@@ -1888,6 +1898,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+          "author": null,
+          "description": "Terms of reference for Ministerial Group for Digital Inclusion.",
+          "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+          "publishedOn": "2026-04-24T09:10:04.000Z",
+          "wordCount": 778,
+          "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+          "author": null,
+          "description": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
+          "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+          "publishedOn": "2026-04-24T09:09:57.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-march-2026",
+          "publishedOn": "2026-04-24T08:47:50.000Z",
+          "wordCount": 781,
+          "title": "Transparency data: DHSC: workforce management information March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/review-body-on-doctors-and-dentists-remuneration-fifty-fourth-report",
+          "author": null,
+          "description": "Recommendations and observations from the Review Body on Doctors’ and Dentists’ Remuneration on doctors’ and dentists’ pay in the United Kingdom.",
+          "link": "https://www.gov.uk/government/publications/review-body-on-doctors-and-dentists-remuneration-fifty-fourth-report",
+          "publishedOn": "2026-04-23T12:03:03.000Z",
+          "wordCount": 1137,
+          "title": "Independent report: Review Body on Doctors’ and Dentists’ Remuneration Fifty-Fourth Report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
           "author": null,
