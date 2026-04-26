@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4763 - Critical RCE Vulnerability in F5 BIG-IP Under Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "22580fe8-66fa-47d5-956d-1069086747b8",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Affected packages contain a variant of the ContainerWorm malware, which can exfiltrate secrets and establish persistence\n Updated: 27 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4762",
-          "publishedOn": "2026-03-27T11:32:00.000Z",
-          "wordCount": null,
-          "title": "CC-4762 - Telnyx PyPI Package Compromise",
-          "imageUrl": null
         }
       ]
     },
