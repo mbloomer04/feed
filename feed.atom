@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-27T08:08:28.106Z</updated>
+    <updated>2026-04-27T10:54:20.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Clostridioides difficile infection: how to deal with the problem]]></title>
+        <id>https://www.gov.uk/government/publications/clostridioides-difficile-infection-how-to-deal-with-the-problem</id>
+        <link href="https://www.gov.uk/government/publications/clostridioides-difficile-infection-how-to-deal-with-the-problem"/>
+        <updated>2026-04-27T09:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Interim update to the guidance on the most effective methods of prevention and control of Clostridioides difficile infection. This guidance is currently under review.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rural GP practice could stay open after former PM steps in]]></title>
+        <id>https://www.gponline.com/article/1955898</id>
+        <link href="https://www.gponline.com/rural-gp-practice-stay-open-former-pm-steps/article/1955898"/>
+        <updated>2026-04-27T08:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A rural GP practice that was set to close at the end of May could now stay open after a former prime minister stepped in.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests]]></title>
         <id>urn:uuid:dcc9187c-dd2a-4402-9f4b-27cf2ff98b8f</id>

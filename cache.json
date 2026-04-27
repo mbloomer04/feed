@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1955898",
+          "author": null,
+          "description": "A rural GP practice that was set to close at the end of May could now stay open after a former prime minister stepped in.",
+          "link": "https://www.gponline.com/rural-gp-practice-stay-open-former-pm-steps/article/1955898",
+          "publishedOn": "2026-04-27T08:22:00.000Z",
+          "wordCount": 753,
+          "title": "Rural GP practice could stay open after former PM steps in",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS_GettyImages-Graeme-Robertson.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1955867",
           "author": null,
           "description": "GPs have raised concerns over the impact of additional roles reimbursement scheme (ARRS) roles on continuity of care after official data showed high turnover of doctors recruited through the scheme.",
@@ -1838,6 +1848,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/clostridioides-difficile-infection-how-to-deal-with-the-problem",
+          "author": null,
+          "description": "Interim update to the guidance on the most effective methods of prevention and control of Clostridioides difficile infection. This guidance is currently under review.",
+          "link": "https://www.gov.uk/government/publications/clostridioides-difficile-infection-how-to-deal-with-the-problem",
+          "publishedOn": "2026-04-27T09:04:08.000Z",
+          "wordCount": 1536,
+          "title": "Guidance: Clostridioides difficile infection: how to deal with the problem",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-january-2026",
           "author": null,
