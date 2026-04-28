@@ -1648,16 +1648,6 @@
           "wordCount": 730,
           "title": "Practices will struggle to meet patient demand under new contract, GP leaders warn",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2222482628-ezgif.com-optijpeg.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1953214",
-          "author": null,
-          "description": "The lack of detail on the new practice-level reimbursement scheme for employing GPs in England, which is due to come into effect this week as part of the new GP contract, is ‘completely unacceptable’, practice and PCN managers have said.",
-          "link": "https://www.gponline.com/lack-detail-new-gp-reimbursement-scheme-completely-unacceptable/article/1953214",
-          "publishedOn": "2026-03-30T11:23:35.000Z",
-          "wordCount": 751,
-          "title": "Lack of detail on new GP reimbursement scheme ‘completely unacceptable’",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1759896437-ezgif.com-optijpeg.jpg"
         }
       ]
     },
@@ -1751,6 +1741,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=286422",
+          "author": "nowen",
+          "description": "Hospital patients at every NHS trust across England can now check their referrals and appointments through the NHS App, making it easier for millions of people to manage their care in one place. Around two-thirds (64%) of all hospital appointments are currently visible through the app, with many patients also able to reschedule or cancel appointments – helping to cut the number of missed […]",
+          "link": "https://www.england.nhs.uk/2026/04/hospital-patients-can-now-check-appointments-in-the-nhs-app/",
+          "publishedOn": "2026-04-28T21:30:25.000Z",
+          "wordCount": 1417,
+          "title": "Hospital patients can now check appointments in the NHS App",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=286292",
           "author": "rwootton",
@@ -2496,26 +2496,6 @@
           "publishedOn": "2026-03-30T12:12:26.000Z",
           "wordCount": 3696,
           "title": "Hundreds of Best Start Family Hubs open nationwide",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/best-start-family-hubs-and-healthy-babies-guidance-for-local-authorities",
-          "author": null,
-          "description": "How local authorities should implement Best Start Family Hubs and Healthy Babies services.",
-          "link": "https://www.gov.uk/government/publications/best-start-family-hubs-and-healthy-babies-guidance-for-local-authorities",
-          "publishedOn": "2026-03-30T11:00:01.000Z",
-          "wordCount": 998,
-          "title": "Guidance: Best Start Family Hubs and Healthy Babies: guidance for local authorities",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2026-to-2027",
-          "author": null,
-          "description": "Information about NHS England's objectives and funding arrangements as it commissions public health services.",
-          "link": "https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2026-to-2027",
-          "publishedOn": "2026-03-30T10:15:47.000Z",
-          "wordCount": 938,
-          "title": "Guidance: Public health commissioning in the NHS: 2026 to 2027",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
