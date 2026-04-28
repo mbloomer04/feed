@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "CC-4764 - Axios HTTP Client Package Compromise",
           "imageUrl": null
-        },
-        {
-          "id": "051a4e17-6e75-44c8-b4bd-df400c3046d8",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n CVE-2025-53521 could allow an unauthenticated attacker to execute code remotely\n Updated: 30 Mar 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4763",
-          "publishedOn": "2026-03-30T09:24:00.000Z",
-          "wordCount": null,
-          "title": "CC-4763 - Critical RCE Vulnerability in F5 BIG-IP Under Exploitation",
-          "imageUrl": null
         }
       ]
     },
