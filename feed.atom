@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-28T08:09:52.734Z</updated>
+    <updated>2026-04-28T10:56:17.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs face backlog of work after IT glitch hits practice systems]]></title>
+        <id>https://www.gponline.com/article/1956067</id>
+        <link href="https://www.gponline.com/gps-face-backlog-work-glitch-hits-practice-systems/article/1956067"/>
+        <updated>2026-04-28T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of GP practices could face days of extra work after IT problems across south-east England forced them to switch off online consultation systems and pause appointment booking.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can NHS England bring GPs on board with advice and guidance reforms?]]></title>
         <id>https://www.gponline.com/article/1955958</id>
