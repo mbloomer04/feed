@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-28T12:21:08.301Z</updated>
+    <updated>2026-04-28T17:40:37.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Bioscience and health technology sector statistics 2024 to 2025]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025"/>
+        <updated>2026-04-28T12:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics in development estimating the size and composition of the life sciences sector in the UK.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs face backlog of work after IT glitch hits practice systems]]></title>
         <id>https://www.gponline.com/article/1956067</id>
@@ -14,6 +24,18 @@
         <summary type="html"><![CDATA[Hundreds of GP practices could face days of extra work after IT problems across south-east England forced them to switch off online consultation systems and pause appointment booking.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efforts to eliminate hepatitis delivers gains but more action needed to meet 2030 targets]]></title>
+        <id>urn:uuid:a901af6c-db18-4b59-8f62-7bbdc1e5c4df</id>
+        <link href="https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets"/>
+        <updated>2026-04-28T05:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Global efforts to combat viral hepatitis are delivering measurable progress in reducing infections and deaths, but the disease remains a major global health challenge, according to a new World Health Organization (WHO) report released today at the World Hepatitis Summit.
+Viral hepatitis B and C – the two infections responsible for 95% of hepatitis-related deaths worldwide – claimed 1.34 million lives in 2024, the latest data show. At the same time, transmission continues, with more than 4900 new infections every day, or 1.8 million each year.
+The 2026 Global hepatitis report documents significant gains made since 2015. The annual number of new hepatitis B infections has dropped by 32% and hepatitis C-related deaths have fallen by 12% globally. Hepatitis B prevalence among children under fi…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

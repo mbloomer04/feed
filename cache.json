@@ -1879,6 +1879,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+          "author": null,
+          "description": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
+          "link": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+          "publishedOn": "2026-04-28T12:22:16.000Z",
+          "wordCount": 658,
+          "title": "Official Statistics: Bioscience and health technology sector statistics 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/clostridioides-difficile-infection-how-to-deal-with-the-problem",
           "author": null,
           "description": "Interim update to the guidance on the most effective methods of prevention and control of Clostridioides difficile infection. This guidance is currently under review.",
@@ -2752,6 +2762,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:a901af6c-db18-4b59-8f62-7bbdc1e5c4df",
+          "author": null,
+          "description": "Global efforts to combat viral hepatitis are delivering measurable progress in reducing infections and deaths, but the disease remains a major global health challenge, according to a new World Health Organization (WHO) report released today at the World Hepatitis Summit.\nViral hepatitis B and C – the two infections responsible for 95% of hepatitis-related deaths worldwide – claimed 1.34 million lives in 2024, the latest data show. At the same time, transmission continues, with more than 4900 new infections every day, or 1.8 million each year.\nThe 2026 Global hepatitis report documents significant gains made since 2015. The annual number of new hepatitis B infections has dropped by 32% and hepatitis C-related deaths have fallen by 12% globally. Hepatitis B prevalence among children under fi…",
+          "link": "https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets",
+          "publishedOn": "2026-04-28T05:37:30.000Z",
+          "wordCount": 3031,
+          "title": "Efforts to eliminate hepatitis delivers gains but more action needed to meet 2030 targets",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/vaccines-and-immunization/pneumococcal-vaccine-in-fiji.tmb-1200v.jpg?sfvrsn=abe5f557_1"
+        },
         {
           "id": "urn:uuid:14fb9780-db5d-44cc-98de-65676615703a",
           "author": null,
