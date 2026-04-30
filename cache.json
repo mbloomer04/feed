@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "45a6cfb8-45f7-4bd3-9529-b739a2cc6369",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-41940 could allow unauthenticated remote attackers to gain unauthorised access to the affected cPanel management console\n CVE-2026-41940 could allow unauthenticated remote attackers to gain unauthorised access on the affected cPanel management console\n Updated: 30 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4774",
+          "publishedOn": "2026-04-30T10:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4774 - Critical Vulnerability in cPanel and Web Host Manager (WHM)",
+          "imageUrl": null
+        },
+        {
           "id": "0c425e17-13eb-4652-9e78-c07cc3df34f4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 481 security updates across multiple Oracle product families\n Scheduled advisory includes 481 security updates across multiple Oracle product families\n Updated: 22 Apr 2026",
@@ -1848,6 +1858,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/key-target-hit-with-8500-extra-mental-health-workers-in-the-nhs",
+          "author": null,
+          "description": "Thousands more therapists, psychiatrists and mental health nurses are working in health service.",
+          "link": "https://www.gov.uk/government/news/key-target-hit-with-8500-extra-mental-health-workers-in-the-nhs",
+          "publishedOn": "2026-04-30T09:14:25.000Z",
+          "wordCount": 1672,
+          "title": "Key target hit with 8,500 extra mental health workers in the NHS",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/tobacco-and-vapes-bill-becomes-law",
           "author": null,
