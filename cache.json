@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "eef1c9ea-044f-438a-8188-52d330528051",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-31431 (dubbed \"Copy Fail\") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.\n CVE-2026-31431 (dubbed \"Copy Fail\") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.\n Updated: 30 Apr 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4776",
+          "publishedOn": "2026-04-30T15:32:00.000Z",
+          "wordCount": null,
+          "title": "CC-4776 - Proof-of-Concept Exploit Released for Local Privilege Escalation Vulnerability in the Linux Kernel",
+          "imageUrl": null
+        },
+        {
           "id": "9dd07394-e747-4a81-950a-3b1d1b6a1c53",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-0204 could allow an unauthenticated attacker to access certain management interface functions\n CVE-2026-0204 could allow an unauthenticated attacker to access certain management interface functions\n Updated: 30 Apr 2026",
@@ -1210,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1956660",
+          "author": null,
+          "description": "A practice-level reimbursement scheme introduced as part of the imposed 2026/27 GP contract will only allow practices to claim funding for salaried GP roles - and will exclude practices that are not members of PCNs.",
+          "link": "https://www.gponline.com/practice-level-gp-reimbursement-scheme-limited-salaried-gps/article/1956660",
+          "publishedOn": "2026-04-30T15:23:22.000Z",
+          "wordCount": 738,
+          "title": "Practice-level GP reimbursement scheme limited to salaried GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/coins_lancy2-201707120906578411-20180704114613835_89.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1956624",
           "author": null,
           "description": "GP leaders are voting on demand management principles put forward by NHS England in a bid to stave off a return to collective action.",
@@ -1878,6 +1898,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-funds-ambulances-after-arson-attack",
+          "author": null,
+          "description": "The Government has confirmed it will provide a grant for new electric ambulances to replace those destroyed in arson attack.",
+          "link": "https://www.gov.uk/government/news/government-funds-ambulances-after-arson-attack",
+          "publishedOn": "2026-04-30T15:30:50.000Z",
+          "wordCount": 1988,
+          "title": "Government funds ambulances after arson attack",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
           "author": null,
