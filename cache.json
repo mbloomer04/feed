@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1956581",
+          "author": null,
+          "description": "Unnecessary tasks dumped on GPs cost the average practice more than £500,000 a year, an RCGP report suggests.",
+          "link": "https://www.gponline.com/unnecessary-tasks-cost-average-gp-practice-500000-year/article/1956581",
+          "publishedOn": "2026-04-30T09:38:56.000Z",
+          "wordCount": 711,
+          "title": "Unnecessary tasks cost average GP practice £500,000 a year",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-FlyViewProductions_RF_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1956384",
           "author": null,
           "description": "Heavy workload and underfunding have forced GP practices to breach their contracts by switching off online consultation forms within core hours, an LMC has warned.",
@@ -1839,16 +1849,6 @@
           "publishedOn": "2026-04-01T23:01:04.000Z",
           "wordCount": 1313,
           "title": "Millions of older people to get vaccine against serious lung infection",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=285071",
-          "author": "Tom W",
-          "description": "A new life-changing treatment option – GLP-1 drug semaglutide known as Wegovy – is set to be available on the NHS within months, with 1.2 million people with cardiovascular disease eligible to receive the treatment to help prevent heart attacks and strokes over the next few years. People with heart and circulatory disease who are […]",
-          "link": "https://www.england.nhs.uk/2026/04/million-people-offered-wegovy-cut-heart-attack-stroke-risk/",
-          "publishedOn": "2026-03-31T23:01:50.000Z",
-          "wordCount": 1759,
-          "title": "Over a million people could be offered Wegovy to cut heart attack and stroke risk on the NHS",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]

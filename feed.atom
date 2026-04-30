@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-04-30T10:47:25.435Z</updated>
+    <updated>2026-04-30T12:08:59.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -17,6 +17,16 @@
  Updated: 30 Apr 2026]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnecessary tasks cost average GP practice £500,000 a year]]></title>
+        <id>https://www.gponline.com/article/1956581</id>
+        <link href="https://www.gponline.com/unnecessary-tasks-cost-average-gp-practice-500000-year/article/1956581"/>
+        <updated>2026-04-30T09:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Unnecessary tasks dumped on GPs cost the average practice more than £500,000 a year, an RCGP report suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1919,16 +1929,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[NHS England has stepped in to delay the go-live of an electronic patient record (EPR) at North Cumbria Integrated Care NHS Foundation Trust.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over a million people could be offered Wegovy to cut heart attack and stroke risk on the NHS]]></title>
-        <id>https://www.england.nhs.uk/?p=285071</id>
-        <link href="https://www.england.nhs.uk/2026/04/million-people-offered-wegovy-cut-heart-attack-stroke-risk/"/>
-        <updated>2026-03-31T23:01:50.000Z</updated>
-        <summary type="html"><![CDATA[A new life-changing treatment option – GLP-1 drug semaglutide known as Wegovy – is set to be available on the NHS within months, with 1.2 million people with cardiovascular disease eligible to receive the treatment to help prevent heart attacks and strokes over the next few years. People with heart and circulatory disease who are […]]]></summary>
-        <author>
-            <name>Tom W</name>
         </author>
     </entry>
     <entry>
