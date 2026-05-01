@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-01T10:17:06.062Z</updated>
+    <updated>2026-05-01T11:52:19.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICBs to vary network DES locally in major shift for PCNs]]></title>
+        <id>https://www.gponline.com/article/1956756</id>
+        <link href="https://www.gponline.com/icbs-vary-network-des-locally-major-shift-pcns/article/1956756"/>
+        <updated>2026-05-01T09:51:53.000Z</updated>
+        <summary type="html"><![CDATA[ICBs will be able to request local variation to the network contract DES - which governs practices' participation in PCNs - under a contract change that could have major implications for the future of practice funding, GP networks and the neighbourhoods.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using dual energy x-ray absorptiometry (DEXA) scans for non-medical purposes as a justified practice]]></title>
         <id>https://www.gov.uk/government/consultations/using-dual-energy-x-ray-absorptiometry-dexa-scans-for-non-medical-purposes-as-a-justified-practice</id>
@@ -1945,16 +1955,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Torbay and South Devon NHS Foundation Trust is rolling out an Epic electronic patient record (EPR) this week.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions of older people to get vaccine against serious lung infection]]></title>
-        <id>https://www.england.nhs.uk/?p=285201</id>
-        <link href="https://www.england.nhs.uk/2026/04/millions-of-older-people-to-get-vaccine-against-serious-lung-infection/"/>
-        <updated>2026-04-01T23:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Millions of older people can now get protection against a virus which causes serious lung infections like bronchitis and pneumonia – preventing potentially thousands of hospital admissions a year. All adults aged 80 and over, and people living in a care home for older adults, are now eligible for the NHS respiratory syncytial virus (RSV) […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
     <entry>

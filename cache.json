@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1956756",
+          "author": null,
+          "description": "ICBs will be able to request local variation to the network contract DES - which governs practices' participation in PCNs - under a contract change that could have major implications for the future of practice funding, GP networks and the neighbourhoods.",
+          "link": "https://www.gponline.com/icbs-vary-network-des-locally-major-shift-pcns/article/1956756",
+          "publishedOn": "2026-05-01T09:51:53.000Z",
+          "wordCount": 960,
+          "title": "ICBs to vary network DES locally in major shift for PCNs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign-Nick-Apr26-crop.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1956643",
           "author": null,
           "description": "The GPonline team discusses the latest news affecting general practice.",
@@ -1859,16 +1869,6 @@
           "publishedOn": "2026-04-05T23:01:11.000Z",
           "wordCount": 1292,
           "title": "NHS urges public not to delay seeking medical help, ahead of ‘difficult’ strike",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=285201",
-          "author": "rwootton",
-          "description": "Millions of older people can now get protection against a virus which causes serious lung infections like bronchitis and pneumonia – preventing potentially thousands of hospital admissions a year. All adults aged 80 and over, and people living in a care home for older adults, are now eligible for the NHS respiratory syncytial virus (RSV) […]",
-          "link": "https://www.england.nhs.uk/2026/04/millions-of-older-people-to-get-vaccine-against-serious-lung-infection/",
-          "publishedOn": "2026-04-01T23:01:04.000Z",
-          "wordCount": 1313,
-          "title": "Millions of older people to get vaccine against serious lung infection",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
