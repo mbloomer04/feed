@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-02T02:01:02.610Z</updated>
+    <updated>2026-05-02T05:29:06.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WHO Member States agree to extend negotiations on Pathogen Access and Benefit Sharing annex]]></title>
+        <id>urn:uuid:3533ce9c-143f-4cb5-b95d-563aef07439d</id>
+        <link href="https://www.who.int/news/item/01-05-2026-who-member-states-agree-to-extend-negotiations-on-pathogen-access-and-benefit-sharing-annex"/>
+        <updated>2026-05-01T16:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Member States of the World Health Organization (WHO) have progressed work on the Pathogen Access and Benefit Sharing (PABS) annex, a key part of the WHO Pandemic Agreement, and today agreed additional time was needed to finalize the framework for ensuring a better, more equitable, response to future pandemics.
+Countries today ended the resumed session of the sixth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement in Geneva, focused on the PABS system. The outcome of this work will be presented to the Seventy-ninth World Health Assembly (WHA) later this month. Given the need for further negotiations, the Assembly will be asked to consider continuing IGWG’s work as mandated in Resolution WHA78.1 and submit the outcome to the next Assembly in May 2027, or ear…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs return to collective action as contract talks fall short]]></title>
         <id>https://www.gponline.com/article/1956823</id>
@@ -1852,29 +1863,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[GPonline editor Emma Bower and deputy editor Nick Bostock discuss the latest on this year's GP contract and look at public satisfaction with general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS patients and British businesses to benefit from historic changes to medicines access following pharmaceutical partnership with USA]]></title>
-        <id>https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa</id>
-        <link href="https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa"/>
-        <updated>2026-04-02T16:08:13.000Z</updated>
-        <summary type="html"><![CDATA[New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4765 - Google Releases Security Update for Chrome]]></title>
-        <id>625f8b4d-5236-48a4-b365-5edc457948ae</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4765"/>
-        <updated>2026-04-02T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)
- Updates include 21 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-5281)
- Updated: 02 Apr 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
