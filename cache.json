@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1956846",
+          "author": null,
+          "description": "Some ICBs could deliver neighbourhood plans entirely through local variation to the network contract DES and other existing NHS arrangements - meaning contracts for multi- and single-neighbourhood providers (MNPs and SNPs) may be redundant in parts of England before they are even published.",
+          "link": "https://www.gponline.com/new-pcn-rules-neighbourhood-contracts-redundant/article/1956846",
+          "publishedOn": "2026-05-06T15:55:00.000Z",
+          "wordCount": 764,
+          "title": "Could new PCN rules make neighbourhood contracts redundant?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign-Nick-Apr26_full.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1957136",
           "author": null,
           "description": "GP partner and former NHS England national clinical director for older people and personalised care Dr Adrian Hayter has been appointed as NICE's new chief medical officer.",
@@ -1698,16 +1708,6 @@
           "wordCount": 937,
           "title": "GPs asked to cut prescription length to reduce risk of drug shortages",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2217256698.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1953786",
-          "author": null,
-          "description": "Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.",
-          "link": "https://www.gponline.com/huge-local-funding-variation-leaves-gps-exposed-neighbourhoods-shape/article/1953786",
-          "publishedOn": "2026-04-07T05:00:00.000Z",
-          "wordCount": 925,
-          "title": "Huge local funding variation leaves GPs exposed as neighbourhoods take shape",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_43.jpg"
         }
       ]
     },

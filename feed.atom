@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-06T15:23:28.252Z</updated>
+    <updated>2026-05-06T17:23:41.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Could new PCN rules make neighbourhood contracts redundant?]]></title>
+        <id>https://www.gponline.com/article/1956846</id>
+        <link href="https://www.gponline.com/new-pcn-rules-neighbourhood-contracts-redundant/article/1956846"/>
+        <updated>2026-05-06T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Some ICBs could deliver neighbourhood plans entirely through local variation to the network contract DES and other existing NHS arrangements - meaning contracts for multi- and single-neighbourhood providers (MNPs and SNPs) may be redundant in parts of England before they are even published.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital tools key to improve patient flow in the NHS, report says]]></title>
         <id>https://www.digitalhealth.net/?p=269803</id>
@@ -2006,16 +2016,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Royal Surrey NHS Foundation Trust has gone live with an ophthalmology electronic patient record (EPR) system from Medisoft.]]></summary>
         <author>
             <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge local funding variation leaves GPs exposed as neighbourhoods take shape]]></title>
-        <id>https://www.gponline.com/article/1953786</id>
-        <link href="https://www.gponline.com/huge-local-funding-variation-leaves-gps-exposed-neighbourhoods-shape/article/1953786"/>
-        <updated>2026-04-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
