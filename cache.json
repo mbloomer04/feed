@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1957136",
+          "author": null,
+          "description": "GP partner and former NHS England national clinical director for older people and personalised care Dr Adrian Hayter has been appointed as NICE's new chief medical officer.",
+          "link": "https://www.gponline.com/nice-appoints-gp-new-chief-medical-officer/article/1957136",
+          "publishedOn": "2026-05-06T09:22:07.000Z",
+          "wordCount": 732,
+          "title": "NICE appoints GP as new chief medical officer",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/AdrianHayter_NICE.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1956967",
           "author": null,
           "description": "GP contract changes unveiled at the start of May will create 'headaches' for practices without improving access for patients, a leading accountant has warned.",
@@ -1858,6 +1868,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "publishedOn": "2026-05-06T10:10:18.000Z",
+          "wordCount": 922,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-prompt-payment-of-suppliers",
           "author": null,
