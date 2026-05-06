@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-06T12:27:07.303Z</updated>
+    <updated>2026-05-06T15:23:28.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital tools key to improve patient flow in the NHS, report says]]></title>
+        <id>https://www.digitalhealth.net/?p=269803</id>
+        <link href="https://www.digitalhealth.net/2026/05/digital-tools-key-to-improve-patient-flow-in-the-nhs-report-says/"/>
+        <updated>2026-05-06T12:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Digital tech should be used to support whole-system patient flow rather than simply improving bed management, Public Policy Projects states.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4777 - Palo Alto Networks Releases Security Advisory for Critical Vulnerability in PAN‑OS]]></title>
         <id>8124df48-d0c2-494a-9c87-e604f2f3a751</id>
