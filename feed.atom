@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-06T10:58:32.558Z</updated>
+    <updated>2026-05-06T12:27:07.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4777 - Palo Alto Networks Releases Security Advisory for Critical Vulnerability in PAN‑OS]]></title>
+        <id>8124df48-d0c2-494a-9c87-e604f2f3a751</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4777"/>
+        <updated>2026-05-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls
+ CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls
+ Updated: 06 May 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027</id>
@@ -27,6 +40,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Below-par ARRS uplift adds to pressure on GP funding]]></title>
+        <id>https://www.gponline.com/article/1957150</id>
+        <link href="https://www.gponline.com/below-par-arrs-uplift-adds-pressure-gp-funding/article/1957150"/>
+        <updated>2026-05-06T09:05:29.000Z</updated>
+        <summary type="html"><![CDATA[PCNs face tough choices over additional roles reimbursement scheme (ARRS) staff in 2026/27 because a £55m funding uplift does not cover rising costs in full or deliver extra funding to hire experienced GPs.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bradford Teaching Hospitals uses AI to detect skin cancer faster]]></title>
+        <id>https://www.digitalhealth.net/?p=269571</id>
+        <link href="https://www.digitalhealth.net/2026/05/bradford-teaching-hospitals-uses-ai-to-detect-skin-cancer-faster/"/>
+        <updated>2026-05-06T06:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Bradford Teaching Hospitals NHS Foundation Trust has begun using AI with the aim of detecting skin cancer earlier.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Transparency data: Department of Health and Social Care prompt payment of suppliers]]></title>
         <id>https://www.gov.uk/government/publications/department-of-health-and-social-care-prompt-payment-of-suppliers</id>
         <link href="https://www.gov.uk/government/publications/department-of-health-and-social-care-prompt-payment-of-suppliers"/>
@@ -37,6 +70,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lincolnshire Partnership chooses Portasana PEP]]></title>
+        <id>https://www.digitalhealth.net/?p=269153</id>
+        <link href="https://www.digitalhealth.net/2026/05/lincolnshire-partnership-chooses-portasana-pep/"/>
+        <updated>2026-05-05T12:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Lincolnshire Partnership NHS Foundation Trust has selected the Portasana Patient Engagement Platform (PEP) to improve digital access.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=268973</id>
+        <link href="https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-163/"/>
+        <updated>2026-05-05T10:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a project to bring telehealth to an island with no GP and software for AI-assisted colonoscopies.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Restrictive GP contract changes 'will not boost access']]></title>
         <id>https://www.gponline.com/article/1956967</id>
         <link href="https://www.gponline.com/restrictive-gp-contract-changes-will-not-boost-access/article/1956967"/>
@@ -44,6 +97,16 @@
         <summary type="html"><![CDATA[GP contract changes unveiled at the start of May will create 'headaches' for practices without improving access for patients, a leading accountant has warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHSE to move away from open source over AI security concerns]]></title>
+        <id>https://www.digitalhealth.net/?p=269741</id>
+        <link href="https://www.digitalhealth.net/2026/05/nhse-to-move-away-from-open-source-over-ai-security-concerns/"/>
+        <updated>2026-05-05T06:30:32.000Z</updated>
+        <summary type="html"><![CDATA[NHS England is temporarily restricting access to its open source code to strengthen security amid concerns about the impact of AI models.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
@@ -98,6 +161,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Outdated IT systems increasing GP workload, RCGP finds]]></title>
+        <id>https://www.digitalhealth.net/?p=269179</id>
+        <link href="https://www.digitalhealth.net/2026/05/outdated-it-systems-increasing-gp-workload-rcgp-finds/"/>
+        <updated>2026-05-01T12:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Outdated and poorly connected IT systems are increasing GP workload pressures, a Royal College of General Practitioners report has found.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ICBs to vary network DES locally in major shift for PCNs]]></title>
         <id>https://www.gponline.com/article/1956756</id>
         <link href="https://www.gponline.com/icbs-vary-network-des-locally-major-shift-pcns/article/1956756"/>
@@ -125,6 +198,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         <summary type="html"><![CDATA[The GPonline team discusses the latest news affecting general practice.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI documentation tool creates 40% more assessment capacity]]></title>
+        <id>https://www.digitalhealth.net/?p=269111</id>
+        <link href="https://www.digitalhealth.net/2026/05/ai-documentation-tool-creates-40-more-assessment-capacity/"/>
+        <updated>2026-05-01T06:30:47.000Z</updated>
+        <summary type="html"><![CDATA[System C has announced that its AI-powered FormFlow Assistant has been deployed across 15 local authorities.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
@@ -221,6 +304,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First look at Digital Health Summer Schools 2026 programme]]></title>
+        <id>https://www.digitalhealth.net/?p=268557</id>
+        <link href="https://www.digitalhealth.net/2026/04/first-look-at-digital-health-summer-schools-2026-programme/"/>
+        <updated>2026-04-30T12:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Digital Health has published a ‘first look’ at this year’s Summer Schools programme, which takes place on 16-17 July in Nottingham.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CC-4775 - SonicWall Releases Security Updates for SonicOS]]></title>
         <id>9dd07394-e747-4a81-950a-3b1d1b6a1c53</id>
         <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4775"/>
@@ -247,6 +340,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=265387</id>
+        <link href="https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-162/"/>
+        <updated>2026-04-30T10:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing includes cyberattacks on Ukraine's hospitals and tech that stops organs getting damaged in transit.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unnecessary tasks cost average GP practice £500,000 a year]]></title>
         <id>https://www.gponline.com/article/1956581</id>
         <link href="https://www.gponline.com/unnecessary-tasks-cost-average-gp-practice-500000-year/article/1956581"/>
@@ -267,6 +370,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI cuts patient call wait times by up to 90% at UHSussex]]></title>
+        <id>https://www.digitalhealth.net/?p=268461</id>
+        <link href="https://www.digitalhealth.net/2026/04/ai-cuts-patient-call-wait-times-by-up-to-90-at-uhsussex/"/>
+        <updated>2026-04-30T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Patient call wait times at University Hospitals Sussex have been cut by up to 90% since the implementation of AI technology from Netcall.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Impossible workload forcing GPs to breach contracts]]></title>
         <id>https://www.gponline.com/article/1956384</id>
         <link href="https://www.gponline.com/impossible-workload-forcing-gps-breach-contracts/article/1956384"/>
@@ -284,6 +397,16 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         <summary type="html"><![CDATA[The next generation will be smoke-free as Tobacco and Vapes Bill is granted Royal Assent.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS to expand AI use through federated data platform]]></title>
+        <id>https://www.digitalhealth.net/?p=267425</id>
+        <link href="https://www.digitalhealth.net/2026/04/fdp-to-ramp-up-ai-use-with-scheduling-triage-and-discharge-tools/"/>
+        <updated>2026-04-29T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is planning to ramp up the use of AI tools through the FDP, including products to support theatre scheduling, triage and discharge.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
@@ -1883,276 +2006,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Significant variation in GP funding from locally-commissioned services across England leaves some areas potentially exposed amid growing uncertainty over how emerging neighbourhoods will affect this key income stream.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leeds Teaching Hospitals secures £1.5m to boost research]]></title>
-        <id>https://www.digitalhealth.net/?p=262037</id>
-        <link href="https://www.digitalhealth.net/2026/04/leeds-teaching-hospitals-secures-1-5m-for-cancer-research/"/>
-        <updated>2026-04-02T12:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Leeds Teaching Hospitals NHS Trust has been awarded £1.5m to advance research and streamline the delivery of clinical trials.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=262739</id>
-        <link href="https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-154/"/>
-        <updated>2026-04-02T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features a free digital platform built for unpaid carers in the UK and an AI-enabled platform for eating disorder services.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE publishes fresh guidance on safe use of ambient scribes]]></title>
-        <id>https://www.digitalhealth.net/?p=263303</id>
-        <link href="https://www.digitalhealth.net/2026/04/nhse-publishes-fresh-guidance-on-safe-use-of-ambient-scribes/"/>
-        <updated>2026-04-02T10:00:23.000Z</updated>
-        <summary type="html"><![CDATA[NHS England has published new guidance on the use of AI-powered ambient scribing tools in health and care settings.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torbay and South Devon on verge of Epic EPR go-live]]></title>
-        <id>https://www.digitalhealth.net/?p=263269</id>
-        <link href="https://www.digitalhealth.net/2026/04/torbay-and-south-devon-on-verge-of-epic-epr-go-live/"/>
-        <updated>2026-04-02T06:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Torbay and South Devon NHS Foundation Trust is rolling out an Epic electronic patient record (EPR) this week.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS must stop making life ‘difficult for innovators’]]></title>
-        <id>https://www.digitalhealth.net/?p=263085</id>
-        <link href="https://www.digitalhealth.net/2026/04/nhs-must-stop-making-life-difficult-for-innovators/"/>
-        <updated>2026-04-01T12:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Digital leaders have called for a more “brave” and “honest” approach to the barriers that prevent scaling of technologies.]]></summary>
-        <author>
-            <name>Thelma Agnew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hertfordshire Community NHS Trust to roll out AI-scribing]]></title>
-        <id>https://www.digitalhealth.net/?p=262667</id>
-        <link href="https://www.digitalhealth.net/2026/04/hertfordshire-community-nhs-trust-to-roll-out-ai-scribing/"/>
-        <updated>2026-04-01T10:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Hertfordshire Community NHS Trust is rolling out ambient voice technology following a pilot in community and mental health services.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE intervenes to delay North Cumbria EPR go-live until May]]></title>
-        <id>https://www.digitalhealth.net/?p=263139</id>
-        <link href="https://www.digitalhealth.net/2026/04/nhse-intervenes-to-delay-north-cumbria-epr-go-live-until-may/"/>
-        <updated>2026-04-01T06:30:53.000Z</updated>
-        <summary type="html"><![CDATA[NHS England has stepped in to delay the go-live of an electronic patient record (EPR) at North Cumbria Integrated Care NHS Foundation Trust.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government considers use of break clause in Palantir NHS contract]]></title>
-        <id>https://www.digitalhealth.net/?p=263047</id>
-        <link href="https://www.digitalhealth.net/2026/03/government-considers-use-of-break-clause-in-palantir-nhs-contract/"/>
-        <updated>2026-03-31T12:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Figures within government are considering triggering a break clause in Palantir’s NHS federated data platform (FDP) contract.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How digital enables neighbourhood health]]></title>
-        <id>https://www.digitalhealth.net/?p=262775</id>
-        <link href="https://www.digitalhealth.net/2026/03/how-digital-enables-neighbourhood-health/"/>
-        <updated>2026-03-31T10:45:23.000Z</updated>
-        <summary type="html"><![CDATA[In this podcast episode at Rewired 2026, Ben Hampshire and Dr Rowan Sil explore how digital can help enables neighbourhood health.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=262697</id>
-        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-153/"/>
-        <updated>2026-03-31T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features AI designed to diagnose childhood sleep apnoea and a multilingual virtual assistant at a Welsh medical centre.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts caution against ‘snake oil’ claims in AI research]]></title>
-        <id>https://www.digitalhealth.net/?p=262613</id>
-        <link href="https://www.digitalhealth.net/2026/03/experts-caution-against-snake-oil-claims-in-ai-research/"/>
-        <updated>2026-03-31T06:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Many big tech firms are over-promising and under-delivering on AI, warned health data experts at Digital Health Rewired.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National NHS chief digital, data and tech officer appointed]]></title>
-        <id>https://www.digitalhealth.net/?p=263007</id>
-        <link href="https://www.digitalhealth.net/2026/03/national-nhs-chief-digital-data-and-tech-officer-appointed/"/>
-        <updated>2026-03-30T12:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Rob Thompson has been appointed chief digital, data and technology officer across the Department of Health and Social Care and NHS England.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheshire trusts optimising shared EPR following go-live]]></title>
-        <id>https://www.digitalhealth.net/?p=262725</id>
-        <link href="https://www.digitalhealth.net/2026/03/cheshire-trusts-optimising-shared-epr-following-go-live/"/>
-        <updated>2026-03-30T10:00:15.000Z</updated>
-        <summary type="html"><![CDATA[East Cheshire NHS Trust and Mid Cheshire Hospitals NHS Foundation Trust are continuing to optimise their shared EPR months after launch.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchester trust to expand use of Microsoft’s AI tools]]></title>
-        <id>https://www.digitalhealth.net/?p=262643</id>
-        <link href="https://www.digitalhealth.net/2026/03/manchester-trust-to-expand-use-of-microsofts-ai-tools/"/>
-        <updated>2026-03-30T06:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Manchester University NHS Foundation Trust (MFT) is expanding the use of AI tools across its workforce in collaboration with Microsoft.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 DMA: Only 30% of trusts with EPRs have integrated data flows]]></title>
-        <id>https://www.digitalhealth.net/?p=262863</id>
-        <link href="https://www.digitalhealth.net/2026/03/2025-dma-only-30-of-trusts-with-eprs-have-integrated-data-flows/"/>
-        <updated>2026-03-27T14:54:31.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Digital Maturity Assessment shows 93% of NHS providers use EPRs but only 30% have fully integrated bi-directional data flows.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid unnecessary piloting of ‘excellent’ tech, says national CNIO]]></title>
-        <id>https://www.digitalhealth.net/?p=262453</id>
-        <link href="https://www.digitalhealth.net/2026/03/avoid-unnecessary-piloting-of-excellent-tech-says-national-cnio/"/>
-        <updated>2026-03-27T13:30:38.000Z</updated>
-        <summary type="html"><![CDATA[The NHS must “accelerate” and scale proven innovations to meet rising demand, Helen Balsdon told Digital Health Rewired.]]></summary>
-        <author>
-            <name>Thelma Agnew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS urged to optimise existing tech before chasing new solutions]]></title>
-        <id>https://www.digitalhealth.net/?p=262473</id>
-        <link href="https://www.digitalhealth.net/2026/03/nhs-urged-to-optimise-existing-tech-before-chasing-new-solutions/"/>
-        <updated>2026-03-27T11:00:40.000Z</updated>
-        <summary type="html"><![CDATA[The chairs of the Digital Health Networks have urged NHS organisations to focus on optimising existing digital tools over chasing new tech.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major genomics data study hits recruitment milestone]]></title>
-        <id>https://www.digitalhealth.net/?p=262547</id>
-        <link href="https://www.digitalhealth.net/2026/03/major-genomics-data-study-hits-recruitment-milestone/"/>
-        <updated>2026-03-27T07:30:23.000Z</updated>
-        <summary type="html"><![CDATA[The Generation Study has recruited half its intended study group, delegates at Digital Health Rewired heard]]></summary>
-        <author>
-            <name>Claire Read</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDP ‘being held back by a lack of clarity from the centre’]]></title>
-        <id>https://www.digitalhealth.net/?p=262347</id>
-        <link href="https://www.digitalhealth.net/2026/03/fdp-being-held-back-by-a-lack-of-clarity-from-the-centre/"/>
-        <updated>2026-03-26T13:30:27.000Z</updated>
-        <summary type="html"><![CDATA[The FDP is delivering benefits but is being held back by a lack of clarity from the centre, speakers at Digital Health Rewired said.]]></summary>
-        <author>
-            <name>Thelma Agnew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=261901</id>
-        <link href="https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-152/"/>
-        <updated>2026-03-26T11:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Today’s briefing includes Microsoft’s rollout of an AI health assistant in the US and a British biotech company raising £3.6m in seed funding]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital health staff will be expected to gain professional registration]]></title>
-        <id>https://www.digitalhealth.net/?p=262519</id>
-        <link href="https://www.digitalhealth.net/2026/03/digital-health-staff-will-be-expected-to-gain-professional-registration/"/>
-        <updated>2026-03-26T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[NHS England is to set an “expectation” that staff working in digital healthcare are members of a professional body and registered with FEDIP.]]></summary>
-        <author>
-            <name>Claire Read</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FemTech startup announced as Rewired Pitchfest 2026 winner]]></title>
-        <id>https://www.digitalhealth.net/?p=261737</id>
-        <link href="https://www.digitalhealth.net/2026/03/daye-announced-as-rewired-pitchfest-2026-winner/"/>
-        <updated>2026-03-26T07:30:23.000Z</updated>
-        <summary type="html"><![CDATA[FemTech firm Daye has been announced as the winner of Digital Health Rewired Pitchfest 2026 following a competitive live final.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS Innovation Accelerator announces 2026 fellows at Rewired]]></title>
-        <id>https://www.digitalhealth.net/?p=260959</id>
-        <link href="https://www.digitalhealth.net/2026/03/nhs-innovation-accelerator-announces-2026-fellows-at-rewired/"/>
-        <updated>2026-03-25T13:30:20.000Z</updated>
-        <summary type="html"><![CDATA[The NHS Innovation Accelerator (NIA) welcomed its latest intake of fellows at a launch event held at Digital Health Rewired 2026.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two thirds of consultants would work for NHS Online, finds survey]]></title>
-        <id>https://www.digitalhealth.net/?p=262403</id>
-        <link href="https://www.digitalhealth.net/2026/03/two-thirds-of-consultants-would-work-for-nhs-online-finds-survey/"/>
-        <updated>2026-03-25T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Almost two thirds of NHS consultants are interested in working for the NHS’s online hospital when it launches next year, a poll found.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS App to move from front door’ to ‘companion’]]></title>
-        <id>https://www.digitalhealth.net/?p=262299</id>
-        <link href="https://www.digitalhealth.net/2026/03/nhs-app-to-move-from-front-door-to-companion/"/>
-        <updated>2026-03-25T07:30:40.000Z</updated>
-        <summary type="html"><![CDATA[The NHS App is set to become a “companion” over the next few years, according to NHS England’s director of digital prevention services.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Fell: Cyber resilience is essential for the NHS shift to digital]]></title>
-        <id>https://www.digitalhealth.net/?p=262317</id>
-        <link href="https://www.digitalhealth.net/2026/03/mike-fell-cyber-resilience-is-essential-for-the-nhs-shift-to-digital/"/>
-        <updated>2026-03-25T07:30:06.000Z</updated>
-        <summary type="html"><![CDATA[The health service cannot achieve the shift from 'analogue to digital' without cyber resilience, said NHSE's cyber chief.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under 50% of NHS staff receive basic EPR training]]></title>
-        <id>https://www.digitalhealth.net/?p=262377</id>
-        <link href="https://www.digitalhealth.net/2026/03/under-50-of-nhs-staff-receive-basic-epr-training/"/>
-        <updated>2026-03-25T06:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Around half of NHS staff using an electronic patient record system (EPR) received training on how to use it for their role, a survey found.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
         </author>
     </entry>
     <entry>

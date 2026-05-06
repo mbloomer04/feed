@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8124df48-d0c2-494a-9c87-e604f2f3a751",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n Updated: 06 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4777",
+          "publishedOn": "2026-05-06T12:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4777 - Palo Alto Networks Releases Security Advisory for Critical Vulnerability in PAN‑OS",
+          "imageUrl": null
+        },
+        {
           "id": "eef1c9ea-044f-438a-8188-52d330528051",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-31431 (dubbed \"Copy Fail\") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.\n CVE-2026-31431 (dubbed \"Copy Fail\") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.\n Updated: 30 Apr 2026",
@@ -1218,6 +1228,16 @@
           "wordCount": 732,
           "title": "NICE appoints GP as new chief medical officer",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/AdrianHayter_NICE.jpeg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1957150",
+          "author": null,
+          "description": "PCNs face tough choices over additional roles reimbursement scheme (ARRS) staff in 2026/27 because a £55m funding uplift does not cover rising costs in full or deliver extra funding to hire experienced GPs.",
+          "link": "https://www.gponline.com/below-par-arrs-uplift-adds-pressure-gp-funding/article/1957150",
+          "publishedOn": "2026-05-06T09:05:29.000Z",
+          "wordCount": 750,
+          "title": "Below-par ARRS uplift adds to pressure on GP funding",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/money_GettyImages-BloombergCreative_RF.jpg"
         },
         {
           "id": "https://www.gponline.com/article/1956967",
@@ -2770,6 +2790,106 @@
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
         {
+          "id": "https://www.digitalhealth.net/?p=269571",
+          "author": "Jordan Sollof",
+          "description": "Bradford Teaching Hospitals NHS Foundation Trust has begun using AI with the aim of detecting skin cancer earlier.",
+          "link": "https://www.digitalhealth.net/2026/05/bradford-teaching-hospitals-uses-ai-to-detect-skin-cancer-faster/",
+          "publishedOn": "2026-05-06T06:30:20.000Z",
+          "wordCount": 4488,
+          "title": "Bradford Teaching Hospitals uses AI to detect skin cancer faster",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Zakir-Shariff-Bradford-Teaching-Hospitals.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=269153",
+          "author": "Samuel Webb",
+          "description": "Lincolnshire Partnership NHS Foundation Trust has selected the Portasana Patient Engagement Platform (PEP) to improve digital access.",
+          "link": "https://www.digitalhealth.net/2026/05/lincolnshire-partnership-chooses-portasana-pep/",
+          "publishedOn": "2026-05-05T12:30:13.000Z",
+          "wordCount": 4223,
+          "title": "Lincolnshire Partnership chooses Portasana PEP",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Simon-Kelshaw.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=268973",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a project to bring telehealth to an island with no GP and software for AI-assisted colonoscopies.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-163/",
+          "publishedOn": "2026-05-05T10:30:11.000Z",
+          "wordCount": 4448,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=269741",
+          "author": "Jordan Sollof",
+          "description": "NHS England is temporarily restricting access to its open source code to strengthen security amid concerns about the impact of AI models.",
+          "link": "https://www.digitalhealth.net/2026/05/nhse-to-move-away-from-open-source-over-ai-security-concerns/",
+          "publishedOn": "2026-05-05T06:30:32.000Z",
+          "wordCount": 4585,
+          "title": "NHSE to move away from open source over AI security concerns",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/shutterstock_642071587-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=269179",
+          "author": "Jordan Sollof",
+          "description": "Outdated and poorly connected IT systems are increasing GP workload pressures, a Royal College of General Practitioners report has found.",
+          "link": "https://www.digitalhealth.net/2026/05/outdated-it-systems-increasing-gp-workload-rcgp-finds/",
+          "publishedOn": "2026-05-01T12:30:55.000Z",
+          "wordCount": 4558,
+          "title": "Outdated IT systems increasing GP workload, RCGP finds",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/03/Professor-Victoria-Tzortziou-Brown-RCGP.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=269111",
+          "author": "Samuel Webb",
+          "description": "System C has announced that its AI-powered FormFlow Assistant has been deployed across 15 local authorities.",
+          "link": "https://www.digitalhealth.net/2026/05/ai-documentation-tool-creates-40-more-assessment-capacity/",
+          "publishedOn": "2026-05-01T06:30:47.000Z",
+          "wordCount": 4333,
+          "title": "AI documentation tool creates 40% more assessment capacity",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/Amrik-Johal-System-C.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=268557",
+          "author": "Jordan Sollof",
+          "description": "Digital Health has published a ‘first look’ at this year’s Summer Schools programme, which takes place on 16-17 July in Nottingham.",
+          "link": "https://www.digitalhealth.net/2026/04/first-look-at-digital-health-summer-schools-2026-programme/",
+          "publishedOn": "2026-04-30T12:30:49.000Z",
+          "wordCount": 4452,
+          "title": "First look at Digital Health Summer Schools 2026 programme",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/04/Summer-Schools-2026-first-look.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=265387",
+          "author": "Samuel Webb",
+          "description": "Today's briefing includes cyberattacks on Ukraine's hospitals and tech that stops organs getting damaged in transit.",
+          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-162/",
+          "publishedOn": "2026-04-30T10:30:12.000Z",
+          "wordCount": 4490,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=268461",
+          "author": "Jordan Sollof",
+          "description": "Patient call wait times at University Hospitals Sussex have been cut by up to 90% since the implementation of AI technology from Netcall.",
+          "link": "https://www.digitalhealth.net/2026/04/ai-cuts-patient-call-wait-times-by-up-to-90-at-uhsussex/",
+          "publishedOn": "2026-04-30T06:30:13.000Z",
+          "wordCount": 4603,
+          "title": "AI cuts patient call wait times by up to 90% at UHSussex",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/04/Southlands-Hospital-sign-UHSussex.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=267425",
+          "author": "Jordan Sollof",
+          "description": "The NHS is planning to ramp up the use of AI tools through the FDP, including products to support theatre scheduling, triage and discharge.",
+          "link": "https://www.digitalhealth.net/2026/04/fdp-to-ramp-up-ai-use-with-scheduling-triage-and-discharge-tools/",
+          "publishedOn": "2026-04-29T12:30:01.000Z",
+          "wordCount": 4642,
+          "title": "NHS to expand AI use through federated data platform",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/Ming-Tang-1.jpg"
+        },
+        {
           "id": "https://www.digitalhealth.net/?p=265059",
           "author": "Jordan Sollof",
           "description": "GP practices in the South East of England are experiencing network outages, affecting internet connectivity and access to clinical systems.",
@@ -3177,276 +3297,6 @@
           "publishedOn": "2026-04-07T06:30:29.000Z",
           "wordCount": null,
           "title": "Royal Surrey NHS Foundation Trust deploys ophthalmology EPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262037",
-          "author": "Jordan Sollof",
-          "description": "Leeds Teaching Hospitals NHS Trust has been awarded £1.5m to advance research and streamline the delivery of clinical trials.",
-          "link": "https://www.digitalhealth.net/2026/04/leeds-teaching-hospitals-secures-1-5m-for-cancer-research/",
-          "publishedOn": "2026-04-02T12:30:08.000Z",
-          "wordCount": null,
-          "title": "Leeds Teaching Hospitals secures £1.5m to boost research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262739",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features a free digital platform built for unpaid carers in the UK and an AI-enabled platform for eating disorder services.",
-          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-154/",
-          "publishedOn": "2026-04-02T10:30:23.000Z",
-          "wordCount": null,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263303",
-          "author": "Jordan Sollof",
-          "description": "NHS England has published new guidance on the use of AI-powered ambient scribing tools in health and care settings.",
-          "link": "https://www.digitalhealth.net/2026/04/nhse-publishes-fresh-guidance-on-safe-use-of-ambient-scribes/",
-          "publishedOn": "2026-04-02T10:00:23.000Z",
-          "wordCount": null,
-          "title": "NHSE publishes fresh guidance on safe use of ambient scribes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263269",
-          "author": "Jordan Sollof",
-          "description": "Torbay and South Devon NHS Foundation Trust is rolling out an Epic electronic patient record (EPR) this week.",
-          "link": "https://www.digitalhealth.net/2026/04/torbay-and-south-devon-on-verge-of-epic-epr-go-live/",
-          "publishedOn": "2026-04-02T06:30:43.000Z",
-          "wordCount": null,
-          "title": "Torbay and South Devon on verge of Epic EPR go-live",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263085",
-          "author": "Thelma Agnew",
-          "description": "Digital leaders have called for a more “brave” and “honest” approach to the barriers that prevent scaling of technologies.",
-          "link": "https://www.digitalhealth.net/2026/04/nhs-must-stop-making-life-difficult-for-innovators/",
-          "publishedOn": "2026-04-01T12:30:27.000Z",
-          "wordCount": null,
-          "title": "NHS must stop making life ‘difficult for innovators’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262667",
-          "author": "Tammy Lovell",
-          "description": "Hertfordshire Community NHS Trust is rolling out ambient voice technology following a pilot in community and mental health services.",
-          "link": "https://www.digitalhealth.net/2026/04/hertfordshire-community-nhs-trust-to-roll-out-ai-scribing/",
-          "publishedOn": "2026-04-01T10:00:48.000Z",
-          "wordCount": null,
-          "title": "Hertfordshire Community NHS Trust to roll out AI-scribing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263139",
-          "author": "Jordan Sollof",
-          "description": "NHS England has stepped in to delay the go-live of an electronic patient record (EPR) at North Cumbria Integrated Care NHS Foundation Trust.",
-          "link": "https://www.digitalhealth.net/2026/04/nhse-intervenes-to-delay-north-cumbria-epr-go-live-until-may/",
-          "publishedOn": "2026-04-01T06:30:53.000Z",
-          "wordCount": null,
-          "title": "NHSE intervenes to delay North Cumbria EPR go-live until May",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263047",
-          "author": "Jordan Sollof",
-          "description": "Figures within government are considering triggering a break clause in Palantir’s NHS federated data platform (FDP) contract.",
-          "link": "https://www.digitalhealth.net/2026/03/government-considers-use-of-break-clause-in-palantir-nhs-contract/",
-          "publishedOn": "2026-03-31T12:30:54.000Z",
-          "wordCount": null,
-          "title": "Government considers use of break clause in Palantir NHS contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262775",
-          "author": "Jordan Sollof",
-          "description": "In this podcast episode at Rewired 2026, Ben Hampshire and Dr Rowan Sil explore how digital can help enables neighbourhood health.",
-          "link": "https://www.digitalhealth.net/2026/03/how-digital-enables-neighbourhood-health/",
-          "publishedOn": "2026-03-31T10:45:23.000Z",
-          "wordCount": null,
-          "title": "How digital enables neighbourhood health",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262697",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features AI designed to diagnose childhood sleep apnoea and a multilingual virtual assistant at a Welsh medical centre.",
-          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-153/",
-          "publishedOn": "2026-03-31T10:30:26.000Z",
-          "wordCount": null,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262613",
-          "author": "Samuel Webb",
-          "description": "Many big tech firms are over-promising and under-delivering on AI, warned health data experts at Digital Health Rewired.",
-          "link": "https://www.digitalhealth.net/2026/03/experts-caution-against-snake-oil-claims-in-ai-research/",
-          "publishedOn": "2026-03-31T06:30:33.000Z",
-          "wordCount": null,
-          "title": "Experts caution against ‘snake oil’ claims in AI research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263007",
-          "author": "Jordan Sollof",
-          "description": "Rob Thompson has been appointed chief digital, data and technology officer across the Department of Health and Social Care and NHS England.",
-          "link": "https://www.digitalhealth.net/2026/03/national-nhs-chief-digital-data-and-tech-officer-appointed/",
-          "publishedOn": "2026-03-30T12:30:50.000Z",
-          "wordCount": null,
-          "title": "National NHS chief digital, data and tech officer appointed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262725",
-          "author": "Jordan Sollof",
-          "description": "East Cheshire NHS Trust and Mid Cheshire Hospitals NHS Foundation Trust are continuing to optimise their shared EPR months after launch.",
-          "link": "https://www.digitalhealth.net/2026/03/cheshire-trusts-optimising-shared-epr-following-go-live/",
-          "publishedOn": "2026-03-30T10:00:15.000Z",
-          "wordCount": null,
-          "title": "Cheshire trusts optimising shared EPR following go-live",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262643",
-          "author": "Jordan Sollof",
-          "description": "Manchester University NHS Foundation Trust (MFT) is expanding the use of AI tools across its workforce in collaboration with Microsoft.",
-          "link": "https://www.digitalhealth.net/2026/03/manchester-trust-to-expand-use-of-microsofts-ai-tools/",
-          "publishedOn": "2026-03-30T06:30:32.000Z",
-          "wordCount": null,
-          "title": "Manchester trust to expand use of Microsoft’s AI tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262863",
-          "author": "Jordan Sollof",
-          "description": "The 2025 Digital Maturity Assessment shows 93% of NHS providers use EPRs but only 30% have fully integrated bi-directional data flows.",
-          "link": "https://www.digitalhealth.net/2026/03/2025-dma-only-30-of-trusts-with-eprs-have-integrated-data-flows/",
-          "publishedOn": "2026-03-27T14:54:31.000Z",
-          "wordCount": null,
-          "title": "2025 DMA: Only 30% of trusts with EPRs have integrated data flows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262453",
-          "author": "Thelma Agnew",
-          "description": "The NHS must “accelerate” and scale proven innovations to meet rising demand, Helen Balsdon told Digital Health Rewired.",
-          "link": "https://www.digitalhealth.net/2026/03/avoid-unnecessary-piloting-of-excellent-tech-says-national-cnio/",
-          "publishedOn": "2026-03-27T13:30:38.000Z",
-          "wordCount": null,
-          "title": "Avoid unnecessary piloting of ‘excellent’ tech, says national CNIO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262473",
-          "author": "Jordan Sollof",
-          "description": "The chairs of the Digital Health Networks have urged NHS organisations to focus on optimising existing digital tools over chasing new tech.",
-          "link": "https://www.digitalhealth.net/2026/03/nhs-urged-to-optimise-existing-tech-before-chasing-new-solutions/",
-          "publishedOn": "2026-03-27T11:00:40.000Z",
-          "wordCount": null,
-          "title": "NHS urged to optimise existing tech before chasing new solutions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262547",
-          "author": "Claire Read",
-          "description": "The Generation Study has recruited half its intended study group, delegates at Digital Health Rewired heard",
-          "link": "https://www.digitalhealth.net/2026/03/major-genomics-data-study-hits-recruitment-milestone/",
-          "publishedOn": "2026-03-27T07:30:23.000Z",
-          "wordCount": null,
-          "title": "Major genomics data study hits recruitment milestone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262347",
-          "author": "Thelma Agnew",
-          "description": "The FDP is delivering benefits but is being held back by a lack of clarity from the centre, speakers at Digital Health Rewired said.",
-          "link": "https://www.digitalhealth.net/2026/03/fdp-being-held-back-by-a-lack-of-clarity-from-the-centre/",
-          "publishedOn": "2026-03-26T13:30:27.000Z",
-          "wordCount": null,
-          "title": "FDP ‘being held back by a lack of clarity from the centre’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=261901",
-          "author": "Samuel Webb",
-          "description": "Today’s briefing includes Microsoft’s rollout of an AI health assistant in the US and a British biotech company raising £3.6m in seed funding",
-          "link": "https://www.digitalhealth.net/2026/03/digital-health-coffee-time-briefing-%e2%98%95-152/",
-          "publishedOn": "2026-03-26T11:30:36.000Z",
-          "wordCount": null,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262519",
-          "author": "Claire Read",
-          "description": "NHS England is to set an “expectation” that staff working in digital healthcare are members of a professional body and registered with FEDIP.",
-          "link": "https://www.digitalhealth.net/2026/03/digital-health-staff-will-be-expected-to-gain-professional-registration/",
-          "publishedOn": "2026-03-26T11:00:04.000Z",
-          "wordCount": null,
-          "title": "Digital health staff will be expected to gain professional registration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=261737",
-          "author": "Jordan Sollof",
-          "description": "FemTech firm Daye has been announced as the winner of Digital Health Rewired Pitchfest 2026 following a competitive live final.",
-          "link": "https://www.digitalhealth.net/2026/03/daye-announced-as-rewired-pitchfest-2026-winner/",
-          "publishedOn": "2026-03-26T07:30:23.000Z",
-          "wordCount": null,
-          "title": "FemTech startup announced as Rewired Pitchfest 2026 winner",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=260959",
-          "author": "Tammy Lovell",
-          "description": "The NHS Innovation Accelerator (NIA) welcomed its latest intake of fellows at a launch event held at Digital Health Rewired 2026.",
-          "link": "https://www.digitalhealth.net/2026/03/nhs-innovation-accelerator-announces-2026-fellows-at-rewired/",
-          "publishedOn": "2026-03-25T13:30:20.000Z",
-          "wordCount": null,
-          "title": "NHS Innovation Accelerator announces 2026 fellows at Rewired",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262403",
-          "author": "Tammy Lovell",
-          "description": "Almost two thirds of NHS consultants are interested in working for the NHS’s online hospital when it launches next year, a poll found.",
-          "link": "https://www.digitalhealth.net/2026/03/two-thirds-of-consultants-would-work-for-nhs-online-finds-survey/",
-          "publishedOn": "2026-03-25T11:00:58.000Z",
-          "wordCount": null,
-          "title": "Two thirds of consultants would work for NHS Online, finds survey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262299",
-          "author": "Tammy Lovell",
-          "description": "The NHS App is set to become a “companion” over the next few years, according to NHS England’s director of digital prevention services.",
-          "link": "https://www.digitalhealth.net/2026/03/nhs-app-to-move-from-front-door-to-companion/",
-          "publishedOn": "2026-03-25T07:30:40.000Z",
-          "wordCount": null,
-          "title": "NHS App to move from front door’ to ‘companion’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262317",
-          "author": "Samuel Webb",
-          "description": "The health service cannot achieve the shift from 'analogue to digital' without cyber resilience, said NHSE's cyber chief.",
-          "link": "https://www.digitalhealth.net/2026/03/mike-fell-cyber-resilience-is-essential-for-the-nhs-shift-to-digital/",
-          "publishedOn": "2026-03-25T07:30:06.000Z",
-          "wordCount": null,
-          "title": "Mike Fell: Cyber resilience is essential for the NHS shift to digital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=262377",
-          "author": "Tammy Lovell",
-          "description": "Around half of NHS staff using an electronic patient record system (EPR) received training on how to use it for their role, a survey found.",
-          "link": "https://www.digitalhealth.net/2026/03/under-50-of-nhs-staff-receive-basic-epr-training/",
-          "publishedOn": "2026-03-25T06:00:10.000Z",
-          "wordCount": null,
-          "title": "Under 50% of NHS staff receive basic EPR training",
           "imageUrl": null
         }
       ]
