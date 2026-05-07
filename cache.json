@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1957307",
+          "author": null,
+          "description": "General practice needs 'more GPs, not targets', the RCGP has warned - amid reports that the government has set an ambitious new goal on access.",
+          "link": "https://www.gponline.com/gp-capacity-fears-government-eyes-new-access-target/article/1957307",
+          "publishedOn": "2026-05-07T08:52:05.000Z",
+          "wordCount": 726,
+          "title": "GP capacity fears as government eyes new access target",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/VictoriaT-Bcouncilmeeting_2.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1956846",
           "author": null,
           "description": "Some ICBs could deliver neighbourhood plans entirely through local variation to the network contract DES and other existing NHS arrangements - meaning contracts for multi- and single-neighbourhood providers (MNPs and SNPs) may be redundant in parts of England before they are even published.",
@@ -2739,6 +2749,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=269045",
+          "author": "Samuel Webb",
+          "description": "This week's briefing features Holland & Barrett's partnership with Phlo and an awards nod for a wound assessment app.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-164/",
+          "publishedOn": "2026-05-07T10:30:49.000Z",
+          "wordCount": 4519,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=272035",
           "author": "Jordan Sollof",
