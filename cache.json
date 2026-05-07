@@ -2731,16 +2731,6 @@
           "wordCount": 2441,
           "title": "First-ever WHO Forum unites 800+ Collaborating Centres for stronger scientific collaboration",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/environment-climate-change-and-health-(ech)/_1lc3758.tmb-1200v.jpg?sfvrsn=7d0b6bb8_1"
-        },
-        {
-          "id": "urn:uuid:67b4687b-4374-4a07-a3cd-6e72c889ba75",
-          "author": null,
-          "description": "The World Health Organization (WHO) and France hosted the One Health Summit on World Health Day 2026, announcing new initiatives to protect human, animal, and environmental health through the One Health approach. The Summit highlighted urgent global challenges such as climate change, zoonotic diseases, and health inequities, aiming to prevent future health crises by fostering cross-sector collaboration and scientific guidance.",
-          "link": "https://www.who.int/news/item/07-04-2026-who-and-france-shift-one-health-vision-to-action-with-new-high-impact-initiatives",
-          "publishedOn": "2026-04-07T19:02:21.000Z",
-          "wordCount": 3390,
-          "title": "WHO and France shift One Health vision to action with new high-impact initiatives",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/people-and-partners/directors-general/tedros-adhanom-ghebreyesus/who-director-general-with-president-macron-one-health-summit-april-2026.tmb-1200v.jpg?sfvrsn=94cdb4d_1"
         }
       ]
     },
@@ -2749,6 +2739,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=272035",
+          "author": "Jordan Sollof",
+          "description": "French HealthTech firm Doctolib has acquired Medicus, aiming to bring improved technology, AI and services to GP practices across the UK.",
+          "link": "https://www.digitalhealth.net/2026/05/french-firm-doctolib-acquires-gp-it-supplier-medicus/",
+          "publishedOn": "2026-05-07T06:30:51.000Z",
+          "wordCount": 6559,
+          "title": "French firm Doctolib acquires GP IT supplier Medicus",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Doctolib-and-Medicus-CEOs.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=269803",
           "author": "Jordan Sollof",
