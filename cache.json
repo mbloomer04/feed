@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1f290002-6a72-41ba-a70d-88f08bf879e9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n Updated: 07 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4778",
+          "publishedOn": "2026-05-07T13:38:00.000Z",
+          "wordCount": null,
+          "title": "CC-4778 - Apache Releases Security Update for Apache HTTP Server (HTTP/2)",
+          "imageUrl": null
+        },
+        {
           "id": "8124df48-d0c2-494a-9c87-e604f2f3a751",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n Updated: 06 May 2026",
@@ -2749,6 +2759,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=271973",
+          "author": "Jordan Sollof",
+          "description": "Research suggests older people are being excluded from GP services due to the shift towards digital-first booking systems.",
+          "link": "https://www.digitalhealth.net/2026/05/older-people-isolated-due-to-online-gp-bookings-push-survey-finds/",
+          "publishedOn": "2026-05-07T12:30:14.000Z",
+          "wordCount": 6550,
+          "title": "GP online bookings causing isolation for older people, finds study",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Old-woman-using-digital-tablet.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=269045",
           "author": "Samuel Webb",
