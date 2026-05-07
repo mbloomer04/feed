@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-07T16:00:31.243Z</updated>
+    <updated>2026-05-07T18:17:06.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Special Report: The vision for neighbourhood health - and what it means for primary care]]></title>
+        <id>https://www.gponline.com/article/1957397</id>
+        <link href="https://www.gponline.com/special-report-vision-neighbourhood-health-means-primary-care/article/1957397"/>
+        <updated>2026-05-07T15:28:20.000Z</updated>
+        <summary type="html"><![CDATA[In our latest in-depth report on the future of the NHS, the MIMS Healthcare Network examines the government's new guidance on the development of neighbourhood health centres and how they will change primary care.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4778 - Apache Releases Security Update for Apache HTTP Server (HTTP/2)]]></title>
         <id>1f290002-6a72-41ba-a70d-88f08bf879e9</id>
