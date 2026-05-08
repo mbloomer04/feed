@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-08T11:04:16.750Z</updated>
+    <updated>2026-05-08T13:12:49.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4779 - Proof-of-Concept Exploit Released for Vulnerabilities in the Linux Kernel]]></title>
+        <id>5ddfdae7-51c8-44c0-a7d7-c70c4a058c42</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4779"/>
+        <updated>2026-05-08T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as "Dirty Frag"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions
+ CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as "Dirty Frag"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions
+ Updated: 08 May 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App helps more than 260 cardiac arrest witnesses in Essex]]></title>
+        <id>https://www.digitalhealth.net/?p=272689</id>
+        <link href="https://www.digitalhealth.net/2026/05/app-helps-more-than-260-cardiac-arrest-witnesses-in-essex/"/>
+        <updated>2026-05-08T12:30:34.000Z</updated>
+        <summary type="html"><![CDATA[An Essex support service, which includes an app, has helped more than 260 bystanders who saw over 200 out of hospital cardiac arrests (OHCA).]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midlands hospital uses endoscopy tech to examine small bowel]]></title>
         <id>https://www.digitalhealth.net/?p=272611</id>

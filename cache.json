@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5ddfdae7-51c8-44c0-a7d7-c70c4a058c42",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as \"Dirty Frag\"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions\n CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as \"Dirty Frag\"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions\n Updated: 08 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4779",
+          "publishedOn": "2026-05-08T12:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4779 - Proof-of-Concept Exploit Released for Vulnerabilities in the Linux Kernel",
+          "imageUrl": null
+        },
+        {
           "id": "1f290002-6a72-41ba-a70d-88f08bf879e9",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n Updated: 07 May 2026",
@@ -2728,6 +2738,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=272689",
+          "author": "Samuel Webb",
+          "description": "An Essex support service, which includes an app, has helped more than 260 bystanders who saw over 200 out of hospital cardiac arrests (OHCA).",
+          "link": "https://www.digitalhealth.net/2026/05/app-helps-more-than-260-cardiac-arrest-witnesses-in-essex/",
+          "publishedOn": "2026-05-08T12:30:34.000Z",
+          "wordCount": 6577,
+          "title": "App helps more than 260 cardiac arrest witnesses in Essex",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/New-Project.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=272611",
           "author": "Jordan Sollof",
