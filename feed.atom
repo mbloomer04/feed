@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-08T09:07:17.469Z</updated>
+    <updated>2026-05-08T11:04:16.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midlands hospital uses endoscopy tech to examine small bowel]]></title>
+        <id>https://www.digitalhealth.net/?p=272611</id>
+        <link href="https://www.digitalhealth.net/2026/05/midlands-hospital-uses-endoscopy-tech-to-examine-small-bowel/"/>
+        <updated>2026-05-08T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[University Hospitals Birmingham NHS Foundation Trust (UHB) has begun using capsule endoscopy technology to examine the small bowel.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhoods need longer-term funding guarantees]]></title>
+        <id>https://www.gponline.com/article/1957458</id>
+        <link href="https://www.gponline.com/neighbourhoods-need-longer-term-funding-guarantees/article/1957458"/>
+        <updated>2026-05-08T08:46:34.000Z</updated>
+        <summary type="html"><![CDATA[GP practices and PCNs need longer-term contracts, with guaranteed annual uplifts to cover rising costs, if they are to deliver more hospital services in the community, a GP who has pioneered the 'left shift' of services has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
         <id>https://www.digitalhealth.net/?p=272145</id>
