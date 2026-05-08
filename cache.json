@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f1cc3c32-22c8-490c-8b52-48d582fce85f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Updated: 08 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4780",
+          "publishedOn": "2026-05-08T14:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4780 - Ivanti Releases Security Updates for High‑Severity Vulnerabilities in Endpoint Manager Mobile (EPMM)",
+          "imageUrl": null
+        },
+        {
           "id": "5ddfdae7-51c8-44c0-a7d7-c70c4a058c42",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as \"Dirty Frag\"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions\n CVE‑2026‑43284 and CVE‑2026‑43500 (dubbed as \"Dirty Frag\"), when chained together, could allow an unprivileged attacker to achieve root privileges on Linux distributions\n Updated: 08 May 2026",
@@ -1847,6 +1857,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-giving-consent-for-information-sharing",
+          "author": null,
+          "description": "Guidance for individuals giving consent for information on their care and treatment to be shared with a third party.",
+          "link": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-giving-consent-for-information-sharing",
+          "publishedOn": "2026-05-08T13:28:19.000Z",
+          "wordCount": 875,
+          "title": "Guidance: NHS continuing healthcare: giving consent for information-sharing",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-consent-form-for-sharing-information",
+          "author": null,
+          "description": "A form to be completed by a responsible professional who is obtaining consent for sharing information, with guidance on how to complete it.",
+          "link": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-consent-form-for-sharing-information",
+          "publishedOn": "2026-05-08T13:28:13.000Z",
+          "wordCount": 1097,
+          "title": "Form: NHS continuing healthcare: consent form for sharing information",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
           "author": null,

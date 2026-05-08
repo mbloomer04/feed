@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-08T13:12:49.980Z</updated>
+    <updated>2026-05-08T15:14:18.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4780 - Ivanti Releases Security Updates for High‑Severity Vulnerabilities in Endpoint Manager Mobile (EPMM)]]></title>
+        <id>f1cc3c32-22c8-490c-8b52-48d582fce85f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4780"/>
+        <updated>2026-05-08T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code
+ Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code
+ Updated: 08 May 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: NHS continuing healthcare: giving consent for information-sharing]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-continuing-healthcare-giving-consent-for-information-sharing</id>
+        <link href="https://www.gov.uk/government/publications/nhs-continuing-healthcare-giving-consent-for-information-sharing"/>
+        <updated>2026-05-08T13:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for individuals giving consent for information on their care and treatment to be shared with a third party.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Form: NHS continuing healthcare: consent form for sharing information]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-continuing-healthcare-consent-form-for-sharing-information</id>
+        <link href="https://www.gov.uk/government/publications/nhs-continuing-healthcare-consent-form-for-sharing-information"/>
+        <updated>2026-05-08T13:28:13.000Z</updated>
+        <summary type="html"><![CDATA[A form to be completed by a responsible professional who is obtaining consent for sharing information, with guidance on how to complete it.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4779 - Proof-of-Concept Exploit Released for Vulnerabilities in the Linux Kernel]]></title>
         <id>5ddfdae7-51c8-44c0-a7d7-c70c4a058c42</id>
