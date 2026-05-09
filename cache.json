@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4769 - Adobe Releases Security Update to Address a Vulnerability in Acrobat and Reader",
           "imageUrl": null
-        },
-        {
-          "id": "0860387a-08f8-48b5-a8ad-3faeeab62225",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n A critical SQL injection vulnerability could allow a remote unauthenticated attacker to access system information and execute arbitrary SQL database commands\n A critical SQL injection vulnerability could allow a remote unauthenticated attacker to access system information and execute arbitrary SQL database commands\n Updated: 09 Apr 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4768",
-          "publishedOn": "2026-04-09T12:20:00.000Z",
-          "wordCount": null,
-          "title": "CC-4768 - Mitel Releases Security Advisory for MiCollab",
-          "imageUrl": null
         }
       ]
     },
@@ -3226,16 +3216,6 @@
           "publishedOn": "2026-04-10T06:30:14.000Z",
           "wordCount": null,
           "title": "Movers and Shakers news roundup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=263798",
-          "author": "Jordan Sollof",
-          "description": "Concerns are being raised by NHS staff that engineers working for US software firm Palantir have been issued NHS email accounts.",
-          "link": "https://www.digitalhealth.net/2026/04/palantir-staff-being-issued-nhs-email-accounts-sparks-concerns/",
-          "publishedOn": "2026-04-09T12:38:58.000Z",
-          "wordCount": null,
-          "title": "Palantir staff being issued NHS email accounts sparks concerns",
           "imageUrl": null
         }
       ]
