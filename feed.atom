@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-09T15:42:32.571Z</updated>
+    <updated>2026-05-09T16:42:46.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response]]></title>
+        <id>urn:uuid:786b32c2-0fe6-4232-bd27-e76f48537410</id>
+        <link href="https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response"/>
+        <updated>2026-05-09T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[To the people of Tenerife,
+My name is Tedros, and I serve as the Director-General of the World Health Organization, the United Nations agency responsible for global public health. It is not common for me to write directly to the people of a single community, but today I feel it is not only appropriate, it is necessary.
+I want to speak to you directly, not through press releases or technical briefings, but as one human being to another, because you deserve that.
+I know you are worried. I know that when you hear the word “outbreak” and watch a ship sail toward your shores, memories surface that none of us have fully put to rest. The pain of 2020 is still real, and I do not dismiss it for a single moment.
+But I need you to hear me clearly: this is not another COVID. The current public health …]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4780 - Ivanti Releases Security Updates for High‑Severity Vulnerabilities in Endpoint Manager Mobile (EPMM)]]></title>
         <id>f1cc3c32-22c8-490c-8b52-48d582fce85f</id>
