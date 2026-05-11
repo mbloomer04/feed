@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-11T10:29:39.044Z</updated>
+    <updated>2026-05-11T13:39:14.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palantir to be granted ‘unlimited access’ to NHS patient data]]></title>
+        <id>https://www.digitalhealth.net/?p=274609</id>
+        <link href="https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/"/>
+        <updated>2026-05-11T12:30:15.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP IT supplier Optum acquired by US equity firm TPG]]></title>
         <id>https://www.digitalhealth.net/?p=274557</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Optum UK, the UnitedHealth Group subsidiary that owns EMIS, has been acquired by US private equity firm TPG.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA lays out collective action roadmap and escalation plan]]></title>
+        <id>https://www.gponline.com/article/1957696</id>
+        <link href="https://www.gponline.com/bma-lays-collective-action-roadmap-escalation-plan/article/1957696"/>
+        <updated>2026-05-11T09:59:31.000Z</updated>
+        <summary type="html"><![CDATA[BMA GP leaders have set out advice for practices on implementing collective action and plans to 'up the ante' from next month, framing the measures as a direct challenge to government proposals expected in this week's King's Speech.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1957696",
+          "author": null,
+          "description": "BMA GP leaders have set out advice for practices on implementing collective action and plans to 'up the ante' from next month, framing the measures as a direct challenge to government proposals expected in this week's King's Speech.",
+          "link": "https://www.gponline.com/bma-lays-collective-action-roadmap-escalation-plan/article/1957696",
+          "publishedOn": "2026-05-11T09:59:31.000Z",
+          "wordCount": 755,
+          "title": "BMA lays out collective action roadmap and escalation plan",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_25.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1957664",
           "author": null,
           "description": "PCNs should refuse to take part in any local variations to the network contract DES unless any additional work they are asked to undertake is properly resourced, the BMA has said.",
@@ -2718,6 +2728,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=274609",
+          "author": "Jordan Sollof",
+          "description": "The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.",
+          "link": "https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/",
+          "publishedOn": "2026-05-11T12:30:15.000Z",
+          "wordCount": 6628,
+          "title": "Palantir to be granted ‘unlimited access’ to NHS patient data",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/shutterstock_2514395777-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=274557",
           "author": "Jordan Sollof",
