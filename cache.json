@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1957664",
+          "author": null,
+          "description": "PCNs should refuse to take part in any local variations to the network contract DES unless any additional work they are asked to undertake is properly resourced, the BMA has said.",
+          "link": "https://www.gponline.com/pcns-refuse-contract-variations-work-not-properly-funded-says-bma/article/1957664",
+          "publishedOn": "2026-05-11T08:59:12.000Z",
+          "wordCount": 763,
+          "title": "PCNs should refuse contract variations if work is not properly funded, says BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2224111954-ezgif.com-optijpeg.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1957535",
           "author": null,
           "description": "Most locum GPs are not confident turning down low-paid shifts and have faced pressure to work beyond terms they have agreed, a sessional GP organisation has warned.",
@@ -1818,6 +1828,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-may-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-may-2026",
+          "publishedOn": "2026-05-11T08:44:57.000Z",
+          "wordCount": 670,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-april-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-april-2026",
+          "publishedOn": "2026-05-11T08:43:23.000Z",
+          "wordCount": 670,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to April 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-giving-consent-for-information-sharing",
           "author": null,
           "description": "Guidance for individuals giving consent for information on their care and treatment to be shared with a third party.",
@@ -2356,16 +2386,6 @@
           "wordCount": 795,
           "title": "Correspondence: Letter to the BMA resident doctors committee",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nhs-experts-deployed-to-tackle-corridor-care",
-          "author": null,
-          "description": "NHS deploys specialist teams and expands urgent care services to tackle corridor care, cut waits and ease A&E pressure, targeting worst-affected trusts.",
-          "link": "https://www.gov.uk/government/news/nhs-experts-deployed-to-tackle-corridor-care",
-          "publishedOn": "2026-04-11T21:30:07.000Z",
-          "wordCount": 4558,
-          "title": "NHS experts deployed to tackle corridor care",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2698,6 +2718,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=274557",
+          "author": "Jordan Sollof",
+          "description": "Optum UK, the UnitedHealth Group subsidiary that owns EMIS, has been acquired by US private equity firm TPG.",
+          "link": "https://www.digitalhealth.net/2026/05/gp-it-supplier-optum-acquired-by-us-equity-firm-tpg/",
+          "publishedOn": "2026-05-11T10:00:00.000Z",
+          "wordCount": 4383,
+          "title": "GP IT supplier Optum acquired by US equity firm TPG",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/acquisition.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=272751",
+          "author": "Samuel Webb",
+          "description": "AI software that helps cardiologists make quicker and more accurate decisions has been rolled out at King’s College Hospital.",
+          "link": "https://www.digitalhealth.net/2026/05/kings-college-hospital-rolls-out-ai-to-enhance-cardiac-care/",
+          "publishedOn": "2026-05-11T06:30:14.000Z",
+          "wordCount": 6407,
+          "title": "King’s College rolls out AI to enhance cardiac care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Kings-College-Hospital-cardiology-team.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=272689",
           "author": "Samuel Webb",
