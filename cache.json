@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "91f45257-0dec-4fea-a84d-1b786cc7d32f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n A supply chain attack, dubbed as \"Mini Shai-Hulud\", is affecting well-known projects including TanStack, Mistral AI, UiPath, and OpenSearch\n A supply chain attack, dubbed as \"Mini Shai-Hulud\", is affecting well-known projects including TanStack, Mistral AI, UiPath, and OpenSearch\n Updated: 12 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4781",
+          "publishedOn": "2026-05-12T14:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4781 - Supply Chain Attack Affecting Numerous npm and PyPI Packages",
+          "imageUrl": null
+        },
+        {
           "id": "f1cc3c32-22c8-490c-8b52-48d582fce85f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Updated: 08 May 2026",
@@ -1867,6 +1877,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "author": null,
+          "description": "Contact details of the people in child death overview panels (CDOPs) who are responsible for receiving child death notifications.",
+          "link": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
+          "publishedOn": "2026-05-12T14:54:49.000Z",
+          "wordCount": 2624,
+          "title": "Guidance: Child death overview panels: contacts",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/thousands-of-mecfs-patients-to-benefit-from-first-genomics-study",
           "author": null,
