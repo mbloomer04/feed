@@ -1220,6 +1220,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1956646",
+          "author": null,
+          "description": "Hospitals outsourcing triage of GP referrals or advice and guidance risk delays and duplication of work, GPs have warned.",
+          "link": "https://www.gponline.com/gps-fear-delays-extra-work-hospitals-outsource-advice-guidance/article/1956646",
+          "publishedOn": "2026-05-13T08:30:00.000Z",
+          "wordCount": 728,
+          "title": "GPs fear delays and extra work as hospitals outsource advice and guidance",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_24.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1957858",
+          "author": null,
+          "description": "Patients have praised a GP practice in Cumbria for its swift response in re-directing services after a car crashed into its premises, injuring two people and forcing it to close  temporarily.",
+          "link": "https://www.gponline.com/car-crashes-gp-practice-injuring-two-people/article/1957858",
+          "publishedOn": "2026-05-12T09:55:14.000Z",
+          "wordCount": 739,
+          "title": "Car crashes into GP practice, injuring two people",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_6.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1957784",
           "author": null,
           "description": "A 'new generation' IT system currently used in just 10 GP practices in England could accelerate its rollout after a £100m acquisition by a French company.",
@@ -1827,6 +1847,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "author": null,
+          "description": "The public health grant allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "publishedOn": "2026-05-13T10:41:36.000Z",
+          "wordCount": 1056,
+          "title": "Guidance: Public health grants to local authorities: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/child-death-overview-panels-contacts",
           "author": null,
@@ -2688,6 +2718,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=275591",
+          "author": "Jordan Sollof",
+          "description": "Dr Zubir Ahmed has resigned as health innovation and safety minister in protest over Prime Minister Keir Starmer’s leadership.",
+          "link": "https://www.digitalhealth.net/2026/05/health-innovation-minister-zubir-ahmed-resigns/",
+          "publishedOn": "2026-05-13T10:00:32.000Z",
+          "wordCount": 6670,
+          "title": "Health innovation minister Zubir Ahmed resigns",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/11/Zubir-Ahmed.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=273167",
           "author": "Jordan Sollof",
