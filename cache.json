@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958106",
+          "author": null,
+          "description": "LMCs have called for clear limits on workload in general practice - warning that current pressure on practices is unsafe for patients and GPs.",
+          "link": "https://www.gponline.com/gps-need-clear-limit-workload-general-practice-safe/article/1958106",
+          "publishedOn": "2026-05-13T12:36:27.000Z",
+          "wordCount": 735,
+          "title": "GPs need 'clear limit' on workload to make general practice safe",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmcconfsign_10.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958072",
           "author": null,
           "description": "The new NHS Modernisation Bill will set out legislation required to create a single patient record, abolish NHS England, and transfer responsibility for commissioning primary care to ICBs.",
@@ -1877,6 +1887,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/scope-of-maternity-review-confirmed",
+          "author": null,
+          "description": "Sussex families to get answers as maternity review scope confirmed.",
+          "link": "https://www.gov.uk/government/news/scope-of-maternity-review-confirmed",
+          "publishedOn": "2026-05-13T15:39:28.000Z",
+          "wordCount": 3235,
+          "title": "Scope of maternity review confirmed",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
           "author": null,
