@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-13T19:43:00.924Z</updated>
+    <updated>2026-05-13T21:18:52.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Sussex families to get answers as maternity review scope confirmed.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global health gains face threat of reversal]]></title>
+        <id>urn:uuid:34bcbc1b-1c56-48a6-be83-71955b195bff</id>
+        <link href="https://www.who.int/news/item/13-05-2026-global-health-gains-face-threat-of-reversal"/>
+        <updated>2026-05-13T13:02:54.000Z</updated>
+        <summary type="html"><![CDATA[The world is falling short on health targets, with progress uneven, slowing, and in some areas reversing, according to the World Health Statistics 2026 report, published today by the World Health Organization (WHO).]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -1991,16 +2001,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Two speakers from the National Institute for Health and Care Excellence (NICE) have been confirmed for Digital Health Summer Schools 2026.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research: Cardiovascular disease risk from ionising radiation exposure]]></title>
-        <id>https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure</id>
-        <link href="https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure"/>
-        <updated>2026-04-14T08:30:02.000Z</updated>
-        <summary type="html"><![CDATA[COMARE’s 20th report reviews evidence of the risks of cardiovascular disease from exposure to ionising radiation.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

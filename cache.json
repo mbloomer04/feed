@@ -2426,16 +2426,6 @@
           "wordCount": 1042,
           "title": "Policy paper: England Rare Diseases Action Plan 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure",
-          "author": null,
-          "description": "COMARE’s 20th report reviews evidence of the risks of cardiovascular disease from exposure to ionising radiation.",
-          "link": "https://www.gov.uk/government/publications/cardiovascular-disease-risk-from-ionising-radiation-exposure",
-          "publishedOn": "2026-04-14T08:30:02.000Z",
-          "wordCount": 1127,
-          "title": "Research: Cardiovascular disease risk from ionising radiation exposure",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2631,6 +2621,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:34bcbc1b-1c56-48a6-be83-71955b195bff",
+          "author": null,
+          "description": "The world is falling short on health targets, with progress uneven, slowing, and in some areas reversing, according to the World Health Statistics 2026 report, published today by the World Health Organization (WHO).",
+          "link": "https://www.who.int/news/item/13-05-2026-global-health-gains-face-threat-of-reversal",
+          "publishedOn": "2026-05-13T13:02:54.000Z",
+          "wordCount": 3299,
+          "title": "Global health gains face threat of reversal",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/lymphatic-filariasis/eliminate-lymphatic-filariasis.tmb-1200v.jpg?sfvrsn=21f3374_1"
+        },
         {
           "id": "urn:uuid:786b32c2-0fe6-4232-bd27-e76f48537410",
           "author": null,
