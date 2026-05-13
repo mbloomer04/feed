@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "ab89a878-5ffe-40e6-bd1d-e6ff566b7f98",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 137 vulnerabilities\n Scheduled updates for Microsoft products address 137 vulnerabilities\n Updated: 13 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4782",
+          "publishedOn": "2026-05-13T12:38:00.000Z",
+          "wordCount": null,
+          "title": "CC-4782 - Microsoft Releases May 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "91f45257-0dec-4fea-a84d-1b786cc7d32f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n A supply chain attack, dubbed as \"Mini Shai-Hulud\", is affecting well-known projects including TanStack, Mistral AI, UiPath, and OpenSearch\n A supply chain attack, dubbed as \"Mini Shai-Hulud\", is affecting well-known projects including TanStack, Mistral AI, UiPath, and OpenSearch\n Updated: 12 May 2026",
@@ -1219,6 +1229,26 @@
       "feedUrl": "http://www.gponline.com/rss/news",
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
+        {
+          "id": "https://www.gponline.com/article/1958072",
+          "author": null,
+          "description": "The new NHS Modernisation Bill will set out legislation required to create a single patient record, abolish NHS England, and transfer responsibility for commissioning primary care to ICBs.",
+          "link": "https://www.gponline.com/nhs-modernisation-bill-introduce-single-patient-record/article/1958072",
+          "publishedOn": "2026-05-13T12:15:54.000Z",
+          "wordCount": 732,
+          "title": "NHS Modernisation Bill to introduce single patient record",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1433803505_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1958093",
+          "author": null,
+          "description": "GPs have the power to derail the government's neighbourhood health agenda by limiting data sharing from patient records, the BMA England GP committee chair has warned - in a call for unity over collective action.",
+          "link": "https://www.gponline.com/gps-together-powerful-bma-gp-chair-urges-unity-collective-action/article/1958093",
+          "publishedOn": "2026-05-13T11:57:28.000Z",
+          "wordCount": 767,
+          "title": "'GPs together are powerful': BMA GP chair urges unity on collective action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_17.JPG"
+        },
         {
           "id": "https://www.gponline.com/article/1956646",
           "author": null,
@@ -2718,6 +2748,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=275159",
+          "author": "Jordan Sollof",
+          "description": "Harrogate and District NHS Foundation Trust (HDFT) has gone live with the second phase of its acute electronic patient record (EPR) system.",
+          "link": "https://www.digitalhealth.net/2026/05/harrogate-and-district-launches-phase-two-of-nervecentre-epr/",
+          "publishedOn": "2026-05-13T12:30:59.000Z",
+          "wordCount": 6547,
+          "title": "Harrogate and District launches phase two of Nervecentre EPR",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/HDFT-EPR-team.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=275591",
           "author": "Jordan Sollof",
