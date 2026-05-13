@@ -2356,16 +2356,6 @@
           "wordCount": 1127,
           "title": "Research: Cardiovascular disease risk from ionising radiation exposure",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nhs-patients-to-get-quicker-tests-and-scans-closer-to-home",
-          "author": null,
-          "description": "Government invests £237 million to expand Community Diagnostic Centres across England.",
-          "link": "https://www.gov.uk/government/news/nhs-patients-to-get-quicker-tests-and-scans-closer-to-home",
-          "publishedOn": "2026-04-13T21:30:03.000Z",
-          "wordCount": 3289,
-          "title": "NHS patients to get quicker tests and scans closer to home",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2698,6 +2688,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=273167",
+          "author": "Jordan Sollof",
+          "description": "NHS trusts in England could spend more than £13.5m in 2026 on correcting data problems that emerge EPR go-lives, MBI Health analysis suggests.",
+          "link": "https://www.digitalhealth.net/2026/05/repairing-epr-data-errors-could-cost-nhs-at-least-13-5m-in-2026/",
+          "publishedOn": "2026-05-13T06:30:03.000Z",
+          "wordCount": 6715,
+          "title": "Repairing EPR data errors could cost NHS at least £13.5m in 2026",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/EPR-digital-health-records-tablet.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=275095",
           "author": "Jordan Sollof",

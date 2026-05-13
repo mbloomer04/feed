@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-13T06:19:19.835Z</updated>
+    <updated>2026-05-13T09:36:33.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Repairing EPR data errors could cost NHS at least £13.5m in 2026]]></title>
+        <id>https://www.digitalhealth.net/?p=273167</id>
+        <link href="https://www.digitalhealth.net/2026/05/repairing-epr-data-errors-could-cost-nhs-at-least-13-5m-in-2026/"/>
+        <updated>2026-05-13T06:30:03.000Z</updated>
+        <summary type="html"><![CDATA[NHS trusts in England could spend more than £13.5m in 2026 on correcting data problems that emerge EPR go-lives, MBI Health analysis suggests.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4781 - Supply Chain Attack Affecting Numerous npm and PyPI Packages]]></title>
         <id>91f45257-0dec-4fea-a84d-1b786cc7d32f</id>
@@ -1898,16 +1908,6 @@ Disease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2),
         <summary type="html"><![CDATA[Kent and Medway Mental Health NHS Trust has a launched a portal to give patients 24/7 online access to their mental health appointments.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS patients to get quicker tests and scans closer to home]]></title>
-        <id>https://www.gov.uk/government/news/nhs-patients-to-get-quicker-tests-and-scans-closer-to-home</id>
-        <link href="https://www.gov.uk/government/news/nhs-patients-to-get-quicker-tests-and-scans-closer-to-home"/>
-        <updated>2026-04-13T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Government invests £237 million to expand Community Diagnostic Centres across England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
