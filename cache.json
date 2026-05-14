@@ -1220,6 +1220,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958191",
+          "author": null,
+          "description": "UK GP leaders have voted in favour of moving towards hybrid NHS/private general practice, including balloting the profession in each country on introducing a means-tested, subscription-based service similar to NHS dentists.",
+          "link": "https://www.gponline.com/gp-leaders-vote-explore-nhs-private-dentist-model-general-practice/article/1958191",
+          "publishedOn": "2026-05-14T10:54:14.000Z",
+          "wordCount": 752,
+          "title": "GP leaders vote to explore NHS/private 'dentist model' for general practice",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/FrancesO'Hagen_LMCs.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1958184",
+          "author": null,
+          "description": "The ‘Amazon-style’ approach to GP access is not fit for purpose, is driving unsustainable demand and prioritises the 'worried well' over the most clinically vulnerable, UK LMCs have warned.",
+          "link": "https://www.gponline.com/amazon-style-gp-access-driving-unsustainable-demand-warn-lmcs/article/1958184",
+          "publishedOn": "2026-05-14T10:18:24.000Z",
+          "wordCount": 741,
+          "title": "'Amazon-style' GP access is driving unsustainable demand, warn LMCs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1437813140.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958106",
           "author": null,
           "description": "LMCs have called for clear limits on workload in general practice - warning that current pressure on practices is unsafe for patients and GPs.",
@@ -1780,6 +1800,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=287156",
+          "author": "Tom W",
+          "description": "The NHS has hit its target for the number of patients waiting 18-weeks thanks to the biggest improvement in waiting times since the launch of the iPad. In March, 65.3% of patients were waiting 18-weeks, as the waiting list fell by over 312,000 last year, the largest year-on-year reduction in 16 years. The improvement in […]",
+          "link": "https://www.england.nhs.uk/2026/05/health-service-hits-18-week-target-amid-half-million-waiting-list-drop/",
+          "publishedOn": "2026-05-14T08:49:40.000Z",
+          "wordCount": 1292,
+          "title": "“Huge moment” as the health service hits 18-week target amid half-a-million waiting list drop",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=287058",
           "author": "Tom W",
@@ -2376,16 +2406,6 @@
           "wordCount": 1019,
           "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to March 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/womens-voices-to-be-at-the-heart-of-renewed-health-strategy",
-          "author": null,
-          "description": "Women across the country will be better heard and served under new plans set out in the renewed Women’s Health Strategy.",
-          "link": "https://www.gov.uk/government/news/womens-voices-to-be-at-the-heart-of-renewed-health-strategy",
-          "publishedOn": "2026-04-14T21:30:12.000Z",
-          "wordCount": 4714,
-          "title": "Women's voices to be at the heart of renewed health strategy",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2718,6 +2738,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=272665",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a spike in the number of asthmatic people using combination inhalers and wearable technology for caregivers.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-166/",
+          "publishedOn": "2026-05-14T10:30:00.000Z",
+          "wordCount": 6619,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=275655",
           "author": "Jordan Sollof",
