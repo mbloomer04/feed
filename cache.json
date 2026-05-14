@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9f52ec03-1ef0-4fdc-9866-6a21054a1309",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n Updated: 14 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4783",
+          "publishedOn": "2026-05-14T14:16:00.000Z",
+          "wordCount": null,
+          "title": "CC-4783 - F5 Releases Security Updates for NGINX Vulnerability CVE-2026-42945",
+          "imageUrl": null
+        },
+        {
           "id": "ab89a878-5ffe-40e6-bd1d-e6ff566b7f98",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 137 vulnerabilities\n Scheduled updates for Microsoft products address 137 vulnerabilities\n Updated: 13 May 2026",
@@ -1220,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958233",
+          "author": null,
+          "description": "Wes Streeting has resigned as health secretary, saying he has ‘lost confidence’ in prime minister Keir Starmer’s leadership. GPonline editor Emma Bower assesses his time in the post.",
+          "link": "https://www.gponline.com/wes-streetings-legacy-health-social-care-secretary/article/1958233",
+          "publishedOn": "2026-05-14T13:56:43.000Z",
+          "wordCount": 742,
+          "title": "Wes Streeting’s legacy as health and social care secretary",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2275229072.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958191",
           "author": null,
           "description": "UK GP leaders have voted in favour of moving towards hybrid NHS/private general practice, including balloting the profession in each country on introducing a means-tested, subscription-based service similar to NHS dentists.",
@@ -1907,6 +1927,126 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-structural-measures-to-icbs-and-foundation-trusts-impact-assessments",
+          "author": null,
+          "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the proposed changes to integrated care boards and foundation trusts as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-structural-measures-to-icbs-and-foundation-trusts-impact-assessments",
+          "publishedOn": "2026-05-14T15:12:44.000Z",
+          "wordCount": 1090,
+          "title": "Impact assessment: Health Bill: structural measures to ICBs and foundation trusts - impact assessments",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-abolishing-nhs-england-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the proposal to abolish NHS England as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-abolishing-nhs-england-impact-assessment",
+          "publishedOn": "2026-05-14T15:12:38.000Z",
+          "wordCount": 995,
+          "title": "Impact assessment: Health Bill: abolishing NHS England - impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-single-patient-record-and-information-sharing-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the proposals on the single patient record and information sharing as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-single-patient-record-and-information-sharing-impact-assessment",
+          "publishedOn": "2026-05-14T15:12:02.000Z",
+          "wordCount": 1036,
+          "title": "Impact assessment: Health Bill: single patient record and information sharing - impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of empowering integrated care boards (ICBs) as strategic commissioners as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 936,
+          "title": "Impact assessment: Health Bill: ICBs as strategic commissioners - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-abolishing-nhs-england-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of the proposal to abolish NHS England  as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-abolishing-nhs-england-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 953,
+          "title": "Impact assessment: Health Bill: abolishing NHS England  - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-transferring-hssib-to-cqc-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of transferring the Health Services Safety Investigations Body (HSSIB) to the Care Quality Commission (CQC) as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-transferring-hssib-to-cqc-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 962,
+          "title": "Impact assessment: Health Bill: transferring HSSIB to CQC - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-single-patient-record-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of the single patient record as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-single-patient-record-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 943,
+          "title": "Impact assessment: Health Bill: single patient record - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-reforming-the-foundation-trust-model-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of reforming the foundation trust model as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-reforming-the-foundation-trust-model-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 922,
+          "title": "Impact assessment: Health Bill: reforming the foundation trust model - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-abolishing-healthwatch-equality-impact-assessment",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of abolishing Healthwatch England and local Healthwatch as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-abolishing-healthwatch-equality-impact-assessment",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 914,
+          "title": "Impact assessment: Health Bill: abolishing Healthwatch - equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-patient-safety-measures-impact-assessments",
+          "author": null,
+          "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the proposed changes to patient safety measures as part of the Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-patient-safety-measures-impact-assessments",
+          "publishedOn": "2026-05-14T15:10:02.000Z",
+          "wordCount": 1069,
+          "title": "Impact assessment: Health Bill: patient safety measures - impact assessments",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-impact-assessments-summary",
+          "author": null,
+          "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the Health Bill, and summarises how the proposals in the bill will affect integrated care boards and foundation trusts.",
+          "link": "https://www.gov.uk/government/publications/health-bill-impact-assessments-summary",
+          "publishedOn": "2026-05-14T15:10:00.000Z",
+          "wordCount": 936,
+          "title": "Impact assessment: Health Bill: impact assessments summary",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-equality-impact-assessments-summary",
+          "author": null,
+          "description": "Outlines the approach to assessing equality impacts of the Health Bill and provides an overview of identified impacts across all policies included in the bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-equality-impact-assessments-summary",
+          "publishedOn": "2026-05-14T15:10:00.000Z",
+          "wordCount": 939,
+          "title": "Impact assessment: Health Bill: equality impact assessments summary",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/scope-of-maternity-review-confirmed",
           "author": null,
@@ -2601,6 +2741,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:2e63c6de-aac6-4f95-afed-98213fe83e8e",
+          "author": null,
+          "description": "Tunisia has been officially validated by the World Health Organization (WHO) as having eliminated trachoma as a public health problem, marking a significant achievement after decades of sustained effort.",
+          "link": "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+          "publishedOn": "2026-05-14T09:23:04.000Z",
+          "wordCount": 3128,
+          "title": "Tunisia validated by WHO as having eliminated trachoma as a public health problem",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/doctor-examining-eyes-of-a-child.tmb-1200v.jpg?sfvrsn=a3d23d7_1"
+        },
         {
           "id": "urn:uuid:34bcbc1b-1c56-48a6-be83-71955b195bff",
           "author": null,
