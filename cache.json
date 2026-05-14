@@ -2710,16 +2710,6 @@
           "wordCount": 2805,
           "title": "WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/newborn-health/mother-and-baby.tmb-1200v.jpg?sfvrsn=5e98ec48_1"
-        },
-        {
-          "id": "urn:uuid:b4d2d019-782e-431a-99f3-643b1ec9d946",
-          "author": null,
-          "description": "Three years of war in Sudan have created the world’s largest humanitarian and displacement crisis, with devastating consequences for people’s health.\nWhile the situation is improving in some states, the health crisis is deepening in areas where fighting continues. Disease outbreaks and malnutrition are rising, while access to health services shrink, and funding falls short.\nNearly 34 million people need humanitarian assistance, including 21 million in need of health assistance.  Over 4 million people are estimated to be acutely malnourished in 2026 (IPC Alert, 5 February 2026) making them vulnerable to medical complications and disease.\nDisease outbreaks are widespread, with malaria, dengue, measles, polio (cVDPV2), hepatitis E, meningitis, and diphtheria reported from several states, incl…",
-          "link": "https://www.who.int/news/item/14-04-2026-after-three-years-of-conflict--sudan-faces-a-deeper-health-crisis",
-          "publishedOn": "2026-04-14T16:02:23.000Z",
-          "wordCount": 2901,
-          "title": "After three years of conflict, Sudan faces a deeper health crisis",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2023---emergency---sudan/sudan.tmb-1200v.jpeg?sfvrsn=7382f19f_1"
         }
       ]
     },
@@ -2728,6 +2718,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=275655",
+          "author": "Jordan Sollof",
+          "description": "Wrightington, Wigan and Leigh Teaching Hospitals has embedded national guidance into its EPR to optimise the Acute Abdomen Pathway.",
+          "link": "https://www.digitalhealth.net/2026/05/west-lancashire-trust-optimises-epr-to-improve-abdomen-pathway/",
+          "publishedOn": "2026-05-14T06:30:58.000Z",
+          "wordCount": 4594,
+          "title": "West Lancashire trust optimises EPR to improve abdomen pathway",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Wrightington-Wigan-and-Leigh-NHS-FT.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=275159",
           "author": "Jordan Sollof",
