@@ -1728,16 +1728,6 @@
           "wordCount": 879,
           "title": "GP workforce at 10-year high, government claims",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-FlyViewProductions_RF_5.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1954767",
-          "author": null,
-          "description": "ICB mergers and staff cuts are disrupting local work to develop neighbourhoods, MPs have been told",
-          "link": "https://www.gponline.com/icb-cuts-threaten-neighbourhood-nhs-plans-mps-told/article/1954767",
-          "publishedOn": "2026-04-15T11:23:54.000Z",
-          "wordCount": 694,
-          "title": "ICB cuts threaten neighbourhood NHS plans, MPs told",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1433803505.jpg"
         }
       ]
     },
@@ -2702,6 +2692,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:7abcd256-1add-411d-a775-27d7b0ca57da",
+          "author": null,
+          "description": "A message from the Director-General of the World Health Organization expressing gratitude to the people of Tenerife for their solidarity and successful cooperation during the operation to safely disembark and care for over 120 passengers from 23 countries amid an outbreak of hantavirus.",
+          "link": "https://www.who.int/news/item/14-05-2026-follow-up-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response",
+          "publishedOn": "2026-05-14T13:27:15.000Z",
+          "wordCount": 3205,
+          "title": "Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hantavirus/minister-of-health-of-spain-and-dg-in-tenerife.tmb-1200v.jpg?sfvrsn=69ea6d82_2"
+        },
+        {
           "id": "urn:uuid:2e63c6de-aac6-4f95-afed-98213fe83e8e",
           "author": null,
           "description": "Tunisia has been officially validated by the World Health Organization (WHO) as having eliminated trachoma as a public health problem, marking a significant achievement after decades of sustained effort.",
@@ -3326,16 +3326,6 @@
           "publishedOn": "2026-04-15T12:30:46.000Z",
           "wordCount": null,
           "title": "NHSE official warns staff over criticism of Palantir’s FDP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=264315",
-          "author": "Tammy Lovell",
-          "description": "Liverpool University Hospitals NHS Foundation Trust has appointed Nervecentre to supply its new electronic patient record (EPR) system.",
-          "link": "https://www.digitalhealth.net/2026/04/liverpool-university-hospitals-selects-nervecentre-to-supply-epr/",
-          "publishedOn": "2026-04-15T10:31:02.000Z",
-          "wordCount": null,
-          "title": "Liverpool University Hospitals selects Nervecentre to supply EPR",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-14T22:03:08.156Z</updated>
+    <updated>2026-05-14T23:48:38.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -147,6 +147,16 @@
         <summary type="html"><![CDATA[Wes Streeting has resigned as health secretary, saying he has ‘lost confidence’ in prime minister Keir Starmer’s leadership. GPonline editor Emma Bower assesses his time in the post.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response]]></title>
+        <id>urn:uuid:7abcd256-1add-411d-a775-27d7b0ca57da</id>
+        <link href="https://www.who.int/news/item/14-05-2026-follow-up-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response"/>
+        <updated>2026-05-14T13:27:15.000Z</updated>
+        <summary type="html"><![CDATA[A message from the Director-General of the World Health Organization expressing gratitude to the people of Tenerife for their solidarity and successful cooperation during the operation to safely disembark and care for over 120 passengers from 23 countries amid an outbreak of hantavirus.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2038,26 +2048,6 @@ The NHS design system was set up to meet the needs of teams building public serv
         <summary type="html"><![CDATA[A senior NHS official is reported to have warned staff about voicing criticism on the rollout of the federated data platform (FDP).]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICB cuts threaten neighbourhood NHS plans, MPs told]]></title>
-        <id>https://www.gponline.com/article/1954767</id>
-        <link href="https://www.gponline.com/icb-cuts-threaten-neighbourhood-nhs-plans-mps-told/article/1954767"/>
-        <updated>2026-04-15T11:23:54.000Z</updated>
-        <summary type="html"><![CDATA[ICB mergers and staff cuts are disrupting local work to develop neighbourhoods, MPs have been told]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liverpool University Hospitals selects Nervecentre to supply EPR]]></title>
-        <id>https://www.digitalhealth.net/?p=264315</id>
-        <link href="https://www.digitalhealth.net/2026/04/liverpool-university-hospitals-selects-nervecentre-to-supply-epr/"/>
-        <updated>2026-04-15T10:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Liverpool University Hospitals NHS Foundation Trust has appointed Nervecentre to supply its new electronic patient record (EPR) system.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
         </author>
     </entry>
     <entry>
