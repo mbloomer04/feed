@@ -1220,6 +1220,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958302",
+          "author": null,
+          "description": "James Murray has been appointed health and social care secretary following the resignation of Wes Streeting.",
+          "link": "https://www.gponline.com/new-health-social-care-secretary-james-murray/article/1958302",
+          "publishedOn": "2026-05-15T07:36:02.000Z",
+          "wordCount": 724,
+          "title": "Who is new health and social care secretary James Murray?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JamesMurray-ezgif.com-optijpeg.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1958158",
+          "author": null,
+          "description": "The GPonline team discusses some of the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-will-collective-action-work-unpicking-gp-reimbursement-scheme-pcn-variation-means/article/1958158",
+          "publishedOn": "2026-05-15T07:00:00.000Z",
+          "wordCount": 722,
+          "title": "Podcast: Will collective action work, unpicking the GP reimbursement scheme, what PCN variation means",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonlineTalkingGeneralPractice858x575px_9.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958233",
           "author": null,
           "description": "Wes Streeting has resigned as health secretary, saying he has ‘lost confidence’ in prime minister Keir Starmer’s leadership. GPonline editor Emma Bower assesses his time in the post.",
@@ -1866,6 +1886,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/government-to-transform-mental-health-care-with-new-strategy",
+          "author": null,
+          "description": "New Mental Health strategy will transform care in England and drive shift from crisis intervention to preventative care.",
+          "link": "https://www.gov.uk/government/news/government-to-transform-mental-health-care-with-new-strategy",
+          "publishedOn": "2026-05-15T08:40:06.000Z",
+          "wordCount": 3179,
+          "title": "Government to transform Mental Health care with new strategy",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/health-bill-structural-measures-to-icbs-and-foundation-trusts-impact-assessments",
           "author": null,
           "description": "Outlines the approach to assessing the objectives, rationale, costs and benefits of the proposed changes to integrated care boards and foundation trusts as part of the Health Bill.",
@@ -2404,16 +2434,6 @@
           "wordCount": 2915,
           "title": "Firefighters to benefit from bespoke health support",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/donna-ockenden-appointed-to-chair-sussex-maternity-review",
-          "author": null,
-          "description": "Bereaved families to get answers they deserve",
-          "link": "https://www.gov.uk/government/news/donna-ockenden-appointed-to-chair-sussex-maternity-review",
-          "publishedOn": "2026-04-15T18:32:00.000Z",
-          "wordCount": 2719,
-          "title": "Donna Ockenden appointed to chair Sussex maternity review",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2766,6 +2786,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=276465",
+          "author": "Jordan Sollof",
+          "description": "James Murray has been appointed health secretary, replacing Wes Streeting, who announced his resignation yesterday.",
+          "link": "https://www.digitalhealth.net/2026/05/james-murray-appointed-health-secretary/",
+          "publishedOn": "2026-05-15T06:30:09.000Z",
+          "wordCount": 6571,
+          "title": "James Murray appointed health secretary",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/James-Murray.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=276217",
           "author": "Jordan Sollof",
