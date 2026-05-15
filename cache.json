@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "fb166b4c-58ea-4a74-b3cb-cc6873ddd96a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Updated: 15 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4785",
+          "publishedOn": "2026-05-15T10:56:00.000Z",
+          "wordCount": null,
+          "title": "CC-4785 - Microsoft Releases Security Advisory for a Zero-Day Vulnerability in Exchange Server",
+          "imageUrl": null
+        },
+        {
+          "id": "6ee35eec-f6f2-47c9-80dd-2be482d473d5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-20182 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n CVE-2026-20182 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges\n Updated: 15 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4784",
+          "publishedOn": "2026-05-15T09:50:00.000Z",
+          "wordCount": null,
+          "title": "CC-4784 - Exploitation of Zero-Day Vulnerability in Cisco Catalyst SD-WAN",
+          "imageUrl": null
+        },
+        {
           "id": "9f52ec03-1ef0-4fdc-9866-6a21054a1309",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n Updated: 14 May 2026",
@@ -1260,6 +1280,16 @@
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/FrancesO'Hagen_LMCs.png"
         },
         {
+          "id": "https://www.gponline.com/article/1958346",
+          "author": null,
+          "description": "Any patients with suspected hantavirus presenting in general practice should be isolated, and a virtual assessment should take place, new guidance from NHS England advises.",
+          "link": "https://www.gponline.com/nhs-england-issues-primary-care-guidance-hantavirus/article/1958346",
+          "publishedOn": "2026-05-14T10:44:00.000Z",
+          "wordCount": 1585,
+          "title": "NHS England issues primary care guidance on hantavirus",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2274859992-ezgif.com-optijpeg.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958184",
           "author": null,
           "description": "The ‘Amazon-style’ approach to GP access is not fit for purpose, is driving unsustainable demand and prioritises the 'worried well' over the most clinically vulnerable, UK LMCs have warned.",
@@ -1885,6 +1915,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england",
+          "author": null,
+          "description": "We are seeking practical examples and implementation evidence to inform a mental health strategy for England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england",
+          "publishedOn": "2026-05-15T11:00:10.000Z",
+          "wordCount": 987,
+          "title": "Informing the mental health strategy for England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/government-to-transform-mental-health-care-with-new-strategy",
           "author": null,
@@ -2630,6 +2670,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:af96ff56-0faa-426b-900a-5d76fb103e16",
+          "author": null,
+          "description": "The World Health Organization (WHO) warns about the rapid growth and aggressive marketing of nicotine pouches, especially targeting youth, amid limited regulation worldwide. Nicotine pouches pose significant health risks and governments are urged to implement strong regulatory measures to prevent addiction and protect young people.",
+          "link": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+          "publishedOn": "2026-05-14T17:26:02.000Z",
+          "wordCount": 3108,
+          "title": "WHO warns nicotine pouch brands targeting youth as sales surge",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/substances-and-elements/tobacco/nicotine-pouches.tmb-1200v.jpg?sfvrsn=74fff869_1"
+        },
+        {
           "id": "urn:uuid:7abcd256-1add-411d-a775-27d7b0ca57da",
           "author": null,
           "description": "A message from the Director-General of the World Health Organization expressing gratitude to the people of Tenerife for their solidarity and successful cooperation during the operation to safely disembark and care for over 120 passengers from 23 countries amid an outbreak of hantavirus.",
@@ -2786,6 +2836,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=275741",
+          "author": "Jordan Sollof",
+          "description": "Our latest roundup of contracts and go lives features electronic patient record (EPR) contract awards for The Access Group and Epic.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-healths-monthly-roundup-of-contracts-and-go-lives-64/",
+          "publishedOn": "2026-05-15T10:00:17.000Z",
+          "wordCount": 6672,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Contract-Sign.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=276465",
           "author": "Jordan Sollof",

@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-15T09:39:54.985Z</updated>
+    <updated>2026-05-15T11:48:31.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Informing the mental health strategy for England]]></title>
+        <id>https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england</id>
+        <link href="https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england"/>
+        <updated>2026-05-15T11:00:10.000Z</updated>
+        <summary type="html"><![CDATA[We are seeking practical examples and implementation evidence to inform a mental health strategy for England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4785 - Microsoft Releases Security Advisory for a Zero-Day Vulnerability in Exchange Server]]></title>
+        <id>fb166b4c-58ea-4a74-b3cb-cc6873ddd96a</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4785"/>
+        <updated>2026-05-15T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments
+ Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments
+ Updated: 15 May 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health’s monthly roundup of contracts and go lives]]></title>
+        <id>https://www.digitalhealth.net/?p=275741</id>
+        <link href="https://www.digitalhealth.net/2026/05/digital-healths-monthly-roundup-of-contracts-and-go-lives-64/"/>
+        <updated>2026-05-15T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Our latest roundup of contracts and go lives features electronic patient record (EPR) contract awards for The Access Group and Epic.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4784 - Exploitation of Zero-Day Vulnerability in Cisco Catalyst SD-WAN]]></title>
+        <id>6ee35eec-f6f2-47c9-80dd-2be482d473d5</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4784"/>
+        <updated>2026-05-15T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ CVE-2026-20182 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges
+ CVE-2026-20182 could allow an unauthenticated attacker to bypass authentication and gain administrative privileges
+ Updated: 15 May 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government to transform Mental Health care with new strategy]]></title>
         <id>https://www.gov.uk/government/news/government-to-transform-mental-health-care-with-new-strategy</id>
@@ -44,6 +90,16 @@
         <summary type="html"><![CDATA[James Murray has been appointed health secretary, replacing Wes Streeting, who announced his resignation yesterday.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO warns nicotine pouch brands targeting youth as sales surge]]></title>
+        <id>urn:uuid:af96ff56-0faa-426b-900a-5d76fb103e16</id>
+        <link href="https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge"/>
+        <updated>2026-05-14T17:26:02.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) warns about the rapid growth and aggressive marketing of nicotine pouches, especially targeting youth, amid limited regulation worldwide. Nicotine pouches pose significant health risks and governments are urged to implement strong regulatory measures to prevent addiction and protect young people.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -215,6 +271,16 @@
         <link href="https://www.gponline.com/gp-leaders-vote-explore-nhs-private-dentist-model-general-practice/article/1958191"/>
         <updated>2026-05-14T10:54:14.000Z</updated>
         <summary type="html"><![CDATA[UK GP leaders have voted in favour of moving towards hybrid NHS/private general practice, including balloting the profession in each country on introducing a means-tested, subscription-based service similar to NHS dentists.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS England issues primary care guidance on hantavirus]]></title>
+        <id>https://www.gponline.com/article/1958346</id>
+        <link href="https://www.gponline.com/nhs-england-issues-primary-care-guidance-hantavirus/article/1958346"/>
+        <updated>2026-05-14T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Any patients with suspected hantavirus presenting in general practice should be isolated, and a virtual assessment should take place, new guidance from NHS England advises.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
