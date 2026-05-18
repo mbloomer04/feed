@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1957192",
+          "author": null,
+          "description": "Hundreds of England's most underdoctored GP practices could miss out on a reimbursement scheme intended to boost capacity in general practice.",
+          "link": "https://www.gponline.com/one-seven-practices-miss-gp-reimbursement-scheme/article/1957192",
+          "publishedOn": "2026-05-18T15:00:00.000Z",
+          "wordCount": 740,
+          "title": "One in seven practices could miss out on GP reimbursement scheme",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Money_GettyImages-MinnaRossi_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958302",
           "author": null,
           "description": "James Murray has been appointed health and social care secretary following the resignation of Wes Streeting.",
@@ -1897,6 +1907,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/social-work-bursary-and-education-support-grant-information-packs",
+          "author": null,
+          "description": "Information for higher education institutions and students on Social Work Bursary and Education Support Grant arrangements for the academic year 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/social-work-bursary-and-education-support-grant-information-packs",
+          "publishedOn": "2026-05-18T15:53:18.000Z",
+          "wordCount": 1262,
+          "title": "Guidance: Social Work Bursary and Education Support Grant information packs",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-may-2027",
           "author": null,
