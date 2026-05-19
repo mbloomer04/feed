@@ -1230,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958377",
+          "author": null,
+          "description": "Government action is needed to protect GPs and practice staff from patients who persistently harass them through email complaints and GMC referrals, LMCs have warned.",
+          "link": "https://www.gponline.com/gps-need-protection-patients-misusing-complaints-lmcs-warn/article/1958377",
+          "publishedOn": "2026-05-19T08:00:00.000Z",
+          "wordCount": 737,
+          "title": "GPs need protection from patients misusing complaints, LMCs warn",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmc_conferencevote_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1957192",
           "author": null,
           "description": "Hundreds of England's most underdoctored GP practices could miss out on a reimbursement scheme intended to boost capacity in general practice.",
@@ -1907,6 +1917,106 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet",
+          "author": null,
+          "description": "Outlines the proposed legislative changes in the upcoming Health Bill to the way patient safety is being strengthened.",
+          "link": "https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 913,
+          "title": "Policy paper: Health Bill: patient safety - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet",
+          "author": null,
+          "description": "Outlines the role and functions of the restructured Department of Health and Social Care (DHSC).",
+          "link": "https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 929,
+          "title": "Policy paper: Health Bill: role and functions of the restructured DHSC - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet",
+          "author": null,
+          "description": "Outlines the proposed legislative changes in the upcoming Health Bill to the way patient and public voice is listened to and acted upon within the health and care system.",
+          "link": "https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 948,
+          "title": "Policy paper: Health Bill: patient voice - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-oversight-of-the-health-system-fact-sheet",
+          "author": null,
+          "description": "Outlines how the Department of Health and Social Care will set direction and maintain oversight of the health system, once NHS England has been abolished.",
+          "link": "https://www.gov.uk/government/publications/health-bill-oversight-of-the-health-system-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 949,
+          "title": "Policy paper: Health Bill: oversight of the health system - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-single-patient-record-fact-sheet",
+          "author": null,
+          "description": "Explains how the Health Bill will enable the creation of a single patient record.",
+          "link": "https://www.gov.uk/government/publications/health-bill-single-patient-record-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 906,
+          "title": "Policy paper: Health Bill: single patient record - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-providers-fact-sheet",
+          "author": null,
+          "description": "Outlines the proposed changes in the upcoming Health Bill related to providers, including NHS trusts, NHS foundation trusts and independent providers.",
+          "link": "https://www.gov.uk/government/publications/health-bill-providers-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 917,
+          "title": "Policy paper: Health Bill: providers - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-data-and-digital-functions-fact-sheet",
+          "author": null,
+          "description": "Outlines the transfer of digital and data functions from NHS England to the Department of Health and Social Care proposed in the upcoming Health Bill.",
+          "link": "https://www.gov.uk/government/publications/health-bill-data-and-digital-functions-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 946,
+          "title": "Policy paper: Health Bill: data and digital functions - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-summary-fact-sheet",
+          "author": null,
+          "description": "Outlines the context behind the upcoming Health Bill including a summary of the main objectives and specific measures.",
+          "link": "https://www.gov.uk/government/publications/health-bill-summary-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 908,
+          "title": "Policy paper: Health Bill: summary - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-fact-sheet",
+          "author": null,
+          "description": "Outlines how  integrated care boards (ICBs) will focus on their role as strategic commissioners of local health services.",
+          "link": "https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-fact-sheet",
+          "publishedOn": "2026-05-19T10:30:04.000Z",
+          "wordCount": 923,
+          "title": "Policy paper: Health Bill: ICBs as strategic commissioners - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/maternity-advisor-to-champion-safer-care-for-mothers-and-babies",
+          "author": null,
+          "description": "Michelle Welsh MP appointed as the government's first Maternity Advisor",
+          "link": "https://www.gov.uk/government/news/maternity-advisor-to-champion-safer-care-for-mothers-and-babies",
+          "publishedOn": "2026-05-19T07:38:20.000Z",
+          "wordCount": 2153,
+          "title": "Maternity Advisor to champion safer care for mothers and babies",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/social-work-bursary-and-education-support-grant-information-packs",
           "author": null,
@@ -2858,6 +2968,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=276125",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a blood test to detect Alzheimer’s disease earlier and an AI-imaging software platform to treat lung disease.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-167/",
+          "publishedOn": "2026-05-19T10:30:41.000Z",
+          "wordCount": 6633,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=276845",
           "author": "Jordan Sollof",
