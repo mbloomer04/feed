@@ -1918,6 +1918,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
+          "author": null,
+          "description": "Register of nutrition and health claims that may be made in commercial communications in Great Britain.",
+          "link": "https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register",
+          "publishedOn": "2026-05-19T12:41:19.000Z",
+          "wordCount": 1359,
+          "title": "Guidance: Great Britain nutrition and health claims (NHC) register",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet",
           "author": null,
           "description": "Outlines the proposed legislative changes in the upcoming Health Bill to the way patient safety is being strengthened.",
@@ -2968,6 +2978,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=278731",
+          "author": "Jordan Sollof",
+          "description": "A panel of speakers will discuss how the NHS is building a trusted and professionally accredited digital profession at Summer Schools 2026.",
+          "link": "https://www.digitalhealth.net/2026/05/nhs-digital-profession-leaders-confirmed-for-summer-schools-2026/",
+          "publishedOn": "2026-05-19T12:30:19.000Z",
+          "wordCount": 4518,
+          "title": "NHS digital profession leaders confirmed for Summer Schools 2026",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/SS26-workforce-speakers-image.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=276125",
           "author": "Samuel Webb",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-19T10:54:35.768Z</updated>
+    <updated>2026-05-19T13:51:10.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Great Britain nutrition and health claims (NHC) register]]></title>
+        <id>https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register</id>
+        <link href="https://www.gov.uk/government/publications/great-britain-nutrition-and-health-claims-nhc-register"/>
+        <updated>2026-05-19T12:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Register of nutrition and health claims that may be made in commercial communications in Great Britain.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS digital profession leaders confirmed for Summer Schools 2026]]></title>
+        <id>https://www.digitalhealth.net/?p=278731</id>
+        <link href="https://www.digitalhealth.net/2026/05/nhs-digital-profession-leaders-confirmed-for-summer-schools-2026/"/>
+        <updated>2026-05-19T12:30:19.000Z</updated>
+        <summary type="html"><![CDATA[A panel of speakers will discuss how the NHS is building a trusted and professionally accredited digital profession at Summer Schools 2026.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=276125</id>
