@@ -1698,16 +1698,6 @@
           "wordCount": 758,
           "title": "Government plan to overhaul Carr-Hill formula in April 2027 risks destabilising practices",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Lizzy_Lloydcopy.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1955095",
-          "author": null,
-          "description": "LMCs have accused NHS England of leaving GPs out of plans to develop neighbourhoods after it wrote to acute trusts and ICBs asking them to submit details of local plans by the middle of next month.",
-          "link": "https://www.gponline.com/lmcs-say-nhs-england-left-gps-plans-develop-neighbourhoods/article/1955095",
-          "publishedOn": "2026-04-20T15:00:00.000Z",
-          "wordCount": 784,
-          "title": "LMCs say NHS England has left GPs out of plans to develop neighbourhoods",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2247172858-ezgif.com-optijpeg.jpg"
         }
       ]
     },
@@ -2496,26 +2486,6 @@
           "wordCount": 1108,
           "title": "Policy paper: Government response to the report ‘The First 1000 Days: a renewed focus’",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/national-cancer-plan-for-england",
-          "author": null,
-          "description": "Details the government’s plan to transform cancer care and outcomes in England by 2035.",
-          "link": "https://www.gov.uk/government/publications/national-cancer-plan-for-england",
-          "publishedOn": "2026-04-20T14:57:55.000Z",
-          "wordCount": 1089,
-          "title": "Policy paper: National Cancer Plan for England",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read",
-          "author": null,
-          "description": "This is the government's plan to make cancer care better for people in England by 2035.",
-          "link": "https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read",
-          "publishedOn": "2026-04-20T14:57:44.000Z",
-          "wordCount": 956,
-          "title": "Policy paper: National Cancer Plan for England (easy read)",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2908,6 +2878,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=278185",
+          "author": "Jordan Sollof",
+          "description": "Royal Cornwall Hospitals NHS Trust is using a digital tool to identify those at risk of liver disease, potentially before symptoms appear.",
+          "link": "https://www.digitalhealth.net/2026/05/royal-cornwall-adopts-digital-tool-to-help-identify-liver-disease-risk/",
+          "publishedOn": "2026-05-20T06:30:28.000Z",
+          "wordCount": 4601,
+          "title": "Royal Cornwall adopts digital tool to help identify liver disease risk",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Predictive-Health-Intelligence-co-founders.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=278731",
           "author": "Jordan Sollof",
@@ -3376,16 +3356,6 @@
           "publishedOn": "2026-04-21T06:30:47.000Z",
           "wordCount": null,
           "title": "Buckinghamshire trust signs System C deal for AI-scribing in EPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=264499",
-          "author": "Samuel Webb",
-          "description": "An AI triage tool has been integrated into the NHS App, allowing more than a million patients to book appointments directly with clinicians.",
-          "link": "https://www.digitalhealth.net/2026/04/ai-tool-allows-a-million-patients-to-book-appointments-via-nhs-app/",
-          "publishedOn": "2026-04-20T12:30:49.000Z",
-          "wordCount": null,
-          "title": "AI tool allows a million patients to book appointments via NHS App",
           "imageUrl": null
         }
       ]

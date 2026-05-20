@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-20T02:42:30.210Z</updated>
+    <updated>2026-05-20T06:41:47.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Royal Cornwall adopts digital tool to help identify liver disease risk]]></title>
+        <id>https://www.digitalhealth.net/?p=278185</id>
+        <link href="https://www.digitalhealth.net/2026/05/royal-cornwall-adopts-digital-tool-to-help-identify-liver-disease-risk/"/>
+        <updated>2026-05-20T06:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Royal Cornwall Hospitals NHS Trust is using a digital tool to identify those at risk of liver disease, potentially before symptoms appear.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Viral haemorrhagic fever: ACDP algorithm and guidance on management of patients]]></title>
         <id>https://www.gov.uk/government/publications/viral-haemorrhagic-fever-acdp-algorithm-and-guidance-on-management-of-patients</id>
@@ -2085,46 +2095,6 @@ an estimated 567 million additional people were covered by essential health ser
         <summary type="html"><![CDATA[Buckinghamshire Healthcare NHS Trust has signed a contract with System C to implement AI-scribing through its electronic patient record.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LMCs say NHS England has left GPs out of plans to develop neighbourhoods]]></title>
-        <id>https://www.gponline.com/article/1955095</id>
-        <link href="https://www.gponline.com/lmcs-say-nhs-england-left-gps-plans-develop-neighbourhoods/article/1955095"/>
-        <updated>2026-04-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LMCs have accused NHS England of leaving GPs out of plans to develop neighbourhoods after it wrote to acute trusts and ICBs asking them to submit details of local plans by the middle of next month.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England]]></title>
-        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england</id>
-        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england"/>
-        <updated>2026-04-20T14:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Details the government’s plan to transform cancer care and outcomes in England by 2035.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England (easy read)]]></title>
-        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read</id>
-        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england-easy-read"/>
-        <updated>2026-04-20T14:57:44.000Z</updated>
-        <summary type="html"><![CDATA[This is the government's plan to make cancer care better for people in England by 2035.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI tool allows a million patients to book appointments via NHS App]]></title>
-        <id>https://www.digitalhealth.net/?p=264499</id>
-        <link href="https://www.digitalhealth.net/2026/04/ai-tool-allows-a-million-patients-to-book-appointments-via-nhs-app/"/>
-        <updated>2026-04-20T12:30:49.000Z</updated>
-        <summary type="html"><![CDATA[An AI triage tool has been integrated into the NHS App, allowing more than a million patients to book appointments directly with clinicians.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
