@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9bec2707-482c-4a09-9dbc-21e293a8df6c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Updated: 20 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4787",
+          "publishedOn": "2026-05-20T14:47:00.000Z",
+          "wordCount": null,
+          "title": "CC-4787 - Palo Alto Networks Releases Security Advisory for an Authentication Bypass Vulnerability in PAN‑OS",
+          "imageUrl": null
+        },
+        {
+          "id": "77e18530-2a86-40ef-8b48-a177caff414d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑46333 could allow local attackers to disclose sensitive system files on affected Linux systems\n Successful exploitation of CVE‑2026‑46333 could allow local attackers to disclose sensitive system files on affected Linux systems\n Updated: 20 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4786",
+          "publishedOn": "2026-05-20T14:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4786 - Linux Kernel Releases Security Updates for Information Disclosure Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "fb166b4c-58ea-4a74-b3cb-cc6873ddd96a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Updated: 15 May 2026",
@@ -1878,6 +1898,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-finance-return-2025-to-2026",
+          "author": null,
+          "description": "Instructions for completing the adult social care finance return  (ASCFR) data collection for the year 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-finance-return-2025-to-2026",
+          "publishedOn": "2026-05-20T14:18:24.000Z",
+          "wordCount": 995,
+          "title": "Guidance: Adult social care finance return 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/broken-fit-note-system-to-be-overhauled",
+          "author": null,
+          "description": "Patients, employers and GPs are set to benefit from an overhaul of the broken fit note system following the launch of several pilots by the Government today to reform the system for workers who fall ill.",
+          "link": "https://www.gov.uk/government/news/broken-fit-note-system-to-be-overhauled",
+          "publishedOn": "2026-05-20T13:15:00.000Z",
+          "wordCount": 5545,
+          "title": "Broken fit note system to be overhauled",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
           "author": null,
           "description": "Information for adult social care employers in England on learning and development support.",
@@ -2741,6 +2781,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:050f2106-2a45-44b0-9166-1c83b1719bae",
+          "author": null,
+          "description": "Today, the World Health Assembly recognized individuals and institutions whose contributions to global health have gone far beyond the call of duty. Six laureates representing diverse backgrounds and contexts were honoured by the President of the Seventy-ninth World Health Assembly, Dr Víctor Elias Atallah Lajam of Dominican Republic, together with representatives of the foundations that have provided these prizes over the last 40 years, and WHO Director-General Dr Tedros Adhanom Ghebreyesus.\nThe 2026 prizes celebrate the remarkable dedication of the six awardees to advancing primary health care, reducing inequities and bringing the goal of health for all closer to reality. Selected by WHO’s Executive Board in February 2026, the 2026 laureates reflect a shared commitment to improving healt…",
+          "link": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
+          "publishedOn": "2026-05-20T10:57:07.000Z",
+          "wordCount": 2683,
+          "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/conference-and-events/public-health-prizes/2026/wha79-public-health-prizes-and-awards-dr-lee-jong-wook-memorial-prize.tmb-1200v.jpg?sfvrsn=bcc605cb_4"
+        },
         {
           "id": "urn:uuid:cc4370dc-7a82-4a0e-bced-81f9c876a004",
           "author": null,
