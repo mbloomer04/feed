@@ -1230,6 +1230,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958829",
+          "author": null,
+          "description": "The Health Bill announced as part of the King’s Speech this month sets out legislation for a single patient record, the abolition of NHS England and Healthwatch and sweeping new powers for the secretary of state. GPonline looks at what the plans mean for general practice.",
+          "link": "https://www.gponline.com/does-new-health-bill-mean-gps/article/1958829",
+          "publishedOn": "2026-05-20T12:00:01.000Z",
+          "wordCount": 775,
+          "title": "What does the new Health Bill mean for GPs?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-590989324-ezgif.com-compress-jpg.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1958818",
+          "author": null,
+          "description": "GPs across England will pilot new approaches to fit notes from this summer, after the government promised a 'radical overhaul' of a system it said is currently broken.",
+          "link": "https://www.gponline.com/broken-fit-note-system-set-overhaul-gps-pilot-new-models/article/1958818",
+          "publishedOn": "2026-05-20T10:24:35.000Z",
+          "wordCount": 746,
+          "title": "'Broken' fit note system set for overhaul as GPs pilot new models",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-Angel-Santana_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958750",
           "author": null,
           "description": "Recruiting and retaining more GPs must be a 'central priority' in a revamped NHS workforce plan expected in the coming months, experts have warned.",
@@ -2918,6 +2938,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=278827",
+          "author": "Jordan Sollof",
+          "description": "Digital Health is delighted to welcome Nervecentre, Optum and Better as the latest additions to the list of Networks sponsors.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-networks-welcomes-new-sponsors/",
+          "publishedOn": "2026-05-20T12:30:54.000Z",
+          "wordCount": 6673,
+          "title": "Digital Health Networks welcomes new sponsors",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/New-Networks-Sponsors.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=278185",
           "author": "Jordan Sollof",
