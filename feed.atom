@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-21T02:36:22.388Z</updated>
+    <updated>2026-05-21T06:44:28.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robotic surgery tech to help cut West Hertfordshire waiting lists]]></title>
+        <id>https://www.digitalhealth.net/?p=276323</id>
+        <link href="https://www.digitalhealth.net/2026/05/robotic-surgery-tech-to-help-cut-west-hertfordshire-waiting-lists/"/>
+        <updated>2026-05-21T06:30:22.000Z</updated>
+        <summary type="html"><![CDATA[West Hertfordshire Teaching Hospitals NHS Trust is using advanced robotic surgery technology to speed up recovery from cancer surgery.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seventy-ninth World Health Assembly – Daily update: 19 May 2026]]></title>
+        <id>urn:uuid:089392f3-dec6-4fdf-a73d-cc9c8710385d</id>
+        <link href="https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026"/>
+        <updated>2026-05-20T15:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Summary of discussions of 19 May at Seventy-ninth World Health Assembly]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4787 - Palo Alto Networks Releases Security Advisory for an Authentication Bypass Vulnerability in PAN‑OS]]></title>
         <id>9bec2707-482c-4a09-9dbc-21e293a8df6c</id>
