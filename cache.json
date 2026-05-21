@@ -1898,6 +1898,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/senior-salaries-review-body-report-2026",
+          "author": null,
+          "description": "Recommendations from the Senior Salaries Review Body on the remuneration of senior staff in the public sector.",
+          "link": "https://www.gov.uk/government/publications/senior-salaries-review-body-report-2026",
+          "publishedOn": "2026-05-21T16:00:00.000Z",
+          "wordCount": 908,
+          "title": "Independent report: Senior Salaries Review Body Report: 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/cqc-annual-report-and-accounts-2024-to-2025",
+          "author": null,
+          "description": "Care Quality Commission (CQC) annual report and accounts for the 2024 to 2025 financial year.",
+          "link": "https://www.gov.uk/government/publications/cqc-annual-report-and-accounts-2024-to-2025",
+          "publishedOn": "2026-05-21T14:58:37.000Z",
+          "wordCount": 1045,
+          "title": "Corporate report: CQC annual report and accounts 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
           "author": null,
           "description": "A call for evidence to explore reforming the fit note process to support those with long term health conditions to access timely work and health support.",
