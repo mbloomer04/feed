@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "353e9295-4923-4436-9f67-8062f72ae7cb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Updated: 21 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4788",
+          "publishedOn": "2026-05-21T11:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4788 - Drupal Releases Security Updates for Drupal Core",
+          "imageUrl": null
+        },
+        {
           "id": "9bec2707-482c-4a09-9dbc-21e293a8df6c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Updated: 20 May 2026",
@@ -1738,16 +1748,6 @@
           "wordCount": 756,
           "title": "GPs to debate quitting NHS amid warnings over 'Amazon-style' access",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/lmcconfsign_9.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1955392",
-          "author": null,
-          "description": "More than three in five GPs have considered relocating to work abroad because of pressure in general practice, polling by a leading medico-legal organisation reveals.",
-          "link": "https://www.gponline.com/three-five-gps-consider-working-abroad-nhs-pressure/article/1955392",
-          "publishedOn": "2026-04-21T23:01:00.000Z",
-          "wordCount": 746,
-          "title": "Three in five GPs consider working abroad over NHS pressure",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-sturti_RF.jpg"
         }
       ]
     },
@@ -1897,6 +1897,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
+          "author": null,
+          "description": "A call for evidence to explore reforming the fit note process to support those with long term health conditions to access timely work and health support.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
+          "publishedOn": "2026-05-21T10:49:11.000Z",
+          "wordCount": 1433,
+          "title": "Fit Note Reform: call for evidence",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/fit-note-reform-call-for-evidence-results",
+          "author": null,
+          "description": "This report summarises the key findings from the wide range of responses received to the call for evidence on fit note reform.",
+          "link": "https://www.gov.uk/government/publications/fit-note-reform-call-for-evidence-results",
+          "publishedOn": "2026-05-21T10:47:34.000Z",
+          "wordCount": 1158,
+          "title": "Policy paper: Fit Note Reform: Call for Evidence – Results",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-register-of-board-members-interests-2026-to-2027",
           "author": null,
@@ -3018,6 +3038,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=278243",
+          "author": "Jordan Sollof",
+          "description": "One in seven UK adults prefer to use AI chatbots for healthcare advice rather than seeing their doctor, according to a recent poll.",
+          "link": "https://www.digitalhealth.net/2026/05/one-in-seven-use-ai-chatbots-instead-of-seeing-a-doctor-poll-finds/",
+          "publishedOn": "2026-05-21T12:30:12.000Z",
+          "wordCount": 6599,
+          "title": "One in seven use AI chatbots instead of seeing a doctor, poll finds",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/09/ChatGPT.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=276191",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features technology for the early detection of dementia and biometric fingerprin access at a maternity ward.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-168/",
+          "publishedOn": "2026-05-21T10:30:08.000Z",
+          "wordCount": 4508,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=276323",
           "author": "Samuel Webb",
