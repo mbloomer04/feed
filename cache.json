@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1958742",
+          "author": null,
+          "description": "LMC leaders in part of England have been asked by their local ICB to identify struggling GP practices and support them with succession planning.",
+          "link": "https://www.gponline.com/icb-asks-lmcs-help-struggling-practices-succession-plans/article/1958742",
+          "publishedOn": "2026-05-21T07:30:00.000Z",
+          "wordCount": 738,
+          "title": "ICB asks LMCs to help struggling practices with succession plans",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Health_centre_Nick_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958829",
           "author": null,
           "description": "The Health Bill announced as part of the King’s Speech this month sets out legislation for a single patient record, the abolition of NHS England and Healthwatch and sweeping new powers for the secretary of state. GPonline looks at what the plans mean for general practice.",
@@ -1887,6 +1897,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-register-of-board-members-interests-2026-to-2027",
+          "author": null,
+          "description": "A register of the private interests declared by DHSC board members.",
+          "link": "https://www.gov.uk/government/publications/dhsc-register-of-board-members-interests-2026-to-2027",
+          "publishedOn": "2026-05-21T09:11:45.000Z",
+          "wordCount": 812,
+          "title": "Transparency data: DHSC register of board members' interests, 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "author": null,
+          "description": "This report presents the emerging findings from the evaluation of the 15 WorkWell programme pilots, from October 2024 to March 2025",
+          "link": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "publishedOn": "2026-05-21T08:30:02.000Z",
+          "wordCount": 1253,
+          "title": "Research: WorkWell Pilots Evaluation Early Implementation Findings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/adult-social-care-finance-return-2025-to-2026",
           "author": null,
