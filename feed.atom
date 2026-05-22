@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-22T06:41:49.012Z</updated>
+    <updated>2026-05-22T10:17:56.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping research data safe: safe people and safe organisations]]></title>
+        <id>6f8ea9aa-48e7-4f0e-8cd7-6dca3c8417ce</id>
+        <link href="https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/keeping-research-data-safe"/>
+        <updated>2026-05-22T09:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Sally Stewart, Programme Director, North West Secure Data Environment, reflects on the importance of public trust when health data is used for research, and how a focus on security and transparency shapes the work of the NHS Research Secure Data Environment Network, including its newly launched Registration Service.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Sally Stewart)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening the regulation of commercial sunbeds in England]]></title>
+        <id>https://www.gov.uk/government/consultations/strengthening-the-regulation-of-commercial-sunbeds-in-england</id>
+        <link href="https://www.gov.uk/government/consultations/strengthening-the-regulation-of-commercial-sunbeds-in-england"/>
+        <updated>2026-05-22T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[This consultation seeks views on proposals to introduce new safeguards using powers under the Sunbeds Act in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS clarifies locum rules on GP reimbursement in contract update]]></title>
+        <id>https://www.gponline.com/article/1959090</id>
+        <link href="https://www.gponline.com/nhs-clarifies-locum-rules-gp-reimbursement-contract-update/article/1959090"/>
+        <updated>2026-05-22T08:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Locum GPs already working in practices can be paid to provide additional sessions under the £292m practice-level GP reimbursement fund for 2026/27 - but the extra work must be on a salaried contract, NHS England has confirmed.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Inside the government's flagship neighbourhood health programme]]></title>
+        <id>https://www.gponline.com/article/1958981</id>
+        <link href="https://www.gponline.com/podcast-inside-governments-flagship-neighbourhood-health-programme/article/1958981"/>
+        <updated>2026-05-22T07:42:00.000Z</updated>
+        <summary type="html"><![CDATA[GPonline editor Emma Bower speaks to leaders from two of the 43 National Neighbourhood Health Implementation Programme sites in Rochdale and Sefton.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotherham NHS FT cuts IT help desk calls by 28% with AI]]></title>
         <id>https://www.digitalhealth.net/?p=278317</id>
@@ -2210,18 +2250,6 @@ an estimated 567 million additional people were covered by essential health ser
         <summary type="html"><![CDATA[GP practices in the South East of England are experiencing network outages, affecting internet connectivity and access to clinical systems.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV]]></title>
-        <id>urn:uuid:5615128f-786f-48b7-84b8-8b726dc39e5b</id>
-        <link href="https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv"/>
-        <updated>2026-04-22T20:34:27.000Z</updated>
-        <summary type="html"><![CDATA[In a landmark achievement for Caribbean public health, the World Health Organization (WHO) congratulates The Bahamas for becoming the latest Caribbean nation to be certified as having eliminated the mother-to-child transmission of HIV.
-“I congratulate The Bahamas on this outstanding achievement, which solidifies years of political commitment, and the dedication of health workers,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “By ensuring that children are born free of HIV, we are securing a healthier, brighter future for the next generation.”
-“This achievement reflects sustained political commitment and strong national leadership, alongside the dedication and compassion of the health workforce,” said Dr Jarbas Barbosa, Director of the Pan American Health Organization (PAHO) an…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

@@ -1250,6 +1250,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959090",
+          "author": null,
+          "description": "Locum GPs already working in practices can be paid to provide additional sessions under the £292m practice-level GP reimbursement fund for 2026/27 - but the extra work must be on a salaried contract, NHS England has confirmed.",
+          "link": "https://www.gponline.com/nhs-clarifies-locum-rules-gp-reimbursement-contract-update/article/1959090",
+          "publishedOn": "2026-05-22T08:33:37.000Z",
+          "wordCount": 759,
+          "title": "NHS clarifies locum rules on GP reimbursement in contract update",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign-Nick-Apr26-crop_1.jpeg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1958981",
+          "author": null,
+          "description": "GPonline editor Emma Bower speaks to leaders from two of the 43 National Neighbourhood Health Implementation Programme sites in Rochdale and Sefton.",
+          "link": "https://www.gponline.com/podcast-inside-governments-flagship-neighbourhood-health-programme/article/1958981",
+          "publishedOn": "2026-05-22T07:42:00.000Z",
+          "wordCount": 718,
+          "title": "Podcast: Inside the government's flagship neighbourhood health programme",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeRachelSteadandZalanAlam858x575px.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1958742",
           "author": null,
           "description": "LMC leaders in part of England have been asked by their local ICB to identify struggling GP practices and support them with succession planning.",
@@ -1733,6 +1753,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6f8ea9aa-48e7-4f0e-8cd7-6dca3c8417ce",
+          "author": "enquiries@nhsdigital.nhs.uk (Sally Stewart)",
+          "description": "Sally Stewart, Programme Director, North West Secure Data Environment, reflects on the importance of public trust when health data is used for research, and how a focus on security and transparency shapes the work of the NHS Research Secure Data Environment Network, including its newly launched Registration Service.",
+          "link": "https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/keeping-research-data-safe",
+          "publishedOn": "2026-05-22T09:34:16.000Z",
+          "wordCount": null,
+          "title": "Keeping research data safe: safe people and safe organisations",
+          "imageUrl": null
+        },
+        {
           "id": "bbb9f08c-0dfb-4669-9428-b4837d910a0b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Liz and Rachel set out the NHS App’s journey from digital front door to lifelong companion – meeting people where they are, at home and on demand.\n\r\n \n\r\n\r\nBased on their joint presentation at Digital Health Rewired in spring 2026.",
@@ -1867,6 +1897,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/strengthening-the-regulation-of-commercial-sunbeds-in-england",
+          "author": null,
+          "description": "This consultation seeks views on proposals to introduce new safeguards using powers under the Sunbeds Act in England.",
+          "link": "https://www.gov.uk/government/consultations/strengthening-the-regulation-of-commercial-sunbeds-in-england",
+          "publishedOn": "2026-05-22T09:00:05.000Z",
+          "wordCount": 1061,
+          "title": "Strengthening the regulation of commercial sunbeds in England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/age-checks-to-stop-children-using-sunbeds-under-new-laws",
           "author": null,
@@ -3000,16 +3040,6 @@
           "wordCount": 3182,
           "title": "WHO reports measurable health impact in 2025 amid transition to new strategy",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/hospitals/medicalsupplieskenya.tmb-1200v.jpeg?sfvrsn=a7677315_6"
-        },
-        {
-          "id": "urn:uuid:5615128f-786f-48b7-84b8-8b726dc39e5b",
-          "author": null,
-          "description": "In a landmark achievement for Caribbean public health, the World Health Organization (WHO) congratulates The Bahamas for becoming the latest Caribbean nation to be certified as having eliminated the mother-to-child transmission of HIV.\n“I congratulate The Bahamas on this outstanding achievement, which solidifies years of political commitment, and the dedication of health workers,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “By ensuring that children are born free of HIV, we are securing a healthier, brighter future for the next generation.”\n“This achievement reflects sustained political commitment and strong national leadership, alongside the dedication and compassion of the health workforce,” said Dr Jarbas Barbosa, Director of the Pan American Health Organization (PAHO) an…",
-          "link": "https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv",
-          "publishedOn": "2026-04-22T20:34:27.000Z",
-          "wordCount": 2805,
-          "title": "WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/newborn-health/mother-and-baby.tmb-1200v.jpg?sfvrsn=5e98ec48_1"
         }
       ]
     },
