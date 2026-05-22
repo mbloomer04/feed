@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-22T02:37:56.565Z</updated>
+    <updated>2026-05-22T06:41:49.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rotherham NHS FT cuts IT help desk calls by 28% with AI]]></title>
+        <id>https://www.digitalhealth.net/?p=278317</id>
+        <link href="https://www.digitalhealth.net/2026/05/rotherham-nhs-ft-cuts-it-help-desk-calls-by-28-with-ai/"/>
+        <updated>2026-05-22T06:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The Rotherham NHS Foundation Trust has reduced IT help desk call volumes by 28% after introducing an AI-powered autonomous agent.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Age checks to stop children using sunbeds under new laws]]></title>
         <id>https://www.gov.uk/government/news/age-checks-to-stop-children-using-sunbeds-under-new-laws</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[Government to introduce age verifications for sunbeds to protect young people from harm.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seventy-ninth World Health Assembly – Daily update: 21 May 2026]]></title>
+        <id>urn:uuid:963abd98-85cc-41fd-bf15-0be98717e2ac</id>
+        <link href="https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026"/>
+        <updated>2026-05-21T20:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Summary of discussions of 21 May at the Seventy-ninth World Health Assembly.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seventy-ninth World Health Assembly – Daily update: 20 May 2026]]></title>
+        <id>urn:uuid:1c66fe72-dcef-41ce-82a6-76ba7da44582</id>
+        <link href="https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026"/>
+        <updated>2026-05-21T19:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Summary of discussions of 20 May at the Seventy-ninth World Health Assembly.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2192,16 +2222,6 @@ an estimated 567 million additional people were covered by essential health ser
 “This achievement reflects sustained political commitment and strong national leadership, alongside the dedication and compassion of the health workforce,” said Dr Jarbas Barbosa, Director of the Pan American Health Organization (PAHO) an…]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA hails progress in talks with DHSC as GP collective action deadline nears]]></title>
-        <id>https://www.gponline.com/article/1955615</id>
-        <link href="https://www.gponline.com/bma-hails-progress-talks-dhsc-gp-collective-action-deadline-nears/article/1955615"/>
-        <updated>2026-04-22T16:10:59.000Z</updated>
-        <summary type="html"><![CDATA[BMA GP leaders have hailed 'significant' progress in talks with the government ahead of a 30 April deadline that could see a return to collective action in England.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

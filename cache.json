@@ -1718,16 +1718,6 @@
           "wordCount": 773,
           "title": "NHS rules out 'national target' to cut GP referrals in advice and guidance update",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-GettyImages-Mike-Kemp.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1955615",
-          "author": null,
-          "description": "BMA GP leaders have hailed 'significant' progress in talks with the government ahead of a 30 April deadline that could see a return to collective action in England.",
-          "link": "https://www.gponline.com/bma-hails-progress-talks-dhsc-gp-collective-action-deadline-nears/article/1955615",
-          "publishedOn": "2026-04-22T16:10:59.000Z",
-          "wordCount": 765,
-          "title": "BMA hails progress in talks with DHSC as GP collective action deadline nears",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieBramallStainer4CreditSarahTurtonBMA_crop_1.JPG"
         }
       ]
     },
@@ -2792,6 +2782,26 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:963abd98-85cc-41fd-bf15-0be98717e2ac",
+          "author": null,
+          "description": "Summary of discussions of 21 May at the Seventy-ninth World Health Assembly.",
+          "link": "https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026",
+          "publishedOn": "2026-05-21T20:33:06.000Z",
+          "wordCount": 3162,
+          "title": "Seventy-ninth World Health Assembly – Daily update: 21 May 2026",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/wha79-committee-b-session.tmb-1200v.jpg?sfvrsn=7cbdc5d7_1"
+        },
+        {
+          "id": "urn:uuid:1c66fe72-dcef-41ce-82a6-76ba7da44582",
+          "author": null,
+          "description": "Summary of discussions of 20 May at the Seventy-ninth World Health Assembly.",
+          "link": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026",
+          "publishedOn": "2026-05-21T19:48:30.000Z",
+          "wordCount": 2041,
+          "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/behind-the-scenes-wha-may-2026.tmb-1200v.jpg?sfvrsn=ca9ec689_1"
+        },
+        {
           "id": "urn:uuid:089392f3-dec6-4fdf-a73d-cc9c8710385d",
           "author": null,
           "description": "Summary of discussions of 19 May at Seventy-ninth World Health Assembly",
@@ -3008,6 +3018,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=278317",
+          "author": "Jordan Sollof",
+          "description": "The Rotherham NHS Foundation Trust has reduced IT help desk call volumes by 28% after introducing an AI-powered autonomous agent.",
+          "link": "https://www.digitalhealth.net/2026/05/rotherham-nhs-ft-cuts-it-help-desk-calls-by-28-with-ai/",
+          "publishedOn": "2026-05-22T06:30:45.000Z",
+          "wordCount": 4658,
+          "title": "Rotherham NHS FT cuts IT help desk calls by 28% with AI",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/10/James-Rawlinson-1.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=278243",
           "author": "Jordan Sollof",
