@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-23T03:22:48.099Z</updated>
+    <updated>2026-05-23T06:28:31.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seventy-ninth World Health Assembly – Daily update: 22 May 2026]]></title>
+        <id>urn:uuid:a3ccaa85-7aca-476b-acfc-9d6e8996c1d2</id>
+        <link href="https://www.who.int/news/item/22-05-2026-seventy-ninth-world-health-assembly-daily-update-22-may-2026"/>
+        <updated>2026-05-22T19:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Summary of discussions of 22 May at the Seventy-ninth World Health Assembly.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations]]></title>
+        <id>urn:uuid:89dccf36-7887-42d5-8881-b9e73860b094</id>
+        <link href="https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations"/>
+        <updated>2026-05-22T15:22:03.000Z</updated>
+        <summary type="html"><![CDATA[The Committee’s advice aligned with the determination by the WHO Director-General that the event constitutes a public health emergency of international concern (PHEIC), but does not meet the criteria for pandemic emergency. The DG, considering the advice of the Committee, he is hereby issuing the following temporary recommendations to all States Parties.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Under-pressure GP charity forced to limit registrar support]]></title>
         <id>https://www.gponline.com/article/1959049</id>
