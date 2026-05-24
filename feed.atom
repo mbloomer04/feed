@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-24T02:33:10.923Z</updated>
+    <updated>2026-05-24T06:29:46.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -152,6 +152,16 @@
         <link href="https://www.gov.uk/government/publications/cqc-annual-report-and-accounts-2024-to-2025"/>
         <updated>2026-05-21T14:58:37.000Z</updated>
         <summary type="html"><![CDATA[Care Quality Commission (CQC) annual report and accounts for the 2024 to 2025 financial year.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £25,000, December 2025]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-25000-december-2025</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-25000-december-2025"/>
+        <updated>2026-05-21T14:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental spending over £25,000.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2119,17 +2129,6 @@ Building on the success of Polaris I held in April 2025, which centered on a fic
         <summary type="html"><![CDATA[A rural GP practice that was set to close at the end of May could now stay open after a former prime minister stepped in.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests]]></title>
-        <id>urn:uuid:dcc9187c-dd2a-4402-9f4b-27cf2ff98b8f</id>
-        <link href="https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests"/>
-        <updated>2026-04-24T16:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment developed specifically for newborns and young infants weighing between two and five kilograms. The prequalification designation indicates that the medicine meets international standards of quality, safety and efficacy, and will help to expand access to quality-assured treatment for one of the most underserved patient groups.
-The newly prequalified treatment, artemether-lumefantrine, is the first antimalarial formulation designed specifically for the youngest malaria patients. Until now, infants with malaria have been treated with formulations intended for older children, which increase the risk of …]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
