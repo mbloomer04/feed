@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2f5bb944-ad35-4049-9e46-c357d4458ecc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE‑2026‑34926 allows code injection via directory traversal in Trend Micro Apex One on‑premise servers.\n CVE‑2026‑34926 allows code injection via directory traversal in Trend Micro Apex One on‑premise servers.\n Updated: 26 May 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4789",
+          "publishedOn": "2026-05-26T12:36:00.000Z",
+          "wordCount": null,
+          "title": "CC-4789 - Trend Micro Releases Security Update for Actively Exploited Medium Severity Vulnerability in Apex One",
+          "imageUrl": null
+        },
+        {
           "id": "353e9295-4923-4436-9f67-8062f72ae7cb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Updated: 21 May 2026",
@@ -1250,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959259",
+          "author": null,
+          "description": "GP practices will take action around medicines optimisation and prescribing from 1 June as the profession ramps up pressure on the government over the imposed 2026/27 contract.",
+          "link": "https://www.gponline.com/bma-sets-next-steps-gps-ramp-collective-action/article/1959259",
+          "publishedOn": "2026-05-26T08:47:38.000Z",
+          "wordCount": 739,
+          "title": "BMA sets out next steps as GPs ramp up collective action",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_67.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959166",
           "author": null,
           "description": "GP practices should obtain expert HR advice before recruiting GPs under the new practice-level reimbursement scheme to ensure they understand any potential redundancy liabilities, a leading GP practice manager has warned.",
@@ -1877,6 +1897,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/government-response-to-the-women-and-equalities-committee-report-on-the-menstrual-health-of-girls-and-young-women",
+          "author": null,
+          "description": "The government’s response to the recommendations made by the House of Commons Women and Equalities Committee in its 12th report of session 2024 to 2026.",
+          "link": "https://www.gov.uk/government/publications/government-response-to-the-women-and-equalities-committee-report-on-the-menstrual-health-of-girls-and-young-women",
+          "publishedOn": "2026-05-26T10:23:04.000Z",
+          "wordCount": 1188,
+          "title": "Policy paper: Government response to the Women and Equalities Committee report on the menstrual health of girls and young women",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/strengthening-the-regulation-of-commercial-sunbeds-in-england",
           "author": null,
@@ -2958,6 +2988,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=279457",
+          "author": "Jordan Sollof",
+          "description": "Alcidion’s Paul Deffley and Tracy McClelland join Jordan Sollof to discuss why patient flow is essential for the NHS and patients.",
+          "link": "https://www.digitalhealth.net/2026/05/fixing-patient-flow-in-healthcare/",
+          "publishedOn": "2026-05-26T12:30:57.000Z",
+          "wordCount": 5147,
+          "title": "Fixing patient flow in healthcare",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Digital-Health-Podcast-Episode-122-Header.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=279143",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features VR technology for post-op recovery and an app to help men improve their fertility.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-169/",
+          "publishedOn": "2026-05-26T10:30:00.000Z",
+          "wordCount": 4323,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=279243",
           "author": "Jordan Sollof",
