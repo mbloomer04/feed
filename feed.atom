@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-28T02:27:39.537Z</updated>
+    <updated>2026-05-28T06:46:11.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System C completes Badgernet maternity rollout in Wales]]></title>
+        <id>https://www.digitalhealth.net/?p=282813</id>
+        <link href="https://www.digitalhealth.net/2026/05/system-c-completes-badgernet-maternity-rollout-in-wales/"/>
+        <updated>2026-05-28T06:30:47.000Z</updated>
+        <summary type="html"><![CDATA[System C has completed the rollout of its BadgerNet maternity platform across all seven NHS health boards in Wales.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMA to ballot GPs on switch to 'Plan B' semi-private contract]]></title>
         <id>https://www.gponline.com/article/1959526</id>
