@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959555",
+          "author": null,
+          "description": "Doctors’ leaders will vote on a call to block changes to advice and guidance that make it a core requirement of the GP contract, warning that it will lead to a transfer of work from consultants to GPs and uncertainty over medicolegal responsibility.",
+          "link": "https://www.gponline.com/doctors-vote-blocking-advice-guidance-gp-contract-change/article/1959555",
+          "publishedOn": "2026-05-28T08:07:59.000Z",
+          "wordCount": 786,
+          "title": "Doctors to vote on blocking advice and guidance GP contract change",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2096299680-ezgif.com-optijpeg_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959526",
           "author": null,
           "description": "GPs in England will be balloted on a 'Plan B' alternative to the current GP contract that would expand options for providing private services to patients, in a landmark move confirmed by the BMA.",
@@ -1879,16 +1889,6 @@
           "wordCount": 2256,
           "title": "1,000 NHS staff call Martha’s Rule helplines in first 18 months",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=286422",
-          "author": "nowen",
-          "description": "Hospital patients at every NHS trust across England can now check their referrals and appointments through the NHS App, making it easier for millions of people to manage their care in one place. Around two-thirds (64%) of all hospital appointments are currently visible through the app, with many patients also able to reschedule or cancel appointments – helping to cut the number of missed […]",
-          "link": "https://www.england.nhs.uk/2026/04/hospital-patients-can-now-check-appointments-in-the-nhs-app/",
-          "publishedOn": "2026-04-28T21:30:25.000Z",
-          "wordCount": 1417,
-          "title": "Hospital patients can now check appointments in the NHS App",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1897,6 +1897,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/msk-patients-to-get-faster-care-and-help-returning-to-work",
+          "author": null,
+          "description": "Thousands of patients with painful joint and muscle conditions will receive employment support and treatment to tackle health-related economic inactivity.",
+          "link": "https://www.gov.uk/government/news/msk-patients-to-get-faster-care-and-help-returning-to-work",
+          "publishedOn": "2026-05-28T10:35:10.000Z",
+          "wordCount": 3270,
+          "title": "MSK patients to get faster care and help returning to work",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-may-2026",
+          "author": null,
+          "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-may-2026",
+          "publishedOn": "2026-05-28T09:09:34.000Z",
+          "wordCount": 670,
+          "title": "Official Statistics: Adult social care provider statistics, England: quarterly update to May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/government-response-to-the-women-and-equalities-committee-report-on-the-menstrual-health-of-girls-and-young-women",
           "author": null,
@@ -2948,6 +2968,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=279159",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a methodology for testing medical mattresses and research into how brains are interpreted and measured.",
+          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-170/",
+          "publishedOn": "2026-05-28T10:30:53.000Z",
+          "wordCount": 4416,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=282813",
           "author": "Jordan Sollof",
