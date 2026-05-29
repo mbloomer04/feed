@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959596",
+          "author": null,
+          "description": "GPonline editor Emma Bower and deputy editor Nick Bostock discuss the dispute between the BMA and government about the GP contract, an update on the GP reimbursement scheme and what the new Health Bill means for general practice.",
+          "link": "https://www.gponline.com/podcast-bma-ballot-plan-b-gp-contracts-nhs-workforce-plan-single-patient-record-fears/article/1959596",
+          "publishedOn": "2026-05-29T07:07:00.000Z",
+          "wordCount": 791,
+          "title": "Podcast: BMA to ballot on ‘plan B’ for GP contracts, NHS workforce plan, single patient record fears",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeEmmaandNick858x575.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959555",
           "author": null,
           "description": "Doctors’ leaders will vote on a call to block changes to advice and guidance that make it a core requirement of the GP contract, warning that it will lead to a transfer of work from consultants to GPs and uncertainty over medicolegal responsibility.",
@@ -2752,6 +2762,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:b6439fef-5fb9-4f3c-b3aa-66de68ef2281",
+          "author": null,
+          "description": "In response to the current outbreak of Ebola disease caused by Bundibugyo virus occurring in the Democratic Republic of the Congo, with cases also reported in Uganda, WHO convened several of its expert and advisory groups. These groups assessed potential vaccines and therapeutics for both prevention and treatment of Bundibugyo virus disease (BVD).",
+          "link": "https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus",
+          "publishedOn": "2026-05-28T19:10:18.000Z",
+          "wordCount": 3335,
+          "title": "Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2026---ebola-outbreak---drc/preparing-ebola-treatment-centre-drc.tmb-1200v.jpg?sfvrsn=730cdd6a_1"
+        },
+        {
           "id": "urn:uuid:33a87257-8d45-4abe-adf7-f6348aa39ea5",
           "author": null,
           "description": "To the people of DRC, especially to the people of Ituri \nJambo kwenu wakahaji wa Ituri \nMbote na bino, bato ya Ituri \nMy name is Tedros, and I am the Director-General of the World Health Organization (WHO). But today, I am not writing to you as an official. I am writing to you as someone who knows your region, who has walked your streets, and who cares deeply about what happens to you and your families. \nI am writing because I want to be with you in these moments. And I want you to know that you are not alone. \nEbola is not new to me personally. From 2018 to 2020, I came fourteen times to North Kivu, the epicentre of the outbreak at that time. Fourteen visits to Beni, Butembo, Katwa, Goma, and many other communities. During that outbreak, Ebola spread across North Kivu, South Kivu, and rea…",
@@ -2948,6 +2968,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=282841",
+          "author": "Jordan Sollof",
+          "description": "NHS Shared Business Services (NHS SBS) has partnered with Salesforce to launch an AI platform to support NHS finance and procurement.",
+          "link": "https://www.digitalhealth.net/2026/05/nhs-sbs-and-salesforce-launch-ai-finance-support-platform/",
+          "publishedOn": "2026-05-29T06:30:44.000Z",
+          "wordCount": 4562,
+          "title": "NHS SBS and Salesforce launch AI finance support platform",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/John-Murphy-NHS-SBS.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=282833",
           "author": "Jordan Sollof",
