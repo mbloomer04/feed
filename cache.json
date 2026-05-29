@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959196",
+          "author": null,
+          "description": "The outdated GP funding formula should be replaced with an updated system for weighting payments per patient that reflects morbidity and deprivation, with further adjustments for practice capacity and unmet need, a study suggests.",
+          "link": "https://www.gponline.com/replace-carr-hill-new-model-reflecting-morbidity-deprivation-capacity-say-experts/article/1959196",
+          "publishedOn": "2026-05-29T08:33:00.000Z",
+          "wordCount": 768,
+          "title": "Replace Carr-Hill with new model reflecting morbidity, deprivation and capacity, say experts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-1176717524.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959596",
           "author": null,
           "description": "GPonline editor Emma Bower and deputy editor Nick Bostock discuss the dispute between the BMA and government about the GP contract, an update on the GP reimbursement scheme and what the new Health Bill means for general practice.",
@@ -1877,6 +1887,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027",
+          "author": null,
+          "description": "A letter to community pharmacy contractors to set out the detail of the agreed funding arrangements for community pharmacy.",
+          "link": "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027",
+          "publishedOn": "2026-05-29T11:30:04.000Z",
+          "wordCount": 946,
+          "title": "Guidance: Community Pharmacy Contractual Framework: financial year 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/340m-pharmacy-boost-brings-faster-care-to-your-high-street",
           "author": null,

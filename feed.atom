@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-29T09:38:48.679Z</updated>
+    <updated>2026-05-29T12:43:01.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Community Pharmacy Contractual Framework: financial year 2026 to 2027]]></title>
+        <id>https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027</id>
+        <link href="https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"/>
+        <updated>2026-05-29T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[A letter to community pharmacy contractors to set out the detail of the agreed funding arrangements for community pharmacy.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replace Carr-Hill with new model reflecting morbidity, deprivation and capacity, say experts]]></title>
+        <id>https://www.gponline.com/article/1959196</id>
+        <link href="https://www.gponline.com/replace-carr-hill-new-model-reflecting-morbidity-deprivation-capacity-say-experts/article/1959196"/>
+        <updated>2026-05-29T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The outdated GP funding formula should be replaced with an updated system for weighting payments per patient that reflects morbidity and deprivation, with further adjustments for practice capacity and unmet need, a study suggests.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: BMA to ballot on ‘plan B’ for GP contracts, NHS workforce plan, single patient record fears]]></title>
         <id>https://www.gponline.com/article/1959596</id>
