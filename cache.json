@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "CC-4775 - SonicWall Releases Security Updates for SonicOS",
           "imageUrl": null
-        },
-        {
-          "id": "45a6cfb8-45f7-4bd3-9529-b739a2cc6369",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2026-41940 could allow unauthenticated remote attackers to gain unauthorised access to the affected cPanel management console\n CVE-2026-41940 could allow unauthenticated remote attackers to gain unauthorised access on the affected cPanel management console\n Updated: 30 Apr 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4774",
-          "publishedOn": "2026-04-30T10:34:00.000Z",
-          "wordCount": null,
-          "title": "CC-4774 - Critical Vulnerability in cPanel and Web Host Manager (WHM)",
-          "imageUrl": null
         }
       ]
     },
@@ -3527,16 +3517,6 @@
           "wordCount": 4452,
           "title": "First look at Digital Health Summer Schools 2026 programme",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/04/Summer-Schools-2026-first-look.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=265387",
-          "author": "Samuel Webb",
-          "description": "Today's briefing includes cyberattacks on Ukraine's hospitals and tech that stops organs getting damaged in transit.",
-          "link": "https://www.digitalhealth.net/2026/04/digital-health-coffee-time-briefing-%e2%98%95-162/",
-          "publishedOn": "2026-04-30T10:30:12.000Z",
-          "wordCount": 4490,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
         }
       ]
     },
