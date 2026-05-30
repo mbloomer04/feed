@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-05-30T02:26:09.826Z</updated>
+    <updated>2026-05-30T06:16:33.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2145,49 +2145,6 @@ Countries today ended the resumed session of the sixth meeting of the Intergover
         <summary type="html"><![CDATA[More than 1,000 NHS staff across England have used Martha’s Rule helplines to help identify rapid deterioration of a patient’s condition in the first 18 months of the scheme, new figures show. Latest NHS England data shows that between September 2024 and February 2026, 1,781 calls were made by hospital staff to Martha’s Rule helplines […]]]></summary>
         <author>
             <name>rwootton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4776 - Proof-of-Concept Exploit Released for Local Privilege Escalation Vulnerability in the Linux Kernel]]></title>
-        <id>eef1c9ea-044f-438a-8188-52d330528051</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4776"/>
-        <updated>2026-04-30T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2026-31431 (dubbed "Copy Fail") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.
- CVE-2026-31431 (dubbed "Copy Fail") affects all Linux kernel builds since 2017, and could allow a local, unprivileged attacker to escalate privileges to root.
- Updated: 30 Apr 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government funds ambulances after arson attack]]></title>
-        <id>https://www.gov.uk/government/news/government-funds-ambulances-after-arson-attack</id>
-        <link href="https://www.gov.uk/government/news/government-funds-ambulances-after-arson-attack"/>
-        <updated>2026-04-30T15:30:50.000Z</updated>
-        <summary type="html"><![CDATA[The Government has confirmed it will provide a grant for new electric ambulances to replace those destroyed in arson attack.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practice-level GP reimbursement scheme limited to salaried GPs]]></title>
-        <id>https://www.gponline.com/article/1956660</id>
-        <link href="https://www.gponline.com/practice-level-gp-reimbursement-scheme-limited-salaried-gps/article/1956660"/>
-        <updated>2026-04-30T15:23:22.000Z</updated>
-        <summary type="html"><![CDATA[A practice-level reimbursement scheme introduced as part of the imposed 2026/27 GP contract will only allow practices to claim funding for salaried GP roles - and will exclude practices that are not members of PCNs.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statutory guidance: General Medical Services Statement of Financial Entitlements Directions]]></title>
-        <id>https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions</id>
-        <link href="https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions"/>
-        <updated>2026-04-30T14:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
