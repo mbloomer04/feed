@@ -1798,6 +1798,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/20000-fewer-ae-visits-a-year-thanks-to-single-patient-record",
+          "author": null,
+          "description": "NHS Modernisation Bill will introduce the single patient record, resulting in safer, more co-ordinated care for patients.",
+          "link": "https://www.gov.uk/government/news/20000-fewer-ae-visits-a-year-thanks-to-single-patient-record",
+          "publishedOn": "2026-05-31T23:01:02.000Z",
+          "wordCount": 3197,
+          "title": "20,000 fewer A&E visits a year thanks to single patient record",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-april-2026",
           "author": null,
           "description": "Reports on departmental staff numbers and costs.",
