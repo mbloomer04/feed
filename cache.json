@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "64a72560-5dcb-48ba-8e85-ebb57a102048",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑0257 allows unauthenticated attackers to establish unauthorised VPN connections via affected PAN‑OS GlobalProtect deployments.\n Successful exploitation of CVE‑2026‑0257 allows unauthenticated attackers to establish unauthorised VPN connections via affected PAN‑OS GlobalProtect deployments.\n Updated: 01 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4790",
+          "publishedOn": "2026-06-01T12:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4790 - Active Exploitation of Authentication Bypass Vulnerability in Palo Alto Network's PAN-OS GlobalProtect",
+          "imageUrl": null
+        },
+        {
           "id": "2f5bb944-ad35-4049-9e46-c357d4458ecc",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑34926 allows code injection via directory traversal in Trend Micro Apex One on‑premise servers.\n CVE‑2026‑34926 allows code injection via directory traversal in Trend Micro Apex One on‑premise servers.\n Updated: 26 May 2026",
@@ -1230,6 +1240,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959949",
+          "author": null,
+          "description": "GPs fear concerns about a single patient record risk being 'brushed under the carpet' as MPs prepare to debate the new Health Bill.",
+          "link": "https://www.gponline.com/gps-flag-single-patient-record-risks-mps-debate-health-bill/article/1959949",
+          "publishedOn": "2026-06-01T09:31:56.000Z",
+          "wordCount": 936,
+          "title": "GPs flag single patient record risks as MPs debate Health Bill",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-SolStock_RF_16.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959749",
           "author": null,
           "description": "Pharmacists who are independent prescribers will be able to assess patients and prescribe medicines directly in an expansion of Pharmacy First, the government has said.",
@@ -1278,6 +1298,16 @@
           "wordCount": 765,
           "title": "BMA to ballot GPs on switch to 'Plan B' semi-private contract",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_26.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1959483",
+          "author": null,
+          "description": "There’s an old truth in politics that no MP wants to see a hospital closed in their constituency, and conversely that every MP wants to see a hospital open in their constituency. It seems that the same could now be said of neighbourhood health centres.",
+          "link": "https://www.gponline.com/analysis-politics-helped-shape-map-englands-new-neighbourhood-health-centres/article/1959483",
+          "publishedOn": "2026-05-27T14:02:26.000Z",
+          "wordCount": 1837,
+          "title": "Analysis: How politics helped shape the map of England's new neighbourhood health centres",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Screenshot2026-06-01at16.00.48.png"
         },
         {
           "id": "https://www.gponline.com/article/1959432",
@@ -2878,6 +2908,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=285153",
+          "author": "Jordan Sollof",
+          "description": "The government has claimed that the single patient record could prevent up to 20,000 A&E visits and save the NHS more than £20m annually.",
+          "link": "https://www.digitalhealth.net/2026/06/single-patient-record-could-cut-20000-ae-visits-a-year-gov-claims/",
+          "publishedOn": "2026-06-01T12:30:45.000Z",
+          "wordCount": 6734,
+          "title": "Single patient record could cut 20,000 A&E visits a year, gov claims",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/James-Murray.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=283429",
           "author": "Jordan Sollof",
