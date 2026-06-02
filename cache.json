@@ -1828,6 +1828,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2026-to-2027",
+          "author": null,
+          "description": "This consultation seeks views on the DHSC group accounting manual that applies to DHSC bodies for their annual reports and accounts.",
+          "link": "https://www.gov.uk/government/consultations/changes-to-dhsc-group-accounting-manual-2026-to-2027",
+          "publishedOn": "2026-06-02T15:52:11.000Z",
+          "wordCount": 1152,
+          "title": "Changes to DHSC group accounting manual 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2026-to-2027",
+          "author": null,
+          "description": "Mandatory annual reports and accounts guidelines for the Department of Health and Social Care (DHSC) group bodies.",
+          "link": "https://www.gov.uk/government/publications/dhsc-group-accounting-manual-2026-to-2027",
+          "publishedOn": "2026-06-02T15:52:01.000Z",
+          "wordCount": 969,
+          "title": "Guidance: DHSC group accounting manual 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2026",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
