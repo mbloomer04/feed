@@ -1838,6 +1838,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/2024-voluntary-scheme-for-branded-medicines-pricing-access-and-growth",
+          "author": null,
+          "description": "An agreement between DHSC, NHS England and ABPI to support patient access to medicines, the financial sustainability of the NHS and the UK life sciences sector.",
+          "link": "https://www.gov.uk/government/publications/2024-voluntary-scheme-for-branded-medicines-pricing-access-and-growth",
+          "publishedOn": "2026-06-02T08:56:28.000Z",
+          "wordCount": 1191,
+          "title": "Policy paper: 2024 voluntary scheme for branded medicines pricing, access and growth",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
           "author": null,
           "description": "Guidance for GP practices, hospitals, hospices and medical examiner offices on how to order MCCDs and what to do with completed MCCDs.",
@@ -2918,6 +2928,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=283347",
+          "author": "Samuel Webb",
+          "description": "University Hospitals Birmingham NHS Foundation Trust and Miziac will digitise more than 235m patient record images by December 2026.",
+          "link": "https://www.digitalhealth.net/2026/06/birmingham-nhs-trust-to-digitise-over-235m-patient-records/",
+          "publishedOn": "2026-06-02T06:30:53.000Z",
+          "wordCount": 6333,
+          "title": "Birmingham NHS trust to digitise over 235m patient records",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Mark-Foster-UHB.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=285153",
           "author": "Jordan Sollof",
