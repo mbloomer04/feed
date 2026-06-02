@@ -1819,16 +1819,6 @@
           "wordCount": 1885,
           "title": "NHS and Morrisons put cancer warning signs in the shower",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=286576",
-          "author": "rwootton",
-          "description": "Tens of thousands of patients could benefit from a ‘rapid’ new immunotherapy jab on the NHS for over a dozen different cancers, which can be given in just 60 seconds. The NHS is rolling out a new injectable form of pembrolizumab (Keytruda) which can slash the time the treatment takes by up to 90%, to […]",
-          "link": "https://www.england.nhs.uk/2026/05/1-minute-immunotherapy-jab-rolled-out-on-nhs-for-tens-of-thousands-with-cancer/",
-          "publishedOn": "2026-05-03T23:01:03.000Z",
-          "wordCount": 1712,
-          "title": "‘1-minute’ immunotherapy jab rolled out on NHS for tens of thousands with cancer",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1837,6 +1827,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2026",
+          "publishedOn": "2026-06-02T14:14:53.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, April 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027",
+          "author": null,
+          "description": "Non-executive appointments to the Department of Health and Social Care's public bodies and committees from April 2026 to March 2027.",
+          "link": "https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027",
+          "publishedOn": "2026-06-02T14:01:48.000Z",
+          "wordCount": 1248,
+          "title": "Guidance: DHSC public appointments: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/major-expansion-of-research-and-treatment-for-prostate-cancer",
+          "author": null,
+          "description": "Government announces over £20 million to improve prostate cancer research and treatment, including improving access to a major trial for Black men.",
+          "link": "https://www.gov.uk/government/news/major-expansion-of-research-and-treatment-for-prostate-cancer",
+          "publishedOn": "2026-06-02T13:18:41.000Z",
+          "wordCount": 5074,
+          "title": "Major expansion of research and treatment for prostate cancer",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/prostate-cancer-screening-equality-impact-assessment",
+          "author": null,
+          "description": "Equality impact assessment of the introduction of targeted screening for prostate cancer.",
+          "link": "https://www.gov.uk/government/publications/prostate-cancer-screening-equality-impact-assessment",
+          "publishedOn": "2026-06-02T11:05:23.000Z",
+          "wordCount": 838,
+          "title": "Impact assessment: Prostate cancer screening: equality impact assessment",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/organisations/department-of-health-and-social-care/about/statistics",
+          "author": null,
+          "description": "Statistics published by the Department of Health and Social Care (DHSC).",
+          "link": "https://www.gov.uk/government/organisations/department-of-health-and-social-care/about/statistics",
+          "publishedOn": "2026-06-02T10:51:08.000Z",
+          "wordCount": 1462,
+          "title": "Statistics at DHSC",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/2024-voluntary-scheme-for-branded-medicines-pricing-access-and-growth",
           "author": null,
@@ -2928,6 +2968,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=283411",
+          "author": "Samuel Webb",
+          "description": "Hampshire and Isle of Wight Integrated Care Board (HIOW ICB) has gone live with the IEG4 digital continuing healthcare solution.",
+          "link": "https://www.digitalhealth.net/2026/06/hampshire-and-isle-of-wight-adopts-continuing-healthcare-platform/",
+          "publishedOn": "2026-06-02T12:30:54.000Z",
+          "wordCount": 6354,
+          "title": "Hampshire and Isle of Wight adopts continuing healthcare platform",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/02/shutterstock_2469378577-1.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=283201",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a video-on-demand interpreting service and an AI tool that can estimate a child’s risk of developing ADHD.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-171/",
+          "publishedOn": "2026-06-02T10:30:46.000Z",
+          "wordCount": 6528,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=283347",
           "author": "Samuel Webb",
