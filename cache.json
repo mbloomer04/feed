@@ -1240,6 +1240,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959666",
+          "author": null,
+          "description": "Exclusive: Only 8.5% of the £1.7bn additional roles reimbursement scheme (ARRS) budget was spent on employing GPs in 2025/26, figures obtained by GPonline suggest.",
+          "link": "https://www.gponline.com/just-1-every-12-arrs-budget-spent-gps/article/1959666",
+          "publishedOn": "2026-06-03T16:00:00.000Z",
+          "wordCount": 942,
+          "title": "Just £1 in every £12 of ARRS budget spent on GPs",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Coin_GettyImages-Alphotographic_RF.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1960352",
+          "author": null,
+          "description": "When we were collating the location data for England’s first 27 neighbourhood health centres, we were simply creating a map to inform our special report on The Vision for Neighbourhood Health. We had no idea what was lurking beneath the surface.",
+          "link": "https://www.gponline.com/why-so-neighbourhood-health-centres-going-labour-constituencies-why-does-matter/article/1960352",
+          "publishedOn": "2026-06-03T15:25:16.000Z",
+          "wordCount": 997,
+          "title": "Why are so many neighbourhood health centres going to Labour constituencies - and why does it matter?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MHNNeighbourhoodReport-6-880x550pxMIMsThumbnail_1.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1960275",
           "author": null,
           "description": "Health Bill legislation should clarify how funding will follow services out of hospital as part of neighbourhood NHS reforms, the RCGP has warned.",
@@ -1800,6 +1820,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=287850",
+          "author": "jboshell",
+          "description": "The chair of the NHS’s groundbreaking new online hospital trust has been named as business leader and former supermarket chief executive John Browett. NHS Online, which will provide virtual specialist care for patients through the NHS App and video consultations, has now been formally established as the Online NHS Trust. John is a former chief […]",
+          "link": "https://www.england.nhs.uk/2026/06/chair-of-new-nhs-online-hospital-trust-is-named/",
+          "publishedOn": "2026-06-03T12:59:58.000Z",
+          "wordCount": 2160,
+          "title": "Chair of new NHS online hospital trust is named",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=287535",
           "author": "jboshell",
