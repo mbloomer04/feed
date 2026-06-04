@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c5fad7d7-3580-42e6-9ecd-aaf16748c99a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n If exploited, CVE-2026-20230 could allow a remote unauthenticated attacker to elevate privileges to root\n If exploited, CVE-2026-20230 could allow a remote unauthenticated attacker to elevate privileges to root\n Updated: 04 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4791",
+          "publishedOn": "2026-06-04T13:14:00.000Z",
+          "wordCount": null,
+          "title": "CC-4791 - Cisco Releases Security Advisory for Critical Vulnerability in Unified Communications Manager",
+          "imageUrl": null
+        },
+        {
           "id": "64a72560-5dcb-48ba-8e85-ebb57a102048",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑0257 allows unauthenticated attackers to establish unauthorised VPN connections via affected PAN‑OS GlobalProtect deployments.\n Successful exploitation of CVE‑2026‑0257 allows unauthenticated attackers to establish unauthorised VPN connections via affected PAN‑OS GlobalProtect deployments.\n Updated: 01 Jun 2026",
@@ -1240,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1960456",
+          "author": null,
+          "description": "NHS spending on weight-loss drug tirzepatide surged to £574m in 2025/26 - almost 5% of total community prescribing costs for the entire health service.",
+          "link": "https://www.gponline.com/tirzepatide-costs-surge-5-entire-nhs-community-prescribing-bill/article/1960456",
+          "publishedOn": "2026-06-04T10:26:05.000Z",
+          "wordCount": 934,
+          "title": "Tirzepatide costs surge to 5% of entire NHS community prescribing bill",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-Angel-Santana_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959666",
           "author": null,
           "description": "Exclusive: Only 8.5% of the £1.7bn additional roles reimbursement scheme (ARRS) budget was spent on employing GPs in 2025/26, figures obtained by GPonline suggest.",
@@ -1877,6 +1897,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/government-response-to-the-lord-mann-review-on-antisemitism-and-other-forms-of-racism-in-the-nhs",
+          "author": null,
+          "description": "The government response to the Lord Mann review into antisemitism and other forms of racism in the NHS.",
+          "link": "https://www.gov.uk/government/publications/government-response-to-the-lord-mann-review-on-antisemitism-and-other-forms-of-racism-in-the-nhs",
+          "publishedOn": "2026-06-04T12:57:57.000Z",
+          "wordCount": 994,
+          "title": "Policy paper: Government response to the Lord Mann review on antisemitism and other forms of racism in the NHS",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/lord-mann-review-on-antisemitism-and-other-forms-of-racism-in-the-nhs",
+          "author": null,
+          "description": "An urgent review led by Lord John Mann examining how the NHS, including employers and UK health regulators, identify, report and respond to antisemitism and other forms of racism.",
+          "link": "https://www.gov.uk/government/publications/lord-mann-review-on-antisemitism-and-other-forms-of-racism-in-the-nhs",
+          "publishedOn": "2026-06-04T12:57:52.000Z",
+          "wordCount": 973,
+          "title": "Independent report: Lord Mann review on antisemitism and other forms of racism in the NHS",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/lord-manns-recommendations-to-tackle-antisemitism-accepted",
           "author": null,
@@ -3088,6 +3128,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=286671",
+          "author": "Jordan Sollof",
+          "description": "Dermot Ryan, director of digital transformation at NHS England, has been announced as the latest speaker at Summer Schools 2026.",
+          "link": "https://www.digitalhealth.net/2026/06/nhses-dermot-ryan-confirmed-for-summer-schools-2026/",
+          "publishedOn": "2026-06-04T12:30:45.000Z",
+          "wordCount": 6523,
+          "title": "NHSE’s Dermot Ryan confirmed for Summer Schools 2026",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Dermot-Ryan-SS26.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=283271",
           "author": "Samuel Webb",
