@@ -1250,6 +1250,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1960539",
+          "author": null,
+          "description": "GPs in Kent and Medway have agreed a local variation to the PCN contract worth £10m to support neighbourhood development, in the first deal of its type signed off by NHS England.",
+          "link": "https://www.gponline.com/gps-agree-first-local-pcn-contract-variation-10m-neighbourhood-deal/article/1960539",
+          "publishedOn": "2026-06-04T16:04:34.000Z",
+          "wordCount": 958,
+          "title": "GPs agree first local PCN contract variation in £10m neighbourhood deal",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign-Nick-Apr26_full_1.jpeg"
+        },
+        {
           "id": "https://www.gponline.com/article/1960456",
           "author": null,
           "description": "NHS spending on weight-loss drug tirzepatide surged to £574m in 2025/26 - almost 5% of total community prescribing costs for the entire health service.",
@@ -3687,16 +3697,6 @@
           "wordCount": 6569,
           "title": "Digital tools key to improve patient flow in the NHS, report says",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Victoria-Betton.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=269571",
-          "author": "Jordan Sollof",
-          "description": "Bradford Teaching Hospitals NHS Foundation Trust has begun using AI with the aim of detecting skin cancer earlier.",
-          "link": "https://www.digitalhealth.net/2026/05/bradford-teaching-hospitals-uses-ai-to-detect-skin-cancer-faster/",
-          "publishedOn": "2026-05-06T06:30:20.000Z",
-          "wordCount": 4488,
-          "title": "Bradford Teaching Hospitals uses AI to detect skin cancer faster",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Zakir-Shariff-Bradford-Teaching-Hospitals.png"
         }
       ]
     },
