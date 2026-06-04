@@ -1878,6 +1878,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/lord-manns-recommendations-to-tackle-antisemitism-accepted",
+          "author": null,
+          "description": "Government to act on Lord Mann’s report about tackling racism and antisemitism in NHS.",
+          "link": "https://www.gov.uk/government/news/lord-manns-recommendations-to-tackle-antisemitism-accepted",
+          "publishedOn": "2026-06-04T08:42:02.000Z",
+          "wordCount": 3738,
+          "title": "Lord Mann's recommendations to tackle antisemitism accepted",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-provider-statistics-england-quarterly-update-to-may-2026",
+          "author": null,
+          "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-provider-statistics-england-quarterly-update-to-may-2026",
+          "publishedOn": "2026-06-04T08:30:03.000Z",
+          "wordCount": 1139,
+          "title": "Official Statistics: Adult social care provider statistics, England: quarterly update to May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-provider-statistics-england-background-quality-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the statistics in its quarterly reports.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-provider-statistics-england-background-quality-and-methodology",
+          "publishedOn": "2026-06-04T08:30:03.000Z",
+          "wordCount": 959,
+          "title": "Guidance: Adult social care provider statistics, England: background quality and methodology",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/brand-new-dental-school-places-in-dental-deserts",
           "author": null,
           "description": "Patients set to benefit from the first sustained expansion of dental school places in nearly 20 years.",
@@ -3058,6 +3088,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=283271",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features the detection of Alzheimer's using VR and a personal training platform that connects trainers and clients.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-172/",
+          "publishedOn": "2026-06-04T10:30:04.000Z",
+          "wordCount": 6500,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=286287",
           "author": "Jordan Sollof",
