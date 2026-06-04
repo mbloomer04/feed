@@ -1811,6 +1811,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=287839",
+          "author": "jboshell",
+          "description": "Hundreds of women with hard-to-treat ovarian cancer could benefit from a new, life-extending drug on the NHS from today – the first new addition to NHS treatment in over 20 years. The new targeted therapy – mirvetuximab soravtansine – will be offered to patients living with ovarian cancer whose disease has stopped responding to standard […]",
+          "link": "https://www.england.nhs.uk/2026/06/nhs-rolls-out-life-extending-drug-for-hundreds-of-women-with-ovarian-cancer/",
+          "publishedOn": "2026-06-03T23:01:32.000Z",
+          "wordCount": 1884,
+          "title": "NHS rolls out life-extending drug for hundreds of women with ovarian cancer",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=287850",
           "author": "jboshell",
           "description": "The chair of the NHS’s groundbreaking new online hospital trust has been named as business leader and former supermarket chief executive John Browett. NHS Online, which will provide virtual specialist care for patients through the NHS App and video consultations, has now been formally established as the Online NHS Trust. John is a former chief […]",
@@ -2636,16 +2646,6 @@
           "wordCount": 922,
           "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-prompt-payment-of-suppliers",
-          "author": null,
-          "description": "Proportion of payments made within 5 and 30 working days.",
-          "link": "https://www.gov.uk/government/publications/department-of-health-and-social-care-prompt-payment-of-suppliers",
-          "publishedOn": "2026-05-05T14:52:41.000Z",
-          "wordCount": 1853,
-          "title": "Transparency data: Department of Health and Social Care prompt payment of suppliers",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2841,6 +2841,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:0d64b0f6-a32a-4e83-a1ca-c701953f80eb",
+          "author": null,
+          "description": "Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organization (WHO).",
+          "link": "https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+          "publishedOn": "2026-06-03T22:30:07.000Z",
+          "wordCount": 3375,
+          "title": "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/food-safety/street-food-in-viet-nam.tmb-1200v.jpg?sfvrsn=983eb809_1"
+        },
         {
           "id": "urn:uuid:3254ae1a-f0ed-4033-b0f3-8eca1b8945dd",
           "author": null,
@@ -3587,16 +3597,6 @@
           "wordCount": 4488,
           "title": "Bradford Teaching Hospitals uses AI to detect skin cancer faster",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Zakir-Shariff-Bradford-Teaching-Hospitals.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=269153",
-          "author": "Samuel Webb",
-          "description": "Lincolnshire Partnership NHS Foundation Trust has selected the Portasana Patient Engagement Platform (PEP) to improve digital access.",
-          "link": "https://www.digitalhealth.net/2026/05/lincolnshire-partnership-chooses-portasana-pep/",
-          "publishedOn": "2026-05-05T12:30:13.000Z",
-          "wordCount": 4223,
-          "title": "Lincolnshire Partnership chooses Portasana PEP",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Simon-Kelshaw.png"
         }
       ]
     },
