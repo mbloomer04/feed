@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4778 - Apache Releases Security Update for Apache HTTP Server (HTTP/2)",
           "imageUrl": null
-        },
-        {
-          "id": "8124df48-d0c2-494a-9c87-e604f2f3a751",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n CVE‑2026‑0300 enables unauthenticated remote code execution with root privileges on exposed Palo Alto PAN‑OS firewalls\n Updated: 06 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4777",
-          "publishedOn": "2026-05-06T12:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4777 - Palo Alto Networks Releases Security Advisory for Critical Vulnerability in PAN‑OS",
-          "imageUrl": null
         }
       ]
     },
@@ -1988,6 +1978,16 @@
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "publishedOn": "2026-06-02T14:16:34.000Z",
+          "wordCount": 953,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-april-2026",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
@@ -3657,16 +3657,6 @@
           "wordCount": 6559,
           "title": "French firm Doctolib acquires GP IT supplier Medicus",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Doctolib-and-Medicus-CEOs.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=269803",
-          "author": "Jordan Sollof",
-          "description": "Digital tech should be used to support whole-system patient flow rather than simply improving bed management, Public Policy Projects states.",
-          "link": "https://www.digitalhealth.net/2026/05/digital-tools-key-to-improve-patient-flow-in-the-nhs-report-says/",
-          "publishedOn": "2026-05-06T12:30:40.000Z",
-          "wordCount": 6569,
-          "title": "Digital tools key to improve patient flow in the NHS, report says",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Victoria-Betton.png"
         }
       ]
     },
