@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-05T21:17:50.413Z</updated>
+    <updated>2026-06-05T22:59:09.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -24,6 +24,18 @@
         <summary type="html"><![CDATA[North Ayrshire Health and Social Care Partnership (HSCP) will implement Totalmobile's digital platform to improve care at home services.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Africa CDC and WHO launch joint continental Ebola response plan]]></title>
+        <id>urn:uuid:7fcf64d7-0d62-4ce3-9589-cf46e9d02e13</id>
+        <link href="https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"/>
+        <updated>2026-06-05T12:28:26.000Z</updated>
+        <summary type="html"><![CDATA[The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African countries together with partners to prepare for, rapidly detect and respond to the outbreak.
+The six-month plan, covering June to November 2026, brings together governments, partners and communities under a unified ‘One Response’ approach to strengthen outbreak response measures, including emergency coordination, disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for essential health services.
+The plan complem…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2418,16 +2430,6 @@ Watch the full press conference]]></summary>
         <summary type="html"><![CDATA[Research suggests older people are being excluded from GP services due to the shift towards digital-first booking systems.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=269045</id>
-        <link href="https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-164/"/>
-        <updated>2026-05-07T10:30:49.000Z</updated>
-        <summary type="html"><![CDATA[This week's briefing features Holland & Barrett's partnership with Phlo and an awards nod for a wound assessment app.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
         </author>
     </entry>
     <entry>
