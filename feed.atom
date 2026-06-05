@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-05T02:40:18.979Z</updated>
+    <updated>2026-06-05T07:00:22.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movers and Shakers news roundup]]></title>
+        <id>https://www.digitalhealth.net/?p=286865</id>
+        <link href="https://www.digitalhealth.net/2026/06/movers-and-shakers-news-roundup-72/"/>
+        <updated>2026-06-05T06:30:55.000Z</updated>
+        <summary type="html"><![CDATA[This Movers and Shakers roundup includes health secretary Wes Streeting's resignation and the appointment of his replacement James Murray.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPs agree first local PCN contract variation in £10m neighbourhood deal]]></title>
         <id>https://www.gponline.com/article/1960539</id>
@@ -2378,16 +2388,6 @@ Watch the full press conference]]></summary>
         <summary type="html"><![CDATA[French HealthTech firm Doctolib has acquired Medicus, aiming to bring improved technology, AI and services to GP practices across the UK.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could new PCN rules make neighbourhood contracts redundant?]]></title>
-        <id>https://www.gponline.com/article/1956846</id>
-        <link href="https://www.gponline.com/new-pcn-rules-neighbourhood-contracts-redundant/article/1956846"/>
-        <updated>2026-05-06T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Some ICBs could deliver neighbourhood plans entirely through local variation to the network contract DES and other existing NHS arrangements - meaning contracts for multi- and single-neighbourhood providers (MNPs and SNPs) may be redundant in parts of England before they are even published.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
