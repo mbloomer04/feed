@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-05T11:18:33.799Z</updated>
+    <updated>2026-06-05T14:28:54.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Housing and health in local strategic health planning]]></title>
+        <id>https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning</id>
+        <link href="https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning"/>
+        <updated>2026-06-05T12:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Findings from a national review of how housing features in local strategic health planning documents in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Ayrshire selects Totalmobile platform to modernise care visits]]></title>
+        <id>https://www.digitalhealth.net/?p=285789</id>
+        <link href="https://www.digitalhealth.net/2026/06/north-ayrshire-selects-totalmobile-platform-to-modernise-care-visits/"/>
+        <updated>2026-06-05T12:30:07.000Z</updated>
+        <summary type="html"><![CDATA[North Ayrshire Health and Social Care Partnership (HSCP) will implement Totalmobile's digital platform to improve care at home services.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Local areas prepare new Experts at Hand teams]]></title>
         <id>https://www.gov.uk/government/news/local-areas-prepare-new-experts-at-hand-teams</id>
