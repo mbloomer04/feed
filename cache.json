@@ -134,16 +134,6 @@
           "wordCount": null,
           "title": "CC-4779 - Proof-of-Concept Exploit Released for Vulnerabilities in the Linux Kernel",
           "imageUrl": null
-        },
-        {
-          "id": "1f290002-6a72-41ba-a70d-88f08bf879e9",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n CVE‑2026‑23918 could allow remote unauthenticated attackers to achieve remote code execution or denial‑of‑service on Apache HTTP Server\n Updated: 07 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4778",
-          "publishedOn": "2026-05-07T13:38:00.000Z",
-          "wordCount": null,
-          "title": "CC-4778 - Apache Releases Security Update for Apache HTTP Server (HTTP/2)",
-          "imageUrl": null
         }
       ]
     },
@@ -1718,16 +1708,6 @@
           "wordCount": 747,
           "title": "Neighbourhoods need longer-term funding guarantees",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JohnRibchester.jpeg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1957397",
-          "author": null,
-          "description": "In our latest in-depth report on the future of the NHS, the MIMS Healthcare Network examines the government's new guidance on the development of neighbourhood health centres and how they will change primary care.",
-          "link": "https://www.gponline.com/special-report-vision-neighbourhood-health-means-primary-care/article/1957397",
-          "publishedOn": "2026-05-07T15:28:20.000Z",
-          "wordCount": 768,
-          "title": "Special Report: The vision for neighbourhood health - and what it means for primary care",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MHNNeighbourhoodReport-6-880x550pxMIMsThumbnail.jpeg"
         }
       ]
     },
@@ -3687,16 +3667,6 @@
           "wordCount": 6552,
           "title": "Movers and Shakers news roundup",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2025/08/Movers-and-Shakers-new-graphic.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=271973",
-          "author": "Jordan Sollof",
-          "description": "Research suggests older people are being excluded from GP services due to the shift towards digital-first booking systems.",
-          "link": "https://www.digitalhealth.net/2026/05/older-people-isolated-due-to-online-gp-bookings-push-survey-finds/",
-          "publishedOn": "2026-05-07T12:30:14.000Z",
-          "wordCount": 6550,
-          "title": "GP online bookings causing isolation for older people, finds study",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Old-woman-using-digital-tablet.png"
         }
       ]
     },
