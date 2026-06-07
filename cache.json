@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "CC-4781 - Supply Chain Attack Affecting Numerous npm and PyPI Packages",
           "imageUrl": null
-        },
-        {
-          "id": "f1cc3c32-22c8-490c-8b52-48d582fce85f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code\n Updated: 08 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4780",
-          "publishedOn": "2026-05-08T14:58:00.000Z",
-          "wordCount": null,
-          "title": "CC-4780 - Ivanti Releases Security Updates for High‑Severity Vulnerabilities in Endpoint Manager Mobile (EPMM)",
-          "imageUrl": null
         }
       ]
     },

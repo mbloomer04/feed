@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-07T02:46:23.706Z</updated>
+    <updated>2026-06-07T07:00:22.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2283,19 +2283,6 @@ I know you are worried. I know that when you hear the word “outbreak” and wa
 But I need you to hear me clearly: this is not another COVID. The current public health …]]></summary>
         <author>
             <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4780 - Ivanti Releases Security Updates for High‑Severity Vulnerabilities in Endpoint Manager Mobile (EPMM)]]></title>
-        <id>f1cc3c32-22c8-490c-8b52-48d582fce85f</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4780"/>
-        <updated>2026-05-08T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code
- Two high‑severity vulnerabilities in Ivanti EPMM could enable authenticated attackers to gain administrative access and execute arbitrary code
- Updated: 08 May 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
