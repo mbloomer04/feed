@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7feceb06-4f37-4b8d-90ce-568a8fb0905f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Updated: 08 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4792",
+          "publishedOn": "2026-06-08T12:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4792 - Exploitation of Authentication Bypass Vulnerability in Check Point VPN",
+          "imageUrl": null
+        },
+        {
           "id": "c5fad7d7-3580-42e6-9ecd-aaf16748c99a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n If exploited, CVE-2026-20230 could allow a remote unauthenticated attacker to elevate privileges to root\n If exploited, CVE-2026-20230 could allow a remote unauthenticated attacker to elevate privileges to root\n Updated: 04 Jun 2026",
@@ -1210,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1960796",
+          "author": null,
+          "description": "Hospitals trusts taking control of general practice in England would pose an 'existential threat' to the GP partnership model - but this scenario is a 'likely' outcome of government plans for the NHS, the BMA has warned.",
+          "link": "https://www.gponline.com/hospital-led-general-practice-likely-outcome-government-nhs-plans-warns-bma/article/1960796",
+          "publishedOn": "2026-06-08T10:34:55.000Z",
+          "wordCount": 770,
+          "title": "Hospital-led general practice 'likely' outcome of government NHS plans, warns BMA",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_68.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959428",
           "author": null,
           "description": "Are you confident in identifying and managing chronic insomnia in diverse adult populations? Join us to learn from expert speakers in this five-part MIMS Learning webinar series.",
@@ -1218,6 +1238,16 @@
           "wordCount": 1137,
           "title": "Beyond sleepless nights 2026: managing chronic insomnia in adults",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/beyond-800x408.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1960739",
+          "author": null,
+          "description": "Weight-loss prescribing could consume a fifth of GPs’ time once roll out on the NHS is complete, an expert has warned.",
+          "link": "https://www.gponline.com/weight-loss-prescribing-could-20-gp-time-mps-urge-faster-rollout/article/1960739",
+          "publishedOn": "2026-06-08T08:00:00.000Z",
+          "wordCount": 742,
+          "title": "Weight-loss prescribing 'could take 20% of GP time' as MPs urge faster rollout",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/tirzepatide_GettyImages-coldsnowstorm_RF.png"
         },
         {
           "id": "https://www.gponline.com/article/1960445",
@@ -1837,6 +1867,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/case-studies/embedding-co-design-and-participation-in-early-years-services",
+          "author": null,
+          "description": "Policy Lab worked with the Department of Health and Social Care to develop a co-design toolkit enabling parents and carers to shape early years services.",
+          "link": "https://www.gov.uk/government/case-studies/embedding-co-design-and-participation-in-early-years-services",
+          "publishedOn": "2026-06-08T13:58:39.000Z",
+          "wordCount": 3309,
+          "title": "Embedding co-design and participation in early years services",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
+          "author": null,
+          "description": "First-ever government guidance on healthy screen use for children aged 5–16 .",
+          "link": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
+          "publishedOn": "2026-06-08T10:46:54.000Z",
+          "wordCount": 2546,
+          "title": "New guidance on screen use for children aged 5–16",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/skin-cancer-risks-from-sunbed-use-and-their-control",
           "author": null,
@@ -3068,6 +3118,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=288993",
+          "author": "Jordan Sollof",
+          "description": "NHS England is rolling out Microsoft 365 Copilot to 505,000 clinicians and support staff across healthcare services.",
+          "link": "https://www.digitalhealth.net/2026/06/nhse-to-roll-out-microsoft-ai-assistant-to-505000-nhs-staff/",
+          "publishedOn": "2026-06-08T12:30:57.000Z",
+          "wordCount": 6479,
+          "title": "NHSE to roll out Microsoft AI assistant to 505,000 NHS staff",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/03/Rob-Thompson.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=286317",
           "author": "Jordan Sollof",
