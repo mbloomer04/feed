@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-08T05:23:40.832Z</updated>
+    <updated>2026-06-08T10:20:33.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research: Skin cancer risks from sunbed use and their control]]></title>
+        <id>https://www.gov.uk/government/publications/skin-cancer-risks-from-sunbed-use-and-their-control</id>
+        <link href="https://www.gov.uk/government/publications/skin-cancer-risks-from-sunbed-use-and-their-control"/>
+        <updated>2026-06-08T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[COMARE’s 21st report reviews scientific evidence on skin cancer risks and other health effects from sunbed use and considers options for control of their use.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond sleepless nights 2026: managing chronic insomnia in adults]]></title>
+        <id>https://www.gponline.com/article/1959428</id>
+        <link href="https://www.gponline.com/beyond-sleepless-nights-2026-managing-chronic-insomnia-adults/article/1959428"/>
+        <updated>2026-06-08T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you confident in identifying and managing chronic insomnia in diverse adult populations? Join us to learn from expert speakers in this five-part MIMS Learning webinar series.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHSBT study to use AI and genomic data for blood matching]]></title>
+        <id>https://www.digitalhealth.net/?p=286317</id>
+        <link href="https://www.digitalhealth.net/2026/06/nhsbt-study-to-use-ai-and-genomic-data-for-blood-matching/"/>
+        <updated>2026-06-08T06:30:46.000Z</updated>
+        <summary type="html"><![CDATA[An NHS Blood and Transplant (NHSBT) study will evaluate an algorithm designed to improve blood matching for people with sickle cell disorder.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500,000 NHS staff to get new artificial intelligence tools to help free up more time for patients]]></title>
         <id>https://www.england.nhs.uk/?p=288088</id>

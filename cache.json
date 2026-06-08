@@ -1210,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959428",
+          "author": null,
+          "description": "Are you confident in identifying and managing chronic insomnia in diverse adult populations? Join us to learn from expert speakers in this five-part MIMS Learning webinar series.",
+          "link": "https://www.gponline.com/beyond-sleepless-nights-2026-managing-chronic-insomnia-adults/article/1959428",
+          "publishedOn": "2026-06-08T08:30:00.000Z",
+          "wordCount": 1137,
+          "title": "Beyond sleepless nights 2026: managing chronic insomnia in adults",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/beyond-800x408.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1960445",
           "author": null,
           "description": "Dr Nada Khan, a GP in Exeter and clinical lecturer in general practice at Exeter University, speaks to GPonline editor Emma Bower about her recent study on GP retention.",
@@ -1827,6 +1837,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/skin-cancer-risks-from-sunbed-use-and-their-control",
+          "author": null,
+          "description": "COMARE’s 21st report reviews scientific evidence on skin cancer risks and other health effects from sunbed use and considers options for control of their use.",
+          "link": "https://www.gov.uk/government/publications/skin-cancer-risks-from-sunbed-use-and-their-control",
+          "publishedOn": "2026-06-08T08:30:11.000Z",
+          "wordCount": 1098,
+          "title": "Research: Skin cancer risks from sunbed use and their control",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning",
           "author": null,
@@ -3048,6 +3068,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=286317",
+          "author": "Jordan Sollof",
+          "description": "An NHS Blood and Transplant (NHSBT) study will evaluate an algorithm designed to improve blood matching for people with sickle cell disorder.",
+          "link": "https://www.digitalhealth.net/2026/06/nhsbt-study-to-use-ai-and-genomic-data-for-blood-matching/",
+          "publishedOn": "2026-06-08T06:30:46.000Z",
+          "wordCount": 6592,
+          "title": "NHSBT study to use AI and genomic data for blood matching",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Dr-Sara-Trompeter.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=285789",
           "author": "Jordan Sollof",
