@@ -1220,6 +1220,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1959202",
+          "author": null,
+          "description": "Exclusive: Nearly 350,000 patients have been stripped from GP practices in an 'aggressive' list-cleaning drive - wiping around £45m from practice funding and forcing staff to spend hours re-registering patients removed inappropriately, GPonline can reveal.",
+          "link": "https://www.gponline.com/aggressive-list-cleaning-drive-strips-350000-patients-gp-practices/article/1959202",
+          "publishedOn": "2026-06-08T15:30:00.000Z",
+          "wordCount": 763,
+          "title": "'Aggressive' list-cleaning drive strips 350,000 patients from GP practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonline_8-June_andresr-GettyImages.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1960796",
           "author": null,
           "description": "Hospitals trusts taking control of general practice in England would pose an 'existential threat' to the GP partnership model - but this scenario is a 'likely' outcome of government plans for the NHS, the BMA has warned.",
@@ -1867,6 +1877,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
+          "author": null,
+          "description": "Government consults on new rights for unpaid carers and parents of seriously ill children, including whether paid leave could improve job opportunities.",
+          "link": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
+          "publishedOn": "2026-06-08T23:01:03.000Z",
+          "wordCount": 2413,
+          "title": "Unpaid carers and parents of seriously ill children could get new rights under Government proposals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/millions-to-get-faster-eye-care-on-the-high-street",
           "author": null,
