@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-07T22:56:33.394Z</updated>
+    <updated>2026-06-08T00:02:14.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[500,000 NHS staff to get new artificial intelligence tools to help free up more time for patients]]></title>
+        <id>https://www.england.nhs.uk/?p=288088</id>
+        <link href="https://www.england.nhs.uk/2026/06/500000-nhs-staff-to-get-new-artificial-intelligence-tools-to-help-free-up-more-time-for-patients/"/>
+        <updated>2026-06-07T23:01:17.000Z</updated>
+        <summary type="html"><![CDATA[More than half a million NHS staff are being given access to new artificial intelligence (AI) tools that could free up an average of 2 days every month from admin duties, freeing up more time for the duties that matter most for patients and staff. NHS England announced today that it is significantly accelerating AI […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research: Housing and health in local strategic health planning]]></title>
         <id>https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning</id>
@@ -2269,20 +2279,6 @@ Based on their joint presentation at Digital Health Rewired in spring 2026.]]></
         <summary type="html"><![CDATA[AI software that helps cardiologists make quicker and more accurate decisions has been rolled out at King’s College Hospital.]]></summary>
         <author>
             <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response]]></title>
-        <id>urn:uuid:786b32c2-0fe6-4232-bd27-e76f48537410</id>
-        <link href="https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response"/>
-        <updated>2026-05-09T11:14:23.000Z</updated>
-        <summary type="html"><![CDATA[To the people of Tenerife,
-My name is Tedros, and I serve as the Director-General of the World Health Organization, the United Nations agency responsible for global public health. It is not common for me to write directly to the people of a single community, but today I feel it is not only appropriate, it is necessary.
-I want to speak to you directly, not through press releases or technical briefings, but as one human being to another, because you deserve that.
-I know you are worried. I know that when you hear the word “outbreak” and watch a ship sail toward your shores, memories surface that none of us have fully put to rest. The pain of 2020 is still real, and I do not dismiss it for a single moment.
-But I need you to hear me clearly: this is not another COVID. The current public health …]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
