@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7dc07aca-a03c-4d6f-85eb-0e0ab6f31857",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)\n Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)\n Updated: 09 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4793",
+          "publishedOn": "2026-06-09T09:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4793 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "7feceb06-4f37-4b8d-90ce-568a8fb0905f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Updated: 08 Jun 2026",
@@ -1220,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1960858",
+          "author": null,
+          "description": "GPs have been left exposed to clinical negligence claims because of a ‘widening gulf’ between the law and use of AI in general practice, medico-legal experts have warned.",
+          "link": "https://www.gponline.com/gps-exposed-clinical-negligence-claims-due-ai-liability-gap/article/1960858",
+          "publishedOn": "2026-06-09T08:00:00.000Z",
+          "wordCount": 754,
+          "title": "GPs exposed to clinical negligence claims due to AI 'liability gap'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-computer-GettyImages-sturti_RF.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1959202",
           "author": null,
           "description": "Exclusive: Nearly 350,000 patients have been stripped from GP practices in an 'aggressive' list-cleaning drive - wiping around £45m from practice funding and forcing staff to spend hours re-registering patients removed inappropriately, GPonline can reveal.",
@@ -1887,6 +1907,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027",
+          "author": null,
+          "description": "The annual flu letter describes the national flu immunisation programme and outlines which groups are eligible for flu vaccination.",
+          "link": "https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027",
+          "publishedOn": "2026-06-09T08:50:53.000Z",
+          "wordCount": 996,
+          "title": "Correspondence: National flu immunisation programme plan 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "publishedOn": "2026-06-09T08:25:04.000Z",
+          "wordCount": 1276,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to December 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "publishedOn": "2026-06-09T08:23:38.000Z",
+          "wordCount": 1276,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
           "author": null,
@@ -3158,6 +3208,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=286623",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features an app designed to help people manage physical ageing and a health service being rolled out across 31 EU agencies.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-173/",
+          "publishedOn": "2026-06-09T10:30:15.000Z",
+          "wordCount": 4318,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=286711",
           "author": "Samuel Webb",
