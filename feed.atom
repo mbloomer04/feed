@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-08T23:58:04.902Z</updated>
+    <updated>2026-06-09T03:30:46.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -32,6 +32,16 @@
         <link href="https://www.gponline.com/aggressive-list-cleaning-drive-strips-350000-patients-gp-practices/article/1959202"/>
         <updated>2026-06-08T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[Exclusive: Nearly 350,000 patients have been stripped from GP practices in an 'aggressive' list-cleaning drive - wiping around £45m from practice funding and forcing staff to spend hours re-registering patients removed inappropriately, GPonline can reveal.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We're overwhelmed' - practices swamped by scale of patient removals]]></title>
+        <id>https://www.gponline.com/article/1960871</id>
+        <link href="https://www.gponline.com/were-overwhelmed-practices-swamped-scale-patient-removals/article/1960871"/>
+        <updated>2026-06-08T15:11:45.000Z</updated>
+        <summary type="html"><![CDATA['We won't really know how many patients have been wrongly removed from their GP practice until they pitch up expecting to be seen, because they think they're still patients,' warns Gateshead GP Dr Paul Evans.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>
