@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-09T23:13:46.213Z</updated>
+    <updated>2026-06-10T02:40:20.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer]]></title>
+        <id>https://www.england.nhs.uk/?p=288332</id>
+        <link href="https://www.england.nhs.uk/2026/06/nhs-to-offer-multi-beam-precision-radiotherapy-to-thousands-with-prostate-cancer/"/>
+        <updated>2026-06-09T23:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of men with prostate cancer are to be offered high-powered ‘precision’ radiotherapy on the NHS to target the disease more effectively, helping reduce side-effects and spare them 15 courses of treatment. NHS England has today announced that, for the first time, eligible men with early prostate cancer will be offered pioneering therapy known as […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4794 - Veeam Releases Security Advisory for Critical Vulnerability in Backup & Replication]]></title>
         <id>595bf287-912a-48ac-9c96-a1400c24019e</id>
@@ -2436,26 +2446,6 @@ Based on their joint presentation at Digital Health Rewired in spring 2026.]]></
         <link href="https://www.gponline.com/will-gps-unite-behind-collective-action/article/1957730"/>
         <updated>2026-05-11T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[Many LMCs seem to be backing collective action plans, but some GPs have questioned whether the BMA has gone far enough to rattle the government and bring it back to the negotiating table.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palantir to be granted ‘unlimited access’ to NHS patient data]]></title>
-        <id>https://www.digitalhealth.net/?p=274609</id>
-        <link href="https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/"/>
-        <updated>2026-05-11T12:30:15.000Z</updated>
-        <summary type="html"><![CDATA[The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMA lays out collective action roadmap and escalation plan]]></title>
-        <id>https://www.gponline.com/article/1957696</id>
-        <link href="https://www.gponline.com/bma-lays-collective-action-roadmap-escalation-plan/article/1957696"/>
-        <updated>2026-05-11T09:59:31.000Z</updated>
-        <summary type="html"><![CDATA[BMA GP leaders have set out advice for practices on implementing collective action and plans to 'up the ante' from next month, framing the measures as a direct challenge to government proposals expected in this week's King's Speech.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
         </author>

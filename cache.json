@@ -1738,16 +1738,6 @@
           "wordCount": 735,
           "title": "Will GPs unite behind collective action?",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS_GP_sign_10.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1957696",
-          "author": null,
-          "description": "BMA GP leaders have set out advice for practices on implementing collective action and plans to 'up the ante' from next month, framing the measures as a direct challenge to government proposals expected in this week's King's Speech.",
-          "link": "https://www.gponline.com/bma-lays-collective-action-roadmap-escalation-plan/article/1957696",
-          "publishedOn": "2026-05-11T09:59:31.000Z",
-          "wordCount": 755,
-          "title": "BMA lays out collective action roadmap and escalation plan",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_25.jpg"
         }
       ]
     },
@@ -1830,6 +1820,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=288332",
+          "author": "jboshell",
+          "description": "Thousands of men with prostate cancer are to be offered high-powered ‘precision’ radiotherapy on the NHS to target the disease more effectively, helping reduce side-effects and spare them 15 courses of treatment. NHS England has today announced that, for the first time, eligible men with early prostate cancer will be offered pioneering therapy known as […]",
+          "link": "https://www.england.nhs.uk/2026/06/nhs-to-offer-multi-beam-precision-radiotherapy-to-thousands-with-prostate-cancer/",
+          "publishedOn": "2026-06-09T23:01:35.000Z",
+          "wordCount": 1566,
+          "title": "NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=288088",
           "author": "rwootton",
@@ -3727,16 +3727,6 @@
           "wordCount": 4721,
           "title": "GPs and hospitals to share patient data for single patient record",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Wes-Streeting.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=274609",
-          "author": "Jordan Sollof",
-          "description": "The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.",
-          "link": "https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/",
-          "publishedOn": "2026-05-11T12:30:15.000Z",
-          "wordCount": 6628,
-          "title": "Palantir to be granted ‘unlimited access’ to NHS patient data",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/11/shutterstock_2514395777-1.jpg"
         }
       ]
     },
