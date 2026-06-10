@@ -1718,26 +1718,6 @@
           "wordCount": 739,
           "title": "Car crashes into GP practice, injuring two people",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_6.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1957784",
-          "author": null,
-          "description": "A 'new generation' IT system currently used in just 10 GP practices in England could accelerate its rollout after a £100m acquisition by a French company.",
-          "link": "https://www.gponline.com/new-generation-gp-system-set-expansion-100m-investment/article/1957784",
-          "publishedOn": "2026-05-11T16:47:57.000Z",
-          "wordCount": 740,
-          "title": "'New generation' GP IT system set for expansion after £100m investment",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-computer_GettyImages-KoldoyChris_RF_1.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1957730",
-          "author": null,
-          "description": "Many LMCs seem to be backing collective action plans, but some GPs have questioned whether the BMA has gone far enough to rattle the government and bring it back to the negotiating table.",
-          "link": "https://www.gponline.com/will-gps-unite-behind-collective-action/article/1957730",
-          "publishedOn": "2026-05-11T15:30:00.000Z",
-          "wordCount": 735,
-          "title": "Will GPs unite behind collective action?",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS_GP_sign_10.jpg"
         }
       ]
     },
@@ -3188,6 +3168,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=289613",
+          "author": "Jordan Sollof",
+          "description": "Manchester University NHS Foundation Trust (MFT) is launching a data platform to support research and improve care for patients.",
+          "link": "https://www.digitalhealth.net/2026/06/mft-to-launch-data-platform-to-support-research-and-patient-care/",
+          "publishedOn": "2026-06-10T06:30:34.000Z",
+          "wordCount": 6551,
+          "title": "MFT to launch data platform to support research and patient care",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/David-Walliker-MFT.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=289103",
           "author": "Jordan Sollof",
