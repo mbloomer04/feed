@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1c6c50c2-00d7-4fbd-a7c4-68ed12ad4d3f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n Updated: 10 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4797",
+          "publishedOn": "2026-06-10T14:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4797 - Cisco Releases Security Updates for Catalyst SD‑WAN Products",
+          "imageUrl": null
+        },
+        {
           "id": "64ed341f-6a40-4793-b2bd-124a8f0ead59",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 206 vulnerabilities\n Scheduled updates for Microsoft products address 206 vulnerabilities\n Updated: 10 Jun 2026",
@@ -3248,6 +3258,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=286809",
+          "author": "Samuel Webb",
+          "description": "UK online pharmacy Pharmacy2U has launched a dedicated women’s health hub, backed by menopause retail accreditation, the MTick.",
+          "link": "https://www.digitalhealth.net/2026/06/pharmacy2u-launches-menopause-support-hub/",
+          "publishedOn": "2026-06-10T12:30:59.000Z",
+          "wordCount": 6263,
+          "title": "Pharmacy2U launches menopause support hub",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/New-Project-3-2.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=289613",
           "author": "Jordan Sollof",

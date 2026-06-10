@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-10T11:32:06.644Z</updated>
+    <updated>2026-06-10T14:57:00.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4797 - Cisco Releases Security Updates for Catalyst SD‑WAN Products]]></title>
+        <id>1c6c50c2-00d7-4fbd-a7c4-68ed12ad4d3f</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4797"/>
+        <updated>2026-06-10T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root
+ CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root
+ Updated: 10 Jun 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pharmacy2U launches menopause support hub]]></title>
+        <id>https://www.digitalhealth.net/?p=286809</id>
+        <link href="https://www.digitalhealth.net/2026/06/pharmacy2u-launches-menopause-support-hub/"/>
+        <updated>2026-06-10T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[UK online pharmacy Pharmacy2U has launched a dedicated women’s health hub, backed by menopause retail accreditation, the MTick.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proposed 2026 changes to the statutory scheme for branded medicines pricing]]></title>
         <id>https://www.gov.uk/government/consultations/proposed-2026-changes-to-the-statutory-scheme-for-branded-medicines-pricing</id>
