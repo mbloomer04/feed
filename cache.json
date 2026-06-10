@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "64ed341f-6a40-4793-b2bd-124a8f0ead59",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 206 vulnerabilities\n Scheduled updates for Microsoft products address 206 vulnerabilities\n Updated: 10 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4796",
+          "publishedOn": "2026-06-10T10:49:00.000Z",
+          "wordCount": null,
+          "title": "CC-4796 - Microsoft Releases June 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "699864f8-9bd5-45d4-9556-6cd6da84f4b4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n If exploited, two critical vulnerabilities could allow for unauthenticated OS command injection or authentication bypass\n If exploited, two critical vulnerabilities could allow for unauthenticated OS command injection or authentication bypass\n Updated: 10 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4795",
+          "publishedOn": "2026-06-10T09:05:00.000Z",
+          "wordCount": null,
+          "title": "CC-4795 - Ivanti Releases Security Advisory for Critical Vulnerabilities in Sentry",
+          "imageUrl": null
+        },
+        {
           "id": "595bf287-912a-48ac-9c96-a1400c24019e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE‑2026‑44963 allows authenticated attackers to execute remote code on Veeam Backup & Replication servers.\n CVE‑2026‑44963 allows authenticated attackers to execute remote code on Veeam Backup & Replication servers.\n Updated: 09 Jun 2026",
@@ -1240,6 +1260,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961030",
+          "author": null,
+          "description": "The General Practice Defence Fund (GPDF) has rejected resolutions that would have frozen funding for the BMA GP committee.",
+          "link": "https://www.gponline.com/bid-halt-bma-gp-committee-funding-fails/article/1961030",
+          "publishedOn": "2026-06-09T15:55:38.000Z",
+          "wordCount": null,
+          "title": "Bid to halt BMA GP committee funding fails",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gponline.com/article/1960797",
+          "author": null,
+          "description": "The CQC will begin piloting its new approach to assessments in general practice this month.",
+          "link": "https://www.gponline.com/cqc-begins-pilots-new-gp-assessment-month/article/1960797",
+          "publishedOn": "2026-06-09T08:57:00.000Z",
+          "wordCount": null,
+          "title": "CQC begins pilots of new GP assessment this month",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.gponline.com/article/1960858",
           "author": null,
           "description": "GPs have been left exposed to clinical negligence claims because of a ‘widening gulf’ between the law and use of AI in general practice, medico-legal experts have warned.",
@@ -1869,16 +1909,6 @@
           "wordCount": 2042,
           "title": "“Life-changing” SMA therapies to be available on NHS in long-term",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=286975",
-          "author": "jboshell",
-          "description": "Shoppers are being urged to look out for lumps, swelling, skin changes and unexplained bruising as Morrisons teams up with the NHS to put cancer advice on its own-brand bath and shower products. The range of nine new shower and bath products will carry messages including “Be body aware” and “Know the signs of cancer”, […]",
-          "link": "https://www.england.nhs.uk/2026/05/nhs-and-morrisons-put-cancer-warning-signs-in-the-shower/",
-          "publishedOn": "2026-05-11T23:01:31.000Z",
-          "wordCount": 1885,
-          "title": "NHS and Morrisons put cancer warning signs in the shower",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -1887,6 +1917,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/proposed-2026-changes-to-the-statutory-scheme-for-branded-medicines-pricing",
+          "author": null,
+          "description": "Proposed changes to the headline payment percentage and consultation procedure of the statutory scheme to control the cost of branded health service medicines.",
+          "link": "https://www.gov.uk/government/consultations/proposed-2026-changes-to-the-statutory-scheme-for-branded-medicines-pricing",
+          "publishedOn": "2026-06-10T11:11:59.000Z",
+          "wordCount": 1266,
+          "title": "Proposed 2026 changes to the statutory scheme for branded medicines pricing",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-easy-read",
+          "author": null,
+          "description": "This report explains the progress of a review about mental health conditions, ADHD and autism.",
+          "link": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-easy-read",
+          "publishedOn": "2026-06-10T10:32:36.000Z",
+          "wordCount": 1048,
+          "title": "Independent report: Looking into mental health conditions, ADHD and autism (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-interim-report",
+          "author": null,
+          "description": "Interim report outlining progress on the independent review into the prevalence and support for mental health conditions, ADHD and autism.",
+          "link": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-interim-report",
+          "publishedOn": "2026-06-10T10:32:30.000Z",
+          "wordCount": 1010,
+          "title": "Independent report: Independent review into mental health conditions, ADHD and autism: interim report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/user-led-organisation-training-fund-grant-determination-2026-to-2027",
+          "author": null,
+          "description": "A grant determination letter outlining funding conditions and eligibility requirements to claim funding for user-led organisations in adult social care.",
+          "link": "https://www.gov.uk/government/publications/user-led-organisation-training-fund-grant-determination-2026-to-2027",
+          "publishedOn": "2026-06-10T10:09:57.000Z",
+          "wordCount": 1006,
+          "title": "Guidance: User-led organisation training fund grant determination: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/record-numbers-of-children-with-mental-health-support-in-schools",
+          "author": null,
+          "description": "The government is on track to meet its manifesto promise that every school and college will have access to mental health support teams by the end of 2029",
+          "link": "https://www.gov.uk/government/news/record-numbers-of-children-with-mental-health-support-in-schools",
+          "publishedOn": "2026-06-10T09:30:02.000Z",
+          "wordCount": 2855,
+          "title": "Record numbers of children with mental health support in schools",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027",
           "author": null,
