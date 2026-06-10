@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-10T20:15:22.899Z</updated>
+    <updated>2026-06-10T22:47:58.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI to speed up cancer diagnosis for millions of NHS patients]]></title>
+        <id>https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients</id>
+        <link href="https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients"/>
+        <updated>2026-06-10T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Government invests in AI technologies to modernise the NHS and reduce waiting times.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4797 - Cisco Releases Security Updates for Catalyst SD‑WAN Products]]></title>
         <id>1c6c50c2-00d7-4fbd-a7c4-68ed12ad4d3f</id>
@@ -2497,46 +2507,6 @@ Based on their joint presentation at Digital Health Rewired in spring 2026.]]></
         <summary type="html"><![CDATA[Salma Yasmeen, chief executive at Sheffield Health Partnership University NHS Foundation Trust, has been confirmed for Summer Schools 2026.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pitchfest winner: Why the UK is falling behind on women’s health]]></title>
-        <id>https://www.digitalhealth.net/?p=271991</id>
-        <link href="https://www.digitalhealth.net/2026/05/pitchfest-winner-why-the-uk-is-falling-behind-on-womens-health/"/>
-        <updated>2026-05-12T10:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Pitchfest 2026 winner Valentina Milanova on why the UK is falling behind in women’s health and how at-home HPV testing can help.]]></summary>
-        <author>
-            <name>Tammy Lovell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=272561</id>
-        <link href="https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-165/"/>
-        <updated>2026-05-12T10:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features a men’s health event at Ipswich Town Football Club and a merger to create a unified care management platform.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Car crashes into GP practice, injuring two people]]></title>
-        <id>https://www.gponline.com/article/1957858</id>
-        <link href="https://www.gponline.com/car-crashes-gp-practice-injuring-two-people/article/1957858"/>
-        <updated>2026-05-12T09:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Patients have praised a GP practice in Cumbria for its swift response in re-directing services after a car crashed into its premises, injuring two people and forcing it to close  temporarily.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of ME/CFS patients to benefit from first genomics study]]></title>
-        <id>https://www.gov.uk/government/news/thousands-of-mecfs-patients-to-benefit-from-first-genomics-study</id>
-        <link href="https://www.gov.uk/government/news/thousands-of-mecfs-patients-to-benefit-from-first-genomics-study"/>
-        <updated>2026-05-12T08:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Chronic fatigue syndrome patients, also known as ME, to benefit from world-first genomics study.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

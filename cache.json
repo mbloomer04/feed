@@ -1758,16 +1758,6 @@
           "wordCount": 728,
           "title": "GPs fear delays and extra work as hospitals outsource advice and guidance",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_consultation_GettyImages-sturti_24.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1957858",
-          "author": null,
-          "description": "Patients have praised a GP practice in Cumbria for its swift response in re-directing services after a car crashed into its premises, injuring two people and forcing it to close  temporarily.",
-          "link": "https://www.gponline.com/car-crashes-gp-practice-injuring-two-people/article/1957858",
-          "publishedOn": "2026-05-12T09:55:14.000Z",
-          "wordCount": 739,
-          "title": "Car crashes into GP practice, injuring two people",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/closed_GettyImages-ilbusca_RF_6.jpg"
         }
       ]
     },
@@ -1927,6 +1917,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients",
+          "author": null,
+          "description": "Government invests in AI technologies to modernise the NHS and reduce waiting times.",
+          "link": "https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients",
+          "publishedOn": "2026-06-10T21:31:00.000Z",
+          "wordCount": 4302,
+          "title": "AI to speed up cancer diagnosis for millions of NHS patients",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/consultations/proposed-2026-changes-to-the-statutory-scheme-for-branded-medicines-pricing",
           "author": null,
@@ -2845,16 +2845,6 @@
           "publishedOn": "2026-05-12T14:54:49.000Z",
           "wordCount": 2624,
           "title": "Guidance: Child death overview panels: contacts",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/thousands-of-mecfs-patients-to-benefit-from-first-genomics-study",
-          "author": null,
-          "description": "Chronic fatigue syndrome patients, also known as ME, to benefit from world-first genomics study.",
-          "link": "https://www.gov.uk/government/news/thousands-of-mecfs-patients-to-benefit-from-first-genomics-study",
-          "publishedOn": "2026-05-12T08:31:40.000Z",
-          "wordCount": 3152,
-          "title": "Thousands of ME/CFS patients to benefit from first genomics study",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
@@ -3787,26 +3777,6 @@
           "wordCount": 6532,
           "title": "NHS CEO Salma Yasmeen to speak at Summer Schools 2026",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Salma-Yasmeen-Summer-Schools-2026-announcement.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=271991",
-          "author": "Tammy Lovell",
-          "description": "Pitchfest 2026 winner Valentina Milanova on why the UK is falling behind in women’s health and how at-home HPV testing can help.",
-          "link": "https://www.digitalhealth.net/2026/05/pitchfest-winner-why-the-uk-is-falling-behind-on-womens-health/",
-          "publishedOn": "2026-05-12T10:30:47.000Z",
-          "wordCount": 5205,
-          "title": "Pitchfest winner: Why the UK is falling behind on women’s health",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/Digital-Health-Podcast-Header-Episode-121.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=272561",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features a men’s health event at Ipswich Town Football Club and a merger to create a unified care management platform.",
-          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-165/",
-          "publishedOn": "2026-05-12T10:00:37.000Z",
-          "wordCount": 6481,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
         }
       ]
     },
