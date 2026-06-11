@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961350",
+          "author": null,
+          "description": "GP access will remain a key NHS target, health and social care secretary James Murray has said, despite warnings that the government has focused too much on this at the expense of continuity.",
+          "link": "https://www.gponline.com/murray-doubles-down-governments-gp-access-obsession/article/1961350",
+          "publishedOn": "2026-06-11T16:30:00.000Z",
+          "wordCount": 756,
+          "title": "Murray doubles down on government's GP access 'obsession'",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/JamesMurray_HouseofCommons.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1914921",
           "author": null,
           "description": "Take part in our survey to share your views on advice and guidance, rejected referrals and the future of the GP contract. Click here to take part.",
@@ -1268,6 +1278,16 @@
           "wordCount": 889,
           "title": "Complete our survey for a chance to win £350 of John Lewis vouchers",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-661505270_2.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1961287",
+          "author": null,
+          "description": "Politicians are wary of GPs forming integrated health organisations (IHOs) because many think this should only be an option for NHS bodies such as hospital trusts, the NHS England chair has said.",
+          "link": "https://www.gponline.com/gps-may-allowed-lead-ihos-warns-nhs-chair/article/1961287",
+          "publishedOn": "2026-06-11T12:49:36.000Z",
+          "wordCount": 762,
+          "title": "GPs may never be allowed to lead IHOs, warns NHS chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Penny_Dash_NHS.png"
         },
         {
           "id": "https://www.gponline.com/article/1961134",
@@ -1957,6 +1977,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-nhs-confedexpo-2026",
+          "author": null,
+          "description": "The Health and Social Care Secretary delivered the keynote speech at the NHS ConfedExpo conference on June 11 2026.",
+          "link": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-nhs-confedexpo-2026",
+          "publishedOn": "2026-06-11T15:17:11.000Z",
+          "wordCount": 4934,
+          "title": "Health and Social Care Secretary speech at NHS ConfedExpo 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/value-based-procurement-for-medical-technology",
           "author": null,
