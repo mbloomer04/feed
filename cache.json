@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961134",
+          "author": null,
+          "description": "The NHS has made neighbourhoods 'massively overcomplicated' and risks failing to shift care out of hospital as a result, NHS England's chief executive has said.",
+          "link": "https://www.gponline.com/neighbourhoods-massively-overcomplicated-says-nhs-chief/article/1961134",
+          "publishedOn": "2026-06-11T05:53:00.000Z",
+          "wordCount": 740,
+          "title": "Neighbourhoods have been 'massively overcomplicated', says NHS chief",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-510584082_3.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1961192",
           "author": null,
           "description": "Health organisations have told the government to pause its long-delayed refresh of the NHS workforce plan - expected to be published imminently - warning that it risks falling 'significantly short' of delivering the workforce boost the health service needs and is over-reliant on unproven assumptions about artificial intelligence (AI).",
@@ -1917,6 +1927,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/free-flu-jabs-for-people-experiencing-homelessness",
+          "author": null,
+          "description": "The government will offer flu vaccination to those experiencing homelessness beginning in Autumn.",
+          "link": "https://www.gov.uk/government/news/free-flu-jabs-for-people-experiencing-homelessness",
+          "publishedOn": "2026-06-11T08:00:02.000Z",
+          "wordCount": 2395,
+          "title": "Free flu jabs for people experiencing homelessness",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients",
           "author": null,
