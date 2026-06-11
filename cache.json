@@ -1260,6 +1260,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1914921",
+          "author": null,
+          "description": "Take part in our survey to share your views on advice and guidance, rejected referrals and the future of the GP contract. Click here to take part.",
+          "link": "https://www.gponline.com/complete-survey-chance-win-350-john-lewis-vouchers/article/1914921",
+          "publishedOn": "2026-06-11T13:12:00.000Z",
+          "wordCount": 889,
+          "title": "Complete our survey for a chance to win £350 of John Lewis vouchers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-661505270_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1961134",
           "author": null,
           "description": "The NHS has made neighbourhoods 'massively overcomplicated' and risks failing to shift care out of hospital as a result, NHS England's chief executive has said.",
@@ -1851,6 +1861,26 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=288573",
+          "author": "jboshell",
+          "description": "‘Groundbreaking’ NHS teams that have freed up thousands of hospital beds, accelerated cancer diagnosis, and transformed care for patients have been recognised at the inaugural 2026 NHS Excellence Awards. Held today at NHS ConfedExpo in Manchester, the awards celebrated some of the most innovative and impactful healthcare initiatives from across England, showcasing how frontline staff […]",
+          "link": "https://www.england.nhs.uk/2026/06/nhs-heroes-recognised-after-accelerating-cancer-diagnosis-and-transforming-patient-care/",
+          "publishedOn": "2026-06-11T12:32:27.000Z",
+          "wordCount": 1493,
+          "title": "NHS heroes recognised after accelerating cancer diagnosis and transforming patient care",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
+          "id": "https://www.england.nhs.uk/?p=288568",
+          "author": "jboshell",
+          "description": "A&Es experienced their busiest month on record in May, as last month’s heatwave piled pressure on NHS services. The NHS managed 2,457,398 attendances in A&E during May – up 25,000 on the previous record set in March earlier this year – according to newly published NHS data. The figures mean the NHS has now seen […]",
+          "link": "https://www.england.nhs.uk/2026/06/aes-bore-the-brunt-as-heatwave-piled-pressure-on-nhs/",
+          "publishedOn": "2026-06-11T12:04:08.000Z",
+          "wordCount": 1465,
+          "title": "A&Es ‘bore the brunt’ as heatwave piled pressure on NHS",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=288332",
           "author": "jboshell",
           "description": "Thousands of men with prostate cancer are to be offered high-powered ‘precision’ radiotherapy on the NHS to target the disease more effectively, helping reduce side-effects and spare them 15 courses of treatment. NHS England has today announced that, for the first time, eligible men with early prostate cancer will be offered pioneering therapy known as […]",
@@ -1927,6 +1957,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/value-based-procurement-for-medical-technology",
+          "author": null,
+          "description": "Provides a standard framework for NHS procurement professionals to assess non-financial value when buying medical technology.",
+          "link": "https://www.gov.uk/government/publications/value-based-procurement-for-medical-technology",
+          "publishedOn": "2026-06-11T10:35:49.000Z",
+          "wordCount": 842,
+          "title": "Guidance: Value based procurement for medical technology",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/free-flu-jabs-for-people-experiencing-homelessness",
           "author": null,
@@ -3258,6 +3298,36 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=290811",
+          "author": "Jordan Sollof",
+          "description": "Digital Health has published the full Summer Schools 2026 programme, featuring some of the NHS's most influential digital leaders.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-summer-schools-2026-full-programme-published/",
+          "publishedOn": "2026-06-11T12:30:31.000Z",
+          "wordCount": 6710,
+          "title": "Digital Health Summer Schools 2026 full programme published",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/SS-Programme-Published-Header-2.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=286641",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a 3D model for an eye centre in London and investment in an AI-operated physiotherapy clinic.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-174/",
+          "publishedOn": "2026-06-11T10:30:14.000Z",
+          "wordCount": 6696,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=290343",
+          "author": "Jordan Sollof",
+          "description": "The government has announced £20 million of funding to expand AI chest X-ray tools to every NHS trust in England by 2029.",
+          "link": "https://www.digitalhealth.net/2026/06/govt-pledges-20m-to-roll-out-ai-x-ray-tools-across-nhs-by-2029/",
+          "publishedOn": "2026-06-11T06:30:39.000Z",
+          "wordCount": 6760,
+          "title": "Govt pledges £20m to roll out AI X-ray tools across NHS by 2029",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/James-Murray.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=286809",
           "author": "Samuel Webb",
