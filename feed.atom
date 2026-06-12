@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-12T14:38:56.136Z</updated>
+    <updated>2026-06-12T17:32:25.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access]]></title>
+        <id>urn:uuid:ff266293-0338-45b2-9adf-1f0f6ef6b70f</id>
+        <link href="https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access"/>
+        <updated>2026-06-12T12:35:26.000Z</updated>
+        <summary type="html"><![CDATA[New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in governance, financing and regulation of blood systems.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ashford and St Peter’s opt for RLDatix electronic rostering]]></title>
         <id>https://www.digitalhealth.net/?p=286761</id>
