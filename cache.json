@@ -1897,6 +1897,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-march-2027",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-march-2027",
+          "publishedOn": "2026-06-12T12:01:56.000Z",
+          "wordCount": 668,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to March 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-june-2026",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-june-2026",
+          "publishedOn": "2026-06-12T11:56:34.000Z",
+          "wordCount": 677,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to June 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions",
           "author": null,
           "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to Alternative Provider Medical Services (APMS) contracts in general practice.",
@@ -3277,6 +3297,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=286761",
+          "author": "Samuel Webb",
+          "description": "Ashford and St Peter’s Hospitals NHS Foundation Trust has appointed RLDatix to deliver its electronic rostering platform, Allocate Optima.",
+          "link": "https://www.digitalhealth.net/2026/06/ashford-and-st-peters-opt-for-rldatix-electronic-rostering/",
+          "publishedOn": "2026-06-12T12:30:24.000Z",
+          "wordCount": 6423,
+          "title": "Ashford and St Peter’s opt for RLDatix electronic rostering",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Paul-Sanders-RLDatix.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=290947",
           "author": "Jordan Sollof",
