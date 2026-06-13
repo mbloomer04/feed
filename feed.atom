@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-12T23:08:47.861Z</updated>
+    <updated>2026-06-13T02:39:03.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public urged to access NHS care amid ‘triple whammy’ of doctors’ strike, heatwave and World Cup]]></title>
+        <id>https://www.england.nhs.uk/?p=288637</id>
+        <link href="https://www.england.nhs.uk/2026/06/public-urged-to-access-nhs-care-amid-triple-whammy-of-doctors-strike-heatwave-and-world-cup/"/>
+        <updated>2026-06-12T23:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Industrial action by resident doctors will be taking place from 7am on Monday 15 June to 6:59am Friday 19 June 2026. This four-day strike coincides with more expected hot weather and the start of the football World Cup, with millions turning out to watch England’s first match against Croatia on Wednesday. The NHS’s top doctor […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: Birthday Honours 2026: Ambulance Service list]]></title>
         <id>https://www.gov.uk/government/publications/birthday-honours-2026-ambulance-service-list</id>
@@ -2458,49 +2468,6 @@ Established in 2019, the Director-General’s Awards for Global Health recognize
         <summary type="html"><![CDATA[Outlines the approach to assessing equality impacts of the Health Bill and provides an overview of identified impacts across all policies included in the bill.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4783 - F5 Releases Security Updates for NGINX Vulnerability CVE-2026-42945]]></title>
-        <id>9f52ec03-1ef0-4fdc-9866-6a21054a1309</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4783"/>
-        <updated>2026-05-14T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited
- NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited
- Updated: 14 May 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wes Streeting’s legacy as health and social care secretary]]></title>
-        <id>https://www.gponline.com/article/1958233</id>
-        <link href="https://www.gponline.com/wes-streetings-legacy-health-social-care-secretary/article/1958233"/>
-        <updated>2026-05-14T13:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Wes Streeting has resigned as health secretary, saying he has ‘lost confidence’ in prime minister Keir Starmer’s leadership. GPonline editor Emma Bower assesses his time in the post.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response]]></title>
-        <id>urn:uuid:7abcd256-1add-411d-a775-27d7b0ca57da</id>
-        <link href="https://www.who.int/news/item/14-05-2026-follow-up-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response"/>
-        <updated>2026-05-14T13:27:15.000Z</updated>
-        <summary type="html"><![CDATA[A message from the Director-General of the World Health Organization expressing gratitude to the people of Tenerife for their solidarity and successful cooperation during the operation to safely disembark and care for over 120 passengers from 23 countries amid an outbreak of hantavirus.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health secretary Wes Streeting resigns after losing faith in PM]]></title>
-        <id>https://www.digitalhealth.net/?p=276217</id>
-        <link href="https://www.digitalhealth.net/2026/05/health-secretary-wes-streeting-resigns-after-losing-faith-in-pm/"/>
-        <updated>2026-05-14T12:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Wes Streeting has resigned as health secretary, admitting that he has “lost confidence” in Prime Minister Sir Keir Starmer’s leadership.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>

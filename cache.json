@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4784 - Exploitation of Zero-Day Vulnerability in Cisco Catalyst SD-WAN",
           "imageUrl": null
-        },
-        {
-          "id": "9f52ec03-1ef0-4fdc-9866-6a21054a1309",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n NGINX Plus and NGINX Open Source have a vulnerability that could force a restart or allow code execution if exploited\n Updated: 14 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4783",
-          "publishedOn": "2026-05-14T14:16:00.000Z",
-          "wordCount": null,
-          "title": "CC-4783 - F5 Releases Security Updates for NGINX Vulnerability CVE-2026-42945",
-          "imageUrl": null
         }
       ]
     },
@@ -1708,16 +1698,6 @@
           "wordCount": 722,
           "title": "Podcast: Will collective action work, unpicking the GP reimbursement scheme, what PCN variation means",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPonlineTalkingGeneralPractice858x575px_9.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1958233",
-          "author": null,
-          "description": "Wes Streeting has resigned as health secretary, saying he has ‘lost confidence’ in prime minister Keir Starmer’s leadership. GPonline editor Emma Bower assesses his time in the post.",
-          "link": "https://www.gponline.com/wes-streetings-legacy-health-social-care-secretary/article/1958233",
-          "publishedOn": "2026-05-14T13:56:43.000Z",
-          "wordCount": 742,
-          "title": "Wes Streeting’s legacy as health and social care secretary",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-2275229072.jpg"
         }
       ]
     },
@@ -1779,6 +1759,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=288637",
+          "author": "jboshell",
+          "description": "Industrial action by resident doctors will be taking place from 7am on Monday 15 June to 6:59am Friday 19 June 2026. This four-day strike coincides with more expected hot weather and the start of the football World Cup, with millions turning out to watch England’s first match against Croatia on Wednesday. The NHS’s top doctor […]",
+          "link": "https://www.england.nhs.uk/2026/06/public-urged-to-access-nhs-care-amid-triple-whammy-of-doctors-strike-heatwave-and-world-cup/",
+          "publishedOn": "2026-06-12T23:01:15.000Z",
+          "wordCount": 1352,
+          "title": "Public urged to access NHS care amid ‘triple whammy’ of doctors’ strike, heatwave and World Cup",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=288573",
           "author": "jboshell",
@@ -3249,16 +3239,6 @@
           "wordCount": 3108,
           "title": "WHO warns nicotine pouch brands targeting youth as sales surge",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/substances-and-elements/tobacco/nicotine-pouches.tmb-1200v.jpg?sfvrsn=74fff869_1"
-        },
-        {
-          "id": "urn:uuid:7abcd256-1add-411d-a775-27d7b0ca57da",
-          "author": null,
-          "description": "A message from the Director-General of the World Health Organization expressing gratitude to the people of Tenerife for their solidarity and successful cooperation during the operation to safely disembark and care for over 120 passengers from 23 countries amid an outbreak of hantavirus.",
-          "link": "https://www.who.int/news/item/14-05-2026-follow-up-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response",
-          "publishedOn": "2026-05-14T13:27:15.000Z",
-          "wordCount": 3205,
-          "title": "Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/hantavirus/minister-of-health-of-spain-and-dg-in-tenerife.tmb-1200v.jpg?sfvrsn=69ea6d82_2"
         }
       ]
     },
@@ -3776,16 +3756,6 @@
           "wordCount": 6571,
           "title": "James Murray appointed health secretary",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/James-Murray.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=276217",
-          "author": "Jordan Sollof",
-          "description": "Wes Streeting has resigned as health secretary, admitting that he has “lost confidence” in Prime Minister Sir Keir Starmer’s leadership.",
-          "link": "https://www.digitalhealth.net/2026/05/health-secretary-wes-streeting-resigns-after-losing-faith-in-pm/",
-          "publishedOn": "2026-05-14T12:30:06.000Z",
-          "wordCount": 6650,
-          "title": "Health secretary Wes Streeting resigns after losing faith in PM",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/10/Wes-Streeting.jpg"
         }
       ]
     },
