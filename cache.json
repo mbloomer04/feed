@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "CC-4786 - Linux Kernel Releases Security Updates for Information Disclosure Vulnerability",
           "imageUrl": null
-        },
-        {
-          "id": "fb166b4c-58ea-4a74-b3cb-cc6873ddd96a",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments\n Updated: 15 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4785",
-          "publishedOn": "2026-05-15T10:56:00.000Z",
-          "wordCount": null,
-          "title": "CC-4785 - Microsoft Releases Security Advisory for a Zero-Day Vulnerability in Exchange Server",
-          "imageUrl": null
         }
       ]
     },
@@ -2684,26 +2674,6 @@
           "publishedOn": "2026-05-15T12:24:10.000Z",
           "wordCount": 1347,
           "title": "Independent report: Independent investigation of the NHS in England",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/better-patient-care-as-nhs-set-to-introduce-single-patient-record",
-          "author": null,
-          "description": "Safer and faster care for patients as NHS set to introduce Single Patient Record and cut bureaucracy",
-          "link": "https://www.gov.uk/government/news/better-patient-care-as-nhs-set-to-introduce-single-patient-record",
-          "publishedOn": "2026-05-15T11:54:20.000Z",
-          "wordCount": 3226,
-          "title": "Better patient care as NHS set to introduce Single Patient Record",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england",
-          "author": null,
-          "description": "We are seeking practical examples and implementation evidence to inform a mental health strategy for England.",
-          "link": "https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england",
-          "publishedOn": "2026-05-15T11:00:10.000Z",
-          "wordCount": 987,
-          "title": "Informing the mental health strategy for England",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]

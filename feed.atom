@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-13T22:56:03.322Z</updated>
+    <updated>2026-06-14T00:00:39.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2242,39 +2242,6 @@ Established in 2019, the Director-General’s Awards for Global Health recognize
         <summary type="html"><![CDATA[Lord Darzi's report on the state of the National Health Service in England.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better patient care as NHS set to introduce Single Patient Record]]></title>
-        <id>https://www.gov.uk/government/news/better-patient-care-as-nhs-set-to-introduce-single-patient-record</id>
-        <link href="https://www.gov.uk/government/news/better-patient-care-as-nhs-set-to-introduce-single-patient-record"/>
-        <updated>2026-05-15T11:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Safer and faster care for patients as NHS set to introduce Single Patient Record and cut bureaucracy]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Informing the mental health strategy for England]]></title>
-        <id>https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england</id>
-        <link href="https://www.gov.uk/government/calls-for-evidence/informing-the-mental-health-strategy-for-england"/>
-        <updated>2026-05-15T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[We are seeking practical examples and implementation evidence to inform a mental health strategy for England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4785 - Microsoft Releases Security Advisory for a Zero-Day Vulnerability in Exchange Server]]></title>
-        <id>fb166b4c-58ea-4a74-b3cb-cc6873ddd96a</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4785"/>
-        <updated>2026-05-15T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments
- Successful exploitation of CVE‑2026‑42897 could lead to arbitrary JavaScript execution in the browser context for users of on‑premises Microsoft Exchange Server deployments
- Updated: 15 May 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
