@@ -1220,6 +1220,36 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961590",
+          "author": null,
+          "description": "Resident doctors including GP registrars have called off strikes planned for this week while the BMA puts a revised pay offer from the government to its members.",
+          "link": "https://www.gponline.com/resident-doctors-call-off-strikes-new-pay-offer/article/1961590",
+          "publishedOn": "2026-06-15T09:59:01.000Z",
+          "wordCount": 734,
+          "title": "Resident doctors call off strikes after new pay offer",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/cash_GettyImages-AndrewBrookes_RF_44.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1961577",
+          "author": null,
+          "description": "GPs, including a former chair of the BMA GP committee and the King's own GP, were among those to receive awards in this year’s King’s Birthday Honours list.",
+          "link": "https://www.gponline.com/gps-recognised-kings-birthday-honours-list/article/1961577",
+          "publishedOn": "2026-06-15T09:48:06.000Z",
+          "wordCount": 743,
+          "title": "GPs recognised in King's Birthday Honours List",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Honours_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1961348",
+          "author": null,
+          "description": "The government’s commitment to the GMS contract could get in the way of neighbourhoods, the NHS England chair has said.",
+          "link": "https://www.gponline.com/gp-contract-neighbourhoods-says-nhs-chair/article/1961348",
+          "publishedOn": "2026-06-15T08:30:00.000Z",
+          "wordCount": 736,
+          "title": "GP contract could get in the way of neighbourhoods, says NHS chair",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/NHS-sign1_GettyImages-Marbury_RF_18.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1961307",
           "author": null,
           "description": "GPonline editor Emma Bower and deputy editor Nick Bostock discuss the latest news affecting general practice.",
@@ -2851,6 +2881,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:e473aa4a-97a4-489b-b1d1-c38811549a13",
+          "author": null,
+          "description": "Dear Leaders of the G7, the G20, BRICS and of all nations,\nWe write to you together, from Geneva and from Brasília, with one shared conviction: that the world must finish what it started, and that you can help it do so.\nWe begin not with an institution or an annex, but with a memory the whole world shares. Not so long ago, our hospitals overflowed. Families said goodbye to the people they loved through glass, or by telephone, or not at all. Children lost grandparents. Doctors and nurses, exhausted beyond anything we had a right to ask of them, kept going anyway. Estimates from WHO and others put the lives lost at up to twenty million. Humanity promised itself, in the rawness of that grief, that it would not face such a day again unprepared.\nA little over a year ago, the world kept the firs…",
+          "link": "https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
+          "publishedOn": "2026-06-15T09:05:36.000Z",
+          "wordCount": 4200,
+          "title": "Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/emergency-response-(wre)/strategic-health-operations-(sho)/operations-support-logistics-(osl)/warehouse-check-of-medical-supplies.tmb-1200v.jpg?sfvrsn=9ce68c01_1"
+        },
+        {
           "id": "urn:uuid:ff266293-0338-45b2-9adf-1f0f6ef6b70f",
           "author": null,
           "description": "New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in governance, financing and regulation of blood systems.",
@@ -3009,16 +3049,6 @@
           "wordCount": 2602,
           "title": "Director-General presents Award for Global Health to four distinguished leaders",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/dg-awards-for-global-health-2026.tmb-1200v.jpg?sfvrsn=e8fb1050_1"
-        },
-        {
-          "id": "urn:uuid:af49a38c-dbf5-4789-9092-31ca0e2a94d1",
-          "author": null,
-          "description": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-          "link": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
-          "publishedOn": "2026-05-16T23:21:17.000Z",
-          "wordCount": 5677,
-          "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/external-relations-governance-(ext)/department-of-communications-(dco)/digital-social-visual-(dsv)/who-logo-at-headquarters.tmb-1200v.jpg?sfvrsn=34ba81d2_6"
         }
       ]
     },
@@ -3027,6 +3057,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=291413",
+          "author": "Jordan Sollof",
+          "description": "Our Future Health has released genetic ancestry data from 755,000 participants, enabling researchers to tackle health inequalities.",
+          "link": "https://www.digitalhealth.net/2026/06/new-genetic-ancestry-data-to-tackle-health-inequalities/",
+          "publishedOn": "2026-06-15T12:30:33.000Z",
+          "wordCount": 4537,
+          "title": "New genetic ancestry data to tackle health inequalities",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Dr-Raghib-Ali-Our-Future-Health.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=291639",
+          "author": "Jordan Sollof",
+          "description": "Senior NHS digital leaders have called for an end to repeated AI pilots, arguing that the focus must now shift to implementation and scaling.",
+          "link": "https://www.digitalhealth.net/2026/06/nhs-leaders-call-time-on-ai-pilots-and-demand-national-scaling/",
+          "publishedOn": "2026-06-15T06:30:27.000Z",
+          "wordCount": 6754,
+          "title": "NHS leaders call time on AI pilots and demand national scaling",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Digital-leadership-panel-ConfedExpo-2026.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=286761",
           "author": "Samuel Webb",
