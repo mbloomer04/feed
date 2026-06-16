@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-16T07:16:59.347Z</updated>
+    <updated>2026-06-16T12:46:17.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FT analysis suggests FDP benefits are very uneven]]></title>
+        <id>https://www.digitalhealth.net/?p=293841</id>
+        <link href="https://www.digitalhealth.net/2026/06/ft-analysis-suggests-fdp-benefits-are-very-uneven/"/>
+        <updated>2026-06-16T12:30:48.000Z</updated>
+        <summary type="html"><![CDATA[A report in the FT suggests waiting list reductions attributed to the FDP are heavily driven by figures from a small number of NHS hospitals.]]></summary>
+        <author>
+            <name>Jon Hoeksma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Single Patient Record: revolutionising care or rewriting trust?]]></title>
+        <id>https://www.digitalhealth.net/?p=293319</id>
+        <link href="https://www.digitalhealth.net/2026/06/the-single-patient-record-revolutionising-care-or-rewriting-trust/"/>
+        <updated>2026-06-16T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Sollof is joined at NHS ConfedExpo 2026 by Dr Peter Thomas and Kate Warriner for a deep dive into the proposed single patient record.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=291383</id>
+        <link href="https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-175/"/>
+        <updated>2026-06-16T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features enhanced cancer-killing agents technology and an AI model for NHS Care Navigation.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMA takes legal action over government stance on GMC appeal powers]]></title>
+        <id>https://www.gponline.com/article/1961730</id>
+        <link href="https://www.gponline.com/bma-takes-legal-action-government-stance-gmc-appeal-powers/article/1961730"/>
+        <updated>2026-06-16T08:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The BMA has begun legal action against the government over a planned U-turn on stripping the GMC of its power to appeal medical tribunal decisions.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third of GPs doing 'impressive' collaborative work without neighbourhood contracts]]></title>
+        <id>https://www.gponline.com/article/1961444</id>
+        <link href="https://www.gponline.com/third-gps-doing-impressive-collaborative-work-without-neighbourhood-contracts/article/1961444"/>
+        <updated>2026-06-16T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Up to a third of GPs in the country are doing ‘phenomenally impressive’ collaborative work despite delays to neighbourhood contracts, NHS England has said.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MHRA launches AI sandbox to improve medicines safety]]></title>
         <id>https://www.digitalhealth.net/?p=293259</id>

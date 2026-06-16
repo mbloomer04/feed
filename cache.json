@@ -1220,6 +1220,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961730",
+          "author": null,
+          "description": "The BMA has begun legal action against the government over a planned U-turn on stripping the GMC of its power to appeal medical tribunal decisions.",
+          "link": "https://www.gponline.com/bma-takes-legal-action-government-stance-gmc-appeal-powers/article/1961730",
+          "publishedOn": "2026-06-16T08:19:14.000Z",
+          "wordCount": 737,
+          "title": "BMA takes legal action over government stance on GMC appeal powers",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMA_MalcolmCaseGreen_69.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1961444",
+          "author": null,
+          "description": "Up to a third of GPs in the country are doing ‘phenomenally impressive’ collaborative work despite delays to neighbourhood contracts, NHS England has said.",
+          "link": "https://www.gponline.com/third-gps-doing-impressive-collaborative-work-without-neighbourhood-contracts/article/1961444",
+          "publishedOn": "2026-06-16T06:39:00.000Z",
+          "wordCount": 739,
+          "title": "Third of GPs doing 'impressive' collaborative work without neighbourhood contracts",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Penny_Dash_NHS_1.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1961722",
           "author": null,
           "description": "A major NHS list cleaning drive has hit GP funding hard and left practices struggling to avoid losing genuine patients. GPonline looks at which parts of England have been affected most.",
@@ -3097,6 +3117,36 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=293841",
+          "author": "Jon Hoeksma",
+          "description": "A report in the FT suggests waiting list reductions attributed to the FDP are heavily driven by figures from a small number of NHS hospitals.",
+          "link": "https://www.digitalhealth.net/2026/06/ft-analysis-suggests-fdp-benefits-are-very-uneven/",
+          "publishedOn": "2026-06-16T12:30:48.000Z",
+          "wordCount": 6683,
+          "title": "FT analysis suggests FDP benefits are very uneven",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/04/Chelsea-and-Westminster-Hospital-2.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=293319",
+          "author": "Jordan Sollof",
+          "description": "Jordan Sollof is joined at NHS ConfedExpo 2026 by Dr Peter Thomas and Kate Warriner for a deep dive into the proposed single patient record.",
+          "link": "https://www.digitalhealth.net/2026/06/the-single-patient-record-revolutionising-care-or-rewriting-trust/",
+          "publishedOn": "2026-06-16T10:30:31.000Z",
+          "wordCount": 5308,
+          "title": "The Single Patient Record: revolutionising care or rewriting trust?",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Digital-Health-Podcast-Episode-123.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=291383",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features enhanced cancer-killing agents technology and an AI model for NHS Care Navigation.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-175/",
+          "publishedOn": "2026-06-16T10:00:19.000Z",
+          "wordCount": 6515,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=293259",
           "author": "Jordan Sollof",
