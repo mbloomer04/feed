@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-16T01:40:46.011Z</updated>
+    <updated>2026-06-16T07:16:59.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MHRA launches AI sandbox to improve medicines safety]]></title>
+        <id>https://www.digitalhealth.net/?p=293259</id>
+        <link href="https://www.digitalhealth.net/2026/06/mhra-launches-ai-sandbox-to-improve-medicines-safety/"/>
+        <updated>2026-06-16T06:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The MHRA is launching a new AI regulatory sandbox to improve medicines safety and accelerate the development of new treatments.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where have GP practices been hit hardest by list cleaning?]]></title>
         <id>https://www.gponline.com/article/1961722</id>
