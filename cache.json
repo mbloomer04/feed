@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d9ad918b-b2f3-49a0-ac6d-20c29d316613",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-20253 could allow a remote unauthenticated attacker to create arbitrary files, potentially enabling remote code execution and full system compromise\n Successful exploitation of CVE-2026-20253 could allow a remote unauthenticated attacker to create arbitrary files, potentially enabling remote code execution and full system compromise\n Updated: 17 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4798",
+          "publishedOn": "2026-06-17T15:24:00.000Z",
+          "wordCount": null,
+          "title": "CC-4798 - Splunk Releases Security Advisory For Critical Vulnerability in Splunk Enterprise",
+          "imageUrl": null
+        },
+        {
           "id": "1c6c50c2-00d7-4fbd-a7c4-68ed12ad4d3f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n Updated: 10 Jun 2026",
@@ -1220,6 +1230,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961969",
+          "author": null,
+          "description": "'I've had sleepless nights,' says London GP Dr Tina Agrawal, a partner whose exceptionally popular practice faces a six-figure income cut thanks to list cleaning. 'We're in trouble.'",
+          "link": "https://www.gponline.com/list-cleaning-chaos-leaves-popular-gp-practice-brink/article/1961969",
+          "publishedOn": "2026-06-17T16:00:00.000Z",
+          "wordCount": 753,
+          "title": "List cleaning chaos leaves popular GP practice on the brink",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Museum_Practice.png"
+        },
+        {
           "id": "https://www.gponline.com/article/1961936",
           "author": null,
           "description": "GP leaders are demanding a pause to an intensive list cleaning drive that has stripped more than 450,000 patients from practice lists across England - with removals accelerating over the past month.",
@@ -1896,6 +1916,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/government-offer-to-resident-doctors-june-2026",
+          "author": null,
+          "description": "Formal offer to the BMA resident doctors committee to resolve the current dispute with resident doctors.",
+          "link": "https://www.gov.uk/government/publications/government-offer-to-resident-doctors-june-2026",
+          "publishedOn": "2026-06-17T15:32:49.000Z",
+          "wordCount": 990,
+          "title": "Correspondence: Government offer to resident doctors: June 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/child-death-reviews-forms-for-reporting-child-deaths",
           "author": null,
