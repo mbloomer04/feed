@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-17T20:02:20.847Z</updated>
+    <updated>2026-06-17T22:40:49.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -37,6 +37,16 @@
  Updated: 17 Jun 2026]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease]]></title>
+        <id>urn:uuid:b39f6efd-d15a-455e-b207-6b6d4692ffec</id>
+        <link href="https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease"/>
+        <updated>2026-06-17T13:30:57.000Z</updated>
+        <summary type="html"><![CDATA[As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for the clinical management of filovirus disease which include all types of Ebola and Marburg viruses. The new guidelines highlight the importance of early supportive care to improve patient survival and health outcomes, outlining 16 evidence-based recommendations.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2255,106 +2265,6 @@ The 2026 prizes celebrate the remarkable dedication of the six awardees to advan
         <summary type="html"><![CDATA[A panel of speakers will discuss how the NHS is building a trusted and professionally accredited digital profession at Summer Schools 2026.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
-        <id>https://www.digitalhealth.net/?p=276125</id>
-        <link href="https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-167/"/>
-        <updated>2026-05-19T10:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Today's briefing features a blood test to detect Alzheimer’s disease earlier and an AI-imaging software platform to treat lung disease.]]></summary>
-        <author>
-            <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: patient safety - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the proposed legislative changes in the upcoming Health Bill to the way patient safety is being strengthened.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: role and functions of the restructured DHSC - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the role and functions of the restructured Department of Health and Social Care (DHSC).]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: patient voice - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the proposed legislative changes in the upcoming Health Bill to the way patient and public voice is listened to and acted upon within the health and care system.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: oversight of the health system - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-oversight-of-the-health-system-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-oversight-of-the-health-system-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines how the Department of Health and Social Care will set direction and maintain oversight of the health system, once NHS England has been abolished.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: single patient record - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-single-patient-record-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-single-patient-record-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Explains how the Health Bill will enable the creation of a single patient record.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: providers - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-providers-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-providers-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the proposed changes in the upcoming Health Bill related to providers, including NHS trusts, NHS foundation trusts and independent providers.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: data and digital functions - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-data-and-digital-functions-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-data-and-digital-functions-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the transfer of digital and data functions from NHS England to the Department of Health and Social Care proposed in the upcoming Health Bill.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: summary - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-summary-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-summary-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines the context behind the upcoming Health Bill including a summary of the main objectives and specific measures.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policy paper: Health Bill: ICBs as strategic commissioners - fact sheet]]></title>
-        <id>https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-fact-sheet</id>
-        <link href="https://www.gov.uk/government/publications/health-bill-icbs-as-strategic-commissioners-fact-sheet"/>
-        <updated>2026-05-19T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Outlines how  integrated care boards (ICBs) will focus on their role as strategic commissioners of local health services.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
