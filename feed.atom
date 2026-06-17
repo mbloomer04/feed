@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-16T22:48:46.317Z</updated>
+    <updated>2026-06-17T00:10:47.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS braces for jump in post-match A&E visits]]></title>
+        <id>https://www.england.nhs.uk/?p=288819</id>
+        <link href="https://www.england.nhs.uk/2026/06/nhs-braces-jump-post-match-ae-visits/"/>
+        <updated>2026-06-16T23:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Football fans are being urged not to ignore health problems, as new analysis reveals a significant drop in A&E attendances while the Three Lions are playing. Analysis of A&E attendance data during Euro 2024 found there were just under 17,000 fewer attendances than expected during England matches across the tournament – roughly a quarter of […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Adult social care activity report, England: 2024 to 2025]]></title>
         <id>https://www.gov.uk/government/statistics/adult-social-care-activity-report-england-2024-to-2025</id>
@@ -2335,16 +2345,6 @@ Established in 2019, the Director-General’s Awards for Global Health recognize
         <summary type="html"><![CDATA[The National Institute for Health and Care Research (NIHR) has awarded £5.4m to nine digital social care research projects.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Statistics: Adult social care provider statistics, England: quarterly update to May 2027]]></title>
-        <id>https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-may-2027</id>
-        <link href="https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-may-2027"/>
-        <updated>2026-05-18T11:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Official statistics on the number of people receiving adult social care services, and information on adult social care settings.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>
