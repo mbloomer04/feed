@@ -1877,6 +1877,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2026",
+          "author": null,
+          "description": "Information on how the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG) is controlling spend on branded medicines in the NHS.",
+          "link": "https://www.gov.uk/government/publications/voluntary-scheme-aggregate-net-sales-and-payment-information-may-2026",
+          "publishedOn": "2026-06-17T08:30:05.000Z",
+          "wordCount": 941,
+          "title": "Transparency data: Voluntary scheme aggregate net sales and payment information: May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-may-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-may-2026",
+          "publishedOn": "2026-06-17T08:30:04.000Z",
+          "wordCount": 1020,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-activity-report-england-2024-to-2025",
           "author": null,
           "description": "Official statistics in development on adult social care activity including data on requests for support, provision of care services, and reviews of care and support plans.",
@@ -3069,16 +3089,6 @@
           "wordCount": 2683,
           "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/conference-and-events/public-health-prizes/2026/wha79-public-health-prizes-and-awards-dr-lee-jong-wook-memorial-prize.tmb-1200v.jpg?sfvrsn=bcc605cb_4"
-        },
-        {
-          "id": "urn:uuid:cc4370dc-7a82-4a0e-bced-81f9c876a004",
-          "author": null,
-          "description": "The Seventy-ninth session of the World Health Assembly (WHA79) opened in Geneva, Switzerland today, with the election of Dr Víctor Elías Atallah Lajam of the Dominican Republic as the President of the Health Assembly.   \n\nThe elected Vice-Presidents are Dr Mohamed Ali Al-Ghouj of Libya, Dr Assa Badiallo Touré of Mali, Mrs Katarzyna Drążek -Laskowska of Poland, Mrs Neesha Mehta of Nepal, and Mr Elias Kapavore of Papua New Guinea. Dr Timur Sultangaziyev of Kazakhstan and Dr Kwabena Mintah Akandoh of Ghana are the Chairs of the Committee A and Committee B, respectively. \n\nDuring the high-level welcome, H.E. Elisabeth Baume‑Schneider, Federal Councillor of the Swiss Confederation, addressed the Health Assembly on behalf of the host country, followed by remarks from H.E. John Dramani Mahama, President of Ghana and Special Guest of Honour.   \n\nDelegates also heard video messages from H.E. António Guterres, United Nations Secretary‑General, H.E. Ahmad Al Sharaa, President of the Syrian Arab Republic, and H.E. Mia Mottley, Prime Minister of Barbados. \n\nDr Tedros Adhanom Ghebreyesus, WHO Director‑General, addressed the Assembly and then presented the Awards for Global Health to Dr Tore Godal, Dr Merceline Dahl-Regis, Dr Mike Ryan and Dr Heba El Sewedy, recognizing their lifetime achievements and exceptional contributions to improving the health and well-being of communities worldwide. \n\nSpecial Guest, H.E. Pedro Sanchez, Prime Minister of Spain, addressed the Assembly at the conclusion of the afternoon session in the Plenary.",
-          "link": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
-          "publishedOn": "2026-05-18T19:43:34.000Z",
-          "wordCount": 1791,
-          "title": "World Health Assembly opens in Geneva, Switzerland",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/wha76-overview-of-assembly-hall.tmb-1200v.jpg?sfvrsn=5cd3d542_1"
         }
       ]
     },
@@ -3087,6 +3097,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=293343",
+          "author": "Jordan Sollof",
+          "description": "King’s College Hospital NHS Foundation Trust has launched a digital prehab trial for patients awaiting hip and knee replacement surgery.",
+          "link": "https://www.digitalhealth.net/2026/06/kings-pilots-digital-prehab-for-hip-and-knee-replacement-patients/",
+          "publishedOn": "2026-06-17T06:30:57.000Z",
+          "wordCount": 6512,
+          "title": "King’s pilots digital prehab for hip and knee replacement patients",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Dr-Swinda-Esprit-Kings-College-Hospital.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=293841",
           "author": "Jon Hoeksma",
