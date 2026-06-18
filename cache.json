@@ -1230,6 +1230,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1961826",
+          "author": null,
+          "description": "GP access schemes should not come at the expense of continuity of care, the RCGP has warned - as it signed a three-year deal with the NHS to deliver support to practices.",
+          "link": "https://www.gponline.com/gp-access-warning-rcgp-wins-three-year-nhs-deal/article/1961826",
+          "publishedOn": "2026-06-18T08:31:00.000Z",
+          "wordCount": 750,
+          "title": "GP access warning as RCGP wins three-year NHS deal",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/RCGP_sign_PeteHill.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1961957",
+          "author": null,
+          "description": "GPs and practice staff fear plans to create a 'single patient record' could drive up workload, experts have told MPs.",
+          "link": "https://www.gponline.com/practices-fear-single-patient-record-drive-workload-mps-told/article/1961957",
+          "publishedOn": "2026-06-18T07:53:00.000Z",
+          "wordCount": 733,
+          "title": "Practices fear single patient record could drive up workload, MPs told",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-computer-GettyImages-sturti_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1961969",
           "author": null,
           "description": "'I've had sleepless nights,' says London GP Dr Tina Agrawal, a partner whose exceptionally popular practice faces a six-figure income cut thanks to list cleaning. 'We're in trouble.'",
@@ -1906,6 +1926,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services",
+          "author": null,
+          "description": "How commissioners should establish, monitor and assure the quality of public health nursing services delivered under the healthy child programme in England.",
+          "link": "https://www.gov.uk/government/publications/healthy-child-programme-commissioning-public-health-nursing-services",
+          "publishedOn": "2026-06-18T12:42:03.000Z",
+          "wordCount": 1230,
+          "title": "Guidance: Healthy child programme: commissioning public health nursing services",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/government-offer-to-resident-doctors-june-2026",
           "author": null,
@@ -3037,6 +3067,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=294795",
+          "author": "Jordan Sollof",
+          "description": "Health minister Preet Kaur Gill has apologised for NHSE’s handling of information provided to the NDG on FDP patient data access.",
+          "link": "https://www.digitalhealth.net/2026/06/health-minister-apologises-for-nhse-error-on-fdp-data-access/",
+          "publishedOn": "2026-06-18T12:30:14.000Z",
+          "wordCount": 4741,
+          "title": "Health minister apologises for NHSE error on FDP data access",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Preet-Kaur-Gill.png"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=291469",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features Doctify launching in Saudi Arabia and a Scottish medical management platform for World Cup players' welfare.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-176/",
+          "publishedOn": "2026-06-18T10:30:22.000Z",
+          "wordCount": 6614,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=291523",
           "author": "Samuel Webb",
