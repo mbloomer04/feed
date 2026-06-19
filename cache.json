@@ -114,26 +114,6 @@
           "wordCount": null,
           "title": "CC-4788 - Drupal Releases Security Updates for Drupal Core",
           "imageUrl": null
-        },
-        {
-          "id": "9bec2707-482c-4a09-9dbc-21e293a8df6c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Successful exploitation of CVE-2026-0265 could allow an unauthenticated attacker with network access to bypass authentication controls when Cloud Authentication Service (CAS) is enabled\n Updated: 20 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4787",
-          "publishedOn": "2026-05-20T14:47:00.000Z",
-          "wordCount": null,
-          "title": "CC-4787 - Palo Alto Networks Releases Security Advisory for an Authentication Bypass Vulnerability in PAN‑OS",
-          "imageUrl": null
-        },
-        {
-          "id": "77e18530-2a86-40ef-8b48-a177caff414d",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑46333 could allow local attackers to disclose sensitive system files on affected Linux systems\n Successful exploitation of CVE‑2026‑46333 could allow local attackers to disclose sensitive system files on affected Linux systems\n Updated: 20 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4786",
-          "publishedOn": "2026-05-20T14:29:00.000Z",
-          "wordCount": null,
-          "title": "CC-4786 - Linux Kernel Releases Security Updates for Information Disclosure Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -1738,16 +1718,6 @@
           "wordCount": 738,
           "title": "ICB asks LMCs to help struggling practices with succession plans",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Health_centre_Nick_3.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1958829",
-          "author": null,
-          "description": "The Health Bill announced as part of the King’s Speech this month sets out legislation for a single patient record, the abolition of NHS England and Healthwatch and sweeping new powers for the secretary of state. GPonline looks at what the plans mean for general practice.",
-          "link": "https://www.gponline.com/does-new-health-bill-mean-gps/article/1958829",
-          "publishedOn": "2026-05-20T12:00:01.000Z",
-          "wordCount": 775,
-          "title": "What does the new Health Bill mean for GPs?",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GettyImages-590989324-ezgif.com-compress-jpg.jpg"
         }
       ]
     },
@@ -2645,26 +2615,6 @@
           "wordCount": 1253,
           "title": "Research: WorkWell Pilots Evaluation Early Implementation Findings",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/adult-social-care-finance-return-2025-to-2026",
-          "author": null,
-          "description": "Instructions for completing the adult social care finance return  (ASCFR) data collection for the year 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/adult-social-care-finance-return-2025-to-2026",
-          "publishedOn": "2026-05-20T14:18:24.000Z",
-          "wordCount": 995,
-          "title": "Guidance: Adult social care finance return 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/broken-fit-note-system-to-be-overhauled",
-          "author": null,
-          "description": "Patients, employers and GPs are set to benefit from an overhaul of the broken fit note system following the launch of several pilots by the Government today to reform the system for workers who fall ill.",
-          "link": "https://www.gov.uk/government/news/broken-fit-note-system-to-be-overhauled",
-          "publishedOn": "2026-05-20T13:15:00.000Z",
-          "wordCount": 5545,
-          "title": "Broken fit note system to be overhauled",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -2999,16 +2949,6 @@
           "wordCount": 2041,
           "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
           "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/behind-the-scenes-wha-may-2026.tmb-1200v.jpg?sfvrsn=ca9ec689_1"
-        },
-        {
-          "id": "urn:uuid:089392f3-dec6-4fdf-a73d-cc9c8710385d",
-          "author": null,
-          "description": "Summary of discussions of 19 May at Seventy-ninth World Health Assembly",
-          "link": "https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
-          "publishedOn": "2026-05-20T15:01:32.000Z",
-          "wordCount": 3000,
-          "title": "Seventy-ninth World Health Assembly – Daily update: 19 May 2026",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/who-governance/world-health-assembly/wha79---2026-(18-23-may)/world-health-assembly-2026-committee-a.tmb-1200v.jpg?sfvrsn=9d01e43d_1"
         }
       ]
     },
@@ -3526,16 +3466,6 @@
           "wordCount": 4399,
           "title": "Robotic surgery tech to help cut West Hertfordshire waiting lists",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/DV5-robot-at-Watford-General.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=278827",
-          "author": "Jordan Sollof",
-          "description": "Digital Health is delighted to welcome Nervecentre, Optum and Better as the latest additions to the list of Networks sponsors.",
-          "link": "https://www.digitalhealth.net/2026/05/digital-health-networks-welcomes-new-sponsors/",
-          "publishedOn": "2026-05-20T12:30:54.000Z",
-          "wordCount": 6673,
-          "title": "Digital Health Networks welcomes new sponsors",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/New-Networks-Sponsors.png"
         }
       ]
     },
