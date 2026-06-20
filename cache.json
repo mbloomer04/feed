@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "CC-4789 - Trend Micro Releases Security Update for Actively Exploited Medium Severity Vulnerability in Apex One",
           "imageUrl": null
-        },
-        {
-          "id": "353e9295-4923-4436-9f67-8062f72ae7cb",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Successful exploitation of CVE-2026-9082 could allow for remote code execution\n Updated: 21 May 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4788",
-          "publishedOn": "2026-05-21T11:36:00.000Z",
-          "wordCount": null,
-          "title": "CC-4788 - Drupal Releases Security Updates for Drupal Core",
-          "imageUrl": null
         }
       ]
     },
@@ -2614,26 +2604,6 @@
           "publishedOn": "2026-05-21T14:27:11.000Z",
           "wordCount": 803,
           "title": "Transparency data: DHSC: spending over £25,000, December 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
-          "author": null,
-          "description": "A call for evidence to explore reforming the fit note process to support those with long term health conditions to access timely work and health support.",
-          "link": "https://www.gov.uk/government/calls-for-evidence/fit-note-reform-call-for-evidence",
-          "publishedOn": "2026-05-21T10:49:11.000Z",
-          "wordCount": 1433,
-          "title": "Fit Note Reform: call for evidence",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/fit-note-reform-call-for-evidence-results",
-          "author": null,
-          "description": "This report summarises the key findings from the wide range of responses received to the call for evidence on fit note reform.",
-          "link": "https://www.gov.uk/government/publications/fit-note-reform-call-for-evidence-results",
-          "publishedOn": "2026-05-21T10:47:34.000Z",
-          "wordCount": 1158,
-          "title": "Policy paper: Fit Note Reform: Call for Evidence – Results",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
