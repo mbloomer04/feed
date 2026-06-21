@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1962219",
+          "author": null,
+          "description": "GP leaders have questioned the validity of an 'alarming' list cleaning drive that has slashed more than 300,000 patients from practice lists over the past year.",
+          "link": "https://www.gponline.com/alarming-removal-300000-patients-year-threatens-practices-bma-warns/article/1962219",
+          "publishedOn": "2026-06-20T23:01:00.000Z",
+          "wordCount": 744,
+          "title": "Alarming removal of 300,000 patients in a year threatens practices, BMA warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/BMAsign-20140423110953678_28.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1962287",
           "author": null,
           "description": "Dozens of LMCs across England have written to the government to raise serious concerns about an intensive list cleaning drive that has stripped more than 450,000 patients from GP practice lists since late last year, amid rising fears over inappropriate removals.",
@@ -1721,7 +1731,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6f8ea9aa-48e7-4f0e-8cd7-6dca3c8417ce",
+          "author": "enquiries@nhsdigital.nhs.uk (Sally Stewart)",
+          "description": "Sally Stewart, Programme Director, North West Secure Data Environment, reflects on the importance of public trust when health data is used for research, and how a focus on security and transparency shapes the work of the NHS Research Secure Data Environment Network, including its newly launched Registration Service.",
+          "link": "https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/keeping-research-data-safe",
+          "publishedOn": "2026-06-18T10:57:58.000Z",
+          "wordCount": null,
+          "title": "Keeping research data safe: safe people and safe organisations",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",

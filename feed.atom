@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-20T22:59:02.864Z</updated>
+    <updated>2026-06-21T00:09:47.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alarming removal of 300,000 patients in a year threatens practices, BMA warns]]></title>
+        <id>https://www.gponline.com/article/1962219</id>
+        <link href="https://www.gponline.com/alarming-removal-300000-patients-year-threatens-practices-bma-warns/article/1962219"/>
+        <updated>2026-06-20T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[GP leaders have questioned the validity of an 'alarming' list cleaning drive that has slashed more than 300,000 patients from practice lists over the past year.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LMCs demand urgent list cleaning review as fears rise over inappropriate removals]]></title>
         <id>https://www.gponline.com/article/1962287</id>
@@ -84,6 +94,16 @@
         <summary type="html"><![CDATA[Health minister Preet Kaur Gill has apologised for NHSE’s handling of information provided to the NDG on FDP patient data access.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping research data safe: safe people and safe organisations]]></title>
+        <id>6f8ea9aa-48e7-4f0e-8cd7-6dca3c8417ce</id>
+        <link href="https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/keeping-research-data-safe"/>
+        <updated>2026-06-18T10:57:58.000Z</updated>
+        <summary type="html"><![CDATA[Sally Stewart, Programme Director, North West Secure Data Environment, reflects on the importance of public trust when health data is used for research, and how a focus on security and transparency shapes the work of the NHS Research Secure Data Environment Network, including its newly launched Registration Service.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (Sally Stewart)</name>
         </author>
     </entry>
     <entry>
