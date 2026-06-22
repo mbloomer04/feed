@@ -1200,6 +1200,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1962269",
+          "author": null,
+          "description": "Exclusive: More than £81m of additional roles reimbursement scheme (ARRS) cash went unclaimed in 2025/26, figures obtained by GPonline suggest.",
+          "link": "https://www.gponline.com/81m-arrs-cash-unclaimed-2025-26/article/1962269",
+          "publishedOn": "2026-06-22T15:30:00.000Z",
+          "wordCount": 729,
+          "title": "More than £81m of ARRS cash unclaimed in 2025/26",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Money_GettyImages-MinnaRossi_RF_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1962339",
           "author": null,
           "description": "GP practices should consider boycotting a new QOF target for prescribing weight loss drugs over concerns that it is not financially viable, the BMA has said.",
@@ -1916,6 +1926,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-may-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-may-2026",
+          "publishedOn": "2026-06-22T15:31:20.000Z",
+          "wordCount": 825,
+          "title": "Transparency data: DHSC: spending over £500, May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/letter-to-baroness-casey-progress-on-adult-social-care-reform-recommendations",
+          "author": null,
+          "description": "The Secretary of State for Health and Social Care updates Baroness Casey of Blackstock on progress against her initial recommendations.",
+          "link": "https://www.gov.uk/government/publications/letter-to-baroness-casey-progress-on-adult-social-care-reform-recommendations",
+          "publishedOn": "2026-06-22T14:39:55.000Z",
+          "wordCount": 967,
+          "title": "Correspondence: Letter to Baroness Casey: progress on adult social care reform recommendations",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/estimated-impact-of-the-introduction-of-the-single-patient-record",
           "author": null,
