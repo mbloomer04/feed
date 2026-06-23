@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-23T13:37:47.262Z</updated>
+    <updated>2026-06-23T16:22:11.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reforming the General Medical Council legislative framework]]></title>
+        <id>https://www.gov.uk/government/consultations/reforming-the-general-medical-council-legislative-framework</id>
+        <link href="https://www.gov.uk/government/consultations/reforming-the-general-medical-council-legislative-framework"/>
+        <updated>2026-06-23T15:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Seeks views on the draft General Medical Council Order 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Adult social care data collection: September 2025 notice]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-data-collection-september-2025-notice</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-data-collection-september-2025-notice"/>
+        <updated>2026-06-23T14:39:42.000Z</updated>
+        <summary type="html"><![CDATA[Information about the mandated national adult social care data returns for the year 2025 to 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2026-06-23T14:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4799 - Critical Remote Code Execution Vulnerability in libssh2]]></title>
         <id>a09e2d76-c5b1-4d9f-82d0-525cf8bd2cb9</id>
@@ -47,6 +77,29 @@
         <summary type="html"><![CDATA[Today's briefing features research into growing distrust in healthcare AI and a partnership between the MHRA and the FDA.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO urges scale up of newborn screening to improve early detection and care of birth defects]]></title>
+        <id>urn:uuid:64448f75-f6e8-44d4-b63d-e1fc5ab269fe</id>
+        <link href="https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects"/>
+        <updated>2026-06-23T10:01:11.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability for millions of children.
+A new WHO report, Strengthening capacity for newborn screening, diagnosis and management of birth defects, identifies newborn screening as an important opportunity to accelerate progress in child survival.
+Many conditions can be successfully treated if identified early after birth. These include congenital hypothyroidism, sickle-cell disease, hearing impairment and some metabolic disorders. Yet millions of children are still diagnosed too late or never receive treatment at all.
+Worldwide, an estimated 8 million babies are born with a birth defect each year, and birth…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worst medication shortages on record hit GP workload]]></title>
+        <id>https://www.gponline.com/article/1962182</id>
+        <link href="https://www.gponline.com/worst-medication-shortages-record-hit-gp-workload/article/1962182"/>
+        <updated>2026-06-23T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Medication shortages described as the most severe on record have pushed up GP workload and left patients struggling to access treatment, experts have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

@@ -1220,6 +1220,16 @@
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieCollin_1.jpg"
         },
         {
+          "id": "https://www.gponline.com/article/1962182",
+          "author": null,
+          "description": "Medication shortages described as the most severe on record have pushed up GP workload and left patients struggling to access treatment, experts have warned.",
+          "link": "https://www.gponline.com/worst-medication-shortages-record-hit-gp-workload/article/1962182",
+          "publishedOn": "2026-06-23T08:18:00.000Z",
+          "wordCount": 713,
+          "title": "Worst medication shortages on record hit GP workload",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/pharmacy_GettyImages-simonkr_RF_8.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1962269",
           "author": null,
           "description": "Exclusive: More than £81m of additional roles reimbursement scheme (ARRS) cash went unclaimed in 2025/26, figures obtained by GPonline suggest.",
@@ -1936,6 +1946,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/reforming-the-general-medical-council-legislative-framework",
+          "author": null,
+          "description": "Seeks views on the draft General Medical Council Order 2026.",
+          "link": "https://www.gov.uk/government/consultations/reforming-the-general-medical-council-legislative-framework",
+          "publishedOn": "2026-06-23T15:17:27.000Z",
+          "wordCount": 1084,
+          "title": "Reforming the General Medical Council legislative framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-data-collection-september-2025-notice",
+          "author": null,
+          "description": "Information about the mandated national adult social care data returns for the year 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-data-collection-september-2025-notice",
+          "publishedOn": "2026-06-23T14:39:42.000Z",
+          "wordCount": 949,
+          "title": "Guidance: Adult social care data collection: September 2025 notice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2026-06-23T14:17:25.000Z",
+          "wordCount": 14309,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-may-2026",
           "author": null,
@@ -2830,6 +2870,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:64448f75-f6e8-44d4-b63d-e1fc5ab269fe",
+          "author": null,
+          "description": "The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability for millions of children.\nA new WHO report, Strengthening capacity for newborn screening, diagnosis and management of birth defects, identifies newborn screening as an important opportunity to accelerate progress in child survival.\nMany conditions can be successfully treated if identified early after birth. These include congenital hypothyroidism, sickle-cell disease, hearing impairment and some metabolic disorders. Yet millions of children are still diagnosed too late or never receive treatment at all.\nWorldwide, an estimated 8 million babies are born with a birth defect each year, and birth…",
+          "link": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+          "publishedOn": "2026-06-23T10:01:11.000Z",
+          "wordCount": 2803,
+          "title": "WHO urges scale up of newborn screening to improve early detection and care of birth defects",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/imported/preterm-birth-mother-jpg.tmb-1200v.jpg?sfvrsn=c5c1adf1_38"
+        },
         {
           "id": "urn:uuid:b39f6efd-d15a-455e-b207-6b6d4692ffec",
           "author": null,
