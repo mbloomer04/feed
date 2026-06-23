@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "a09e2d76-c5b1-4d9f-82d0-525cf8bd2cb9",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow unauthenticated attackers to achieve remote code execution via crafted SSH packets\n Successful exploitation could allow unauthenticated attackers to achieve remote code execution via crafted SSH packets\n Updated: 23 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4799",
+          "publishedOn": "2026-06-23T13:17:00.000Z",
+          "wordCount": null,
+          "title": "CC-4799 - Critical Remote Code Execution Vulnerability in libssh2",
+          "imageUrl": null
+        },
+        {
           "id": "d9ad918b-b2f3-49a0-ac6d-20c29d316613",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-20253 could allow a remote unauthenticated attacker to create arbitrary files, potentially enabling remote code execution and full system compromise\n Successful exploitation of CVE-2026-20253 could allow a remote unauthenticated attacker to create arbitrary files, potentially enabling remote code execution and full system compromise\n Updated: 17 Jun 2026",
@@ -1200,6 +1210,16 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1962519",
+          "author": null,
+          "description": "GP partners could see profits drop in 2026/27 because rising costs are outstripping income, a leading specialist accountant has warned.",
+          "link": "https://www.gponline.com/gp-partners-face-pay-cut-year-expert-warns/article/1962519",
+          "publishedOn": "2026-06-23T10:39:56.000Z",
+          "wordCount": 731,
+          "title": "GP partners could face pay cut this year, expert warns",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/KatieCollin_1.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1962269",
           "author": null,
           "description": "Exclusive: More than £81m of additional roles reimbursement scheme (ARRS) cash went unclaimed in 2025/26, figures obtained by GPonline suggest.",
@@ -1907,16 +1927,6 @@
           "publishedOn": "2026-06-03T12:59:58.000Z",
           "wordCount": 2160,
           "title": "Chair of new NHS online hospital trust is named",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=287535",
-          "author": "jboshell",
-          "description": "Thousands of people in England have had lung cancer caught early thanks to NHS scanning trucks in supermarket car parks, sports stadiums and busy high streets. New NHS data shows 10,678 lung cancers have been detected through the programme since it began – more than three quarters of which were caught at stages one or […]",
-          "link": "https://www.england.nhs.uk/2026/05/supermarket-scans-spotting-thousands-of-cancers/",
-          "publishedOn": "2026-05-24T23:01:17.000Z",
-          "wordCount": 2122,
-          "title": "Supermarket scans spotting thousands of cancers",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
@@ -2917,6 +2927,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=295375",
+          "author": "Samuel Webb",
+          "description": "Manchester Metropolitan University will promote AI for business and the development of wearable health technologies through funding awarded by UK Research and Innovation’s Local Innovation Partnership Fund (LIPF). The funding will support two initiatives: Grow AI, which aims to accelerate AI adoption among businesses, and GM-WIC, which will bring together the NHS, universities, businesses and […]",
+          "link": "https://www.digitalhealth.net/2026/06/manchester-met-wins-funding-to-boost-ai-health-innovation/",
+          "publishedOn": "2026-06-23T12:30:41.000Z",
+          "wordCount": 4177,
+          "title": "Manchester Met wins funding to boost AI health innovation",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/New-Project-4.jpg"
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=295229",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features research into growing distrust in healthcare AI and a partnership between the MHRA and the FDA.",
+          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-177/",
+          "publishedOn": "2026-06-23T10:30:54.000Z",
+          "wordCount": 4538,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=296655",
           "author": "Jordan Sollof",

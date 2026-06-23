@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-23T10:29:35.705Z</updated>
+    <updated>2026-06-23T13:37:47.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4799 - Critical Remote Code Execution Vulnerability in libssh2]]></title>
+        <id>a09e2d76-c5b1-4d9f-82d0-525cf8bd2cb9</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4799"/>
+        <updated>2026-06-23T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could allow unauthenticated attackers to achieve remote code execution via crafted SSH packets
+ Successful exploitation could allow unauthenticated attackers to achieve remote code execution via crafted SSH packets
+ Updated: 23 Jun 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchester Met wins funding to boost AI health innovation]]></title>
+        <id>https://www.digitalhealth.net/?p=295375</id>
+        <link href="https://www.digitalhealth.net/2026/06/manchester-met-wins-funding-to-boost-ai-health-innovation/"/>
+        <updated>2026-06-23T12:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Manchester Metropolitan University will promote AI for business and the development of wearable health technologies through funding awarded by UK Research and Innovation’s Local Innovation Partnership Fund (LIPF). The funding will support two initiatives: Grow AI, which aims to accelerate AI adoption among businesses, and GM-WIC, which will bring together the NHS, universities, businesses and […]]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP partners could face pay cut this year, expert warns]]></title>
+        <id>https://www.gponline.com/article/1962519</id>
+        <link href="https://www.gponline.com/gp-partners-face-pay-cut-year-expert-warns/article/1962519"/>
+        <updated>2026-06-23T10:39:56.000Z</updated>
+        <summary type="html"><![CDATA[GP partners could see profits drop in 2026/27 because rising costs are outstripping income, a leading specialist accountant has warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=295229</id>
+        <link href="https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-177/"/>
+        <updated>2026-06-23T10:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features research into growing distrust in healthcare AI and a partnership between the MHRA and the FDA.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FDP ‘here to stay’ says Patel as Palantir contract faces review]]></title>
         <id>https://www.digitalhealth.net/?p=296655</id>
@@ -2105,16 +2148,6 @@ Ebola is not new to me personally. From 2018 to 2020, I came fourteen times to N
         <summary type="html"><![CDATA[GP practices should obtain expert HR advice before recruiting GPs under the new practice-level reimbursement scheme to ensure they understand any potential redundancy liabilities, a leading GP practice manager has warned.]]></summary>
         <author>
             <name>GP Online 2014 News RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermarket scans spotting thousands of cancers]]></title>
-        <id>https://www.england.nhs.uk/?p=287535</id>
-        <link href="https://www.england.nhs.uk/2026/05/supermarket-scans-spotting-thousands-of-cancers/"/>
-        <updated>2026-05-24T23:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of people in England have had lung cancer caught early thanks to NHS scanning trucks in supermarket car parks, sports stadiums and busy high streets. New NHS data shows 10,678 lung cancers have been detected through the programme since it began – more than three quarters of which were caught at stages one or […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>
