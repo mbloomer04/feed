@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b0b70224-9546-4c6e-95c8-31cd7281eb8f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2025-67038 could lead to unauthenticated OS command injection\n Successful exploitation of CVE-2025-67038 could lead to unauthenticated OS command injection\n Updated: 25 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4801",
+          "publishedOn": "2026-06-25T13:28:00.000Z",
+          "wordCount": null,
+          "title": "CC-4801 - Exploitation of Critical Vulnerability in Lantronix Serial-to-Ethernet Device Servers",
+          "imageUrl": null
+        },
+        {
           "id": "bd1a12d7-2df2-407a-9c13-32458b8dd31e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Ubiquiti has released Security Advisory Bulletin addressing multiple critical vulnerabilities that could allow an attacker with network access to execute commands, modify system configurations, or access sensitive files\n Ubiquiti has released Security Advisory Bulletin addressing multiple critical vulnerabilities that could allow an attacker with network access to execute commands, modify system configurations, or access sensitive files\n Updated: 24 Jun 2026",
@@ -3037,6 +3047,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=296761",
+          "author": "Jordan Sollof",
+          "description": "Frimley Health NHS Foundation Trust has selected Omega 365’s system to support its major hospital development programme.",
+          "link": "https://www.digitalhealth.net/2026/06/omega-365-platform-selected-for-frimley-hospital-programme/",
+          "publishedOn": "2026-06-25T12:30:34.000Z",
+          "wordCount": 4549,
+          "title": "Omega 365 platform selected for Frimley hospital programme",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Gunnar-Hansen-Omega-365.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=295253",
           "author": "Samuel Webb",
