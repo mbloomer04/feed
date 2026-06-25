@@ -1778,26 +1778,6 @@
           "wordCount": 1837,
           "title": "Analysis: How politics helped shape the map of England's new neighbourhood health centres",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Screenshot2026-06-01at16.00.48.png"
-        },
-        {
-          "id": "https://www.gponline.com/article/1959432",
-          "author": null,
-          "description": "GP leaders have flagged 'increasing' safety concerns over mandatory advice and guidance as a health watchdog investigating the issue said it reserved the right to trigger NHS safety measures to protect patients.",
-          "link": "https://www.gponline.com/bma-gp-leader-flags-advice-guidance-concerns-watchdog-investigates/article/1959432",
-          "publishedOn": "2026-05-27T11:00:00.000Z",
-          "wordCount": 769,
-          "title": "BMA GP leader flags advice and guidance concerns as watchdog investigates",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_26.jpg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1959429",
-          "author": null,
-          "description": "Learning sessions at our free event will challenge and empower you in your clinical work and practice organisation. Click here for more details.",
-          "link": "https://www.gponline.com/mims-learning-live-south-offers-four-great-streams-clinical-business-learning/article/1959429",
-          "publishedOn": "2026-05-27T10:24:26.000Z",
-          "wordCount": 1163,
-          "title": "MIMS Learning Live South offers four great streams of clinical and business learning",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/MIMSLearningLiveSouth–UKHCPs858x575.png"
         }
       ]
     },
@@ -1859,6 +1839,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=289406",
+          "author": "nowen",
+          "description": "Nearly 2,000 people unknowingly living with HIV have been diagnosed by a pioneering NHS programme, which tests anyone needing a blood test in A&E, saving lives and preventing new infections, shows new data. Under the first-of-its kind, large scale programme, adults in need of a blood test in A&E in 88 areas of England with […]",
+          "link": "https://www.england.nhs.uk/2026/06/nhs-ae-blood-testing-finds-2000-unidentified-hiv-cases-in-first-4-years/",
+          "publishedOn": "2026-06-25T21:30:37.000Z",
+          "wordCount": 1948,
+          "title": "NHS A&E blood-testing finds 2,000 unidentified HIV cases in first 4 years",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=289269",
           "author": "Tom W",
