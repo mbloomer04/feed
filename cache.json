@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b4e33b4f-c440-4b67-a9da-91fc3428a647",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE‑2026‑8461 could allow a DoS condition or RCE via crafted media files processed by applications that embed FFmpeg codecs\n Successful exploitation of CVE‑2026‑8461 could allow a DoS condition or RCE via crafted media files processed by applications that embed FFmpeg codecs\n Updated: 25 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4802",
+          "publishedOn": "2026-06-25T14:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4802 - FFmpeg Releases Update for Vulnerability in MagicYUV Decoder",
+          "imageUrl": null
+        },
+        {
           "id": "b0b70224-9546-4c6e-95c8-31cd7281eb8f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2025-67038 could lead to unauthenticated OS command injection\n Successful exploitation of CVE-2025-67038 could lead to unauthenticated OS command injection\n Updated: 25 Jun 2026",
@@ -1966,6 +1976,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-ministerial-travel-and-meetings-january-to-march-2026",
+          "author": null,
+          "description": "Data on ministers’ external meetings and any overseas travel.",
+          "link": "https://www.gov.uk/government/publications/dhsc-ministerial-travel-and-meetings-january-to-march-2026",
+          "publishedOn": "2026-06-25T15:00:08.000Z",
+          "wordCount": 810,
+          "title": "Transparency data: DHSC: ministerial travel and meetings, January to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-may-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-may-2026",
+          "publishedOn": "2026-06-25T15:00:08.000Z",
+          "wordCount": 781,
+          "title": "Transparency data: DHSC: workforce management information May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-january-to-march-2026",
+          "author": null,
+          "description": "All data on senior officials’ business expenses, external meetings and hospitality.",
+          "link": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-january-to-march-2026",
+          "publishedOn": "2026-06-25T15:00:08.000Z",
+          "wordCount": 857,
+          "title": "Transparency data: DHSC: senior officials’ business expenses, hospitality and meetings, January to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+          "author": null,
+          "description": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+          "link": "https://www.gov.uk/government/publications/dhsc-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+          "publishedOn": "2026-06-25T15:00:04.000Z",
+          "wordCount": 891,
+          "title": "Transparency data: DHSC: special advisers' gifts, hospitality and meetings, January to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/department-of-health-and-social-care-general-enquiries",
+          "author": null,
+          "description": "Use this page to find out how to contact DHSC.",
+          "link": "https://www.gov.uk/guidance/department-of-health-and-social-care-general-enquiries",
+          "publishedOn": "2026-06-25T14:41:34.000Z",
+          "wordCount": 2550,
+          "title": "Contact the Department of Health and Social Care (DHSC)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/foreign-secretary-announces-support-for-gaza-with-new-child-medical-evacuations-and-assistance-to-palestinians-going-to-top-uk-universities",
           "author": null,
