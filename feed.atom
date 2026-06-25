@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-25T04:57:18.450Z</updated>
+    <updated>2026-06-25T08:20:43.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oxford AI studies secure NIHR funding to tackle NHS waiting times]]></title>
+        <id>https://www.digitalhealth.net/?p=297077</id>
+        <link href="https://www.digitalhealth.net/2026/06/oxford-ai-studies-secure-nihr-funding-to-tackle-nhs-waiting-times/"/>
+        <updated>2026-06-25T06:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Two studies have received funding from the National Institute for Health and Care Research (NIHR) as part of an £8 million initiative supporting AI projects aimed at reducing NHS waiting times and improving patient care. Through its Invention for Innovation (i4i) programme, the NIHR awarded £8,136,409 to six projects testing a range of AI and […]]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS to offer new immunotherapy for hundreds of women with aggressive cervical cancer]]></title>
         <id>https://www.england.nhs.uk/?p=289269</id>
