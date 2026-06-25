@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-25T08:20:43.396Z</updated>
+    <updated>2026-06-25T11:33:02.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
+        <id>https://www.digitalhealth.net/?p=295253</id>
+        <link href="https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-178/"/>
+        <updated>2026-06-25T10:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Today's briefing features a rise in the use of translation services driven by high petrol costs and a liver toxicity testing breakthrough.]]></summary>
+        <author>
+            <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Share GP data with online pharmacies to keep patients safe, says watchdog]]></title>
+        <id>https://www.gponline.com/article/1962771</id>
+        <link href="https://www.gponline.com/share-gp-data-online-pharmacies-keep-patients-safe-says-watchdog/article/1962771"/>
+        <updated>2026-06-25T08:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Millions of patients who use online prescription services could be at risk because of poor communication between these services and NHS GPs, a report warns.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxford AI studies secure NIHR funding to tackle NHS waiting times]]></title>
         <id>https://www.digitalhealth.net/?p=297077</id>
@@ -87,6 +107,16 @@
         <summary type="html"><![CDATA[Landmark patient safety initiative, Martha's Rule, rolled out to all maternity settings after review found serious and sustained failures]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[655 million people still living without electricity underscore urgent need to deliver on universal energy access target]]></title>
+        <id>urn:uuid:4c0ce00c-7fb4-440b-b0ee-217fab8ffa61</id>
+        <link href="https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target"/>
+        <updated>2026-06-24T11:57:55.000Z</updated>
+        <summary type="html"><![CDATA[At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and technologies for cooking putting their health and well-being at risk.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
