@@ -1967,6 +1967,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/pioneering-projects-to-transform-obesity-care-backed-by-85-million-from-government-and-industry",
+          "author": null,
+          "description": "A dozen cutting-edge projects will benefit thousands of patients battling obesity across the UK.",
+          "link": "https://www.gov.uk/government/news/pioneering-projects-to-transform-obesity-care-backed-by-85-million-from-government-and-industry",
+          "publishedOn": "2026-06-26T23:01:04.000Z",
+          "wordCount": 6883,
+          "title": "Pioneering projects to transform obesity care, backed by £85 million from government and industry",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-january-to-march-2026",
           "author": null,
           "description": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
@@ -2774,16 +2784,6 @@
           "publishedOn": "2026-05-28T15:59:48.000Z",
           "wordCount": 1205,
           "title": "Notice: Life Sciences Healthcare Goals",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/msk-patients-to-get-faster-care-and-help-returning-to-work",
-          "author": null,
-          "description": "Thousands of patients with painful joint and muscle conditions will receive employment support and treatment to tackle health-related economic inactivity.",
-          "link": "https://www.gov.uk/government/news/msk-patients-to-get-faster-care-and-help-returning-to-work",
-          "publishedOn": "2026-05-28T10:35:10.000Z",
-          "wordCount": 3270,
-          "title": "MSK patients to get faster care and help returning to work",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
@@ -3626,16 +3626,6 @@
           "wordCount": 6499,
           "title": "Summer Schools 2026 working programme published",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/05/SS26-Working-Programme.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=279159",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features a methodology for testing medical mattresses and research into how brains are interpreted and measured.",
-          "link": "https://www.digitalhealth.net/2026/05/digital-health-coffee-time-briefing-%e2%98%95-170/",
-          "publishedOn": "2026-05-28T10:30:53.000Z",
-          "wordCount": 4416,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
         }
       ]
     },
