@@ -1230,6 +1230,26 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1962906",
+          "author": null,
+          "description": "BMA leaders are seeking to identify any practices or salaried GPs affected by an error in legal documentation that underpins the GP contract, after the government cut the hourly rate practices can claim under the GP reimbursement scheme and admitted the move was to correct a mistake.",
+          "link": "https://www.gponline.com/dhsc-admits-sfe-error-bma-offers-support-affected-practices/article/1962906",
+          "publishedOn": "2026-06-26T08:34:00.000Z",
+          "wordCount": 784,
+          "title": "DHSC admits SFE error as BMA offers support for affected practices",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP-consultation_GettyImages-sturti_RF_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1962537",
+          "author": null,
+          "description": "GPonline editor Emma Bower and deputy editor Nick Bostock discuss the key news stories affecting general practice.",
+          "link": "https://www.gponline.com/podcast-gps-push-back-list-cleaning-qof-obesity-flaws-arrs-underspend/article/1962537",
+          "publishedOn": "2026-06-26T08:24:00.000Z",
+          "wordCount": 722,
+          "title": "Podcast: GPs push back on list cleaning, QOF obesity flaws, ARRS underspend",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/TalkingGeneralPracticeEmmaandNick858x575_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1962771",
           "author": null,
           "description": "Millions of patients who use online prescription services could be at risk because of poor communication between these services and NHS GPs, a report warns.",
@@ -1946,6 +1966,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-january-to-march-2026",
+          "author": null,
+          "description": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+          "link": "https://www.gov.uk/government/publications/dhsc-business-appointment-rules-advice-january-to-march-2026",
+          "publishedOn": "2026-06-26T08:23:31.000Z",
+          "wordCount": 873,
+          "title": "Transparency data: DHSC: business appointment rules advice, January to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-ministerial-travel-and-meetings-january-to-march-2026",
           "author": null,
