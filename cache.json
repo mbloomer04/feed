@@ -1937,6 +1937,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-evaluation-strategy-2026",
+          "author": null,
+          "description": "This evaluation strategy sets out the Department of Health and Social Care's (DHSC) vision for high-quality evaluation of its policies, programmes and projects.",
+          "link": "https://www.gov.uk/government/publications/dhsc-evaluation-strategy-2026",
+          "publishedOn": "2026-06-29T09:00:01.000Z",
+          "wordCount": 880,
+          "title": "Policy paper: DHSC evaluation strategy 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/pioneering-projects-to-transform-obesity-care-backed-by-85-million-from-government-and-industry",
           "author": null,
           "description": "A dozen cutting-edge projects will benefit thousands of patients battling obesity across the UK.",
@@ -2997,6 +3007,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=298703",
+          "author": "Jordan Sollof",
+          "description": "The NHS is failing to capitalise on productivity benefits by underusing AI for admin tasks, new workforce census data from the RCR reveals.",
+          "link": "https://www.digitalhealth.net/2026/06/ai-underused-where-it-could-deliver-productivity-gains-says-rcr/",
+          "publishedOn": "2026-06-29T06:30:50.000Z",
+          "wordCount": 4563,
+          "title": "AI underused where it could deliver productivity gains, says RCR",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/02/Dr-Stephen-Harden-1.jpg"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=298553",
           "author": "Jordan Sollof",

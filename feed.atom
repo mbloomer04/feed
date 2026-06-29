@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-29T05:23:50.407Z</updated>
+    <updated>2026-06-29T10:25:53.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: DHSC evaluation strategy 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-evaluation-strategy-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-evaluation-strategy-2026"/>
+        <updated>2026-06-29T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[This evaluation strategy sets out the Department of Health and Social Care's (DHSC) vision for high-quality evaluation of its policies, programmes and projects.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI underused where it could deliver productivity gains, says RCR]]></title>
+        <id>https://www.digitalhealth.net/?p=298703</id>
+        <link href="https://www.digitalhealth.net/2026/06/ai-underused-where-it-could-deliver-productivity-gains-says-rcr/"/>
+        <updated>2026-06-29T06:30:50.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is failing to capitalise on productivity benefits by underusing AI for admin tasks, new workforce census data from the RCR reveals.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pioneering projects to transform obesity care, backed by £85 million from government and industry]]></title>
         <id>https://www.gov.uk/government/news/pioneering-projects-to-transform-obesity-care-backed-by-85-million-from-government-and-industry</id>
