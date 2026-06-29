@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-29T17:29:19.660Z</updated>
+    <updated>2026-06-29T19:45:22.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resident doctors agree deal with Government to end strikes]]></title>
+        <id>https://www.gov.uk/government/news/resident-doctors-agree-deal-with-government-to-end-strikes</id>
+        <link href="https://www.gov.uk/government/news/resident-doctors-agree-deal-with-government-to-end-strikes"/>
+        <updated>2026-06-29T19:27:57.000Z</updated>
+        <summary type="html"><![CDATA[The BMA vote to accept offer which will see resident doctors benefit from new pay structure and better career progression opportunities]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4803 - Exploited Critical Vulnerability in the Oracle Payments Component of Oracle E-Business Suite]]></title>
         <id>8ee7189a-dc0a-4af5-b842-783a59162c38</id>
