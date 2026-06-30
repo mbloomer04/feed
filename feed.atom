@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-30T13:05:04.450Z</updated>
+    <updated>2026-06-30T16:16:48.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4804 - SimpleHelp Releases Advisory for Authentication Bypass Vulnerability in SimpleHelp RMM]]></title>
+        <id>b75c3819-0651-459c-b041-eff1262bbf21</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4804"/>
+        <updated>2026-06-30T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints
+ Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints
+ Updated: 30 Jun 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new chapter for the Advisory Group for Data]]></title>
         <id>0bf2e9fa-b46b-46c3-9c86-2579e7da6cdc</id>

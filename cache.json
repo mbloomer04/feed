@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b75c3819-0651-459c-b041-eff1262bbf21",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Updated: 30 Jun 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4804",
+          "publishedOn": "2026-06-30T13:46:00.000Z",
+          "wordCount": null,
+          "title": "CC-4804 - SimpleHelp Releases Advisory for Authentication Bypass Vulnerability in SimpleHelp RMM",
+          "imageUrl": null
+        },
+        {
           "id": "8ee7189a-dc0a-4af5-b842-783a59162c38",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments\n CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments\n Updated: 29 Jun 2026",
