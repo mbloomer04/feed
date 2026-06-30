@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-06-30T16:16:48.680Z</updated>
+    <updated>2026-06-30T18:50:24.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPs fear 'drastic patient harm' as 70% of practices report list cleaning errors]]></title>
+        <id>https://www.gponline.com/article/1963295</id>
+        <link href="https://www.gponline.com/gps-fear-drastic-patient-harm-70-practices-report-list-cleaning-errors/article/1963295"/>
+        <updated>2026-06-30T14:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Seven in 10 GP practices have had to reinstate patients removed incorrectly during a list cleaning drive that has cut practice funding by up to six figures, pushed up workload and risks 'drastic patient harm', LMCs have warned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4804 - SimpleHelp Releases Advisory for Authentication Bypass Vulnerability in SimpleHelp RMM]]></title>
         <id>b75c3819-0651-459c-b041-eff1262bbf21</id>
@@ -2333,16 +2343,6 @@ The plan complem…]]></summary>
         <summary type="html"><![CDATA[Guidance outlining the criteria and process for accessing funding for the assessed and supported year in employment in adult social care.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS trusts lack support to manage ePMA safety risks, HSSIB says]]></title>
-        <id>https://www.digitalhealth.net/?p=283429</id>
-        <link href="https://www.digitalhealth.net/2026/06/nhs-trusts-lack-support-to-manage-epma-safety-risks-hssib-says/"/>
-        <updated>2026-06-01T06:30:27.000Z</updated>
-        <summary type="html"><![CDATA[A HSSIB report has warned that NHS trusts are being left to manage digital safety risks linked to ePMA systems.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
