@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "3fe821d8-d19e-486b-8510-29991bd74ad7",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-8451 could allow unauthenticated memory disclosure in NetScaler appliances when configured as a SAML IDP\n Successful exploitation of CVE-2026-8451 could allow unauthenticated memory disclosure in NetScaler appliances when configured as a SAML IDP\n Updated: 01 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4805",
+          "publishedOn": "2026-07-01T13:19:00.000Z",
+          "wordCount": null,
+          "title": "CC-4805 - Citrix Releases Security Advisory for NetScaler ADC and NetScaler Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "b75c3819-0651-459c-b041-eff1262bbf21",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Updated: 30 Jun 2026",
@@ -1881,6 +1891,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=289571",
+          "author": "jboshell",
+          "description": "Thousands more people at risk from a virus which causes pneumonia and other serious lung infections will be able to get vital protection on the NHS this winter. From September, all adults aged 65-74 who are living with a chronic respiratory condition or who have a suppressed immune system will be offered the respiratory syncytial […]",
+          "link": "https://www.england.nhs.uk/2026/07/thousands-more-vulnerable-adults-to-be-offered-rsv-vaccine-to-prevent-serious-lung-infection/",
+          "publishedOn": "2026-07-01T11:38:52.000Z",
+          "wordCount": 1489,
+          "title": "Thousands more vulnerable adults to be offered RSV vaccine to prevent serious lung infection",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=289406",
           "author": "nowen",
           "description": "Nearly 2,000 people unknowingly living with HIV have been diagnosed by a pioneering NHS programme, which tests anyone needing a blood test in A&E, saving lives and preventing new infections, shows new data. Under the first-of-its kind, large scale programme, adults in need of a blood test in A&E in 88 areas of England with […]",
@@ -3068,6 +3088,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=300553",
+          "author": "Jordan Sollof",
+          "description": "NHS Greater Glasgow and Clyde (NHSGGC) has begun rolling out a digital triage system across its emergency departments.",
+          "link": "https://www.digitalhealth.net/2026/07/nhs-greater-glasgow-and-clyde-rolls-out-digital-triage-system/",
+          "publishedOn": "2026-07-01T12:30:57.000Z",
+          "wordCount": 4563,
+          "title": "NHS Greater Glasgow and Clyde rolls out digital triage system",
+          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/eTriage-kiosks.png"
+        },
         {
           "id": "https://www.digitalhealth.net/?p=300417",
           "author": "Samuel Webb",
