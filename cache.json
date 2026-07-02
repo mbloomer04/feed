@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f73fad96-3ba8-4863-9fb8-b683f7dc4d74",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)\n The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)\n Updated: 02 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4807",
+          "publishedOn": "2026-07-02T14:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4807 - Critical Vulnerabilities in UltraVNC Repeater Component",
+          "imageUrl": null
+        },
+        {
+          "id": "d9151c40-45a8-4698-af24-dedf77370888",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-45659 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Successful exploitation of CVE-2026-45659 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Updated: 02 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4806",
+          "publishedOn": "2026-07-02T12:50:00.000Z",
+          "wordCount": null,
+          "title": "CC-4806 - Active Exploitation of CVE-2026-45659 in Microsoft SharePoint",
+          "imageUrl": null
+        },
+        {
           "id": "3fe821d8-d19e-486b-8510-29991bd74ad7",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-8451 could allow unauthenticated memory disclosure in NetScaler appliances when configured as a SAML IDP\n Successful exploitation of CVE-2026-8451 could allow unauthenticated memory disclosure in NetScaler appliances when configured as a SAML IDP\n Updated: 01 Jul 2026",
@@ -2028,6 +2048,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025",
+          "author": null,
+          "description": "Survey results from the second wave of the Adult Social Care Workforce Survey, undertaken between August and October 2025 in England.",
+          "link": "https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025",
+          "publishedOn": "2026-07-02T15:00:01.000Z",
+          "wordCount": 1493,
+          "title": "Research: Work-related quality of life of the adult social care workforce in England in 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "author": null,
+          "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
+          "link": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
+          "publishedOn": "2026-07-02T14:46:34.000Z",
+          "wordCount": 3904,
+          "title": "Guidance: Medicines that you cannot export from the UK or hoard",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
           "author": null,
           "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
@@ -3028,6 +3068,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=301471",
+          "author": "Jordan Sollof",
+          "description": "Health Innovation West Midlands (HIWM) has helped local NHS organisations secure a share of the £85m national investment in obesity care.",
+          "link": "https://www.digitalhealth.net/2026/07/midlands-secures-share-of-85m-to-transform-obesity-care/",
+          "publishedOn": "2026-07-02T12:30:09.000Z",
+          "wordCount": null,
+          "title": "Midlands secures share of £85m to transform obesity care",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=297285",
           "author": "Samuel Webb",
