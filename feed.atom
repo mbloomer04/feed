@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-02T15:07:20.612Z</updated>
+    <updated>2026-07-02T17:31:58.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027"/>
+        <updated>2026-07-02T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research: Work-related quality of life of the adult social care workforce in England in 2025]]></title>
         <id>https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025</id>
@@ -40,6 +50,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Every GP practice in Kent and Medway signed up to contract DES variation]]></title>
+        <id>https://www.gponline.com/article/1963513</id>
+        <link href="https://www.gponline.com/every-gp-practice-kent-medway-signed-contract-des-variation/article/1963513"/>
+        <updated>2026-07-02T12:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Every GP practice across Kent and Medway has signed up to a first-of-its-kind local variation to the network contract directed enhanced service (DES) that brings new funding for targets to support neighbourhood working.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CC-4806 - Active Exploitation of CVE-2026-45659 in Microsoft SharePoint]]></title>
         <id>d9151c40-45a8-4698-af24-dedf77370888</id>
         <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4806"/>
@@ -63,6 +83,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['It's been a privilege': BMA GP committee chair to step down]]></title>
+        <id>https://www.gponline.com/article/1963469</id>
+        <link href="https://www.gponline.com/its-privilege-bma-gp-committee-chair-step-down/article/1963469"/>
+        <updated>2026-07-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BMA England GP committee chair Dr Katie Bramall will not stand for re-election when her three-year term ends this month, GPonline has learned.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=297285</id>
         <link href="https://www.digitalhealth.net/2026/07/digital-health-coffee-time-briefing-%e2%98%95-180/"/>
@@ -70,6 +100,16 @@
         <summary type="html"><![CDATA[Today's briefing includes medical cannabis accreditation and a system to improve musculoskeletal performance or rehabilitation.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP fury as NHS boss claims practices have twice the space they need]]></title>
+        <id>https://www.gponline.com/article/1963472</id>
+        <link href="https://www.gponline.com/gp-fury-nhs-boss-claims-practices-twice-space-need/article/1963472"/>
+        <updated>2026-07-02T09:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Primary care leaders have been left ‘flabbergasted’ after the NHS England chair said GP practices have ‘twice as much floor space’ as they need.]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -100,6 +140,16 @@
         <summary type="html"><![CDATA[Sheffield City Council has become the first local authority to approve a motion formally opposing Palantir's involvement in the NHS FDP.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year on, is the 10-year health plan on track?]]></title>
+        <id>https://www.gponline.com/article/1963252</id>
+        <link href="https://www.gponline.com/one-year-on-10-year-health-plan-track/article/1963252"/>
+        <updated>2026-07-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One year on from the publication of the government's 10-year health plan, how much progress has been made against its aims and promises?]]></summary>
+        <author>
+            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2319,16 +2369,6 @@ The plan complem…]]></summary>
         <summary type="html"><![CDATA[The rollout of AI scribes across the NHS should be accompanied by national oversight, according to a new public dialogue report.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS England has overloaded GPs with access targets, MPs warn]]></title>
-        <id>https://www.gponline.com/article/1960098</id>
-        <link href="https://www.gponline.com/nhs-england-overloaded-gps-access-targets-mps-warn/article/1960098"/>
-        <updated>2026-06-02T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[GPs are unable to provide the care frail, older patients need because NHS England has overloaded practices with access targets, MPs have warned.]]></summary>
-        <author>
-            <name>GP Online 2014 News RSS Feed</name>
         </author>
     </entry>
     <entry>

@@ -1270,6 +1270,46 @@
       "siteUrl": "https://www.gponline.comrss/news",
       "articles": [
         {
+          "id": "https://www.gponline.com/article/1963513",
+          "author": null,
+          "description": "Every GP practice across Kent and Medway has signed up to a first-of-its-kind local variation to the network contract directed enhanced service (DES) that brings new funding for targets to support neighbourhood working.",
+          "link": "https://www.gponline.com/every-gp-practice-kent-medway-signed-contract-des-variation/article/1963513",
+          "publishedOn": "2026-07-02T12:54:29.000Z",
+          "wordCount": 767,
+          "title": "Every GP practice in Kent and Medway signed up to contract DES variation",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GP_GettyImages-Cultura-Creative_RF_1.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1963469",
+          "author": null,
+          "description": "BMA England GP committee chair Dr Katie Bramall will not stand for re-election when her three-year term ends this month, GPonline has learned.",
+          "link": "https://www.gponline.com/its-privilege-bma-gp-committee-chair-step-down/article/1963469",
+          "publishedOn": "2026-07-02T12:00:00.000Z",
+          "wordCount": 749,
+          "title": "'It's been a privilege': BMA GP committee chair to step down",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Katie_Bramall_Stainer_27.jpg"
+        },
+        {
+          "id": "https://www.gponline.com/article/1963472",
+          "author": null,
+          "description": "Primary care leaders have been left ‘flabbergasted’ after the NHS England chair said GP practices have ‘twice as much floor space’ as they need.",
+          "link": "https://www.gponline.com/gp-fury-nhs-boss-claims-practices-twice-space-need/article/1963472",
+          "publishedOn": "2026-07-02T09:49:34.000Z",
+          "wordCount": 749,
+          "title": "GP fury as NHS boss claims practices have twice the space they need",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Penny_Dash_NHS_2.png"
+        },
+        {
+          "id": "https://www.gponline.com/article/1963252",
+          "author": null,
+          "description": "One year on from the publication of the government's 10-year health plan, how much progress has been made against its aims and promises?",
+          "link": "https://www.gponline.com/one-year-on-10-year-health-plan-track/article/1963252",
+          "publishedOn": "2026-07-01T15:30:00.000Z",
+          "wordCount": 740,
+          "title": "One year on, is the 10-year health plan on track?",
+          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/GPimage_2.jpg"
+        },
+        {
           "id": "https://www.gponline.com/article/1963341",
           "author": null,
           "description": "GP practices are being asked to refuse to accept any new shared care agreements that lack appropriate funding from 1 July in the next phase of collective action.",
@@ -1818,16 +1858,6 @@
           "wordCount": 946,
           "title": "Health Bill should define how funding will follow work in neighbourhood shift, warns RCGP",
           "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/VictoriaT-Bcouncilmeeting_3.jpeg"
-        },
-        {
-          "id": "https://www.gponline.com/article/1960098",
-          "author": null,
-          "description": "GPs are unable to provide the care frail, older patients need because NHS England has overloaded practices with access targets, MPs have warned.",
-          "link": "https://www.gponline.com/nhs-england-overloaded-gps-access-targets-mps-warn/article/1960098",
-          "publishedOn": "2026-06-02T23:01:00.000Z",
-          "wordCount": 926,
-          "title": "NHS England has overloaded GPs with access targets, MPs warn",
-          "imageUrl": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/PGH/Parliament_GettyImages-Nuwan_RF_10.jpg"
         }
       ]
     },
@@ -2047,6 +2077,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "publishedOn": "2026-07-02T16:01:03.000Z",
+          "wordCount": 961,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025",
           "author": null,
