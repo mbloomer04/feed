@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-02T20:56:14.134Z</updated>
+    <updated>2026-07-02T22:02:01.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS patients get faster access to medicines under new pilots]]></title>
+        <id>https://www.gov.uk/government/news/nhs-patients-get-faster-access-to-medicines-under-new-pilots</id>
+        <link href="https://www.gov.uk/government/news/nhs-patients-get-faster-access-to-medicines-under-new-pilots"/>
+        <updated>2026-07-02T21:31:02.000Z</updated>
+        <summary type="html"><![CDATA[NHS patients could access cutting-edge medicines potentially months earlier under a series of pioneering pilots]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027]]></title>
         <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027</id>
@@ -2347,16 +2357,6 @@ The plan complem…]]></summary>
         <link href="https://www.gov.uk/government/publications/dhsc-spending-over-25000-november-2025"/>
         <updated>2026-06-03T10:14:06.000Z</updated>
         <summary type="html"><![CDATA[Reports on departmental spending over £25,000.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Statistics: UK Clinical Research Delivery key performance indicators: data to June 2026]]></title>
-        <id>https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-june-2026</id>
-        <link href="https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-june-2026"/>
-        <updated>2026-06-03T09:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>

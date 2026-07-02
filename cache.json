@@ -2078,6 +2078,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/nhs-patients-get-faster-access-to-medicines-under-new-pilots",
+          "author": null,
+          "description": "NHS patients could access cutting-edge medicines potentially months earlier under a series of pioneering pilots",
+          "link": "https://www.gov.uk/government/news/nhs-patients-get-faster-access-to-medicines-under-new-pilots",
+          "publishedOn": "2026-07-02T21:31:02.000Z",
+          "wordCount": 2818,
+          "title": "NHS patients get faster access to medicines under new pilots",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
           "author": null,
           "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
@@ -2825,16 +2835,6 @@
           "publishedOn": "2026-06-03T10:14:06.000Z",
           "wordCount": 790,
           "title": "Transparency data: DHSC: spending over £25,000, November 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-june-2026",
-          "author": null,
-          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
-          "link": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-june-2026",
-          "publishedOn": "2026-06-03T09:14:30.000Z",
-          "wordCount": 665,
-          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to June 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
