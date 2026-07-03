@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "93536ab3-71fb-4361-b9f9-c5a7e767a370",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Updated: 03 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4808",
+          "publishedOn": "2026-07-03T09:21:00.000Z",
+          "wordCount": null,
+          "title": "CC-4808 - Active Exploitation of CVE-2026-48282 in Adobe ColdFusion",
+          "imageUrl": null
+        },
+        {
           "id": "f73fad96-3ba8-4863-9fb8-b683f7dc4d74",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)\n The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)\n Updated: 02 Jul 2026",
@@ -3088,6 +3098,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=301603",
+          "author": "Jordan Sollof",
+          "description": "Our latest Movers and Shakers roundup includes new chief executives for East Cheshire NHS Trust and East and North Hertfordshire NHS Trust.",
+          "link": "https://www.digitalhealth.net/2026/07/movers-and-shakers-news-roundup-73/",
+          "publishedOn": "2026-07-03T06:30:16.000Z",
+          "wordCount": null,
+          "title": "Movers and Shakers news roundup",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=301471",
           "author": "Jordan Sollof",
