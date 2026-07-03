@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-03T09:50:45.756Z</updated>
+    <updated>2026-07-03T12:02:14.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS to overhaul patient communications and end ‘farce’ of invitations arriving after appointment]]></title>
+        <id>https://www.england.nhs.uk/?p=289761</id>
+        <link href="https://www.england.nhs.uk/2026/07/nhs-to-overhaul-patient-communications-and-end-farce-of-invitations-arriving-after-appointment/"/>
+        <updated>2026-07-03T09:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Patients are to receive at least 3 weeks’ notice from the NHS for all new planned medical appointments, under plans to overhaul patients’ experiences of the health service. NHS Chief Executive, Sir Jim Mackey, today said that trying to get clarity from the NHS had been “like walking through treacle” for far too many families, […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4808 - Active Exploitation of CVE-2026-48282 in Adobe ColdFusion]]></title>
         <id>93536ab3-71fb-4361-b9f9-c5a7e767a370</id>
@@ -57,6 +67,18 @@
         <summary type="html"><![CDATA[NHS patients could access cutting-edge medicines potentially months earlier under a series of pioneering pilots]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing]]></title>
+        <id>urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049</id>
+        <link href="https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"/>
+        <updated>2026-07-02T16:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately.
+WHO’s EUL procedure assesses the quality, safety and performance of essential health products based on the available evidence, while ensuring they meet minimum international standards and address the needs of low- and middle-income countries.
+Through this mechanism, WHO aims to accelerate access to reliable diagnostic tools for early case detection, timely clinical care, disease surveillance and effective outbreak response. The EUL also supports United Nations procurement agencies and governments in making info…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +155,16 @@
         <summary type="html"><![CDATA[Health Innovation West Midlands (HIWM) has helped local NHS organisations secure a share of the £85m national investment in obesity care.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease]]></title>
+        <id>urn:uuid:a2fec9cf-3198-4dc6-8232-32018fb47386</id>
+        <link href="https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease"/>
+        <updated>2026-07-02T12:19:20.000Z</updated>
+        <summary type="html"><![CDATA[In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2312,26 +2344,6 @@ The plan complem…]]></summary>
         <summary type="html"><![CDATA[John Browett, business leader and former supermarket chief executive, has been named as chair of the NHS’s new online hospital trust.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS rolls out life-extending drug for hundreds of women with ovarian cancer]]></title>
-        <id>https://www.england.nhs.uk/?p=287839</id>
-        <link href="https://www.england.nhs.uk/2026/06/nhs-rolls-out-life-extending-drug-for-hundreds-of-women-with-ovarian-cancer/"/>
-        <updated>2026-06-03T23:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of women with hard-to-treat ovarian cancer could benefit from a new, life-extending drug on the NHS from today – the first new addition to NHS treatment in over 20 years. The new targeted therapy – mirvetuximab soravtansine – will be offered to patients living with ovarian cancer whose disease has stopped responding to standard […]]]></summary>
-        <author>
-            <name>jboshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk]]></title>
-        <id>urn:uuid:0d64b0f6-a32a-4e83-a1ca-c701953f80eb</id>
-        <link href="https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk"/>
-        <updated>2026-06-03T22:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organization (WHO).]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
