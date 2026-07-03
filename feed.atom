@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-03T15:02:51.380Z</updated>
+    <updated>2026-07-03T17:15:15.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -87,6 +87,18 @@
         <summary type="html"><![CDATA[NHS patients could access cutting-edge medicines potentially months earlier under a series of pioneering pilots]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing]]></title>
+        <id>urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049</id>
+        <link href="https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"/>
+        <updated>2026-07-02T16:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately.
+WHO’s EUL procedure assesses the quality, safety and performance of essential health products based on the available evidence, while ensuring they meet minimum international standards and address the needs of low- and middle-income countries.
+Through this mechanism, WHO aims to accelerate access to reliable diagnostic tools for early case detection, timely clinical care, disease surveillance and effective outbreak response. The EUL also supports United Nations procurement agencies and governments in making info…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
