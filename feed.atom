@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-04T23:54:17.832Z</updated>
+    <updated>2026-07-05T02:22:05.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS backs rollout of integrated AVT as part of £10bn tech funding]]></title>
+        <id>https://www.digitalhealth.net/?p=302321</id>
+        <link href="https://www.digitalhealth.net/2026/07/nhs-backs-rollout-of-integrated-avt-as-part-of-10bn-tech-funding/"/>
+        <updated>2026-07-04T21:30:16.000Z</updated>
+        <summary type="html"><![CDATA[NHS England is rolling out AI tools across the health service, including integrated ambient voice technology, as part of £10bn tech funding.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS accelerates artificial intelligence rollout to cut waiting times and improve care for millions]]></title>
         <id>https://www.england.nhs.uk/?p=289793</id>
@@ -2189,38 +2199,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[More than half a million NHS staff are being given access to new artificial intelligence (AI) tools that could free up an average of 2 days every month from admin duties, freeing up more time for the duties that matter most for patients and staff. NHS England announced today that it is significantly accelerating AI […]]]></summary>
         <author>
             <name>rwootton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research: Housing and health in local strategic health planning]]></title>
-        <id>https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning</id>
-        <link href="https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning"/>
-        <updated>2026-06-05T12:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Findings from a national review of how housing features in local strategic health planning documents in England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Ayrshire selects Totalmobile platform to modernise care visits]]></title>
-        <id>https://www.digitalhealth.net/?p=285789</id>
-        <link href="https://www.digitalhealth.net/2026/06/north-ayrshire-selects-totalmobile-platform-to-modernise-care-visits/"/>
-        <updated>2026-06-05T12:30:07.000Z</updated>
-        <summary type="html"><![CDATA[North Ayrshire Health and Social Care Partnership (HSCP) will implement Totalmobile's digital platform to improve care at home services.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Africa CDC and WHO launch joint continental Ebola response plan]]></title>
-        <id>urn:uuid:7fcf64d7-0d62-4ce3-9589-cf46e9d02e13</id>
-        <link href="https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"/>
-        <updated>2026-06-05T12:28:26.000Z</updated>
-        <summary type="html"><![CDATA[The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African countries together with partners to prepare for, rapidly detect and respond to the outbreak.
-The six-month plan, covering June to November 2026, brings together governments, partners and communities under a unified ‘One Response’ approach to strengthen outbreak response measures, including emergency coordination, disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for essential health services.
-The plan complem…]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

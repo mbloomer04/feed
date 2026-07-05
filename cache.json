@@ -2776,16 +2776,6 @@
           "wordCount": 1098,
           "title": "Research: Skin cancer risks from sunbed use and their control",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning",
-          "author": null,
-          "description": "Findings from a national review of how housing features in local strategic health planning documents in England.",
-          "link": "https://www.gov.uk/government/publications/housing-and-health-in-local-strategic-health-planning",
-          "publishedOn": "2026-06-05T12:58:01.000Z",
-          "wordCount": 924,
-          "title": "Research: Housing and health in local strategic health planning",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3050,16 +3040,6 @@
           "wordCount": 3024,
           "title": "Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-blood-donor-day/2025/world-blood-donor-day-2025.tmb-1200v.jpg?sfvrsn=127dcc04_1"
-        },
-        {
-          "id": "urn:uuid:7fcf64d7-0d62-4ce3-9589-cf46e9d02e13",
-          "author": null,
-          "description": "The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African countries together with partners to prepare for, rapidly detect and respond to the outbreak.\nThe six-month plan, covering June to November 2026, brings together governments, partners and communities under a unified ‘One Response’ approach to strengthen outbreak response measures, including emergency coordination, disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for essential health services.\nThe plan complem…",
-          "link": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-          "publishedOn": "2026-06-05T12:28:26.000Z",
-          "wordCount": 2973,
-          "title": "Africa CDC and WHO launch joint continental Ebola response plan",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2026---ebola-outbreak---drc/who-and-partners-supporting-the-ebola-outbreak-response-in-drc.tmb-1200v.jpg?sfvrsn=649e2819_1"
         }
       ]
     },
@@ -3068,6 +3048,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=302321",
+          "author": "Jordan Sollof",
+          "description": "NHS England is rolling out AI tools across the health service, including integrated ambient voice technology, as part of £10bn tech funding.",
+          "link": "https://www.digitalhealth.net/2026/07/nhs-backs-rollout-of-integrated-avt-as-part-of-10bn-tech-funding/",
+          "publishedOn": "2026-07-04T21:30:16.000Z",
+          "wordCount": null,
+          "title": "NHS backs rollout of integrated AVT as part of £10bn tech funding",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=302135",
           "author": "Jordan Sollof",
@@ -3557,16 +3547,6 @@
           "wordCount": 6592,
           "title": "NHSBT study to use AI and genomic data for blood matching",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Dr-Sara-Trompeter.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=285789",
-          "author": "Jordan Sollof",
-          "description": "North Ayrshire Health and Social Care Partnership (HSCP) will implement Totalmobile's digital platform to improve care at home services.",
-          "link": "https://www.digitalhealth.net/2026/06/north-ayrshire-selects-totalmobile-platform-to-modernise-care-visits/",
-          "publishedOn": "2026-06-05T12:30:07.000Z",
-          "wordCount": 6476,
-          "title": "North Ayrshire selects Totalmobile platform to modernise care visits",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/Ricky-Moore-Totalmobile.png"
         }
       ]
     },
