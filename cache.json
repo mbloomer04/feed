@@ -2068,6 +2068,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/nhs-sets-first-ever-staff-standards-to-tackle-racism-and-violence",
+          "author": null,
+          "description": "New NHS staff standards will make employers accountable for tackling racism, violence and sexual harassment, with results published in league tables.",
+          "link": "https://www.gov.uk/government/news/nhs-sets-first-ever-staff-standards-to-tackle-racism-and-violence",
+          "publishedOn": "2026-07-06T10:13:19.000Z",
+          "wordCount": 2506,
+          "title": "NHS sets first-ever staff standards to tackle racism and violence",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/departmental-minute-on-public-dividend-capital-write-off-2025-to-2026",
+          "author": null,
+          "description": "DHSC minute on the cancellation and transfer of outstanding public dividend capital following the dissolution of one NHS trust in 2025.",
+          "link": "https://www.gov.uk/government/publications/departmental-minute-on-public-dividend-capital-write-off-2025-to-2026",
+          "publishedOn": "2026-07-06T09:46:09.000Z",
+          "wordCount": 902,
+          "title": "Policy paper: Departmental minute on public dividend capital write-off: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-staff-standards",
+          "author": null,
+          "description": "The NHS staff standards set national minimum employment requirements to improve staff experience, outlining employer actions and what staff can expect.",
+          "link": "https://www.gov.uk/government/publications/nhs-staff-standards",
+          "publishedOn": "2026-07-06T08:30:06.000Z",
+          "wordCount": 1147,
+          "title": "Guidance: NHS staff standards",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/air-pollution-awareness-coalition-apac",
           "author": null,
           "description": "The Air Pollution Awareness Coalition (APAC) is a cross-sector coalition to improve public understanding of air pollution and support action to reduce harm.",
@@ -3048,6 +3078,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=302273",
+          "author": "Samuel Webb",
+          "description": "Speaking to Digital Health, the Isle of Man's health minister described plans for a single patient record as \"revolutionary\".",
+          "link": "https://www.digitalhealth.net/2026/07/isle-of-man-minister-single-patient-record-will-be-revolutionary/",
+          "publishedOn": "2026-07-06T12:30:44.000Z",
+          "wordCount": null,
+          "title": "Isle of Man minister: Single patient record will be ‘revolutionary’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=302321",
           "author": "Jordan Sollof",
