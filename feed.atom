@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-07T13:12:21.524Z</updated>
+    <updated>2026-07-07T16:20:57.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4809 - BeyondTrust Releases Security Advisory for Remote Support & Privileged Remote Access]]></title>
+        <id>4522a112-5587-4e1b-8790-06102b504d8b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4809"/>
+        <updated>2026-07-07T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Advisory addresses 2 critical impact and 2 high impact vulnerabilities
+ Advisory addresses 2 critical impact and 2 high impact vulnerabilities
+ Updated: 07 Jul 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New heart disease and strokes plan to saves thousands of lives]]></title>
+        <id>https://www.gov.uk/government/news/new-heart-disease-and-strokes-plan-to-saves-thousands-of-lives</id>
+        <link href="https://www.gov.uk/government/news/new-heart-disease-and-strokes-plan-to-saves-thousands-of-lives"/>
+        <updated>2026-07-07T14:08:23.000Z</updated>
+        <summary type="html"><![CDATA[National framework launched to help reduce premature deaths from heart disease and strokes by a quarter over the next decade.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Technical annex: cardiovascular disease modern service framework]]></title>
+        <id>https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework</id>
+        <link href="https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework"/>
+        <updated>2026-07-07T13:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Sets out supporting evidence to supplement the cardiovascular disease modern service framework.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Cardiovascular disease modern service framework]]></title>
+        <id>https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework</id>
+        <link href="https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework"/>
+        <updated>2026-07-07T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Sets out the government’s 10-year strategic vision for the health and care system to reduce premature deaths from heart disease and stroke in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uni Hospitals of Leicester upgrades EPR and begins AVT rollout]]></title>
         <id>https://www.digitalhealth.net/?p=302391</id>

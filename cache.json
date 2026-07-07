@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "4522a112-5587-4e1b-8790-06102b504d8b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Advisory addresses 2 critical impact and 2 high impact vulnerabilities\n Advisory addresses 2 critical impact and 2 high impact vulnerabilities\n Updated: 07 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4809",
+          "publishedOn": "2026-07-07T14:32:00.000Z",
+          "wordCount": null,
+          "title": "CC-4809 - BeyondTrust Releases Security Advisory for Remote Support & Privileged Remote Access",
+          "imageUrl": null
+        },
+        {
           "id": "93536ab3-71fb-4361-b9f9-c5a7e767a370",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Updated: 03 Jul 2026",
@@ -2067,6 +2077,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/new-heart-disease-and-strokes-plan-to-saves-thousands-of-lives",
+          "author": null,
+          "description": "National framework launched to help reduce premature deaths from heart disease and strokes by a quarter over the next decade.",
+          "link": "https://www.gov.uk/government/news/new-heart-disease-and-strokes-plan-to-saves-thousands-of-lives",
+          "publishedOn": "2026-07-07T14:08:23.000Z",
+          "wordCount": 4812,
+          "title": "New heart disease and strokes plan to saves thousands of lives",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "Sets out supporting evidence to supplement the cardiovascular disease modern service framework.",
+          "link": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-07-07T13:28:06.000Z",
+          "wordCount": 994,
+          "title": "Research: Technical annex: cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "Sets out the government’s 10-year strategic vision for the health and care system to reduce premature deaths from heart disease and stroke in England.",
+          "link": "https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-07-07T13:28:00.000Z",
+          "wordCount": 1007,
+          "title": "Policy paper: Cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2026",
           "author": null,
