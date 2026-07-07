@@ -2059,16 +2059,6 @@
           "wordCount": 1566,
           "title": "NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=288088",
-          "author": "rwootton",
-          "description": "More than half a million NHS staff are being given access to new artificial intelligence (AI) tools that could free up an average of 2 days every month from admin duties, freeing up more time for the duties that matter most for patients and staff. NHS England announced today that it is significantly accelerating AI […]",
-          "link": "https://www.england.nhs.uk/2026/06/500000-nhs-staff-to-get-new-artificial-intelligence-tools-to-help-free-up-more-time-for-patients/",
-          "publishedOn": "2026-06-07T23:01:17.000Z",
-          "wordCount": 1413,
-          "title": "500,000 NHS staff to get new artificial intelligence tools to help free up more time for patients",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2077,6 +2067,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2026",
+          "publishedOn": "2026-07-07T10:58:06.000Z",
+          "wordCount": 756,
+          "title": "Transparency data: DHSC: spending over £25,000, February 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-july-2026",
           "author": null,
@@ -3118,6 +3118,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=302391",
+          "author": "Jordan Sollof",
+          "description": "University Hospitals of Leicester has upgraded its Nervecentre EPR system and begun the phased deployment of ambient voice technology (AVT).",
+          "link": "https://www.digitalhealth.net/2026/07/uni-hospitals-of-leicester-upgrades-epr-and-begins-avt-rollout/",
+          "publishedOn": "2026-07-07T12:30:20.000Z",
+          "wordCount": null,
+          "title": "Uni Hospitals of Leicester upgrades EPR and begins AVT rollout",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=302049",
           "author": "Samuel Webb",

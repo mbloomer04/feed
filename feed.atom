@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-07T10:47:49.041Z</updated>
+    <updated>2026-07-07T13:12:21.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uni Hospitals of Leicester upgrades EPR and begins AVT rollout]]></title>
+        <id>https://www.digitalhealth.net/?p=302391</id>
+        <link href="https://www.digitalhealth.net/2026/07/uni-hospitals-of-leicester-upgrades-epr-and-begins-avt-rollout/"/>
+        <updated>2026-07-07T12:30:20.000Z</updated>
+        <summary type="html"><![CDATA[University Hospitals of Leicester has upgraded its Nervecentre EPR system and begun the phased deployment of ambient voice technology (AVT).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £25,000, February 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-25000-february-2026"/>
+        <updated>2026-07-07T10:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental spending over £25,000.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=302049</id>
@@ -2289,16 +2309,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[An NHS Blood and Transplant (NHSBT) study will evaluate an algorithm designed to improve blood matching for people with sickle cell disorder.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500,000 NHS staff to get new artificial intelligence tools to help free up more time for patients]]></title>
-        <id>https://www.england.nhs.uk/?p=288088</id>
-        <link href="https://www.england.nhs.uk/2026/06/500000-nhs-staff-to-get-new-artificial-intelligence-tools-to-help-free-up-more-time-for-patients/"/>
-        <updated>2026-06-07T23:01:17.000Z</updated>
-        <summary type="html"><![CDATA[More than half a million NHS staff are being given access to new artificial intelligence (AI) tools that could free up an average of 2 days every month from admin duties, freeing up more time for the duties that matter most for patients and staff. NHS England announced today that it is significantly accelerating AI […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
     <entry>
