@@ -2078,6 +2078,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/10-year-capital-plan-to-rebuild-nhs-and-bring-care-closer-to-home",
+          "author": null,
+          "description": "Government announces 10 Year Capital Plan to modernise NHS buildings, upgrade GP surgeries and bring more care closer to patients’ homes.",
+          "link": "https://www.gov.uk/government/news/10-year-capital-plan-to-rebuild-nhs-and-bring-care-closer-to-home",
+          "publishedOn": "2026-07-07T23:05:04.000Z",
+          "wordCount": 2667,
+          "title": "10 Year Capital Plan to rebuild NHS and bring care closer to home",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/new-heart-disease-and-strokes-plan-to-saves-thousands-of-lives",
           "author": null,
           "description": "National framework launched to help reduce premature deaths from heart disease and strokes by a quarter over the next decade.",
@@ -2865,16 +2875,6 @@
           "publishedOn": "2026-06-08T13:58:39.000Z",
           "wordCount": 3309,
           "title": "Embedding co-design and participation in early years services",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
-          "author": null,
-          "description": "First-ever government guidance on healthy screen use for children aged 5–16 .",
-          "link": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
-          "publishedOn": "2026-06-08T10:46:54.000Z",
-          "wordCount": 2546,
-          "title": "New guidance on screen use for children aged 5–16",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
