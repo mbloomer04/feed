@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4794 - Veeam Releases Security Advisory for Critical Vulnerability in Backup & Replication",
           "imageUrl": null
-        },
-        {
-          "id": "7dc07aca-a03c-4d6f-85eb-0e0ab6f31857",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)\n Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)\n Updated: 09 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4793",
-          "publishedOn": "2026-06-09T09:53:00.000Z",
-          "wordCount": null,
-          "title": "CC-4793 - Google Releases Security Update for Chrome",
-          "imageUrl": null
         }
       ]
     },

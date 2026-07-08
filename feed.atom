@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-08T20:58:02.497Z</updated>
+    <updated>2026-07-08T22:04:10.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2246,19 +2246,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[Today's briefing features an app designed to help people manage physical ageing and a health service being rolled out across 31 EU agencies.]]></summary>
         <author>
             <name>Samuel Webb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4793 - Google Releases Security Update for Chrome]]></title>
-        <id>7dc07aca-a03c-4d6f-85eb-0e0ab6f31857</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4793"/>
-        <updated>2026-06-09T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)
- Updates include 74 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-11645)
- Updated: 09 Jun 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
