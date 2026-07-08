@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4793 - Google Releases Security Update for Chrome",
           "imageUrl": null
-        },
-        {
-          "id": "7feceb06-4f37-4b8d-90ce-568a8fb0905f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password\n Updated: 08 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4792",
-          "publishedOn": "2026-06-08T12:58:00.000Z",
-          "wordCount": null,
-          "title": "CC-4792 - Exploitation of Authentication Bypass Vulnerability in Check Point VPN",
-          "imageUrl": null
         }
       ]
     },
@@ -3667,16 +3657,6 @@
           "wordCount": 6319,
           "title": "Stockport trust completes rollout of new pathology LIMS",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/New-Project-2.jpg"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=288993",
-          "author": "Jordan Sollof",
-          "description": "NHS England is rolling out Microsoft 365 Copilot to 505,000 clinicians and support staff across healthcare services.",
-          "link": "https://www.digitalhealth.net/2026/06/nhse-to-roll-out-microsoft-ai-assistant-to-505000-nhs-staff/",
-          "publishedOn": "2026-06-08T12:30:57.000Z",
-          "wordCount": 6479,
-          "title": "NHSE to roll out Microsoft AI assistant to 505,000 NHS staff",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/03/Rob-Thompson.png"
         }
       ]
     },

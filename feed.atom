@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-07T23:50:44.966Z</updated>
+    <updated>2026-07-08T01:55:48.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2279,29 +2279,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[Policy Lab worked with the Department of Health and Social Care to develop a co-design toolkit enabling parents and carers to shape early years services.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4792 - Exploitation of Authentication Bypass Vulnerability in Check Point VPN]]></title>
-        <id>7feceb06-4f37-4b8d-90ce-568a8fb0905f</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4792"/>
-        <updated>2026-06-08T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password
- Successful exploitation of CVE-2026-50751 could allow an attacker to establish a VPN session without a valid password
- Updated: 08 Jun 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHSE to roll out Microsoft AI assistant to 505,000 NHS staff]]></title>
-        <id>https://www.digitalhealth.net/?p=288993</id>
-        <link href="https://www.digitalhealth.net/2026/06/nhse-to-roll-out-microsoft-ai-assistant-to-505000-nhs-staff/"/>
-        <updated>2026-06-08T12:30:57.000Z</updated>
-        <summary type="html"><![CDATA[NHS England is rolling out Microsoft 365 Copilot to 505,000 clinicians and support staff across healthcare services.]]></summary>
-        <author>
-            <name>Jordan Sollof</name>
         </author>
     </entry>
     <entry>
