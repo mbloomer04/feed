@@ -1931,6 +1931,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=289980",
+          "author": "Tom W",
+          "description": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. Sir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, […]",
+          "link": "https://www.england.nhs.uk/2026/07/snooping-staff-face-sack-prison-inappropriate-access-patient-data/",
+          "publishedOn": "2026-07-08T10:23:27.000Z",
+          "wordCount": 1474,
+          "title": "NHS warns ‘snooping’ staff face sack or prison for inappropriate access of patient data",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=289876",
           "author": "Tom W",
           "description": "Around a million families are being urged to protect their children against the spread of measles and other potentially deadly childhood illnesses, as part of a new NHS vaccination drive. Children aged from 12-months to 11 years old who have missed one or both doses of the vaccine, will be invited as part of the […]",
@@ -2067,6 +2077,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/letter-to-the-chair-of-the-food-standards-agency",
+          "author": null,
+          "description": "The Parliamentary Under-Secretary of State writes to the chair of the Food Standards Agency to confirm agreed economic growth goals.",
+          "link": "https://www.gov.uk/government/publications/letter-to-the-chair-of-the-food-standards-agency",
+          "publishedOn": "2026-07-08T11:00:01.000Z",
+          "wordCount": 903,
+          "title": "Correspondence: Letter to the chair of the Food Standards Agency",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/food-standards-agency-fsa-economic-growth-goals",
+          "author": null,
+          "description": "Goals agreed with the Food Standards Agency to clarify how their actions should support economic growth.",
+          "link": "https://www.gov.uk/government/publications/food-standards-agency-fsa-economic-growth-goals",
+          "publishedOn": "2026-07-08T11:00:01.000Z",
+          "wordCount": 935,
+          "title": "Policy paper: Food Standards Agency (FSA) economic growth goals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/national-institute-for-health-and-care-excellence-nice-economic-growth-goals",
+          "author": null,
+          "description": "Goals agreed with the National Institute for Health and Care Excellence to clarify how their actions should support economic growth.",
+          "link": "https://www.gov.uk/government/publications/national-institute-for-health-and-care-excellence-nice-economic-growth-goals",
+          "publishedOn": "2026-07-08T11:00:00.000Z",
+          "wordCount": 904,
+          "title": "Policy paper: National Institute for Health and Care Excellence (NICE) economic growth goals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/medicines-and-healthcare-products-regulatory-agency-mhra-economic-growth-goals",
+          "author": null,
+          "description": "Goals agreed with the Medicines and Healthcare products Regulatory Agency to clarify how their actions should support economic growth.",
+          "link": "https://www.gov.uk/government/publications/medicines-and-healthcare-products-regulatory-agency-mhra-economic-growth-goals",
+          "publishedOn": "2026-07-08T11:00:00.000Z",
+          "wordCount": 930,
+          "title": "Policy paper: Medicines and Healthcare products Regulatory Agency (MHRA) economic growth goals",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/new-hospital-programme-annual-report-financial-year-2025-to-2026",
           "author": null,
@@ -2846,16 +2896,6 @@
           "wordCount": 1276,
           "title": "Official Statistics: Adult social care client level data, England: quarterly update to September 2025",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
-          "author": null,
-          "description": "Government consults on new rights for unpaid carers and parents of seriously ill children, including whether paid leave could improve job opportunities.",
-          "link": "https://www.gov.uk/government/news/unpaid-carers-and-parents-of-seriously-ill-children-could-get-new-rights-under-government-proposals",
-          "publishedOn": "2026-06-08T23:01:03.000Z",
-          "wordCount": 2413,
-          "title": "Unpaid carers and parents of seriously ill children could get new rights under Government proposals",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
     },
@@ -3128,6 +3168,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=304915",
+          "author": "Jordan Sollof",
+          "description": "NHS England chief executive Sir Jim Mackey has said NHS staff face the sack or even prison if they access patient records unlawfully.",
+          "link": "https://www.digitalhealth.net/2026/07/nhs-staff-to-face-sack-or-prison-for-unlawful-patient-data-access/",
+          "publishedOn": "2026-07-08T11:45:33.000Z",
+          "wordCount": null,
+          "title": "NHS staff to face sack or prison for unlawful patient data access",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=304371",
           "author": "Jordan Sollof",
