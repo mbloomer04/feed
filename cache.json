@@ -2068,6 +2068,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/new-hospital-programme-annual-report-financial-year-2025-to-2026",
+          "author": null,
+          "description": "An annual update on the government's New Hospital Programme, a major infrastructure initiative to transform hospital design, delivery and operation in England.",
+          "link": "https://www.gov.uk/government/publications/new-hospital-programme-annual-report-financial-year-2025-to-2026",
+          "publishedOn": "2026-07-08T09:13:59.000Z",
+          "wordCount": 1106,
+          "title": "Corporate report: New Hospital Programme annual report: financial year 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/10-year-capital-plan-to-rebuild-nhs-and-bring-care-closer-to-home",
           "author": null,
           "description": "Government announces 10 Year Capital Plan to modernise NHS buildings, upgrade GP surgeries and bring more care closer to patients’ homes.",
@@ -2845,16 +2855,6 @@
           "publishedOn": "2026-06-08T23:01:03.000Z",
           "wordCount": 2413,
           "title": "Unpaid carers and parents of seriously ill children could get new rights under Government proposals",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/millions-to-get-faster-eye-care-on-the-high-street",
-          "author": null,
-          "description": "Government invests £20million to digitise referrals from the high street directly and digitally into NHS hospital eye services.",
-          "link": "https://www.gov.uk/government/news/millions-to-get-faster-eye-care-on-the-high-street",
-          "publishedOn": "2026-06-08T21:30:07.000Z",
-          "wordCount": 2830,
-          "title": "Millions to get faster eye care on the high street",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
