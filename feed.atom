@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-09T08:20:08.593Z</updated>
+    <updated>2026-07-09T11:52:28.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4810 - Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-33112]]></title>
+        <id>1e9ef352-8659-42b8-a0a1-382aef869652</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4810"/>
+        <updated>2026-07-09T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access
+ Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access
+ Updated: 09 Jul 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warm weather and World Cup drives record NHS demand as satisfaction with GPs continues to bounce back]]></title>
+        <id>https://www.england.nhs.uk/?p=290004</id>
+        <link href="https://www.england.nhs.uk/2026/07/warm-weather-world-cup-drives-record-nhs-demand-satisfaction-gps-bounce-back/"/>
+        <updated>2026-07-09T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is facing a “summer onslaught”, with A&Es experiencing their busiest month on record in June amid record heatwaves and the World Cup. Average daily A&E attendances exceeded 80,000 (81,264) for the first time ever in June – setting a new daily attendance record – despite May recording a slightly higher overall total due […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £25,000, March 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-25000-march-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-25000-march-2026"/>
+        <updated>2026-07-09T08:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental spending over £25,000.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: spending over £25,000, April 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-spending-over-25000-april-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-spending-over-25000-april-2026"/>
+        <updated>2026-07-09T08:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental spending over £25,000.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Life Sciences Jobs Plan]]></title>
+        <id>https://www.gov.uk/government/publications/life-sciences-jobs-plan</id>
+        <link href="https://www.gov.uk/government/publications/life-sciences-jobs-plan"/>
+        <updated>2026-07-09T08:30:12.000Z</updated>
+        <summary type="html"><![CDATA[A plan to ensure the UK life sciences sector has the skilled workforce it needs for future growth.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aneurin Bevan University Health Board rolls out Better ePMA]]></title>
         <id>https://www.digitalhealth.net/?p=305103</id>
@@ -32,6 +85,16 @@
         <link href="https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"/>
         <updated>2026-07-08T23:01:03.000Z</updated>
         <summary type="html"><![CDATA[Progress report on delivering the Life Sciences Sector Plan.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK life sciences attracts £3bn investment, creating jobs and faster patient treatments]]></title>
+        <id>https://www.gov.uk/government/news/uk-life-sciences-attracts-3bn-investment-creating-jobs-and-faster-patient-treatments</id>
+        <link href="https://www.gov.uk/government/news/uk-life-sciences-attracts-3bn-investment-creating-jobs-and-faster-patient-treatments"/>
+        <updated>2026-07-08T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Life Sciences sector attracts over £3 billion in new public-private investment in 12 months, reflecting international confidence in UK science and innovation.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -2233,16 +2296,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[Manchester University NHS Foundation Trust (MFT) is launching a data platform to support research and improve care for patients.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer]]></title>
-        <id>https://www.england.nhs.uk/?p=288332</id>
-        <link href="https://www.england.nhs.uk/2026/06/nhs-to-offer-multi-beam-precision-radiotherapy-to-thousands-with-prostate-cancer/"/>
-        <updated>2026-06-09T23:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of men with prostate cancer are to be offered high-powered ‘precision’ radiotherapy on the NHS to target the disease more effectively, helping reduce side-effects and spare them 15 courses of treatment. NHS England has today announced that, for the first time, eligible men with early prostate cancer will be offered pioneering therapy known as […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>

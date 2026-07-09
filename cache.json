@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1e9ef352-8659-42b8-a0a1-382aef869652",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Updated: 09 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4810",
+          "publishedOn": "2026-07-09T10:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4810 - Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-33112",
+          "imageUrl": null
+        },
+        {
           "id": "4522a112-5587-4e1b-8790-06102b504d8b",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Advisory addresses 2 critical impact and 2 high impact vulnerabilities\n Advisory addresses 2 critical impact and 2 high impact vulnerabilities\n Updated: 07 Jul 2026",
@@ -1911,6 +1921,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=290004",
+          "author": "Tom W",
+          "description": "The NHS is facing a “summer onslaught”, with A&Es experiencing their busiest month on record in June amid record heatwaves and the World Cup. Average daily A&E attendances exceeded 80,000 (81,264) for the first time ever in June – setting a new daily attendance record – despite May recording a slightly higher overall total due […]",
+          "link": "https://www.england.nhs.uk/2026/07/warm-weather-world-cup-drives-record-nhs-demand-satisfaction-gps-bounce-back/",
+          "publishedOn": "2026-07-09T09:00:28.000Z",
+          "wordCount": 1692,
+          "title": "Warm weather and World Cup drives record NHS demand as satisfaction with GPs continues to bounce back",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=289980",
           "author": "Tom W",
           "description": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. Sir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, […]",
@@ -2039,16 +2059,6 @@
           "wordCount": 1465,
           "title": "A&Es ‘bore the brunt’ as heatwave piled pressure on NHS",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=288332",
-          "author": "jboshell",
-          "description": "Thousands of men with prostate cancer are to be offered high-powered ‘precision’ radiotherapy on the NHS to target the disease more effectively, helping reduce side-effects and spare them 15 courses of treatment. NHS England has today announced that, for the first time, eligible men with early prostate cancer will be offered pioneering therapy known as […]",
-          "link": "https://www.england.nhs.uk/2026/06/nhs-to-offer-multi-beam-precision-radiotherapy-to-thousands-with-prostate-cancer/",
-          "publishedOn": "2026-06-09T23:01:35.000Z",
-          "wordCount": 1566,
-          "title": "NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2057,6 +2067,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-march-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-march-2026",
+          "publishedOn": "2026-07-09T08:58:12.000Z",
+          "wordCount": 759,
+          "title": "Transparency data: DHSC: spending over £25,000, March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-april-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-april-2026",
+          "publishedOn": "2026-07-09T08:58:07.000Z",
+          "wordCount": 759,
+          "title": "Transparency data: DHSC: spending over £25,000, April 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/life-sciences-jobs-plan",
+          "author": null,
+          "description": "A plan to ensure the UK life sciences sector has the skilled workforce it needs for future growth.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-jobs-plan",
+          "publishedOn": "2026-07-09T08:30:12.000Z",
+          "wordCount": 1196,
+          "title": "Policy paper: Life Sciences Jobs Plan",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
           "author": null,
@@ -2075,6 +2115,16 @@
           "publishedOn": "2026-07-08T23:01:03.000Z",
           "wordCount": 878,
           "title": "Policy paper: Life Sciences Sector Plan: One Year On",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/uk-life-sciences-attracts-3bn-investment-creating-jobs-and-faster-patient-treatments",
+          "author": null,
+          "description": "Life Sciences sector attracts over £3 billion in new public-private investment in 12 months, reflecting international confidence in UK science and innovation.",
+          "link": "https://www.gov.uk/government/news/uk-life-sciences-attracts-3bn-investment-creating-jobs-and-faster-patient-treatments",
+          "publishedOn": "2026-07-08T23:01:00.000Z",
+          "wordCount": 4453,
+          "title": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
