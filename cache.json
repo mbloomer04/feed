@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "CC-4795 - Ivanti Releases Security Advisory for Critical Vulnerabilities in Sentry",
           "imageUrl": null
-        },
-        {
-          "id": "595bf287-912a-48ac-9c96-a1400c24019e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE‑2026‑44963 allows authenticated attackers to execute remote code on Veeam Backup & Replication servers.\n CVE‑2026‑44963 allows authenticated attackers to execute remote code on Veeam Backup & Replication servers.\n Updated: 09 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4794",
-          "publishedOn": "2026-06-09T12:52:00.000Z",
-          "wordCount": null,
-          "title": "CC-4794 - Veeam Releases Security Advisory for Critical Vulnerability in Backup & Replication",
-          "imageUrl": null
         }
       ]
     },
@@ -3667,16 +3657,6 @@
           "wordCount": 6551,
           "title": "MFT to launch data platform to support research and patient care",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/06/David-Walliker-MFT.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=289103",
-          "author": "Jordan Sollof",
-          "description": "Royal Cornwall Hospitals NHS Trust has delayed its Oracle EPR go-live to ensure it will “support safe patient care and service continuity”.",
-          "link": "https://www.digitalhealth.net/2026/06/royal-cornwall-hospitals-delays-oracle-epr-go-live/",
-          "publishedOn": "2026-06-09T12:30:55.000Z",
-          "wordCount": 6487,
-          "title": "Royal Cornwall Hospitals delays Oracle EPR go-live",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/03/Royal-Cornwall-Hospitals.png"
         }
       ]
     },
