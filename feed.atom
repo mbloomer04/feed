@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-09T19:25:04.893Z</updated>
+    <updated>2026-07-09T21:14:18.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2316,19 +2316,6 @@ A little over a year ago, the world kept the firs…]]></summary>
         <summary type="html"><![CDATA[The government is on track to meet its manifesto promise that every school and college will have access to mental health support teams by the end of 2029]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4795 - Ivanti Releases Security Advisory for Critical Vulnerabilities in Sentry]]></title>
-        <id>699864f8-9bd5-45d4-9556-6cd6da84f4b4</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4795"/>
-        <updated>2026-06-10T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- If exploited, two critical vulnerabilities could allow for unauthenticated OS command injection or authentication bypass
- If exploited, two critical vulnerabilities could allow for unauthenticated OS command injection or authentication bypass
- Updated: 10 Jun 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
