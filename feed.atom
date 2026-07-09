@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-09T04:42:43.564Z</updated>
+    <updated>2026-07-09T08:20:08.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aneurin Bevan University Health Board rolls out Better ePMA]]></title>
+        <id>https://www.digitalhealth.net/?p=305103</id>
+        <link href="https://www.digitalhealth.net/2026/07/aneurin-bevan-university-health-board-rolls-out-better-epma/"/>
+        <updated>2026-07-09T06:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Aneurin Bevan University Health Board has begun rolling out the Better Meds electronic prescribing and medicines administration system (ePMA).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Life Sciences Sector Plan]]></title>
         <id>https://www.gov.uk/government/publications/life-sciences-sector-plan</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Details the government’s plan for capital investment to transform healthcare infrastructure over the next decade.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO calls for urgent action as new cancer cases are projected to nearly double by 2050]]></title>
+        <id>urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f</id>
+        <link href="https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050"/>
+        <updated>2026-07-08T11:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, cancer remains the second leading cause of death globally, after cardiovascular disease.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

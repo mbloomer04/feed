@@ -3072,6 +3072,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f",
+          "author": null,
+          "description": "Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, cancer remains the second leading cause of death globally, after cardiovascular disease.",
+          "link": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+          "publishedOn": "2026-07-08T11:51:29.000Z",
+          "wordCount": 3802,
+          "title": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cancer/womens-integrated-cancer-services---december-2025---kenya.tmb-1200v.jpg?sfvrsn=b86b9458_3"
+        },
+        {
           "id": "urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049",
           "author": null,
           "description": "Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately.\nWHO’s EUL procedure assesses the quality, safety and performance of essential health products based on the available evidence, while ensuring they meet minimum international standards and address the needs of low- and middle-income countries.\nThrough this mechanism, WHO aims to accelerate access to reliable diagnostic tools for early case detection, timely clinical care, disease surveillance and effective outbreak response. The EUL also supports United Nations procurement agencies and governments in making info…",
@@ -3148,6 +3158,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=305103",
+          "author": "Jordan Sollof",
+          "description": "Aneurin Bevan University Health Board has begun rolling out the Better Meds electronic prescribing and medicines administration system (ePMA).",
+          "link": "https://www.digitalhealth.net/2026/07/aneurin-bevan-university-health-board-rolls-out-better-epma/",
+          "publishedOn": "2026-07-09T06:30:02.000Z",
+          "wordCount": null,
+          "title": "Aneurin Bevan University Health Board rolls out Better ePMA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=304915",
           "author": "Jordan Sollof",
