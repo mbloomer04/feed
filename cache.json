@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "d9f3c4c0-7708-41e4-891a-04611c300cce",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-0288 could result in a denial-of-service condition or lead to arbitrary code execution via specially crafted network traffic \n Successful exploitation of CVE-2026-0288 could result in a denial-of-service condition or lead to arbitrary code execution via specially crafted network traffic \n Updated: 09 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4811",
+          "publishedOn": "2026-07-09T12:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4811 - Palo Alto Networks Releases Security Update for PAN-OS",
+          "imageUrl": null
+        },
+        {
           "id": "1e9ef352-8659-42b8-a0a1-382aef869652",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Updated: 09 Jul 2026",
@@ -2068,6 +2078,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/health-research-authority-annual-report-and-accounts-2025-to-2026",
+          "author": null,
+          "description": "The report explains what the Health Research Authority (HRA) does, what it achieved and some of the challenges it faced in 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/health-research-authority-annual-report-and-accounts-2025-to-2026",
+          "publishedOn": "2026-07-09T13:12:10.000Z",
+          "wordCount": 895,
+          "title": "Corporate report: Health Research Authority annual report and accounts 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-march-2026",
           "author": null,
           "description": "Reports on departmental spending over £25,000.",
@@ -3208,6 +3228,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=304965",
+          "author": "Jordan Sollof",
+          "description": "Thousands of women could avoid invasive diagnostic procedures for suspected womb cancer under an NHS trial of an AI blood test.",
+          "link": "https://www.digitalhealth.net/2026/07/nhs-ai-blood-test-could-reduce-invasive-cancer-exams-for-women/",
+          "publishedOn": "2026-07-09T12:30:05.000Z",
+          "wordCount": null,
+          "title": "NHS AI blood test could reduce invasive cancer exams for women",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=305103",
           "author": "Jordan Sollof",
