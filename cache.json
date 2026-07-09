@@ -2068,6 +2068,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
+          "author": null,
+          "description": "The Life Sciences Sector Plan sets out a vision and an action plan to drive growth, innovation, and better health outcomes.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-sector-plan",
+          "publishedOn": "2026-07-08T23:01:03.000Z",
+          "wordCount": 1015,
+          "title": "Policy paper: Life Sciences Sector Plan",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+          "author": null,
+          "description": "Progress report on delivering the Life Sciences Sector Plan.",
+          "link": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+          "publishedOn": "2026-07-08T23:01:03.000Z",
+          "wordCount": 878,
+          "title": "Policy paper: Life Sciences Sector Plan: One Year On",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/10-year-capital-plan-for-health-and-social-care",
           "author": null,
           "description": "Details the government’s plan for capital investment to transform healthcare infrastructure over the next decade.",
@@ -3657,16 +3677,6 @@
           "wordCount": 6487,
           "title": "Royal Cornwall Hospitals delays Oracle EPR go-live",
           "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2026/03/Royal-Cornwall-Hospitals.png"
-        },
-        {
-          "id": "https://www.digitalhealth.net/?p=286623",
-          "author": "Samuel Webb",
-          "description": "Today's briefing features an app designed to help people manage physical ageing and a health service being rolled out across 31 EU agencies.",
-          "link": "https://www.digitalhealth.net/2026/06/digital-health-coffee-time-briefing-%e2%98%95-173/",
-          "publishedOn": "2026-06-09T10:30:15.000Z",
-          "wordCount": 4318,
-          "title": "Digital Health Coffee Time Briefing ☕",
-          "imageUrl": "https://www.digitalhealth.net/wp-content/uploads/2024/07/Coffee-Time-Briefing.png"
         }
       ]
     },
