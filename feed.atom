@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-09T14:36:05.767Z</updated>
+    <updated>2026-07-09T17:13:21.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: NHS Resolution annual report and accounts: 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-resolution-annual-report-and-accounts-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/publications/nhs-resolution-annual-report-and-accounts-2025-to-2026"/>
+        <updated>2026-07-09T14:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Annual report and accounts from NHS Resolution covering 1 April 2025 to 31 March 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corporate report: Health Research Authority annual report and accounts 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/health-research-authority-annual-report-and-accounts-2025-to-2026</id>
