@@ -2048,6 +2048,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/calls-for-evidence/standardised-packaging-for-all-tobacco-products",
+          "author": null,
+          "description": "A call for evidence on standardised packaging for all tobacco products, cigarette papers and herbal smoking products and potentially introducing pack inserts.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/standardised-packaging-for-all-tobacco-products",
+          "publishedOn": "2026-07-10T10:45:08.000Z",
+          "wordCount": 1088,
+          "title": "Standardised packaging for all tobacco products",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display",
+          "author": null,
+          "description": "Proposals for regulating tobacco, vaping and nicotine product packaging, device appearance and retail displays, to implement the Tobacco and Vapes Act.",
+          "link": "https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display",
+          "publishedOn": "2026-07-10T10:45:08.000Z",
+          "wordCount": 1367,
+          "title": "Tobacco and vapes: packaging, appearance and display",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/ministers-launch-crackdown-on-vapes-targeting-kids",
           "author": null,
           "description": "Ministers have launched a crackdown on vapes marketed at kids with a shift to plain white packaging.",
@@ -3228,6 +3248,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=305617",
+          "author": "Jordan Sollof",
+          "description": "NHS England is expanding the rollout of Hexarad to help patients in the North East and South Yorkshire receive hospital scan results faster.",
+          "link": "https://www.digitalhealth.net/2026/07/north-east-and-yorkshire-trusts-adopt-tech-for-faster-scan-results/",
+          "publishedOn": "2026-07-10T12:30:04.000Z",
+          "wordCount": null,
+          "title": "North East and Yorkshire trusts adopt tech for faster scan results",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=304997",
           "author": "Jordan Sollof",
