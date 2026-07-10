@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4798 - Splunk Releases Security Advisory For Critical Vulnerability in Splunk Enterprise",
           "imageUrl": null
-        },
-        {
-          "id": "1c6c50c2-00d7-4fbd-a7c4-68ed12ad4d3f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n CVE-2026-20245 could allow an authenticated, local attacker to execute arbitrary commands as root\n Updated: 10 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4797",
-          "publishedOn": "2026-06-10T14:29:00.000Z",
-          "wordCount": null,
-          "title": "CC-4797 - Cisco Releases Security Updates for Catalyst SD‑WAN Products",
-          "imageUrl": null
         }
       ]
     },
@@ -3248,6 +3238,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=304997",
+          "author": "Jordan Sollof",
+          "description": "Our latest roundup features Powys Teaching Health Board rolling out an electronic prescribing and medicines administration (ePMA) system.",
+          "link": "https://www.digitalhealth.net/2026/07/digital-healths-monthly-roundup-of-contracts-and-go-lives-66/",
+          "publishedOn": "2026-07-10T06:30:27.000Z",
+          "wordCount": null,
+          "title": "Digital Health’s monthly roundup of contracts and go lives",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=304965",
           "author": "Jordan Sollof",
