@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "539093fb-f092-47f1-b859-f60a8a63bb14",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Updated: 13 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4812",
+          "publishedOn": "2026-07-13T11:45:00.000Z",
+          "wordCount": null,
+          "title": "CC-4812 - Progress Software Addresses a Security Threat to ShareFile Storage Zone Controllers",
+          "imageUrl": null
+        },
+        {
           "id": "d9f3c4c0-7708-41e4-891a-04611c300cce",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-0288 could result in a denial-of-service condition or lead to arbitrary code execution via specially crafted network traffic \n Successful exploitation of CVE-2026-0288 could result in a denial-of-service condition or lead to arbitrary code execution via specially crafted network traffic \n Updated: 09 Jul 2026",
@@ -2037,6 +2047,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/patient-safety-commissioner-annual-report-2025-to-2026",
+          "author": null,
+          "description": "Patient Safety Commissioner annual report for the financial year 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/patient-safety-commissioner-annual-report-2025-to-2026",
+          "publishedOn": "2026-07-13T10:11:40.000Z",
+          "wordCount": 931,
+          "title": "Independent report: Patient Safety Commissioner annual report 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-october-to-december-2025",
           "author": null,
