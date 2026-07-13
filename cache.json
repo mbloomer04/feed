@@ -2048,6 +2048,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/the-uk-and-the-eu-drugs-agency-sign-a-working-arrangement",
+          "author": null,
+          "description": "Government signs a working Arrangement with the EU Drugs Agency to protect public health and reduce drug harms.",
+          "link": "https://www.gov.uk/government/news/the-uk-and-the-eu-drugs-agency-sign-a-working-arrangement",
+          "publishedOn": "2026-07-13T14:02:02.000Z",
+          "wordCount": 1974,
+          "title": "The UK and the EU Drugs Agency sign a Working Arrangement",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/patient-safety-commissioner-annual-report-2025-to-2026",
           "author": null,
           "description": "Patient Safety Commissioner annual report for the financial year 2025 to 2026.",
@@ -3148,6 +3158,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=307929",
+          "author": "Jordan Sollof",
+          "description": "More than 5,000 data breaches have been recorded across NHS Scotland health boards since January 2023, according to a FOI investigation.",
+          "link": "https://www.digitalhealth.net/2026/07/more-than-5000-nhs-scotland-data-breaches-since-2023/",
+          "publishedOn": "2026-07-13T12:30:42.000Z",
+          "wordCount": null,
+          "title": "More than 5,000 NHS Scotland data breaches since 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=306349",
           "author": "Jordan Sollof",

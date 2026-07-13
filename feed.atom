@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-13T11:53:48.372Z</updated>
+    <updated>2026-07-13T14:11:25.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The UK and the EU Drugs Agency sign a Working Arrangement]]></title>
+        <id>https://www.gov.uk/government/news/the-uk-and-the-eu-drugs-agency-sign-a-working-arrangement</id>
+        <link href="https://www.gov.uk/government/news/the-uk-and-the-eu-drugs-agency-sign-a-working-arrangement"/>
+        <updated>2026-07-13T14:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Government signs a working Arrangement with the EU Drugs Agency to protect public health and reduce drug harms.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More than 5,000 NHS Scotland data breaches since 2023]]></title>
+        <id>https://www.digitalhealth.net/?p=307929</id>
+        <link href="https://www.digitalhealth.net/2026/07/more-than-5000-nhs-scotland-data-breaches-since-2023/"/>
+        <updated>2026-07-13T12:30:42.000Z</updated>
+        <summary type="html"><![CDATA[More than 5,000 data breaches have been recorded across NHS Scotland health boards since January 2023, according to a FOI investigation.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4812 - Progress Software Addresses a Security Threat to ShareFile Storage Zone Controllers]]></title>
         <id>539093fb-f092-47f1-b859-f60a8a63bb14</id>
