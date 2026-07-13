@@ -1911,6 +1911,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=290219",
+          "author": "jboshell",
+          "description": "The NHS will aim to prevent thousands of deaths from sepsis by 2035 as part of a series of measures to improve the treatment of the deadly condition. Sepsis is a life-threatening response to an infection in the body, which can cause significant damage to tissues and organs, and is estimated to cause around 4,000 […]",
+          "link": "https://www.england.nhs.uk/2026/07/nhs-aims-to-prevent-one-in-four-sepsis-deaths/",
+          "publishedOn": "2026-07-13T23:01:09.000Z",
+          "wordCount": 2059,
+          "title": "NHS aims to prevent one in four sepsis deaths",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=290141",
           "author": "Tom W",
           "description": "Hundreds of thousands of students heading to university this autumn are being urged by the NHS to book a potentially lifesaving MenB vaccine from today before term starts. Appointments to get the jab can now be booked at high street pharmacies across England, offering vital protection for 17 and 18-year-olds currently in the last year […]",
@@ -3081,6 +3091,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:03e91a6b-722b-4eef-97a8-308ad29ccc26",
+          "author": null,
+          "description": "The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.",
+          "link": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+          "publishedOn": "2026-07-13T09:57:57.000Z",
+          "wordCount": 3271,
+          "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/trachoma/trachoma-elimination-in-el-salvador.tmb-1200v.jpg?sfvrsn=b8b60b42_6"
+        },
         {
           "id": "urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f",
           "author": null,
