@@ -2058,6 +2058,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
+          "author": null,
+          "description": "This action plan aims to improve the lives of unpaid carers in England.",
+          "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
+          "publishedOn": "2026-07-14T10:42:29.000Z",
+          "wordCount": 1078,
+          "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/sabto-annual-report-2024-to-2025",
+          "author": null,
+          "description": "This report sets out the work of the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) in 2024 to 2025.",
+          "link": "https://www.gov.uk/government/publications/sabto-annual-report-2024-to-2025",
+          "publishedOn": "2026-07-14T10:12:14.000Z",
+          "wordCount": 817,
+          "title": "Independent report: SaBTO annual report 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
           "author": null,
           "description": "First ever cross-Government action plan to support unpaid carers published",
@@ -3188,6 +3208,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=307989",
+          "author": "Jordan Sollof",
+          "description": "Today's briefing includes a tool to detect breast cancer using magnetic resonance imaging and a mobile EPR freeing up time for paramedics.",
+          "link": "https://www.digitalhealth.net/2026/07/digital-health-coffee-time-briefing-%e2%98%95-183/",
+          "publishedOn": "2026-07-14T10:30:19.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=306221",
           "author": "Jordan Sollof",
