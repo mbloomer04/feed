@@ -1835,7 +1835,18 @@
       "title": "Public Health England - Activity on GOV.UK",
       "feedUrl": "https://www.gov.uk/government/organisations/public-health-england.atom",
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.gov.uk/guidance/bovine-tuberculosis-tb-in-domestic-pets",
+          "author": null,
+          "description": "What pet owners need to do if their animal has suspected or confirmed bovine TB.",
+          "link": "https://www.gov.uk/guidance/bovine-tuberculosis-tb-in-domestic-pets",
+          "publishedOn": "2026-07-14T15:43:48.000Z",
+          "wordCount": 3354,
+          "title": "Bovine tuberculosis (TB) in domestic pets",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        }
+      ]
     },
     {
       "title": "All Blog Feed",
@@ -2057,6 +2068,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+          "author": null,
+          "description": "Terms of reference for Ministerial Group for Digital Inclusion.",
+          "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+          "publishedOn": "2026-07-14T15:43:35.000Z",
+          "wordCount": 816,
+          "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+          "author": null,
+          "description": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
+          "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+          "publishedOn": "2026-07-14T15:43:31.000Z",
+          "wordCount": 891,
+          "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-equality-information-2025",
           "author": null,
