@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "694dd305-4c01-435c-96bb-2c117a486168",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 may enable compromise of SonicWall SMA1000 appliances\n Zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 may enable compromise of SonicWall SMA1000 appliances\n Updated: 15 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4813",
+          "publishedOn": "2026-07-15T10:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4813 - Critical Vulnerabilities in SonicWall SMA1000 Series Appliances Exploited",
+          "imageUrl": null
+        },
+        {
           "id": "539093fb-f092-47f1-b859-f60a8a63bb14",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Updated: 13 Jul 2026",
@@ -2069,6 +2079,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "author": null,
+          "description": "This plan sets out how the Department of Health and Social Care plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
+          "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "publishedOn": "2026-07-15T11:13:31.000Z",
+          "wordCount": 1112,
+          "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department of Health and Social Care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/government-and-joe-wicks-support-families-to-stay-active",
+          "author": null,
+          "description": "Families across the country are being encouraged to help children stay active over the summer holidays",
+          "link": "https://www.gov.uk/government/news/government-and-joe-wicks-support-families-to-stay-active",
+          "publishedOn": "2026-07-15T10:29:24.000Z",
+          "wordCount": 3369,
+          "title": "Government and Joe Wicks support families to stay active",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-the-uk-health-security-agency-2026-to-2029",
           "author": null,
           "description": "Describes the working relationship between the Department of Health and Social Care and the UK Health Security Agency.",
@@ -3162,6 +3192,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:19112ec9-719b-42a9-a43a-ff7390e3ef1e",
+          "author": null,
+          "description": "In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) released today.  \nWhile both indicators rose by one percentage point from the previous year, global coverage remains one point below 2019 levels – hovering within the same narrow range since 2009. \nAccording to the data, an estimated 13.5 million “zero-dose” children did not receive a single vaccine in their first year during 2025. While these represent nearly 750 000 fewer children than the previous year, progress is offset by a rising number of children who start the schedule and do not complete it. …",
+          "link": "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
+          "publishedOn": "2026-07-15T00:01:54.000Z",
+          "wordCount": 4176,
+          "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc---life-course-(uhl)/immunization-vaccines-and-biologicals-(ivb)/essential-programme-on-immunization-(epi)/ghana-hpv.tmb-1200v.jpg?sfvrsn=4549edaf_6"
+        },
         {
           "id": "urn:uuid:03e91a6b-722b-4eef-97a8-308ad29ccc26",
           "author": null,
