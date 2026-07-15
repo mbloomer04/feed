@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-15T20:07:25.001Z</updated>
+    <updated>2026-07-15T21:50:49.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -44,6 +44,18 @@
         <summary type="html"><![CDATA[Leeds has been selected as the UK site for a European research pilot to improve diabetes treatment in young people using digital tools.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New WHO guidelines: up to 45% of dementia risk could be prevented or delayed]]></title>
+        <id>urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649</id>
+        <link href="https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed"/>
+        <updated>2026-07-15T12:15:58.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or delay the onset of dementia across the life course. 
+Dementia is a condition caused by brain diseases and affects memory, thinking and the ability to function. More than 57 million people live with dementia worldwide and nearly 10 million people get newly diagnosed every year. Alzheimer disease is the most common form of dementia and is estimated to account for 60–70% of cases.
+While there is no cure for dementia, up to 45% of the risks can be attributed to modifiable risk factors such as tobacco, alcohol use, social isolation, physical inactivity, air pollution and noncommunicable diseases (…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
