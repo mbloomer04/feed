@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f962bafc-bd0e-4e7c-8b1d-f509aa2f2fb5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Updated: 15 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4814",
+          "publishedOn": "2026-07-15T12:15:00.000Z",
+          "wordCount": null,
+          "title": "CC-4814 - Microsoft Releases July 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "694dd305-4c01-435c-96bb-2c117a486168",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 may enable compromise of SonicWall SMA1000 appliances\n Zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 may enable compromise of SonicWall SMA1000 appliances\n Updated: 15 Jul 2026",
@@ -3279,6 +3289,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=308675",
+          "author": "Samuel Webb",
+          "description": "Leeds has been selected as the UK site for a European research pilot to improve diabetes treatment in young people using digital tools.",
+          "link": "https://www.digitalhealth.net/2026/07/leeds-to-test-digital-tools-for-young-diabetes-patients/",
+          "publishedOn": "2026-07-15T12:30:39.000Z",
+          "wordCount": null,
+          "title": "Leeds to test digital tools for young diabetes patients",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=308607",
           "author": "Jordan Sollof",
