@@ -1942,6 +1942,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=290579",
+          "author": "rwootton",
+          "description": "Tens of thousands of cancer patients have rated the care they received from the NHS as nearly 9 out of 10, as NHS teams see and treat record numbers of people for the disease. The latest patient experience figures come as NHS cancer checks have reached nearly 3.4 million in a year – more than doubling in the last decade. The number of patients receiving cancer […]",
+          "link": "https://www.england.nhs.uk/2026/07/cancer-patients-rate-nhs-care-highly-as-record-numbers-checked-and-treated/",
+          "publishedOn": "2026-07-16T11:45:40.000Z",
+          "wordCount": 1284,
+          "title": "Cancer patients rate NHS care highly as record numbers checked and treated",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=290219",
           "author": "jboshell",
           "description": "The NHS will aim to prevent thousands of deaths from sepsis by 2035 as part of a series of measures to improve the treatment of the deadly condition. Sepsis is a life-threatening response to an infection in the body, which can cause significant damage to tissues and organs, and is estimated to cause around 4,000 […]",
@@ -2078,6 +2088,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/flu-vaccines-2026-to-2027-jcvi-advice-16-july-2026",
+          "author": null,
+          "description": "Statement from the Joint Committee on Vaccination and Immunisation (JCVI) about vaccines for the 2027 to 2028 influenza season.",
+          "link": "https://www.gov.uk/government/publications/flu-vaccines-2026-to-2027-jcvi-advice-16-july-2026",
+          "publishedOn": "2026-07-16T13:00:03.000Z",
+          "wordCount": 871,
+          "title": "Independent report: Flu vaccines 2026 to 2027: JCVI advice, 16 July 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/covid-19-vaccination-in-autumn-2027-jcvi-advice",
+          "author": null,
+          "description": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the COVID-19 vaccination programme for autumn 2027.",
+          "link": "https://www.gov.uk/government/publications/covid-19-vaccination-in-autumn-2027-jcvi-advice",
+          "publishedOn": "2026-07-16T13:00:02.000Z",
+          "wordCount": 828,
+          "title": "Independent report: COVID-19 vaccination in autumn 2027: JCVI advice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/fair-pay-agreement-process-in-adult-social-care",
+          "author": null,
+          "description": "Consultation about the fair pay agreement process in adult social care.",
+          "link": "https://www.gov.uk/government/consultations/fair-pay-agreement-process-in-adult-social-care",
+          "publishedOn": "2026-07-16T13:00:02.000Z",
+          "wordCount": 1347,
+          "title": "Fair pay agreement process in adult social care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/jcvi-statement-on-meningococcal-b-vaccination-in-older-children-and-young-adults-16-july-2026",
+          "author": null,
+          "description": "Statement setting out the recommendation from the Joint Committee on Vaccination and Immunisation (JCVI) on meningococcal capsular group B (MenB) adolescent vaccination.",
+          "link": "https://www.gov.uk/government/publications/jcvi-statement-on-meningococcal-b-vaccination-in-older-children-and-young-adults-16-july-2026",
+          "publishedOn": "2026-07-16T13:00:02.000Z",
+          "wordCount": 941,
+          "title": "Independent report: JCVI statement on meningococcal B vaccination in older children and young adults, 16 July 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/plans-for-fair-pay-agreements-in-adult-social-care-easy-read",
+          "author": null,
+          "description": "We want to know what you think about our plans for fair pay agreements in adult social care.",
+          "link": "https://www.gov.uk/government/consultations/plans-for-fair-pay-agreements-in-adult-social-care-easy-read",
+          "publishedOn": "2026-07-16T13:00:02.000Z",
+          "wordCount": 1377,
+          "title": "Plans for fair pay agreements in adult social care (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/framework-agreement-between-dhsc-and-the-human-fertilisation-and-embryology-authority-2026-to-2029",
           "author": null,
