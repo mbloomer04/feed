@@ -2119,6 +2119,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill",
+          "author": null,
+          "description": "An impact statement supporting the Medical Training (Prioritisation) Bill introduced to the House of Commons on 13 January 2026.",
+          "link": "https://www.gov.uk/government/publications/impact-statement-medical-training-prioritisation-bill",
+          "publishedOn": "2026-07-20T15:01:46.000Z",
+          "wordCount": 865,
+          "title": "Impact assessment: Impact statement: Medical Training (Prioritisation) Bill",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/alternative-provider-medical-services-apms-directions",
           "author": null,
           "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to Alternative Provider Medical Services (APMS) contracts in general practice.",
@@ -3419,6 +3429,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=312307",
+          "author": "Jordan Sollof",
+          "description": "The UK's first national digital pathology platform has expanded, with 15 NHS sites now connected to the network.",
+          "link": "https://www.digitalhealth.net/2026/07/national-digital-pathology-network-expands-to-15-nhs-sites/",
+          "publishedOn": "2026-07-20T12:30:31.000Z",
+          "wordCount": null,
+          "title": "National digital pathology network expands to 15 NHS sites",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=310009",
           "author": "Samuel Webb",
