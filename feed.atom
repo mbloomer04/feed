@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-20T09:50:56.099Z</updated>
+    <updated>2026-07-20T12:09:51.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4816 - Exploitation of Critical Vulnerability in Microsoft SharePoint Server]]></title>
+        <id>34433417-4e5a-4797-bf7d-eca050fb9eae</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4816"/>
+        <updated>2026-07-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely
+ Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely
+ Updated: 20 Jul 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4815 - Critical Vulnerability Chain in WordPress Core Under Exploitation (wp2shell)]]></title>
+        <id>63952564-7716-4e0f-bbee-3fea225e6999</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4815"/>
+        <updated>2026-07-20T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Successful exploitation of CVE-2026-63030 and CVE-2026-60137 could allow an unauthenticated attacker to execute code remotely
+ Successful exploitation of CVE-2026-63030 and CVE-2026-60137 could allow an unauthenticated attacker to execute code remotely
+ Updated: 20 Jul 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midlands procures ambient voice technology for 70,000 clinicians]]></title>
         <id>https://www.digitalhealth.net/?p=310009</id>

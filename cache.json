@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "34433417-4e5a-4797-bf7d-eca050fb9eae",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely\n Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely\n Updated: 20 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4816",
+          "publishedOn": "2026-07-20T11:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4816 - Exploitation of Critical Vulnerability in Microsoft SharePoint Server",
+          "imageUrl": null
+        },
+        {
+          "id": "63952564-7716-4e0f-bbee-3fea225e6999",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-63030 and CVE-2026-60137 could allow an unauthenticated attacker to execute code remotely\n Successful exploitation of CVE-2026-63030 and CVE-2026-60137 could allow an unauthenticated attacker to execute code remotely\n Updated: 20 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4815",
+          "publishedOn": "2026-07-20T10:35:00.000Z",
+          "wordCount": null,
+          "title": "CC-4815 - Critical Vulnerability Chain in WordPress Core Under Exploitation (wp2shell)",
+          "imageUrl": null
+        },
+        {
           "id": "f962bafc-bd0e-4e7c-8b1d-f509aa2f2fb5",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Updated: 15 Jul 2026",
