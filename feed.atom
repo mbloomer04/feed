@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-20T12:09:51.940Z</updated>
+    <updated>2026-07-20T15:03:54.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4817 - F5 Releases Security Advisory for Critical Vulnerability in NGINX and NGINX Plus]]></title>
+        <id>c9d5dbdf-1ef1-4f7b-a223-45b0a3c7c769</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4817"/>
+        <updated>2026-07-20T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-42533 could allow an unauthenticated remote attacker to cause a denial-of-service condition or potentially achieve remote code execution on a targeted system
+ Successful exploitation of CVE-2026-42533 could allow an unauthenticated remote attacker to cause a denial-of-service condition or potentially achieve remote code execution on a targeted system
+ Updated: 20 Jul 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4816 - Exploitation of Critical Vulnerability in Microsoft SharePoint Server]]></title>
         <id>34433417-4e5a-4797-bf7d-eca050fb9eae</id>
@@ -40,6 +53,16 @@
         <summary type="html"><![CDATA[NHS England in the Midlands has procured ambient voice technology for 1,239 GP practices and more than 70,000 clinicians across 15 trusts.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex]]></title>
+        <id>urn:uuid:b8777607-14f1-4466-9bac-0c4954871763</id>
+        <link href="https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex"/>
+        <updated>2026-07-18T07:27:54.000Z</updated>
+        <summary type="html"><![CDATA[WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are needed to finalize a framework that supports a faster, more effective and equitable response to future pandemics.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

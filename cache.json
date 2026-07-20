@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "c9d5dbdf-1ef1-4f7b-a223-45b0a3c7c769",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-42533 could allow an unauthenticated remote attacker to cause a denial-of-service condition or potentially achieve remote code execution on a targeted system\n Successful exploitation of CVE-2026-42533 could allow an unauthenticated remote attacker to cause a denial-of-service condition or potentially achieve remote code execution on a targeted system\n Updated: 20 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4817",
+          "publishedOn": "2026-07-20T13:06:00.000Z",
+          "wordCount": null,
+          "title": "CC-4817 - F5 Releases Security Advisory for Critical Vulnerability in NGINX and NGINX Plus",
+          "imageUrl": null
+        },
+        {
           "id": "34433417-4e5a-4797-bf7d-eca050fb9eae",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely\n Successful exploitation of CVE-2026-58644 could allow an unauthenticated attacker to execute code remotely\n Updated: 20 Jul 2026",
@@ -3312,6 +3322,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:b8777607-14f1-4466-9bac-0c4954871763",
+          "author": null,
+          "description": "WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are needed to finalize a framework that supports a faster, more effective and equitable response to future pandemics.",
+          "link": "https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
+          "publishedOn": "2026-07-18T07:27:54.000Z",
+          "wordCount": 2320,
+          "title": "WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/groups/intergovernmental-working-group-(igwg)/igwg7-meeting-overview.tmb-1200v.jpg?sfvrsn=1c01de5d_1"
+        },
         {
           "id": "urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649",
           "author": null,
