@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-21T14:57:10.861Z</updated>
+    <updated>2026-07-21T16:21:31.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[Today's briefing features a digital implant centre in Israel and a security platform for large AI models running sensitive data.]]></summary>
         <author>
             <name>Samuel Webb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN report: Global hunger levels ease for third consecutive year as regional disparities persist]]></title>
+        <id>urn:uuid:d44ceb09-4de2-48fe-95b8-d763934d5bf3</id>
+        <link href="https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist"/>
+        <updated>2026-07-21T08:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sustainable Development Goals by 2030, according to The State of Food Security and Nutrition in the World 2026 (SOFI 2026) report, released on Tuesday by five United Nations specialized agencies.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
