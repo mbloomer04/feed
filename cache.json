@@ -2099,6 +2099,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-annual-statement-on-research-integrity-2025-to-2026",
+          "author": null,
+          "description": "The Department of Health and Social Care’s (DHSC) annual statement on the actions it has taken to comply with the Concordat to Support Research Integrity.",
+          "link": "https://www.gov.uk/government/publications/dhsc-annual-statement-on-research-integrity-2025-to-2026",
+          "publishedOn": "2026-07-21T13:27:10.000Z",
+          "wordCount": 1110,
+          "title": "Transparency data: DHSC annual statement on research integrity: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2025-to-2026",
           "author": null,
           "description": "Data on Deprivation of Liberty Safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
@@ -3439,6 +3449,26 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=312379",
+          "author": "Jordan Sollof",
+          "description": "Macmillan and ORCHA have launched a digital health app library to help cancer patients assess apps to support them throughout their care.",
+          "link": "https://www.digitalhealth.net/2026/07/macmillan-and-orcha-launch-app-library-for-cancer-patients/",
+          "publishedOn": "2026-07-21T12:30:40.000Z",
+          "wordCount": null,
+          "title": "Macmillan and ORCHA launch app library for cancer patients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digitalhealth.net/?p=309893",
+          "author": "Samuel Webb",
+          "description": "Today's briefing features a digital implant centre in Israel and a security platform for large AI models running sensitive data.",
+          "link": "https://www.digitalhealth.net/2026/07/digital-health-coffee-time-briefing-%e2%98%95-185/",
+          "publishedOn": "2026-07-21T10:30:14.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=312461",
           "author": "Jordan Sollof",
