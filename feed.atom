@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-21T08:11:19.165Z</updated>
+    <updated>2026-07-21T10:58:27.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[New prime minister Andy Burnham has appointed Yvette Cooper as Secretary of State for Health and Social Care.]]></summary>
         <author>
             <name>Jordan Sollof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries]]></title>
+        <id>urn:uuid:ae53d486-8411-4081-88ba-a2929146208b</id>
+        <link href="https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries"/>
+        <updated>2026-07-20T15:34:49.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low- and middle-income countries with affordable or free access to scientific knowledge. The partnership has helped dramatically expand access to scientific knowledge for researchers, educators, health professionals and policy-makers in more than 120 countries.]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
@@ -2269,16 +2279,6 @@ Worldwide, an estimated 8 million babies are born with a birth defect each year,
         <summary type="html"><![CDATA[Powys Teaching Health Board (PTHB) has gone live an electronic prescribing and medicines administration (ePMA) system from Better Meds.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact of Medical Training Prioritisation Act on specialty training recruitment]]></title>
-        <id>https://www.england.nhs.uk/?p=289094</id>
-        <link href="https://www.england.nhs.uk/2026/06/impact-of-medical-training-prioritisation-act-on-specialty-training-recruitment/"/>
-        <updated>2026-06-21T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[The latest NHS England management data has shown the real life and immediate impact of the Medical Training Prioritisation Act. The Act came into force in March responding to concerns about increasing competition faced by UK-trained doctors for postgraduate medical training posts. It has delivered what it promised despite being urgent legislation coming into effect […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>

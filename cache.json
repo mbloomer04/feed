@@ -2090,16 +2090,6 @@
           "wordCount": 1603,
           "title": "NHS to offer new immunotherapy for hundreds of women with aggressive cervical cancer",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=289094",
-          "author": "jboshell",
-          "description": "The latest NHS England management data has shown the real life and immediate impact of the Medical Training Prioritisation Act. The Act came into force in March responding to concerns about increasing competition faced by UK-trained doctors for postgraduate medical training posts. It has delivered what it promised despite being urgent legislation coming into effect […]",
-          "link": "https://www.england.nhs.uk/2026/06/impact-of-medical-training-prioritisation-act-on-specialty-training-recruitment/",
-          "publishedOn": "2026-06-21T21:30:16.000Z",
-          "wordCount": 1160,
-          "title": "Impact of Medical Training Prioritisation Act on specialty training recruitment",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -3322,6 +3312,16 @@
       "feedUrl": "https://www.who.int/rss-feeds/news-english.xml",
       "siteUrl": "https://www.who.int/",
       "articles": [
+        {
+          "id": "urn:uuid:ae53d486-8411-4081-88ba-a2929146208b",
+          "author": null,
+          "description": "The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low- and middle-income countries with affordable or free access to scientific knowledge. The partnership has helped dramatically expand access to scientific knowledge for researchers, educators, health professionals and policy-makers in more than 120 countries.",
+          "link": "https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
+          "publishedOn": "2026-07-20T15:34:49.000Z",
+          "wordCount": 2612,
+          "title": "WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/chief-scientist-and-science-division-(sci)/research-for-health-(rfh)/evidence-to-policy-impact-(erp)/research-workshop.tmb-1200v.jpg?sfvrsn=689b7609_6"
+        },
         {
           "id": "urn:uuid:4dbc5e41-68f5-4763-8f68-eb108686557f",
           "author": null,
