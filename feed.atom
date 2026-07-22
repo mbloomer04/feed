@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-22T05:12:28.538Z</updated>
+    <updated>2026-07-22T08:11:00.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chelsea and Westminster launches all-operator mobile connectivity]]></title>
+        <id>https://www.digitalhealth.net/?p=313077</id>
+        <link href="https://www.digitalhealth.net/2026/07/chelsea-and-westminster-launches-all-operator-mobile-connectivity/"/>
+        <updated>2026-07-22T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Chelsea and Westminster Hospital has launched all-operator mobile connectivity after deploiying a new distributed antenna system (DAS).]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transparency data: DHSC annual statement on research integrity: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-annual-statement-on-research-integrity-2025-to-2026</id>
