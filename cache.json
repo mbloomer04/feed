@@ -2119,6 +2119,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2026-07-23T14:31:59.000Z",
+          "wordCount": 14331,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
           "author": null,
           "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
