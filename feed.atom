@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-23T11:01:45.698Z</updated>
+    <updated>2026-07-23T13:27:53.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[King’s Fund calls for national strategy to unlock NHS AVT potential]]></title>
+        <id>https://www.digitalhealth.net/?p=314167</id>
+        <link href="https://www.digitalhealth.net/2026/07/kings-fund-calls-for-national-strategy-to-unlock-nhs-avt-potential/"/>
+        <updated>2026-07-23T12:30:13.000Z</updated>
+        <summary type="html"><![CDATA[The King's Fund is calling for a national strategy on ambient voice technology (AVT) after analysis found it could transform patient care.]]></summary>
+        <author>
+            <name>Jordan Sollof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Health Coffee Time Briefing ☕]]></title>
         <id>https://www.digitalhealth.net/?p=313699</id>
