@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "15b4dbbf-1810-458f-8a7f-c68b6dcf5c60",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-16232 could allow unauthenticated remote attackers to obtain full administrative access to exposed management servers.\n CVE-2026-16232 could allow unauthenticated remote attackers to obtain full administrative access to exposed management servers.\n Updated: 23 Jul 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4820",
+          "publishedOn": "2026-07-23T10:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4820 - Check Point Releases Security Update for Critical Authentication Bypass Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "13551b7d-0feb-4a83-8226-479ec20fc999",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 1449 security updates across multiple Oracle product families\n Scheduled advisory includes 1449 security updates across multiple Oracle product families\n Updated: 22 Jul 2026",
@@ -2109,6 +2119,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-december-2025",
+          "publishedOn": "2026-07-23T09:30:03.000Z",
+          "wordCount": 1137,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to December 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-september-2025",
+          "publishedOn": "2026-07-23T09:30:03.000Z",
+          "wordCount": 1128,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to September 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-counter-fraud-strategy-2026-to-2029",
+          "author": null,
+          "description": "How the Department of Health and Social Care plans to prevent fraud, bribery and corruption in its activities.",
+          "link": "https://www.gov.uk/government/publications/dhsc-counter-fraud-strategy-2026-to-2029",
+          "publishedOn": "2026-07-23T08:50:05.000Z",
+          "wordCount": 1250,
+          "title": "Policy paper: DHSC counter-fraud strategy: 2026 to 2029",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/45million-to-improve-berkshire-maternity-and-neonatal-services",
           "author": null,
           "description": "Mothers and babies in focus as £4.5million funding rolled out to improve Berkshire maternity and neonatal services",
@@ -3303,6 +3343,16 @@
       "siteUrl": "https://www.who.int/",
       "articles": [
         {
+          "id": "urn:uuid:7d2ad12b-a64a-4911-b6f0-5d73c2c4398f",
+          "author": null,
+          "description": "Ahead of World Drowning Prevention Day on 25 July, the World Health Organization (WHO) is launching a new technical package to help governments and communities implement seven proven measures to reduce drowning deaths.",
+          "link": "https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
+          "publishedOn": "2026-07-23T08:00:24.000Z",
+          "wordCount": 2470,
+          "title": "WHO launches seven strategies to prevent drowning",
+          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-drowning-prevention-day/2026/lifeguard-training-in-ghana.tmb-1200v.jpg?sfvrsn=56e32e7b_1"
+        },
+        {
           "id": "urn:uuid:d44ceb09-4de2-48fe-95b8-d763934d5bf3",
           "author": null,
           "description": "Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sustainable Development Goals by 2030, according to The State of Food Security and Nutrition in the World 2026 (SOFI 2026) report, released on Tuesday by five United Nations specialized agencies.",
@@ -3419,6 +3469,16 @@
       "feedUrl": "https://www.digitalhealth.net/news/feed/",
       "siteUrl": "https://www.digitalhealth.net/news/",
       "articles": [
+        {
+          "id": "https://www.digitalhealth.net/?p=313699",
+          "author": "Jordan Sollof",
+          "description": "Today's briefing includes PainChek integrating with PredicAire and a 3D printing lab in Sheffield for training and surgical simulation.",
+          "link": "https://www.digitalhealth.net/2026/07/digital-health-coffee-time-briefing-%e2%98%95-186/",
+          "publishedOn": "2026-07-23T10:30:53.000Z",
+          "wordCount": null,
+          "title": "Digital Health Coffee Time Briefing ☕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.digitalhealth.net/?p=313615",
           "author": "Jordan Sollof",
