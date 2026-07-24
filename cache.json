@@ -204,16 +204,6 @@
           "wordCount": null,
           "title": "CC-4801 - Exploitation of Critical Vulnerability in Lantronix Serial-to-Ethernet Device Servers",
           "imageUrl": null
-        },
-        {
-          "id": "bd1a12d7-2df2-407a-9c13-32458b8dd31e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Ubiquiti has released Security Advisory Bulletin addressing multiple critical vulnerabilities that could allow an attacker with network access to execute commands, modify system configurations, or access sensitive files\n Ubiquiti has released Security Advisory Bulletin addressing multiple critical vulnerabilities that could allow an attacker with network access to execute commands, modify system configurations, or access sensitive files\n Updated: 24 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4800",
-          "publishedOn": "2026-06-24T15:37:00.000Z",
-          "wordCount": null,
-          "title": "CC-4800 - Critical Vulnerabilities in Ubiquiti UniFi OS Devices",
-          "imageUrl": null
         }
       ]
     },
@@ -3106,26 +3096,6 @@
           "publishedOn": "2026-06-25T14:41:34.000Z",
           "wordCount": 2550,
           "title": "Contact the Department of Health and Social Care (DHSC)",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/foreign-secretary-announces-support-for-gaza-with-new-child-medical-evacuations-and-assistance-to-palestinians-going-to-top-uk-universities",
-          "author": null,
-          "description": "The UK will support Gazan students to take up places at British universities and continue efforts to medically evacuate critically ill children for treatment in the NHS.",
-          "link": "https://www.gov.uk/government/news/foreign-secretary-announces-support-for-gaza-with-new-child-medical-evacuations-and-assistance-to-palestinians-going-to-top-uk-universities",
-          "publishedOn": "2026-06-24T15:48:52.000Z",
-          "wordCount": 2499,
-          "title": "Foreign Secretary announces support for Gaza with new child medical evacuations and assistance to Palestinians going to top UK universities",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
-          "author": null,
-          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
-          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
-          "publishedOn": "2026-06-24T15:10:36.000Z",
-          "wordCount": 1130,
-          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
