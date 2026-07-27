@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-27T06:20:01.894Z</updated>
+    <updated>2026-07-27T10:34:15.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: workforce management information June 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-workforce-management-information-june-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-workforce-management-information-june-2026"/>
+        <updated>2026-07-27T08:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Reports on departmental staff numbers and costs.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital platform powers Scotland’s mental health hub network]]></title>
         <id>https://www.digitalhealth.net/?p=314351</id>
