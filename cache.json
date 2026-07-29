@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4804 - SimpleHelp Releases Advisory for Authentication Bypass Vulnerability in SimpleHelp RMM",
           "imageUrl": null
-        },
-        {
-          "id": "8ee7189a-dc0a-4af5-b842-783a59162c38",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments\n CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments\n Updated: 29 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4803",
-          "publishedOn": "2026-06-29T15:26:00.000Z",
-          "wordCount": null,
-          "title": "CC-4803 - Exploited Critical Vulnerability in the Oracle Payments Component of Oracle E-Business Suite",
-          "imageUrl": null
         }
       ]
     },

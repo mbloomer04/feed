@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-29T01:51:29.122Z</updated>
+    <updated>2026-07-29T05:14:05.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -2002,19 +2002,6 @@ Having been appointed Chair of NHS England's Advisory Group for Data (AGD) earli
         <summary type="html"><![CDATA[The BMA vote to accept offer which will see resident doctors benefit from new pay structure and better career progression opportunities]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4803 - Exploited Critical Vulnerability in the Oracle Payments Component of Oracle E-Business Suite]]></title>
-        <id>8ee7189a-dc0a-4af5-b842-783a59162c38</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4803"/>
-        <updated>2026-06-29T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments
- CVE-2026-46817 could allow unauthenticated remote takeover of Oracle Payments
- Updated: 29 Jun 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
