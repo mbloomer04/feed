@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-07-29T08:24:27.662Z</updated>
+    <updated>2026-07-29T11:15:13.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Survey of adult carers in England: 2025 to 2026 report]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report"/>
+        <updated>2026-07-29T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Bioscience and health technology sector statistics 2024 to 2025]]></title>
         <id>https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025</id>
@@ -1982,16 +1992,6 @@ Having been appointed Chair of NHS England's Advisory Group for Data (AGD) earli
         <summary type="html"><![CDATA[HSSIB has warned that gaps in information sharing between the NHS and independent prescribing services could put patients at risk.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK’s first Maternity and Neonatal Commissioner to be appointed]]></title>
-        <id>https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed</id>
-        <link href="https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"/>
-        <updated>2026-06-29T23:05:00.000Z</updated>
-        <summary type="html"><![CDATA[New commissioner and extra funding announced to make maternity and neonatal care safer, fairer and more consistent across England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

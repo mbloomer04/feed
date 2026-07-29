@@ -2069,6 +2069,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.",
+          "link": "https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report",
+          "publishedOn": "2026-07-29T10:45:00.000Z",
+          "wordCount": 689,
+          "title": "Official Statistics: Survey of adult carers in England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
           "author": null,
           "description": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
@@ -2986,16 +2996,6 @@
           "publishedOn": "2026-07-01T08:30:00.000Z",
           "wordCount": 2026,
           "title": "Guidance: National Child Measurement Programme: operational guidance",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed",
-          "author": null,
-          "description": "New commissioner and extra funding announced to make maternity and neonatal care safer, fairer and more consistent across England.",
-          "link": "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed",
-          "publishedOn": "2026-06-29T23:05:00.000Z",
-          "wordCount": 3318,
-          "title": "UK’s first Maternity and Neonatal Commissioner to be appointed",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
