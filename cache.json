@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4805 - Citrix Releases Security Advisory for NetScaler ADC and NetScaler Gateway",
           "imageUrl": null
-        },
-        {
-          "id": "b75c3819-0651-459c-b041-eff1262bbf21",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Successful exploitation of CVE-2026-48558 could allow a remote, unauthenticated attacker to bypass authentication and gain full administrative “Technician” access to managed endpoints\n Updated: 30 Jun 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4804",
-          "publishedOn": "2026-06-30T13:46:00.000Z",
-          "wordCount": null,
-          "title": "CC-4804 - SimpleHelp Releases Advisory for Authentication Bypass Vulnerability in SimpleHelp RMM",
-          "imageUrl": null
         }
       ]
     },
@@ -1882,7 +1872,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "0bf2e9fa-b46b-46c3-9c86-2579e7da6cdc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Dr Jon Fistein reflects on the current position and future direction of NHS England's Advisory Group for Data.\n\r\n\r\nHaving been appointed Chair of NHS England's Advisory Group for Data (AGD) earlier this year, and now beginning to settle into the role, this feels like the right moment to set out where we are and where I think we need to be. AGD provides NHS England with expert advice and assurance on how patient data is accessed and used. We exist because the public expects, and deserves, careful and visible scrutiny of how that is done.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2026/a-new-chapter-for-the-advisory-group-for-data",
+          "publishedOn": "2026-07-16T08:00:05.000Z",
+          "wordCount": null,
+          "title": "A new chapter for the Advisory Group for Data",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -1906,7 +1907,18 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "0bf2e9fa-b46b-46c3-9c86-2579e7da6cdc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Dr Jon Fistein reflects on the current position and future direction of NHS England's Advisory Group for Data.\n\r\n\r\nHaving been appointed Chair of NHS England's Advisory Group for Data (AGD) earlier this year, and now beginning to settle into the role, this feels like the right moment to set out where we are and where I think we need to be. AGD provides NHS England with expert advice and assurance on how patient data is accessed and used. We exist because the public expects, and deserves, careful and visible scrutiny of how that is done.",
+          "link": "https://digital.nhs.uk/blog/data-points-blog/2026/a-new-chapter-for-the-advisory-group-for-data",
+          "publishedOn": "2026-07-16T08:00:05.000Z",
+          "wordCount": null,
+          "title": "A new chapter for the Advisory Group for Data",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Design Matters Blog Feed",
