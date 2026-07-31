@@ -1857,6 +1857,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/public-health-england",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/supporting-public-health-maternity-and-babies",
+          "author": null,
+          "description": "Documents to help local authorities and providers commission and deliver maternity and neonatal services.",
+          "link": "https://www.gov.uk/government/publications/supporting-public-health-maternity-and-babies",
+          "publishedOn": "2026-07-31T08:30:05.000Z",
+          "wordCount": 1748,
+          "title": "Guidance: Supporting public health: maternity and babies",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/guidance/bovine-tuberculosis-tb-in-domestic-pets",
           "author": null,
           "description": "What pet owners need to do if their animal has suspected or confirmed bovine TB.",
@@ -2058,6 +2068,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/care-continuity-between-midwifery-and-health-visiting-services",
+          "author": null,
+          "description": "The importance of continuity between midwifery and health visiting services  in England, and how this helps families receive safe, high-quality perinatal care.",
+          "link": "https://www.gov.uk/government/publications/care-continuity-between-midwifery-and-health-visiting-services",
+          "publishedOn": "2026-07-31T08:30:04.000Z",
+          "wordCount": 1088,
+          "title": "Guidance: Care continuity between midwifery and health visiting services",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-june-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-june-2026",
+          "publishedOn": "2026-07-31T08:22:59.000Z",
+          "wordCount": 837,
+          "title": "Transparency data: DHSC: spending over £500, June 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/national-partnership-agreement-on-asylum-seeker-health-in-england",
           "author": null,
