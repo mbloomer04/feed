@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-01T20:07:27.333Z</updated>
+    <updated>2026-08-01T21:45:27.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1762,29 +1762,6 @@ According to the data, an estimated 13.5 million “zero-dose” children did no
         <summary type="html"><![CDATA[Completing the NHS's pathology transformation programme could unlock around £450m a year for the health service, a review has found.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS to overhaul patient communications and end ‘farce’ of invitations arriving after appointment]]></title>
-        <id>https://www.england.nhs.uk/?p=289761</id>
-        <link href="https://www.england.nhs.uk/2026/07/nhs-to-overhaul-patient-communications-and-end-farce-of-invitations-arriving-after-appointment/"/>
-        <updated>2026-07-03T09:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Patients are to receive at least 3 weeks’ notice from the NHS for all new planned medical appointments, under plans to overhaul patients’ experiences of the health service. NHS Chief Executive, Sir Jim Mackey, today said that trying to get clarity from the NHS had been “like walking through treacle” for far too many families, […]]]></summary>
-        <author>
-            <name>Tom W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4808 - Active Exploitation of CVE-2026-48282 in Adobe ColdFusion]]></title>
-        <id>93536ab3-71fb-4361-b9f9-c5a7e767a370</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4808"/>
-        <updated>2026-07-03T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation could lead to arbitrary code execution in the context of the current user
- Successful exploitation could lead to arbitrary code execution in the context of the current user
- Updated: 03 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

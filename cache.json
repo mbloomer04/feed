@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4809 - BeyondTrust Releases Security Advisory for Remote Support & Privileged Remote Access",
           "imageUrl": null
-        },
-        {
-          "id": "93536ab3-71fb-4361-b9f9-c5a7e767a370",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Successful exploitation could lead to arbitrary code execution in the context of the current user\n Updated: 03 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4808",
-          "publishedOn": "2026-07-03T09:21:00.000Z",
-          "wordCount": null,
-          "title": "CC-4808 - Active Exploitation of CVE-2026-48282 in Adobe ColdFusion",
-          "imageUrl": null
         }
       ]
     },
@@ -2029,16 +2019,6 @@
           "publishedOn": "2026-07-04T21:30:13.000Z",
           "wordCount": 2153,
           "title": "NHS accelerates artificial intelligence rollout to cut waiting times and improve care for millions",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=289761",
-          "author": "Tom W",
-          "description": "Patients are to receive at least 3 weeks’ notice from the NHS for all new planned medical appointments, under plans to overhaul patients’ experiences of the health service. NHS Chief Executive, Sir Jim Mackey, today said that trying to get clarity from the NHS had been “like walking through treacle” for far too many families, […]",
-          "link": "https://www.england.nhs.uk/2026/07/nhs-to-overhaul-patient-communications-and-end-farce-of-invitations-arriving-after-appointment/",
-          "publishedOn": "2026-07-03T09:41:03.000Z",
-          "wordCount": 2089,
-          "title": "NHS to overhaul patient communications and end ‘farce’ of invitations arriving after appointment",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
