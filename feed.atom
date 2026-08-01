@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-01T00:03:01.248Z</updated>
+    <updated>2026-08-01T04:16:43.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1840,49 +1840,6 @@ Through this mechanism, WHO aims to accelerate access to reliable diagnostic too
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027]]></title>
-        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027</id>
-        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027"/>
-        <updated>2026-07-02T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research: Work-related quality of life of the adult social care workforce in England in 2025]]></title>
-        <id>https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025</id>
-        <link href="https://www.gov.uk/government/publications/work-related-quality-of-life-of-the-adult-social-care-workforce-in-england-in-2025"/>
-        <updated>2026-07-02T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Survey results from the second wave of the Adult Social Care Workforce Survey, undertaken between August and October 2025 in England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Medicines that you cannot export from the UK or hoard]]></title>
-        <id>https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk</id>
-        <link href="https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk"/>
-        <updated>2026-07-02T14:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4807 - Critical Vulnerabilities in UltraVNC Repeater Component]]></title>
-        <id>f73fad96-3ba8-4863-9fb8-b683f7dc4d74</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4807"/>
-        <updated>2026-07-02T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)
- The critical vulnerabilities could allow a remote attacker either to obtain administrative control of the service through a hard-coded credential (CVE-2026-7839) or achieve unauthenticated arbitrary code execution (CVE-2026-7840)
- Updated: 02 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Every GP practice in Kent and Medway signed up to contract DES variation]]></title>
         <id>https://www.gponline.com/article/1963513</id>
         <link href="https://www.gponline.com/every-gp-practice-kent-medway-signed-contract-des-variation/article/1963513"/>
@@ -1893,19 +1850,6 @@ Through this mechanism, WHO aims to accelerate access to reliable diagnostic too
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CC-4806 - Active Exploitation of CVE-2026-45659 in Microsoft SharePoint]]></title>
-        <id>d9151c40-45a8-4698-af24-dedf77370888</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4806"/>
-        <updated>2026-07-02T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation of CVE-2026-45659 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access
- Successful exploitation of CVE-2026-45659 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access
- Updated: 02 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Midlands secures share of £85m to transform obesity care]]></title>
         <id>https://www.digitalhealth.net/?p=301471</id>
         <link href="https://www.digitalhealth.net/2026/07/midlands-secures-share-of-85m-to-transform-obesity-care/"/>
@@ -1913,16 +1857,6 @@ Through this mechanism, WHO aims to accelerate access to reliable diagnostic too
         <summary type="html"><![CDATA[Health Innovation West Midlands (HIWM) has helped local NHS organisations secure a share of the £85m national investment in obesity care.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease]]></title>
-        <id>urn:uuid:a2fec9cf-3198-4dc6-8232-32018fb47386</id>
-        <link href="https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease"/>
-        <updated>2026-07-02T12:19:20.000Z</updated>
-        <summary type="html"><![CDATA[In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo.]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
