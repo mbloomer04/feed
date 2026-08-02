@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-02T20:08:21.442Z</updated>
+    <updated>2026-08-02T21:46:06.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS inviting 500,000 men to join major prostate cancer research programme]]></title>
+        <id>https://www.england.nhs.uk/?p=291428</id>
+        <link href="https://www.england.nhs.uk/2026/08/nhs-inviting-500000-men-to-join-major-prostate-cancer-research-programme/"/>
+        <updated>2026-08-01T05:00:36.000Z</updated>
+        <summary type="html"><![CDATA[The NHS will begin contacting half a million men from this week inviting them to join a major research programme to improve early detection and treatment of prostate cancer. Men who have had or are living with prostate cancer will receive letters and text messages explaining how they can register to take part in what […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: UK Clinical Research Delivery key performance indicators: data to August 2026]]></title>
         <id>https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-august-2026</id>
