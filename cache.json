@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "f461d4db-193d-4af3-8efd-41709cc84b8f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover\n Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover\n Updated: 03 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4823",
+          "publishedOn": "2026-08-03T11:17:00.000Z",
+          "wordCount": null,
+          "title": "CC-4823 - Active Exploitation of Critical N-central Authentication Bypass Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "aca4044a-32c3-4b57-86f1-ed1ad1ecddc1",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-20316 could allow an unauthenticated remote attacker to log into an affected device using a low-privileged account and access sensitive information\n Successful exploitation of CVE-2026-20316 could allow an unauthenticated remote attacker to log into an affected device using a low-privileged account and access sensitive information\n Updated: 30 Jul 2026",
