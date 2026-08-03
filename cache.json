@@ -2030,16 +2030,6 @@
           "wordCount": 1245,
           "title": "Around a million parents urged to book new ‘four-in-one’ NHS jab to protect young children against measles",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=289793",
-          "author": "rwootton",
-          "description": "A major rollout of new artificial intelligence (AI) tools across the NHS is being accelerated to help cut waiting lists and improve care for millions of patients. A new AI triage tool in the NHS App that helps direct patients to the most appropriate NHS service, as well as widespread access to AI notetaking tools […]",
-          "link": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
-          "publishedOn": "2026-07-04T21:30:13.000Z",
-          "wordCount": 2153,
-          "title": "NHS accelerates artificial intelligence rollout to cut waiting times and improve care for millions",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2048,6 +2038,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa",
+          "author": null,
+          "description": "The record of processing activity lists the personal data being held and processed by the Department of Health and Social Care (DHSC) in the UK.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa",
+          "publishedOn": "2026-08-03T08:30:00.000Z",
+          "wordCount": 1135,
+          "title": "Transparency data: Department of Health and Social Care record of processing activity (RoPA)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-privacy-notice",
+          "author": null,
+          "description": "Find out about DHSC's data protection policy and procedures.",
+          "link": "https://www.gov.uk/government/publications/dhsc-privacy-notice",
+          "publishedOn": "2026-08-03T08:30:00.000Z",
+          "wordCount": 931,
+          "title": "Guidance: DHSC privacy notice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-august-2026",
           "author": null,

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-03T06:11:42.061Z</updated>
+    <updated>2026-08-03T10:33:30.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Department of Health and Social Care record of processing activity (RoPA)]]></title>
+        <id>https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa</id>
+        <link href="https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa"/>
+        <updated>2026-08-03T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The record of processing activity lists the personal data being held and processed by the Department of Health and Social Care (DHSC) in the UK.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: DHSC privacy notice]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-privacy-notice</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-privacy-notice"/>
+        <updated>2026-08-03T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Find out about DHSC's data protection policy and procedures.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tens of thousands of young people get vital protection from MenB in just a fortnight]]></title>
         <id>https://www.england.nhs.uk/?p=291401</id>
@@ -1752,16 +1772,6 @@ According to the data, an estimated 13.5 million “zero-dose” children did no
         <summary type="html"><![CDATA[NHS England is rolling out AI tools across the health service, including integrated ambient voice technology, as part of £10bn tech funding.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS accelerates artificial intelligence rollout to cut waiting times and improve care for millions]]></title>
-        <id>https://www.england.nhs.uk/?p=289793</id>
-        <link href="https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"/>
-        <updated>2026-07-04T21:30:13.000Z</updated>
-        <summary type="html"><![CDATA[A major rollout of new artificial intelligence (AI) tools across the NHS is being accelerated to help cut waiting lists and improve care for millions of patients. A new AI triage tool in the NHS App that helps direct patients to the most appropriate NHS service, as well as widespread access to AI notetaking tools […]]]></summary>
-        <author>
-            <name>rwootton</name>
         </author>
     </entry>
     <entry>
