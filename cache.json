@@ -2030,16 +2030,6 @@
           "wordCount": 1474,
           "title": "NHS warns ‘snooping’ staff face sack or prison for inappropriate access of patient data",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=289876",
-          "author": "Tom W",
-          "description": "Around a million families are being urged to protect their children against the spread of measles and other potentially deadly childhood illnesses, as part of a new NHS vaccination drive. Children aged from 12-months to 11 years old who have missed one or both doses of the vaccine, will be invited as part of the […]",
-          "link": "https://www.england.nhs.uk/2026/07/million-parents-book-new-four-in-one-nhs-jab-protect-children-against-measles/",
-          "publishedOn": "2026-07-06T23:01:39.000Z",
-          "wordCount": 1245,
-          "title": "Around a million parents urged to book new ‘four-in-one’ NHS jab to protect young children against measles",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2048,6 +2038,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/medicine-supply-disruption-statistics-uk-background-and-methodology",
+          "author": null,
+          "description": "How the Department of Health and Social Care (DHSC) puts together the twice-yearly statistics on medicine supply disruption in the UK.",
+          "link": "https://www.gov.uk/government/publications/medicine-supply-disruption-statistics-uk-background-and-methodology",
+          "publishedOn": "2026-08-05T08:30:00.000Z",
+          "wordCount": 917,
+          "title": "Guidance: Medicine supply disruption statistics, UK: background and methodology",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/medicine-supply-disruption-statistics-uk-data-to-june-2026",
+          "author": null,
+          "description": "Twice-yearly official statistics on medicine supply issue and discontinuation notifications reported to DHSC by pharmaceutical suppliers.",
+          "link": "https://www.gov.uk/government/statistics/medicine-supply-disruption-statistics-uk-data-to-june-2026",
+          "publishedOn": "2026-08-05T08:30:00.000Z",
+          "wordCount": 1027,
+          "title": "Official Statistics: Medicine supply disruption statistics, UK: data to June 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
           "author": null,
