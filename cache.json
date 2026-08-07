@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "253ee2ed-4a65-4294-b12f-1636bf91dfb6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-64638 could potentially lead to PHP code execution\n Successful exploitation of CVE-2026-64638 could potentially lead to PHP code execution\n Updated: 07 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4827",
+          "publishedOn": "2026-08-07T14:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4827 - WordPress Releases Security Updates to Address \"XSS2Shell\" Vulnerability Chain",
+          "imageUrl": null
+        },
+        {
           "id": "c8e72212-2241-4e24-a07d-75d9d13cbe2c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers\n Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers\n Updated: 07 Aug 2026",
@@ -2048,6 +2058,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "author": null,
+          "description": "This report presents the emerging findings from the evaluation of the 15 WorkWell programme pilots, from October 2024 to March 2025",
+          "link": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "publishedOn": "2026-08-07T14:07:47.000Z",
+          "wordCount": 1299,
+          "title": "Research: WorkWell Pilots Evaluation Early Implementation Findings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
           "author": null,
