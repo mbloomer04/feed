@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4811 - Palo Alto Networks Releases Security Update for PAN-OS",
           "imageUrl": null
-        },
-        {
-          "id": "1e9ef352-8659-42b8-a0a1-382aef869652",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Successful exploitation of CVE-2026-33112 could allow an authorised attacker to achieve remote code execution on SharePoint servers via authenticated network access\n Updated: 09 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4810",
-          "publishedOn": "2026-07-09T10:59:00.000Z",
-          "wordCount": null,
-          "title": "CC-4810 - Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-33112",
-          "imageUrl": null
         }
       ]
     },
