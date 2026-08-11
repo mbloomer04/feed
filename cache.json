@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "11aec5d5-d63e-4420-9804-af7ab62ab969",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands\n CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands.\n Updated: 11 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4828",
+          "publishedOn": "2026-08-11T15:01:00.000Z",
+          "wordCount": null,
+          "title": "CC-4828 - Docker Releases Security Updates for Docker Copy Functionality",
+          "imageUrl": null
+        },
+        {
           "id": "253ee2ed-4a65-4294-b12f-1636bf91dfb6",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-64638 could potentially lead to PHP code execution\n Successful exploitation of CVE-2026-64638 could potentially lead to PHP code execution\n Updated: 07 Aug 2026",
