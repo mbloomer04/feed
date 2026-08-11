@@ -2029,6 +2029,46 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/selling-tobacco-herbal-smoking-products-and-cigarette-papers",
+          "author": null,
+          "description": "Changes to age of sale rules and related regulations for tobacco and herbal smoking products and cigarette papers from 29 October 2026 and 1 January 2027.",
+          "link": "https://www.gov.uk/guidance/selling-tobacco-herbal-smoking-products-and-cigarette-papers",
+          "publishedOn": "2026-08-11T10:00:01.000Z",
+          "wordCount": 7779,
+          "title": "Selling tobacco, herbal smoking products and cigarette papers",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/tobacco-vaping-and-nicotine-products-fixed-penalty-notices",
+          "author": null,
+          "description": "Information about changes to fixed penalty notices for offences related to tobacco, vaping and nicotine products from 29 October 2026 and 1 January 2027.",
+          "link": "https://www.gov.uk/guidance/tobacco-vaping-and-nicotine-products-fixed-penalty-notices",
+          "publishedOn": "2026-08-11T10:00:01.000Z",
+          "wordCount": 8650,
+          "title": "Tobacco, vaping and nicotine products: fixed penalty notices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/tobacco-and-vaping-product-vending-machine-ban",
+          "author": null,
+          "description": "New restrictions on vending machines selling tobacco, herbal smoking products and cigarette papers, and vaping and nicotine products from 29 October 2026.",
+          "link": "https://www.gov.uk/guidance/tobacco-and-vaping-product-vending-machine-ban",
+          "publishedOn": "2026-08-11T10:00:01.000Z",
+          "wordCount": 3224,
+          "title": "Tobacco and vaping product vending machine ban",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/selling-vaping-and-nicotine-products",
+          "author": null,
+          "description": "Changes to age of sale rules and related regulations for vaping and nicotine products from 29 October 2026.",
+          "link": "https://www.gov.uk/guidance/selling-vaping-and-nicotine-products",
+          "publishedOn": "2026-08-11T10:00:01.000Z",
+          "wordCount": 6444,
+          "title": "Selling vaping and nicotine products",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/drugs-and-pharmaceutical-electronic-market-information-emit",
           "author": null,
           "description": "The eMIT provides information about prices and usage for generic drugs and pharmaceutical products.",
