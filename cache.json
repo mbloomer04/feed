@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4813 - Critical Vulnerabilities in SonicWall SMA1000 Series Appliances Exploited",
           "imageUrl": null
-        },
-        {
-          "id": "539093fb-f092-47f1-b859-f60a8a63bb14",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers\n Updated: 13 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4812",
-          "publishedOn": "2026-07-13T11:45:00.000Z",
-          "wordCount": null,
-          "title": "CC-4812 - Progress Software Addresses a Security Threat to ShareFile Storage Zone Controllers",
-          "imageUrl": null
         }
       ]
     },

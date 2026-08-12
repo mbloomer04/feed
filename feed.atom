@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-11T23:31:19.264Z</updated>
+    <updated>2026-08-12T01:13:06.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1398,19 +1398,6 @@ According to the data, an estimated 13.5 million “zero-dose” children did no
         <summary type="html"><![CDATA[More than 5,000 data breaches have been recorded across NHS Scotland health boards since January 2023, according to a FOI investigation.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4812 - Progress Software Addresses a Security Threat to ShareFile Storage Zone Controllers]]></title>
-        <id>539093fb-f092-47f1-b859-f60a8a63bb14</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4812"/>
-        <updated>2026-07-13T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers
- Progress Software urgers customers to manually shut down Windows servers hosting Storage Zone Controllers
- Updated: 13 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
