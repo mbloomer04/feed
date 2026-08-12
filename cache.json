@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "835e7983-df99-4efe-b705-e16af091f191",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server\n When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server\n Updated: 12 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4829",
+          "publishedOn": "2026-08-12T11:26:00.000Z",
+          "wordCount": null,
+          "title": "CC-4829 - Critical Vulnerabilities in Microsoft SharePoint Server",
+          "imageUrl": null
+        },
+        {
           "id": "11aec5d5-d63e-4420-9804-af7ab62ab969",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands\n CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands.\n Updated: 11 Aug 2026",
@@ -1999,16 +2009,6 @@
           "publishedOn": "2026-07-16T11:45:40.000Z",
           "wordCount": 1284,
           "title": "Cancer patients rate NHS care highly as record numbers checked and treated",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=290219",
-          "author": "jboshell",
-          "description": "The NHS will aim to prevent thousands of deaths from sepsis by 2035 as part of a series of measures to improve the treatment of the deadly condition. Sepsis is a life-threatening response to an infection in the body, which can cause significant damage to tissues and organs, and is estimated to cause around 4,000 […]",
-          "link": "https://www.england.nhs.uk/2026/07/nhs-aims-to-prevent-one-in-four-sepsis-deaths/",
-          "publishedOn": "2026-07-13T23:01:09.000Z",
-          "wordCount": 2059,
-          "title": "NHS aims to prevent one in four sepsis deaths",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
