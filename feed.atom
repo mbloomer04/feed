@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-12T12:49:18.705Z</updated>
+    <updated>2026-08-12T14:15:26.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4831 - Cisco Releases Security Updates for Secure Firewall ASA and Secure Firewall FTD Software]]></title>
+        <id>950043a9-85ea-4feb-b8f1-4533e6227d2e</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4831"/>
+        <updated>2026-08-12T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.
+ CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.
+ Updated: 12 Aug 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4830 - Microsoft Releases Aug 2026 Security Updates]]></title>
         <id>1b497d0e-040b-4f7b-b12c-a98d9e36c3b0</id>

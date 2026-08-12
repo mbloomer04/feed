@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "950043a9-85ea-4feb-b8f1-4533e6227d2e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n Updated: 12 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4831",
+          "publishedOn": "2026-08-12T13:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4831 - Cisco Releases Security Updates for Secure Firewall ASA and Secure Firewall FTD Software",
+          "imageUrl": null
+        },
+        {
           "id": "1b497d0e-040b-4f7b-b12c-a98d9e36c3b0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled updates for Microsoft products address 421 Microsoft vulnerabilities, including 3 zero-day vulnerabilities\n Scheduled updates for Microsoft products address 421 Microsoft vulnerabilities, including 3 zero-day vulnerabilities\n Updated: 12 Aug 2026",
