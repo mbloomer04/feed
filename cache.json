@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "1b497d0e-040b-4f7b-b12c-a98d9e36c3b0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 421 Microsoft vulnerabilities, including 3 zero-day vulnerabilities\n Scheduled updates for Microsoft products address 421 Microsoft vulnerabilities, including 3 zero-day vulnerabilities\n Updated: 12 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4830",
+          "publishedOn": "2026-08-12T11:55:00.000Z",
+          "wordCount": null,
+          "title": "CC-4830 - Microsoft Releases Aug 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "835e7983-df99-4efe-b705-e16af091f191",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server\n When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server\n Updated: 12 Aug 2026",
