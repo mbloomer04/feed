@@ -2029,6 +2029,16 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/stockpiles-of-medical-products-held-by-dhsc",
+          "author": null,
+          "description": "Information on the medical stockpiles held by the department, and other arrangements that help ensure supplies are available during public health emergencies.",
+          "link": "https://www.gov.uk/government/publications/stockpiles-of-medical-products-held-by-dhsc",
+          "publishedOn": "2026-08-13T08:30:08.000Z",
+          "wordCount": 871,
+          "title": "Policy paper: Stockpiles of medical products held by DHSC",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/drug-misuse-and-dependence-uk-guidelines-on-clinical-management",
           "author": null,
           "description": "How clinicians should treat people with drug misuse and drug dependence problems.",
