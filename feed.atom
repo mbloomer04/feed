@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-13T11:40:12.263Z</updated>
+    <updated>2026-08-13T12:51:16.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS keeps its cool as temperatures and demand soar]]></title>
+        <id>https://www.england.nhs.uk/?p=291982</id>
+        <link href="https://www.england.nhs.uk/2026/08/nhs-keeps-its-cool-as-temperatures-and-demand-soar/"/>
+        <updated>2026-08-13T09:11:07.000Z</updated>
+        <summary type="html"><![CDATA[A&E demand hit a record high in July as the NHS faced a “summer surge”, while elective performance reached its best level against the 18-week target in nearly five years. A&E saw a record 2.5 million attendances last month amid two heatwaves, with the three busiest months ever all recorded between May and July. Despite […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Stockpiles of medical products held by DHSC]]></title>
         <id>https://www.gov.uk/government/publications/stockpiles-of-medical-products-held-by-dhsc</id>
@@ -1325,18 +1335,6 @@ While there is no cure for dementia, up to 45% of the risks can be attributed to
         <summary type="html"><![CDATA[Digital care plans for patients in Northamptonshire have been linked to the NHS National Record Locator for faster treatment recommendations.]]></summary>
         <author>
             <name>Jordan Sollof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO]]></title>
-        <id>urn:uuid:19112ec9-719b-42a9-a43a-ff7390e3ef1e</id>
-        <link href="https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who"/>
-        <updated>2026-07-15T00:01:54.000Z</updated>
-        <summary type="html"><![CDATA[In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) released today.  
-While both indicators rose by one percentage point from the previous year, global coverage remains one point below 2019 levels – hovering within the same narrow range since 2009. 
-According to the data, an estimated 13.5 million “zero-dose” children did not receive a single vaccine in their first year during 2025. While these represent nearly 750 000 fewer children than the previous year, progress is offset by a rising number of children who start the schedule and do not complete it. …]]></summary>
-        <author>
-            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>

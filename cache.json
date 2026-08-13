@@ -1952,6 +1952,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=291982",
+          "author": "jboshell",
+          "description": "A&E demand hit a record high in July as the NHS faced a “summer surge”, while elective performance reached its best level against the 18-week target in nearly five years. A&E saw a record 2.5 million attendances last month amid two heatwaves, with the three busiest months ever all recorded between May and July. Despite […]",
+          "link": "https://www.england.nhs.uk/2026/08/nhs-keeps-its-cool-as-temperatures-and-demand-soar/",
+          "publishedOn": "2026-08-13T09:11:07.000Z",
+          "wordCount": 1475,
+          "title": "NHS keeps its cool as temperatures and demand soar",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=291758",
           "author": "jboshell",
           "description": "Over 100,000 people in England have accessed potentially life-saving treatment for hepatitis C in the last decade as part of a groundbreaking NHS programme, new figures show. NHS data shows that since the roll-out of pioneering antiviral drugs in 2015, over 100,000 people have been diagnosed and treated for Hep C, with England on track […]",
@@ -2981,16 +2991,6 @@
           "wordCount": 2403,
           "title": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
           "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/dementia/women-on-bench.tmb-1200v.jpg?sfvrsn=40812ddb_6"
-        },
-        {
-          "id": "urn:uuid:19112ec9-719b-42a9-a43a-ff7390e3ef1e",
-          "author": null,
-          "description": "In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) released today.  \nWhile both indicators rose by one percentage point from the previous year, global coverage remains one point below 2019 levels – hovering within the same narrow range since 2009. \nAccording to the data, an estimated 13.5 million “zero-dose” children did not receive a single vaccine in their first year during 2025. While these represent nearly 750 000 fewer children than the previous year, progress is offset by a rising number of children who start the schedule and do not complete it. …",
-          "link": "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
-          "publishedOn": "2026-07-15T00:01:54.000Z",
-          "wordCount": 4176,
-          "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/teams/uhc---life-course-(uhl)/immunization-vaccines-and-biologicals-(ivb)/essential-programme-on-immunization-(epi)/ghana-hpv.tmb-1200v.jpg?sfvrsn=4549edaf_6"
         }
       ]
     },
