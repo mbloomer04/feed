@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5d49826c-c61d-4098-af58-9defa818925d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)\n Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)\n Updated: 14 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4832",
+          "publishedOn": "2026-08-14T12:06:00.000Z",
+          "wordCount": null,
+          "title": "CC-4832 - Proof-of-Concept Exploit Released for Citrix NetScaler ADC and NetScaler Gateway Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "950043a9-85ea-4feb-b8f1-4533e6227d2e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n Updated: 12 Aug 2026",
