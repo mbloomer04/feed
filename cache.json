@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4815 - Critical Vulnerability Chain in WordPress Core Under Exploitation (wp2shell)",
           "imageUrl": null
-        },
-        {
-          "id": "f962bafc-bd0e-4e7c-8b1d-f509aa2f2fb5",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Scheduled updates for Microsoft products address 622 vulnerabilities\n Updated: 15 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4814",
-          "publishedOn": "2026-07-15T12:15:00.000Z",
-          "wordCount": null,
-          "title": "CC-4814 - Microsoft Releases July 2026 Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -2059,6 +2049,16 @@
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
+          "id": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "author": null,
+          "description": "This plan sets out how the Department of Health and Social Care plans to improve the use of BSL in its communications in the next 5 years.",
+          "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-of-health-and-social-care",
+          "publishedOn": "2026-08-12T23:01:05.000Z",
+          "wordCount": 1115,
+          "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department of Health and Social Care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
           "author": null,
           "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
@@ -2941,16 +2941,6 @@
           "wordCount": 2320,
           "title": "WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex",
           "imageUrl": "https://cdn.who.int/media/images/default-source/headquarters/groups/intergovernmental-working-group-(igwg)/igwg7-meeting-overview.tmb-1200v.jpg?sfvrsn=1c01de5d_1"
-        },
-        {
-          "id": "urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649",
-          "author": null,
-          "description": "The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or delay the onset of dementia across the life course. \nDementia is a condition caused by brain diseases and affects memory, thinking and the ability to function. More than 57 million people live with dementia worldwide and nearly 10 million people get newly diagnosed every year. Alzheimer disease is the most common form of dementia and is estimated to account for 60–70% of cases.\nWhile there is no cure for dementia, up to 45% of the risks can be attributed to modifiable risk factors such as tobacco, alcohol use, social isolation, physical inactivity, air pollution and noncommunicable diseases (…",
-          "link": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
-          "publishedOn": "2026-07-15T12:15:58.000Z",
-          "wordCount": 2403,
-          "title": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
-          "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/dementia/women-on-bench.tmb-1200v.jpg?sfvrsn=40812ddb_6"
         }
       ]
     },
