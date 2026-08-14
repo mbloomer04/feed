@@ -1882,18 +1882,7 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "0bf2e9fa-b46b-46c3-9c86-2579e7da6cdc",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Dr Jon Fistein reflects on the current position and future direction of NHS England's Advisory Group for Data.\n\r\n\r\nHaving been appointed Chair of NHS England's Advisory Group for Data (AGD) earlier this year, and now beginning to settle into the role, this feels like the right moment to set out where we are and where I think we need to be. AGD provides NHS England with expert advice and assurance on how patient data is accessed and used. We exist because the public expects, and deserves, careful and visible scrutiny of how that is done.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2026/a-new-chapter-for-the-advisory-group-for-data",
-          "publishedOn": "2026-07-16T08:00:05.000Z",
-          "wordCount": null,
-          "title": "A new chapter for the Advisory Group for Data",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Transformation Blog Feed",
@@ -1917,18 +1906,7 @@
       "title": "Data Points Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/data-point-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "0bf2e9fa-b46b-46c3-9c86-2579e7da6cdc",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Dr Jon Fistein reflects on the current position and future direction of NHS England's Advisory Group for Data.\n\r\n\r\nHaving been appointed Chair of NHS England's Advisory Group for Data (AGD) earlier this year, and now beginning to settle into the role, this feels like the right moment to set out where we are and where I think we need to be. AGD provides NHS England with expert advice and assurance on how patient data is accessed and used. We exist because the public expects, and deserves, careful and visible scrutiny of how that is done.",
-          "link": "https://digital.nhs.uk/blog/data-points-blog/2026/a-new-chapter-for-the-advisory-group-for-data",
-          "publishedOn": "2026-07-16T08:00:05.000Z",
-          "wordCount": null,
-          "title": "A new chapter for the Advisory Group for Data",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Design Matters Blog Feed",
@@ -2646,16 +2624,6 @@
           "publishedOn": "2026-07-16T08:30:00.000Z",
           "wordCount": 890,
           "title": "Policy paper: Framework agreement between DHSC and the Human Fertilisation and Embryology Authority: 2026 to 2029",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
-          "author": null,
-          "description": "New negotiating body to be set up as part of the first ever adult social care Fair Pay Agreement, representing millions of care workers",
-          "link": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
-          "publishedOn": "2026-07-16T08:15:06.000Z",
-          "wordCount": 3858,
-          "title": "Care workers to be represented in Fair Pay Agreements",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
