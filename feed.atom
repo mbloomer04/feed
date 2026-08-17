@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-17T12:25:45.982Z</updated>
+    <updated>2026-08-17T13:32:46.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS urges those eligible to book a flu jab ahead of this winter season]]></title>
+        <id>https://www.england.nhs.uk/?p=292096</id>
+        <link href="https://www.england.nhs.uk/2026/08/nhs-urges-those-eligible-to-book-a-flu-jab-ahead-of-this-winter-season/"/>
+        <updated>2026-08-17T11:18:08.000Z</updated>
+        <summary type="html"><![CDATA[The NHS is urging millions of people to book their flu jab from today as the health service starts winter preparations earlier than ever. From today, the national booking system is open so eligible people, including pregnant women and children, can pre-book their flu vaccinations when vaccinations start on 1 September. The NHS wants to […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4832 - Proof-of-Concept Exploit Released for Citrix NetScaler ADC and NetScaler Gateway Vulnerability]]></title>
         <id>5d49826c-c61d-4098-af58-9defa818925d</id>
