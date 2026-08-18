@@ -1997,6 +1997,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/sex-ratios-at-birth-in-the-uk-2019-to-2023",
+          "author": null,
+          "description": "Analysis of male to female birth ratios in the UK for the period 1 January 2019 to 31 December 2023.",
+          "link": "https://www.gov.uk/government/statistics/announcements/sex-ratios-at-birth-in-the-uk-2019-to-2023",
+          "publishedOn": "2026-08-18T12:36:20.000Z",
+          "wordCount": 664,
+          "title": "Official Statistics: Sex ratios at birth in the UK: 2019 to 2023",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/sex-ratios-at-birth-in-the-uk-2018-to-2022",
+          "author": null,
+          "description": "Analysis of male to female birth ratios in the UK for the period 1 January 2018 to 31 December 2022.",
+          "link": "https://www.gov.uk/government/statistics/announcements/sex-ratios-at-birth-in-the-uk-2018-to-2022",
+          "publishedOn": "2026-08-18T12:35:26.000Z",
+          "wordCount": 664,
+          "title": "Official Statistics: Sex ratios at birth in the UK: 2018 to 2022",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-august-2027",
           "author": null,
           "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
