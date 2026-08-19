@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "15093e7c-0e2c-4d60-949e-f8dc10803db3",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication\n CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication\n Updated: 19 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4834",
+          "publishedOn": "2026-08-19T13:20:00.000Z",
+          "wordCount": null,
+          "title": "CC-4834 - Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "00096aea-91cd-4b59-8f7e-fd0c7a1ba0c6",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 943 security updates across multiple Oracle product families\n Scheduled advisory includes 943 security updates across multiple Oracle product families\n Updated: 19 Aug 2026",

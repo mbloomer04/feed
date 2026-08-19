@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-19T12:28:16.709Z</updated>
+    <updated>2026-08-19T13:37:07.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4834 - Citrix Releases Security Updates for NetScaler ADC and NetScaler Gateway]]></title>
+        <id>15093e7c-0e2c-4d60-949e-f8dc10803db3</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4834"/>
+        <updated>2026-08-19T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication
+ CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication
+ Updated: 19 Aug 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4833 - Oracle Releases August 2026 Critical Patch Update Advisory]]></title>
         <id>00096aea-91cd-4b59-8f7e-fd0c7a1ba0c6</id>
