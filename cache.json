@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "00096aea-91cd-4b59-8f7e-fd0c7a1ba0c6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled advisory includes 943 security updates across multiple Oracle product families\n Scheduled advisory includes 943 security updates across multiple Oracle product families\n Updated: 19 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4833",
+          "publishedOn": "2026-08-19T12:22:00.000Z",
+          "wordCount": null,
+          "title": "CC-4833 - Oracle Releases August 2026 Critical Patch Update Advisory",
+          "imageUrl": null
+        },
+        {
           "id": "5d49826c-c61d-4098-af58-9defa818925d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)\n Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)\n Updated: 14 Aug 2026",
