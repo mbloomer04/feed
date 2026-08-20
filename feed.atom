@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-20T22:17:38.471Z</updated>
+    <updated>2026-08-20T23:17:51.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -922,19 +922,6 @@ Released during the 26th International AIDS Conference (AIDS 2026) and ahead of 
         <summary type="html"><![CDATA[Severity: Medium
  Scheduled advisory includes 1449 security updates across multiple Oracle product families
  Scheduled advisory includes 1449 security updates across multiple Oracle product families
- Updated: 22 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4818 - Critical Vulnerability CVE-2026-50522 in Microsoft SharePoint Server Under Exploitation]]></title>
-        <id>d070c097-eb9f-4a71-ae01-5af7d2a7e8f8</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4818"/>
-        <updated>2026-07-22T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: High
- Successful exploitation of CVE-2026-50522 could allow an unauthenticated attacker to execute code remotely
- Successful exploitation of CVE-2026-50522 could allow an unauthenticated attacker to execute code remotely
  Updated: 22 Jul 2026]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
