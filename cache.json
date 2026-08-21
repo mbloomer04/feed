@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "CC-4821 - Broadcom Releases Security Update to Address Vulnerabilities in VMware ESX, vCenter, Workstation, and Fusion",
           "imageUrl": null
-        },
-        {
-          "id": "15b4dbbf-1810-458f-8a7f-c68b6dcf5c60",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-16232 could allow unauthenticated remote attackers to obtain full administrative access to exposed management servers.\n CVE-2026-16232 could allow unauthenticated remote attackers to obtain full administrative access to exposed management servers.\n Updated: 23 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4820",
-          "publishedOn": "2026-07-23T10:29:00.000Z",
-          "wordCount": null,
-          "title": "CC-4820 - Check Point Releases Security Update for Critical Authentication Bypass Vulnerability",
-          "imageUrl": null
         }
       ]
     },
