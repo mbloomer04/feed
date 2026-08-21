@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-21T13:38:02.114Z</updated>
+    <updated>2026-08-21T14:25:30.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Air Pollution Awareness Coalition (APAC)]]></title>
+        <id>https://www.gov.uk/government/publications/air-pollution-awareness-coalition-apac</id>
+        <link href="https://www.gov.uk/government/publications/air-pollution-awareness-coalition-apac"/>
+        <updated>2026-08-21T14:12:16.000Z</updated>
+        <summary type="html"><![CDATA[The Air Pollution Awareness Coalition (APAC) is a cross-sector coalition to improve public understanding of air pollution and support action to reduce harm.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: DHSC public appointments: 2026 to 2027]]></title>
         <id>https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027</id>
