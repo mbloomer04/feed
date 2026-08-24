@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-24T13:42:44.750Z</updated>
+    <updated>2026-08-24T14:33:06.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4835 - Exploitation of Critical Authentication Bypass Vulnerability in macOS Screen Sharing]]></title>
+        <id>96c752b1-57e9-4d78-a003-0c812d48be7e</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4835"/>
+        <updated>2026-08-24T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services
+ CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services
+ Updated: 24 Aug 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Intellectual property (IP) guidance for the NHS in England]]></title>
         <id>https://www.gov.uk/government/publications/intellectual-property-ip-guidance-for-the-nhs-in-england</id>

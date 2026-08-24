@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "96c752b1-57e9-4d78-a003-0c812d48be7e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services\n CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services\n Updated: 24 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4835",
+          "publishedOn": "2026-08-24T14:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4835 - Exploitation of Critical Authentication Bypass Vulnerability in macOS Screen Sharing",
+          "imageUrl": null
+        },
+        {
           "id": "15093e7c-0e2c-4d60-949e-f8dc10803db3",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication\n CVE-2026-19490 could allow a remote unauthenticated attacker to bypass authentication\n Updated: 19 Aug 2026",
