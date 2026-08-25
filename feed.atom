@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-24T23:15:06.388Z</updated>
+    <updated>2026-08-25T00:47:01.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS rolls out discreet home-testing kits against cervical cancer for millions of women]]></title>
+        <id>https://www.england.nhs.uk/?p=292373</id>
+        <link href="https://www.england.nhs.uk/2026/08/nhs-rolls-out-discreet-home-testing-kits-against-cervical-cancer-for-millions-of-women/"/>
+        <updated>2026-08-24T23:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 4 million women will be offered HPV self-testing kits if they have not attended cervical screening appointments following invitations from the NHS in England. The NHS is starting to roll out the new self-testing kits from today to encourage more women to complete their potentially lifesaving screening to detect human papillomavirus (HPV), which can […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4835 - Exploitation of Critical Authentication Bypass Vulnerability in macOS Screen Sharing]]></title>
         <id>96c752b1-57e9-4d78-a003-0c812d48be7e</id>
