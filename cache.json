@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8c3453ea-997b-4a2a-9d1e-536c7708d8ee",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-57909 and CVE-2026-57910 could allow unauthenticated remote code execution on affected WatchGuard Agent systems\n CVE-2026-57909 and CVE-2026-57910 could allow unauthenticated remote code execution on affected WatchGuard Agent systems.\n Updated: 26 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4836",
+          "publishedOn": "2026-08-26T11:19:00.000Z",
+          "wordCount": null,
+          "title": "CC-4836 - WatchGuard Releases Security Updates for Critical Vulnerabilities in WatchGuard Agent",
+          "imageUrl": null
+        },
+        {
           "id": "96c752b1-57e9-4d78-a003-0c812d48be7e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services\n CVE-2026-65400 could allow unauthenticated network attackers to access macOS Screen Sharing services\n Updated: 24 Aug 2026",
@@ -1947,16 +1957,6 @@
           "publishedOn": "2026-08-01T05:00:36.000Z",
           "wordCount": 2085,
           "title": "NHS inviting 500,000 men to join major prostate cancer research programme",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=291167",
-          "author": "Tom W",
-          "description": "Hundreds of thousands of women have accessed the morning-after pill at high street pharmacies in the first 5 months since the NHS made it available free-of-charge. New NHS figures show that almost 305,000 doses of the emergency contraceptive pill were supplied at pharmacies between October 2025 and March 2026 without women needing to book a […]",
-          "link": "https://www.england.nhs.uk/2026/07/hundreds-thousands-women-access-free-morning-after-pill-nhs-pharmacies-first-5-months/",
-          "publishedOn": "2026-07-27T23:01:15.000Z",
-          "wordCount": 1466,
-          "title": "Hundreds of thousands of women access free morning-after pill at NHS pharmacies in first 5 months",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
