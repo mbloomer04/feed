@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2ac3003e-476b-4c2b-83ee-60094ef7a43e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Multiple critical vulnerabilities could enable command injection, authentication bypass, or privilege escalation across UniFi products\n Multiple critical vulnerabilities could enable command injection, authentication bypass, or privilege escalation across UniFi products\n Updated: 27 Aug 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4837",
+          "publishedOn": "2026-08-27T14:42:00.000Z",
+          "wordCount": null,
+          "title": "CC-4837 - Ubiquiti Releases Security Advisory Bulletin for Multiple Critical Vulnerabilities in UniFi Products",
+          "imageUrl": null
+        },
+        {
           "id": "8c3453ea-997b-4a2a-9d1e-536c7708d8ee",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-57909 and CVE-2026-57910 could allow unauthenticated remote code execution on affected WatchGuard Agent systems\n CVE-2026-57909 and CVE-2026-57910 could allow unauthenticated remote code execution on affected WatchGuard Agent systems.\n Updated: 26 Aug 2026",
@@ -1967,6 +1977,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2026-08-27T14:54:32.000Z",
+          "wordCount": 14359,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.",
+          "link": "https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions",
+          "publishedOn": "2026-08-27T14:51:26.000Z",
+          "wordCount": 1163,
+          "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2026",
+          "publishedOn": "2026-08-27T13:48:54.000Z",
+          "wordCount": 781,
+          "title": "Transparency data: DHSC: workforce management information July 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-july-2026",
           "author": null,
           "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
@@ -2444,16 +2484,6 @@
           "publishedOn": "2026-07-30T07:24:00.000Z",
           "wordCount": 1326,
           "title": "Guidance: WorkWell",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report",
-          "author": null,
-          "description": "Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.",
-          "link": "https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report",
-          "publishedOn": "2026-07-29T10:45:00.000Z",
-          "wordCount": 689,
-          "title": "Official Statistics: Survey of adult carers in England: 2025 to 2026 report",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
