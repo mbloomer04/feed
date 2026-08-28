@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-27T23:25:00.100Z</updated>
+    <updated>2026-08-28T08:13:34.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -187,6 +187,16 @@
         <link href="https://www.gov.uk/government/statistics/announcements/sex-ratios-at-birth-in-the-uk-2018-to-2022"/>
         <updated>2026-08-18T12:35:26.000Z</updated>
         <summary type="html"><![CDATA[Analysis of male to female birth ratios in the UK for the period 1 January 2018 to 31 December 2022.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Survey of adult carers in England: 2025 to 2026 report]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/survey-of-adult-carers-in-england-2025-to-2026-report"/>
+        <updated>2026-08-18T11:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -793,19 +803,6 @@ seeking asylum in England from 2025 to 2028.]]></summary>
         <summary type="html"><![CDATA[Information on WorkWell for local systems partnerships.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4821 - Broadcom Releases Security Update to Address Vulnerabilities in VMware ESX, vCenter, Workstation, and Fusion]]></title>
-        <id>82c6f33c-3d6f-466d-afd3-ddb49ddeb5f9</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4821"/>
-        <updated>2026-07-29T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security advisory addresses vulnerabilities that could lead to arbitrary code execution, information disclosure, denial-of-service (DoS), authentication bypass, and unauthorised access
- Security advisory addresses vulnerabilities that could lead to arbitrary code execution, information disclosure, denial-of-service (DoS), authentication bypass, and unauthorised access
- Updated: 29 Jul 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
