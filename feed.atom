@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-08-28T08:13:34.597Z</updated>
+    <updated>2026-08-28T20:32:17.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill 2026: ECHR memorandum]]></title>
+        <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-echr-memorandum</id>
+        <link href="https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-echr-memorandum"/>
+        <updated>2026-08-28T16:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Memorandum on the European Convention on Human Rights (ECHR) relating to the Terminally Ill Adults (End of Life) Bill 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill 2026: equality impact assessment]]></title>
+        <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-equality-impact-assessment</id>
+        <link href="https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-equality-impact-assessment"/>
+        <updated>2026-08-28T16:49:57.000Z</updated>
+        <summary type="html"><![CDATA[The equality impact assessment considers the impacts of the Terminally Ill Adults (End of Life) Bill 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact assessment: Terminally Ill Adults (End of Life) Bill 2026: impact assessment]]></title>
+        <id>https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-impact-assessment</id>
+        <link href="https://www.gov.uk/government/publications/terminally-ill-adults-end-of-life-bill-2026-impact-assessment"/>
+        <updated>2026-08-28T16:49:52.000Z</updated>
+        <summary type="html"><![CDATA[The impact assessment considers the potential impacts of the Terminally Ill Adults (End of Life) Bill 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4839 - ServiceNow Releases Security Advisory for Critical Vulnerabilities in the ServiceNow Now and AI Platforms]]></title>
+        <id>b0682d4a-5801-4cd2-b494-95454715daff</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4839"/>
+        <updated>2026-08-28T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.
+ Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.
+ Updated: 28 Aug 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4838 - PaperCut Releases Emergency Security Updates for Critical Vulnerabilities in PaperCut NG/MF]]></title>
+        <id>17c500a2-8a48-4a32-ad8f-53608663c5d0</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4838"/>
+        <updated>2026-08-28T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-81578 and CVE-2026-82078 may enable configuration modification and code execution on PaperCut NG and PaperCut MF
+ CVE-2026-81578 and CVE-2026-82078 may enable configuration modification and code execution on PaperCut NG and PaperCut MF
+ Updated: 28 Aug 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
         <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
@@ -791,16 +847,6 @@ seeking asylum in England from 2025 to 2028.]]></summary>
         <link href="https://www.gov.uk/government/calls-for-evidence/using-the-professional-title-nurse"/>
         <updated>2026-07-30T09:00:05.000Z</updated>
         <summary type="html"><![CDATA[We want to hear your views on which roles or people should be allowed to use the word ‘nurse’ in their title.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: WorkWell]]></title>
-        <id>https://www.gov.uk/government/publications/workwell</id>
-        <link href="https://www.gov.uk/government/publications/workwell"/>
-        <updated>2026-07-30T07:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Information on WorkWell for local systems partnerships.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
