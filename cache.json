@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4823 - Active Exploitation of Critical N-central Authentication Bypass Vulnerability",
           "imageUrl": null
-        },
-        {
-          "id": "aca4044a-32c3-4b57-86f1-ed1ad1ecddc1",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-20316 could allow an unauthenticated remote attacker to log into an affected device using a low-privileged account and access sensitive information\n Successful exploitation of CVE-2026-20316 could allow an unauthenticated remote attacker to log into an affected device using a low-privileged account and access sensitive information\n Updated: 30 Jul 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4822",
-          "publishedOn": "2026-07-30T12:53:00.000Z",
-          "wordCount": null,
-          "title": "CC-4822 - Cisco Releases Security Advisory for Vulnerability in Secure Firewall Management Center",
-          "imageUrl": null
         }
       ]
     },
@@ -2494,36 +2484,6 @@
           "publishedOn": "2026-07-31T08:22:59.000Z",
           "wordCount": 837,
           "title": "Transparency data: DHSC: spending over £500, June 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/national-partnership-agreement-on-asylum-seeker-health-in-england",
-          "author": null,
-          "description": "A national partnership agreement on meeting the health and wellbeing needs for people\r\nseeking asylum in England from 2025 to 2028.",
-          "link": "https://www.gov.uk/government/publications/national-partnership-agreement-on-asylum-seeker-health-in-england",
-          "publishedOn": "2026-07-30T14:00:02.000Z",
-          "wordCount": 938,
-          "title": "Policy paper: National partnership agreement on asylum seeker health in England",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/nhs-and-industry-join-forces-on-next-generation-of-hospitals",
-          "author": null,
-          "description": "NHS trusts and construction partners have signed agreements to deliver next phase of New Hospital Programme",
-          "link": "https://www.gov.uk/government/news/nhs-and-industry-join-forces-on-next-generation-of-hospitals",
-          "publishedOn": "2026-07-30T13:13:27.000Z",
-          "wordCount": 2274,
-          "title": "NHS AND INDUSTRY JOIN FORCES ON NEXT GENERATION OF HOSPITALS",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/calls-for-evidence/using-the-professional-title-nurse",
-          "author": null,
-          "description": "We want to hear your views on which roles or people should be allowed to use the word ‘nurse’ in their title.",
-          "link": "https://www.gov.uk/government/calls-for-evidence/using-the-professional-title-nurse",
-          "publishedOn": "2026-07-30T09:00:05.000Z",
-          "wordCount": 1095,
-          "title": "Using the professional title ‘nurse’",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
