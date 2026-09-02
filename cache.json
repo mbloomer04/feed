@@ -1863,6 +1863,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "6e3f1883-e4d6-49d0-bf2d-1dff9e9fd32c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "James Hutton explains how we protect critical NHS services by monitoring for cyber threats 24 hours a day, 7 days a week.\n\r\n\r\nEvery day, cyber criminals are targeting NHS systems that hold some of our most sensitive data - patient records, medical histories, and critical care systems. That's why the Cyber Security Operations Centre (CSOC) runs protective monitoring across the NHS around the clock, watching for threats that could put patient care at risk.\n\r\n\r\nWe see the CSOC as the digital shield to national services. We protect more than 37 million NHS App users and safeguard the integrity of around 60,000 NHS 111 calls every day, ensuring trust, resilience, and uninterrupted care at national scale.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/how-were-protecting-the-nhs-from-cyber-threats-24-7",
+          "publishedOn": "2026-09-02T16:16:22.000Z",
+          "wordCount": null,
+          "title": "How we're protecting the NHS from cyber threats 24/7",
+          "imageUrl": null
+        },
+        {
           "id": "9a2e310d-2ca9-4fca-be8d-b0d5a4ff7b2f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Dan Taylor explores our vital role in protecting healthcare services from increasingly sophisticated cyber threats.\n\r\n\r\nIn the digital landscape of modern healthcare, cyber criminals lurk in the shadows, waiting to strike at the heart of our most vital services. As someone who leads the fight against these threats from within NHS England's Cyber Security Operations Centre (CSOC), I've seen first-hand how cyber threats have evolved – and why every single person working in the NHS has become both a potential target and our greatest defence.",
@@ -1879,6 +1889,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "6e3f1883-e4d6-49d0-bf2d-1dff9e9fd32c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "James Hutton explains how we protect critical NHS services by monitoring for cyber threats 24 hours a day, 7 days a week.\n\r\n\r\nEvery day, cyber criminals are targeting NHS systems that hold some of our most sensitive data - patient records, medical histories, and critical care systems. That's why the Cyber Security Operations Centre (CSOC) runs protective monitoring across the NHS around the clock, watching for threats that could put patient care at risk.\n\r\n\r\nWe see the CSOC as the digital shield to national services. We protect more than 37 million NHS App users and safeguard the integrity of around 60,000 NHS 111 calls every day, ensuring trust, resilience, and uninterrupted care at national scale.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/how-were-protecting-the-nhs-from-cyber-threats-24-7",
+          "publishedOn": "2026-09-02T16:16:22.000Z",
+          "wordCount": null,
+          "title": "How we're protecting the NHS from cyber threats 24/7",
+          "imageUrl": null
+        },
         {
           "id": "9a2e310d-2ca9-4fca-be8d-b0d5a4ff7b2f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
@@ -1987,6 +2007,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/workwell",
+          "author": null,
+          "description": "Information on WorkWell for local systems partnerships.",
+          "link": "https://www.gov.uk/government/publications/workwell",
+          "publishedOn": "2026-09-02T15:15:08.000Z",
+          "wordCount": 1338,
+          "title": "Guidance: WorkWell",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme",
           "author": null,
