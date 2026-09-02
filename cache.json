@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "852835d7-48c7-48ed-ab3f-2ca5d6d5681d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE\n Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE\n Updated: 02 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4840",
+          "publishedOn": "2026-09-02T09:41:00.000Z",
+          "wordCount": null,
+          "title": "CC-4840 - Exploitation of Zero-Day Vulnerabilities in SonicWall SMA1000 Series Appliances",
+          "imageUrl": null
+        },
+        {
           "id": "b0682d4a-5801-4cd2-b494-95454715daff",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.\n Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.\n Updated: 28 Aug 2026",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-02T05:17:47.652Z</updated>
+    <updated>2026-09-02T10:16:59.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4840 - Exploitation of Zero-Day Vulnerabilities in SonicWall SMA1000 Series Appliances]]></title>
+        <id>852835d7-48c7-48ed-ab3f-2ca5d6d5681d</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4840"/>
+        <updated>2026-09-02T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE
+ Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE
+ Updated: 02 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guidance: Adult Social Care Learning and Development Support Scheme: a guide for employers]]></title>
         <id>https://www.gov.uk/government/publications/adult-social-care-learning-and-development-support-scheme</id>
