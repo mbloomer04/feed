@@ -1861,13 +1861,35 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "9a2e310d-2ca9-4fca-be8d-b0d5a4ff7b2f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Dan Taylor explores our vital role in protecting healthcare services from increasingly sophisticated cyber threats.\n\r\n\r\nIn the digital landscape of modern healthcare, cyber criminals lurk in the shadows, waiting to strike at the heart of our most vital services. As someone who leads the fight against these threats from within NHS England's Cyber Security Operations Centre (CSOC), I've seen first-hand how cyber threats have evolved – and why every single person working in the NHS has become both a potential target and our greatest defence.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/protecting-the-nhs-from-cyber-threats-intelligence-at-the-frontline",
+          "publishedOn": "2026-09-02T11:45:47.000Z",
+          "wordCount": null,
+          "title": "Protecting the NHS from cyber threats: Intelligence at the frontline",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "9a2e310d-2ca9-4fca-be8d-b0d5a4ff7b2f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Dan Taylor explores our vital role in protecting healthcare services from increasingly sophisticated cyber threats.\n\r\n\r\nIn the digital landscape of modern healthcare, cyber criminals lurk in the shadows, waiting to strike at the heart of our most vital services. As someone who leads the fight against these threats from within NHS England's Cyber Security Operations Centre (CSOC), I've seen first-hand how cyber threats have evolved – and why every single person working in the NHS has become both a potential target and our greatest defence.",
+          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/protecting-the-nhs-from-cyber-threats-intelligence-at-the-frontline",
+          "publishedOn": "2026-09-02T11:45:47.000Z",
+          "wordCount": null,
+          "title": "Protecting the NHS from cyber threats: Intelligence at the frontline",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tech Talk Feed",
