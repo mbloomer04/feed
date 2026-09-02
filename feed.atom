@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-01T22:14:04.130Z</updated>
+    <updated>2026-09-02T00:42:33.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -207,6 +207,16 @@
         <link href="https://www.gov.uk/government/publications/intellectual-property-ip-guidance-for-the-nhs-in-england"/>
         <updated>2026-08-24T07:44:45.000Z</updated>
         <summary type="html"><![CDATA[This guidance provides practical steps, good practice principles, case studies and model agreements and templates to support effective IP management in the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: Department of Health and Social Care record of processing activity (RoPA)]]></title>
+        <id>https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa</id>
+        <link href="https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa"/>
+        <updated>2026-08-21T15:33:35.000Z</updated>
+        <summary type="html"><![CDATA[The record of processing activity lists the personal data being held and processed by the Department of Health and Social Care (DHSC) in the UK.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
@@ -702,19 +712,6 @@
         <summary type="html"><![CDATA[June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4823 - Active Exploitation of Critical N-central Authentication Bypass Vulnerability]]></title>
-        <id>f461d4db-193d-4af3-8efd-41709cc84b8f</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4823"/>
-        <updated>2026-08-03T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover
- Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover
- Updated: 03 Aug 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

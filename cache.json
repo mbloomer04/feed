@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4824 - Cisco Releases IOS XE Software Security Hardening Guidance",
           "imageUrl": null
-        },
-        {
-          "id": "f461d4db-193d-4af3-8efd-41709cc84b8f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover\n Exploitation of CVE-2026-18577 could allow an attacker to bypass authentication and lead to administrative account takeover\n Updated: 03 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4823",
-          "publishedOn": "2026-08-03T11:17:00.000Z",
-          "wordCount": null,
-          "title": "CC-4823 - Active Exploitation of Critical N-central Authentication Bypass Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -2073,6 +2063,16 @@
           "publishedOn": "2026-08-24T07:44:45.000Z",
           "wordCount": 1188,
           "title": "Guidance: Intellectual property (IP) guidance for the NHS in England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa",
+          "author": null,
+          "description": "The record of processing activity lists the personal data being held and processed by the Department of Health and Social Care (DHSC) in the UK.",
+          "link": "https://www.gov.uk/government/publications/department-of-health-and-social-care-record-of-processing-activity-ropa",
+          "publishedOn": "2026-08-21T15:33:35.000Z",
+          "wordCount": 1207,
+          "title": "Transparency data: Department of Health and Social Care record of processing activity (RoPA)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
