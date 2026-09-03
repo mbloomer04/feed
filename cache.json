@@ -6,6 +6,36 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "61bd672d-f121-4fbf-a441-202d50a4f610",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Updated: 03 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4843",
+          "publishedOn": "2026-09-03T13:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4843 - Cisco Releases Security Updates for Cisco NX-OS Software",
+          "imageUrl": null
+        },
+        {
+          "id": "4798dda7-74dd-4bdb-8f8c-07efd08fc1fc",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting Cisco IOS XR deployments\n The critical advisory addresses multiple vulnerability classes affecting Cisco IOS XR deployments\n Updated: 03 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4842",
+          "publishedOn": "2026-09-03T13:58:00.000Z",
+          "wordCount": null,
+          "title": "CC-4842 - Cisco Releases IOS XR Software Security Hardening Guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "42061224-87f2-40fe-bc57-221d2e77e8ef",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security advisory addresses vulnerabilities that could lead to arbitrary code execution on a host system from an affected virtual machine\n Security advisory addresses vulnerabilities that could lead to arbitrary code execution on a host system from an affected virtual machine\n Updated: 03 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4841",
+          "publishedOn": "2026-09-03T13:57:00.000Z",
+          "wordCount": null,
+          "title": "CC-4841 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware Workstation and VMware Fusion",
+          "imageUrl": null
+        },
+        {
           "id": "852835d7-48c7-48ed-ab3f-2ca5d6d5681d",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE\n Two zero-day vulnerabilities could be chained together to allow an unauthenticated attacker to perform RCE\n Updated: 02 Sep 2026",
@@ -1940,6 +1970,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=292812",
+          "author": "rwootton",
+          "description": "Almost a quarter of a million young people have had potentially life-saving protection against MenB (meningococcal B), as the NHS urges them to “get fully shielded” with a vital second dose before university courses begin later this month.  Figures published today show that since the vaccination programme began on 20 July 2026, 246,089* doses of the […]",
+          "link": "https://www.england.nhs.uk/2026/09/nhs-delivers-almost-a-quarter-of-a-million-menb-jabs-to-young-people-ahead-of-university-year/",
+          "publishedOn": "2026-09-03T12:14:47.000Z",
+          "wordCount": 1278,
+          "title": "NHS delivers almost a quarter of a million MenB jabs to young people ahead of university year",
+          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
+        },
         {
           "id": "https://www.england.nhs.uk/?p=292642",
           "author": "jboshell",
