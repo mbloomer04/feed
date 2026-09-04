@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-04T10:22:24.296Z</updated>
+    <updated>2026-09-04T14:39:00.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why linking data effectively is crucial for analysing clinical trial outcomes]]></title>
+        <id>c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63</id>
+        <link href="https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/why-linking-data-effectively-is-crucial-for-analysing-clinical-trial-outcomes"/>
+        <updated>2026-09-04T12:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4844 - Google Releases Security Update for Chrome]]></title>
+        <id>9e33a3aa-60dc-453c-bd56-66ac1f273283</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4844"/>
+        <updated>2026-09-04T12:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)
+ Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)
+ Updated: 04 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4843 - Cisco Releases Security Updates for Cisco NX-OS Software]]></title>
         <id>61bd672d-f121-4fbf-a441-202d50a4f610</id>

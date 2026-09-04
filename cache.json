@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9e33a3aa-60dc-453c-bd56-66ac1f273283",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updated: 04 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4844",
+          "publishedOn": "2026-09-04T12:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4844 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "61bd672d-f121-4fbf-a441-202d50a4f610",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Updated: 03 Sep 2026",
@@ -1892,6 +1902,16 @@
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
+        {
+          "id": "c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.",
+          "link": "https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/why-linking-data-effectively-is-crucial-for-analysing-clinical-trial-outcomes",
+          "publishedOn": "2026-09-04T12:56:59.000Z",
+          "wordCount": null,
+          "title": "Why linking data effectively is crucial for analysing clinical trial outcomes",
+          "imageUrl": null
+        },
         {
           "id": "6e3f1883-e4d6-49d0-bf2d-1dff9e9fd32c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
