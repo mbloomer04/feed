@@ -194,26 +194,6 @@
           "wordCount": null,
           "title": "CC-4826 - JetBrains Releases Security Advisory for Critical Vulnerability CVE-2026-63077",
           "imageUrl": null
-        },
-        {
-          "id": "2a9b442c-a1a4-4cf6-b5f5-c460644449b2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The advisory addresses multiple vulnerability classes affecting Cisco Catalyst SD-WAN deployments across on-premises, cloud-managed, and government environments\n The update addresses multiple vulnerability classes affecting Cisco Catalyst SD-WAN deployments across on-premises, cloud-managed, and government environments\n Updated: 06 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4825",
-          "publishedOn": "2026-08-06T15:04:00.000Z",
-          "wordCount": null,
-          "title": "CC-4825 - Cisco Releases Catalyst SD-WAN Software Security Hardening Guidance",
-          "imageUrl": null
-        },
-        {
-          "id": "824c6c85-9e48-42a8-abe9-03eb66bc44e8",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting Cisco Catalyst IOS XE deployments\n The critical advisory addresses multiple vulnerability classes affecting Cisco Catalyst IOS XE deployments\n Updated: 06 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4824",
-          "publishedOn": "2026-08-06T15:04:00.000Z",
-          "wordCount": null,
-          "title": "CC-4824 - Cisco Releases IOS XE Software Security Hardening Guidance",
-          "imageUrl": null
         }
       ]
     },
@@ -2445,16 +2425,6 @@
           "publishedOn": "2026-08-07T13:09:52.000Z",
           "wordCount": 3945,
           "title": "Guidance: Medicines that you cannot export from the UK or hoard",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
-          "author": null,
-          "description": "The Healthcare Goals programme brings together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
-          "link": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
-          "publishedOn": "2026-08-06T14:31:04.000Z",
-          "wordCount": 1245,
-          "title": "Notice: Life Sciences Healthcare Goals",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
