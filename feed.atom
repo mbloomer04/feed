@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-05T22:31:07.782Z</updated>
+    <updated>2026-09-06T00:25:42.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -756,19 +756,6 @@ In the digital landscape of modern healthcare, cyber criminals lurk in the shado
         <summary type="html"><![CDATA[Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4826 - JetBrains Releases Security Advisory for Critical Vulnerability CVE-2026-63077]]></title>
-        <id>c8e72212-2241-4e24-a07d-75d9d13cbe2c</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4826"/>
-        <updated>2026-08-07T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers
- Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers
- Updated: 07 Aug 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

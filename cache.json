@@ -184,16 +184,6 @@
           "wordCount": null,
           "title": "CC-4827 - WordPress Releases Security Updates to Address \"XSS2Shell\" Vulnerability Chain",
           "imageUrl": null
-        },
-        {
-          "id": "c8e72212-2241-4e24-a07d-75d9d13cbe2c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers\n Exploitation of CVE-2026-63077 could allow unauthenticated remote code execution on vulnerable TeamCity On-Premises servers\n Updated: 07 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4826",
-          "publishedOn": "2026-08-07T11:39:00.000Z",
-          "wordCount": null,
-          "title": "CC-4826 - JetBrains Releases Security Advisory for Critical Vulnerability CVE-2026-63077",
-          "imageUrl": null
         }
       ]
     },
