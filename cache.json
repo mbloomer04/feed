@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cddfc735-5de0-4dd9-b197-684895398872",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution\n Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution\n Updated: 07 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4845",
+          "publishedOn": "2026-09-07T14:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4845 - Active Exploitation of Critical N-central Unauthenticated RCE Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "9e33a3aa-60dc-453c-bd56-66ac1f273283",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updated: 04 Sep 2026",
@@ -2027,6 +2037,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display",
+          "author": null,
+          "description": "Proposals for regulating tobacco, vaping and nicotine product packaging, device appearance and retail displays, to implement the Tobacco and Vapes Act.",
+          "link": "https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display",
+          "publishedOn": "2026-09-07T11:19:04.000Z",
+          "wordCount": 1399,
+          "title": "Tobacco and vapes: packaging, appearance and display",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-provider-statistics-england-quarterly-update-to-august-2026",
           "author": null,

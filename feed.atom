@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-07T11:10:15.906Z</updated>
+    <updated>2026-09-07T16:56:50.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4845 - Active Exploitation of Critical N-central Unauthenticated RCE Vulnerability]]></title>
+        <id>cddfc735-5de0-4dd9-b197-684895398872</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4845"/>
+        <updated>2026-09-07T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution
+ Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution
+ Updated: 07 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobacco and vapes: packaging, appearance and display]]></title>
+        <id>https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display</id>
+        <link href="https://www.gov.uk/government/consultations/tobacco-and-vapes-packaging-appearance-and-display"/>
+        <updated>2026-09-07T11:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Proposals for regulating tobacco, vaping and nicotine product packaging, device appearance and retail displays, to implement the Tobacco and Vapes Act.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why linking data effectively is crucial for analysing clinical trial outcomes]]></title>
         <id>c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63</id>
