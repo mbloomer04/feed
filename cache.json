@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "5941bb9c-7270-484d-b436-94774c8384ba",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 974 vulnerabilities, including 2 zero-day vulnerabilities\n Scheduled updates for Microsoft products address 974 vulnerabilities, including 2 zero-day vulnerabilities\n Updated: 09 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4846",
+          "publishedOn": "2026-09-09T09:55:00.000Z",
+          "wordCount": null,
+          "title": "CC-4846 - Microsoft Releases September 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "cddfc735-5de0-4dd9-b197-684895398872",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution\n Successful exploitation of CVE-2026-86218 could allow an unauthenticated attacker to perform remote code execution\n Updated: 07 Sep 2026",
