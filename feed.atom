@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-10T12:32:48.213Z</updated>
+    <updated>2026-09-10T16:47:34.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026]]></title>
+        <id>https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026</id>
+        <link href="https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026"/>
+        <updated>2026-09-10T16:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4849 - Check Point Releases Security Advisory for Critical Vulnerability in Security Gateway]]></title>
+        <id>558e33e9-6a10-424d-bc4c-e1006db6be4c</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4849"/>
+        <updated>2026-09-10T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device
+ Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device
+ Updated: 10 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major expansion of community mental health support across England]]></title>
+        <id>https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england</id>
+        <link href="https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england"/>
+        <updated>2026-09-10T13:27:33.000Z</updated>
+        <summary type="html"><![CDATA[£343 million plan will open 159 NHS mental health centres in England, giving people earlier local support and specialist crisis care outside A&E.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Busiest summer ever for NHS but A&Es see record numbers within four hours]]></title>
         <id>https://www.england.nhs.uk/?p=292942</id>

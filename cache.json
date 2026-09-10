@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "558e33e9-6a10-424d-bc4c-e1006db6be4c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Updated: 10 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4849",
+          "publishedOn": "2026-09-10T13:59:00.000Z",
+          "wordCount": null,
+          "title": "CC-4849 - Check Point Releases Security Advisory for Critical Vulnerability in Security Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "17c9f162-4734-437a-be79-71c75993e44f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-84869 may allow unauthorised file transfer and execution through an active ScreenConnect remote session\n Successful exploitation of CVE-2026-84869 may allow unauthorised file transfer and execution through an active ScreenConnect remote session\n Updated: 09 Sep 2026",
@@ -2067,6 +2077,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
+          "publishedOn": "2026-09-10T16:26:03.000Z",
+          "wordCount": 1046,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england",
+          "author": null,
+          "description": "£343 million plan will open 159 NHS mental health centres in England, giving people earlier local support and specialist crisis care outside A&E.",
+          "link": "https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england",
+          "publishedOn": "2026-09-10T13:27:33.000Z",
+          "wordCount": 4992,
+          "title": "Major expansion of community mental health support across England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/health-bill-promoting-visiting-impact-assessment",
           "author": null,
