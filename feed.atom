@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-10T02:21:35.213Z</updated>
+    <updated>2026-09-10T07:41:33.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patients to get quicker treatment for migraines, acne and 3 other everyday conditions at pharmacies]]></title>
+        <id>https://www.england.nhs.uk/?p=292921</id>
+        <link href="https://www.england.nhs.uk/2026/09/patients-to-get-quicker-treatment-for-migraines-acne-and-3-other-everyday-conditions-at-pharmacies/"/>
+        <updated>2026-09-09T23:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Patients will be able to get quicker, more convenient treatment for migraines, acne and 3 other everyday conditions at hundreds of pharmacies in England from autumn, without needing to see their GP first. People will be able to walk into their participating high street pharmacy and get on-the-spot treatment for acne, migraines, scabies, ear infections […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact assessment: Health Bill: promoting visiting - impact assessment]]></title>
         <id>https://www.gov.uk/government/publications/health-bill-promoting-visiting-impact-assessment</id>
@@ -930,19 +940,6 @@ In the digital landscape of modern healthcare, cyber criminals lurk in the shado
  When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server
  When chained together, CVE-2026-55040 and CVE-2026-63520 could lead to unauthenticated remote code execution against a vulnerable SharePoint server
  Updated: 12 Aug 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4828 - Docker Releases Security Updates for Docker Copy Functionality]]></title>
-        <id>11aec5d5-d63e-4420-9804-af7ab62ab969</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4828"/>
-        <updated>2026-08-11T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands
- CVE-2026-17106 could allow arbitrary file overwrite and potential code execution on systems running Docker commands.
- Updated: 11 Aug 2026]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
