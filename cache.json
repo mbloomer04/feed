@@ -184,16 +184,6 @@
           "wordCount": null,
           "title": "CC-4832 - Proof-of-Concept Exploit Released for Citrix NetScaler ADC and NetScaler Gateway Vulnerability",
           "imageUrl": null
-        },
-        {
-          "id": "950043a9-85ea-4feb-b8f1-4533e6227d2e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n CVE-2026-20349 could allow unauthenticated remote attackers to trigger a denial-of-service condition on affected devices.\n Updated: 12 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4831",
-          "publishedOn": "2026-08-12T13:07:00.000Z",
-          "wordCount": null,
-          "title": "CC-4831 - Cisco Releases Security Updates for Secure Firewall ASA and Secure Firewall FTD Software",
-          "imageUrl": null
         }
       ]
     },
@@ -2605,16 +2595,6 @@
           "publishedOn": "2026-08-12T23:01:05.000Z",
           "wordCount": 1115,
           "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department of Health and Social Care",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
-          "author": null,
-          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
-          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
-          "publishedOn": "2026-08-12T15:40:28.000Z",
-          "wordCount": 969,
-          "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
