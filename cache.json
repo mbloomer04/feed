@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "8f829330-b4d1-4ff0-b094-620724e939bb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-0310 may allow denial of service or root-level arbitrary code execution\n Successful exploitation of CVE-2026-0310 may allow denial of service or root-level arbitrary code execution\n Updated: 11 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4850",
+          "publishedOn": "2026-09-11T09:49:00.000Z",
+          "wordCount": null,
+          "title": "CC-4850 - Palo Alto Networks Releases Security Advisory for PAN-OS",
+          "imageUrl": null
+        },
+        {
           "id": "558e33e9-6a10-424d-bc4c-e1006db6be4c",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Updated: 10 Sep 2026",
@@ -2047,6 +2057,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/estates-safety-fund-initial-schemes-and-associated-funding-allocations-2026-to-2030",
+          "author": null,
+          "description": "A list of funding allocations from the Estates Safety Fund to address critical infrastructure and safety risks in NHS hospital buildings.",
+          "link": "https://www.gov.uk/government/publications/estates-safety-fund-initial-schemes-and-associated-funding-allocations-2026-to-2030",
+          "publishedOn": "2026-09-11T09:54:19.000Z",
+          "wordCount": 1348,
+          "title": "Guidance: Estates Safety Fund: initial schemes and associated funding allocations, 2026 to 2030",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2025-to-march-2026",
           "author": null,
