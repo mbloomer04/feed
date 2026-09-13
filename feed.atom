@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-12T23:37:16.462Z</updated>
+    <updated>2026-09-13T02:21:57.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -896,19 +896,6 @@ In the digital landscape of modern healthcare, cyber criminals lurk in the shado
         <summary type="html"><![CDATA[The NHS is urging millions of people to book their flu jab from today as the health service starts winter preparations earlier than ever. From today, the national booking system is open so eligible people, including pregnant women and children, can pre-book their flu vaccinations when vaccinations start on 1 September. The NHS wants to […]]]></summary>
         <author>
             <name>rwootton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4832 - Proof-of-Concept Exploit Released for Citrix NetScaler ADC and NetScaler Gateway Vulnerability]]></title>
-        <id>5d49826c-c61d-4098-af58-9defa818925d</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4832"/>
-        <updated>2026-08-14T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)
- Security researchers have demonstrated that CVE-2026-8452 could lead to remote code execution (RCE)
- Updated: 14 Aug 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
