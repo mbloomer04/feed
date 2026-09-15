@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-15T14:02:19.555Z</updated>
+    <updated>2026-09-15T18:37:16.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government response to the Thirlwall Inquiry]]></title>
+        <id>https://www.gov.uk/government/speeches/government-response-to-the-thirlwall-inquiry</id>
+        <link href="https://www.gov.uk/government/speeches/government-response-to-the-thirlwall-inquiry"/>
+        <updated>2026-09-15T16:29:01.000Z</updated>
+        <summary type="html"><![CDATA[The Secretary of State has apologised to families and set out urgent action following the Thirlwall Inquiry’s findings, published on 15 September.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government to act on Thirlwall patient safety recommendations]]></title>
+        <id>https://www.gov.uk/government/news/government-to-act-on-thirlwall-patient-safety-recommendations</id>
+        <link href="https://www.gov.uk/government/news/government-to-act-on-thirlwall-patient-safety-recommendations"/>
+        <updated>2026-09-15T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[The government outlines plans to strengthen NHS safeguarding, accountability and neonatal safety, including work on cot cams.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4851 - Cisco Releases Security Advisory for Critical SQL Injection Vulnerability in Secure Email Gateway]]></title>
         <id>373158e9-7043-43ca-8cef-a946cee6a3f7</id>

@@ -2048,6 +2048,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/speeches/government-response-to-the-thirlwall-inquiry",
+          "author": null,
+          "description": "The Secretary of State has apologised to families and set out urgent action following the Thirlwall Inquiry’s findings, published on 15 September.",
+          "link": "https://www.gov.uk/government/speeches/government-response-to-the-thirlwall-inquiry",
+          "publishedOn": "2026-09-15T16:29:01.000Z",
+          "wordCount": 4474,
+          "title": "Government response to the Thirlwall Inquiry",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/government-to-act-on-thirlwall-patient-safety-recommendations",
+          "author": null,
+          "description": "The government outlines plans to strengthen NHS safeguarding, accountability and neonatal safety, including work on cot cams.",
+          "link": "https://www.gov.uk/government/news/government-to-act-on-thirlwall-patient-safety-recommendations",
+          "publishedOn": "2026-09-15T16:20:46.000Z",
+          "wordCount": 1972,
+          "title": "Government to act on Thirlwall patient safety recommendations",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/national-cancer-plan-for-england",
           "author": null,
           "description": "Details the government’s plan to transform cancer care and outcomes in England by 2035.",
