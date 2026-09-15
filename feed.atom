@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-15T08:14:27.484Z</updated>
+    <updated>2026-09-15T14:02:19.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4851 - Cisco Releases Security Advisory for Critical SQL Injection Vulnerability in Secure Email Gateway]]></title>
+        <id>373158e9-7043-43ca-8cef-a946cee6a3f7</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4851"/>
+        <updated>2026-09-15T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-76461 could allow an unauthenticated remote attacker to obtain root-level command execution on affected gateways
+ Successful exploitation of CVE-2026-76461 could allow an unauthenticated remote attacker to obtain root-level command execution on affected gateways
+ Updated: 15 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: National Cancer Plan for England]]></title>
+        <id>https://www.gov.uk/government/publications/national-cancer-plan-for-england</id>
+        <link href="https://www.gov.uk/government/publications/national-cancer-plan-for-england"/>
+        <updated>2026-09-15T13:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Details the government’s plan to transform cancer care and outcomes in England by 2035.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Thirlwall Inquiry report]]></title>
+        <id>https://www.gov.uk/government/publications/thirlwall-inquiry-report</id>
+        <link href="https://www.gov.uk/government/publications/thirlwall-inquiry-report"/>
+        <updated>2026-09-15T11:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Report and recommendations of the public inquiry established to examine the events at the Countess of Chester Hospital from 2015 to 2018.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: UK government response to the Covid-19 Inquiry Module 3 report]]></title>
         <id>https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-3-report</id>
