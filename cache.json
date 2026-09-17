@@ -6,6 +6,36 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "08c78754-c6a9-41e0-9165-bfae61053217",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Cisco reports exploitation of CVE-2026-20079 which could allow a remote attacker to bypass authentication\n Cisco reports exploitation of CVE-2026-20079 which could allow a remote attacker to bypass authentication\n Updated: 17 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4855",
+          "publishedOn": "2026-09-17T13:55:00.000Z",
+          "wordCount": null,
+          "title": "CC-4855 - Critical Vulnerability in Cisco Secure Firewall Management Center Under Exploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "35f6f4ea-e4a8-4910-b979-c27db6718a79",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-91843 could allow unauthenticated remote code execution with root privileges on affected Check Point management systems\n CVE-2026-91843 could allow unauthenticated remote code execution with root privileges on affected Check Point management systems\n Updated: 17 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4854",
+          "publishedOn": "2026-09-17T13:27:00.000Z",
+          "wordCount": null,
+          "title": "CC-4854 - Check Point Releases Security Advisory for Critical Vulnerability in Security Management and Log Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "c3a3e84a-1db2-46b7-86b8-699a8e7cdc45",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76460 could allow a remote attacker to bypass authentication by sending a crafted request to an affected API endpoint\n Successful exploitation of CVE-2026-76460 could allow a remote attacker to bypass authentication by sending a crafted request to an affected API endpoint\n Updated: 17 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4853",
+          "publishedOn": "2026-09-17T13:01:00.000Z",
+          "wordCount": null,
+          "title": "CC-4853 - Critical Authentication Bypass Vulnerability in Cisco Identity Services Engine (ISE) Under Exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "2af07895-dcdb-40cd-af16-60a8f08b099f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 673 security updates across multiple Oracle product families\n Scheduled advisory includes 673 security updates across multiple Oracle product families\n Updated: 16 Sep 2026",
@@ -2047,6 +2077,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/chair-appointed-to-lead-tees-esk-and-wear-valleys-trust-inquiry",
+          "author": null,
+          "description": "Chair to the public inquiry into mental health care at Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) appointed",
+          "link": "https://www.gov.uk/government/news/chair-appointed-to-lead-tees-esk-and-wear-valleys-trust-inquiry",
+          "publishedOn": "2026-09-17T13:04:23.000Z",
+          "wordCount": 1790,
+          "title": "Chair appointed to lead Tees, Esk and Wear Valleys Trust inquiry",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/childrens-public-health-nursing-workforce-and-activity-2025",
+          "author": null,
+          "description": "Official statistics in development on healthy child programme activity, school nursing services and associated workforces in England in 2025.",
+          "link": "https://www.gov.uk/government/statistics/childrens-public-health-nursing-workforce-and-activity-2025",
+          "publishedOn": "2026-09-17T10:26:17.000Z",
+          "wordCount": 1038,
+          "title": "Official Statistics: Children’s public health nursing: workforce and activity, 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+          "author": null,
+          "description": "Annual statistics on the size and composition of the life sciences sector in the UK. These statistics are designated as 'official statistics in development'.",
+          "link": "https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+          "publishedOn": "2026-09-17T08:30:07.000Z",
+          "wordCount": 1317,
+          "title": "Official Statistics: Bioscience and health technology sector statistics 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/six-neighbourhood-health-trailblazers-to-transform-care",
           "author": null,
