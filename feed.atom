@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-18T07:48:35.751Z</updated>
+    <updated>2026-09-18T12:32:46.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -197,6 +197,16 @@
         <link href="https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-3-report"/>
         <updated>2026-09-14T14:36:34.000Z</updated>
         <summary type="html"><![CDATA[The UK government response to the UK Covid-19 Inquiry Module 3 report on the impact of the pandemic on healthcare systems in the 4 nations of the UK.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[School Food Standards: updating the legislative framework]]></title>
+        <id>https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework</id>
+        <link href="https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework"/>
+        <updated>2026-09-14T09:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Seeking views on updating the School Food Standards, so that every school is supported with the latest nutrition guidance.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
