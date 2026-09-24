@@ -1913,6 +1913,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "55f2f6c6-1a29-4482-98a4-2aa7c59886b6",
+          "author": "enquiries@nhsdigital.nhs.uk (Jonathan Eagle)",
+          "description": "Jonathan Eagle explains how the NHS England API Management team tackled some of the biggest pain points in API development in the NHS – and how a new tool called Proxygen is cutting integration time with the NHS API Platform from weeks to days.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2026/how-were-using-proxygen-to-transform-api-development",
+          "publishedOn": "2026-09-24T09:54:46.000Z",
+          "wordCount": null,
+          "title": "How we're using Proxygen to transform API development",
+          "imageUrl": null
+        },
+        {
           "id": "c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.",
@@ -1975,7 +1985,28 @@
       "title": "Tech Talk Feed",
       "feedUrl": "https://digital.nhs.uk/feed/tech-talk-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "68e89b19-a38b-41cd-8399-83978d93ea77",
+          "author": "enquiries@nhsdigital.nhs.uk (Andy Harrison)",
+          "description": "Most prescriptions are still paper-based in secondary care. Business analyst Andy Harrison describes the technical groundwork we’ve laid to allow these settings to go digital.\n\r\n\r\nThe little green FP10 paper prescriptions have all but disappeared in primary care. 18 years ago, we launched the Electronic Prescription Service (EPS) and it has since become an indispensable tool for primary care teams. Nearly all GP practices use it and about 95% of primary care prescriptions are now sent electronically. Last year, that amounted to 1 billion items dispensed using the service. It’s a safer, faster and more convenient way to prescribe.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2023/how-were-modernising-electronic-prescribing",
+          "publishedOn": "2026-09-24T09:57:02.000Z",
+          "wordCount": null,
+          "title": "How we’re modernising electronic prescribing",
+          "imageUrl": null
+        },
+        {
+          "id": "55f2f6c6-1a29-4482-98a4-2aa7c59886b6",
+          "author": "enquiries@nhsdigital.nhs.uk (Jonathan Eagle)",
+          "description": "Jonathan Eagle explains how the NHS England API Management team tackled some of the biggest pain points in API development in the NHS – and how a new tool called Proxygen is cutting integration time with the NHS API Platform from weeks to days.",
+          "link": "https://digital.nhs.uk/blog/tech-talk/2026/how-were-using-proxygen-to-transform-api-development",
+          "publishedOn": "2026-09-24T09:54:46.000Z",
+          "wordCount": null,
+          "title": "How we're using Proxygen to transform API development",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Inside Story Feed",
@@ -2067,6 +2098,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/ukhsa-priorities-in-2026-to-2027",
+          "author": null,
+          "description": "Letter from Health Minister Dame Diana Johnson MP confirming the UK Health Security Agency’s (UKHSA) role and priorities for the financial year 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/ukhsa-priorities-in-2026-to-2027",
+          "publishedOn": "2026-09-24T08:30:06.000Z",
+          "wordCount": 873,
+          "title": "Correspondence: UKHSA priorities in 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/survey-of-adult-carers-in-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.",
+          "link": "https://www.gov.uk/government/statistics/survey-of-adult-carers-in-england-2025-to-2026-report",
+          "publishedOn": "2026-09-24T08:30:04.000Z",
+          "wordCount": 1545,
+          "title": "Official Statistics: Survey of adult carers in England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/abortion-statistics-user-engagement-plan",
           "author": null,
