@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-25T17:39:44.917Z</updated>
+    <updated>2026-09-25T20:55:22.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS staff suspected of snooping on patient records to be immediately suspended]]></title>
+        <id>https://www.england.nhs.uk/?p=293516</id>
+        <link href="https://www.england.nhs.uk/2026/09/nhs-staff-suspected-snooping-patient-records-immediately-suspended/"/>
+        <updated>2026-09-25T13:36:51.000Z</updated>
+        <summary type="html"><![CDATA[NHS staff suspected of improperly and unlawfully accessing patients’ medical records will face immediate suspension and have their access to NHS computer systems cut off, under a zero-tolerance crackdown on “snooping staff”. NHS England has asked every trust to act immediately when staff are suspected of accessing patient records without proper justification — suspending them […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS pilots rapid genomic test to transform brain tumour diagnosis]]></title>
         <id>https://www.england.nhs.uk/?p=293433</id>
