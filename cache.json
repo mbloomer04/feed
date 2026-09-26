@@ -204,16 +204,6 @@
           "wordCount": null,
           "title": "CC-4838 - PaperCut Releases Emergency Security Updates for Critical Vulnerabilities in PaperCut NG/MF",
           "imageUrl": null
-        },
-        {
-          "id": "2ac3003e-476b-4c2b-83ee-60094ef7a43e",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Multiple critical vulnerabilities could enable command injection, authentication bypass, or privilege escalation across UniFi products\n Multiple critical vulnerabilities could enable command injection, authentication bypass, or privilege escalation across UniFi products\n Updated: 27 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4837",
-          "publishedOn": "2026-08-27T14:42:00.000Z",
-          "wordCount": null,
-          "title": "CC-4837 - Ubiquiti Releases Security Advisory Bulletin for Multiple Critical Vulnerabilities in UniFi Products",
-          "imageUrl": null
         }
       ]
     },
@@ -2826,16 +2816,6 @@
           "publishedOn": "2026-08-27T14:51:26.000Z",
           "wordCount": 1163,
           "title": "Statutory guidance: General Medical Services Statement of Financial Entitlements Directions",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2026",
-          "author": null,
-          "description": "Reports on departmental staff numbers and costs.",
-          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-july-2026",
-          "publishedOn": "2026-08-27T13:48:54.000Z",
-          "wordCount": 781,
-          "title": "Transparency data: DHSC: workforce management information July 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
