@@ -184,26 +184,6 @@
           "wordCount": null,
           "title": "CC-4840 - Exploitation of Zero-Day Vulnerabilities in SonicWall SMA1000 Series Appliances",
           "imageUrl": null
-        },
-        {
-          "id": "b0682d4a-5801-4cd2-b494-95454715daff",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.\n Vulnerabilities could enable an unauthenticated attacker to perform arbitrary code execution, privilege escalation, or SQL injection.\n Updated: 28 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4839",
-          "publishedOn": "2026-08-28T14:07:00.000Z",
-          "wordCount": null,
-          "title": "CC-4839 - ServiceNow Releases Security Advisory for Critical Vulnerabilities in the ServiceNow Now and AI Platforms",
-          "imageUrl": null
-        },
-        {
-          "id": "17c500a2-8a48-4a32-ad8f-53608663c5d0",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-81578 and CVE-2026-82078 may enable configuration modification and code execution on PaperCut NG and PaperCut MF\n CVE-2026-81578 and CVE-2026-82078 may enable configuration modification and code execution on PaperCut NG and PaperCut MF\n Updated: 28 Aug 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4838",
-          "publishedOn": "2026-08-28T14:05:00.000Z",
-          "wordCount": null,
-          "title": "CC-4838 - PaperCut Releases Emergency Security Updates for Critical Vulnerabilities in PaperCut NG/MF",
-          "imageUrl": null
         }
       ]
     },
