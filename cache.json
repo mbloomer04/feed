@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7d7728a0-fc19-4814-88ca-a498363702c4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server\n Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server\n Updated: 28 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4859",
+          "publishedOn": "2026-09-28T12:55:00.000Z",
+          "wordCount": null,
+          "title": "CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660",
+          "imageUrl": null
+        },
+        {
+          "id": "54d9321b-3f1c-4628-a35b-88244b9aa5eb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-88771 & CVE-2026-88772 could allow an unauthenticated attacker to perform remote code execution\n CVE-2026-88771 & CVE-2026-88772 could allow an unauthenticated attacker to perform remote code execution\n Updated: 28 Sep 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4858",
+          "publishedOn": "2026-09-28T09:40:00.000Z",
+          "wordCount": null,
+          "title": "CC-4858 - Exploitation of Zero-Day Vulnerabilities affecting Citrix NetScaler",
+          "imageUrl": null
+        },
+        {
           "id": "5a69929a-4a2b-495b-bde9-f18140de2649",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-94127 may allow unauthenticated remote code execution against affected BIG-IP APM OAuth deployments\n Successful exploitation of CVE-2026-94127 may allow unauthenticated remote code execution against affected BIG-IP APM OAuth deployments\n Updated: 23 Sep 2026",
@@ -1883,6 +1903,16 @@
           "imageUrl": null
         },
         {
+          "id": "41e5ce47-dd09-49aa-ad33-56fd17d6b74c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Adeline describes the lessons learned from the design process of the NHS Healthy Choices Quiz.\n\r\n\r\nAs part of the NHS 10 Year Health Plan, greater emphasis is being placed on prevention and helping people feel more able to improve their own health. Supporting people to build healthier habits in their daily lives could reduce preventable ill health and, over time, ease demand on NHS services.\n\r\n\r\nThe NHS Healthy Choices Quiz is a web-based tool that helps people reflect on 6 areas of their lifestyle: eating, drinking, physical activity, smoking or vaping, mental health and sleep. It provides a personalised score, tailored advice and links to relevant NHS apps, tools and resources, helping people identify a realistic next step towards healthier habits.\n\r\n\r\nThe challenge was not simply a lack of knowledge. Most people already understand what healthier choices look like, yet 83% of adults aged 40 to 60 in 2014 had at least one of 3 major lifestyle risk factors: drinking above recommended guidelines, physical activity, or being overweight or obese. Research with the target audience suggested that healthier living can feel overwhelming or out of reach, and that some people are sceptical about whether digital tools can help someone like them. The opportunity was therefore to create a simple, personalised first step that made healthier change feel achievable.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2026/design-for-understanding-lessons-from-the-nhs-healthy-choices-quiz",
+          "publishedOn": "2026-09-23T15:43:40.000Z",
+          "wordCount": null,
+          "title": "Design for understanding: Lessons from the NHS Healthy Choices Quiz",
+          "imageUrl": null
+        },
+        {
           "id": "c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.",
@@ -1984,7 +2014,18 @@
       "title": "Design Matters Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/design-matters-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "41e5ce47-dd09-49aa-ad33-56fd17d6b74c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Adeline describes the lessons learned from the design process of the NHS Healthy Choices Quiz.\n\r\n\r\nAs part of the NHS 10 Year Health Plan, greater emphasis is being placed on prevention and helping people feel more able to improve their own health. Supporting people to build healthier habits in their daily lives could reduce preventable ill health and, over time, ease demand on NHS services.\n\r\n\r\nThe NHS Healthy Choices Quiz is a web-based tool that helps people reflect on 6 areas of their lifestyle: eating, drinking, physical activity, smoking or vaping, mental health and sleep. It provides a personalised score, tailored advice and links to relevant NHS apps, tools and resources, helping people identify a realistic next step towards healthier habits.\n\r\n\r\nThe challenge was not simply a lack of knowledge. Most people already understand what healthier choices look like, yet 83% of adults aged 40 to 60 in 2014 had at least one of 3 major lifestyle risk factors: drinking above recommended guidelines, physical activity, or being overweight or obese. Research with the target audience suggested that healthier living can feel overwhelming or out of reach, and that some people are sceptical about whether digital tools can help someone like them. The opportunity was therefore to create a simple, personalised first step that made healthier change feel achievable.",
+          "link": "https://digital.nhs.uk/blog/design-matters/2026/design-for-understanding-lessons-from-the-nhs-healthy-choices-quiz",
+          "publishedOn": "2026-09-23T15:43:40.000Z",
+          "wordCount": null,
+          "title": "Design for understanding: Lessons from the NHS Healthy Choices Quiz",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHS England",
@@ -2078,6 +2119,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation",
+          "author": null,
+          "description": "Independent review into Leeds maternity and neonatal care sets out terms of reference for investigation.",
+          "link": "https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation",
+          "publishedOn": "2026-09-28T14:18:37.000Z",
+          "wordCount": 2824,
+          "title": "Leeds review sets out terms of reference for investigation",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference",
+          "author": null,
+          "description": "Terms of reference for the independent investigation into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust.",
+          "link": "https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference",
+          "publishedOn": "2026-09-28T13:17:05.000Z",
+          "wordCount": 1029,
+          "title": "Guidance: Independent review into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust: terms of reference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-survey-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the outcomes and experiences of people aged 18 and over in receipt of long-term adult social care services in England.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-survey-england-2025-to-2026-report",
+          "publishedOn": "2026-09-28T08:22:34.000Z",
+          "wordCount": 674,
+          "title": "Official Statistics: Adult social care survey, England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-april-to-june-2026",
           "author": null,
