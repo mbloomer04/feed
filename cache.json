@@ -2120,6 +2120,106 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/guidance/level-5-award-in-understanding-digital-leadership-in-adult-social-care-qualification",
+          "author": null,
+          "description": "Learn about who is eligible to apply and the benefits the qualification offers for adult social care providers.",
+          "link": "https://www.gov.uk/guidance/level-5-award-in-understanding-digital-leadership-in-adult-social-care-qualification",
+          "publishedOn": "2026-09-29T15:49:54.000Z",
+          "wordCount": 1519,
+          "title": "Level 5 Award in Understanding Digital Leadership in Adult Social Care qualification",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/digital-champions-in-adult-social-care-and-how-to-introduce-them",
+          "author": null,
+          "description": "Guidance for adult social care providers on the role of digital champions, and how to introduce them successfully into your organisation.",
+          "link": "https://www.gov.uk/guidance/digital-champions-in-adult-social-care-and-how-to-introduce-them",
+          "publishedOn": "2026-09-29T15:49:39.000Z",
+          "wordCount": 2386,
+          "title": "Digital champions in adult social care and how to introduce them",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-digital-skills-framework",
+          "author": null,
+          "description": "A resource to help people working in adult social care understand and develop the digital skills they need.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-digital-skills-framework",
+          "publishedOn": "2026-09-29T15:49:21.000Z",
+          "wordCount": 812,
+          "title": "Guidance: Adult social care digital skills framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/using-ai-in-adult-social-care",
+          "author": null,
+          "description": "An introduction to artificial intelligence (AI) in adult social care and best practice for adult social care providers.",
+          "link": "https://www.gov.uk/guidance/using-ai-in-adult-social-care",
+          "publishedOn": "2026-09-29T15:48:57.000Z",
+          "wordCount": 5824,
+          "title": "Using AI in adult social care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/choosing-and-managing-software-and-it-suppliers-as-an-adult-social-care-provider",
+          "author": null,
+          "description": "Guidance for adult social care providers on choosing and managing the right software and IT suppliers for their organisations.",
+          "link": "https://www.gov.uk/guidance/choosing-and-managing-software-and-it-suppliers-as-an-adult-social-care-provider",
+          "publishedOn": "2026-09-29T15:48:40.000Z",
+          "wordCount": 4937,
+          "title": "Choosing and managing software and IT suppliers as an adult social care provider",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/becoming-a-fully-digitised-care-provider",
+          "author": null,
+          "description": "What it means to be a fully digitised care provider, the benefits, and how this links to Care Quality Commission (CQC) ratings and inspections.",
+          "link": "https://www.gov.uk/guidance/becoming-a-fully-digitised-care-provider",
+          "publishedOn": "2026-09-29T15:48:14.000Z",
+          "wordCount": 1908,
+          "title": "Becoming a fully digitised care provider",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/digital-social-care-records-choosing-and-implementing-solutions",
+          "author": null,
+          "description": "Help for adult social care providers when choosing and setting up digital social care records (DSCRs) software.",
+          "link": "https://www.gov.uk/guidance/digital-social-care-records-choosing-and-implementing-solutions",
+          "publishedOn": "2026-09-29T15:47:51.000Z",
+          "wordCount": 4945,
+          "title": "Digital social care records: choosing and implementing solutions",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/setting-up-and-using-secure-email-as-an-adult-social-care-provider",
+          "author": null,
+          "description": "How to set up a secure email service that meets the secure email standard if you provide adult social care.",
+          "link": "https://www.gov.uk/guidance/setting-up-and-using-secure-email-as-an-adult-social-care-provider",
+          "publishedOn": "2026-09-29T15:47:32.000Z",
+          "wordCount": 2348,
+          "title": "Setting up and using secure email as an adult social care provider",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/using-smartphones-and-devices-as-an-adult-social-care-provider",
+          "author": null,
+          "description": "Guidance for adult social care providers on how to use smartphones and other devices to support better care, and how to keep them secure.",
+          "link": "https://www.gov.uk/guidance/using-smartphones-and-devices-as-an-adult-social-care-provider",
+          "publishedOn": "2026-09-29T15:47:10.000Z",
+          "wordCount": 2879,
+          "title": "Using smartphones and devices as an adult social care provider",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/setting-up-your-internet-as-an-adult-social-care-provider",
+          "author": null,
+          "description": "Choose your broadband connection, manage your contract and wifi security, and get ready for the digital phone switchover.",
+          "link": "https://www.gov.uk/guidance/setting-up-your-internet-as-an-adult-social-care-provider",
+          "publishedOn": "2026-09-29T15:46:49.000Z",
+          "wordCount": 5361,
+          "title": "Setting up your internet as an adult social care provider",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
           "author": null,
           "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
