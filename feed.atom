@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-09-30T10:08:06.010Z</updated>
+    <updated>2026-09-30T16:34:18.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support for families and babies rolled out to all family hubs]]></title>
+        <id>https://www.gov.uk/government/news/support-for-families-and-babies-rolled-out-to-all-family-hubs</id>
+        <link href="https://www.gov.uk/government/news/support-for-families-and-babies-rolled-out-to-all-family-hubs"/>
+        <updated>2026-09-30T15:38:30.000Z</updated>
+        <summary type="html"><![CDATA[Government expands Healthy Babies support, boosts adult social care workforce and backs NHS action on violence against women.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route]]></title>
+        <id>https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route</id>
+        <link href="https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route"/>
+        <updated>2026-09-30T14:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Sets out medicines that can be moved to Northern Ireland to meet patient need.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4861 - Critical Zero-Day Vulnerability in Cisco SD-WAN Manager]]></title>
+        <id>53462535-8cf4-415b-87d0-14e9621c8010</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4861"/>
+        <updated>2026-09-30T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-76504 could allow a remote attacker to bypass authentication by sending a crafted HTTP request to the API of the affected system
+ Successful exploitation of CVE-2026-76504 could allow a remote attacker to bypass authentication by sending a crafted HTTP request to the API of the affected system
+ Updated: 30 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: MenB vaccination programme: eligible residential further education settings]]></title>
+        <id>https://www.gov.uk/government/publications/menb-vaccination-eligible-residential-further-education-settings</id>
+        <link href="https://www.gov.uk/government/publications/menb-vaccination-eligible-residential-further-education-settings"/>
+        <updated>2026-09-30T13:51:49.000Z</updated>
+        <summary type="html"><![CDATA[List of residential further education settings whose students may be eligible for the one-off MenB vaccination programme.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Healthcare education and training tariffs: 2026 to 2027]]></title>
+        <id>https://www.gov.uk/government/publications/healthcare-education-and-training-tariffs-2026-to-2027</id>
+        <link href="https://www.gov.uk/government/publications/healthcare-education-and-training-tariffs-2026-to-2027"/>
+        <updated>2026-09-30T13:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Information on the national tariff rates for clinical placements, explaining what they cover, how they’re administered and when they may vary.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statutory guidance: General Medical Services Statement of Financial Entitlements Directions]]></title>
+        <id>https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions</id>
+        <link href="https://www.gov.uk/government/publications/general-medical-services-statement-of-financial-entitlements-directions"/>
+        <updated>2026-09-30T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Directions for the NHS from the Secretary of State for Health and Social Care relating to payments for primary medical services contractors.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: 2026 resident doctors deal: implementation update]]></title>
+        <id>https://www.gov.uk/government/publications/2026-resident-doctors-deal-implementation-update</id>
+        <link href="https://www.gov.uk/government/publications/2026-resident-doctors-deal-implementation-update"/>
+        <updated>2026-09-30T12:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Progress update on the implementation of the 2026 resident doctors deal.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4860 - Apple Releases Security Updates for macOS, iOS, and iPadOS]]></title>
+        <id>453ffaab-3213-45d4-bc7f-bc2ffc154f3a</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4860"/>
+        <updated>2026-09-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ CVE-2026-86950 is under active exploitation and could lead to arbitrary code execution
+ CVE-2026-86950 is under active exploitation and could lead to arbitrary code execution
+ Updated: 30 Sep 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statutory guidance: The Primary Dental Services Statement of Financial Entitlements (Amendment) (No. 4) Directions 2026]]></title>
+        <id>https://www.gov.uk/government/publications/the-primary-dental-services-statement-of-financial-entitlements-amendment-no-4-directions-2026</id>
+        <link href="https://www.gov.uk/government/publications/the-primary-dental-services-statement-of-financial-entitlements-amendment-no-4-directions-2026"/>
+        <updated>2026-09-30T11:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Makes changes to the payments made by NHS England to contractors under dental service contracts with effect from 30 September 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Level 5 Award in Understanding Digital Leadership in Adult Social Care qualification]]></title>
         <id>https://www.gov.uk/guidance/level-5-award-in-understanding-digital-leadership-in-adult-social-care-qualification</id>
@@ -1273,26 +1369,6 @@ In the digital landscape of modern healthcare, cyber criminals lurk in the shado
         <summary type="html"><![CDATA[Official statistics on the number of people receiving adult social care services, and information on adult social care settings.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upfront help cuts placement costs for healthcare students]]></title>
-        <id>https://www.gov.uk/government/news/upfront-help-cuts-placement-costs-for-healthcare-students</id>
-        <link href="https://www.gov.uk/government/news/upfront-help-cuts-placement-costs-for-healthcare-students"/>
-        <updated>2026-08-31T23:05:00.000Z</updated>
-        <summary type="html"><![CDATA[From 2026/27, eligible healthcare students can get travel and accommodation costs upfront, easing financial pressure and supporting rural placements.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS kicks off flu jabs for children and pregnant women ahead of winter]]></title>
-        <id>https://www.england.nhs.uk/?p=292642</id>
-        <link href="https://www.england.nhs.uk/2026/09/nhs-kicks-off-flu-jabs-for-children-and-pregnant-women-ahead-of-winter/"/>
-        <updated>2026-08-31T23:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Millions of children and pregnant women can get their flu vaccinations from today, as the NHS rolls out the first phase of its flu programme to protect families ahead of winter. NHS teams are making it as easy as possible for people to get protected, including taking vaccines out into local communities, delivering them in […]]]></summary>
-        <author>
-            <name>jboshell</name>
         </author>
     </entry>
     <entry>
