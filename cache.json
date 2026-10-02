@@ -2002,6 +2002,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=293771",
+          "author": "jboshell",
+          "description": "Tens of thousands of people experiencing homelessness can now get vital protection from potentially serious winter viruses with a free NHS vaccine. From this week, NHS teams and charity partners will offer crucial flu and pneumococcal disease vaccines for people sleeping rough or using homeless hostels or night-shelters as part of a new national programme. […]",
+          "link": "https://www.england.nhs.uk/2026/10/nhs-protects-thousands-of-rough-sleepers-ahead-of-winter-with-vital-vaccines/",
+          "publishedOn": "2026-10-01T23:01:04.000Z",
+          "wordCount": null,
+          "title": "NHS protects thousands of rough sleepers ahead of winter with vital vaccines",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=293516",
           "author": "Tom W",
           "description": "NHS staff suspected of improperly and unlawfully accessing patients’ medical records will face immediate suspension and have their access to NHS computer systems cut off, under a zero-tolerance crackdown on “snooping staff”. NHS England has asked every trust to act immediately when staff are suspected of accessing patient records without proper justification — suspending them […]",
@@ -2068,6 +2078,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "Sets out the government’s 10-year strategic vision for the health and care system to reduce premature deaths from heart disease and stroke in England.",
+          "link": "https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-10-02T14:30:04.000Z",
+          "wordCount": 1124,
+          "title": "Policy paper: Cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "Sets out supporting evidence to supplement the cardiovascular disease modern service framework.",
+          "link": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-10-02T14:30:04.000Z",
+          "wordCount": 1049,
+          "title": "Research: Technical annex: cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/equality-impact-assessment-cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "The equality impact assessment accompanies the publication of the cardiovascular disease modern service framework.",
+          "link": "https://www.gov.uk/government/publications/equality-impact-assessment-cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-10-02T14:30:04.000Z",
+          "wordCount": 843,
+          "title": "Impact assessment: Equality impact assessment: cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/air-pollution-awareness-coalition-apac",
+          "author": null,
+          "description": "The Air Pollution Awareness Coalition (APAC) is a cross-sector coalition to improve public understanding of air pollution and support action to reduce harm.",
+          "link": "https://www.gov.uk/government/publications/air-pollution-awareness-coalition-apac",
+          "publishedOn": "2026-10-02T12:47:05.000Z",
+          "wordCount": 1205,
+          "title": "Policy paper: Air Pollution Awareness Coalition (APAC)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries",
+          "author": null,
+          "description": "How UK citizens or residents can get healthcare when visiting countries or territories outside the EU where the UK has reciprocal healthcare agreements.",
+          "link": "https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries",
+          "publishedOn": "2026-10-02T11:13:36.000Z",
+          "wordCount": 5395,
+          "title": "UK reciprocal healthcare agreements with non-EU countries",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
           "author": null,
