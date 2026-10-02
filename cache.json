@@ -1931,16 +1931,6 @@
           "wordCount": null,
           "title": "Why linking data effectively is crucial for analysing clinical trial outcomes",
           "imageUrl": null
-        },
-        {
-          "id": "6e3f1883-e4d6-49d0-bf2d-1dff9e9fd32c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "James Hutton explains how we protect critical NHS services by monitoring for cyber threats 24 hours a day, 7 days a week.\n\r\n\r\nEvery day, cyber criminals are targeting NHS systems that hold some of our most sensitive data - patient records, medical histories, and critical care systems. That's why the Cyber Security Operations Centre (CSOC) runs protective monitoring across the NHS around the clock, watching for threats that could put patient care at risk.\n\r\n\r\nWe see the CSOC as the digital shield to national services. We protect more than 37 million NHS App users and safeguard the integrity of around 60,000 NHS 111 calls every day, ensuring trust, resilience, and uninterrupted care at national scale.",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/how-were-protecting-the-nhs-from-cyber-threats-24-7",
-          "publishedOn": "2026-09-02T16:16:22.000Z",
-          "wordCount": null,
-          "title": "How we're protecting the NHS from cyber threats 24/7",
-          "imageUrl": null
         }
       ]
     },
@@ -1948,18 +1938,7 @@
       "title": "Transformation Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/transformation-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": [
-        {
-          "id": "6e3f1883-e4d6-49d0-bf2d-1dff9e9fd32c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "James Hutton explains how we protect critical NHS services by monitoring for cyber threats 24 hours a day, 7 days a week.\n\r\n\r\nEvery day, cyber criminals are targeting NHS systems that hold some of our most sensitive data - patient records, medical histories, and critical care systems. That's why the Cyber Security Operations Centre (CSOC) runs protective monitoring across the NHS around the clock, watching for threats that could put patient care at risk.\n\r\n\r\nWe see the CSOC as the digital shield to national services. We protect more than 37 million NHS App users and safeguard the integrity of around 60,000 NHS 111 calls every day, ensuring trust, resilience, and uninterrupted care at national scale.",
-          "link": "https://digital.nhs.uk/blog/transformation-blog/2026/how-were-protecting-the-nhs-from-cyber-threats-24-7",
-          "publishedOn": "2026-09-02T16:16:22.000Z",
-          "wordCount": null,
-          "title": "How we're protecting the NHS from cyber threats 24/7",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tech Talk Feed",
@@ -2089,6 +2068,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "author": null,
+          "description": "The public health grant allocations and monetary conditions for local authorities to improve health in local populations.",
+          "link": "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027",
+          "publishedOn": "2026-10-02T10:00:00.000Z",
+          "wordCount": 1136,
+          "title": "Guidance: Public health grants to local authorities: 2026 to 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/ring-fenced-public-health-grant-to-local-authorities",
+          "author": null,
+          "description": "Local authorities in England must have regard to this statutory guidance when planning expenditure from the ring-fenced public health grant.",
+          "link": "https://www.gov.uk/government/publications/ring-fenced-public-health-grant-to-local-authorities",
+          "publishedOn": "2026-10-02T10:00:00.000Z",
+          "wordCount": 1065,
+          "title": "Statutory guidance: Ring-fenced public health grant to local authorities",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards",
+          "author": null,
+          "description": "This guidance explains how local authorities should give healthcare public health advice to integrated care boards.",
+          "link": "https://www.gov.uk/government/publications/providing-healthcare-public-health-advice-to-integrated-care-boards",
+          "publishedOn": "2026-10-02T10:00:00.000Z",
+          "wordCount": 943,
+          "title": "Guidance: Providing healthcare public health advice to integrated care boards",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nutrient-analysis-of-beef",
+          "author": null,
+          "description": "An analysis of fresh beef cuts bought in the UK in 2024, to measure their macronutrient, mineral and vitamin content.",
+          "link": "https://www.gov.uk/government/publications/nutrient-analysis-of-beef",
+          "publishedOn": "2026-10-02T09:00:04.000Z",
+          "wordCount": 1020,
+          "title": "Research: Nutrient analysis of beef",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/safeguarding-children-affected-by-a-parents-alcohol-or-drug-use",
           "author": null,
@@ -3007,16 +3026,6 @@
           "publishedOn": "2026-09-03T08:30:07.000Z",
           "wordCount": 998,
           "title": "Guidance: Adult social care provider statistics, England: background quality and methodology",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/mccloud-remedy-project-recovery-plan-review-update",
-          "author": null,
-          "description": "Conclusions and recommendations from the independent review of the NHS Business Service Authority’s (NHSBSA) delivery of the McCloud Remedy for the NHS Pension Scheme.",
-          "link": "https://www.gov.uk/government/publications/mccloud-remedy-project-recovery-plan-review-update",
-          "publishedOn": "2026-09-02T18:44:41.000Z",
-          "wordCount": 950,
-          "title": "Independent report: McCloud Remedy project recovery plan: review update",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
