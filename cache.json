@@ -184,36 +184,6 @@
           "wordCount": null,
           "title": "CC-4844 - Google Releases Security Update for Chrome",
           "imageUrl": null
-        },
-        {
-          "id": "61bd672d-f121-4fbf-a441-202d50a4f610",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Successful exploitation of CVE-2026-20212 could allow an remote, unauthenticated attacker to execute arbitrary code with root privileges\n Updated: 03 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4843",
-          "publishedOn": "2026-09-03T13:58:00.000Z",
-          "wordCount": null,
-          "title": "CC-4843 - Cisco Releases Security Updates for Cisco NX-OS Software",
-          "imageUrl": null
-        },
-        {
-          "id": "4798dda7-74dd-4bdb-8f8c-07efd08fc1fc",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting Cisco IOS XR deployments\n The critical advisory addresses multiple vulnerability classes affecting Cisco IOS XR deployments\n Updated: 03 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4842",
-          "publishedOn": "2026-09-03T13:58:00.000Z",
-          "wordCount": null,
-          "title": "CC-4842 - Cisco Releases IOS XR Software Security Hardening Guidance",
-          "imageUrl": null
-        },
-        {
-          "id": "42061224-87f2-40fe-bc57-221d2e77e8ef",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security advisory addresses vulnerabilities that could lead to arbitrary code execution on a host system from an affected virtual machine\n Security advisory addresses vulnerabilities that could lead to arbitrary code execution on a host system from an affected virtual machine\n Updated: 03 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4841",
-          "publishedOn": "2026-09-03T13:57:00.000Z",
-          "wordCount": null,
-          "title": "CC-4841 - Broadcom Releases Security Advisory for Critical Vulnerabilities in VMware Workstation and VMware Fusion",
-          "imageUrl": null
         }
       ]
     },
