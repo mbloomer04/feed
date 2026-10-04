@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "CC-4845 - Active Exploitation of Critical N-central Unauthenticated RCE Vulnerability",
           "imageUrl": null
-        },
-        {
-          "id": "9e33a3aa-60dc-453c-bd56-66ac1f273283",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)\n Updated: 04 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4844",
-          "publishedOn": "2026-09-04T12:18:00.000Z",
-          "wordCount": null,
-          "title": "CC-4844 - Google Releases Security Update for Chrome",
-          "imageUrl": null
         }
       ]
     },
@@ -1891,16 +1881,6 @@
           "wordCount": null,
           "title": "Design for understanding: Lessons from the NHS Healthy Choices Quiz",
           "imageUrl": null
-        },
-        {
-          "id": "c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.",
-          "link": "https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/why-linking-data-effectively-is-crucial-for-analysing-clinical-trial-outcomes",
-          "publishedOn": "2026-09-04T12:56:59.000Z",
-          "wordCount": null,
-          "title": "Why linking data effectively is crucial for analysing clinical trial outcomes",
-          "imageUrl": null
         }
       ]
     },
@@ -1971,6 +1951,16 @@
       "feedUrl": "http://feeds.feedburner.com/NHSCBoard",
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
+        {
+          "id": "https://www.england.nhs.uk/?p=293779",
+          "author": "Tom W",
+          "description": "The NHS has cut waiting times for serving soldiers, sailors and air crew by more than 4 weeks, thanks to a targeted campaign to get injured military personnel ready for action quicker. The Further Faster Armed Forces (FF-AF) initiative saw a specialist NHS central team help 20 trusts serving large military communities find ways to […]",
+          "link": "https://www.england.nhs.uk/2026/10/nhs-cuts-british-forces-waiting-times-by-a-month-in-targeted-campaign/",
+          "publishedOn": "2026-10-03T23:01:49.000Z",
+          "wordCount": null,
+          "title": "NHS cuts British forces’ waiting times by a month in targeted campaign",
+          "imageUrl": null
+        },
         {
           "id": "https://www.england.nhs.uk/?p=293771",
           "author": "jboshell",

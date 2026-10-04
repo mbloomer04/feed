@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-04T00:16:23.130Z</updated>
+    <updated>2026-10-04T06:33:08.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS cuts British forces’ waiting times by a month in targeted campaign]]></title>
+        <id>https://www.england.nhs.uk/?p=293779</id>
+        <link href="https://www.england.nhs.uk/2026/10/nhs-cuts-british-forces-waiting-times-by-a-month-in-targeted-campaign/"/>
+        <updated>2026-10-03T23:01:49.000Z</updated>
+        <summary type="html"><![CDATA[The NHS has cut waiting times for serving soldiers, sailors and air crew by more than 4 weeks, thanks to a targeted campaign to get injured military personnel ready for action quicker. The Further Faster Armed Forces (FF-AF) initiative saw a specialist NHS central team help 20 trusts serving large military communities find ways to […]]]></summary>
+        <author>
+            <name>Tom W</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Cardiovascular disease modern service framework]]></title>
         <id>https://www.gov.uk/government/publications/cardiovascular-disease-modern-service-framework</id>
@@ -1336,29 +1346,6 @@ The challenge was not simply a lack of knowledge. Most people already understand
         <summary type="html"><![CDATA[Proposals for regulating tobacco, vaping and nicotine product packaging, device appearance and retail displays, to implement the Tobacco and Vapes Act.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why linking data effectively is crucial for analysing clinical trial outcomes]]></title>
-        <id>c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63</id>
-        <link href="https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/why-linking-data-effectively-is-crucial-for-analysing-clinical-trial-outcomes"/>
-        <updated>2026-09-04T12:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4844 - Google Releases Security Update for Chrome]]></title>
-        <id>9e33a3aa-60dc-453c-bd56-66ac1f273283</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4844"/>
-        <updated>2026-09-04T12:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)
- Updates include 12 security fixes, including one that addresses an exploited high severity vulnerability (CVE-2026-85046)
- Updated: 04 Sep 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
