@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-04T20:42:55.129Z</updated>
+    <updated>2026-10-04T23:44:32.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Government joins forces with Breast Cancer Now]]></title>
+        <id>https://www.gov.uk/government/news/government-joins-forces-with-breast-cancer-now</id>
+        <link href="https://www.gov.uk/government/news/government-joins-forces-with-breast-cancer-now"/>
+        <updated>2026-10-04T23:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Partnership to help women spot symptoms of breast cancer earlier]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS cuts British forces’ waiting times by a month in targeted campaign]]></title>
         <id>https://www.england.nhs.uk/?p=293779</id>
