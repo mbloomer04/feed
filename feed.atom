@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-05T11:02:13.977Z</updated>
+    <updated>2026-10-06T01:13:15.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Unpaid carers action plan: recognise, refer, reach (easy read)]]></title>
+        <id>https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach-easy-read</id>
+        <link href="https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach-easy-read"/>
+        <updated>2026-10-05T15:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Easy read version of the government’s plan to make life better for unpaid carers in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Adult social care data collection: 2026 notice]]></title>
+        <id>https://www.gov.uk/government/publications/adult-social-care-data-collection-2026-notice</id>
+        <link href="https://www.gov.uk/government/publications/adult-social-care-data-collection-2026-notice"/>
+        <updated>2026-10-05T13:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Information about the mandated national adult social care data returns for the year 2026 to 2027.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4862 - Active Exploitation of Citrix NetScaler ADC and NetScaler Gateway Vulnerability (CVE-2026-88779)]]></title>
+        <id>b8cf1936-28a6-46e4-bcbd-fb4f452183e0</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4862"/>
+        <updated>2026-10-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions
+ Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions
+ Updated: 05 Oct 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government joins forces with Breast Cancer Now]]></title>
         <id>https://www.gov.uk/government/news/government-joins-forces-with-breast-cancer-now</id>

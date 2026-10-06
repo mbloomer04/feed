@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b8cf1936-28a6-46e4-bcbd-fb4f452183e0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions\n Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions\n Updated: 05 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4862",
+          "publishedOn": "2026-10-05T13:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4862 - Active Exploitation of Citrix NetScaler ADC and NetScaler Gateway Vulnerability (CVE-2026-88779)",
+          "imageUrl": null
+        },
+        {
           "id": "53462535-8cf4-415b-87d0-14e9621c8010",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-76504 could allow a remote attacker to bypass authentication by sending a crafted HTTP request to the API of the affected system\n Successful exploitation of CVE-2026-76504 could allow a remote attacker to bypass authentication by sending a crafted HTTP request to the API of the affected system\n Updated: 30 Sep 2026",
@@ -2028,6 +2038,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach-easy-read",
+          "author": null,
+          "description": "Easy read version of the government’s plan to make life better for unpaid carers in England.",
+          "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach-easy-read",
+          "publishedOn": "2026-10-05T15:52:15.000Z",
+          "wordCount": 1166,
+          "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/adult-social-care-data-collection-2026-notice",
+          "author": null,
+          "description": "Information about the mandated national adult social care data returns for the year 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/adult-social-care-data-collection-2026-notice",
+          "publishedOn": "2026-10-05T13:51:40.000Z",
+          "wordCount": 856,
+          "title": "Guidance: Adult social care data collection: 2026 notice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/government-joins-forces-with-breast-cancer-now",
           "author": null,
