@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "bc2e5e17-dbbb-4aa9-b9c6-3eedc47495b5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Updated: 08 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4863",
+          "publishedOn": "2026-10-08T13:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4863 - SonicWall Releases Critical Security Advisory for SMA1000 Series Appliances",
+          "imageUrl": null
+        },
+        {
           "id": "b8cf1936-28a6-46e4-bcbd-fb4f452183e0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions\n Successful exploitation of CVE-2026-88779 could lead to denial-of-service (DoS) under specific deployment conditions\n Updated: 05 Oct 2026",
@@ -1952,6 +1962,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=294080",
+          "author": "rwootton",
+          "description": "A&Es and ambulances in England saw a record number of patients in September, as the NHS’s top doctor warned of “ominous” signs of winter pressure building in hospitals across the country.  Latest NHS data published today shows that last month saw the busiest September ever for patients attending A&E (2.44 million) and the highest number […]",
+          "link": "https://www.england.nhs.uk/2026/10/ominous-signs-of-winter-pressure-growing-as-aes-and-ambulances-see-record-september/",
+          "publishedOn": "2026-10-08T10:02:03.000Z",
+          "wordCount": null,
+          "title": "Ominous signs of winter pressure growing as A&Es and ambulances see record September",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=293779",
           "author": "Tom W",
           "description": "The NHS has cut waiting times for serving soldiers, sailors and air crew by more than 4 weeks, thanks to a targeted campaign to get injured military personnel ready for action quicker. The Further Faster Armed Forces (FF-AF) initiative saw a specialist NHS central team help 20 trusts serving large military communities find ways to […]",
@@ -2028,6 +2048,76 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
+          "author": null,
+          "description": "£33.2m will fund eight vaccine projects targeting deadly diseases, strengthening UK pandemic preparedness and helping protect people worldwide.",
+          "link": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
+          "publishedOn": "2026-10-08T13:27:43.000Z",
+          "wordCount": 2242,
+          "title": "£33.2m to protect public from future epidemics and pandemics",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2026",
+          "author": null,
+          "description": "Amendment in the tariff and ceiling of charges payable by compensators for the recovery of NHS charges under the NHS injury costs recovery scheme.",
+          "link": "https://www.gov.uk/guidance/nhs-injury-costs-recovery-scheme-tariff-and-charges-from-1-october-2026",
+          "publishedOn": "2026-10-08T08:54:47.000Z",
+          "wordCount": 1153,
+          "title": "NHS injury costs recovery scheme: tariff and charges from 1 October 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme",
+          "author": null,
+          "description": "Guidance for NHS trusts on the application of the NHS injury costs recovery (ICR) scheme for 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-cost-recovery-scheme",
+          "publishedOn": "2026-10-08T08:54:35.000Z",
+          "wordCount": 1460,
+          "title": "Guidance: NHS injury costs recovery scheme",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-alarm-receiving-centres",
+          "author": null,
+          "description": "Guidelines to support commissioners and procurement teams responsible for adult social care telecare services.",
+          "link": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-alarm-receiving-centres",
+          "publishedOn": "2026-10-08T08:35:24.000Z",
+          "wordCount": 831,
+          "title": "Guidance: Digital telecare commissioning guidelines: alarm receiving centres",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-personal-alarm-devices",
+          "author": null,
+          "description": "Guidelines to support commissioners and procurement teams responsible for adult social care telecare services.",
+          "link": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-personal-alarm-devices",
+          "publishedOn": "2026-10-08T08:35:17.000Z",
+          "wordCount": 842,
+          "title": "Guidance: Digital telecare commissioning guidelines: personal alarm devices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-grouped-living-alarm-devices",
+          "author": null,
+          "description": "Guidelines to support commissioners and procurement teams responsible for adult social care telecare services.",
+          "link": "https://www.gov.uk/government/publications/digital-telecare-commissioning-guidelines-grouped-living-alarm-devices",
+          "publishedOn": "2026-10-08T08:35:10.000Z",
+          "wordCount": 857,
+          "title": "Guidance: Digital telecare commissioning guidelines: grouped living alarm devices",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/telecare-and-the-digital-switchover-guidance-for-housing-providers",
+          "author": null,
+          "description": "Guidance for housing providers in England to provide information to help them safeguard telecare users during the digital phone switchover.",
+          "link": "https://www.gov.uk/government/publications/telecare-and-the-digital-switchover-guidance-for-housing-providers",
+          "publishedOn": "2026-10-08T08:29:33.000Z",
+          "wordCount": 1026,
+          "title": "Guidance: Telecare and the digital switchover: guidance for housing providers",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-activity-report-england-2024-to-2025",
           "author": null,
