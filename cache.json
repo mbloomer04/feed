@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "dd91ccbe-d3a4-4b54-9067-9945c07291a4",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n Updated: 09 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4865",
+          "publishedOn": "2026-10-09T11:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4865 - Critical Remote Code Execution Vulnerability in Citrix NetScaler",
+          "imageUrl": null
+        },
+        {
+          "id": "cf587ae5-746f-44f9-bf3c-b381a64e96dd",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting Cisco NX-OS software deployments\n The critical advisory addresses multiple vulnerability classes affecting Cisco NX-OS software deployments\n Updated: 09 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4864",
+          "publishedOn": "2026-10-09T10:11:00.000Z",
+          "wordCount": null,
+          "title": "CC-4864 - Cisco Releases NX-OS Software Security Hardening Guidance",
+          "imageUrl": null
+        },
+        {
           "id": "bc2e5e17-dbbb-4aa9-b9c6-3eedc47495b5",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Updated: 08 Oct 2026",
@@ -2000,16 +2020,6 @@
           "wordCount": 1453,
           "title": "Busiest summer ever for NHS but A&Es see record numbers within four hours",
           "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=292921",
-          "author": "rwootton",
-          "description": "Patients will be able to get quicker, more convenient treatment for migraines, acne and 3 other everyday conditions at hundreds of pharmacies in England from autumn, without needing to see their GP first. People will be able to walk into their participating high street pharmacy and get on-the-spot treatment for acne, migraines, scabies, ear infections […]",
-          "link": "https://www.england.nhs.uk/2026/09/patients-to-get-quicker-treatment-for-migraines-acne-and-3-other-everyday-conditions-at-pharmacies/",
-          "publishedOn": "2026-09-09T23:01:23.000Z",
-          "wordCount": 2383,
-          "title": "Patients to get quicker treatment for migraines, acne and 3 other everyday conditions at pharmacies",
-          "imageUrl": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png"
         }
       ]
     },
@@ -2018,6 +2028,66 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2025-to-2026",
+          "author": null,
+          "description": "Data on Deprivation of Liberty Safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
+          "link": "https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2025-to-2026",
+          "publishedOn": "2026-10-09T14:39:01.000Z",
+          "wordCount": 667,
+          "title": "Official Statistics: Deprivation of Liberty Safeguards, England: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/speeches/minister-mcgovern-speech-on-mental-health-adhd-and-autism",
+          "author": null,
+          "description": "Minister for Social Care and Mental Health, Alison McGovern, delivered a speech at the Fonagy Review launch event hosted by Rethink Mental Illness",
+          "link": "https://www.gov.uk/government/speeches/minister-mcgovern-speech-on-mental-health-adhd-and-autism",
+          "publishedOn": "2026-10-09T14:30:28.000Z",
+          "wordCount": 4155,
+          "title": "Minister McGovern speech on mental health, ADHD and autism",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/2024-vpag-operational-review-23-july-2026",
+          "author": null,
+          "description": "Minutes of a meeting held between the government, NHS England and ABPI about the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG).",
+          "link": "https://www.gov.uk/government/publications/2024-vpag-operational-review-23-july-2026",
+          "publishedOn": "2026-10-09T08:30:03.000Z",
+          "wordCount": 935,
+          "title": "Transparency data: 2024 VPAG operational review: 23 July 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report",
+          "author": null,
+          "description": "Final report detailing the findings of the independent review into the prevalence and support for mental health conditions, ADHD and autism.",
+          "link": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report",
+          "publishedOn": "2026-10-09T08:00:00.000Z",
+          "wordCount": 1145,
+          "title": "Independent report: Independent review into mental health conditions, ADHD and autism: final report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-final-report-easy-read",
+          "author": null,
+          "description": "This report explains the final results of a review about mental health conditions, ADHD and autism.",
+          "link": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-final-report-easy-read",
+          "publishedOn": "2026-10-09T08:00:00.000Z",
+          "wordCount": 996,
+          "title": "Independent report: Looking into mental health conditions, ADHD and autism: final report (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises",
+          "author": null,
+          "description": "Independent review into prevalence and support for mental health conditions, ADHD and autism published",
+          "link": "https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises",
+          "publishedOn": "2026-10-09T07:17:09.000Z",
+          "wordCount": 6737,
+          "title": "Government pledges earlier support to tackle mental health crises",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
           "author": null,
