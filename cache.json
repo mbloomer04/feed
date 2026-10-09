@@ -154,36 +154,6 @@
           "wordCount": null,
           "title": "CC-4849 - Check Point Releases Security Advisory for Critical Vulnerability in Security Gateway",
           "imageUrl": null
-        },
-        {
-          "id": "17c9f162-4734-437a-be79-71c75993e44f",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-84869 may allow unauthorised file transfer and execution through an active ScreenConnect remote session\n Successful exploitation of CVE-2026-84869 may allow unauthorised file transfer and execution through an active ScreenConnect remote session\n Updated: 09 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4848",
-          "publishedOn": "2026-09-09T11:13:00.000Z",
-          "wordCount": null,
-          "title": "CC-4848 - ConnectWise Releases Security Update for ScreenConnect",
-          "imageUrl": null
-        },
-        {
-          "id": "03e9f4c2-a68b-466f-a71c-69e923325965",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security updates include 230 security fixes, including an exploited vulnerability (CVE-2026-87491)\n Security updates include 230 security fixes, including an exploited vulnerability (CVE-2026-87491)\n Updated: 09 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4847",
-          "publishedOn": "2026-09-09T11:12:00.000Z",
-          "wordCount": null,
-          "title": "CC-4847 - Google Releases Security Update for Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "5941bb9c-7270-484d-b436-94774c8384ba",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled updates for Microsoft products address 974 vulnerabilities, including 2 zero-day vulnerabilities\n Scheduled updates for Microsoft products address 974 vulnerabilities, including 2 zero-day vulnerabilities\n Updated: 09 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4846",
-          "publishedOn": "2026-09-09T09:55:00.000Z",
-          "wordCount": null,
-          "title": "CC-4846 - Microsoft Releases September 2026 Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -3106,46 +3076,6 @@
           "publishedOn": "2026-09-09T13:00:00.000Z",
           "wordCount": 1687,
           "title": "Guidance: Viral haemorrhagic fever: ACDP algorithm and guidance on management of patients",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/over-15-billion-to-help-nhs-withstand-year-round-pressure",
-          "author": null,
-          "description": "More than 950 projects will make NHS hospitals safer, more resilient and better equipped to care for patients.",
-          "link": "https://www.gov.uk/government/news/over-15-billion-to-help-nhs-withstand-year-round-pressure",
-          "publishedOn": "2026-09-09T12:26:00.000Z",
-          "wordCount": 3235,
-          "title": "Over £1.5 billion to help NHS withstand year-round pressure",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-june-2027",
-          "author": null,
-          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
-          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-june-2027",
-          "publishedOn": "2026-09-09T11:15:47.000Z",
-          "wordCount": 668,
-          "title": "Official Statistics: Adult social care client level data, England: quarterly update to June 2027",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-september-2026",
-          "author": null,
-          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
-          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-client-level-data-england-quarterly-update-to-september-2026",
-          "publishedOn": "2026-09-09T11:15:13.000Z",
-          "wordCount": 677,
-          "title": "Official Statistics: Adult social care client level data, England: quarterly update to September 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
-          "author": null,
-          "description": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
-          "link": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
-          "publishedOn": "2026-09-09T10:28:01.000Z",
-          "wordCount": 3957,
-          "title": "Guidance: Medicines that you cannot export from the UK or hoard",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
