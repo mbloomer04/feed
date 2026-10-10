@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "CC-4850 - Palo Alto Networks Releases Security Advisory for PAN-OS",
           "imageUrl": null
-        },
-        {
-          "id": "558e33e9-6a10-424d-bc4c-e1006db6be4c",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Successful exploitation of CVE-2026-85102 could allow an unauthenticated remote attacker to execute arbitrary code on a vulnerable gateway, potentially leading to complete compromise of the affected device\n Updated: 10 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4849",
-          "publishedOn": "2026-09-10T13:59:00.000Z",
-          "wordCount": null,
-          "title": "CC-4849 - Check Point Releases Security Advisory for Critical Vulnerability in Security Gateway",
-          "imageUrl": null
         }
       ]
     },
@@ -2946,16 +2936,6 @@
           "publishedOn": "2026-09-10T16:26:03.000Z",
           "wordCount": 1046,
           "title": "Transparency data: NHS injury costs recovery scheme: April 2025 to March 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england",
-          "author": null,
-          "description": "£343 million plan will open 159 NHS mental health centres in England, giving people earlier local support and specialist crisis care outside A&E.",
-          "link": "https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england",
-          "publishedOn": "2026-09-10T13:27:33.000Z",
-          "wordCount": 4992,
-          "title": "Major expansion of community mental health support across England",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
