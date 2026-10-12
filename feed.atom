@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-11T22:35:59.160Z</updated>
+    <updated>2026-10-12T01:56:40.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS rolls out prescription ready alerts on smartwatches and mobiles]]></title>
+        <id>https://www.england.nhs.uk/?p=294192</id>
+        <link href="https://www.england.nhs.uk/2026/10/nhs-rolls-out-prescription-ready-alerts-on-smartwatches-and-mobiles/"/>
+        <updated>2026-10-11T23:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Millions of people across England can now get an alert on their smartwatch or mobile when their prescription is ready to be collected. The new alerts are being introduced following the success of the ‘Amazon-style’ prescription tracking feature in the NHS App, which has been used by nearly 2.9 million people since its launch last […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Deprivation of Liberty Safeguards, England: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/statistics/announcements/deprivation-of-liberty-safeguards-england-2025-to-2026</id>
