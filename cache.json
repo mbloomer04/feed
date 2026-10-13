@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "19aefe54-5867-46c0-8f8b-6770f5010094",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-104935 may allow unauthenticated remote code execution on affected Ivanti Connect Secure appliances\n CVE-2026-104935 may allow unauthenticated remote code execution on affected Ivanti Connect Secure appliances\n Updated: 13 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4866",
+          "publishedOn": "2026-10-13T15:43:00.000Z",
+          "wordCount": null,
+          "title": "CC-4866 - Ivanti Releases Security Updates for Connect Secure",
+          "imageUrl": null
+        },
+        {
           "id": "dd91ccbe-d3a4-4b54-9067-9945c07291a4",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: High\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n Updated: 09 Oct 2026",
