@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "08b325e3-e6a0-45fb-96c1-bada1eb637b6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled security updates for Microsoft products address 1,413 vulnerabilities, including 3 zero-day vulnerabilities\n Scheduled security updates for Microsoft products address 1,413 vulnerabilities, including 3 zero-day vulnerabilities\n Updated: 14 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4867",
+          "publishedOn": "2026-10-14T15:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4867 - Microsoft Releases October 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "19aefe54-5867-46c0-8f8b-6770f5010094",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n CVE-2026-104935 may allow unauthenticated remote code execution on affected Ivanti Connect Secure appliances\n CVE-2026-104935 may allow unauthenticated remote code execution on affected Ivanti Connect Secure appliances\n Updated: 13 Oct 2026",
@@ -2018,6 +2028,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/reciprocal-healthcare-privacy-notice",
+          "author": null,
+          "description": "Sets out how DHSC and NHSBSA collect and use personal information as part of the process of providing reciprocal healthcare.",
+          "link": "https://www.gov.uk/government/publications/reciprocal-healthcare-privacy-notice",
+          "publishedOn": "2026-10-14T15:37:18.000Z",
+          "wordCount": 1073,
+          "title": "Guidance: Reciprocal healthcare privacy notice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/deferred-payment-agreements-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the deferred payment agreements (DPAs) that local authorities have arranged with clients to help with the payment of the costs of their care.",
+          "link": "https://www.gov.uk/government/statistics/announcements/deferred-payment-agreements-england-2025-to-2026-report",
+          "publishedOn": "2026-10-14T11:29:09.000Z",
+          "wordCount": 679,
+          "title": "Official Statistics: Deferred payment agreements, England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
           "author": null,
