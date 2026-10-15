@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "33554fc9-529d-43b2-8955-d1be212b2aa0",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Updated: 15 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4869",
+          "publishedOn": "2026-10-15T11:28:00.000Z",
+          "wordCount": null,
+          "title": "CC-4869 - Cisco Releases Advisory For Critical Vulnerability in Cisco Async OS Affecting Secure Email Gateway",
+          "imageUrl": null
+        },
+        {
+          "id": "53bbe4f8-f5b1-4422-8e5c-c83c4b0ac426",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n CVE-2026-0322 could allow an authenticated attacker to execute arbitrary code with root privileges on the firewall\n CVE-2026-0322 could allow an authenticated attacker to execute arbitrary code with root privileges on the firewall\n Updated: 15 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4868",
+          "publishedOn": "2026-10-15T11:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4868 - Active Exploitation of Remote Code Execution Vulnerability in Palo Alto Network's PAN-OS",
+          "imageUrl": null
+        },
+        {
           "id": "08b325e3-e6a0-45fb-96c1-bada1eb637b6",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled security updates for Microsoft products address 1,413 vulnerabilities, including 3 zero-day vulnerabilities\n Scheduled security updates for Microsoft products address 1,413 vulnerabilities, including 3 zero-day vulnerabilities\n Updated: 14 Oct 2026",
@@ -2018,6 +2038,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/consultants-in-public-health-appointments-guidance",
+          "author": null,
+          "description": "Sets out arrangements of public health consultant and consultant academic appointments by local authorities and higher education institutions.",
+          "link": "https://www.gov.uk/government/publications/consultants-in-public-health-appointments-guidance",
+          "publishedOn": "2026-10-15T07:55:20.000Z",
+          "wordCount": 892,
+          "title": "Guidance: Consultants in public health: appointments guidance",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/reciprocal-healthcare-privacy-notice",
           "author": null,
