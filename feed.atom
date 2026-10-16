@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-16T12:53:48.045Z</updated>
+    <updated>2026-10-16T17:06:34.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Independent report: Thirlwall Inquiry report]]></title>
+        <id>https://www.gov.uk/government/publications/thirlwall-inquiry-report</id>
+        <link href="https://www.gov.uk/government/publications/thirlwall-inquiry-report"/>
+        <updated>2026-10-16T13:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Report and recommendations of the public inquiry established to examine the events at the Countess of Chester Hospital from 2015 to 2018.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: UK government response to the Covid-19 Inquiry Module 4 report]]></title>
+        <id>https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-4-report</id>
+        <link href="https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-4-report"/>
+        <updated>2026-10-16T13:21:40.000Z</updated>
+        <summary type="html"><![CDATA[The UK government response to the UK Covid-19 Inquiry Module 4 report on the impact of the pandemic on vaccines and therapeutics.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4871 - Drupal Releases Security Advisory for Drupal Core]]></title>
         <id>563c783f-377a-4f3b-a043-0fc3d8ad7e47</id>
