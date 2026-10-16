@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "563c783f-377a-4f3b-a043-0fc3d8ad7e47",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-108097 could allow an unauthenticated attack to perform remote code execution\n Successful exploitation of CVE-2026-108097 could allow an unauthenticated attack to perform remote code execution\n Updated: 16 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4871",
+          "publishedOn": "2026-10-16T12:01:00.000Z",
+          "wordCount": null,
+          "title": "CC-4871 - Drupal Releases Security Advisory for Drupal Core",
+          "imageUrl": null
+        },
+        {
+          "id": "d8ba8883-4bfc-4c89-90ed-e957cac1fce6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-102764 could allow a remote, unauthenticated attacker to upload arbitrary files on affected appliances\n Successful exploitation of CVE-2026-102764 could allow a remote, unauthenticated attacker to upload arbitrary files on affected appliances\n Updated: 16 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4870",
+          "publishedOn": "2026-10-16T11:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4870 - Active Exploitation of BeyondTrust Remote Support Vulnerability (CVE-2026-102764)",
+          "imageUrl": null
+        },
+        {
           "id": "33554fc9-529d-43b2-8955-d1be212b2aa0",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Updated: 15 Oct 2026",
