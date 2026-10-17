@@ -164,36 +164,6 @@
           "wordCount": null,
           "title": "CC-4856 - Proof-of-Concept Exploit Code Released for Veeam Vulnerability CVE-2026-32996",
           "imageUrl": null
-        },
-        {
-          "id": "08c78754-c6a9-41e0-9165-bfae61053217",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Cisco reports exploitation of CVE-2026-20079 which could allow a remote attacker to bypass authentication\n Cisco reports exploitation of CVE-2026-20079 which could allow a remote attacker to bypass authentication\n Updated: 17 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4855",
-          "publishedOn": "2026-09-17T13:55:00.000Z",
-          "wordCount": null,
-          "title": "CC-4855 - Critical Vulnerability in Cisco Secure Firewall Management Center Under Exploitation",
-          "imageUrl": null
-        },
-        {
-          "id": "35f6f4ea-e4a8-4910-b979-c27db6718a79",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-91843 could allow unauthenticated remote code execution with root privileges on affected Check Point management systems\n CVE-2026-91843 could allow unauthenticated remote code execution with root privileges on affected Check Point management systems\n Updated: 17 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4854",
-          "publishedOn": "2026-09-17T13:27:00.000Z",
-          "wordCount": null,
-          "title": "CC-4854 - Check Point Releases Security Advisory for Critical Vulnerability in Security Management and Log Servers",
-          "imageUrl": null
-        },
-        {
-          "id": "c3a3e84a-1db2-46b7-86b8-699a8e7cdc45",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76460 could allow a remote attacker to bypass authentication by sending a crafted request to an affected API endpoint\n Successful exploitation of CVE-2026-76460 could allow a remote attacker to bypass authentication by sending a crafted request to an affected API endpoint\n Updated: 17 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4853",
-          "publishedOn": "2026-09-17T13:01:00.000Z",
-          "wordCount": null,
-          "title": "CC-4853 - Critical Authentication Bypass Vulnerability in Cisco Identity Services Engine (ISE) Under Exploitation",
-          "imageUrl": null
         }
       ]
     },
@@ -2866,26 +2836,6 @@
           "publishedOn": "2026-09-20T23:01:01.000Z",
           "wordCount": 3207,
           "title": "Expert team to drive improvements in cancer care",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/speeches/minister-of-state-for-social-care-and-mental-health-speech-on-dementia",
-          "author": null,
-          "description": "Minister Alison McGovern delivered the keynote speech at the Alzheimer's Society Conference 2026 in London, highlighting the government's action on dementia",
-          "link": "https://www.gov.uk/government/speeches/minister-of-state-for-social-care-and-mental-health-speech-on-dementia",
-          "publishedOn": "2026-09-17T14:01:58.000Z",
-          "wordCount": 6597,
-          "title": "Minister of State for Social Care and Mental Health speech on dementia",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/chair-appointed-to-lead-tees-esk-and-wear-valleys-trust-inquiry",
-          "author": null,
-          "description": "Chair to the public inquiry into mental health care at Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) appointed",
-          "link": "https://www.gov.uk/government/news/chair-appointed-to-lead-tees-esk-and-wear-valleys-trust-inquiry",
-          "publishedOn": "2026-09-17T13:04:23.000Z",
-          "wordCount": 1790,
-          "title": "Chair appointed to lead Tees, Esk and Wear Valleys Trust inquiry",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
