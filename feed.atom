@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-17T19:54:20.663Z</updated>
+    <updated>2026-10-17T21:54:35.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -162,6 +162,17 @@
         <summary type="html"><![CDATA[Millions of people across England can now get an alert on their smartwatch or mobile when their prescription is ready to be collected. The new alerts are being introduced following the success of the ‘Amazon-style’ prescription tracking feature in the NHS App, which has been used by nearly 2.9 million people since its launch last […]]]></summary>
         <author>
             <name>nowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New WHO technical package to help countries improve health data for COVID-19 response and beyond]]></title>
+        <id>urn:uuid:bd8af334-aa22-4b0e-b7fc-99c1489bca25</id>
+        <link href="https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response"/>
+        <updated>2026-10-10T07:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-19 pandemic has highlighted the urgent need for timely and reliable data to drive strategic health action. Too many countries still lack both the infrastructure to routinely gather health data and the analytical capacity to use these data for effective health actions and emergency response. 
+“Countries must be able to measure progress to make progress,” said WHO Director-General Dr Tedros Adhanom Ghebreyesus. “Particularly during COVID-19, reliable data is the best way to coordinate response efforts and improve heal…]]></summary>
+        <author>
+            <name>News (English) - World Health Organization</name>
         </author>
     </entry>
     <entry>
