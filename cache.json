@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "9b094917-5cc5-4210-a346-aa5dc7dae1ac",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Out-of-band security update addresses three vulnerabilities that, if exploited, could result in remote code execution or denial-of-service\n Out-of-band security update addresses three vulnerabilities that, if exploited, could result in remote code execution or denial-of-service\n Updated: 19 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4873",
+          "publishedOn": "2026-10-19T14:05:00.000Z",
+          "wordCount": null,
+          "title": "CC-4873 - Multiple Critical Vulnerabilities in Next.js",
+          "imageUrl": null
+        },
+        {
+          "id": "6c20b264-f1d9-4635-92c3-ef23351be93d",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The advisory addresses three vulnerabilities that could allow an unauthenticated remote attacker to cause denial-of-service or potentially achieve remote code execution on affected systems\n The advisory addresses three vulnerabilities that could allow an unauthenticated remote attacker to cause denial-of-service or potentially achieve remote code execution on affected systems\n Updated: 19 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4872",
+          "publishedOn": "2026-10-19T12:53:00.000Z",
+          "wordCount": null,
+          "title": "CC-4872 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Plus and NGINX Open Source",
+          "imageUrl": null
+        },
+        {
           "id": "563c783f-377a-4f3b-a043-0fc3d8ad7e47",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-108097 could allow an unauthenticated attack to perform remote code execution\n Successful exploitation of CVE-2026-108097 could allow an unauthenticated attack to perform remote code execution\n Updated: 16 Oct 2026",
@@ -2018,6 +2038,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-ssrb-pay-round-2027-to-2028",
+          "author": null,
+          "description": "Evidence submitted to the Senior Salaries Review Body (SSRB) by the Department of Health and Social Care and NHS England for the 2027 to 2028 pay round.",
+          "link": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-ssrb-pay-round-2027-to-2028",
+          "publishedOn": "2026-10-19T12:13:39.000Z",
+          "wordCount": 1140,
+          "title": "Policy paper: Joint DHSC and NHS England written evidence for the SSRB: pay round 2027 to 2028",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-ddrb-pay-round-2027-to-2028",
+          "author": null,
+          "description": "Evidence submitted to the Review Body on Doctors’ and Dentists’ Remuneration (DDRB) by the Department of Health and Social Care and NHS England for the 2027 to 2028 pay round.",
+          "link": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-ddrb-pay-round-2027-to-2028",
+          "publishedOn": "2026-10-19T12:13:36.000Z",
+          "wordCount": 1159,
+          "title": "Policy paper: Joint DHSC and NHS England written evidence for the DDRB: pay round 2027 to 2028",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-nhsprb-pay-round-2027-to-2028",
+          "author": null,
+          "description": "Evidence submitted to the NHS Pay Review Body (NHSPRB) by the Department of Health and Social Care and NHS England for the 2027 to 2028 pay round.",
+          "link": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-nhsprb-pay-round-2027-to-2028",
+          "publishedOn": "2026-10-19T12:13:00.000Z",
+          "wordCount": 1092,
+          "title": "Policy paper: Joint DHSC and NHS England written evidence for the NHSPRB: pay round 2027 to 2028",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/prevent-guidance-for-nhs-mental-health-services",
           "author": null,
