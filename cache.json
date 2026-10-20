@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7baff554-43e4-4c74-a019-9753d8dd2ff8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Attackers are abusing Dynamic Link Library (DLL) side-loading in Siemens Software Center to execute malicious code\n Attackers are abusing Dynamic Link Library (DLL) side-loading in Siemens Software Center to execute malicious code\n Updated: 20 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4874",
+          "publishedOn": "2026-10-20T14:28:00.000Z",
+          "wordCount": null,
+          "title": "CC-4874 - Active Exploitation of Vulnerability in Siemens Software Center (CVE-2026-110936)",
+          "imageUrl": null
+        },
+        {
           "id": "9b094917-5cc5-4210-a346-aa5dc7dae1ac",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Out-of-band security update addresses three vulnerabilities that, if exploited, could result in remote code execution or denial-of-service\n Out-of-band security update addresses three vulnerabilities that, if exploited, could result in remote code execution or denial-of-service\n Updated: 19 Oct 2026",
@@ -2038,6 +2048,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-fast-track-pathway-tool",
+          "author": null,
+          "description": "Identify individuals who need to be fast tracked for immediate provision of NHS continuing healthcare.",
+          "link": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-fast-track-pathway-tool",
+          "publishedOn": "2026-10-20T16:07:22.000Z",
+          "wordCount": 1145,
+          "title": "Guidance: NHS continuing healthcare fast track pathway tool",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-checklist",
+          "author": null,
+          "description": "Screening tool to help identify individuals who may need a referral for a full assessment of eligibility for NHS continuing healthcare.",
+          "link": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-checklist",
+          "publishedOn": "2026-10-20T16:07:18.000Z",
+          "wordCount": 1102,
+          "title": "Guidance: NHS continuing healthcare checklist",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-decision-support-tool",
+          "author": null,
+          "description": "Screening tool to help identify individuals who may need a referral for a full assessment of eligibility for NHS continuing healthcare.",
+          "link": "https://www.gov.uk/government/publications/nhs-continuing-healthcare-decision-support-tool",
+          "publishedOn": "2026-10-20T16:07:13.000Z",
+          "wordCount": 1130,
+          "title": "Guidance: NHS continuing healthcare decision support tool",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/joint-dhsc-and-nhs-england-written-evidence-for-the-ssrb-pay-round-2027-to-2028",
           "author": null,
