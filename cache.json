@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "06037c53-721a-4312-ae9f-d7715fc77e86",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Updated: 21 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
+          "publishedOn": "2026-10-21T15:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
+          "imageUrl": null
+        },
+        {
+          "id": "03e4542e-1fe1-4a0b-bf28-0cf98254d002",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-109618 and CVE-2026-109619 could allow an unauthenticated attacker to execute code remotely or access sensitive memory\n Successful exploitation of CVE-2026-109618 and CVE-2026-109619 could allow an unauthenticated attacker to execute code remotely or access sensitive memory\n Updated: 21 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
+          "publishedOn": "2026-10-21T14:51:00.000Z",
+          "wordCount": null,
+          "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
+          "imageUrl": null
+        },
+        {
           "id": "7baff554-43e4-4c74-a019-9753d8dd2ff8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Attackers are abusing Dynamic Link Library (DLL) side-loading in Siemens Software Center to execute malicious code\n Attackers are abusing Dynamic Link Library (DLL) side-loading in Siemens Software Center to execute malicious code\n Updated: 20 Oct 2026",
@@ -2030,16 +2050,6 @@
           "wordCount": null,
           "title": "NHS pilots rapid genomic test to transform brain tumour diagnosis",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=293266",
-          "author": "jboshell",
-          "description": "The NHS is expanding Martha’s Rule to all hospital A&E departments and waiting rooms to further boost patient safety for some of the most vulnerable patients. The initiative will see patients, loved ones and staff in busy emergency departments able to call a dedicated Martha’s Rule phone number to trigger an urgent review if a […]",
-          "link": "https://www.england.nhs.uk/2026/09/nhs-to-expand-life-saving-marthas-rule-to-all-aes/",
-          "publishedOn": "2026-09-21T23:01:11.000Z",
-          "wordCount": null,
-          "title": "NHS to expand ‘life-saving’ Martha’s Rule to all A&Es",
-          "imageUrl": null
         }
       ]
     },
@@ -2048,6 +2058,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2024.",
+          "link": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
+          "publishedOn": "2026-10-21T14:09:02.000Z",
+          "wordCount": 621,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2024",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/faster-clinical-trials-bring-cutting-edge-treatments-to-patients",
+          "author": null,
+          "description": "Patients are set to receive cutting-edge treatments as the Government hits its ambitious target to speed up clinical trials",
+          "link": "https://www.gov.uk/government/news/faster-clinical-trials-bring-cutting-edge-treatments-to-patients",
+          "publishedOn": "2026-10-21T11:42:05.000Z",
+          "wordCount": 4261,
+          "title": "Faster clinical trials bring cutting-edge treatments to patients",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/dhsc-public-appointments-2026-to-2027",
           "author": null,
