@@ -204,16 +204,6 @@
           "wordCount": null,
           "title": "CC-4857 - Critical RCE Vulnerability in F5 BIG-IP APM Under Exploitation",
           "imageUrl": null
-        },
-        {
-          "id": "e606dbf3-8295-4469-80ca-359bf4b0f6d2",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Exploitation of Veeam Agent for Microsoft Windows vulnerability could allow local privilege escalation to SYSTEM privileges\n Exploitation of Veeam Agent for Microsoft Windows vulnerability could allow local privilege escalation to SYSTEM privileges\n Updated: 22 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4856",
-          "publishedOn": "2026-09-22T14:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4856 - Proof-of-Concept Exploit Code Released for Veeam Vulnerability CVE-2026-32996",
-          "imageUrl": null
         }
       ]
     },
@@ -2986,16 +2976,6 @@
           "publishedOn": "2026-09-22T23:01:04.000Z",
           "wordCount": 979,
           "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty",
-          "author": null,
-          "description": "Update following the Supreme Court judgment on 2 June 2026 clarifying the definition of the deprivation of liberty.",
-          "link": "https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty",
-          "publishedOn": "2026-09-22T13:52:04.000Z",
-          "wordCount": 1038,
-          "title": "Guidance: Changes to the definition of deprivation of liberty",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
