@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "0d1eca43-7c42-4919-b0a6-f0013914a051",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n Updated: 22 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4878",
+          "publishedOn": "2026-10-22T13:44:00.000Z",
+          "wordCount": null,
+          "title": "CC-4878 - Cisco Releases Security Hardening Guidance for Multiple Cisco Products",
+          "imageUrl": null
+        },
+        {
+          "id": "799fa853-6dc5-466f-b9eb-62e7ee76d674",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Critical advisory addresses multiple vulnerability classes affecting Cisco Unified Communications products\n Critical advisory addresses multiple vulnerability classes affecting Cisco Unified Communications products\n Updated: 22 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
+          "publishedOn": "2026-10-22T13:41:00.000Z",
+          "wordCount": null,
+          "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
+          "imageUrl": null
+        },
+        {
           "id": "06037c53-721a-4312-ae9f-d7715fc77e86",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Updated: 21 Oct 2026",
@@ -2058,6 +2078,56 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet",
+          "author": null,
+          "description": "Outlines the proposed legislative changes in the Health Bill to the way patient safety is being strengthened.",
+          "link": "https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet",
+          "publishedOn": "2026-10-22T16:17:09.000Z",
+          "wordCount": 936,
+          "title": "Policy paper: Health Bill: patient safety - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet",
+          "author": null,
+          "description": "Outlines the role and functions of the restructured Department of Health and Social Care (DHSC).",
+          "link": "https://www.gov.uk/government/publications/health-bill-role-and-functions-of-the-restructured-dhsc-fact-sheet",
+          "publishedOn": "2026-10-22T16:17:04.000Z",
+          "wordCount": 978,
+          "title": "Policy paper: Health Bill: role and functions of the restructured DHSC - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-summary-fact-sheet",
+          "author": null,
+          "description": "Outlines the context behind the Health Bill, including a summary of the main objectives and specific measures.",
+          "link": "https://www.gov.uk/government/publications/health-bill-summary-fact-sheet",
+          "publishedOn": "2026-10-22T16:16:59.000Z",
+          "wordCount": 948,
+          "title": "Policy paper: Health Bill: summary - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/social-media-campaign-urges-brits-to-get-vaccinated-for-winter",
+          "author": null,
+          "description": "Government launches a social media campaign to promote a new NHS App feature which helps people check their eligibility and book their flu vaccination",
+          "link": "https://www.gov.uk/government/news/social-media-campaign-urges-brits-to-get-vaccinated-for-winter",
+          "publishedOn": "2026-10-22T14:29:08.000Z",
+          "wordCount": 5454,
+          "title": "Social media campaign urges Brits to get vaccinated for winter",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-pension-board-annual-report-2024-to-2025",
+          "author": null,
+          "description": "Sets out the work of the NHS Pension Board from April 2024 to March 2025.",
+          "link": "https://www.gov.uk/government/publications/nhs-pension-board-annual-report-2024-to-2025",
+          "publishedOn": "2026-10-22T14:07:23.000Z",
+          "wordCount": 856,
+          "title": "Independent report: NHS Pension Board annual report: 2024 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/government-response-to-the-hsccs-report-on-healthy-ageing-and-physical-activity",
           "author": null,
