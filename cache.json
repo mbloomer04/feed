@@ -1982,6 +1982,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=294634",
+          "author": "Tom W",
+          "description": "Dr Jeremy Isaacs, National Clinical Director for Dementia, NHS England, said: “It is fantastic news that the NHS has hit its target for diagnosing more than two thirds of people with dementia for the first time since before the COVID-19 pandemic – and 50,000 more people than the last time this target was hit. “Getting […]",
+          "link": "https://www.england.nhs.uk/2026/10/nhs-supports-record-numbers-of-people-living-with-dementia-as-target-achieved/",
+          "publishedOn": "2026-10-22T10:44:50.000Z",
+          "wordCount": null,
+          "title": "NHS supports record numbers of people living with dementia as target achieved",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=294192",
           "author": "nowen",
           "description": "Millions of people across England can now get an alert on their smartwatch or mobile when their prescription is ready to be collected. The new alerts are being introduced following the success of the ‘Amazon-style’ prescription tracking feature in the NHS App, which has been used by nearly 2.9 million people since its launch last […]",
@@ -2048,6 +2058,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/government-response-to-the-hsccs-report-on-healthy-ageing-and-physical-activity",
+          "author": null,
+          "description": "The government's response to the House of Commons' Health and Social Care Committee's (HSCC) 'Healthy Ageing: physical activity in an ageing society' report.",
+          "link": "https://www.gov.uk/government/publications/government-response-to-the-hsccs-report-on-healthy-ageing-and-physical-activity",
+          "publishedOn": "2026-10-22T09:49:02.000Z",
+          "wordCount": 1304,
+          "title": "Policy paper: Government response to the HSCC's report on healthy ageing and physical activity",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-finance-report-england-2025-to-2026",
+          "author": null,
+          "description": "Official statistics on adult social care finance in councils with adult social services responsibilities.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-finance-report-england-2025-to-2026",
+          "publishedOn": "2026-10-22T08:30:07.000Z",
+          "wordCount": 1247,
+          "title": "Official Statistics: Adult social care finance report, England: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
           "author": null,
@@ -2966,16 +2996,6 @@
           "publishedOn": "2026-09-23T10:00:04.000Z",
           "wordCount": 918,
           "title": "Guidance: Abortion statistics user engagement plan",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
-          "author": null,
-          "description": "September 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces to change outcomes, improve lives and drive growth.",
-          "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
-          "publishedOn": "2026-09-22T23:01:04.000Z",
-          "wordCount": 979,
-          "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
