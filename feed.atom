@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-23T00:16:38.999Z</updated>
+    <updated>2026-10-23T05:36:03.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1371,57 +1371,6 @@ The little green FP10 paper prescriptions have all but disappeared in primary ca
         <summary type="html"><![CDATA[Official statistics on the opinions and experiences of unpaid carers aged 18 and over on topics that are indicative of a balanced life alongside their unpaid caring role.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for understanding: Lessons from the NHS Healthy Choices Quiz]]></title>
-        <id>41e5ce47-dd09-49aa-ad33-56fd17d6b74c</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2026/design-for-understanding-lessons-from-the-nhs-healthy-choices-quiz"/>
-        <updated>2026-09-23T15:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Adeline describes the lessons learned from the design process of the NHS Healthy Choices Quiz.
-
-
-As part of the NHS 10 Year Health Plan, greater emphasis is being placed on prevention and helping people feel more able to improve their own health. Supporting people to build healthier habits in their daily lives could reduce preventable ill health and, over time, ease demand on NHS services.
-
-
-The NHS Healthy Choices Quiz is a web-based tool that helps people reflect on 6 areas of their lifestyle: eating, drinking, physical activity, smoking or vaping, mental health and sleep. It provides a personalised score, tailored advice and links to relevant NHS apps, tools and resources, helping people identify a realistic next step towards healthier habits.
-
-
-The challenge was not simply a lack of knowledge. Most people already understand what healthier choices look like, yet 83% of adults aged 40 to 60 in 2014 had at least one of 3 major lifestyle risk factors: drinking above recommended guidelines, physical activity, or being overweight or obese. Research with the target audience suggested that healthier living can feel overwhelming or out of reach, and that some people are sceptical about whether digital tools can help someone like them. The opportunity was therefore to create a simple, personalised first step that made healthier change feel achievable.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for understanding: Lessons from the NHS Healthy Choices Quiz]]></title>
-        <id>41e5ce47-dd09-49aa-ad33-56fd17d6b74c</id>
-        <link href="https://digital.nhs.uk/blog/design-matters/2026/design-for-understanding-lessons-from-the-nhs-healthy-choices-quiz"/>
-        <updated>2026-09-23T15:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Adeline describes the lessons learned from the design process of the NHS Healthy Choices Quiz.
-
-
-As part of the NHS 10 Year Health Plan, greater emphasis is being placed on prevention and helping people feel more able to improve their own health. Supporting people to build healthier habits in their daily lives could reduce preventable ill health and, over time, ease demand on NHS services.
-
-
-The NHS Healthy Choices Quiz is a web-based tool that helps people reflect on 6 areas of their lifestyle: eating, drinking, physical activity, smoking or vaping, mental health and sleep. It provides a personalised score, tailored advice and links to relevant NHS apps, tools and resources, helping people identify a realistic next step towards healthier habits.
-
-
-The challenge was not simply a lack of knowledge. Most people already understand what healthier choices look like, yet 83% of adults aged 40 to 60 in 2014 had at least one of 3 major lifestyle risk factors: drinking above recommended guidelines, physical activity, or being overweight or obese. Research with the target audience suggested that healthier living can feel overwhelming or out of reach, and that some people are sceptical about whether digital tools can help someone like them. The opportunity was therefore to create a simple, personalised first step that made healthier change feel achievable.]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4857 - Critical RCE Vulnerability in F5 BIG-IP APM Under Exploitation]]></title>
-        <id>5a69929a-4a2b-495b-bde9-f18140de2649</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4857"/>
-        <updated>2026-09-23T12:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Successful exploitation of CVE-2026-94127 may allow unauthenticated remote code execution against affected BIG-IP APM OAuth deployments
- Successful exploitation of CVE-2026-94127 may allow unauthenticated remote code execution against affected BIG-IP APM OAuth deployments
- Updated: 23 Sep 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>
