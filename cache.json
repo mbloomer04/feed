@@ -6,6 +6,36 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b4c05f31-7e84-4bde-884c-c2fcc068cb4a",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Four high severity vulnerabilities identified, including CVE-2026-111497, an out-of-bounds write vulnerability that could allow remote code execution\n Four high severity vulnerabilities identified, including CVE-2026-111497, an out-of-bounds write vulnerability that could allow remote code execution\n Updated: 23 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4881",
+          "publishedOn": "2026-10-23T13:28:00.000Z",
+          "wordCount": null,
+          "title": "CC-4881 - Node.js Releases Security Updates Addressing Multiple Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "f4bd0592-216e-461a-ae8c-ec7137b97496",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n An attacker with access to the private key of any compromised intermediate certificates could impersonate any website or service\n An attacker with access to the private key of any compromised intermediate certificates could impersonate any website or service\n Updated: 23 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4880",
+          "publishedOn": "2026-10-23T13:18:00.000Z",
+          "wordCount": null,
+          "title": "CC-4880 - eMudhra Intermediate Certificates Compromised",
+          "imageUrl": null
+        },
+        {
+          "id": "259dea11-b5c7-4c7f-922c-66c85ea78a01",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Fortinet releases security updates for FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator\n Fortinet releases security updates for FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator\n Updated: 23 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4879",
+          "publishedOn": "2026-10-23T12:00:00.000Z",
+          "wordCount": null,
+          "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "0d1eca43-7c42-4919-b0a6-f0013914a051",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n Updated: 22 Oct 2026",
@@ -2047,6 +2077,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/steps-to-safety-initiative-introduced-in-12-areas-across-england",
+          "author": null,
+          "description": "Phase 1 of Steps to Safety will enable GP practices across 12 areas in England to connect people experiencing domestic abuse with specialist support.",
+          "link": "https://www.gov.uk/government/news/steps-to-safety-initiative-introduced-in-12-areas-across-england",
+          "publishedOn": "2026-10-23T14:21:45.000Z",
+          "wordCount": 2439,
+          "title": "Steps to Safety initiative introduced in 12 areas across England",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "author": null,
+          "description": "This report presents the emerging findings from the evaluation of the 15 WorkWell programme pilots, from October 2024 to March 2025",
+          "link": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+          "publishedOn": "2026-10-23T12:13:18.000Z",
+          "wordCount": 1296,
+          "title": "Research: WorkWell Pilots Evaluation Early Implementation Findings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-september-2026",
+          "publishedOn": "2026-10-23T11:50:39.000Z",
+          "wordCount": 773,
+          "title": "Transparency data: DHSC: workforce management information September 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/new-mental-health-pilot-for-young-people-supported-by-social-care",
+          "author": null,
+          "description": "Young people supported by social care in Greater Manchester are set to benefit from a new mental health pilot.",
+          "link": "https://www.gov.uk/government/news/new-mental-health-pilot-for-young-people-supported-by-social-care",
+          "publishedOn": "2026-10-23T11:26:41.000Z",
+          "wordCount": 2463,
+          "title": "New mental health pilot for young people supported by social care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/safeguarding-adults-england-2025-to-2026-report",
           "author": null,
