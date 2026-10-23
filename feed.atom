@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-23T05:36:03.877Z</updated>
+    <updated>2026-10-23T10:46:24.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Safeguarding adults, England: 2025 to 2026 report]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/safeguarding-adults-england-2025-to-2026-report</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/safeguarding-adults-england-2025-to-2026-report"/>
+        <updated>2026-10-23T09:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on adult safeguarding concerns that were raised and where enquiries took place during 2025 to 2026 in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notice: Life Sciences Healthcare Goals]]></title>
+        <id>https://www.gov.uk/government/publications/life-sciences-healthcare-goals</id>
+        <link href="https://www.gov.uk/government/publications/life-sciences-healthcare-goals"/>
+        <updated>2026-10-23T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[The Healthcare Goals programme brings together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Policy paper: Health Bill: patient safety - fact sheet]]></title>
         <id>https://www.gov.uk/government/publications/health-bill-patient-safety-fact-sheet</id>
