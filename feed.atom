@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-27T23:23:40.447Z</updated>
+    <updated>2026-10-28T03:18:41.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1321,39 +1321,6 @@
         <summary type="html"><![CDATA[Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leeds review sets out terms of reference for investigation]]></title>
-        <id>https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation</id>
-        <link href="https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation"/>
-        <updated>2026-09-28T14:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Independent review into Leeds maternity and neonatal care sets out terms of reference for investigation.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Independent review into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust: terms of reference]]></title>
-        <id>https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference</id>
-        <link href="https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference"/>
-        <updated>2026-09-28T13:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Terms of reference for the independent investigation into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660]]></title>
-        <id>7d7728a0-fc19-4814-88ca-a498363702c4</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4859"/>
-        <updated>2026-09-28T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server
- Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server
- Updated: 28 Sep 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
         </author>
     </entry>
     <entry>

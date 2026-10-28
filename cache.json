@@ -224,16 +224,6 @@
           "wordCount": null,
           "title": "CC-4860 - Apple Releases Security Updates for macOS, iOS, and iPadOS",
           "imageUrl": null
-        },
-        {
-          "id": "7d7728a0-fc19-4814-88ca-a498363702c4",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server\n Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server\n Updated: 28 Sep 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4859",
-          "publishedOn": "2026-09-28T12:55:00.000Z",
-          "wordCount": null,
-          "title": "CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660",
-          "imageUrl": null
         }
       ]
     },
@@ -2983,26 +2973,6 @@
           "publishedOn": "2026-09-29T08:33:22.000Z",
           "wordCount": 730,
           "title": "Official Statistics: Adult social care client level data, England: quarterly update to June 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation",
-          "author": null,
-          "description": "Independent review into Leeds maternity and neonatal care sets out terms of reference for investigation.",
-          "link": "https://www.gov.uk/government/news/leeds-review-sets-out-terms-of-reference-for-investigation",
-          "publishedOn": "2026-09-28T14:18:37.000Z",
-          "wordCount": 2824,
-          "title": "Leeds review sets out terms of reference for investigation",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference",
-          "author": null,
-          "description": "Terms of reference for the independent investigation into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust.",
-          "link": "https://www.gov.uk/government/publications/independent-review-into-maternity-and-neonatal-services-at-leeds-teaching-hospitals-nhs-trust-terms-of-reference",
-          "publishedOn": "2026-09-28T13:17:05.000Z",
-          "wordCount": 1029,
-          "title": "Guidance: Independent review into maternity and neonatal services at Leeds Teaching Hospitals NHS Trust: terms of reference",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
