@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-29T14:50:03.438Z</updated>
+    <updated>2026-10-29T19:59:11.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ordering and retaining medical certificates of cause of death (MCCDs)]]></title>
+        <id>https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds</id>
+        <link href="https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds"/>
+        <updated>2026-10-29T17:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Guidance for GP practices, hospitals, hospices and medical examiner offices on how to order MCCDs and what to do with completed MCCDs.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparency data: DHSC: register of senior civil servants' secondary paid employment, 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/publications/dhsc-register-of-senior-civil-servants-secondary-paid-employment-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/publications/dhsc-register-of-senior-civil-servants-secondary-paid-employment-2025-to-2026"/>
+        <updated>2026-10-29T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Register of any paid outside employment held by members of the Senior Civil Service at DHSC during the 2025 to 2026 financial year.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD]]></title>
         <id>524e73f1-0e50-403f-87eb-5cb425edc2a5</id>
