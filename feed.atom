@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-29T07:52:20.834Z</updated>
+    <updated>2026-10-29T14:50:03.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD]]></title>
+        <id>524e73f1-0e50-403f-87eb-5cb425edc2a5</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4883"/>
+        <updated>2026-10-29T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service
+ Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service
+ Updated: 29 Oct 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporate report: Financial assistance to NHS trusts and foundation trusts: 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026"/>
+        <updated>2026-10-29T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Loans and public dividend capital provided by the Secretary of State for Health and Social Care to NHS trusts and foundation trusts during 2025 to 2026.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)]]></title>
+        <id>5c278cfb-5d7c-4be2-ade1-54569a1eb642</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4882"/>
+        <updated>2026-10-29T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)
+ Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)
+ Updated: 29 Oct 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under-18 sales ban on nicotine products and all vapes]]></title>
+        <id>https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes</id>
+        <link href="https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes"/>
+        <updated>2026-10-29T12:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Chief Medical Officer responds to restrictions on the sale and promotion of vapes and nicotine products]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[School Food Standards: updating the legislative framework]]></title>
+        <id>https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework</id>
+        <link href="https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework"/>
+        <updated>2026-10-29T10:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Seeking views on updating the School Food Standards, so that every school is supported with the latest nutrition guidance.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Updating the school food standards: feasibility pilot findings]]></title>
+        <id>https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings</id>
+        <link href="https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings"/>
+        <updated>2026-10-29T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Report of research that tested and contributed to the development of new school food standards in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: School food standards 2027: example menus and nutrient analysis]]></title>
+        <id>https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis</id>
+        <link href="https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis"/>
+        <updated>2026-10-29T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Example primary and secondary school lunch menus that meet the updated school food standards, with nutrient analysis to show their nutritional effect.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under-18 sales ban extended to nicotine products and all vapes]]></title>
+        <id>https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes</id>
+        <link href="https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes"/>
+        <updated>2026-10-29T09:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Government implements new restrictions on the sale and promotion of vapes and nicotine products across the UK]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Adult social care survey report, England: 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026"/>
+        <updated>2026-10-29T09:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics on the outcomes and experiences of users aged 18 and over in receipt of long-term adult social care services in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Statistics: Adult social care activity report, England: 2025 to 2026]]></title>
         <id>https://www.gov.uk/government/statistics/announcements/adult-social-care-activity-report-england-2025-to-2026</id>

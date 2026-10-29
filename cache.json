@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "524e73f1-0e50-403f-87eb-5cb425edc2a5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Updated: 29 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4883",
+          "publishedOn": "2026-10-29T13:33:00.000Z",
+          "wordCount": null,
+          "title": "CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD",
+          "imageUrl": null
+        },
+        {
+          "id": "5c278cfb-5d7c-4be2-ade1-54569a1eb642",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)\n Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)\n Updated: 29 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
+          "publishedOn": "2026-10-29T13:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
+          "imageUrl": null
+        },
+        {
           "id": "b4c05f31-7e84-4bde-884c-c2fcc068cb4a",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Four high severity vulnerabilities identified, including CVE-2026-111497, an out-of-bounds write vulnerability that could allow remote code execution\n Four high severity vulnerabilities identified, including CVE-2026-111497, an out-of-bounds write vulnerability that could allow remote code execution\n Updated: 23 Oct 2026",
@@ -2005,6 +2025,76 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026",
+          "author": null,
+          "description": "Loans and public dividend capital provided by the Secretary of State for Health and Social Care to NHS trusts and foundation trusts during 2025 to 2026.",
+          "link": "https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026",
+          "publishedOn": "2026-10-29T13:20:00.000Z",
+          "wordCount": null,
+          "title": "Corporate report: Financial assistance to NHS trusts and foundation trusts: 2025 to 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes",
+          "author": null,
+          "description": "Chief Medical Officer responds to restrictions on the sale and promotion of vapes and nicotine products",
+          "link": "https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes",
+          "publishedOn": "2026-10-29T12:36:57.000Z",
+          "wordCount": 1528,
+          "title": "Under-18 sales ban on nicotine products and all vapes",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework",
+          "author": null,
+          "description": "Seeking views on updating the School Food Standards, so that every school is supported with the latest nutrition guidance.",
+          "link": "https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework",
+          "publishedOn": "2026-10-29T10:56:24.000Z",
+          "wordCount": 1263,
+          "title": "School Food Standards: updating the legislative framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings",
+          "author": null,
+          "description": "Report of research that tested and contributed to the development of new school food standards in England.",
+          "link": "https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings",
+          "publishedOn": "2026-10-29T10:00:03.000Z",
+          "wordCount": 1265,
+          "title": "Research: Updating the school food standards: feasibility pilot findings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis",
+          "author": null,
+          "description": "Example primary and secondary school lunch menus that meet the updated school food standards, with nutrient analysis to show their nutritional effect.",
+          "link": "https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis",
+          "publishedOn": "2026-10-29T10:00:03.000Z",
+          "wordCount": 949,
+          "title": "Guidance: School food standards 2027: example menus and nutrient analysis",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes",
+          "author": null,
+          "description": "Government implements new restrictions on the sale and promotion of vapes and nicotine products across the UK",
+          "link": "https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes",
+          "publishedOn": "2026-10-29T09:52:33.000Z",
+          "wordCount": 2304,
+          "title": "Under-18 sales ban extended to nicotine products and all vapes",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026",
+          "author": null,
+          "description": "Official statistics on the outcomes and experiences of users aged 18 and over in receipt of long-term adult social care services in England.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026",
+          "publishedOn": "2026-10-29T09:30:06.000Z",
+          "wordCount": 1469,
+          "title": "Official Statistics: Adult social care survey report, England: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-activity-report-england-2025-to-2026",
           "author": null,
