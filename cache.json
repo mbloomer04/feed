@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "565942bc-19b7-44da-997b-1cdde7c313c8",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update addresses multiple vulnerabilities in WordPress Core, including a weakness that could lead to remote code execution during the upgrade process\n Security update addresses multiple vulnerabilities in WordPress Core, including a weakness that could lead to remote code execution during the upgrade process\n Updated: 30 Oct 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4884",
+          "publishedOn": "2026-10-30T12:07:00.000Z",
+          "wordCount": null,
+          "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "524e73f1-0e50-403f-87eb-5cb425edc2a5",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Updated: 29 Oct 2026",
@@ -2005,6 +2015,46 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/government-accepts-advice-on-spring-2027-covid-19-vaccinations",
+          "author": null,
+          "description": "Government confirms eligibility for the spring 2027 COVID-19 vaccination programme in line with JCVI advice",
+          "link": "https://www.gov.uk/government/news/government-accepts-advice-on-spring-2027-covid-19-vaccinations",
+          "publishedOn": "2026-10-30T12:38:08.000Z",
+          "wordCount": 1136,
+          "title": "Government accepts advice on spring 2027 COVID-19 vaccinations",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-september-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-september-2026",
+          "publishedOn": "2026-10-30T11:34:38.000Z",
+          "wordCount": 829,
+          "title": "Transparency data: DHSC: spending over £500, September 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-august-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-august-2026",
+          "publishedOn": "2026-10-30T11:34:35.000Z",
+          "wordCount": 829,
+          "title": "Transparency data: DHSC: spending over £500, August 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
+          "author": null,
+          "description": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+          "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
+          "publishedOn": "2026-10-30T11:00:13.000Z",
+          "wordCount": 1277,
+          "title": "Official Statistics: Adult social care client level data, England: quarterly update to March 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/care-act-2014-supporting-implementation",
           "author": null,
