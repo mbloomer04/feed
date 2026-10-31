@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-10-30T21:15:56.219Z</updated>
+    <updated>2026-10-31T01:17:09.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS warns of life-changing injuries as Bonfire Night approaches]]></title>
+        <id>https://www.england.nhs.uk/?p=294927</id>
+        <link href="https://www.england.nhs.uk/2026/10/nhs-warns-of-life-changing-injuries-as-bonfire-night-approaches/"/>
+        <updated>2026-10-31T00:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Hospitals are bracing for an increase in patients with firework-related burns and injuries next week, after admissions jumped 42% last November, with some children suffering life-changing injuries.  There were 85 firework-related hospital admissions in England in November 2025, up from 60 in November the year before. Across the whole of 2025, admissions reached 161, compared […]]]></summary>
+        <author>
+            <name>nowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Government accepts advice on spring 2027 COVID-19 vaccinations]]></title>
         <id>https://www.gov.uk/government/news/government-accepts-advice-on-spring-2027-covid-19-vaccinations</id>
@@ -1292,66 +1302,6 @@
         <link href="https://www.gov.uk/government/publications/children-and-young-peoples-alcohol-and-drug-services-framework"/>
         <updated>2026-10-01T15:58:37.000Z</updated>
         <summary type="html"><![CDATA[This framework sets out guidance for designing, commissioning and providing alcohol and drug support for children and young people in England.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: How to collect SACE data: 2025 to 2026]]></title>
-        <id>https://www.gov.uk/government/publications/how-to-collect-sace-data-2025-to-2026</id>
-        <link href="https://www.gov.uk/government/publications/how-to-collect-sace-data-2025-to-2026"/>
-        <updated>2026-10-01T11:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Guidance and materials for local authorities on how to collect data for the survey of adult carers in England (SACE) for the 2025 to 2026 survey year.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: How to complete the SAC data return: 2025 to 2026]]></title>
-        <id>https://www.gov.uk/government/publications/safeguarding-adults-collection-sac-data-return-2025-to-2026</id>
-        <link href="https://www.gov.uk/government/publications/safeguarding-adults-collection-sac-data-return-2025-to-2026"/>
-        <updated>2026-10-01T11:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Guidance for local authorities on how to complete the safeguarding adults collection (SAC) data return for the 2025 to 2026 reporting period.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: How to complete the DPAs data return: 2025 to 2026]]></title>
-        <id>https://www.gov.uk/government/publications/deferred-payment-agreements-dpas-return-2025-to-2026</id>
-        <link href="https://www.gov.uk/government/publications/deferred-payment-agreements-dpas-return-2025-to-2026"/>
-        <updated>2026-10-01T11:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Guidance for local authorities on how to complete the deferred payment agreements (DPAs) data return for the 2025 to 2026 reporting period.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: How to collect ASCS data: 2025 to 2026]]></title>
-        <id>https://www.gov.uk/government/publications/how-to-collect-ascs-data-2025-to-2026</id>
-        <link href="https://www.gov.uk/government/publications/how-to-collect-ascs-data-2025-to-2026"/>
-        <updated>2026-10-01T10:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Guidance and materials for local authorities on how to collect data for the adult social care survey (ASCS) for the 2025 to 2026 survey year.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: Independent Commission on Adult Social Care: terms of reference]]></title>
-        <id>https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference</id>
-        <link href="https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference"/>
-        <updated>2026-10-01T10:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Terms of reference for Baroness Casey's Independent Commission on Adult Social Care.]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance: How to collect ASCS data: 2026 to 2027]]></title>
-        <id>https://www.gov.uk/government/publications/how-to-collect-ascs-data-2026-to-2027</id>
-        <link href="https://www.gov.uk/government/publications/how-to-collect-ascs-data-2026-to-2027"/>
-        <updated>2026-10-01T10:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Guidance and materials for the adult social care survey (ASCS) in England 2026 to 2027 survey year.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
