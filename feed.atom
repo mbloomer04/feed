@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-02T21:11:18.925Z</updated>
+    <updated>2026-11-03T03:12:54.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One million more scans to help catch cancer sooner]]></title>
+        <id>https://www.gov.uk/government/news/one-million-more-scans-to-help-catch-cancer-sooner</id>
+        <link href="https://www.gov.uk/government/news/one-million-more-scans-to-help-catch-cancer-sooner"/>
+        <updated>2026-11-03T00:05:07.000Z</updated>
+        <summary type="html"><![CDATA[125 more NHS scanners and AI technology are helping deliver a million extra scans each year, supporting earlier cancer diagnosis and faster treatment.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New NHS system to help doctors spot deteriorating children faster in emergency departments]]></title>
         <id>https://www.england.nhs.uk/?p=294971</id>
