@@ -1959,6 +1959,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=295258",
+          "author": "jboshell",
+          "description": "Commenting on today’s new Cancer Registration Statistics, England 2024 data, which show a thousand people per day were diagnosed with cancer by the health service. Professor Peter Johnson, NHS National Clinical Director for Cancer, said: “These new figures show the health service is moving in the right direction with NHS staff working hard to diagnose […]",
+          "link": "https://www.england.nhs.uk/2026/11/nhs-diagnoses-one-thousand-cancers-a-day/",
+          "publishedOn": "2026-11-05T15:21:30.000Z",
+          "wordCount": null,
+          "title": "NHS diagnoses one thousand cancers a day",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=294971",
           "author": "jboshell",
           "description": "The NHS is rolling out an innovative early warning system for doctors and nurses in emergency departments (ED), to help spot and treat deteriorating child patients, faster. The National Paediatric Early Warning System (PEWS) will be introduced in emergency departments from this winter, giving staff a clear, consistent way to track signs that a child’s […]",
@@ -2015,6 +2025,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
+          "author": null,
+          "description": "UK government worked with the DRC government and international health partners to bring the patient home on a medical evacuation flight",
+          "link": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
+          "publishedOn": "2026-11-05T19:47:15.000Z",
+          "wordCount": 1166,
+          "title": "UK citizen returned from DRC for specialist Ebola care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-november-2026",
           "author": null,
@@ -2833,26 +2853,6 @@
           "publishedOn": "2026-10-08T08:29:33.000Z",
           "wordCount": 1026,
           "title": "Guidance: Telecare and the digital switchover: guidance for housing providers",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/adult-social-care-activity-report-england-2024-to-2025",
-          "author": null,
-          "description": "Official statistics in development on adult social care activity including data on requests for support, provision of care services, and reviews of care and support plans.",
-          "link": "https://www.gov.uk/government/statistics/adult-social-care-activity-report-england-2024-to-2025",
-          "publishedOn": "2026-10-07T10:21:26.000Z",
-          "wordCount": 2116,
-          "title": "Official Statistics: Adult social care activity report, England: 2024 to 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/using-dual-energy-x-ray-absorptiometry-dexa-scans-for-non-medical-purposes-as-a-justified-practice",
-          "author": null,
-          "description": "We are seeking views on the potential use of DEXA scans outside of a healthcare pathway.",
-          "link": "https://www.gov.uk/government/consultations/using-dual-energy-x-ray-absorptiometry-dexa-scans-for-non-medical-purposes-as-a-justified-practice",
-          "publishedOn": "2026-10-07T09:14:08.000Z",
-          "wordCount": 1361,
-          "title": "Using dual energy x-ray absorptiometry (DEXA) scans for non-medical purposes as a justified practice",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
