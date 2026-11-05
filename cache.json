@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "2d652e56-d6a8-4806-8864-943dadfaf8d2",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-107441 could allow an unauthenticated attacker with local area network (LAN) access to execute operating system commands on affected switches\n Successful exploitation of CVE-2026-107441 could allow an unauthenticated attacker with local area network (LAN) access to execute operating system commands on affected switches\n Updated: 05 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4885",
+          "publishedOn": "2026-11-05T16:25:00.000Z",
+          "wordCount": null,
+          "title": "CC-4885 - Zyxel Releases Security Update for GS1900 Series Switch Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "565942bc-19b7-44da-997b-1cdde7c313c8",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update addresses multiple vulnerabilities in WordPress Core, including a weakness that could lead to remote code execution during the upgrade process\n Security update addresses multiple vulnerabilities in WordPress Core, including a weakness that could lead to remote code execution during the upgrade process\n Updated: 30 Oct 2026",
@@ -2006,6 +2016,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-november-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-november-2026",
+          "publishedOn": "2026-11-05T14:19:41.000Z",
+          "wordCount": 665,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to November 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/deprivation-of-liberty-safeguards-england-2025-to-2026",
+          "author": null,
+          "description": "Data on Deprivation of Liberty Safeguards (DoLS) in local authorities, including the profile of people for whom a DoLS application was received.",
+          "link": "https://www.gov.uk/government/statistics/deprivation-of-liberty-safeguards-england-2025-to-2026",
+          "publishedOn": "2026-11-05T09:30:07.000Z",
+          "wordCount": 1275,
+          "title": "Official Statistics: Deprivation of Liberty Safeguards, England: 2025 to 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/chief-medical-officers-annual-report-2026-health-in-rural-areas-and-small-towns",
           "author": null,
           "description": "Professor Chris Whitty’s annual report discusses the health and wellbeing of communities in England’s small towns and rural areas.",
@@ -2033,6 +2063,16 @@
           "publishedOn": "2026-11-03T15:37:02.000Z",
           "wordCount": 2962,
           "title": "Digital social care records: how to get more from your system",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "author": null,
+          "description": "Data on the funds collected by the Compensation Recovery Unit and funds paid to the NHS.",
+          "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
+          "publishedOn": "2026-11-03T11:50:57.000Z",
+          "wordCount": 988,
+          "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
