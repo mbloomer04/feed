@@ -204,26 +204,6 @@
           "wordCount": null,
           "title": "CC-4866 - Ivanti Releases Security Updates for Connect Secure",
           "imageUrl": null
-        },
-        {
-          "id": "dd91ccbe-d3a4-4b54-9067-9945c07291a4",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n CVE-2026-107406 could allow remote code execution or denial of service on vulnerable NetScaler deployments configured for SAML authentication.\n Updated: 09 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4865",
-          "publishedOn": "2026-10-09T11:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4865 - Critical Remote Code Execution Vulnerability in Citrix NetScaler",
-          "imageUrl": null
-        },
-        {
-          "id": "cf587ae5-746f-44f9-bf3c-b381a64e96dd",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting Cisco NX-OS software deployments\n The critical advisory addresses multiple vulnerability classes affecting Cisco NX-OS software deployments\n Updated: 09 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4864",
-          "publishedOn": "2026-10-09T10:11:00.000Z",
-          "wordCount": null,
-          "title": "CC-4864 - Cisco Releases NX-OS Software Security Hardening Guidance",
-          "imageUrl": null
         }
       ]
     },
@@ -2733,36 +2713,6 @@
           "publishedOn": "2026-10-09T14:30:28.000Z",
           "wordCount": 4155,
           "title": "Minister McGovern speech on mental health, ADHD and autism",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/2024-vpag-operational-review-23-july-2026",
-          "author": null,
-          "description": "Minutes of a meeting held between the government, NHS England and ABPI about the 2024 voluntary scheme for branded medicines pricing, access and growth (VPAG).",
-          "link": "https://www.gov.uk/government/publications/2024-vpag-operational-review-23-july-2026",
-          "publishedOn": "2026-10-09T08:30:03.000Z",
-          "wordCount": 935,
-          "title": "Transparency data: 2024 VPAG operational review: 23 July 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report",
-          "author": null,
-          "description": "Final report detailing the findings of the independent review into the prevalence and support for mental health conditions, ADHD and autism.",
-          "link": "https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report",
-          "publishedOn": "2026-10-09T08:00:00.000Z",
-          "wordCount": 1145,
-          "title": "Independent report: Independent review into mental health conditions, ADHD and autism: final report",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-final-report-easy-read",
-          "author": null,
-          "description": "This report explains the final results of a review about mental health conditions, ADHD and autism.",
-          "link": "https://www.gov.uk/government/publications/looking-into-mental-health-conditions-adhd-and-autism-final-report-easy-read",
-          "publishedOn": "2026-10-09T08:00:00.000Z",
-          "wordCount": 996,
-          "title": "Independent report: Looking into mental health conditions, ADHD and autism: final report (easy read)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
