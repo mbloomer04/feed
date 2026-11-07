@@ -224,16 +224,6 @@
           "wordCount": null,
           "title": "CC-4864 - Cisco Releases NX-OS Software Security Hardening Guidance",
           "imageUrl": null
-        },
-        {
-          "id": "bc2e5e17-dbbb-4aa9-b9c6-3eedc47495b5",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability\n Updated: 08 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4863",
-          "publishedOn": "2026-10-08T13:53:00.000Z",
-          "wordCount": null,
-          "title": "CC-4863 - SonicWall Releases Critical Security Advisory for SMA1000 Series Appliances",
-          "imageUrl": null
         }
       ]
     },
@@ -2783,16 +2773,6 @@
           "publishedOn": "2026-10-09T07:17:09.000Z",
           "wordCount": 6737,
           "title": "Government pledges earlier support to tackle mental health crises",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
-          "author": null,
-          "description": "£33.2m will fund eight vaccine projects targeting deadly diseases, strengthening UK pandemic preparedness and helping protect people worldwide.",
-          "link": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
-          "publishedOn": "2026-10-08T13:27:43.000Z",
-          "wordCount": 2242,
-          "title": "£33.2m to protect public from future epidemics and pandemics",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]

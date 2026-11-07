@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-06T22:35:10.563Z</updated>
+    <updated>2026-11-07T02:28:59.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
@@ -1119,29 +1119,6 @@
         <link href="https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises"/>
         <updated>2026-10-09T07:17:09.000Z</updated>
         <summary type="html"><![CDATA[Independent review into prevalence and support for mental health conditions, ADHD and autism published]]></summary>
-        <author>
-            <name>Department of Health and Social Care - Activity on GOV.UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC-4863 - SonicWall Releases Critical Security Advisory for SMA1000 Series Appliances]]></title>
-        <id>bc2e5e17-dbbb-4aa9-b9c6-3eedc47495b5</id>
-        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4863"/>
-        <updated>2026-10-08T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Severity: Medium
- Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability
- Security updates address four vulnerabilities, including a maximum severity unauthenticated SSRF vulnerability
- Updated: 08 Oct 2026]]></summary>
-        <author>
-            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[£33.2m to protect public from future epidemics and pandemics]]></title>
-        <id>https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics</id>
-        <link href="https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics"/>
-        <updated>2026-10-08T13:27:43.000Z</updated>
-        <summary type="html"><![CDATA[£33.2m will fund eight vaccine projects targeting deadly diseases, strengthening UK pandemic preparedness and helping protect people worldwide.]]></summary>
         <author>
             <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
