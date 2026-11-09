@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "70fef89b-6512-4189-a538-f9bd1678cebb",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates to address seven vulnerabilities, including an actively exploited vulnerability (CVE-2026-19868)\n Security updates to address seven vulnerabilities, including an actively exploited vulnerability (CVE-2026-19868)\n Updated: 09 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4886",
+          "publishedOn": "2026-11-09T15:11:00.000Z",
+          "wordCount": null,
+          "title": "CC-4486 - SonicWall Releases Security Advisory for SonicOS Platforms",
+          "imageUrl": null
+        },
+        {
           "id": "2d652e56-d6a8-4806-8864-943dadfaf8d2",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-107441 could allow an unauthenticated attacker with local area network (LAN) access to execute operating system commands on affected switches\n Successful exploitation of CVE-2026-107441 could allow an unauthenticated attacker with local area network (LAN) access to execute operating system commands on affected switches\n Updated: 05 Nov 2026",
@@ -1985,6 +1995,36 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "author": null,
+          "description": "Directions for the NHS from the Secretary of State for Health and Social Care governing the provision of Directed Enhanced Services (DESs) in general practice.",
+          "link": "https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions",
+          "publishedOn": "2026-11-09T16:42:42.000Z",
+          "wordCount": 1120,
+          "title": "Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/rough-sleeping-actions-for-the-health-and-care-sector",
+          "author": null,
+          "description": "What health and care organisations should do to support the Rough Sleeping Programme and help people move off the streets, including actions for winter 2026 to 2027.",
+          "link": "https://www.gov.uk/government/publications/rough-sleeping-actions-for-the-health-and-care-sector",
+          "publishedOn": "2026-11-09T16:37:53.000Z",
+          "wordCount": 945,
+          "title": "Guidance: Rough sleeping: actions for the health and care sector",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/40-million-for-gps-to-keep-vulnerable-patients-out-of-hospital-this-winter",
+          "author": null,
+          "description": "Hundreds of thousands of vulnerable patients will receive support from their GP this winter under £40 million programme.",
+          "link": "https://www.gov.uk/government/news/40-million-for-gps-to-keep-vulnerable-patients-out-of-hospital-this-winter",
+          "publishedOn": "2026-11-09T08:40:00.000Z",
+          "wordCount": 4166,
+          "title": "£40 million for GPs to keep vulnerable patients out of hospital this winter",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025",
           "author": null,
