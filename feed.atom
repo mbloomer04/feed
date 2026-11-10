@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-10T01:48:54.929Z</updated>
+    <updated>2026-11-10T09:00:15.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Measures from the adult social care outcomes framework, England: 2025 to 2026]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/measures-from-the-adult-social-care-outcomes-framework-england-2025-to-2026</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/measures-from-the-adult-social-care-outcomes-framework-england-2025-to-2026"/>
+        <updated>2026-11-10T08:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Findings from ASCOF, which measures how well care services achieve outcomes including quality of life and whether long-term support needs are being met. Due to a processing error and client level data (CLD) needing further quality assurance, we will publish the 6 CLD-based metrics (ASCOF 2A, 2B, 2C, 2D, 2E and 3D) at a later date. If you have any questions, contact asc.statistics@dhsc.gov.uk.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statutory guidance: Primary Medical Services (Directed Enhanced Services) Directions]]></title>
         <id>https://www.gov.uk/government/publications/primary-medical-services-directed-enhanced-services-directions</id>
