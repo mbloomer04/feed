@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "cb28549e-7ea3-43b1-9da6-b98fbc515d8f",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security updates include 9 security fixes, including an exploited vulnerability CVE-2026-125350\n Security updates include 9 security fixes, including an exploited vulnerability CVE-2026-125350\n Updated: 10 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4887",
+          "publishedOn": "2026-11-10T16:04:00.000Z",
+          "wordCount": null,
+          "title": "CC-4887 - Google Releases Security Update for Chrome",
+          "imageUrl": null
+        },
+        {
           "id": "70fef89b-6512-4189-a538-f9bd1678cebb",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security updates to address seven vulnerabilities, including an actively exploited vulnerability (CVE-2026-19868)\n Security updates to address seven vulnerabilities, including an actively exploited vulnerability (CVE-2026-19868)\n Updated: 09 Nov 2026",
@@ -1976,16 +1986,6 @@
           "publishedOn": "2026-10-22T10:44:50.000Z",
           "wordCount": null,
           "title": "NHS supports record numbers of people living with dementia as target achieved",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.england.nhs.uk/?p=294192",
-          "author": "nowen",
-          "description": "Millions of people across England can now get an alert on their smartwatch or mobile when their prescription is ready to be collected. The new alerts are being introduced following the success of the ‘Amazon-style’ prescription tracking feature in the NHS App, which has been used by nearly 2.9 million people since its launch last […]",
-          "link": "https://www.england.nhs.uk/2026/10/nhs-rolls-out-prescription-ready-alerts-on-smartwatches-and-mobiles/",
-          "publishedOn": "2026-10-11T23:01:38.000Z",
-          "wordCount": null,
-          "title": "NHS rolls out prescription ready alerts on smartwatches and mobiles",
           "imageUrl": null
         }
       ]
