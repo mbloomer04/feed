@@ -6,6 +6,46 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "7a3a449d-b705-40ea-8078-77fee5591161",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities\n Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities\n Updated: 11 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4891",
+          "publishedOn": "2026-11-11T15:49:00.000Z",
+          "wordCount": null,
+          "title": "CC-4891 - N-able Releases Security Update for N-central",
+          "imageUrl": null
+        },
+        {
+          "id": "b95c49bb-d284-40ee-a311-75e1623ed3a6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-121653 could allow an unauthenticated attacker to achieve remote code execution\n Successful exploitation of CVE-2026-121653 could allow an unauthenticated attacker to achieve remote code execution\n Updated: 11 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4890",
+          "publishedOn": "2026-11-11T15:47:00.000Z",
+          "wordCount": null,
+          "title": "CC-4890 - Ivanti Releases Critical Security Update for Endpoint Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "924ae87c-4e30-448d-9461-29cf205859af",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled security updates for Microsoft products address 1,235 vulnerabilities, including 1 zero-day vulnerability\n Scheduled security updates for Microsoft products address 1,235 vulnerabilities, including 1 zero-day vulnerability\n Updated: 11 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4889",
+          "publishedOn": "2026-11-11T15:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4889 - Microsoft Releases November 2026 Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "f67abc0b-d1d6-4803-a346-58e0aa9f506b",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security advisories address 98 vulnerabilities across multiple Fortinet products, including 19 critical vulnerabilities\n Security advisories address 98 vulnerabilities across multiple Fortinet products, including 19 critical vulnerabilities\n Updated: 11 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4888",
+          "publishedOn": "2026-11-11T14:35:00.000Z",
+          "wordCount": null,
+          "title": "CC-4888 - Fortinet Releases Security Advisories Addressing Multiple Critical Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "cb28549e-7ea3-43b1-9da6-b98fbc515d8f",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security updates include 9 security fixes, including an exploited vulnerability CVE-2026-125350\n Security updates include 9 security fixes, including an exploited vulnerability CVE-2026-125350\n Updated: 10 Nov 2026",
@@ -1995,6 +2035,16 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/publications/recovery-support-services-and-lived-experience-initiatives",
+          "author": null,
+          "description": "Guidance on supporting lived experience initiatives and recovery support services to help people start and sustain recovery from problem alcohol and drug use.",
+          "link": "https://www.gov.uk/government/publications/recovery-support-services-and-lived-experience-initiatives",
+          "publishedOn": "2026-11-11T17:03:47.000Z",
+          "wordCount": 1297,
+          "title": "Guidance: Recovery support services and lived experience initiatives",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/speeches/minister-alison-mcgovern-speech-at-the-youth-access-conference",
           "author": null,

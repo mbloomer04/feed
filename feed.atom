@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-11T10:05:15.181Z</updated>
+    <updated>2026-11-11T18:15:30.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Recovery support services and lived experience initiatives]]></title>
+        <id>https://www.gov.uk/government/publications/recovery-support-services-and-lived-experience-initiatives</id>
+        <link href="https://www.gov.uk/government/publications/recovery-support-services-and-lived-experience-initiatives"/>
+        <updated>2026-11-11T17:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Guidance on supporting lived experience initiatives and recovery support services to help people start and sustain recovery from problem alcohol and drug use.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4891 - N-able Releases Security Update for N-central]]></title>
+        <id>7a3a449d-b705-40ea-8078-77fee5591161</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4891"/>
+        <updated>2026-11-11T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities
+ Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities
+ Updated: 11 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4890 - Ivanti Releases Critical Security Update for Endpoint Manager]]></title>
+        <id>b95c49bb-d284-40ee-a311-75e1623ed3a6</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4890"/>
+        <updated>2026-11-11T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Successful exploitation of CVE-2026-121653 could allow an unauthenticated attacker to achieve remote code execution
+ Successful exploitation of CVE-2026-121653 could allow an unauthenticated attacker to achieve remote code execution
+ Updated: 11 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4889 - Microsoft Releases November 2026 Security Updates]]></title>
+        <id>924ae87c-4e30-448d-9461-29cf205859af</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4889"/>
+        <updated>2026-11-11T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Scheduled security updates for Microsoft products address 1,235 vulnerabilities, including 1 zero-day vulnerability
+ Scheduled security updates for Microsoft products address 1,235 vulnerabilities, including 1 zero-day vulnerability
+ Updated: 11 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4888 - Fortinet Releases Security Advisories Addressing Multiple Critical Vulnerabilities]]></title>
+        <id>f67abc0b-d1d6-4803-a346-58e0aa9f506b</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4888"/>
+        <updated>2026-11-11T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security advisories address 98 vulnerabilities across multiple Fortinet products, including 19 critical vulnerabilities
+ Security advisories address 98 vulnerabilities across multiple Fortinet products, including 19 critical vulnerabilities
+ Updated: 11 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4887 - Google Releases Security Update for Chrome]]></title>
         <id>cb28549e-7ea3-43b1-9da6-b98fbc515d8f</id>
