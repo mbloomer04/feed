@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "31ca5c49-d53c-4d18-bbc7-e817f06e42b6",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.\n ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.\n Updated: 12 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4893",
+          "publishedOn": "2026-11-12T15:10:00.000Z",
+          "wordCount": null,
+          "title": "CC-4893 - ConnectWise Releases Security Advisory Following Unauthorised Access to ScreenConnect Environments",
+          "imageUrl": null
+        },
+        {
+          "id": "8fd3d2cb-13eb-4f84-952d-30b98abf84c5",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-119618 could allow an unauthenticated attacker to achieve remote code execution\n Successful exploitation of CVE-2026-119618 could allow an unauthenticated attacker to achieve remote code execution\n Updated: 12 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4892",
+          "publishedOn": "2026-11-12T12:46:00.000Z",
+          "wordCount": null,
+          "title": "CC-4892 - Critical Remote Code Execution Vulnerability in Apache HTTP Server",
+          "imageUrl": null
+        },
+        {
           "id": "7a3a449d-b705-40ea-8078-77fee5591161",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities\n Security update for N-central addresses seven vulnerabilities, including two critical and five high severity vulnerabilities\n Updated: 11 Nov 2026",
@@ -1979,6 +1999,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=295392",
+          "author": "jboshell",
+          "description": "The NHS delivered its best 18-week elective performance for more than five years in September, as staff manage record demand on services. New NHS figures published today show almost 66% of patients on the waiting list have been waiting less than 18 weeks – the highest proportion since September 2021. The progress comes alongside a […]",
+          "link": "https://www.england.nhs.uk/2026/11/nhs-elective-performance-at-5-year-high-amid-record-demand/",
+          "publishedOn": "2026-11-12T09:51:06.000Z",
+          "wordCount": null,
+          "title": "NHS elective performance at 5-year high amid record demand",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=295382",
           "author": "jboshell",
           "description": "NHS patients living with advanced anal cancer can now benefit from a new life-extending treatment, hailed by the NHS’s top cancer doctor as “one of the most significant steps in decades” for people with the disease. The NHS rollout follows a major clinical trial which found that patients receiving the treatment lived on average 11 […]",
@@ -2035,6 +2065,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference",
+          "author": null,
+          "description": "Minister McGovern delivered the keynote speech at the National Children's and Adult's Social Services conference in Liverpool",
+          "link": "https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference",
+          "publishedOn": "2026-11-12T16:12:04.000Z",
+          "wordCount": 5349,
+          "title": "Minister McGovern's social care speech at the NCASC conference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet",
+          "author": null,
+          "description": "Outlines the proposed legislative changes in the upcoming Health Bill to the way patient and public voice is listened to and acted upon within the health and care system.",
+          "link": "https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet",
+          "publishedOn": "2026-11-12T12:06:53.000Z",
+          "wordCount": 1015,
+          "title": "Policy paper: Health Bill: patient voice - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/more-familiar-carers-and-less-travel-under-new-social-care-plans",
           "author": null,

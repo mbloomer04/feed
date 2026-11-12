@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-12T09:00:53.709Z</updated>
+    <updated>2026-11-12T17:48:38.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minister McGovern's social care speech at the NCASC conference]]></title>
+        <id>https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference</id>
+        <link href="https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference"/>
+        <updated>2026-11-12T16:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Minister McGovern delivered the keynote speech at the National Children's and Adult's Social Services conference in Liverpool]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4893 - ConnectWise Releases Security Advisory Following Unauthorised Access to ScreenConnect Environments]]></title>
+        <id>31ca5c49-d53c-4d18-bbc7-e817f06e42b6</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4893"/>
+        <updated>2026-11-12T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.
+ ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.
+ Updated: 12 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4892 - Critical Remote Code Execution Vulnerability in Apache HTTP Server]]></title>
+        <id>8fd3d2cb-13eb-4f84-952d-30b98abf84c5</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4892"/>
+        <updated>2026-11-12T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: High
+ Successful exploitation of CVE-2026-119618 could allow an unauthenticated attacker to achieve remote code execution
+ Successful exploitation of CVE-2026-119618 could allow an unauthenticated attacker to achieve remote code execution
+ Updated: 12 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policy paper: Health Bill: patient voice - fact sheet]]></title>
+        <id>https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet</id>
+        <link href="https://www.gov.uk/government/publications/health-bill-patient-voice-fact-sheet"/>
+        <updated>2026-11-12T12:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Outlines the proposed legislative changes in the upcoming Health Bill to the way patient and public voice is listened to and acted upon within the health and care system.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS elective performance at 5-year high amid record demand]]></title>
+        <id>https://www.england.nhs.uk/?p=295392</id>
+        <link href="https://www.england.nhs.uk/2026/11/nhs-elective-performance-at-5-year-high-amid-record-demand/"/>
+        <updated>2026-11-12T09:51:06.000Z</updated>
+        <summary type="html"><![CDATA[The NHS delivered its best 18-week elective performance for more than five years in September, as staff manage record demand on services. New NHS figures published today show almost 66% of patients on the waiting list have been waiting less than 18 weeks – the highest proportion since September 2021. The progress comes alongside a […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS fast tracks rollout of first ever targeted treatment for anal cancer]]></title>
         <id>https://www.england.nhs.uk/?p=295382</id>
