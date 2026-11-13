@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-13T04:22:23.674Z</updated>
+    <updated>2026-11-13T12:44:28.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS statement on Microsoft outage]]></title>
+        <id>https://www.england.nhs.uk/?p=295453</id>
+        <link href="https://www.england.nhs.uk/2026/11/nhs-statement-on-microsoft-outage/"/>
+        <updated>2026-11-13T10:58:48.000Z</updated>
+        <summary type="html"><![CDATA[An NHS spokesperson said:  “With the global Microsoft issue inevitably having a disruptive impact for staff, local NHS services are enacting long-standing measures to manage IT outages and ensure critical services and appointments can continue for patients today – including using other IT systems or paper records where possible. “Patients should continue to use 999 […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minister McGovern's social care speech at the NCASC conference]]></title>
         <id>https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference</id>
