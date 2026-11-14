@@ -244,26 +244,6 @@
           "wordCount": null,
           "title": "CC-4870 - Active Exploitation of BeyondTrust Remote Support Vulnerability (CVE-2026-102764)",
           "imageUrl": null
-        },
-        {
-          "id": "33554fc9-529d-43b2-8955-d1be212b2aa0",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Successful exploitation of CVE-2026-76519 could allow an unauthenticated remote attacker to write arbitrary files and execute commands with root privileges\n Updated: 15 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4869",
-          "publishedOn": "2026-10-15T11:28:00.000Z",
-          "wordCount": null,
-          "title": "CC-4869 - Cisco Releases Advisory For Critical Vulnerability in Cisco Async OS Affecting Secure Email Gateway",
-          "imageUrl": null
-        },
-        {
-          "id": "53bbe4f8-f5b1-4422-8e5c-c83c4b0ac426",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n CVE-2026-0322 could allow an authenticated attacker to execute arbitrary code with root privileges on the firewall\n CVE-2026-0322 could allow an authenticated attacker to execute arbitrary code with root privileges on the firewall\n Updated: 15 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4868",
-          "publishedOn": "2026-10-15T11:04:00.000Z",
-          "wordCount": null,
-          "title": "CC-4868 - Active Exploitation of Remote Code Execution Vulnerability in Palo Alto Network's PAN-OS",
-          "imageUrl": null
         }
       ]
     },
@@ -2833,16 +2813,6 @@
           "publishedOn": "2026-10-15T14:49:59.000Z",
           "wordCount": 914,
           "title": "Independent report: COVID-19 vaccination in autumn 2026 and spring 2027: JCVI advice, 16 July 2025",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-finance-report-england-2025-to-2026",
-          "author": null,
-          "description": "Official statistics on adult social care finance in councils with adult social services responsibilities, including information on expenditure and income sources across both long and short term care.",
-          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-finance-report-england-2025-to-2026",
-          "publishedOn": "2026-10-15T08:52:35.000Z",
-          "wordCount": 689,
-          "title": "Official Statistics: Adult social care finance report, England: 2025 to 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
