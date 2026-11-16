@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "208d0255-c3ac-4afc-8faf-075a44482e3e",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow an unauthenticated remote attacker to execute commands, bypass authentication or upload arbitrary files. Vulnerabilities could be chained to increase their impact.\n Successful exploitation could allow an unauthenticated remote attacker to execute commands, bypass authentication or upload arbitrary files. Vulnerabilities could be chained to increase their impact.\n Updated: 16 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4894",
+          "publishedOn": "2026-11-16T16:28:00.000Z",
+          "wordCount": null,
+          "title": "CC-4894 - Mitel Releases Security Update for MiCollab",
+          "imageUrl": null
+        },
+        {
           "id": "31ca5c49-d53c-4d18-bbc7-e817f06e42b6",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.\n ConnectWise releases security advisory following abuse of third-party extensions to gain unauthorised access to ScreenConnect.\n Updated: 12 Nov 2026",
@@ -2026,6 +2036,66 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/news/uk-wide-framework-puts-nurses-and-midwives-at-heart-of-prevention",
+          "author": null,
+          "description": "A new UK-wide framework will help nurses, midwives and nursing associates prevent illness, reduce health inequalities and help more people live well for longer.",
+          "link": "https://www.gov.uk/government/news/uk-wide-framework-puts-nurses-and-midwives-at-heart-of-prevention",
+          "publishedOn": "2026-11-16T17:32:57.000Z",
+          "wordCount": 2490,
+          "title": "UK-wide framework puts nurses and midwives at heart of prevention",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-december-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/announcements/uk-clinical-research-delivery-key-performance-indicators-data-to-december-2026",
+          "publishedOn": "2026-11-16T17:13:12.000Z",
+          "wordCount": 670,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to December 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "author": null,
+          "description": "Sets out supporting evidence to supplement the cardiovascular disease modern service framework.",
+          "link": "https://www.gov.uk/government/publications/technical-annex-cardiovascular-disease-modern-service-framework",
+          "publishedOn": "2026-11-16T10:09:14.000Z",
+          "wordCount": 1071,
+          "title": "Research: Technical annex: cardiovascular disease modern service framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/health-bill-supporting-joined-up-local-health-and-care-services-fact-sheet",
+          "author": null,
+          "description": "Explains how the Health Bill will help to join up local health and care services.",
+          "link": "https://www.gov.uk/government/publications/health-bill-supporting-joined-up-local-health-and-care-services-fact-sheet",
+          "publishedOn": "2026-11-16T10:01:18.000Z",
+          "wordCount": 921,
+          "title": "Policy paper: Health Bill: supporting joined-up local health and care services - fact sheet",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/nursing-and-midwifery-public-health-practice-framework",
+          "author": null,
+          "description": "A UK-wide professional framework to strengthen public health practice for nurses, midwives and nursing associates.",
+          "link": "https://www.gov.uk/government/publications/nursing-and-midwifery-public-health-practice-framework",
+          "publishedOn": "2026-11-16T09:30:00.000Z",
+          "wordCount": 1174,
+          "title": "Guidance: Nursing and midwifery public health practice framework",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/deferred-payment-agreements-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the deferred payment agreements (DPAs) that local authorities have arranged with clients to help with the payment of the costs of their care.",
+          "link": "https://www.gov.uk/government/statistics/announcements/deferred-payment-agreements-england-2025-to-2026-report",
+          "publishedOn": "2026-11-16T08:34:04.000Z",
+          "wordCount": 726,
+          "title": "Official Statistics: Deferred payment agreements, England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/speeches/minister-mcgoverns-social-care-speech-at-the-ncasc-conference",
           "author": null,
           "description": "Minister McGovern delivered the keynote speech at the National Children's and Adult's Social Services conference in Liverpool",
@@ -2753,16 +2823,6 @@
           "publishedOn": "2026-10-19T08:08:24.000Z",
           "wordCount": 665,
           "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to October 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/140-million-boost-to-urgent-care-to-ease-winter-pressures-on-nhs",
-          "author": null,
-          "description": "£140 million will fund 14 urgent care schemes, with 25 more sites opening for winter, to boost NHS capacity and ease pressure on A&E.",
-          "link": "https://www.gov.uk/government/news/140-million-boost-to-urgent-care-to-ease-winter-pressures-on-nhs",
-          "publishedOn": "2026-10-17T23:23:38.000Z",
-          "wordCount": 4081,
-          "title": "£140 million boost to urgent care to ease winter pressures on NHS",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
