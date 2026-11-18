@@ -6,6 +6,26 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "b4ab6ba9-d1eb-419c-bb19-a51ea8a33798",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Scheduled advisory includes 655 security updates across multiple Oracle product families\n Scheduled advisory includes 655 security updates across multiple Oracle product families\n Updated: 18 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4896",
+          "publishedOn": "2026-11-18T15:48:00.000Z",
+          "wordCount": null,
+          "title": "CC-4896 - Oracle Releases November 2026 Critical Patch Update Advisory",
+          "imageUrl": null
+        },
+        {
+          "id": "b69e3286-8a73-426c-92a2-a911982f6714",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-114938 could allow unauthenticated RCE against specific OpenJDK and Java SE deployments\n Successful exploitation of CVE-2026-114938 could allow unauthenticated RCE against specific OpenJDK and Java SE deployments\n Updated: 18 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4895",
+          "publishedOn": "2026-11-18T15:47:00.000Z",
+          "wordCount": null,
+          "title": "CC-4895 - Critical Vulnerability 'Java4Shell' affecting Java OpenJDK and Java SE (CVE-2026-114938)",
+          "imageUrl": null
+        },
+        {
           "id": "208d0255-c3ac-4afc-8faf-075a44482e3e",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation could allow an unauthenticated remote attacker to execute commands, bypass authentication or upload arbitrary files. Vulnerabilities could be chained to increase their impact.\n Successful exploitation could allow an unauthenticated remote attacker to execute commands, bypass authentication or upload arbitrary files. Vulnerabilities could be chained to increase their impact.\n Updated: 16 Nov 2026",
@@ -2016,6 +2036,46 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/menb-vaccination-eligible-residential-further-education-settings",
+          "author": null,
+          "description": "List of residential further education settings whose students may be eligible for the one-off MenB vaccination programme.",
+          "link": "https://www.gov.uk/government/publications/menb-vaccination-eligible-residential-further-education-settings",
+          "publishedOn": "2026-11-18T14:11:44.000Z",
+          "wordCount": 984,
+          "title": "Transparency data: MenB vaccination programme: eligible residential further education settings",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-kings-fund",
+          "author": null,
+          "description": "Yvette Cooper announced new Neighbourhood Support Teams to deliver personalised care to country's most vulnerable patients to keep people out of hospital.",
+          "link": "https://www.gov.uk/government/speeches/health-and-social-care-secretary-speech-at-kings-fund",
+          "publishedOn": "2026-11-18T13:10:25.000Z",
+          "wordCount": 6760,
+          "title": "Health and Social Care Secretary speech at King's Fund",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/new-personalised-care-to-keep-18-million-people-out-of-hospital",
+          "author": null,
+          "description": "Neighbourhood support teams announced by Health and Social Care Secretary during King's Fund speech.",
+          "link": "https://www.gov.uk/government/news/new-personalised-care-to-keep-18-million-people-out-of-hospital",
+          "publishedOn": "2026-11-18T12:00:00.000Z",
+          "wordCount": 3413,
+          "title": "New personalised care to keep 1.8 million people out of hospital",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-october-2026",
+          "author": null,
+          "description": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+          "link": "https://www.gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-october-2026",
+          "publishedOn": "2026-11-18T09:30:00.000Z",
+          "wordCount": 1012,
+          "title": "Official Statistics: UK Clinical Research Delivery key performance indicators: data to October 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/homelessness-applying-all-our-health",
           "author": null,
           "description": "Evidence and information for health and care professionals and the wider public health workforce to support people experiencing or at risk of homelessness.",
@@ -2033,6 +2093,16 @@
           "publishedOn": "2026-11-17T14:23:08.000Z",
           "wordCount": 4843,
           "title": "Minister McGovern speech at the Hospice UK conference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/speeches/the-future-of-palliative-and-end-of-life-care",
+          "author": null,
+          "description": "Minister for Social Care and Mental Health, Alison McGovern, delivered the keynote speech at the Hospice UK conference.",
+          "link": "https://www.gov.uk/government/speeches/the-future-of-palliative-and-end-of-life-care",
+          "publishedOn": "2026-11-17T14:23:00.000Z",
+          "wordCount": 4879,
+          "title": "The future of palliative and end-of-life care",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
