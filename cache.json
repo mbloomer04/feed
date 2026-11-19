@@ -6,6 +6,46 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "324b2b56-9e48-4c53-8641-99e35eb33e24",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Updates address 7 critical vulnerabilities. Successful exploitation could allow for the creation of denial-of-service conditions, and in some cases remote code execution.\n Updates address 7 critical vulnerabilities. Successful exploitation could allow for the creation of denial-of-service conditions, and in some cases remote code execution.\n Updated: 19 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4900",
+          "publishedOn": "2026-11-19T16:30:00.000Z",
+          "wordCount": null,
+          "title": "CC-4900 - PHP Releases Updates for Multiple Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "0e069b30-eff9-4de2-b316-847cf1b3eaaf",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: High\n Successful exploitation of CVE-2026-123890 could allow a remote attacker to bypass authentication\n Successful exploitation of CVE-2026-123890 could allow a remote attacker to bypass authentication\n Updated: 19 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4899",
+          "publishedOn": "2026-11-19T16:29:00.000Z",
+          "wordCount": null,
+          "title": "CC-4899 - Critical Zero-Day Vulnerability in VMware vCenter",
+          "imageUrl": null
+        },
+        {
+          "id": "8d3515da-6817-4b5e-8dac-769ed6db12ee",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n The security notification addresses six critical vulnerabilities that could allow an attacker to cause a denial-of-service (DoS) condition or achieve remote code execution (RCE) on the BIG-IP system\n The security notification addresses six critical vulnerabilities that could allow an attacker to cause a denial-of-service (DoS) condition or achieve remote code execution (RCE) on the BIG-IP system\n Updated: 19 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4898",
+          "publishedOn": "2026-11-19T15:38:00.000Z",
+          "wordCount": null,
+          "title": "CC-4898 - F5 Releases Out-of-band Security Notification for Critical Vulnerabilities in BIG-IP",
+          "imageUrl": null
+        },
+        {
+          "id": "524d8a55-4162-4905-97b2-873bac5f3d03",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation could allow an unauthenticated attacker to achieve denial of service or execute arbitrary code\n Successful exploitation could allow an unauthenticated attacker to achieve denial of service or execute arbitrary code\n Updated: 19 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4897",
+          "publishedOn": "2026-11-19T13:31:00.000Z",
+          "wordCount": null,
+          "title": "CC-4897 - F5 Releases Security Advisory for Critical Vulnerabilities in NGINX Open Source and NGINX Plus",
+          "imageUrl": null
+        },
+        {
           "id": "b4ab6ba9-d1eb-419c-bb19-a51ea8a33798",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Scheduled advisory includes 655 security updates across multiple Oracle product families\n Scheduled advisory includes 655 security updates across multiple Oracle product families\n Updated: 18 Nov 2026",
@@ -2025,6 +2065,106 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-february-2027",
+          "author": null,
+          "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-february-2027",
+          "publishedOn": "2026-11-19T15:28:17.000Z",
+          "wordCount": 763,
+          "title": "Official Statistics: Adult social care provider statistics, England: quarterly update to February 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-changes-for-april-2027",
+          "author": null,
+          "description": "Seeks views on proposed technical changes to the NHS Pension Scheme regulations from April 2027.",
+          "link": "https://www.gov.uk/government/consultations/nhs-pension-scheme-proposed-changes-for-april-2027",
+          "publishedOn": "2026-11-19T14:00:00.000Z",
+          "wordCount": 1075,
+          "title": "NHS Pension Scheme: proposed changes for April 2027",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-november-2026",
+          "author": null,
+          "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings. This release will not contain statistics relating to the 2026 to 2027 flu vaccination campaign in adult social care settings - these will be published after the campaign ends.",
+          "link": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-november-2026",
+          "publishedOn": "2026-11-19T13:11:02.000Z",
+          "wordCount": 850,
+          "title": "Official Statistics: Adult social care provider statistics, England: quarterly update to November 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/nhs-constitution-for-england-survey-of-effectiveness-easy-read",
+          "author": null,
+          "description": "We want to know what you think about the NHS Constitution for England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/nhs-constitution-for-england-survey-of-effectiveness-easy-read",
+          "publishedOn": "2026-11-19T11:00:08.000Z",
+          "wordCount": 1093,
+          "title": "NHS Constitution for England: survey of effectiveness (easy read)",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/calls-for-evidence/nhs-constitution-for-england-survey-of-effectiveness",
+          "author": null,
+          "description": "We are seeking personal or professional views on your awareness, usage and sentiment towards the NHS Constitution for England.",
+          "link": "https://www.gov.uk/government/calls-for-evidence/nhs-constitution-for-england-survey-of-effectiveness",
+          "publishedOn": "2026-11-19T11:00:08.000Z",
+          "wordCount": 1245,
+          "title": "NHS Constitution for England: survey of effectiveness",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/new-mens-health-ambassador-to-help-improve-mens-health",
+          "author": null,
+          "description": "Government launches search for first Men’s Health Ambassador, new local guidance and suicide prevention funding.",
+          "link": "https://www.gov.uk/government/news/new-mens-health-ambassador-to-help-improve-mens-health",
+          "publishedOn": "2026-11-19T09:46:00.000Z",
+          "wordCount": 3242,
+          "title": "New Men’s Health Ambassador to help improve men’s health",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/deferred-payment-agreements-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on the deferred payment agreements (DPAs) that local authorities have arranged with clients to help with the payment of the costs of their care.",
+          "link": "https://www.gov.uk/government/statistics/deferred-payment-agreements-england-2025-to-2026-report",
+          "publishedOn": "2026-11-19T09:30:10.000Z",
+          "wordCount": 1177,
+          "title": "Official Statistics: Deferred payment agreements, England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/boys-and-mens-engagement-with-health-programmes",
+          "author": null,
+          "description": "A rapid mapping review of available evidence on barriers and opportunities to boys' and men's engagement in health programmes.",
+          "link": "https://www.gov.uk/government/publications/boys-and-mens-engagement-with-health-programmes",
+          "publishedOn": "2026-11-19T09:00:04.000Z",
+          "wordCount": 1111,
+          "title": "Research: Boys' and men's engagement with health programmes",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/mens-health-strategy-one-year-on-report",
+          "author": null,
+          "description": "Details progress made one year on from publication of the Men's Health Strategy and steps the government is taking to build on the strategy.",
+          "link": "https://www.gov.uk/government/publications/mens-health-strategy-one-year-on-report",
+          "publishedOn": "2026-11-19T09:00:04.000Z",
+          "wordCount": 914,
+          "title": "Policy paper: Men's Health Strategy: one year on report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/mens-health-strategy-guidance-for-local-implementation",
+          "author": null,
+          "description": "Non-statutory guidance to support local system partners to implement the Men’s Health Strategy.",
+          "link": "https://www.gov.uk/government/publications/mens-health-strategy-guidance-for-local-implementation",
+          "publishedOn": "2026-11-19T09:00:04.000Z",
+          "wordCount": 884,
+          "title": "Guidance: Men's Health Strategy: guidance for local implementation",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/news/new-champion-to-give-unpaid-carers-a-stronger-voice",
           "author": null,
