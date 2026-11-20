@@ -244,26 +244,6 @@
           "wordCount": null,
           "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
           "imageUrl": null
-        },
-        {
-          "id": "06037c53-721a-4312-ae9f-d7715fc77e86",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Scheduled advisory includes 1,295 security updates across multiple Oracle product families\n Updated: 21 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4876",
-          "publishedOn": "2026-10-21T15:00:00.000Z",
-          "wordCount": null,
-          "title": "CC-4876 - Oracle Releases October 2026 Critical Patch Update Advisory",
-          "imageUrl": null
-        },
-        {
-          "id": "03e4542e-1fe1-4a0b-bf28-0cf98254d002",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: High\n Successful exploitation of CVE-2026-109618 and CVE-2026-109619 could allow an unauthenticated attacker to execute code remotely or access sensitive memory\n Successful exploitation of CVE-2026-109618 and CVE-2026-109619 could allow an unauthenticated attacker to execute code remotely or access sensitive memory\n Updated: 21 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4875",
-          "publishedOn": "2026-10-21T14:51:00.000Z",
-          "wordCount": null,
-          "title": "CC-4875 - Critical Vulnerabilities in PHP (PHP2Shell)",
-          "imageUrl": null
         }
       ]
     },
@@ -2893,16 +2873,6 @@
           "publishedOn": "2026-10-22T08:30:07.000Z",
           "wordCount": 1247,
           "title": "Official Statistics: Adult social care finance report, England: 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
-          "author": null,
-          "description": "Statistics and commentary on abortions carried out in 2024.",
-          "link": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
-          "publishedOn": "2026-10-21T14:09:02.000Z",
-          "wordCount": 621,
-          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2024",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
