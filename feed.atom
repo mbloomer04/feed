@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-20T07:55:23.783Z</updated>
+    <updated>2026-11-20T16:31:41.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Official Statistics: Suicide rates in men aged 40 to 59 years, England: 2021 to 2025]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/suicide-rates-in-men-aged-40-to-59-years-england-2021-to-2025</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/suicide-rates-in-men-aged-40-to-59-years-england-2021-to-2025"/>
+        <updated>2026-11-20T15:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Ad hoc official statistics on deaths by suicide registered between 2021 to 2025 in men aged 40 to 59 years for upper tier local authorities in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CC-4901 - Ruby Releases Security Advisories Addressing Critical Vulnerabilities]]></title>
+        <id>50c204f1-7bab-4a87-bed9-4e11dd3cf4c1</id>
+        <link href="https://digital.nhs.uk/cyber-alerts/2026/cc-4901"/>
+        <updated>2026-11-20T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Severity: Medium
+ Security advisories address seven vulnerabilities including three of critical severity that could allow an unauthenticated attacker to achieve remote code execution
+ Security advisories address seven vulnerabilities including three of critical severity that could allow an unauthenticated attacker to achieve remote code execution
+ Updated: 20 Nov 2026]]></summary>
+        <author>
+            <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance: Artificial intelligence (AI) in social care]]></title>
+        <id>https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care</id>
+        <link href="https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care"/>
+        <updated>2026-11-20T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Non-statutory guidance on the use of artificial intelligence in children’s and adults’ social care in England.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New AI guidance to cut paperwork and free more time for care]]></title>
+        <id>https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care</id>
+        <link href="https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care"/>
+        <updated>2026-11-20T09:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Drive for artificial intelligence in social care, as guidance sets out how more social care services can harness digital tools to support care]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CC-4900 - PHP Releases Updates for Multiple Vulnerabilities]]></title>
         <id>324b2b56-9e48-4c53-8641-99e35eb33e24</id>
@@ -192,6 +235,16 @@
  Updated: 18 Nov 2026]]></summary>
         <author>
             <name>enquiries@nhsdigital.nhs.uk (NHS Digital)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accredited official statistics: Abortion statistics for England and Wales: 2024]]></title>
+        <id>https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024</id>
+        <link href="https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024"/>
+        <updated>2026-11-18T14:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Statistics and commentary on abortions carried out in 2024.]]></summary>
+        <author>
+            <name>Department of Health and Social Care - Activity on GOV.UK</name>
         </author>
     </entry>
     <entry>

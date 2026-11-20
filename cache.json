@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "50c204f1-7bab-4a87-bed9-4e11dd3cf4c1",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Security advisories address seven vulnerabilities including three of critical severity that could allow an unauthenticated attacker to achieve remote code execution\n Security advisories address seven vulnerabilities including three of critical severity that could allow an unauthenticated attacker to achieve remote code execution\n Updated: 20 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4901",
+          "publishedOn": "2026-11-20T12:40:00.000Z",
+          "wordCount": null,
+          "title": "CC-4901 - Ruby Releases Security Advisories Addressing Critical Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "324b2b56-9e48-4c53-8641-99e35eb33e24",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Updates address 7 critical vulnerabilities. Successful exploitation could allow for the creation of denial-of-service conditions, and in some cases remote code execution.\n Updates address 7 critical vulnerabilities. Successful exploitation could allow for the creation of denial-of-service conditions, and in some cases remote code execution.\n Updated: 19 Nov 2026",
@@ -2046,6 +2056,36 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/statistics/announcements/suicide-rates-in-men-aged-40-to-59-years-england-2021-to-2025",
+          "author": null,
+          "description": "Ad hoc official statistics on deaths by suicide registered between 2021 to 2025 in men aged 40 to 59 years for upper tier local authorities in England.",
+          "link": "https://www.gov.uk/government/statistics/announcements/suicide-rates-in-men-aged-40-to-59-years-england-2021-to-2025",
+          "publishedOn": "2026-11-20T15:34:42.000Z",
+          "wordCount": 699,
+          "title": "Official Statistics: Suicide rates in men aged 40 to 59 years, England: 2021 to 2025",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+          "author": null,
+          "description": "Non-statutory guidance on the use of artificial intelligence in children’s and adults’ social care in England.",
+          "link": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+          "publishedOn": "2026-11-20T10:00:01.000Z",
+          "wordCount": 971,
+          "title": "Guidance: Artificial intelligence (AI) in social care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+          "author": null,
+          "description": "Drive for artificial intelligence in social care, as guidance sets out how more social care services can harness digital tools to support care",
+          "link": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+          "publishedOn": "2026-11-20T09:57:29.000Z",
+          "wordCount": 2246,
+          "title": "New AI guidance to cut paperwork and free more time for care",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/announcements/adult-social-care-provider-statistics-england-quarterly-update-to-february-2027",
           "author": null,
           "description": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
@@ -2153,6 +2193,16 @@
           "publishedOn": "2026-11-18T19:20:10.000Z",
           "wordCount": 2980,
           "title": "New Champion to give unpaid carers a stronger voice",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
+          "author": null,
+          "description": "Statistics and commentary on abortions carried out in 2024.",
+          "link": "https://www.gov.uk/government/statistics/announcements/abortion-statistics-for-england-and-wales-2024",
+          "publishedOn": "2026-11-18T14:21:06.000Z",
+          "wordCount": 687,
+          "title": "Accredited official statistics: Abortion statistics for England and Wales: 2024",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         },
         {
