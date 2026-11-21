@@ -234,26 +234,6 @@
           "wordCount": null,
           "title": "CC-4879 - Fortinet Releases Security Hardening Release for Multiple Products",
           "imageUrl": null
-        },
-        {
-          "id": "0d1eca43-7c42-4919-b0a6-f0013914a051",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n The critical advisory addresses multiple vulnerability classes affecting multiple Cisco products\n Updated: 22 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4878",
-          "publishedOn": "2026-10-22T13:44:00.000Z",
-          "wordCount": null,
-          "title": "CC-4878 - Cisco Releases Security Hardening Guidance for Multiple Cisco Products",
-          "imageUrl": null
-        },
-        {
-          "id": "799fa853-6dc5-466f-b9eb-62e7ee76d674",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Critical advisory addresses multiple vulnerability classes affecting Cisco Unified Communications products\n Critical advisory addresses multiple vulnerability classes affecting Cisco Unified Communications products\n Updated: 22 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4877",
-          "publishedOn": "2026-10-22T13:41:00.000Z",
-          "wordCount": null,
-          "title": "CC-4877 - Cisco Releases Security Hardening Update for Unified Communications Products",
-          "imageUrl": null
         }
       ]
     },
@@ -1979,6 +1959,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=295944",
+          "author": "rwootton",
+          "description": "The NHS is urging adults aged 40 and over to take up their free NHS Health Check, as new figures reveal a more than three quarter rise in emergency hospital admissions for high blood pressure since before the pandemic.  NHS analysis shows emergency admissions rose from 24,481 in 2019/20 to 43,306 in 2025/26 – up […]",
+          "link": "https://www.england.nhs.uk/2026/11/nhs-urges-over-40s-to-know-their-numbers-amid-alarming-rise-in-high-blood-pressure-emergencies/",
+          "publishedOn": "2026-11-21T00:01:33.000Z",
+          "wordCount": null,
+          "title": "NHS urges over 40s to know their numbers amid “alarming” rise in high blood pressure emergencies",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=295453",
           "author": "jboshell",
           "description": "An NHS spokesperson said:  “With the global Microsoft issue inevitably having a disruptive impact for staff, local NHS services are enacting long-standing measures to manage IT outages and ensure critical services and appointments can continue for patients today – including using other IT systems or paper records where possible. “Patients should continue to use 999 […]",
@@ -2873,26 +2863,6 @@
           "publishedOn": "2026-10-22T16:16:59.000Z",
           "wordCount": 948,
           "title": "Policy paper: Health Bill: summary - fact sheet",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/social-media-campaign-urges-brits-to-get-vaccinated-for-winter",
-          "author": null,
-          "description": "Government launches a social media campaign to promote a new NHS App feature which helps people check their eligibility and book their flu vaccination",
-          "link": "https://www.gov.uk/government/news/social-media-campaign-urges-brits-to-get-vaccinated-for-winter",
-          "publishedOn": "2026-10-22T14:29:08.000Z",
-          "wordCount": 5454,
-          "title": "Social media campaign urges Brits to get vaccinated for winter",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/nhs-pension-board-annual-report-2024-to-2025",
-          "author": null,
-          "description": "Sets out the work of the NHS Pension Board from April 2024 to March 2025.",
-          "link": "https://www.gov.uk/government/publications/nhs-pension-board-annual-report-2024-to-2025",
-          "publishedOn": "2026-10-22T14:07:23.000Z",
-          "wordCount": 856,
-          "title": "Independent report: NHS Pension Board annual report: 2024 to 2025",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
