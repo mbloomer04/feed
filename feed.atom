@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-22T20:07:00.910Z</updated>
+    <updated>2026-11-23T01:16:29.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First women join world-leading AI-assisted NHS breast screening trial]]></title>
+        <id>https://www.england.nhs.uk/?p=295953</id>
+        <link href="https://www.england.nhs.uk/2026/11/first-women-join-world-leading-ai-assisted-nhs-breast-screening-trial/"/>
+        <updated>2026-11-23T00:01:39.000Z</updated>
+        <summary type="html"><![CDATA[The NHS has started inviting hundreds of women to the world’s largest artificial intelligence (AI) assisted breast screening trial, using technology that has the potential to transform breast cancer diagnosis. Nearly 700,000 women attending routine NHS breast screening over the next 3 years are set to take part in the trial to see if AI-assisted […]]]></summary>
+        <author>
+            <name>rwootton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHS urges over 40s to know their numbers amid “alarming” rise in high blood pressure emergencies]]></title>
         <id>https://www.england.nhs.uk/?p=295944</id>
