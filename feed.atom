@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mbloomer04.github.io/feed/index.html</id>
     <title>Industry Feed</title>
-    <updated>2026-11-23T22:19:52.035Z</updated>
+    <updated>2026-11-24T06:37:05.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mbloomer04.github.io/feed/index.html"/>
     <link rel="self" href="https://mbloomer04.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHS rolls out new staff training to crack down on snooping]]></title>
+        <id>https://www.england.nhs.uk/?p=295994</id>
+        <link href="https://www.england.nhs.uk/2026/11/nhs-rolls-out-new-staff-training-to-crack-down-on-snooping/"/>
+        <updated>2026-11-24T00:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of thousands of NHS staff will be warned they risk losing their jobs if they snoop on patient records in updated training being rolled out across the health service from this week. The NHS has introduced a zero-tolerance crackdown on staff who inappropriately and unjustifiably access confidential patient information following a string of cases […]]]></summary>
+        <author>
+            <name>jboshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second wave of Gaza children arrive for specialist NHS treatment]]></title>
         <id>https://www.gov.uk/government/news/second-wave-of-gaza-children-arrive-for-specialist-nhs-treatment</id>
