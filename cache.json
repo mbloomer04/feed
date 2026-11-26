@@ -6,6 +6,16 @@
       "siteUrl": "https://digital.nhs.uk/",
       "articles": [
         {
+          "id": "93034134-2b41-4c63-9608-e617ae36488c",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Severity: Medium\n Successful exploitation of CVE-2026-136716 could allow a remote attacker to bypass authentication\n Successful exploitation of CVE-2026-136716 could allow a remote attacker to bypass authentication\n Updated: 26 Nov 2026",
+          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4905",
+          "publishedOn": "2026-11-26T13:34:00.000Z",
+          "wordCount": null,
+          "title": "CC-4905 - Active Exploitation of Critical Vulnerability in Drupal Core",
+          "imageUrl": null
+        },
+        {
           "id": "d3324e76-ab6e-49a0-a690-e9e93d711edc",
           "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
           "description": "Severity: Medium\n Successful exploitation of CVE-2026-132165 could allow an unauthenticated attacker to achieve remote code execution in specific conditions\n Successful exploitation of CVE-2026-132165 could allow an unauthenticated attacker to achieve remote code execution in specific conditions\n Updated: 25 Nov 2026",
@@ -2067,6 +2077,76 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-june-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-june-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 751,
+          "title": "Transparency data: DHSC: spending over £25,000, June 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-may-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-may-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 751,
+          "title": "Transparency data: DHSC: spending over £25,000, May 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-october-2026",
+          "author": null,
+          "description": "Reports on departmental staff numbers and costs.",
+          "link": "https://www.gov.uk/government/publications/dhsc-workforce-management-information-october-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 773,
+          "title": "Transparency data: DHSC: workforce management information October 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-august-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-august-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 751,
+          "title": "Transparency data: DHSC: spending over £25,000, August 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-500-october-2026",
+          "author": null,
+          "description": "Department of Health and Social Care spending by electronic purchasing card solution (ePCS), over £500.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-500-october-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 829,
+          "title": "Transparency data: DHSC: spending over £500, October 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-july-2026",
+          "author": null,
+          "description": "Reports on departmental spending over £25,000.",
+          "link": "https://www.gov.uk/government/publications/dhsc-spending-over-25000-july-2026",
+          "publishedOn": "2026-11-26T16:00:01.000Z",
+          "wordCount": 751,
+          "title": "Transparency data: DHSC: spending over £25,000, July 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/speeches/minister-smyth-speech-at-the-nhs-alliance-autumn-conference",
+          "author": null,
+          "description": "The Minister of State for Health made a speech at the NHS Alliance Autumn conference, the theme of which was Turning Ambition Into Action.",
+          "link": "https://www.gov.uk/government/speeches/minister-smyth-speech-at-the-nhs-alliance-autumn-conference",
+          "publishedOn": "2026-11-26T13:53:23.000Z",
+          "wordCount": 4059,
+          "title": "Minister Smyth speech at the NHS Alliance Autumn Conference",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/statistics/safeguarding-adults-england-2025-to-2026-report",
           "author": null,
           "description": "Official statistics on adult safeguarding concerns that were raised and where enquiries took place during 2025 to 2026 in England.",
@@ -2854,16 +2934,6 @@
           "publishedOn": "2026-10-28T12:13:47.000Z",
           "wordCount": 736,
           "title": "Official Statistics: Adult social care activity report, England: 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/infection-prevention-and-control-ipc-in-adult-social-care-asc",
-          "author": null,
-          "description": "Guidance for all ASC settings, including care homes, supported living, day services and domiciliary care.",
-          "link": "https://www.gov.uk/government/publications/infection-prevention-and-control-ipc-in-adult-social-care-asc",
-          "publishedOn": "2026-10-28T09:30:03.000Z",
-          "wordCount": 1127,
-          "title": "Guidance: Infection prevention and control (IPC) in adult social care (ASC)",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
