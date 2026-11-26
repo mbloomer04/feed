@@ -1921,7 +1921,18 @@
       "title": "All Blog Feed",
       "feedUrl": "https://digital.nhs.uk/feed/all-blog-feed.xml",
       "siteUrl": "https://digital.nhs.uk/",
-      "articles": []
+      "articles": [
+        {
+          "id": "c9f8a2bb-e1ca-4cdd-8d48-fe31638b9a63",
+          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
+          "description": "Professor Matthew Sydes, Head of Data-Driven Clinical Trials and Cohorts at NHS England is co-author of new research, which finds that ensuring researchers can analyse data as though it were held in a single location is a key step to faster and more efficient clinical trials. He explains why it is important for the NHS Research Secure Data Environment Network to work towards the expansion of innovative techniques and technologies.",
+          "link": "https://digital.nhs.uk/data-and-information/research-powered-by-data/life-saving-research/blogs/why-linking-data-effectively-is-crucial-for-analysing-clinical-trial-outcomes",
+          "publishedOn": "2026-11-26T11:32:17.000Z",
+          "wordCount": null,
+          "title": "Why linking data effectively is crucial for analysing clinical trial outcomes",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Transformation Blog Feed",
@@ -2055,6 +2066,26 @@
       "feedUrl": "http://www.dh.gov.uk/en/Rss/Rss?Feed=DH_076655",
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
+        {
+          "id": "https://www.gov.uk/government/statistics/safeguarding-adults-england-2025-to-2026-report",
+          "author": null,
+          "description": "Official statistics on adult safeguarding concerns that were raised and where enquiries took place during 2025 to 2026 in England.",
+          "link": "https://www.gov.uk/government/statistics/safeguarding-adults-england-2025-to-2026-report",
+          "publishedOn": "2026-11-26T09:30:11.000Z",
+          "wordCount": 1205,
+          "title": "Official Statistics: Safeguarding adults, England: 2025 to 2026 report",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/publications/market-sustainability-and-improvement-fund-2026-to-2027-care-provider-fees",
+          "author": null,
+          "description": "Data and analysis of fees paid to care providers by local authorities, reported as part of the Market Sustainability and Improvement Fund.",
+          "link": "https://www.gov.uk/government/publications/market-sustainability-and-improvement-fund-2026-to-2027-care-provider-fees",
+          "publishedOn": "2026-11-26T09:30:09.000Z",
+          "wordCount": 1301,
+          "title": "Research: Market Sustainability and Improvement Fund 2026 to 2027: care provider fees",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
         {
           "id": "https://www.gov.uk/government/statistics/adult-social-care-finance-report-england-2025-to-2026",
           "author": null,
@@ -2833,26 +2864,6 @@
           "publishedOn": "2026-10-28T09:30:03.000Z",
           "wordCount": 1127,
           "title": "Guidance: Infection prevention and control (IPC) in adult social care (ASC)",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
-          "author": null,
-          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
-          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
-          "publishedOn": "2026-10-27T15:47:18.000Z",
-          "wordCount": 14409,
-          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/childrens-public-health-nursing-workforce-and-activity-2025",
-          "author": null,
-          "description": "Official statistics in development on healthy child programme activity, school nursing services and associated workforces in England in 2025.",
-          "link": "https://www.gov.uk/government/statistics/childrens-public-health-nursing-workforce-and-activity-2025",
-          "publishedOn": "2026-10-27T15:33:41.000Z",
-          "wordCount": 1425,
-          "title": "Official Statistics: Children’s public health nursing: workforce and activity, 2025",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
