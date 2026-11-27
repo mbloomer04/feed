@@ -2077,6 +2077,26 @@
       "siteUrl": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
       "articles": [
         {
+          "id": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "author": null,
+          "description": "Sets out medicines that can be moved to Northern Ireland to meet patient need.",
+          "link": "https://www.gov.uk/government/publications/medicines-eligible-for-northern-ireland-mhra-authorised-route",
+          "publishedOn": "2026-11-27T16:39:56.000Z",
+          "wordCount": 14444,
+          "title": "Guidance: Medicines eligible for Northern Ireland MHRA Authorised Route",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
+          "id": "https://www.gov.uk/government/statistics/announcements/medicine-supply-disruption-statistics-uk-data-to-december-2026",
+          "author": null,
+          "description": "Twice-yearly official statistics on medicine supply issue and discontinuation notifications reported to the Department of Health and Social Care by pharmaceutical suppliers.",
+          "link": "https://www.gov.uk/government/statistics/announcements/medicine-supply-disruption-statistics-uk-data-to-december-2026",
+          "publishedOn": "2026-11-27T16:20:19.000Z",
+          "wordCount": 667,
+          "title": "Official Statistics: Medicine supply disruption statistics, UK: data to December 2026",
+          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+        },
+        {
           "id": "https://www.gov.uk/government/publications/healthy-start-extension-application-guidance",
           "author": null,
           "description": "Sets out who is eligible to apply for the Healthy Start scheme under the extended criteria, and how to apply.",
@@ -2894,56 +2914,6 @@
           "publishedOn": "2026-10-29T12:36:57.000Z",
           "wordCount": 1528,
           "title": "Under-18 sales ban on nicotine products and all vapes",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework",
-          "author": null,
-          "description": "Seeking views on updating the School Food Standards, so that every school is supported with the latest nutrition guidance.",
-          "link": "https://www.gov.uk/government/consultations/school-food-standards-updating-the-legislative-framework",
-          "publishedOn": "2026-10-29T10:56:24.000Z",
-          "wordCount": 1263,
-          "title": "School Food Standards: updating the legislative framework",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings",
-          "author": null,
-          "description": "Report of research that tested and contributed to the development of new school food standards in England.",
-          "link": "https://www.gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings",
-          "publishedOn": "2026-10-29T10:00:03.000Z",
-          "wordCount": 1265,
-          "title": "Research: Updating the school food standards: feasibility pilot findings",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis",
-          "author": null,
-          "description": "Example primary and secondary school lunch menus that meet the updated school food standards, with nutrient analysis to show their nutritional effect.",
-          "link": "https://www.gov.uk/government/publications/school-food-standards-2027-example-menus-and-nutrient-analysis",
-          "publishedOn": "2026-10-29T10:00:03.000Z",
-          "wordCount": 949,
-          "title": "Guidance: School food standards 2027: example menus and nutrient analysis",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes",
-          "author": null,
-          "description": "Government implements new restrictions on the sale and promotion of vapes and nicotine products across the UK",
-          "link": "https://www.gov.uk/government/news/under-18-sales-ban-extended-to-nicotine-products-and-all-vapes",
-          "publishedOn": "2026-10-29T09:52:33.000Z",
-          "wordCount": 2304,
-          "title": "Under-18 sales ban extended to nicotine products and all vapes",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026",
-          "author": null,
-          "description": "Official statistics on the outcomes and experiences of users aged 18 and over in receipt of long-term adult social care services in England.",
-          "link": "https://www.gov.uk/government/statistics/adult-social-care-survey-report-england-2025-to-2026",
-          "publishedOn": "2026-10-29T09:30:06.000Z",
-          "wordCount": 1469,
-          "title": "Official Statistics: Adult social care survey report, England: 2025 to 2026",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
