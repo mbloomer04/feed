@@ -224,26 +224,6 @@
           "wordCount": null,
           "title": "CC-4884 - WordPress Releases Security Update Addressing Multiple Vulnerabilities",
           "imageUrl": null
-        },
-        {
-          "id": "524e73f1-0e50-403f-87eb-5cb425edc2a5",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Successful exploitation of CVE-2026-76418 could allow an unauthenticated remote attacker to reload affected devices, resulting in denial of service\n Updated: 29 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4883",
-          "publishedOn": "2026-10-29T13:33:00.000Z",
-          "wordCount": null,
-          "title": "CC-4883 - Cisco Releases Security Updates for Secure Firewall ASA and FTD",
-          "imageUrl": null
-        },
-        {
-          "id": "5c278cfb-5d7c-4be2-ade1-54569a1eb642",
-          "author": "enquiries@nhsdigital.nhs.uk (NHS Digital)",
-          "description": "Severity: Medium\n Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)\n Successful exploitation could lead to memory disclosure, denial-of-service (DoS), or remote code execution (RCE)\n Updated: 29 Oct 2026",
-          "link": "https://digital.nhs.uk/cyber-alerts/2026/cc-4882",
-          "publishedOn": "2026-10-29T13:07:00.000Z",
-          "wordCount": null,
-          "title": "CC-4882 - Multiple Security Vendors Release Security Updates for Node2Shell Vulnerability (CVE-2026-111497)",
-          "imageUrl": null
         }
       ]
     },
@@ -1980,6 +1960,16 @@
       "siteUrl": "https://www.england.nhs.uk",
       "articles": [
         {
+          "id": "https://www.england.nhs.uk/?p=296176",
+          "author": "Tom W",
+          "description": "Thousands of children who missed their flu vaccine in school can catch up on vital protection at local pharmacies for the first time. The NHS’s top doctor has urged parents of children who did not get a flu vaccine at school to book convenient appointments at high street pharmacies, available for the first time from […]",
+          "link": "https://www.england.nhs.uk/2026/11/parents-use-pharmacies-childrens-flu-vaccines/",
+          "publishedOn": "2026-11-28T00:01:39.000Z",
+          "wordCount": null,
+          "title": "Parents urged to use high street pharmacies to catch up on children’s flu vaccines",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.england.nhs.uk/?p=295994",
           "author": "jboshell",
           "description": "Hundreds of thousands of NHS staff will be warned they risk losing their jobs if they snoop on patient records in updated training being rolled out across the health service from this week. The NHS has introduced a zero-tolerance crackdown on staff who inappropriately and unjustifiably access confidential patient information following a string of cases […]",
@@ -2864,56 +2854,6 @@
           "publishedOn": "2026-10-30T00:15:05.000Z",
           "wordCount": 3486,
           "title": "Government steps up action on breast cancer",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
-          "author": null,
-          "description": "Guidance for GP practices, hospitals, hospices and medical examiner offices on how to order MCCDs and what to do with completed MCCDs.",
-          "link": "https://www.gov.uk/guidance/ordering-and-retaining-medical-certificates-of-cause-of-death-mccds",
-          "publishedOn": "2026-10-29T17:17:00.000Z",
-          "wordCount": 2411,
-          "title": "Ordering and retaining medical certificates of cause of death (MCCDs)",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-register-of-senior-civil-servants-secondary-paid-employment-2025-to-2026",
-          "author": null,
-          "description": "Register of any paid outside employment held by members of the Senior Civil Service at DHSC during the 2025 to 2026 financial year.",
-          "link": "https://www.gov.uk/government/publications/dhsc-register-of-senior-civil-servants-secondary-paid-employment-2025-to-2026",
-          "publishedOn": "2026-10-29T16:00:07.000Z",
-          "wordCount": 892,
-          "title": "Transparency data: DHSC: register of senior civil servants' secondary paid employment, 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/dhsc-annual-report-and-accounts-2025-to-2026",
-          "author": null,
-          "description": "How the Department of Health and Social Care has funded its activities and used its resources during the financial year 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/dhsc-annual-report-and-accounts-2025-to-2026",
-          "publishedOn": "2026-10-29T13:20:00.000Z",
-          "wordCount": 1114,
-          "title": "Corporate report: DHSC annual report and accounts: 2025 to 2026",
-          "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "id": "https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026",
-          "author": null,
-          "description": "Loans and public dividend capital provided by the Secretary of State for Health and Social Care to NHS trusts and foundation trusts during 2025 to 2026.",
-          "link": "https://www.gov.uk/government/publications/financial-assistance-to-nhs-trusts-and-foundation-trusts-2025-to-2026",
-          "publishedOn": "2026-10-29T13:20:00.000Z",
-          "wordCount": null,
-          "title": "Corporate report: Financial assistance to NHS trusts and foundation trusts: 2025 to 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes",
-          "author": null,
-          "description": "Chief Medical Officer responds to restrictions on the sale and promotion of vapes and nicotine products",
-          "link": "https://www.gov.uk/government/speeches/under-18-sales-ban-on-nicotine-products-and-all-vapes",
-          "publishedOn": "2026-10-29T12:36:57.000Z",
-          "wordCount": 1528,
-          "title": "Under-18 sales ban on nicotine products and all vapes",
           "imageUrl": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
         }
       ]
